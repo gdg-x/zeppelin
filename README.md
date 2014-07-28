@@ -7,7 +7,7 @@ Project is builded on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware
 
 Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
-### Live demo http://gdg-ukraine.github.io/devfest-2014/
+### Live demo http://gdg-x.github.io/zeppelin/
 
 ### Features
 * Easy to setup
@@ -18,12 +18,12 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 
 ### Quick-start guide
-1. [Fork](https://github.com/GDG-Ukraine/devfest-2014/fork) this repo
+1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
 2. Clone locally
 3. Update ```_config.yml``` 
 4. Select what content blocks do you need
 5. Push changes to ```gh-pages``` branch
-6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/devfest-2014/```
+6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
 
 
 ## Local development
@@ -33,7 +33,7 @@ Check if you have [all requirments for local environment](http://jekyllrb.com/do
 ```bash
     jekyll serve -w
 ```
-Site will be available at http://127.0.0.1:4000/devfest-2014/
+Site will be available at http://127.0.0.1:4000/zeppelin/
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
@@ -51,10 +51,10 @@ To minify CSS and JS run `minify_all.bat` from `/automation/minifying/` folder:
     minify_all.bat
 ```
 
-Learn more about available optimization options from [documentation](https://github.com/GDG-Ukraine/devfest-2014/wiki/Resources-optimizations).
+Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
 
 ### Documentation
-Quick-start guide is not enough? Checkout [full documentation](https://github.com/GDG-Ukraine/devfest-2014/wiki).
+Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
 
 
 ### TODO List
@@ -83,6 +83,6 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * Idea and Jekyll integration: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
 
 ### Licence
-Project is published under the [MIT licence](https://github.com/GDG-Ukraine/devfest-2014/blob/gh-pages/LICENSE.txt). Feel free to clone and modify repo as you want, but don'y forget to add reference to authors :)
+Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don'y forget to add reference to authors :)
 
 
