@@ -1,0 +1,45 @@
+<!-- Begin Speakers List 2-->
+<section id="speakers">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for speaker in site.data.speakers %}
+            <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
+                <div class="team-item animated waves-element waves-block waves-light hiding increment-animation" data-animation="fadeInUp" data-delay="50" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                    <figure class="flow-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
+                        <div class="overlay"></div>
+                        {% if speaker.ribbon != null %}
+                        <ul class="speaker-ribbon-wrapper">
+                            {% for ribbon in speaker.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="speaker-ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="speaker-ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ speaker.company }}</span>
+                            </div>
+                            {% for social in speaker.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                        <p class="bio">{{ speaker.bio | strip_html }}</p>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise" style="margin-top: 25px;">
+               <a class="bottom-section-link" href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
+        </span>        
+    </div>
+</section>
+<!-- End Speakers List 2 -->

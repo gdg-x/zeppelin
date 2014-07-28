@@ -1,0 +1,71 @@
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site settings
+title: GDG DevFest Season 2014
+email: lviv@gdg.org.ua
+description: "GDG DevFest is a set of events all around the world"
+baseurl: "/zeppelin"
+url: "http://gdg-ukraine.github.io"
+permalink: /blog/:title
+googleAnalyticsTrackingId: "UA-43643469-3"
+googleAnalyticsSiteUrl: "gdg-ukraine.github.io"
+
+# Location block
+eventLocationName: "Conference Hall"
+eventLocationAddress: "22 Teatral'na St, Lviv"
+eventStartTime: "2014-10-18T10:00"
+eventStartTimeHumanReadable: "10:00"
+eventEndTime: "2014-10-18T20:00"
+eventEndTimeHumanReadable: "20:00"
+eventPlaceCoordinates: "49.843237,24.028751"
+mapCenterCoordinates: "49.842537,24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
+
+# Logistics Location Block
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+
+#Tweets feed
+twitterHashTag: "devfest"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+
+# Subscribe
+subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+
+# Documents
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+# Head
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+twitterAccount: "@DevFest"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Header
+eventDate: "September - November, 2014"
+typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+
+# About Event Block
+eventName: "GDG DevFest"
+
+# Team Block
+aboutUs: Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences.
+
+# Speakers List Block
+showSessions: true
+thumbnailsFolder: /img/speakers/
+
+# Footer
+gplusFollowUsUrl: "https://plus.google.com/b/102444623953913144164"
+twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGLviv"
+fbFollowUsUrl: "https://facebook.com/GDGLviv"
+
+# Blog
+blogCommentsEnabled: true
+discusShortName: "devfestua"

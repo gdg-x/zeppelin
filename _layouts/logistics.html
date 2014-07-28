@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Blog">
+
+{% include head.html %}
+
+<body>
+    <div id="preloader">
+        <div class="loader-gplus"></div>
+    </div>
+
+    <div id="st-container" class="st-container">
+        <div class="st-pusher">
+            <div class="st-content">
+
+                {{ content }} {% include footer.html %}
+
+            </div>
+        </div>
+    </div>
+
+    {% include analytics.html %}
+    <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+    <!-- jQuery local fallback -->
+    <script>
+        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js " | prepend: site.baseurl }}><\/script>')
+    </script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <!-- Bootstrap JS local fallback -->
+    <script>
+        if (typeof ($.fn.modal) === 'undefined') {
+            document.write('<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}><\/script>')
+        }
+    </script>
+    <script src="{{ "/js/jquery.appear.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/waves.min.js" | prepend: site.baseurl }}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
+    <script>
+        var googleMaps = 'logistics';
+        var eventPlace = new google.maps.LatLng({{site.eventPlaceCoordinates}});
+        var centerMap = new google.maps.LatLng({{site.logisticsMapCenterCoordinates}});
+        var mobileCenterMap = new google.maps.LatLng({{site.logisticsMapMobileCenterCoordinates}});
+        var icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+        $(document).ready(function () {
+            var bodyColor = $('body').css('color');
+            if (bodyColor != 'rgb(51, 51, 51)') {
+                $("head").prepend('<link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">');
+            }
+        });
+    </script>
+    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+</body>
+
+</html>

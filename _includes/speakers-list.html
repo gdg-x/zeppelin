@@ -1,0 +1,57 @@
+<!-- Begin Speakers List-->
+<section id="speakers">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="row text-left">
+                {% for speaker in site.data.speakers %}
+                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
+                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
+                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                            <figure class="flow-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
+                                <div class="overlay"></div>
+                                {% if speaker.ribbon != null %}
+                                <ul class="speaker-ribbon-wrapper">
+                                    {% for ribbon in speaker.ribbon %}
+                                    <li class="{{ ribbon["abbr"] | downcase }}">
+                                        <p class="speaker-ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                        <p class="speaker-ribbon full-title">{{ ribbon["title"] }}</p>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                                {% endif %}
+                                {% if site.showSessions %}
+                                <figcaption>
+                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                    <p class="position">{{ speaker.company }}</p>
+                                </figcaption>
+                                {% endif %}
+                            </figure>
+                        </div>
+                        <div class="speaker-bottom">
+                            <ul class="slider">
+                                {% if site.showSessions %} 
+                                    {% for session in site.data.sessions %} 
+                                        {% for session_speaker in session.speakers %} 
+                                            {% if session_speaker == speaker.id %}
+                                                <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
+                                            {% endif %} 
+                                        {% endfor %} 
+                                    {% endfor %} 
+                                {% else %}
+                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                    <p class="position">{{ speaker.company }}</p>
+                                {% endif %}
+                            </ul>
+                        </div>
+                        <a href="#" class="slider-next-item hidden">Next</a>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise" style="margin-top: 25px;">
+               <a class="bottom-section-link" href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
+            </span>        
+        </div>
+    </div>
+</section>
+<!-- End Speakers List -->

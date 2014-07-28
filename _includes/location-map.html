@@ -1,0 +1,30 @@
+<!-- Begin Location Section -->
+<section id="location">
+    <div id="canvas-map"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+            <div class="row">
+                <div class="pull-left">
+                    <h3>Location</h3>
+                    <ul itemscope="" itemtype="http://schema.org/PostalAddress">
+                        {% if site.eventLocationName %}
+                        <li itemprop="name">{{site.eventLocationName}}</li>{% endif %}
+                        <li itemprop="address">{{site.eventLocationAddress}}</li>
+                        <li itemprop="email"><a href="mailto:{{site.email}}">{{site.email}}</a>
+                        </li>
+                        <li itemscope="" itemtype="http://schema.org/Event">
+                            <time itemprop="startDate" datetime="{{site.eventStartTime}}">{{site.eventStartTimeHumanReadable}}</time>-
+                            <time itemprop="endDate" datetime="{{site.eventEndTime}}">{{site.eventEndTimeHumanReadable}}</time>
+                        </li>
+                    </ul>
+                </div>
+                <a href="{{ site.baseurl | append: '/logistics/#findyourway' }}" class="pull-right">
+                    <svg class="icon icon-direction" viewBox="0 0 32 32">
+                        <use xlink:href="img/sprites/sprites.svg#icon-direction"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Location Section -->

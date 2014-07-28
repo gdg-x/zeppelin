@@ -1,0 +1,26 @@
+<!-- Begin Rockstar Speakers Section -->
+<section id="top-speakers" class="parallax" style="background-image: url({{ site.baseurl }}/img/top-speakers.jpg);">
+	<div class="overlay"></div>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
+			<h3>Rockstar speakers</h3>
+				{% for speaker in site.data.speakers %}
+					{% if speaker.rockstar %}
+						<div id="rockstar-speaker-{{ speaker.id }}" class="col-md-3 col-sm-3 col-xs-6 hidden rockstar-speakers-item animated hiding increment-animation" data-id="{{ speaker.id }}" data-animation="fadeInUp" data-delay="500">
+							<div class="top-speaker-item">
+								<div class="flow-img img-circle top-speaker-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+								<div class="name">{{ speaker.name }} {{ speaker.surname }}</div>
+								<div class="sub">{{ speaker.company }}</div>
+							</div>
+						</div>
+					{% endif %}
+				{% endfor %}
+			
+			<div class="clearfix"></div> 
+            <span class="waves-element waves-button waves-light bordered">
+			     <a href="{{ site.baseurl }}/speakers/" class="bottom-section-link">See all speakers</a>
+            </span>
+		</div>
+	</div>
+</section>
+<!-- End Rockstar Speakers Section -->
