@@ -7,6 +7,9 @@
                 <article class="row post">
 
                     {% if include.isStaticPost == false %}
+                    
+                    	{% assign postUrl = site.url | append: site.baseurl | append: page.url %} 
+                    
                     <div class="post-header">
                         <div class="published pull-left">
                             <span class="caption">Posted:</span>
