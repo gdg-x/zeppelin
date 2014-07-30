@@ -23,7 +23,7 @@ twitterHashTag: "gdgbangalore"
 subscribeAction: ""
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/Y1uhch"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
@@ -35,7 +35,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
 eventDate: "Google Developer Group Bangalore"
-typeoutTextValues: '"", "Season","Bangalore"'
+typeoutTextValues: '"Ads","Analytics","Android","Apps","Chrome","Cloud","Glass","Google+","Maps","YouTube"'
 
 # About Event Block
 eventName: "GDG Bangalore"

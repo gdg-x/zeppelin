@@ -10,6 +10,8 @@
 		<div class="col-md-4 col-sm-4 col-xs-6">
 			<ul>
 				<h5>Links</h5>
+				<li><a href="http://gdg.org.ua" target="_blank">GDG.org.ua</a>
+				</li>
 				<li><a href="https://developers.google.com" target="_blank">Google Developers</a>
 				</li>
 			</ul>
