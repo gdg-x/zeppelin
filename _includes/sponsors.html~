@@ -21,7 +21,7 @@
                 </li>
             </ul>
             <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
-			     <a href="{{ site.baseurl | append: site.c4sponsorsUrl }}">Be a Partner&nbsp;-&nbsp;Join Us&nbsp;!</a>
+			     <a href="{{ site.baseurl | append: site.c4sponsorsUrl }}">Join Us&nbsp;!&nbsp;&nbsp;Be a Partner</a>
             </span>
         </div>
     </div>

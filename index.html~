@@ -10,8 +10,6 @@ permalink: /
  {% include statistics.html %}
 
  {% include latest-news.html %}
-
- {% include rockstar-speakers.html %}
  
  {% include twitter-feed.html %}
 
@@ -19,4 +17,3 @@ permalink: /
 
  {% include subscribe.html %}
 
- {% include buy-tickets.html %}

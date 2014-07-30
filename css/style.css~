@@ -129,11 +129,6 @@ h6 {
     background-repeat: no-repeat;
     background-position: 0 -127px;
 }
-.logo-light-gdgBangalore{
-    background-image: url('../img/sprites/gdgBangaloreLogo.png');
-    background-repeat: no-repeat;
-    background-position: 0 -127px;
-}
 /* Container */
 
 .st-container, .st-pusher, .st-content {
