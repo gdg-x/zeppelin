@@ -1,67 +1,77 @@
 - 
-  id: 3
-  name: "David"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  id: 6
+  name: "Explore new Possibilities with GDG Bangalore: Google Post I/O"
+  title: "August 2, 2014"
+  
+  bio: "We are conducting this meetup as a follow up for the Google I/O. Since Google is exploring the field of Andoird, we wanted to get in touch with developers and wanted to explore the eco-system what Google has provided."
+  thumbnailUrl: statistic.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
 - 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  id: 5
+  name: "Google I/O Extended 2014"
+  title: "June 25, 2014"
+  
+  bio: "Google I/O Extended is live streaming of Google I/O Developer Conference. Many opportunities to explore what Google is going to announce new in Technology."
+  thumbnailUrl: GoogleIOExtended14.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ribbon: 
+    - {abbr: "I/O", title: "Google I/O", url: "https://www.google.com/events/io"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "https://plus.google.com/events/c170f05s79vbvm8dsjn2s96t0jc"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 4
+  name: "Google Cloud Workshop"
+  title: "June 7, 2014"
+  
+  bio: "Google Cloud Workshop is an event as a follow up session of Google Cloud India Roadshow. Participants will be given hands-on session on how to use different services of Google w.r.t. Google Cloud Platform."
+  
+  thumbnailUrl: GoogleCloudWorkshop7thJune.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ribbon: 
+    - {abbr: "Cloud", title: "Google Cloud", url: "https://cloud.google.com/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/events/cha8rka74nk63v46a8l2qj500l4"}
+- 
+  id: 3
+  name: "Google’s Cloud Platform Developer Roadshow"
+  title: "May 10, 2014"
+  
+  bio: "Google’s Cloud Platform Developer Roadshow is happening in India. After successful events at Hyderabad and Chennai the Google India Roadshow is coming to Bangalore at The Leela Palace on 10th May 2014. Specifically, the full day event will feature sessions on new technology in the cloud platform, Google App Engine, Google Compute Engine, how Google cloud products can be used by startups and much more. There will also be a demo session for a live experience. The event will also be a good opportunity to engage with Google Cloud Developer Experts."
+  
+  thumbnailUrl: GoogleCloudRoadshow.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Cloud","Roadshow", title: "Google Cloud", url: "http://www.googlecloudroadshow.com/cloud-platform-roadshow.html"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/b/104550553343399000979/events/chcq13c5n5g11rsgjlpvpk6rjc8"}
+- 
+  id: 2
+  name: "HTML5 and Web Development "
+  title: "April 5, 2014"
+  
+  bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
+  
+  thumbnailUrl: HTML5April.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "HTML","Web", title: "Web Development", url: "https://cloud.google.com/"}
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/events/coivdik8hkiub469abcah9644m0"}
+- 
+  id: 1
+  name: "Google Women Tech Makers"
+  title: "March 22, 2014"
+  
+  bio: "HTML5 and Web Development Workshop is a hands on for a wide range of students. Focus is to touch upon basics of HTML5 and to give the students a kick start in web development."
+  
+  thumbnailUrl: WomenTechmaker22.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Tech", title: "Women Techmaker", url: "https://cloud.google.com/"}
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/events/ca4heu9f31op9fe9p06srskv1qc"}
+

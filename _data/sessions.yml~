@@ -1,0 +1,44 @@
+-
+  id: 001
+  title: "Google Cloud Workshop"
+  description: "Google Cloud Workshop is an event as a follow up session of Google Cloud India Roadshow. Participants will be given hands-on session on how to use different services of Google w.r.t. Google Cloud Platform."
+-
+  id: 002
+  title: "Building Cloud-powered wearable Apps"
+  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+  track: cloud
+  subtype: presentation
+  speakers: [4, 5]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: en
+-
+  id: 003
+  title: "The world is your playground - go global with Google"
+  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  track: android
+  subtype: presentation
+  speakers: [4]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: en
+-
+  id: 004
+  title: "Polymer: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  track: web
+  subtype: keynote
+  speakers: [6]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: uk
+-
+  id: 005
+  title: "Test: Interacting with Google Services using nothing but HTML"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  track: web
+  subtype: keynote
+  speakers: [7]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: en

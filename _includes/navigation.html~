@@ -12,7 +12,7 @@
             </li>
             <!-- <li><a href="#">Schedule</a>
             </li> -->
-            <li><a {% if page.permalink == '/events/' %} class="current" {% endif %} href="{{ site.baseurl }}/events/">Events</a>
+            <li><a {% if page.permalink == '/events/' %} class="current" {% endif %} href="{{ site.baseurl }}/events/">Eventss</a>
             </li>
             <li><a {% if page.permalink == '/team/' %} class="current" {% endif %} href="{{ site.baseurl }}/team/">Team</a>
             </li>
