@@ -3,7 +3,7 @@
     <div class="overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2 animated hiding" data-animation="fadeInUp" data-delay="0">
-            <h3>Subscribe to our Mailing List</h3>
+            <h3>Subscribe to Our Mailing List</h3>
             <div id="mc_embed_signup" class="col-lg-8 col-sm-8 col-lg-offset-2 col-sm-offset-2">
                 <form action="{{site.subscribeAction}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <div class="mc-field-group col-lg-9 col-sm-9 col-xs-12">

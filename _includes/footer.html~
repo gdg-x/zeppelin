@@ -4,14 +4,12 @@
 		<div class="pull-left col-md-6 col-xs-6">
 			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{site.url}}"></div>
 		</div>
-		<div class="logo-footer logo-gray pull-right"></div>
+		<div class="logo-footer logo-light-gdgBangalore pull-right"></div>
 	</div>
 	<div class="row">
 		<div class="col-md-4 col-sm-4 col-xs-6">
 			<ul>
 				<h5>Links</h5>
-				<li><a href="http://gdg.org.ua" target="_blank">GDG.org.ua</a>
-				</li>
 				<li><a href="https://developers.google.com" target="_blank">Google Developers</a>
 				</li>
 			</ul>
@@ -66,6 +64,13 @@
 		<div class="col-md-6">
 			<p class="copyright">
 				&copy; 2014 Designed and created by <a href="https://plus.google.com/+OlehZasadnyy/about">Oleh Zasadnyy</a> &middot; <a href="http://lviv.gdg.org.ua" target="_blank">GDG Lviv</a>
+			</p>
+		</div>
+	</div>
+	<div class="row">	
+		<div class="col-md-12">
+			<p>
+			<b>Disclaimer:</b> GDG Bangalore is an independent group; our activities and the opinions expressed on this website should in no way be linked to Google, the corporation.
 			</p>
 		</div>
 	</div>

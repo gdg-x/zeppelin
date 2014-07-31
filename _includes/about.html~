@@ -3,11 +3,14 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>About {{site.eventName}}</h3>
+            <p>To put it in a nutshell, GDG stands for Google Developer Group and GDG Bangalore it is a community where programmers meet to discuss and work with several Google developer resources and products. </p>
+            <p>Our events will always be free and open to the general public. We sometimes co-host an joint event with other communities. In such events, you may get a chance to interact with developers who have already worked with those Google products and services.</p>
+            
             <div class="row about-details">
                 <div class="col-md-4 col-sm-4 col-xs-6">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="0">
                         <h5>DevFest</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/conference.jpg" height="128" width="128" alt="Conference">
+                        <img class="img-circle" src="{{ site.baseurl }}/img/devfest.jpg" height="128" width="128" alt="DevFest">
                         <p>GDG DevFests are large, community-run events that offers speaker sessions across multiple product areas, hack-a-thons, code labs, and more. Awesome speakers and lot's of fun!</p>
                     </div>
                 </div>

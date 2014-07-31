@@ -20,7 +20,7 @@ googleAnalyticsSiteUrl: "http://kartikkannapur.github.io/GDG-Bangalore"
 twitterHashTag: "gdgbangalore"
 
 # Subscribe
-subscribeAction: ""
+subscribeAction: "http://google.us8.list-manage.com/subscribe?u=837da598d96df27f94c5853c8&id=857aec20f5&orig-lang=1"
 
 # Documents
 c4pUrl: "http://goo.gl/Y1uhch"
@@ -35,7 +35,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
 eventDate: "Google Developer Group Bangalore"
-typeoutTextValues: '"Ads","Analytics","Android","Apps","Cast","Chrome","Cloud","Glass","Google+","Maps","Wallet","YouTube"'
+typeoutTextValues: '"Ads","Analytics","Android","Apps","Chrome","Cloud","Glass","Google+","Maps","YouTube"'
 
 # About Event Block
 eventName: "GDG Bangalore"
