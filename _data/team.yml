@@ -10,6 +10,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+BadrinathKulkarni/"}
     - {name: "twitter", link: "https://twitter.com/ibadrinath"}
+    - {name: "github", link: "https://github.com/BadrinathKulkarni"}
     
 - 
   id: 1
@@ -57,6 +58,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+VishalPathikGupta/"}
+    - {name: "github", link: "https://github.com/tech-pill"}
 - 
   id: 5
   name: "Sathish "

@@ -4,7 +4,7 @@
 		<div class="pull-left col-md-6 col-xs-6">
 			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{site.url}}"></div>
 		</div>
-		<div class="logo-footer logo-light-gdgBangalore pull-right"></div>
+		<div class="logo-footer logo-gray pull-right"></div>
 	</div>
 	<div class="row">
 		<div class="col-md-4 col-sm-4 col-xs-6">
@@ -35,13 +35,7 @@
 						</svg>
 					</a>
 				</li>
-				<li>
-					<a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">
-						<svg class="icon icon-rss" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-rss"></use>
-						</svg>
-					</a>
-				</li>
+				
 			</ul>
 		</div>
 		<div class="col-md-4 col-sm-4 col-xs-6">

@@ -67,10 +67,10 @@
                 </article>
 
                 {% if include.isStaticPost == false %}
-                    <!--<div class="row text-center">
+                    <div class="row text-center">
                         <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
                         </p>
-                    </div>-->
+                    </div>
                 {% endif %}
 
             </div>
