@@ -1160,13 +1160,9 @@ nav ul > li > a.current, nav ul > li > a:hover {
     -webkit-transition: all .35s;
     transition: all .35s;
     background-position: -30px;
-    -webkit-background-size: 115% 115%;
-    background-size: 115%;
 }
 .speaker-item:hover figure {
     background-position: center left;
-    -webkit-background-size: 105% 105%;
-    background-size: 105%;
 }
 .team-item .overlay, .speaker-item .overlay {
     -webkit-transition: all .35s;
@@ -1455,13 +1451,9 @@ nav ul > li > a.current, nav ul > li > a:hover {
     -webkit-transition: all .35s;
     transition: all .35s;
     background-position: -30px;
-    -webkit-background-size: 115% 115%;
-    background-size: 115%;
 }
 .team-item:hover figure {
     background-position: center left;
-    -webkit-background-size: 105% 105%;
-    background-size: 105%;
 }
 .team-item:hover .overlay {
     background: rgba(0, 0, 0, .3);
@@ -1523,8 +1515,8 @@ nav ul > li > a.current, nav ul > li > a:hover {
     -webkit-box-orient: vertical;
 }
 .team-item figure h2 {
-    -webkit-transition: -webkit-transform .35s;
-    transition: transform .35s;
+    -webkit-transition: -webkit-transform .35s, color .35s;
+    transition: transform .35s, color .35s;
     -webkit-transform: translate3d(0, -250%, 0);
     transform: translate3d(0, -250%, 0);
     color: #fff;
