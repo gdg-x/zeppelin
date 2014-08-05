@@ -1159,14 +1159,10 @@ nav ul > li > a.current, nav ul > li > a:hover {
     margin-bottom: -4px;
     -webkit-transition: all .35s;
     transition: all .35s;
-    background-position: -30px;
-    -webkit-background-size: 115% 115%;
-    background-size: 115%;
+    background-position: -30px
 }
 .speaker-item:hover figure {
     background-position: center left;
-    -webkit-background-size: 105% 105%;
-    background-size: 105%;
 }
 .team-item .overlay, .speaker-item .overlay {
     -webkit-transition: all .35s;
@@ -1455,13 +1451,9 @@ nav ul > li > a.current, nav ul > li > a:hover {
     -webkit-transition: all .35s;
     transition: all .35s;
     background-position: -30px;
-    -webkit-background-size: 115% 115%;
-    background-size: 115%;
 }
 .team-item:hover figure {
     background-position: center left;
-    -webkit-background-size: 105% 105%;
-    background-size: 105%;
 }
 .team-item:hover .overlay {
     background: rgba(0, 0, 0, .3);
