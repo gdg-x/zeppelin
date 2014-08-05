@@ -1515,8 +1515,8 @@ nav ul > li > a.current, nav ul > li > a:hover {
     -webkit-box-orient: vertical;
 }
 .team-item figure h2 {
-    -webkit-transition: -webkit-transform .35s;
-    transition: transform .35s;
+    -webkit-transition: -webkit-transform .35s, color .35s;
+    transition: transform .35s, color .35s;
     -webkit-transform: translate3d(0, -250%, 0);
     transform: translate3d(0, -250%, 0);
     color: #fff;
