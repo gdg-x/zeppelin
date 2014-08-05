@@ -1159,7 +1159,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
     margin-bottom: -4px;
     -webkit-transition: all .35s;
     transition: all .35s;
-    background-position: -30px
+    background-position: -30px;
 }
 .speaker-item:hover figure {
     background-position: center left;
