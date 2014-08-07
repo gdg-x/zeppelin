@@ -1,0 +1,41 @@
+.subscribe {
+    .email {
+        font-size: 16px;
+        font-weight: $light;
+        width: 100%;
+        height: 53px;
+        margin-bottom: 16px;
+        padding: 0;
+        transition: $base-transition;
+        text-align: center;
+        border-radius: 0;
+        input {
+            width: 100%;
+            height: 100%;
+            padding: 0 32px;
+            text-align: center;
+            border: 0;
+            outline: none;
+            background: transparent;    
+        }
+    }
+    .button {
+        @extend .email;
+        text-transform: uppercase;
+    }
+}
+.mc-field-group {
+    padding-right: 3px;
+    @media (max-width: 767px) {
+        padding: 0;
+    }
+}
+.mc-submit-group {
+    padding-left: 3px;
+    @media (max-width: 767px) {
+        padding: 0;
+    }
+}
+.subscribe-info {
+    font-weight: $light;
+}

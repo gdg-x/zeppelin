@@ -47,16 +47,8 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="/zeppelin/img/favicons/mstile-144x144.png">
     <meta name="msapplication-config" content="/zeppelin/img/favicons/browserconfig.xml">
-
-    <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-
-    <!-- Bootstrap -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <!-- TODC Bootstrap theme -->
-<!--    <link href="/zeppelin/css/todc-bootstrap.min.css" rel="stylesheet">-->
-    <link href="/zeppelin/css/animate.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/waves.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/style.min.css" rel="stylesheet">
+    
+    <link href="/zeppelin/css/main.min.css" rel="stylesheet"> 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -68,7 +60,7 @@
 
 
 <body>
-    <div id="preloader">
+    <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
     </div>
 
@@ -77,16 +69,18 @@
             <div class="st-content">
 
                 <!-- Begin Top Section -->
-<section id="top-section">
-    <div class="gradient-overlay"></div>
+<section id="top-section" class="top-section image-section">
+    <div class="overlay gradient-overlay"></div>
 
-    <header id="top-header" class="col-lg-10 col-sm-12">
-    <svg id="menu-trigger" class="icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
+    <header id="top-header" class="top-header">
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
         <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
-    <a href="/zeppelin/" id="logo-header" class="logo-header logo-light"></a>
+    <a href="/zeppelin/" id="logo-header" class="logo-header">
+        <div class="logo logo-light"></div>
+    </a>
     <nav class="st-menu st-effect" id="menu">
-        <div class="logo-navbar logo-dark visible-xs"></div>
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
             <li><a  href="/zeppelin/">Home</a>
             </li>
@@ -109,7 +103,7 @@
             <li><a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
             </li>
         </ul>
-        <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
+        <span id="right-nav-button" class="right-nav-button right-nav-button-hidden btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm">
             <a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
         </span>
     </nav>
@@ -125,16 +119,16 @@
 
 
     <!-- Begin Speakers List-->
-<section id="speakers">
+<section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <div class="row text-left">
+            <div class="row text-left appear-animation-trigger">
                 
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
-                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
-                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-3">
-                            <figure class="flow-img" style="background-image: url(/zeppelin/img/speakers/DawidOstrowski.jpg)">
-                                <div class="overlay"></div>
+                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                    <div class="lily-effect ribbon-activator">
+                        <div class="lily-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-3">
+                            <figure style="background-image: url(/zeppelin/img/speakers/DawidOstrowski.jpg)">
+                                <div class="overlay solid-overlay"></div>
                                 
                                 
                                 <figcaption>
@@ -144,7 +138,7 @@
                                 
                             </figure>
                         </div>
-                        <div class="speaker-bottom">
+                        <div class="lily-bottom">
                             <ul class="slider">
                                  
                                      
@@ -179,11 +173,11 @@
                     </div>
                 </div>
                 
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
-                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
-                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-4">
-                            <figure class="flow-img" style="background-image: url(/zeppelin/img/speakers/DmytroDanylyk.jpg)">
-                                <div class="overlay"></div>
+                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                    <div class="lily-effect ribbon-activator">
+                        <div class="lily-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-4">
+                            <figure style="background-image: url(/zeppelin/img/speakers/DmytroDanylyk.jpg)">
+                                <div class="overlay solid-overlay"></div>
                                 
                                 
                                 <figcaption>
@@ -193,7 +187,7 @@
                                 
                             </figure>
                         </div>
-                        <div class="speaker-bottom">
+                        <div class="lily-bottom">
                             <ul class="slider">
                                  
                                      
@@ -230,22 +224,22 @@
                     </div>
                 </div>
                 
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
-                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
-                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-5">
-                            <figure class="flow-img" style="background-image: url(/zeppelin/img/speakers/MateuszHerych.jpg)">
-                                <div class="overlay"></div>
+                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                    <div class="lily-effect ribbon-activator">
+                        <div class="lily-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-5">
+                            <figure style="background-image: url(/zeppelin/img/speakers/MateuszHerych.jpg)">
+                                <div class="overlay solid-overlay"></div>
                                 
-                                <ul class="speaker-ribbon-wrapper">
+                                <ul class="ribbon-wrapper">
                                     
                                     <li class="gde">
-                                        <p class="speaker-ribbon abbr">GDE</p>
-                                        <p class="speaker-ribbon full-title">Google Developer Expert</p>
+                                        <p class="ribbon abbr">GDE</p>
+                                        <p class="ribbon full-title">Google Developer Expert</p>
                                     </li>
                                     
                                     <li class="gdg">
-                                        <p class="speaker-ribbon abbr">GDG</p>
-                                        <p class="speaker-ribbon full-title">Google Developer Group</p>
+                                        <p class="ribbon abbr">GDG</p>
+                                        <p class="ribbon full-title">Google Developer Group</p>
                                     </li>
                                     
                                 </ul>
@@ -258,7 +252,7 @@
                                 
                             </figure>
                         </div>
-                        <div class="speaker-bottom">
+                        <div class="lily-bottom">
                             <ul class="slider">
                                  
                                      
@@ -293,17 +287,17 @@
                     </div>
                 </div>
                 
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
-                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
-                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-6">
-                            <figure class="flow-img" style="background-image: url(/zeppelin/img/speakers/RomanMazur.jpg)">
-                                <div class="overlay"></div>
+                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                    <div class="lily-effect ribbon-activator">
+                        <div class="lily-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-6">
+                            <figure style="background-image: url(/zeppelin/img/speakers/RomanMazur.jpg)">
+                                <div class="overlay solid-overlay"></div>
                                 
-                                <ul class="speaker-ribbon-wrapper">
+                                <ul class="ribbon-wrapper">
                                     
                                     <li class="gdg">
-                                        <p class="speaker-ribbon abbr">GDG</p>
-                                        <p class="speaker-ribbon full-title">Google Developer Group</p>
+                                        <p class="ribbon abbr">GDG</p>
+                                        <p class="ribbon full-title">Google Developer Group</p>
                                     </li>
                                     
                                 </ul>
@@ -316,7 +310,7 @@
                                 
                             </figure>
                         </div>
-                        <div class="speaker-bottom">
+                        <div class="lily-bottom">
                             <ul class="slider">
                                  
                                      
@@ -351,17 +345,17 @@
                     </div>
                 </div>
                 
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
-                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
-                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-7">
-                            <figure class="flow-img" style="background-image: url(/zeppelin/img/speakers/ValentynShybanov.jpg)">
-                                <div class="overlay"></div>
+                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                    <div class="lily-effect ribbon-activator">
+                        <div class="lily-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-7">
+                            <figure style="background-image: url(/zeppelin/img/speakers/ValentynShybanov.jpg)">
+                                <div class="overlay solid-overlay"></div>
                                 
-                                <ul class="speaker-ribbon-wrapper">
+                                <ul class="ribbon-wrapper">
                                     
                                     <li class="gdg">
-                                        <p class="speaker-ribbon abbr">GDG</p>
-                                        <p class="speaker-ribbon full-title">Google Developer Group</p>
+                                        <p class="ribbon abbr">GDG</p>
+                                        <p class="ribbon full-title">Google Developer Group</p>
                                     </li>
                                     
                                 </ul>
@@ -374,7 +368,7 @@
                                 
                             </figure>
                         </div>
-                        <div class="speaker-bottom">
+                        <div class="lily-bottom">
                             <ul class="slider">
                                  
                                      
@@ -422,17 +416,17 @@
  
 
                 <!-- Begin Footer -->
-<footer id="footer">
+<footer id="footer" class="footer">
 	<div class="row">
 		<div class="pull-left col-md-6 col-xs-6">
 			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="http://gdg-ukraine.github.io"></div>
 		</div>
-		<div class="logo-footer logo-gray pull-right"></div>
+		<div class="logo logo-footer logo-gray pull-right"></div>
 	</div>
 	<div class="row">
 		<div class="col-md-4 col-sm-4 col-xs-6">
+			<h5>Links</h5>
 			<ul>
-				<h5>Links</h5>
 				<li><a href="http://gdg.org.ua" target="_blank">GDG.org.ua</a>
 				</li>
 				<li><a href="https://developers.google.com" target="_blank">Google Developers</a>
@@ -504,7 +498,7 @@
 <div class="modals">
 	
 		
-		<div class="modal fade text-left speaker-modal" id="speakerDetail-3" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-3" aria-hidden="true">
+		<div class="modal fade text-left people-modal" id="speakerDetail-3" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-3" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -544,10 +538,10 @@
 							
 							<hr>
 						
-						<div class="speaker-details">
+						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
-									<div class="flow-img img-circle speaker-img" style="background-image: url(/zeppelin/img/speakers/DawidOstrowski.jpg)"></div>
+									<div class="flow-img img-circle people-img" style="background-image: url(/zeppelin/img/speakers/DawidOstrowski.jpg)"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">Dawid Ostrowski
@@ -576,7 +570,7 @@
 		
 	
 		
-		<div class="modal fade text-left speaker-modal" id="speakerDetail-4" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-4" aria-hidden="true">
+		<div class="modal fade text-left people-modal" id="speakerDetail-4" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-4" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -620,10 +614,10 @@
 							
 							<hr>
 						
-						<div class="speaker-details">
+						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
-									<div class="flow-img img-circle speaker-img" style="background-image: url(/zeppelin/img/speakers/DmytroDanylyk.jpg)"></div>
+									<div class="flow-img img-circle people-img" style="background-image: url(/zeppelin/img/speakers/DmytroDanylyk.jpg)"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">Dmytro Danylyk
@@ -668,7 +662,7 @@
 		
 	
 		
-		<div class="modal fade text-left speaker-modal" id="speakerDetail-5" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-5" aria-hidden="true">
+		<div class="modal fade text-left people-modal" id="speakerDetail-5" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-5" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -708,10 +702,10 @@
 							
 							<hr>
 						
-						<div class="speaker-details">
+						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
-									<div class="flow-img img-circle speaker-img" style="background-image: url(/zeppelin/img/speakers/MateuszHerych.jpg)"></div>
+									<div class="flow-img img-circle people-img" style="background-image: url(/zeppelin/img/speakers/MateuszHerych.jpg)"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">Mateusz Herych
@@ -756,7 +750,7 @@
 		
 	
 		
-		<div class="modal fade text-left speaker-modal" id="speakerDetail-6" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-6" aria-hidden="true">
+		<div class="modal fade text-left people-modal" id="speakerDetail-6" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-6" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -796,10 +790,10 @@
 							
 							<hr>
 						
-						<div class="speaker-details">
+						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
-									<div class="flow-img img-circle speaker-img" style="background-image: url(/zeppelin/img/speakers/RomanMazur.jpg)"></div>
+									<div class="flow-img img-circle people-img" style="background-image: url(/zeppelin/img/speakers/RomanMazur.jpg)"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">Roman Mazur
@@ -842,7 +836,7 @@
 		
 	
 		
-		<div class="modal fade text-left speaker-modal" id="speakerDetail-7" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-7" aria-hidden="true">
+		<div class="modal fade text-left people-modal" id="speakerDetail-7" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-7" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -882,10 +876,10 @@
 							
 							<hr>
 						
-						<div class="speaker-details">
+						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
-									<div class="flow-img img-circle speaker-img" style="background-image: url(/zeppelin/img/speakers/ValentynShybanov.jpg)"></div>
+									<div class="flow-img img-circle people-img" style="background-image: url(/zeppelin/img/speakers/ValentynShybanov.jpg)"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">Valentyn Shybanov
@@ -938,7 +932,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-43643469-3', 'gdg-ukraine.github.io');
+  ga('create', 'UA-43643469-5', 'gdg-x.github.io');
   ga('send', 'pageview');
 
 </script>
@@ -957,14 +951,6 @@
     </script>
     <script src="/zeppelin/js/jquery.appear.min.js"></script>
     <script src="/zeppelin/js/waves.min.js"></script>
-    <script>
-    $(document).ready(function() {
-        var bodyColor = $('body').css('color');
-        if (bodyColor != 'rgb(51, 51, 51)') {
-            $("head").prepend('<link rel="stylesheet" href="/zeppelin/css/bootstrap.min.css">');
-        }
-    });
-    </script>
     <script src="/zeppelin/js/scripts.min.js"></script>
 </body>
 

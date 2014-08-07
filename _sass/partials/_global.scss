@@ -1,0 +1,281 @@
+@include web-fonts(($fixed-font-family: ($light,$regular,$bold)));
+body, html {
+    font-family: $fixed-font-family, $base-font-family;
+    font-size: $base-font-size;
+    font-weight: $regular;
+    width: 100%;
+    height: 100%;
+    background: $base-background-color;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .004);
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+section {
+    position: relative;
+    overflow: hidden;
+    min-height: $min-section-height;
+    padding-top: $section-padding-top;
+    padding-bottom: $section-padding-bottom;
+    text-align: center;
+    h3 {
+        margin-bottom: 50px;
+    }
+}
+p {
+    font-size: 15px;
+    font-weight: 300;
+    line-height: $base-line-height;
+}
+b, strong {
+    font-weight: $bold;
+}
+a {
+    @include linkColor($link-color);
+    &:hover {
+        text-decoration: none;
+    }
+}
+#{headings()} {
+	font-weight: $light;
+	display: block;
+}
+h1 {
+    font-size: $h1-font-size;
+    @media (max-width: 767px) {
+       font-size: $h1-font-size * 60 / 100; 
+    }
+}
+h2 {
+    font-size: $h2-font-size;
+    @media (max-width: 767px) {
+       font-size: $h2-font-size * 60 / 100; 
+    }
+}
+h3 {
+    font-size: $h3-font-size;
+    @media (max-width: 767px) {
+       font-size: $h3-font-size * 70 / 100; 
+    }
+}
+h4 {
+    font-size: $h4-font-size;
+    @media (max-width: 767px) {
+       font-size: $h4-font-size * 70 / 100; 
+    }
+}
+h5 {
+    font-size: $h5-font-size;
+    @media (max-width: 767px) {
+       font-size: $h5-font-size * 80 / 100; 
+    }
+}
+h6 {
+    font-size: $h6-font-size;
+    @media (max-width: 767px) {
+       font-size: $h6-font-size * 80 / 100; 
+    }
+}
+.content-wrapper {
+    position: relative;
+    z-index: 1;
+}
+.st-content, .st-container, .st-pusher {
+    height: 100%;
+}
+.st-content, .st-container, .st-content-inner {
+    position: relative;
+}
+.st-pusher {
+    position: relative;
+    z-index: 99;
+    left: 0;
+    transition: $long-transition;
+    &::after {
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 0;
+        height: 0;
+        content: '';
+        transition: opacity .5s, width .1s .5s, height .1s .5s;
+        opacity: 0;
+        background: rgba(0, 0, 0, .2);
+    }
+    .st-menu-open &::after {
+        z-index: 100;
+        width: 100%;
+        height: 100%;
+        transition: opacity .5s;
+        opacity: 1;
+    }
+}
+.preloader {
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+}
+.loader-gplus {
+    position: absolute;
+    top: calc(50% - 20px);
+    left: calc(50% - 20px);
+    width: 40px;
+    height: 40px;
+    animation: rotate 2.4s linear infinite;
+    border-radius: 20px;
+    &:before, &:after {
+        position: absolute;
+        z-index: 2;
+        right: 0;
+        width: 40px;
+        height: 20px;
+        content: '';
+        animation: color-switch 2.4s linear infinite;
+        border-radius: 40px 40px 0 0;
+    }
+    &:after {
+        transform-origin: 0 100%;
+        animation-name: unfold, color-shift;
+        animation-duration: .6s, 2.4s;
+        animation-timing-function: linear, linear;
+        animation-iteration-count: infinite, infinite;
+    }
+}
+@keyframes rotate {
+    0.0001% {
+        -webkit-transform: rotateZ(0deg);
+        transform: rotateZ(0deg);
+        background-color: rgb(58, 123, 247);
+    }
+    25% {
+        -webkit-transform: rotateZ(0deg);
+        transform: rotateZ(0deg);
+        background-color: rgb(58, 123, 247);
+    }
+    25.0001% {
+        -webkit-transform: rotateZ(90deg);
+        transform: rotateZ(90deg);
+        background-color: rgb(222, 74, 66);
+    }
+    50% {
+        -webkit-transform: rotateZ(90deg);
+        transform: rotateZ(90deg);
+        background-color: rgb(222, 74, 66);
+    }
+    50.0001% {
+        -webkit-transform: rotateZ(180deg);
+        transform: rotateZ(180deg);
+        background-color: rgb(255, 214, 74);
+    }
+    75% {
+        -webkit-transform: rotateZ(180deg);
+        transform: rotateZ(180deg);
+        background-color: rgb(255, 214, 74);
+    }
+    75.0001% {
+        -webkit-transform: rotateZ(270deg);
+        transform: rotateZ(270deg);
+        background-color: rgb(33, 173, 100);
+    }
+    100% {
+        -webkit-transform: rotateZ(270deg);
+        transform: rotateZ(270deg);
+        background-color: rgb(33, 173, 100);
+    }
+}
+@keyframes unfold {
+    to {
+        -webkit-transform: rotateX(180deg) rotateZ(0deg);
+        transform: rotateX(180deg) rotateZ(0deg);
+    }
+}
+@keyframes color-switch {
+    0.0001% {
+        background-color: rgb(222, 74, 66);
+    }
+    25% {
+        background-color: rgb(222, 74, 66);
+    }
+    25.0001% {
+        background-color: rgb(255, 214, 74);
+    }
+    50% {
+        background-color: rgb(255, 214, 74);
+    }
+    50.0001% {
+        background-color: rgb(33, 173, 100);
+    }
+    75% {
+        background-color: rgb(33, 173, 100);
+    }
+    75.0001% {
+        background-color: rgb(58, 123, 247);
+    }
+    100% {
+        background-color: rgb(58, 123, 247);
+    }
+}
+@keyframes color-shift {
+    0.0001% {
+        border-bottom: 1px solid rgb(58, 123, 247);
+        background-color: rgb(58, 123, 247);
+    }
+    12.5% {
+        border-bottom: 1px solid rgb(45, 105, 200);
+        background-color: rgb(40, 95, 195);
+    }
+    12.5001% {
+        border-bottom: 1px solid rgb(232, 120, 115);
+        background-color: rgb(232, 120, 115);
+    }
+    25% {
+        border-bottom: 1px solid rgb(222, 74, 66);
+        background-color: rgb(222, 74, 66);
+    }
+    37.5% {
+        border-bottom: 1px solid rgb(230, 107, 99);
+        background-color: rgb(230, 107, 99);
+    }
+    37.5001% {
+        border-bottom: 1px solid rgb(255, 222, 123);
+        background-color: rgb(255, 222, 123);
+    }
+    50% {
+        border-bottom: 1px solid rgb(255, 214, 90);
+        background-color: rgb(255, 214, 90);
+    }
+    62.5% {
+        border-bottom: 1px solid rgb(255, 222, 123);
+        background-color: rgb(255, 222, 123);
+    }
+    62.5001% {
+        border-bottom: 1px solid rgb(25, 140, 74);
+        background-color: rgb(25, 140, 74);
+    }
+    75% {
+        border-bottom: 1px solid rgb(33, 173, 100);
+        background-color: rgb(33, 173, 100);
+    }
+    87.5% {
+        border-bottom: 1px solid rgb(82, 189, 132);
+        background-color: rgb(82, 189, 132);
+    }
+    87.5001% {
+        border-bottom: 1px solid rgb(82, 148, 247);
+        background-color: rgb(82, 148, 247);
+    }
+    100% {
+        border-bottom: 1px solid rgb(58, 123, 247);
+        background-color: rgb(58, 123, 247);
+    }
+}
+.social-links {
+    li {
+        margin-right: 4px;
+        display: inline-block;
+    }
+}

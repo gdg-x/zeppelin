@@ -1,7 +1,6 @@
 <!-- Begin Find Way-->
-<a id="findyourway"/>
-<section id="find-way">    
-    <div id="canvas-map"></div>
+<section id="find-way" class="find-way">    
+    <div id="canvas-map" class="canvas-map"></div>
     <div class="content-wrapper text-left">
         <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">Find your way here</h3>
         <div class="map-card col-lg-3 col-md-4 col-sm-6 col-xs-12">
@@ -12,7 +11,7 @@
                 </svg>
             </div>
             <div class="location-result">
-                <span id="result-name"></span>
+                <span id="result-name" class="result-name"></span>
                 <span>to DevFest</span>
                 <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
                     <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
@@ -26,7 +25,7 @@
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flag"></use>
                     </svg>
                     <span>Distance</span>
-                    <span id="distance" class="details-result pull-right"></span>
+                    <span id="distance" class="detailed-result pull-right"></span>
                 </li>
                 <li>
                     <div id="mode">
@@ -39,7 +38,7 @@
                             <option value="BICYCLING">BICYCLING</option>
                             <option value="TRANSIT">TRANSIT</option>
                         </select>
-                        <span id="estimateTime" class="details-result pull-right"></span>
+                        <span id="estimateTime" class="detailed-result pull-right"></span>
                     </div>
                     <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">Find Flight</a>
                 </li>

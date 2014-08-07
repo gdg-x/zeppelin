@@ -1,105 +1,25 @@
 <!-- Begin Sponsors Section -->
-<section id="sponsors">
+<section id="sponsors" class="sponsors">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>Sponsors</h3>
-            <h5>Platium</h5>
+            <h3>Partners</h3>
+            {% for partner in site.data.partners %}
+            <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
+                {% for element in partner.elements %}
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/google.svg" alt="sponsor-1">
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" alt="{{ element.description }}">
                     </a>
                 </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
-                    </a>
-                </li>
+                {% endfor %}
             </ul>
-            <h5>Gold</h5>
-            <ul class="list-inline">
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/google.svg" alt="sponsor-1">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-x.svg" alt="sponsor-3">
-                    </a>
-                </li>
-            </ul>
-            <h5>Information partners</h5>
-            <ul class="list-inline">
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/google.svg" alt="sponsor-1">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-x.svg" alt="sponsor-3">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/google.svg" alt="sponsor-1">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-x.svg" alt="sponsor-3">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/google.svg" alt="sponsor-1">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-x.svg" alt="sponsor-3">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/google.svg" alt="sponsor-1">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="{{ site.baseurl }}/img/sponsors/gdg-x.svg" alt="sponsor-3">
-                    </a>
-                </li>
-            </ul>
-            <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
-			     <a href="{{ site.baseurl | append: site.c4sponsorsUrl }}">Become a sponsor</a>
-            </span>
+            {% endfor %}
+            <a href="{{ site.baseurl | append: site.c4sponsorsUrl }}">
+                <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
+                     Become a sponsor
+                </span>
+            </a>
         </div>
     </div>
 </section>

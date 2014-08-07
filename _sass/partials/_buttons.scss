@@ -1,0 +1,22 @@
+.waves-button {
+    padding: 5px 18px 7px;
+    border-radius: 3px;
+    a, a:hover, a:visited, a:link, button, input[type='submit'], input[type='button'] {
+        position: relative;
+        z-index: 9;
+    }
+}
+.btn {
+    font-weight: $bold;
+    transition: all .28s cubic-bezier(.4, 0, .2, 1);
+}
+.btn-primary {
+    user-select: none;
+    text-transform: uppercase;
+    border: 0;
+    background: $primary-color;
+    &:hover, &:focus, &:active, &.active {
+        outline: none;
+        background: $primary-color-hover;
+    }
+}

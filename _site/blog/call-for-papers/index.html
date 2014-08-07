@@ -47,16 +47,8 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="/zeppelin/img/favicons/mstile-144x144.png">
     <meta name="msapplication-config" content="/zeppelin/img/favicons/browserconfig.xml">
-
-    <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-
-    <!-- Bootstrap -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <!-- TODC Bootstrap theme -->
-<!--    <link href="/zeppelin/css/todc-bootstrap.min.css" rel="stylesheet">-->
-    <link href="/zeppelin/css/animate.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/waves.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/style.min.css" rel="stylesheet">
+    
+    <link href="/zeppelin/css/main.min.css" rel="stylesheet"> 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -68,7 +60,7 @@
 
 
 <body>
-    <div id="preloader">
+    <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
     </div>
     <div id="st-container" class="st-container">
@@ -76,16 +68,18 @@
             <div class="st-content">
 
                 <!-- Begin Top Section -->
-<section id="top-section">
-    <div class="gradient-overlay"></div>
+<section id="top-section" class="top-section image-section">
+    <div class="overlay gradient-overlay"></div>
 
-    <header id="top-header" class="col-lg-10 col-sm-12">
-    <svg id="menu-trigger" class="icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
+    <header id="top-header" class="top-header">
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
         <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
-    <a href="/zeppelin/" id="logo-header" class="logo-header logo-light"></a>
+    <a href="/zeppelin/" id="logo-header" class="logo-header">
+        <div class="logo logo-light"></div>
+    </a>
     <nav class="st-menu st-effect" id="menu">
-        <div class="logo-navbar logo-dark visible-xs"></div>
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
             <li><a  href="/zeppelin/">Home</a>
             </li>
@@ -108,7 +102,7 @@
             <li><a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
             </li>
         </ul>
-        <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
+        <span id="right-nav-button" class="right-nav-button right-nav-button-hidden btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm">
             <a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
         </span>
     </nav>
@@ -123,7 +117,7 @@
 <!-- End Top Section --> 
 
                 <!-- Begin Post-->
-<section id="post-section">
+<section id="post-section" class="post-section">
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             <div class="col-lg-8 col-md-10 col-xs-12">
@@ -284,17 +278,17 @@
 <!-- End Post --> 
                 
                 <!-- Begin Footer -->
-<footer id="footer">
+<footer id="footer" class="footer">
 	<div class="row">
 		<div class="pull-left col-md-6 col-xs-6">
 			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="http://gdg-ukraine.github.io"></div>
 		</div>
-		<div class="logo-footer logo-gray pull-right"></div>
+		<div class="logo logo-footer logo-gray pull-right"></div>
 	</div>
 	<div class="row">
 		<div class="col-md-4 col-sm-4 col-xs-6">
+			<h5>Links</h5>
 			<ul>
-				<h5>Links</h5>
 				<li><a href="http://gdg.org.ua" target="_blank">GDG.org.ua</a>
 				</li>
 				<li><a href="https://developers.google.com" target="_blank">Google Developers</a>
@@ -367,7 +361,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-43643469-3', 'gdg-ukraine.github.io');
+  ga('create', 'UA-43643469-5', 'gdg-x.github.io');
   ga('send', 'pageview');
 
 </script>
@@ -386,14 +380,6 @@
     </script>
     <script src="/zeppelin/js/jquery.appear.min.js"></script>
     <script src="/zeppelin/js/waves.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            var bodyColor = $('body').css('color');
-            if (bodyColor != 'rgb(51, 51, 51)') {
-                $("head").prepend('<link rel="stylesheet" href="/zeppelin/css/bootstrap.min.css">');
-            }
-        });
-    </script>
     <script src="/zeppelin/js/scripts.min.js"></script>
 </body>
 

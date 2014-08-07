@@ -1,0 +1,23 @@
+.twitter-feed {
+    .icon {
+        width: 64px;
+        height: 64px;
+        fill: #fff;
+    }
+    .tweet {
+        height: 130px;
+        @media (max-width: 767px) {
+            height: 200px;
+        }
+        p {
+            font-weight: $light;
+        }
+    }
+}
+.tweet-text {
+    font-size: 26px;
+    line-height: 1.3;
+}
+.tweet-meta {
+    font-size: 20px;
+}

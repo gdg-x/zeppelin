@@ -4,7 +4,7 @@
 {% include head.html %}
 
 <body>
-    <div id="preloader">
+    <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
     </div>
 
@@ -40,12 +40,6 @@
         var centerMap = new google.maps.LatLng({{site.logisticsMapCenterCoordinates}});
         var mobileCenterMap = new google.maps.LatLng({{site.logisticsMapMobileCenterCoordinates}});
         var icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
-        $(document).ready(function () {
-            var bodyColor = $('body').css('color');
-            if (bodyColor != 'rgb(51, 51, 51)') {
-                $("head").prepend('<link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">');
-            }
-        });
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
 </body>

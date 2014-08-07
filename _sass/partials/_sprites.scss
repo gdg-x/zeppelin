@@ -1,0 +1,63 @@
+.logo {
+    background-image: url($logos-sprite);
+    background-repeat: no-repeat;
+    &.logo-dark {
+    	background-position: 0 -1px;
+    }
+    &.logo-gray {
+    	background-position: 0 -63px;
+	}
+	&.logo-light {
+	    background-position: 0 -127px;
+	}
+}
+.icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    fill: $icon-fill-color;
+    transition: all .5s;
+}
+.icon-vk:hover {
+    fill: #4c75a3;
+}
+.icon-rss:hover {
+    fill: #f99638;
+}
+.icon-site:hover {
+    fill: #ba620b;
+}
+.icon-email:hover {
+    fill: #e34c41;
+}
+.icon-skype:hover {
+    fill: #01aef2;
+}
+.icon-github:hover {
+    fill: #464646;
+}
+.icon-twitter:hover {
+    fill: #1bb2e9;
+}
+.icon-youtube:hover {
+    fill: #cc181e;
+}
+.icon-facebook:hover {
+    fill: #3c599b;
+}
+.icon-pinterest:hover {
+    fill: #ed0103;
+}
+.icon-linkedin:hover {
+    fill: #017eb4;
+}
+.icon-direction:hover {
+    fill: #3a84df;
+}
+.icon-google-plus:hover {
+    fill: #ce352c;
+}
+.icon-stack-overflow:hover {
+    fill: #ef7c02;
+}

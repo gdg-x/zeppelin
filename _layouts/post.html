@@ -4,14 +4,14 @@
 {% include head.html %}
 
 <body>
-    <div id="preloader">
+    <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
     </div>
     <div id="st-container" class="st-container">
         <div class="st-pusher">
             <div class="st-content">
 
-                {% include header.html %} 
+                {% include top-section.html %} 
 
                 {% include post.html isStaticPost=page.isStaticPost %} 
                 
@@ -37,14 +37,6 @@
     </script>
     <script src="{{ "/js/jquery.appear.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/waves.min.js" | prepend: site.baseurl }}"></script>
-    <script>
-        $(document).ready(function () {
-            var bodyColor = $('body').css('color');
-            if (bodyColor != 'rgb(51, 51, 51)') {
-                $("head").prepend('<link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">');
-            }
-        });
-    </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
 </body>
 
