@@ -47,16 +47,8 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="/zeppelin/img/favicons/mstile-144x144.png">
     <meta name="msapplication-config" content="/zeppelin/img/favicons/browserconfig.xml">
-
-    <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
-
-    <!-- Bootstrap -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <!-- TODC Bootstrap theme -->
-<!--    <link href="/zeppelin/css/todc-bootstrap.min.css" rel="stylesheet">-->
-    <link href="/zeppelin/css/animate.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/waves.min.css" rel="stylesheet">
-    <link href="/zeppelin/css/style.min.css" rel="stylesheet">
+    
+    <link href="/zeppelin/css/main.min.css" rel="stylesheet"> 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -68,7 +60,7 @@
 
 
 <body>
-	<div id="preloader">
+	<div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
 	</div>
 	<div id="st-container" class="st-container">
@@ -76,15 +68,17 @@
 			<div class="st-content">
 
 				 <!-- Begin Top Section -->
-<section id="top-section-hero" style="background-image: url('/zeppelin/img/hero.jpg');">
+<section id="top-section-hero" class="top-section-hero image-section" style="background-image: url('/zeppelin/img/hero.jpg');">
 
-    <header id="top-header" class="col-lg-10 col-sm-12">
-    <svg id="menu-trigger" class="icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
+    <header id="top-header" class="top-header">
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
         <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
-    <a href="/zeppelin/" id="logo-header" class="logo-header logo-light"></a>
+    <a href="/zeppelin/" id="logo-header" class="logo-header">
+        <div class="logo logo-light"></div>
+    </a>
     <nav class="st-menu st-effect" id="menu">
-        <div class="logo-navbar logo-dark visible-xs"></div>
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
             <li><a  class="current"  href="/zeppelin/">Home</a>
             </li>
@@ -107,12 +101,11 @@
             <li><a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
             </li>
         </ul>
-        <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
+        <span id="right-nav-button" class="right-nav-button right-nav-button-hidden btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm">
             <a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
         </span>
     </nav>
 </header>
-
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             <h1>GDG DevFest <span id="typeout-text"></span> 2014</h1>
@@ -122,7 +115,7 @@
             </span>
         </div>
     </div>
-    <a href="#about" class="explore">
+    <a href="#about" class="explore animated hidden fadeInDown">
         <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
             <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-arrow-down"></use>
         </svg>
@@ -131,7 +124,7 @@
 <!-- End Top Section -->
 
  <!-- About Section -->
-<section id="about">
+<section id="about" class="about">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>About GDG DevFest</h3>
@@ -166,8 +159,8 @@
 
 
  <!-- Begin Statistic Section -->
-<section id="statistic" class="parallax" style="background-image: url(/zeppelin/img/statistic.jpg);">
-	<div class="overlay"></div>
+<section id="statistic" class="statistic image-section parallax" style="background-image: url(/zeppelin/img/statistic.jpg);">
+	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
 			<div class="col-md-3 col-sm-3 col-xs-6">
@@ -210,7 +203,7 @@
 <!-- End Statistic Section -->
 
  <!-- Begin Latest News Section -->
-<section id="latest-news">
+<section id="latest-news" class="latest-news">
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
 			<h3>Latest news</h3>
@@ -244,16 +237,16 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 <!-- End Latest News Section -->
 
  <!-- Begin Rockstar Speakers Section -->
-<section id="top-speakers" class="parallax" style="background-image: url(/zeppelin/img/top-speakers.jpg);">
-	<div class="overlay"></div>
+<section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url(/zeppelin/img/rockstar-speakers.jpg);">
+	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
 			<h3>Rockstar speakers</h3>
 				
 					
 						<div id="rockstar-speaker-3" class="col-md-3 col-sm-3 col-xs-6 hidden rockstar-speakers-item animated hiding increment-animation" data-id="3" data-animation="fadeInUp" data-delay="500">
-							<div class="top-speaker-item">
-								<div class="flow-img img-circle top-speaker-img" style="background-image: url(/zeppelin/img/speakers/DawidOstrowski.jpg)"></div>
+							<div class="rockstar-speaker-item">
+								<div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(/zeppelin/img/speakers/DawidOstrowski.jpg)"></div>
 								<div class="name">Dawid Ostrowski</div>
 								<div class="sub">Google Poland</div>
 							</div>
@@ -262,8 +255,8 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 				
 					
 						<div id="rockstar-speaker-4" class="col-md-3 col-sm-3 col-xs-6 hidden rockstar-speakers-item animated hiding increment-animation" data-id="4" data-animation="fadeInUp" data-delay="500">
-							<div class="top-speaker-item">
-								<div class="flow-img img-circle top-speaker-img" style="background-image: url(/zeppelin/img/speakers/DmytroDanylyk.jpg)"></div>
+							<div class="rockstar-speaker-item">
+								<div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(/zeppelin/img/speakers/DmytroDanylyk.jpg)"></div>
 								<div class="name">Dmytro Danylyk</div>
 								<div class="sub">Lemberg Solutions Limited</div>
 							</div>
@@ -272,8 +265,8 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 				
 					
 						<div id="rockstar-speaker-5" class="col-md-3 col-sm-3 col-xs-6 hidden rockstar-speakers-item animated hiding increment-animation" data-id="5" data-animation="fadeInUp" data-delay="500">
-							<div class="top-speaker-item">
-								<div class="flow-img img-circle top-speaker-img" style="background-image: url(/zeppelin/img/speakers/MateuszHerych.jpg)"></div>
+							<div class="rockstar-speaker-item">
+								<div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(/zeppelin/img/speakers/MateuszHerych.jpg)"></div>
 								<div class="name">Mateusz Herych</div>
 								<div class="sub">Base CRM, GDG Krakow</div>
 							</div>
@@ -282,8 +275,8 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 				
 					
 						<div id="rockstar-speaker-6" class="col-md-3 col-sm-3 col-xs-6 hidden rockstar-speakers-item animated hiding increment-animation" data-id="6" data-animation="fadeInUp" data-delay="500">
-							<div class="top-speaker-item">
-								<div class="flow-img img-circle top-speaker-img" style="background-image: url(/zeppelin/img/speakers/RomanMazur.jpg)"></div>
+							<div class="rockstar-speaker-item">
+								<div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(/zeppelin/img/speakers/RomanMazur.jpg)"></div>
 								<div class="name">Roman Mazur</div>
 								<div class="sub">Stanfy, GDG Kyiv</div>
 							</div>
@@ -292,8 +285,8 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 				
 					
 						<div id="rockstar-speaker-7" class="col-md-3 col-sm-3 col-xs-6 hidden rockstar-speakers-item animated hiding increment-animation" data-id="7" data-animation="fadeInUp" data-delay="500">
-							<div class="top-speaker-item">
-								<div class="flow-img img-circle top-speaker-img" style="background-image: url(/zeppelin/img/speakers/ValentynShybanov.jpg)"></div>
+							<div class="rockstar-speaker-item">
+								<div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(/zeppelin/img/speakers/ValentynShybanov.jpg)"></div>
 								<div class="name">Valentyn Shybanov</div>
 								<div class="sub">Twinfield, GDG Kyiv</div>
 							</div>
@@ -311,8 +304,8 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 <!-- End Rockstar Speakers Section -->
 
  <!-- Begin Location Section -->
-<section id="location">
-    <div id="canvas-map"></div>
+<section id="location-map" class="location-map">
+    <div id="canvas-map" class="canvas-map"></div>
     <div class="content-wrapper">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
@@ -330,7 +323,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
                         </li>
                     </ul>
                 </div>
-                <a href="/zeppelin/logistics/#findyourway" class="pull-right">
+                <a href="/zeppelin/logistics/#find-way" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
@@ -349,12 +342,12 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
             <div class="row venue-row">
                 <div class="col-md-8 col-sm-8 venue-col">
                     <div class="venue-elem-wrapper">
-                        <div class="venue-elem venue-big-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url(/zeppelin/img/venue/venue_0.jpg)"></div>
+                        <div class="venue-elem image-section venue-big-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url(/zeppelin/img/venue/venue_0.jpg)"></div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 venue-col venue-small-col">
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url(/zeppelin/img/venue/venue_1.jpg)"></div>
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url(/zeppelin/img/venue/venue_1.jpg)"></div>
                     </div>
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
                         <div class="venue-elem venue-small-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0">
@@ -365,10 +358,10 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
                         </div>
                     </div>
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url(/zeppelin/img/venue/venue_2.jpg)"></div>
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url(/zeppelin/img/venue/venue_2.jpg)"></div>
                     </div>
                     <div class="venue-elem-wrapper col-xs-6 visible-xs">
-                        <div class="venue-elem venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url(/zeppelin/img/venue/venue_3.jpg)"></div>
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url(/zeppelin/img/venue/venue_3.jpg)"></div>
                     </div>
                 </div>
             </div>
@@ -379,8 +372,8 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 
  
  <!-- Begin Twitter Feed Section -->
-<section id="twitter-feed" class="parallax" style="background-image: url(/zeppelin/img/twitter-feed.jpg);">
-    <div class="overlay"></div>
+<section id="twitter-feed" class="twitter-feed image-section parallax" style="background-image: url(/zeppelin/img/twitter-feed.jpg);">
+    <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-6 col-md-8 col-lg-offset-3 col-md-offset-2">
             <svg class="icon" viewBox="0 0 30 32">
@@ -396,115 +389,123 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 
 
  <!-- Begin Sponsors Section -->
-<section id="sponsors">
+<section id="sponsors" class="sponsors">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>Sponsors</h3>
-            <h5>Platium</h5>
+            <h3>Partners</h3>
+            
+            <h5>General sponsor</h5>
             <ul class="list-inline">
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/google.svg" alt="sponsor-1">
+                    <a href="https://www.google.com.ua/intl/en/about/" target="_blank">
+                        <img src="/zeppelin/img/partners/google.svg" alt="Google">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
+                    <a href="http://lviv.gdg.org.ua" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-lviv.svg" alt="GDG Lviv - Open and volunteer geek community">
                     </a>
                 </li>
+                
             </ul>
-            <h5>Gold</h5>
+            
+            <h5>With support of</h5>
             <ul class="list-inline">
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/google.svg" alt="sponsor-1">
+                    <a href="https://www.google.com.ua/intl/en/about/" target="_blank">
+                        <img src="/zeppelin/img/partners/google.svg" alt="Google">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
+                    <a href="http://lviv.gdg.org.ua" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-lviv.svg" alt="GDG Lviv - Open and volunteer geek community">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-x.svg" alt="sponsor-3">
+                    <a href="https://github.com/gdg-x" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-x.svg" alt="GDG[x] - Yeah, we can fix that">
                     </a>
                 </li>
+                
             </ul>
+            
             <h5>Information partners</h5>
             <ul class="list-inline">
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/google.svg" alt="sponsor-1">
+                    <a href="https://www.google.com.ua/intl/en/about/" target="_blank">
+                        <img src="/zeppelin/img/partners/google.svg" alt="Google">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
+                    <a href="http://lviv.gdg.org.ua" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-lviv.svg" alt="GDG Lviv - Open and volunteer geek community">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-x.svg" alt="sponsor-3">
+                    <a href="https://github.com/gdg-x" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-x.svg" alt="GDG[x] - Yeah, we can fix that">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/google.svg" alt="sponsor-1">
+                    <a href="https://www.google.com.ua/intl/en/about/" target="_blank">
+                        <img src="/zeppelin/img/partners/google.svg" alt="Google">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
+                    <a href="http://lviv.gdg.org.ua" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-lviv.svg" alt="GDG Lviv - Open and volunteer geek community">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-x.svg" alt="sponsor-3">
+                    <a href="https://github.com/gdg-x" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-x.svg" alt="GDG[x] - Yeah, we can fix that">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/google.svg" alt="sponsor-1">
+                    <a href="https://www.google.com.ua/intl/en/about/" target="_blank">
+                        <img src="/zeppelin/img/partners/google.svg" alt="Google">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
+                    <a href="http://lviv.gdg.org.ua" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-lviv.svg" alt="GDG Lviv - Open and volunteer geek community">
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-x.svg" alt="sponsor-3">
+                    <a href="https://github.com/gdg-x" target="_blank">
+                        <img src="/zeppelin/img/partners/gdg-x.svg" alt="GDG[x] - Yeah, we can fix that">
                     </a>
                 </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/google.svg" alt="sponsor-1">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-lviv.svg" alt="sponsor-2">
-                    </a>
-                </li>
-                <li>
-                    <a href="#" target="_blank">
-                        <img src="/zeppelin/img/sponsors/gdg-x.svg" alt="sponsor-3">
-                    </a>
-                </li>
+                
             </ul>
-            <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
-			     <a href="/zeppelin/assets/GDG_DevFest_Partnership.pdf">Become a sponsor</a>
-            </span>
+            
+            <a href="/zeppelin/assets/GDG_DevFest_Partnership.pdf">
+                <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise">
+                     Become a sponsor
+                </span>
+            </a>
         </div>
     </div>
 </section>
 <!-- End Sponsors Section -->
 
  <!-- Begin Subscribe Section -->
-<section id="subscribe" class="parallax" style="background-image: url(/zeppelin/img/subscribe.jpg);">
-    <div class="overlay"></div>
+<section id="subscribe" class="subscribe image-section parallax" style="background-image: url(/zeppelin/img/subscribe.jpg);">
+    <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2 animated hiding" data-animation="fadeInUp" data-delay="0">
             <h3>Subscribe for updates</h3>
@@ -529,6 +530,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
                         </span>
                     </div>
                 </form>
+                <span class="subscribe-info">Registration will be open around end of August. Number of tickets are limited. Stay tuned!</span>
             </div>
         </div>
     </div>
@@ -536,7 +538,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 <!-- End Subscribe Section -->
 
  <!-- Begin Buy Tickets Section -->
-<section id="buy-tickets">
+<section id="buy-tickets" class="buy-tickets">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
 			<h3>Pricetable</h3>
@@ -590,17 +592,17 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
  
 
 				<!-- Begin Footer -->
-<footer id="footer">
+<footer id="footer" class="footer">
 	<div class="row">
 		<div class="pull-left col-md-6 col-xs-6">
 			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="http://gdg-ukraine.github.io"></div>
 		</div>
-		<div class="logo-footer logo-gray pull-right"></div>
+		<div class="logo logo-footer logo-gray pull-right"></div>
 	</div>
 	<div class="row">
 		<div class="col-md-4 col-sm-4 col-xs-6">
+			<h5>Links</h5>
 			<ul>
-				<h5>Links</h5>
 				<li><a href="http://gdg.org.ua" target="_blank">GDG.org.ua</a>
 				</li>
 				<li><a href="https://developers.google.com" target="_blank">Google Developers</a>
@@ -673,7 +675,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-43643469-3', 'gdg-ukraine.github.io');
+  ga('create', 'UA-43643469-5', 'gdg-x.github.io');
   ga('send', 'pageview');
 
 </script>
@@ -706,10 +708,6 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
         var twitterFeedUrl = 'http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900';
 
         $(document).ready(function () {
-            var bodyColor = $('body').css('color');
-            if (bodyColor != 'rgb(51, 51, 51)') {
-                $("head").prepend('<link rel="stylesheet" href="/zeppelin/css/bootstrap.min.css">');
-            }
             $(function () {
                 $("#typeout-text").typed({
                     strings: ["", "Season", "Ukraine", "Germany", "USA"],

@@ -2,7 +2,7 @@
 <div class="modals">
 	{% for speaker in site.data.speakers %}
 		{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
-		<div class="modal fade text-left speaker-modal" id="speakerDetail-{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
+		<div class="modal fade text-left people-modal" id="speakerDetail-{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-body">
@@ -24,10 +24,10 @@
 							{% endfor %}
 							<hr>
 						{% endif %}
-						<div class="speaker-details">
+						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
-									<div class="flow-img img-circle speaker-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+									<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">{{ speaker.name }} {{ speaker.surname }}

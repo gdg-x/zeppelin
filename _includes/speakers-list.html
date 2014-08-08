@@ -1,20 +1,20 @@
 <!-- Begin Speakers List-->
-<section id="speakers">
+<section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <div class="row text-left">
+            <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
-                <div class="team-item-wrapper col-md-4 col-sm-6 col-xs-12">
-                    <div class="speaker-item animated hiding increment-animation" data-animation="fadeInUp" data-delay="50">
-                        <div class="speaker-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                            <figure class="flow-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
-                                <div class="overlay"></div>
+                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                    <div class="lily-effect ribbon-activator">
+                        <div class="lily-head waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                            <figure style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
+                                <div class="overlay solid-overlay"></div>
                                 {% if speaker.ribbon != null %}
-                                <ul class="speaker-ribbon-wrapper">
+                                <ul class="ribbon-wrapper">
                                     {% for ribbon in speaker.ribbon %}
                                     <li class="{{ ribbon["abbr"] | downcase }}">
-                                        <p class="speaker-ribbon abbr">{{ ribbon["abbr"] }}</p>
-                                        <p class="speaker-ribbon full-title">{{ ribbon["title"] }}</p>
+                                        <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                        <p class="ribbon full-title">{{ ribbon["title"] }}</p>
                                     </li>
                                     {% endfor %}
                                 </ul>
@@ -27,7 +27,7 @@
                                 {% endif %}
                             </figure>
                         </div>
-                        <div class="speaker-bottom">
+                        <div class="lily-bottom">
                             <ul class="slider">
                                 {% if site.showSessions %} 
                                     {% for session in site.data.sessions %} 

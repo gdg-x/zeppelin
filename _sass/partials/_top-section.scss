@@ -1,0 +1,30 @@
+.top-section {
+    position: relative;
+    min-height: 400px;
+    padding-top: 0;
+    background: $base-section-background-color;
+    @media (max-width: 767px) {
+        min-height: 250px;
+        padding: 0;
+    }
+    .gradient-overlay {
+        opacity: 0;
+    }
+    &.enable-overlay .gradient-overlay {
+        opacity: 1;
+    }
+}
+.jumbotron {
+    position: absolute;
+    bottom: 0;
+    left: 26px;
+    margin: 0;
+    color: #fff;
+    background: 0;
+    @media (max-width: 767px) {
+        position: relative;
+        left: 13px;
+        margin-top: 117px;
+        padding-left: 0;
+    }
+}

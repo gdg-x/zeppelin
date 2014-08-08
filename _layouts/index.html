@@ -4,7 +4,7 @@
 {% include head.html %}
 
 <body>
-	<div id="preloader">
+	<div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
 	</div>
 	<div id="st-container" class="st-container">
@@ -49,10 +49,6 @@
         var twitterFeedUrl = '{{ site.twitterFeed }}';
 
         $(document).ready(function () {
-            var bodyColor = $('body').css('color');
-            if (bodyColor != 'rgb(51, 51, 51)') {
-                $("head").prepend('<link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">');
-            }
             $(function () {
                 $("#typeout-text").typed({
                     strings: [{{site.typeoutTextValues}}],

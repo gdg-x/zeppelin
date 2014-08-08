@@ -1,0 +1,66 @@
+.waves-element {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    user-select: none;
+    transition: all .3s ease-out;
+    .waves-ripple {
+        position: absolute;
+        border-radius: 100%;
+        border-width:0px;
+        border-style:solid;
+        width:0px;
+        height:0px;
+        opacity:0;
+        border-color: rgba(0, 0, 0, 0.2);
+        transition: all 0.5s ease-out;
+    }
+    &.waves-light .waves-ripple {
+        border-color: rgba(255, 255, 255, 0.2);
+    }
+}
+.waves-notransition {
+    transition: none !important;
+} 
+.waves-mask {
+    -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
+}
+.waves-button {
+    @extend .waves-mask;
+    padding:10px 15px;
+    border-radius:4px;
+    a, a:hover, a:visited, a:link, button, input[type="submit"], input[type="button"] {
+        margin: 0;
+        padding:0;
+        white-space: nowrap;
+        vertical-align: middle;
+        cursor: pointer;
+        border:none;
+        outline:none;
+        background:transparent;
+        color: inherit;
+        font-size:14px;
+        text-align: center;
+        text-decoration:none;
+    }
+}
+.waves-icon {
+    @extend .waves-mask;
+    text-align:center;
+    width:2.5em;
+    height:2.5em;
+    line-height:2.5em;
+    border-radius:20px;
+}
+.waves-will-raise {
+    -webkit-mask-image:none;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+    &:active {
+        box-shadow: 0px 7px 10px 0px rgba(0, 0, 0, 0.26);
+    }
+}
+.waves-block {
+    display:block;
+}
+

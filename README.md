@@ -37,6 +37,34 @@ Site will be available at http://127.0.0.1:4000/zeppelin/
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
+### Sass support
+Install Sass. Ruby uses Gems to manage its various packages of code like Sass. In your open terminal window type:
+```bash
+	gem install sass
+```
+
+Also you need to install the latest version of [Compass](http://compass-style.org/) with command
+```bash
+	gem install compass --pre
+```
+
+Then for combining media queries you can use [Sass::MediaQueryCombiner](https://github.com/aaronjensen/sass-media_query_combiner) plugin. Install with command
+```bash
+	gem install sass-media_query_combiner
+```
+
+And for prefixing css3 properties use [Autoprefixer](https://github.com/ai/autoprefixer)
+```bash
+	gem install autoprefixer-rails
+```
+
+To watch changes in `.sass` files and compile it to the `.css` on a fly, run this command from `\_sass\` folder
+```bash
+	compass watch
+```
+
+Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
+
 
 ### Resource optimizations (optional)
 
