@@ -4295,6 +4295,12 @@ nav li a.current, nav li a:hover {
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
 }
+@media (max-width: 767px) {
+  .top-section-hero .jumbotron {
+    margin: 0;
+    padding: 0;
+  }
+}
 .top-section-hero .jumbotron p {
   font-size: 26px;
   font-weight: 100;
@@ -4307,15 +4313,11 @@ nav li a.current, nav li a:hover {
   left: 50%;
   -webkit-transition: all 0.3s;
           transition: all 0.3s;
-  -webkit-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-          transform: translateX(-50%);
+  margin-left: -12px;
 }
 @media (max-width: 767px) {
   .explore {
-    -webkit-transform: translateY(20px);
-        -ms-transform: translateY(20px);
-            transform: translateY(20px);
+    bottom: 30px;
   }
 }
 

@@ -7,6 +7,10 @@
         top: 50%;
         left: 0;
         transform: translateY(-50%);
+        @media (max-width: 767px) {
+            margin: 0;
+            padding: 0;
+        }
         p {
             font-size: $base-font-size * 2;
             font-weight: $light;
@@ -15,13 +19,13 @@
     }
 }
 .explore {
+    margin-left: -12px;
     position: absolute;
     bottom: 50px;
     left: 50%;
     transition: $base-transition;
-    transform: translateX(-50%);
     @media (max-width: 767px) {
-        transform: translateY(20px);
+        bottom: 30px;
     }
 }
 .icon-arrow-down {
