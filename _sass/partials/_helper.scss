@@ -1,4 +1,5 @@
 .bordered {
+    display: inline-block;
     color: rgba(255, 255, 255, .6);
     border: 1px solid rgba(255, 255, 255, .6);
     border-radius: 0;
@@ -23,6 +24,7 @@
 }
 .bottom-section-link {
     text-transform: uppercase;
+    padding: 7px 17px;
 }
 .card {
     position: relative;
@@ -105,4 +107,13 @@
     &.visible {
         transform: scale(1);
     }
+}
+.flexbox-wrapper {
+    @include flexbox();
+}
+.flexbox-item-height {
+    @include flex(1);
+}
+.reset-padding {
+    padding: 0;
 }

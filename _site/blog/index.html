@@ -86,26 +86,22 @@
             </li>
             <li><a  class="current"  href="/zeppelin/blog/">Blog</a>
             </li>
-            <!-- <li><a href="#">Schedule</a>
-            </li> -->
+            <li><a  href="/zeppelin/schedule/">Schedule</a>
+            </li>
             <li><a  href="/zeppelin/speakers/">Speakers</a>
             </li>
             <li><a  href="/zeppelin/team/">Team</a>
             </li>
-            <!-- <li><a href="#">Hackathon</a>
-            </li> -->
             <li><a  href="/zeppelin/logistics/">Logistics</a>
             </li>
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
-            <!-- <li><a href="#">Buy tickets</a>
-            </li> -->
             <li><a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
             </li>
         </ul>
-        <span id="right-nav-button" class="right-nav-button right-nav-button-hidden btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm">
-            <a href="http://bit.ly/dfua-c4p" target="_blank">Become a speaker</a>
-        </span>
+        <a id="right-nav-button" href="http://bit.ly/dfua-c4p" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" target="_blank">
+            Become a speaker
+        </a>
     </nav>
 </header>
 
@@ -312,6 +308,8 @@ This year event will take place in cultural capital of Ukraine - Lviv. Being a u
 
      
 
+     
+
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -326,7 +324,7 @@ This year event will take place in cultural capital of Ukraine - Lviv. Being a u
     <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
     <!-- jQuery local fallback -->
     <script>
-    window.jQuery || document.write('<script src="/zeppelin/js/jquery-2.1.1.min.js><\/script>')
+        window.jQuery || document.write('<script src="/zeppelin/js/jquery-2.1.1.min.js><\/script>')
     </script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <!-- Bootstrap JS local fallback -->
@@ -337,7 +335,9 @@ This year event will take place in cultural capital of Ukraine - Lviv. Being a u
     </script>
     <script src="/zeppelin/js/jquery.appear.min.js"></script>
     <script src="/zeppelin/js/waves.min.js"></script>
-    <script src="/zeppelin/js/scripts.min.js"></script>
+    <script>Waves.displayEffect();</script>
+    <script src="/zeppelin/js/scripts.js"></script>
+    
 </body>
 
 </html>

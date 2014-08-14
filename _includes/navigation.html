@@ -12,25 +12,21 @@
             </li>
             <li><a {% if page.permalink == '/blog/' %} class="current" {% endif %} href="{{ site.baseurl }}/blog/">Blog</a>
             </li>
-            <!-- <li><a href="#">Schedule</a>
-            </li> -->
+            <li><a {% if page.permalink == '/schedul/e' %} class="current" {% endif %} href="{{ site.baseurl }}/schedule/">Schedule</a>
+            </li>
             <li><a {% if page.permalink == '/speakers/' %} class="current" {% endif %} href="{{ site.baseurl }}/speakers/">Speakers</a>
             </li>
             <li><a {% if page.permalink == '/team/' %} class="current" {% endif %} href="{{ site.baseurl }}/team/">Team</a>
             </li>
-            <!-- <li><a href="#">Hackathon</a>
-            </li> -->
             <li><a {% if page.permalink == '/logistics/' %} class="current" {% endif %} href="{{ site.baseurl }}/logistics/">Logistics</a>
             </li>
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
-            <!-- <li><a href="#">Buy tickets</a>
-            </li> -->
             <li><a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
             </li>
         </ul>
-        <span id="right-nav-button" class="right-nav-button right-nav-button-hidden btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm">
-            <a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
-        </span>
+        <a id="right-nav-button" href="{{ site.c4pUrl }}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" target="_blank">
+            Become a speaker
+        </a>
     </nav>
 </header>

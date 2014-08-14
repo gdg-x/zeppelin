@@ -20,14 +20,20 @@
             }, 1000);
         });
 
+    
+        $('.stream-header').each(function() {
+            var scheduleFirstSlotText = $(this).closest('.schedule-table').find('.slot').first().data('slotDetail');
+            $(this).find('.slot-detail').html(scheduleFirstSlotText);
+        });
+
+
         if ($(window).width() > 1500) {
-            $('.effect-wrapper').each(function() {
-                $(this).addClass('col-lg-3');
-            });
+            $('.effect-wrapper').addClass('col-lg-3');
         }
         if ($(window).width() < 768) {
             $('.animated').removeClass('animated').removeClass('hiding');
             $('.stat span').removeClass('timer');
+            $('.timeslot-label').addClass('stick-label');
         }
         if ($(window).height() < 512) {
             $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
@@ -41,8 +47,8 @@
             var scroll = $(this).scrollTop();
             var header = $('#top-header');
             var logo = $('#logo-header .logo');
-            var src = logo.attr('src');
             var buyButton = $('#right-nav-button');
+            var topOffset = header.height() + $('.stream-header').height();
 
             if (scroll >= 100) {
                 header.addClass('after-scroll');
@@ -57,6 +63,15 @@
             } else {
                 buyButton.addClass('right-nav-button-hidden');
             }
+
+            $('.slot').each(function() {
+                var currentPosition = $(this).offset().top - scroll;
+                var offsetActivator = topOffset + $(this).find('.slot-title').height();
+
+                if(currentPosition <=  offsetActivator && currentPosition >= 0) {
+                    $('.stream-header.sticky').find('.slot-detail').html($(this).data('slotDetail'));
+                }
+            });
         });
 
         $(function() {
@@ -221,8 +236,8 @@
                     container.removeClass('st-menu-open');
                     $('body').css('overflow', 'auto');
                 }
-                generateSameHeight()
-            }
+                generateSameHeight();
+            } 
             var bottomNavLinks = $('#bottom-navlinks');
             if ($(window).height() < 512) {
                 bottomNavLinks.removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
@@ -231,6 +246,9 @@
             }
             if ($(window).width() < 768) {
                 $('.same-height').css('height', '100%');
+                $('.timeslot-label').addClass('stick-label');
+            } else {
+                $('.timeslot-label').removeClass('stick-label');
             }
         });
 
@@ -278,7 +296,6 @@
             }
         }
     });
-
 
     //Google plus
     function initGooglePlus() {

@@ -1,0 +1,46 @@
+- 
+  date: "2014-10-24"
+  dateReadable: "October 24"
+  tracks: 
+    - {title: "Android"}
+    - {title: "Web & Cloud"}
+    - {title: "Community"}
+  timeslots: 
+    - {
+    	startTime: "09:00",
+    	endTime: "10:00",
+    	slots: [001]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	slots: [002, 003, 004]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	slots: [003, 004]
+    }
+- 
+  date: "2014-10-25"
+  dateReadable: "October 25"
+  tracks: 
+    - {title: "Android"}
+    - {title: "Web & Cloud"}
+    - {title: "Community"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	slots: [001, 002, 003]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	slots: [002, 003]
+    }
+    - {
+    	startTime: "13:00",
+    	endTime: "13:45",
+    	slots: [003]
+    }

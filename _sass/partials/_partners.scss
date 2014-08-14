@@ -1,4 +1,4 @@
-.sponsors  {
+.partners  {
     h5 {
        margin-top: 30px;
     }
@@ -6,13 +6,13 @@
         margin-bottom: 65px;
         li {
             width: 16%;
-            min-width: 180px;
-            max-width: 250px;
+            min-width: 160px;
+            max-width: 180px;
             margin: 13px 7px;
             @media (max-width: 767px) {
                 width: 40%;
                 min-width: 120px;
-                max-width: 180px;
+                max-width: 160px;
             }
         }
     }

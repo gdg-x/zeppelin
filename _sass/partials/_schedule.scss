@@ -1,0 +1,173 @@
+.schedule {
+    .schedule-table {
+        margin-bottom: 90px;
+        @media (max-width: 767px) {
+            margin-bottom: 60px;
+            padding: 0;
+        }
+    }
+    .schedule-table-heading {
+        margin: 10px 0 20px;
+        text-align: left;
+        @media (max-width: 767px) {
+            text-align: center;
+        }
+    }
+    .timeslot {
+        background: #fff;
+        border-top: 1px solid #e7e7e7;
+        border-left: 1px solid #e7e7e7;
+        &:last-child {
+            border-bottom: 1px solid #e7e7e7;
+        }
+    }
+    .stream-header {
+        z-index: 10;
+        transition: $base-transition;
+        &.sticky {
+            box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
+        }
+    }
+    .stream-header-label {
+        position: absolute;
+        padding: 10px 15px 20px;
+        max-width: 137px;
+        text-align: left;
+        margin: 0;
+        font-size: 25px;
+        line-height: 1;
+        @media (max-width: 767px) {
+            font-size: 18px;
+            max-width: 90px;
+        }
+        span {
+            font-size: 20px;
+            @media (max-width: 767px) {
+                font-size: 14px;
+            }
+        }
+    }
+    .timeslot-label {
+        @extend .stream-header-label;
+        position: relative;
+        float: left;
+        display: block;
+        transition: $base-transition;
+        font-size: 40px;
+        font-weight: $light;
+        @media (max-width: 767px) {
+            font-size: 28px;
+        }
+    }
+    .time-element {
+        position: relative;
+        height: 100%;
+    }
+    .timeslot-elements {
+        overflow: hidden;
+        margin-left: 100px;
+        transition: $base-transition;
+        @media (max-width: 767px) {
+            display: block;
+            margin-left: 80px;
+        }
+    }
+    .slot-title {
+        font-size: 22px;
+        font-weight: $regular;
+        margin: 0;
+        padding-right: 20px;
+        @media (max-width: 767px) {
+            font-size: 18px;
+        }
+    }
+    .stream-header-title {
+        @extend .slot-title;
+    }
+    .stream-header-slot {
+        padding: 10px 15px 10px;
+        text-align: left;
+        transition: $base-transition;
+        border-right: 1px solid #e7e7e7;
+        user-select: none;
+        @media (max-width: 767px) {
+            border-top: 0;
+            border-left: 1px solid #e7e7e7;
+        }
+        &:first-child {
+            border-left: 1px solid #e7e7e7;
+            @media (max-width: 767px) {
+                border-top: 0;
+            }
+        }
+    }
+    .slot {
+        @extend .stream-header-slot;
+        padding: 0;
+        border-top-width: 5px;
+        border-top-style: solid;
+        @media (max-width: 767px) {
+            border-top: 1px solid #e7e7e7 !important;
+        }
+        &:first-child {
+            @media (max-width: 767px) {
+                border-top: 0;
+            }
+        }
+        &:hover {
+            cursor: pointer;
+        }
+    }
+    .slot-content {
+        padding: 20px 15px 30px;
+        background: #fff;
+        transform: translateY(-5px);
+        transition: $base-transition;
+        @media (max-width: 767px) {
+            padding-bottom: 20px;
+            border-right-width: 5px;
+            border-right-style: solid;
+            transform: translateY(0);
+        }
+        &:hover {
+            transform: translateY(0);
+        }
+    }
+    .slot-language {
+        position: absolute;
+        font-size: 11px;
+        right: 15px;
+        top: 20px;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+        margin-top: 20px;
+    }
+    li {
+        font-size: 16px;
+        margin-bottom: 5px;
+        min-height: 40px;
+        @media (max-width: 767px) {
+            font-size: 14px;
+        }
+    }
+    .speaker-img {
+        width: 40px;
+        height: 40px;
+        border: 2px solid #fff;
+        position: absolute;
+        box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2);
+    }
+    .speaker-name {
+        line-height: 30px;
+        margin-left: 48px;
+    }
+    .speaker-position {
+        color: #555;
+        display: block;
+        line-height: 1;
+        font-size: 12px;
+        margin-top: -5px;
+    }
+}

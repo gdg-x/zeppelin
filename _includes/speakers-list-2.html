@@ -4,8 +4,8 @@
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
             {% for speaker in site.data.speakers %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
-                <div class="zoe-effect ribbon-activator waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                    <figure style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
+                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
                         {% if speaker.ribbon != null %}
                         <ul class="ribbon-wrapper">
@@ -37,9 +37,7 @@
             </div>
             {% endfor %}
         </div>
-        <span class="btn btn-primary waves-element waves-button waves-light waves-will-raise" style="margin-top: 25px;">
-               <a class="bottom-section-link" href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
-        </span>        
+        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>         
     </div>
 </section>
 <!-- End Speakers List 2 -->

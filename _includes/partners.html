@@ -1,0 +1,34 @@
+<!-- Begin Sponsors Section -->
+<section id="partners" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for organizer in site.data.organizers %}
+            <h3>{{ organizer.group }}</h3>
+            <ul class="list-inline">
+                {% for element in organizer.elements %}
+                <li>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+            <h3>Partners</h3>
+            {% for partner in site.data.partners %}
+            <h5>{{ partner.group }}</h5>
+            <ul class="list-inline">
+                {% for element in partner.elements %}
+                <li>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+            <a href="{{ site.baseurl | append: site.c4sponsorsUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">Become a sponsor</a>
+        </div>
+    </div> 
+</section>
+<!-- End Sponsors Section -->

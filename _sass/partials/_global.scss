@@ -1,5 +1,5 @@
-@include web-fonts(($fixed-font-family: ($light,$regular,$bold)));
-body, html {
+@include web-fonts(($fixed-font-family:($light, $regular, $bold)));
+ body, html {
     font-family: $fixed-font-family, $base-font-family;
     font-size: $base-font-size;
     font-weight: $regular;
@@ -27,6 +27,9 @@ p {
     font-weight: 300;
     line-height: $base-line-height;
 }
+i {
+    font-style: normal;
+}
 b, strong {
     font-weight: $bold;
 }
@@ -37,44 +40,47 @@ a {
     }
 }
 #{headings()} {
-	font-weight: $light;
-	display: block;
+    font-weight: $light;
+    display: block;
 }
 h1 {
     font-size: $h1-font-size;
     @media (max-width: 767px) {
-       font-size: $h1-font-size * 60 / 100; 
+        font-size: $h1-font-size * 60 / 100;
     }
 }
 h2 {
     font-size: $h2-font-size;
     @media (max-width: 767px) {
-       font-size: $h2-font-size * 60 / 100; 
+        font-size: $h2-font-size * 60 / 100;
     }
 }
 h3 {
     font-size: $h3-font-size;
     @media (max-width: 767px) {
-       font-size: $h3-font-size * 70 / 100; 
+        font-size: $h3-font-size * 70 / 100;
     }
 }
 h4 {
     font-size: $h4-font-size;
     @media (max-width: 767px) {
-       font-size: $h4-font-size * 70 / 100; 
+        font-size: $h4-font-size * 70 / 100;
     }
 }
 h5 {
     font-size: $h5-font-size;
     @media (max-width: 767px) {
-       font-size: $h5-font-size * 80 / 100; 
+        font-size: $h5-font-size * 80 / 100;
     }
 }
 h6 {
     font-size: $h6-font-size;
     @media (max-width: 767px) {
-       font-size: $h6-font-size * 80 / 100; 
+        font-size: $h6-font-size * 80 / 100;
     }
+}
+time {
+    display: block;
 }
 .content-wrapper {
     position: relative;
@@ -120,157 +126,110 @@ h6 {
     background-color: #fff;
 }
 .loader-gplus {
+    display: inline-block;
     position: absolute;
     top: calc(50% - 20px);
     left: calc(50% - 20px);
     width: 40px;
     height: 40px;
-    animation: rotate 2.4s linear infinite;
+    overflow: hidden;
     border-radius: 20px;
-    &:before, &:after {
+    animation: base 3s steps(1) 0s infinite;
+    &::before, &::after {
+        content: ' ';
+        display: block;
+        width: 50%;
+        height: 100%;
+        overflow: hidden;
         position: absolute;
+        top: 0;
+        left: 50%;
+        z-index: 1;
+        border-radius: 0 20px 20px 0;
+        transform-origin: 0 50%;
+    }
+    &::before {
         z-index: 2;
-        right: 0;
-        width: 40px;
-        height: 20px;
-        content: '';
-        animation: color-switch 2.4s linear infinite;
-        border-radius: 40px 40px 0 0;
+        transform-style: preserve-3d;
+        animation: flip 3s linear 0s infinite;
     }
-    &:after {
-        transform-origin: 0 100%;
-        animation-name: unfold, color-shift;
-        animation-duration: .6s, 2.4s;
-        animation-timing-function: linear, linear;
-        animation-iteration-count: infinite, infinite;
+    &::after {
+        animation: reveal 3s steps(1) 0s infinite;
     }
 }
-@keyframes rotate {
-    0.0001% {
-        -webkit-transform: rotateZ(0deg);
-        transform: rotateZ(0deg);
-        background-color: rgb(58, 123, 247);
+@keyframes base {
+    0% {
+        transform: rotate(0deg);
+        background-color: #21aa29;
     }
     25% {
-        -webkit-transform: rotateZ(0deg);
-        transform: rotateZ(0deg);
-        background-color: rgb(58, 123, 247);
-    }
-    25.0001% {
-        -webkit-transform: rotateZ(90deg);
-        transform: rotateZ(90deg);
-        background-color: rgb(222, 74, 66);
+        transform: rotate(90deg);
+        background-color: #2159d6;
     }
     50% {
-        -webkit-transform: rotateZ(90deg);
-        transform: rotateZ(90deg);
-        background-color: rgb(222, 74, 66);
-    }
-    50.0001% {
-        -webkit-transform: rotateZ(180deg);
-        transform: rotateZ(180deg);
-        background-color: rgb(255, 214, 74);
+        transform: rotate(180deg);
+        background-color: #d62408;
     }
     75% {
-        -webkit-transform: rotateZ(180deg);
-        transform: rotateZ(180deg);
-        background-color: rgb(255, 214, 74);
-    }
-    75.0001% {
-        -webkit-transform: rotateZ(270deg);
-        transform: rotateZ(270deg);
-        background-color: rgb(33, 173, 100);
+        transform: rotate(270deg);
+        background-color: #ffcf00;
     }
     100% {
-        -webkit-transform: rotateZ(270deg);
-        transform: rotateZ(270deg);
-        background-color: rgb(33, 173, 100);
+        transform: rotate(360deg);
+        background-color: #21aa29;
     }
 }
-@keyframes unfold {
-    to {
-        -webkit-transform: rotateX(180deg) rotateZ(0deg);
-        transform: rotateX(180deg) rotateZ(0deg);
-    }
-}
-@keyframes color-switch {
-    0.0001% {
-        background-color: rgb(222, 74, 66);
+@keyframes reveal {
+    0% {
+        background-color: #2159d6;
+        transform: rotate(0deg);
     }
     25% {
-        background-color: rgb(222, 74, 66);
-    }
-    25.0001% {
-        background-color: rgb(255, 214, 74);
+        background-color: #d62408;
+        transform: rotate(180deg);
     }
     50% {
-        background-color: rgb(255, 214, 74);
-    }
-    50.0001% {
-        background-color: rgb(33, 173, 100);
+        background-color: #ffcf00;
+        transform: rotate(0deg);
     }
     75% {
-        background-color: rgb(33, 173, 100);
-    }
-    75.0001% {
-        background-color: rgb(58, 123, 247);
+        background-color: #21aa29;
+        transform: rotate(180deg);
     }
     100% {
-        background-color: rgb(58, 123, 247);
+        background-color: #2159d6;
+        transform: rotate(0deg);
     }
 }
-@keyframes color-shift {
-    0.0001% {
-        border-bottom: 1px solid rgb(58, 123, 247);
-        background-color: rgb(58, 123, 247);
+@keyframes flip {
+    0% {
+        background-color: #21aa29;
+        transform: rotateY(0deg);
     }
-    12.5% {
-        border-bottom: 1px solid rgb(45, 105, 200);
-        background-color: rgb(40, 95, 195);
+    12.5%, 87.56% {
+        background-color: #105514;
     }
-    12.5001% {
-        border-bottom: 1px solid rgb(232, 120, 115);
-        background-color: rgb(232, 120, 115);
+    12.51%, 37.5% {
+        background-color: #102c6b;
     }
     25% {
-        border-bottom: 1px solid rgb(222, 74, 66);
-        background-color: rgb(222, 74, 66);
+        background-color: #2159d6;
     }
-    37.5% {
-        border-bottom: 1px solid rgb(230, 107, 99);
-        background-color: rgb(230, 107, 99);
-    }
-    37.5001% {
-        border-bottom: 1px solid rgb(255, 222, 123);
-        background-color: rgb(255, 222, 123);
+    37.51%, 62.5% {
+        background-color: #6b1204;
     }
     50% {
-        border-bottom: 1px solid rgb(255, 214, 90);
-        background-color: rgb(255, 214, 90);
+        background-color: #d62408;
     }
-    62.5% {
-        border-bottom: 1px solid rgb(255, 222, 123);
-        background-color: rgb(255, 222, 123);
+    62.51%, 87.5% {
+        background-color: #7f6700;
     }
-    62.5001% {
-        border-bottom: 1px solid rgb(25, 140, 74);
-        background-color: rgb(25, 140, 74);
-    }
-    75% {
-        border-bottom: 1px solid rgb(33, 173, 100);
-        background-color: rgb(33, 173, 100);
-    }
-    87.5% {
-        border-bottom: 1px solid rgb(82, 189, 132);
-        background-color: rgb(82, 189, 132);
-    }
-    87.5001% {
-        border-bottom: 1px solid rgb(82, 148, 247);
-        background-color: rgb(82, 148, 247);
+    75%, 78% {
+        background-color: #ffcf00;
     }
     100% {
-        border-bottom: 1px solid rgb(58, 123, 247);
-        background-color: rgb(58, 123, 247);
+        background-color: #21aa29;
+        transform: rotateY(-720deg);
     }
 }
 .social-links {
