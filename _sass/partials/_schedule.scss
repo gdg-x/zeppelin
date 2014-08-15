@@ -1,3 +1,9 @@
+$speaker-image-size: 40px;
+$schedule-border: 1px solid #e7e7e7;
+$title-font-size: 25px;
+$label-width: 100px;
+$small-label-width: 80px;
+
 .schedule {
     .schedule-table {
         margin-bottom: 90px;
@@ -15,30 +21,30 @@
     }
     .timeslot {
         background: #fff;
-        border-top: 1px solid #e7e7e7;
-        border-left: 1px solid #e7e7e7;
+        border-top: $schedule-border;
+        border-left: $schedule-border;
         &:last-child {
-            border-bottom: 1px solid #e7e7e7;
+            border-bottom: $schedule-border;
         }
     }
-    .stream-header {
+    .track-header {
         z-index: 10;
         transition: $base-transition;
         &.sticky {
             box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
         }
     }
-    .stream-header-label {
+    .track-header-label {
         position: absolute;
         padding: 10px 15px 20px;
-        max-width: 137px;
+        width: $label-width;
         text-align: left;
         margin: 0;
-        font-size: 25px;
+        font-size: $title-font-size;
         line-height: 1;
         @media (max-width: 767px) {
             font-size: 18px;
-            max-width: 90px;
+            width: $small-label-width;
         }
         span {
             font-size: 20px;
@@ -48,7 +54,7 @@
         }
     }
     .timeslot-label {
-        @extend .stream-header-label;
+        @extend .track-header-label;
         position: relative;
         float: left;
         display: block;
@@ -65,11 +71,11 @@
     }
     .timeslot-elements {
         overflow: hidden;
-        margin-left: 100px;
+        margin-left: $label-width;
         transition: $base-transition;
         @media (max-width: 767px) {
             display: block;
-            margin-left: 80px;
+            margin-left: $small-label-width;
         }
     }
     .slot-title {
@@ -81,56 +87,68 @@
             font-size: 18px;
         }
     }
-    .stream-header-title {
+    .track-header-title {
         @extend .slot-title;
     }
-    .stream-header-slot {
+    .track-header-slot {
         padding: 10px 15px 10px;
         text-align: left;
         transition: $base-transition;
-        border-right: 1px solid #e7e7e7;
+        border-right: $schedule-border;
         user-select: none;
         @media (max-width: 767px) {
             border-top: 0;
-            border-left: 1px solid #e7e7e7;
+            border-left: $schedule-border;
         }
         &:first-child {
-            border-left: 1px solid #e7e7e7;
+            border-left: $schedule-border;
             @media (max-width: 767px) {
                 border-top: 0;
             }
         }
     }
     .slot {
-        @extend .stream-header-slot;
+        @extend .track-header-slot;
         padding: 0;
-        border-top-width: 5px;
-        border-top-style: solid;
+        cursor: pointer;
         @media (max-width: 767px) {
-            border-top: 1px solid #e7e7e7 !important;
+            border-top: $schedule-border;
         }
-        &:first-child {
+        &.blank-col {
+            cursor: default;
+        }
+        &.service-slot {
+            @extend .blank-col;
+            min-height: 120px;
             @media (max-width: 767px) {
-                border-top: 0;
+                min-height: 90px;
             }
         }
-        &:hover {
-            cursor: pointer;
-        }
+    }
+    .color-line {
+        height: 5px;
+        position: absolute;
+        display: block;
+        width: 100%;
+        top: 0;
+        background: #ccc;
     }
     .slot-content {
         padding: 20px 15px 30px;
         background: #fff;
-        transform: translateY(-5px);
+        transform: translateY(0);
         transition: $base-transition;
         @media (max-width: 767px) {
             padding-bottom: 20px;
             border-right-width: 5px;
             border-right-style: solid;
-            transform: translateY(0);
+            border-right-color: #ccc;
+            &:hover {
+                transform: translateY(0);
+            }
         }
         &:hover {
-            transform: translateY(0);
+            transform: translateY(5px);
         }
     }
     .slot-language {
@@ -139,29 +157,34 @@
         right: 15px;
         top: 20px;
     }
+    .slot-complexity {
+        font-size: 13px;
+        span {
+            color: #555;    
+        }
+    }
     ul {
         list-style: none;
         padding: 0;
-        margin-top: 20px;
+        margin-top: 15px;
     }
     li {
         font-size: 16px;
         margin-bottom: 5px;
-        min-height: 40px;
         @media (max-width: 767px) {
             font-size: 14px;
         }
     }
     .speaker-img {
-        width: 40px;
-        height: 40px;
+        width: $speaker-image-size;
+        height: $speaker-image-size;
         border: 2px solid #fff;
         position: absolute;
         box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2);
     }
     .speaker-name {
-        line-height: 30px;
-        margin-left: 48px;
+        line-height: $speaker-image-size - 12;
+        margin-left: $speaker-image-size + 8;
     }
     .speaker-position {
         color: #555;

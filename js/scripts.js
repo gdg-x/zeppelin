@@ -21,8 +21,13 @@
         });
 
     
-        $('.stream-header').each(function() {
-            var scheduleFirstSlotText = $(this).closest('.schedule-table').find('.slot').first().data('slotDetail');
+        $('.track-header').each(function() {
+            var slot = $(this).closest('.schedule-table').find('.slot').first();
+            var scheduleFirstSlotText;
+            while(scheduleFirstSlotText === undefined) {
+                scheduleFirstSlotText = slot.data('slotDetail');
+                slot = slot.next();
+            }
             $(this).find('.slot-detail').html(scheduleFirstSlotText);
         });
 
@@ -48,7 +53,7 @@
             var header = $('#top-header');
             var logo = $('#logo-header .logo');
             var buyButton = $('#right-nav-button');
-            var topOffset = header.height() + $('.stream-header').height();
+            var topOffset = header.height() + $('.track-header').height();
 
             if (scroll >= 100) {
                 header.addClass('after-scroll');
@@ -69,7 +74,7 @@
                 var offsetActivator = topOffset + $(this).find('.slot-title').height();
 
                 if(currentPosition <=  offsetActivator && currentPosition >= 0) {
-                    $('.stream-header.sticky').find('.slot-detail').html($(this).data('slotDetail'));
+                    $('.track-header.sticky').find('.slot-detail').html($(this).data('slotDetail'));
                 }
             });
         });

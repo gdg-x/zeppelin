@@ -25,7 +25,7 @@
     {% endif %} 
 
     {% if page.permalink == '/schedule/' %}
-        {% include session-modals.html %} 
+        {% include sessions-modals.html %} 
     {% endif %} 
 
     {% include analytics.html %}
@@ -51,7 +51,7 @@
     <script type="text/javascript">
         $(document).ready(function () {
             var navHeight = $('#top-header').height();
-            var headerHeight = $('.stream-header').first().height();
+            var headerHeight = $('.track-header').first().height();
             $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
             $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
         });
