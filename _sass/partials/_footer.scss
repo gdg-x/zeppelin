@@ -25,10 +25,13 @@ $footer-links-color: #8b8b8b;
             text-decoration: underline;
         }
     }
+    .social-links {
+        margin-bottom: 0;
+    }
     .copyright {
         font-size: 13px;
         line-height: 1.3;
-        margin-top: 13px;
+        margin-top: 10px;
     }
 }
 .logo-footer {

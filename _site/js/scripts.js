@@ -52,7 +52,7 @@
             var scroll = $(this).scrollTop();
             var header = $('#top-header');
             var logo = $('#logo-header .logo');
-            var buyButton = $('#right-nav-button');
+            var buyButton = $('.right-nav-button');
             var topOffset = header.height() + $('.track-header').height();
 
             if (scroll >= 100) {
@@ -63,7 +63,7 @@
                 logo.removeClass('logo-dark').addClass('logo-light');
             }
 
-            if (scroll >= $(window).height()) {
+            if (scroll >= $('.top-section').height()) {
                 buyButton.removeClass('right-nav-button-hidden');
             } else {
                 buyButton.addClass('right-nav-button-hidden');

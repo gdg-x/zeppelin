@@ -1,12 +1,15 @@
 <!-- Begin Top Section -->
-<section id="top-section-hero" class="top-section-hero image-section" style="background-image: url('{{ site.baseurl }}/img/hero.jpg');">
+<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/hero.jpg');">
 
     {% include navigation.html %}
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            <h1>GDG DevFest <span id="typeout-text"></span> 2014</h1>
-            <p>{{site.eventDate}}</p>
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>
+            {% assign heroText = site.heroTitle | split:"<typeout>" %}
+            <h1>{{ heroText[0] }}<span id="typeout-text"></span>{{ heroText[1] }}</h1>
+            <p>{{ site.eventDate }}</p>
+            {% for button in site.heroButtons %}
+            <a href="{{ button.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ button.text }}</a>
+            {% endfor %}
         </div>
     </div>
     <a href="#about" class="explore animated hidden fadeInDown">

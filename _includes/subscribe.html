@@ -3,7 +3,7 @@
     <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2 animated hiding" data-animation="fadeInUp" data-delay="0">
-            <h3>Subscribe for updates</h3>
+            <h3>{{ site.subscribeTitle }}</h3>
             <div id="mc_embed_signup" class="col-lg-8 col-sm-8 col-lg-offset-2 col-sm-offset-2">
                 <form action="{{site.subscribeAction}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <div class="mc-field-group col-lg-9 col-sm-9 col-xs-12">
@@ -25,7 +25,7 @@
                         </i>
                     </div>
                 </form>
-                <span class="subscribe-info">Registration will be open around end of August. Number of tickets are limited. Stay tuned!</span>
+                <span class="subscribe-info">{{ site.subscribeInfo }}</span>
             </div>
         </div>
     </div>

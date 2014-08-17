@@ -24,9 +24,9 @@
                                 <span class="position">{{ speaker.company }}</span>
                             </div>
                             {% for social in speaker.social %}
-                            <a href="{{ social["link"] }}" target="_blank">
-                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                            <a href="{{ social.link }}" target="_blank">
+                                <svg class="icon icon-{{ social.name }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.name }}"></use>
                                 </svg>
                             </a>
                             {% endfor %}

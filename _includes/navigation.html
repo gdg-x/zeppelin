@@ -8,25 +8,23 @@
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
         <ul>
-            <li><a {% if page.permalink == '/' %} class="current" {% endif %} href="{{ site.baseurl }}/">Home</a>
+            {% for navigationLink in site.navigationLinks %}
+            <li>
+                <a class="{% if page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}">{{ navigationLink.text}}</a>
             </li>
-            <li><a {% if page.permalink == '/blog/' %} class="current" {% endif %} href="{{ site.baseurl }}/blog/">Blog</a>
-            </li>
-            <li><a {% if page.permalink == '/schedul/e' %} class="current" {% endif %} href="{{ site.baseurl }}/schedule/">Schedule</a>
-            </li>
-            <li><a {% if page.permalink == '/speakers/' %} class="current" {% endif %} href="{{ site.baseurl }}/speakers/">Speakers</a>
-            </li>
-            <li><a {% if page.permalink == '/team/' %} class="current" {% endif %} href="{{ site.baseurl }}/team/">Team</a>
-            </li>
-            <li><a {% if page.permalink == '/logistics/' %} class="current" {% endif %} href="{{ site.baseurl }}/logistics/">Logistics</a>
-            </li>
+            {% endfor %}
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
-            <li><a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
+            {% for bottomNavigationLink in site.bottomNavigationLinks %}
+            <li>
+                <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" target="_blank">{{ bottomNavigationLink.text }}</a>
             </li>
+            {% endfor %}
         </ul>
-        <a id="right-nav-button" href="{{ site.c4pUrl }}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" target="_blank">
-            Become a speaker
+        {% for rightNavigationButton in site.rightNavigationButtons %}
+        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" target="_blank">
+            {{ rightNavigationButton.text }}
         </a>
+        {% endfor %}
     </nav>
 </header>

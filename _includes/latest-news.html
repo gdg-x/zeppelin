@@ -2,7 +2,7 @@
 <section id="latest-news" class="latest-news">
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
-			<h3>Latest news</h3>
+			<h3>{{ site.latestNewsTitle }}</h3>
 			<article class="row">
 				{% for post in site.posts limit:2 %}
                     {% assign postUrl = site.baseurl | append: post.url %} 

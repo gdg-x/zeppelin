@@ -2,8 +2,9 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
-            <h3>{{ organizer.group }}</h3>
+            <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li>
@@ -14,7 +15,7 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-            <h3>Partners</h3>
+            <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
@@ -27,7 +28,7 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-            <a href="{{ site.baseurl | append: site.c4sponsorsUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">Become a sponsor</a>
+            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
     </div> 
 </section>
