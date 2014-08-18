@@ -2,62 +2,35 @@
 <footer id="footer" class="footer">
 	<div class="row">
 		<div class="pull-left col-md-6 col-xs-6">
-			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{site.url}}"></div>
+			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{ site.url }}"></div>
 		</div>
 		<div class="logo logo-footer logo-gray pull-right"></div>
 	</div>
 	<div class="row">
-		<div class="col-md-4 col-sm-4 col-xs-6">
-			<h5>Links</h5>
+		{% for block in site.footerBlocks %}
+        {% assign colWidth = 12 | divided_by: forloop.length %}
+		<div class="col-md-{{ colWidth }} col-xs-6">
+			<h5>{{ block.title }}</h5>
 			<ul>
-				<li><a href="http://gdg.org.ua" target="_blank">GDG.org.ua</a>
-				</li>
-				<li><a href="https://developers.google.com" target="_blank">Google Developers</a>
-				</li>
+				{% for linkElement in block.links %}
+				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" target="_blank">{{ linkElement.text }}</a></li>
+				{% endfor %}
 			</ul>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="row">
+		<div class="col-md-6 col-xs-12">
 			<ul class="social-links">
+				{% for social in site.socialLinks %}
 				<li>
-					<a href="{{site.gplusFollowUsUrl}}" target="_blank">
-						<svg class="icon icon-google-plus" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-google-plus"></use>
+					<a href="{{ social.link }}" target="_blank">
+						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
 						</svg>
 					</a>
 				</li>
-				<li>
-					<a href="{{site.twitterFollowUsUrl}}" target="_blank">
-						<svg class="icon icon-twitter" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
-						</svg>
-					</a>
-				</li>
-				<li>
-					<a href="{{site.fbFollowUsUrl}}" target="_blank">
-						<svg class="icon icon-facebook" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-facebook"></use>
-						</svg>
-					</a>
-				</li>
-				<li>
-					<a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">
-						<svg class="icon icon-rss" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-rss"></use>
-						</svg>
-					</a>
-				</li>
-			</ul>
-		</div>
-		<div class="col-md-4 col-sm-4 col-xs-6">
-			<h5>Contacts</h5>
-			<ul>
-				<li><a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>
-				</li>
-			</ul>
-		</div>
-		<div class="col-md-4 col-sm-4 col-xs-6">
-			<h5>FAQ</h5>
-			<ul>
-				<li><a href="{{ "/cod/" | prepend: site.baseurl }}">Code of Conduct</a>
-				</li>
+				{% endfor %}
 			</ul>
 		</div>
 	</div>

@@ -40,8 +40,73 @@
         var centerMap = new google.maps.LatLng({{site.logisticsMapCenterCoordinates}});
         var mobileCenterMap = new google.maps.LatLng({{site.logisticsMapMobileCenterCoordinates}});
         var icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+        Waves.displayEffect();
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    <script type="application/ld+json">
+    [{
+        "@context" : "http://schema.org",
+        "@type" : "Event",
+        "name" : "{{ site.title }}",
+        "description": "{{ site.description }}",
+        "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
+        "url" : "{{ site.url }}",
+        "startDate" : "{{ site.eventStartTime }}",
+        "doorTime" : "{{ site.eventDoorTime }}",
+        "endDate" : "{{ site.eventEndTime }}",
+        "location" : {
+            "@type" : "Place",
+            "name" : "{{ site.eventLocationName }}",
+            "sameAs" : "{{ site.eventLocationLink }}",
+            "address" : {
+                "@type" : "PostalAddress",
+                "streetAddress" : "{{ site.eventStreetAddress }}",
+                "addressLocality" : "{{ site.eventAddressLocality }}",
+                "addressRegion" : "{{ site.eventAddressLocalityRegion }}",
+                "postalCode" : "{{ site.eventPostalCode }}",
+                "addressCountry" : "{{ site.eventAddressCountry }}"
+            }
+        },
+        "organizer" : {
+            "@type" : "Organization",
+            "name" : "{{ site.organizerName }}",
+            "alternateName" : "{{ site.organizerAlternateName }}",
+            "description" : "{{ site.organizerDescription }}"
+            "logo" : "{{ site.organizerLogo | prepend: site.baseurl | prepend: site.url }}",
+            "email" : "{{ site.organizerEmail }}",
+            "sameAs" : "{{ site.organizerLink }}"
+        },
+        "offers" : [
+        {% for ticketsOffer in site.ticketsOffers %}
+        {
+            "@type" : "Offer",
+            "name" : "{{ ticketsOffer.name }}",
+            "url" : "{{ ticketsOffer.buyButtonLink }}",
+            "price" : "{{ ticketsOffer.price }}",
+            "validFrom" : "{{ ticketsOffer.validFrom }}",
+            "validThrough" : "{{ ticketsOffer.validThrough }}"
+        }{% if forloop.index != forloop.length %},{% endif %}
+        {% endfor %} 
+        ],
+        "performer" : [ 
+        {% for speaker in site.data.speakers %}
+        {
+            "@type" : "Person",
+            "name" : "{{ speaker.name }} {{ speaker.surname }}",
+            "image" : "{{ speaker.thumbnailUrl | prepend: site.thumbnailsFolder | prepend: site.baseurl | prepend: site.url }}",
+            "jobTitle" : "{{ speaker.title }}",
+            "worksFor" : {
+                "@type" : "Organization",
+                "name" : "{{ speaker.company }}"
+            }
+            "sameAs" : "{{ speaker.social[0].link }}"
+        }{% if forloop.index != forloop.length %},{% endif %}
+        {% endfor %}  
+        ],
+        "eventStatus" : "EventScheduled",
+        "typicalAgeRange" : "16+"
+    }]
+    </script>
 </body>
 
 </html>

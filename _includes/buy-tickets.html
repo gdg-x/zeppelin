@@ -2,50 +2,26 @@
 <section id="buy-tickets" class="buy-tickets">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>Pricetable</h3>
-			<div class="col-md-4 col-sm-4 pricing-col animated hiding" data-animation="fadeInLeft" data-delay="500">
-				<div class="pricing-header">
-					<h3 class="title">1 day</h3>
-					<h4 class="amount">$100</h4>
+			<h3>{{ site.buyTicketsTitle }}</h3>
+            {% for ticketsOffer in site.ticketsOffers %}
+	            {% assign colWidth = 12 | divided_by: forloop.length %}
+	            {% assign check = forloop.index | modulo:2 %}
+	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
+	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
+					<div class="pricing-header">
+						<h3 class="title">{{ ticketsOffer.name }}</h3>
+						<h4 class="amount">{{ ticketsOffer.price }}</h4>
+					</div>
+					<div class="pricing-content">
+						<ul>
+							{% for listItem in ticketsOffer.ticketContentList %}
+							<li>{{ listItem }}</li>
+							{% endfor %}
+						</ul>
+						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
+					</div>
 				</div>
-				<div class="pricing-content">
-					<ul>
-						<li>Lorem ipsum is simply</li>
-						<li>Dummy text of the printing</li>
-						<li>Typesetting industry</li>
-					</ul>
-					<a class="button" href="#">Buy Now</a>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-4 pricing-col pricing-col-featured animated hiding" data-animation="fadeInDown" data-delay="0">
-				<div class="pricing-ribbon">-20%</div>
-				<div class="pricing-header">
-					<h3 class="title">3 days</h3>
-					<h4 class="amount">$150</h4>
-				</div>
-				<div class="pricing-content">
-					<ul>
-						<li>Lorem ipsum is simply</li>
-						<li>Dummy text of the printing</li>
-						<li>Typesetting industry</li>
-					</ul>
-					<a class="button" href="#">Buy Now</a>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-4 pricing-col animated hiding" data-animation="fadeInRight" data-delay="500">
-				<div class="pricing-header">
-					<h3 class="title">2 days</h3>
-					<h4 class="amount">$200</h4>
-				</div>
-				<div class="pricing-content">
-					<ul>
-						<li>Lorem ipsum is simply</li>
-						<li>Dummy text of the printing</li>
-						<li>Typesetting industry</li>
-					</ul>
-					<a class="button" href="#">Buy Now</a>
-				</div>
-			</div>
+            {% endfor %}
 		</div>
 	</div>
 </section>

@@ -2,76 +2,41 @@
 <section id="direction-details" class="direction-details">
     <div class="content-wrapper">
         <section class="image-section standart-height" style="background-image: url('{{ site.baseurl }}/img/direction-details.jpg');">
-            <h3>Get around Lviv</h3>
+            <h3>{{ site.directionDetailsTitle }}</h3>
         </section>
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-left same-height-wrapper">
-                <div class="col-md-4 col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="0">
+                {% assign animationDelay = 0 %}
+                {% for card in site.directionDetailsCards %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                     <div class="card">
-                        <h4>From the Airport</h4>
-                        <p>Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.</p>
+                        <h4>{{ card.title }}</h4>
+                        <p>{{ card.information }}</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="500">
-                    <div class="card">
-                        <h4>Public Transit</h4>
-                        <p>Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="1000">
-                    <div class="card">
-                        <h4>Hotels</h4>
-                        <p>Lviv has lots of great hotels and hostels. More information will be available later.</p>
-                    </div>
-                </div>
-                <!--div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% endfor %}
+                
+                {% for wideCard in site.directionDetailsWideCards %}
+                <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
                     <div class="card questions">
-                        <h4>Questions?</h4>
-                        <div class="col-md-4 col-xs-12">
-                            <h5>General</h5>
+                        <h4>{{ wideCard.title }}</h4>
+                        {% for subCard in wideCard.subCards %}
+                        {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
+                        <div class="col-md-{{ wideCardColWidth }} col-xs-12">
+                            <h5>{{ subCard.title }}</h5>
                             <ul>
-                                <li><a href="#" target="_blank">InterContinental</a>
-                                </li>
-                                <li><a href="#" target="_blank">The Hotel Rex</a>
-                                </li>
-                                <li><a href="#" target="_blank">Westin Market Street</a>
-                                </li>
-                                <li><a href="#" target="_blank">Hotel Adagio</a>
-                                </li>
+                                {% for linkElement in subCard.links %}
+                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" target="_blank">{{ linkElement.text }}</a></li>
+                                {% endfor %}
                             </ul>
                         </div>
-                        <div class="col-md-4 col-xs-12">
-                            <h5>Registration</h5>
-                            <ul>
-                                <li><a href="#" target="_blank">InterContinental</a>
-                                </li>
-                                <li><a href="#" target="_blank">The Hotel Rex</a>
-                                </li>
-                                <li><a href="#" target="_blank">Westin Market Street</a>
-                                </li>
-                                <li><a href="#" target="_blank">Hotel Adagio</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4 col-xs-12">
-                            <h5>Attendance Details</h5>
-                            <ul>
-                                <li><a href="#" target="_blank">InterContinental</a>
-                                </li>
-                                <li><a href="#" target="_blank">The Hotel Rex</a>
-                                </li>
-                                <li><a href="#" target="_blank">Westin Market Street</a>
-                                </li>
-                                <li><a href="#" target="_blank">Hotel Adagio</a>
-                                </li>
-                            </ul>
-                        </div>
+                        {% endfor %}
                     </div>
-                </div-->
+                </div>
+                {% endfor %}
             </div>
-        </div>
-
-        <div class="row">
         </div>
     </div>
 </section>

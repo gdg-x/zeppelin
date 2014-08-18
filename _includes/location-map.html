@@ -5,16 +5,16 @@
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
-                    <h3>Location</h3>
-                    <ul itemscope="" itemtype="http://schema.org/PostalAddress">
-                        {% if site.eventLocationName %}
-                        <li itemprop="name">{{site.eventLocationName}}</li>{% endif %}
-                        <li itemprop="address">{{site.eventLocationAddress}}</li>
-                        <li itemprop="email"><a href="mailto:{{site.email}}">{{site.email}}</a>
-                        </li>
-                        <li itemscope="" itemtype="http://schema.org/Event">
-                            <time itemprop="startDate" datetime="{{site.eventStartTime}}">{{site.eventStartTimeHumanReadable}}</time>-
-                            <time itemprop="endDate" datetime="{{site.eventEndTime}}">{{site.eventEndTimeHumanReadable}}</time>
+                    <h3>{{ site.locationBlockTitle }}</h3>
+                    <ul>
+                        {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
+                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
+                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                        <li>
+                            {% assign startTime = site.eventStartTime | split: "T" %}
+                            <time>{{ startTime[1] }}</time> -
+                            {% assign endTime = site.eventEndTime | split: "T" %}
+                            <time>{{ endTime[1] }}</time>
                         </li>
                     </ul>
                 </div>

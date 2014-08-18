@@ -3,6 +3,11 @@ $direction-details-color: #757575;
     display: inline-block;
     padding: 0;
     color: $direction-details-color;
+    .image-section {
+        @media (max-width: 767px) {
+            min-height: 350px;
+        }
+    }
     .card {
         transform: translateY(-125px);
         ul {

@@ -60,7 +60,7 @@ And for prefixing css3 properties use [Autoprefixer](https://github.com/ai/autop
 
 To watch changes in `.sass` files and compile it to the `.css` on a fly, run this command from `\_sass\` folder
 ```bash
-	compass watch
+	compass watch -c config.rb -e production
 ```
 
 Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
@@ -99,6 +99,7 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 * [jquery.appear](https://github.com/bas2k/jquery.appear)
 * [jQuery countTo Plugin](https://github.com/mhuggins/jquery-countTo)
 * [Typed.js](https://github.com/mattboldt/typed.js)
+* [Sticky-kit](https://github.com/leafo/sticky-kit)
 
 ### Who is using template?
 Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.

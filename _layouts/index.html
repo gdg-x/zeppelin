@@ -49,6 +49,7 @@
         var twitterFeedUrl = '{{ site.twitterFeed }}';
 
         $(document).ready(function () {
+        	Waves.displayEffect();
             $(function () {
                 $("#typeout-text").typed({
                     strings: [{{site.typeoutTextValues}}],
@@ -57,9 +58,91 @@
                     loop: true
                 });
             });
+            //Rockstar speakers
+            var rockstarSpeakers = [
+                {% for speaker in site.data.speakers %}
+                    {% if speaker.rockstar %}
+                    {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                    {% endif %}
+                {% endfor %}
+            ];
+            rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+            if(rockstarSpeakers.length > 0) {
+                var animationDelay = 1500,
+                    count = {{ site.rockstarSpeakersCount }},
+                    colWidth = 12/count;
+                for(i=0; i<count; i++) {
+                    $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
+                    animationDelay -= 500;
+                }
+            }
         });
     </script>
 	<script src="{{ "/js/scripts.min.js " | prepend: site.baseurl }}"></script>
+	<script type="application/ld+json">
+    [{
+        "@context" : "http://schema.org",
+        "@type" : "Event",
+        "name" : "{{ site.title }}",
+        "description": "{{ site.description }}",
+        "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
+        "url" : "{{ site.url }}",
+        "startDate" : "{{ site.eventStartTime }}",
+        "doorTime" : "{{ site.eventDoorTime }}",
+        "endDate" : "{{ site.eventEndTime }}",
+        "location" : {
+            "@type" : "Place",
+            "name" : "{{ site.eventLocationName }}",
+            "sameAs" : "{{ site.eventLocationLink }}",
+            "address" : {
+                "@type" : "PostalAddress",
+                "streetAddress" : "{{ site.eventStreetAddress }}",
+                "addressLocality" : "{{ site.eventAddressLocality }}",
+                "addressRegion" : "{{ site.eventAddressLocalityRegion }}",
+                "postalCode" : "{{ site.eventPostalCode }}",
+                "addressCountry" : "{{ site.eventAddressCountry }}"
+            }
+        },
+        "organizer" : {
+            "@type" : "Organization",
+            "name" : "{{ site.organizerName }}",
+            "alternateName" : "{{ site.organizerAlternateName }}",
+            "description" : "{{ site.organizerDescription }}"
+            "logo" : "{{ site.organizerLogo | prepend: site.baseurl | prepend: site.url }}",
+            "email" : "{{ site.organizerEmail }}",
+            "sameAs" : "{{ site.organizerLink }}"
+        },
+        "offers" : [
+        {% for ticketsOffer in site.ticketsOffers %}
+        {
+            "@type" : "Offer",
+            "name" : "{{ ticketsOffer.name }}",
+            "url" : "{{ ticketsOffer.buyButtonLink }}",
+            "price" : "{{ ticketsOffer.price }}",
+            "validFrom" : "{{ ticketsOffer.validFrom }}",
+            "validThrough" : "{{ ticketsOffer.validThrough }}"
+        }{% if forloop.index != forloop.length %},{% endif %}
+        {% endfor %} 
+        ],
+        "performer" : [ 
+        {% for speaker in site.data.speakers %}
+        {
+            "@type" : "Person",
+            "name" : "{{ speaker.name }} {{ speaker.surname }}",
+            "image" : "{{ speaker.thumbnailUrl | prepend: site.thumbnailsFolder | prepend: site.baseurl | prepend: site.url }}",
+            "jobTitle" : "{{ speaker.title }}",
+            "worksFor" : {
+                "@type" : "Organization",
+                "name" : "{{ speaker.company }}"
+            }
+            "sameAs" : "{{ speaker.social[0].link }}"
+        }{% if forloop.index != forloop.length %},{% endif %}
+        {% endfor %}  
+        ],
+        "eventStatus" : "EventScheduled",
+        "typicalAgeRange" : "16+"
+    }]
+    </script>
 </body>
 
 </html>

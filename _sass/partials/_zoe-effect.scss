@@ -109,6 +109,13 @@ $figcaption-color: #3c4a50;
         }
         .position {
             font-size: 12px;
+            display: block;
+            display: -webkit-box;
+            overflow: hidden;
+            height: 15px;
+            text-overflow: ellipsis;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
         }
     }
     .bio {

@@ -37,8 +37,9 @@ $modal-highlight-color: #212121;
     color: $modal-color;
 }
 .people-modal {
-    .theme-language {
+    .theme-metadata {
         font-size: 14px;
+        margin-right: 10px;
         .caption {
             color: $modal-highlight-color;
         }

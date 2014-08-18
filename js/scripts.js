@@ -20,14 +20,25 @@
             }, 1000);
         });
 
+    
+        $('.track-header').each(function() {
+            var slot = $(this).closest('.schedule-table').find('.slot').first();
+            var scheduleFirstSlotText;
+            while(scheduleFirstSlotText === undefined) {
+                scheduleFirstSlotText = slot.data('slotDetail');
+                slot = slot.next();
+            }
+            $(this).find('.slot-detail').html(scheduleFirstSlotText);
+        });
+
+
         if ($(window).width() > 1500) {
-            $('.effect-wrapper').each(function() {
-                $(this).addClass('col-lg-3');
-            });
+            $('.effect-wrapper').addClass('col-lg-3');
         }
         if ($(window).width() < 768) {
             $('.animated').removeClass('animated').removeClass('hiding');
             $('.stat span').removeClass('timer');
+            $('.timeslot-label').addClass('stick-label');
         }
         if ($(window).height() < 512) {
             $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
@@ -41,8 +52,8 @@
             var scroll = $(this).scrollTop();
             var header = $('#top-header');
             var logo = $('#logo-header .logo');
-            var src = logo.attr('src');
-            var buyButton = $('#right-nav-button');
+            var buyButton = $('.right-nav-button');
+            var topOffset = header.height() + $('.track-header').height();
 
             if (scroll >= 100) {
                 header.addClass('after-scroll');
@@ -52,28 +63,21 @@
                 logo.removeClass('logo-dark').addClass('logo-light');
             }
 
-            if (scroll >= $(window).height()) {
+            if (scroll >= $('.top-section').height()) {
                 buyButton.removeClass('right-nav-button-hidden');
             } else {
                 buyButton.addClass('right-nav-button-hidden');
             }
-        });
 
-        $(function() {
-            var idArray = [];
-            $('.rockstar-speakers-item').each(function() {
-                idArray[idArray.length] = $(this).attr('data-id');
+            $('.slot').each(function() {
+                var currentPosition = $(this).offset().top - scroll;
+                var offsetActivator = topOffset + $(this).find('.slot-title').height();
+
+                if(currentPosition <=  offsetActivator && currentPosition >= 0) {
+                    $('.track-header.sticky').find('.slot-detail').html($(this).data('slotDetail'));
+                }
             });
-            idArray = shuffleArray(idArray);
-            for (var i = 0; i < 4; i++) {
-                $('#rockstar-speaker-' + idArray[i]).removeClass('hidden');
-            }
         });
-
-        function shuffleArray(o) {
-            for (var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
-            return o;
-        };
 
         var delay = parseInt($('.increment-animation').attr('data-delay'));
         $('.increment-animation').not('hidden').each(function(index) {
@@ -221,8 +225,8 @@
                     container.removeClass('st-menu-open');
                     $('body').css('overflow', 'auto');
                 }
-                generateSameHeight()
-            }
+                generateSameHeight();
+            } 
             var bottomNavLinks = $('#bottom-navlinks');
             if ($(window).height() < 512) {
                 bottomNavLinks.removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
@@ -231,6 +235,9 @@
             }
             if ($(window).width() < 768) {
                 $('.same-height').css('height', '100%');
+                $('.timeslot-label').addClass('stick-label');
+            } else {
+                $('.timeslot-label').removeClass('stick-label');
             }
         });
 
@@ -278,7 +285,6 @@
             }
         }
     });
-
 
     //Google plus
     function initGooglePlus() {

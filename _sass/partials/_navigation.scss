@@ -8,6 +8,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     z-index: 500;
     width: 100%;
     padding: 0 45px;
+    background: rgba(255, 255, 255, 0);
     transition: $base-transition;
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
@@ -61,7 +62,6 @@ nav {
         overflow: auto;
         width: 256px;
         height: 100%;
-        font-weight: $regular;
         transition: $long-transition;
         background: #fff;
         transform: translate(-100%,0);
@@ -96,6 +96,7 @@ nav {
         }
         a {
             font-size: $base-font-size;
+            font-weight: $regular;
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
@@ -130,8 +131,8 @@ nav {
         }
     }
 }
-#right-nav-button {
-    margin: 14px 65px 0 0;
+.right-nav-button {
+    margin: 11px 65px 0 0;
     transition: $base-transition;
     opacity: 1;
     a {

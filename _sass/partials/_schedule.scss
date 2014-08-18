@@ -1,0 +1,187 @@
+$speaker-image-size: 40px;
+$schedule-border: 1px solid #e7e7e7;
+$title-font-size: 25px;
+$label-width: 100px;
+$small-label-width: 80px;
+ .schedule {
+    ul {
+        list-style: none;
+        padding: 0;
+        margin-top: 15px;
+    }
+    li {
+        font-size: 16px;
+        margin-bottom: 5px;
+        @media (max-width: 767px) {
+            font-size: 14px;
+        }
+    }
+    .speaker-img {
+        width: $speaker-image-size;
+        height: $speaker-image-size;
+        border: 2px solid #fff;
+        position: absolute;
+        box-shadow: 0 1px 0 rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .2);
+    }
+    .speaker-name {
+        line-height: $speaker-image-size - 12;
+        margin-left: $speaker-image-size + 8;
+    }
+    .speaker-position {
+        color: #555;
+        display: block;
+        line-height: 1;
+        font-size: 12px;
+        margin-top: -5px;
+    }
+}
+.schedule-table {
+    margin-bottom: 90px;
+    @media (max-width: 767px) {
+        margin-bottom: 60px;
+        padding: 0;
+    }
+}
+.schedule-table-heading {
+    margin: 10px 0 20px;
+    text-align: left;
+    @media (max-width: 767px) {
+        text-align: center;
+    }
+}
+.timeslot {
+    background: #fff;
+    border-top: $schedule-border;
+    border-left: $schedule-border;
+    &:last-child {
+        border-bottom: $schedule-border;
+    }
+}
+.track-header {
+    z-index: 10;
+    transition: $base-transition;
+    &.sticky {
+        box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
+    }
+}
+.track-header-label {
+    position: absolute;
+    padding: 10px 15px 20px;
+    width: $label-width;
+    text-align: left;
+    margin: 0;
+    font-size: $title-font-size;
+    line-height: 1;
+    @media (max-width: 767px) {
+        font-size: 18px;
+        width: $small-label-width;
+    }
+    span {
+        font-size: 20px;
+        @media (max-width: 767px) {
+            font-size: 14px;
+        }
+    }
+}
+.timeslot-label {
+    @extend .track-header-label;
+    position: relative;
+    float: left;
+    display: block;
+    transition: $base-transition;
+    font-size: 40px;
+    font-weight: $light;
+    @media (max-width: 767px) {
+        font-size: 28px;
+    }
+}
+.time-element {
+    position: relative;
+    height: 100%;
+}
+.timeslot-elements {
+    overflow: hidden;
+    margin-left: $label-width;
+    transition: $base-transition;
+    @media (max-width: 767px) {
+        display: block;
+        margin-left: $small-label-width;
+    }
+}
+.slot-title {
+    font-size: 22px;
+    font-weight: $regular;
+    margin: 0;
+    padding-right: 20px;
+    @media (max-width: 767px) {
+        font-size: 18px;
+    }
+}
+.track-header-title {
+    @extend .slot-title;
+}
+.track-header-slot {
+    padding: 10px 15px 10px;
+    text-align: left;
+    transition: $base-transition;
+    border-right: $schedule-border;
+    user-select: none;
+    @media (max-width: 767px) {
+        border-top: 0;
+        border-left: $schedule-border;
+    }
+    &:first-child {
+        border-left: $schedule-border;
+        @media (max-width: 767px) {
+            border-top: 0;
+        }
+    }
+}
+.slot {
+    @extend .track-header-slot;
+    padding: 0;
+    cursor: pointer;
+    @media (max-width: 767px) {
+        border-top: $schedule-border;
+    }
+    &.blank-col {
+        cursor: default;
+    }
+    &.service-slot {
+        @extend .blank-col;
+    }
+}
+.color-line {
+    height: 5px;
+    position: absolute;
+    display: block;
+    width: 100%;
+    top: 0;
+    background: #ccc;
+}
+.slot-content {
+    padding: 20px 15px 30px;
+    min-height: 120px;
+    background: #fff;
+    transform: translateY(0);
+    transition: $base-transition;
+    @media (max-width: 767px) {
+        padding-bottom: 20px;
+        min-height: 90px;
+        border-right-width: 5px;
+        border-right-style: solid;
+        border-right-color: #ccc;
+        &:hover {
+            transform: translateY(0);
+        }
+    }
+    &:hover {
+        transform: translateY(5px);
+    }
+}
+.slot-language {
+    position: absolute;
+    font-size: 11px;
+    right: 15px;
+    top: 20px;
+}
