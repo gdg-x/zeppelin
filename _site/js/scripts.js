@@ -79,22 +79,6 @@
             });
         });
 
-        $(function() {
-            var idArray = [];
-            $('.rockstar-speakers-item').each(function() {
-                idArray[idArray.length] = $(this).attr('data-id');
-            });
-            idArray = shuffleArray(idArray);
-            for (var i = 0; i < 4; i++) {
-                $('#rockstar-speaker-' + idArray[i]).removeClass('hidden');
-            }
-        });
-
-        function shuffleArray(o) {
-            for (var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
-            return o;
-        };
-
         var delay = parseInt($('.increment-animation').attr('data-delay'));
         $('.increment-animation').not('hidden').each(function(index) {
             $(this).attr('data-delay', index * delay);

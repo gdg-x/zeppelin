@@ -73,6 +73,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -86,10 +87,8 @@ eventAddressLocalityRegion: "Lvivska"
 eventPostalCode: "79000"
 eventAddressCountry: "Ukraine"
 eventStartTime: "2014-10-24T10:00"
-eventStartTimeHumanReadable: "10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-24T20:00"
-eventEndTimeHumanReadable: "20:00"
 eventPlaceCoordinates: "49.843237,24.028751"
 mapCenterCoordinates: "49.842537,24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -124,7 +123,7 @@ ticketsOffers:
   price: "$100"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  tableContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
  -
@@ -134,7 +133,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  tableContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
  -
@@ -142,7 +141,7 @@ ticketsOffers:
   price: "$150"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  tableContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
 
