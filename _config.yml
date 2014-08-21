@@ -104,11 +104,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
+organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
-
-# Organizers Block
-organizersTitle: "Organizers"
 
 # Subscribe Block
 subscribeTitle: "Subscribe for updates"
@@ -150,7 +148,7 @@ socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {link: "http://localhost:4000/zeppelin/feed.xml", icon: "rss"}
+ - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
@@ -164,7 +162,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "http://localhost:4000/zeppelin/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"

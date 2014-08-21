@@ -55,14 +55,15 @@
 
 
 <body>
-	<div id="preloader" class="preloader">
+    <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
-	</div>
-	<div id="st-container" class="st-container">
-		<div class="st-pusher">
-			<div class="st-content">
+    </div>
 
-				 <!-- Begin Top Section -->
+    <div id="st-container" class="st-container">
+        <div class="st-pusher">
+            <div class="st-content">
+
+                 <!-- Begin Top Section -->
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('/zeppelin/img/hero.jpg');">
 
     <header id="top-header" class="top-header">
@@ -649,7 +650,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 <!-- End Buy Tickets Section -->
  
 
-				<!-- Begin Footer -->
+                <!-- Begin Footer -->
 <footer id="footer" class="footer">
 	<div class="row">
 		<div class="pull-left col-md-6 col-xs-6">
@@ -686,7 +687,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 			<h5>FAQ</h5>
 			<ul>
 				
-				<li><a href=" /zeppelinhttp://localhost:4000/zeppelin/cod/ " target="_blank">Code of Conduct</a></li>
+				<li><a href=" /zeppelin/cod/ " target="_blank">Code of Conduct</a></li>
 				
 			</ul>
 		</div>
@@ -697,7 +698,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 			<ul class="social-links">
 				
 				<li>
-					<a href="https://plus.google.com/b/102444623953913144164" target="_blank">
+					<a href="  " target="_blank">
 						<svg class="icon icon-google-plus" viewBox="0 0 30 32">
 							<use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-google-plus"></use>
 						</svg>
@@ -705,7 +706,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 				</li>
 				
 				<li>
-					<a href="https://twitter.com/intent/user?screen_name=GDGLviv" target="_blank">
+					<a href="  " target="_blank">
 						<svg class="icon icon-twitter" viewBox="0 0 30 32">
 							<use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-twitter"></use>
 						</svg>
@@ -713,7 +714,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 				</li>
 				
 				<li>
-					<a href="https://facebook.com/GDGLviv" target="_blank">
+					<a href="  " target="_blank">
 						<svg class="icon icon-facebook" viewBox="0 0 30 32">
 							<use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-facebook"></use>
 						</svg>
@@ -721,7 +722,7 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 				</li>
 				
 				<li>
-					<a href="http://localhost:4000/zeppelin/feed.xml" target="_blank">
+					<a href="  " target="_blank">
 						<svg class="icon icon-rss" viewBox="0 0 30 32">
 							<use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-rss"></use>
 						</svg>
@@ -742,11 +743,15 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
 </footer>
 <!-- End Footer -->
 
-			</div>
-		</div>
-	</div>
+            </div>
+        </div>
+    </div>
 
-	<script>
+     
+
+     
+
+    <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -756,82 +761,79 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
   ga('send', 'pageview');
 
 </script>
-
-	<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-	<!-- jQuery local fallback -->
-	<script>
-		window.jQuery || document.write('<script src="/zeppelin/js/jquery-2.1.1.min.js ><\/script>')
-	</script>
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-	<!-- Bootstrap JS local fallback -->
-	<script>
-		if (typeof ($.fn.modal) === 'undefined') {
-			document.write('<script src="/zeppelin/js/bootstrap.min.js ><\/script>')
-		}
-	</script>	
-	<script src="/zeppelin/js/jquery.countTo.min.js"></script>
-	<script src="/zeppelin/js/jquery.appear.min.js"></script>
-	<script src="/zeppelin/js/typed.min.js"></script>
-	<script src="/zeppelin/js/waves.min.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
-        //Location properties
-        var googleMaps = 'index';
-        var eventPlace = new google.maps.LatLng(49.843237,24.028751);
-        var centerMap = new google.maps.LatLng(49.842537,24.025701);
-        var mobileCenterMap = new google.maps.LatLng(49.841620, 24.029411);
-        var icon = '/zeppelin/img/svg/map-marker.svg';
-        //Twitter
-        var twitterFeedUrl = 'http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900';
-
-        $(document).ready(function () {
-        	Waves.displayEffect();
-            $(function () {
-                $("#typeout-text").typed({
-                    strings: ["", "Season", "Ukraine", "Germany", "USA"],
-                    typeSpeed: 150,
-                    backDelay: 900,
-                    loop: true
-                });
-            });
-            //Rockstar speakers
-            var rockstarSpeakers = [
-                
-                    
-                    {name: "Dawid Ostrowski", company: "Google Poland", image: "/zeppelin/img/speakers/DawidOstrowski.jpg"},
-                    
-                
-                    
-                    {name: "Dmytro Danylyk", company: "Lemberg Solutions Limited", image: "/zeppelin/img/speakers/DmytroDanylyk.jpg"},
-                    
-                
-                    
-                    {name: "Mateusz Herych", company: "Base CRM, GDG Krakow", image: "/zeppelin/img/speakers/MateuszHerych.jpg"},
-                    
-                
-                    
-                    {name: "Roman Mazur", company: "Stanfy, GDG Kyiv", image: "/zeppelin/img/speakers/RomanMazur.jpg"},
-                    
-                
-                    
-                    {name: "Valentyn Shybanov", company: "Twinfield, GDG Kyiv", image: "/zeppelin/img/speakers/ValentynShybanov.jpg"}
-                    
-                
-            ];
-            rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
-            if(rockstarSpeakers.length > 0) {
-                var animationDelay = 1500,
-                    count = 4,
-                    colWidth = 12/count;
-                for(i=0; i<count; i++) {
-                    $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
-                    animationDelay -= 500;
-                }
-            }
-        });
+        window.jQuery || document.write('<script src="/zeppelin/js/jquery-2.1.1.min.js><\/script>')
     </script>
-	<script src="/zeppelin/js/scripts.min.js "></script>
-	<script type="application/ld+json">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script>
+    if (typeof($.fn.modal) === 'undefined') {
+        document.write('<script src="/zeppelin/js/bootstrap.min.js><\/script>')
+    }
+    </script>
+    <script src="/zeppelin/js/default.js"></script>
+    
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+     
+    <script>
+        Waves.displayEffect();
+        
+            var googleMaps = 'index',
+                eventPlace = new google.maps.LatLng(49.843237,24.028751),
+                centerMap = new google.maps.LatLng(49.842537,24.025701),
+                mobileCenterMap = new google.maps.LatLng(49.841620, 24.029411),
+                icon = '/zeppelin/img/svg/map-marker.svg';
+            var twitterFeedUrl = 'http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900';
+            $(document).ready(function () {
+                $(function () {
+                    $("#typeout-text").typed({
+                        strings: ["", "Season", "Ukraine", "Germany", "USA"],
+                        typeSpeed: 150,
+                        backDelay: 900,
+                        loop: true
+                    });
+                });
+                var rockstarSpeakers = [
+                    
+                        
+                        {name: "Dawid Ostrowski", company: "Google Poland", image: "/zeppelin/img/speakers/DawidOstrowski.jpg"},
+                        
+                    
+                        
+                        {name: "Dmytro Danylyk", company: "Lemberg Solutions Limited", image: "/zeppelin/img/speakers/DmytroDanylyk.jpg"},
+                        
+                    
+                        
+                        {name: "Mateusz Herych", company: "Base CRM, GDG Krakow", image: "/zeppelin/img/speakers/MateuszHerych.jpg"},
+                        
+                    
+                        
+                        {name: "Roman Mazur", company: "Stanfy, GDG Kyiv", image: "/zeppelin/img/speakers/RomanMazur.jpg"},
+                        
+                    
+                        
+                        {name: "Valentyn Shybanov", company: "Twinfield, GDG Kyiv", image: "/zeppelin/img/speakers/ValentynShybanov.jpg"}
+                        
+                    
+                ];
+                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+                if(rockstarSpeakers.length > 0) {
+                    var animationDelay = 1500,
+                        count = 4,
+                        colWidth = 12/count;
+                    for(i=0; i<count; i++) {
+                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
+                        animationDelay -= 500;
+                    }
+                }
+            });
+         
+    </script>
+    <script src="/zeppelin/js/scripts.min.js"></script>
+    
+
+    <script type="application/ld+json">
     [{
         "@context" : "http://schema.org",
         "@type" : "Event",
@@ -861,15 +863,16 @@ This... <a href="/zeppelin/blog/hello-world">continue reading</a></p>
                 "longitude" : "24.028751"
             }
         },
-        "organizer" : {
-            "@type" : "Organization",
-            "name" : "GDG Lviv",
-            "alternateName" : "Google Developer Group Lviv",
-            "description" : "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion.",
-            "logo" : "http://gdg-x.github.io/zeppelin/img/seo/organizer-logo.png",
-            "email" : "lviv@gdg.org.ua",
-            "sameAs" : "http://lviv.gdg.org.ua/"
-        },
+        // Not supported yet
+        // "organizer" : {
+        //     "@type" : "Organization",
+        //     "name" : "GDG Lviv",
+        //     "alternateName" : "Google Developer Group Lviv",
+        //     "description" : "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion.",
+        //     "logo" : "http://gdg-x.github.io/zeppelin/img/seo/organizer-logo.png",
+        //     "email" : "lviv@gdg.org.ua",
+        //     "sameAs" : "http://lviv.gdg.org.ua/"
+        // },
         "offers" : [
         
         {

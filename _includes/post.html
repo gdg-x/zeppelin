@@ -14,21 +14,21 @@
                         <div class="share pull-right">
                             <ul class="social-links">
                                 <li>
-                                    <a href="https://plus.google.com/share?url={{ postUrl }}" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
+                                    <a href="https://plus.google.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open('https://plus.google.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-google-plus" viewBox="0 0 30 32">
                                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-google-plus"></use>
                                         </svg>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/home?status={{ postUrl }}" onclick="window.open('https://twitter.com/home?status={{ postUrl }}', 'newwindow', 'width=600, height=250'); return false;">
+                                    <a href="https://twitter.com/home?status={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open('https://twitter.com/home?status={{ page.url | prepend: site.baseurl | prepend: site.url }}', 'newwindow', 'width=600, height=250'); return false;">
                                         <svg class="icon icon-twitter" viewBox="0 0 30 32">
                                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
                                         </svg>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ postUrl }}" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-facebook" viewBox="0 0 30 32">
                                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-facebook"></use>
                                         </svg>
