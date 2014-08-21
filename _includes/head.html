@@ -7,10 +7,6 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="{{ site.metaKeywords }}">
     <link rel="canonical" href="{{ site.url }}">
-    <!-- Social: Google+ / Schema.org  -->
-    <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta itemprop="description" content="{{ site.description }}">
-    <meta itemprop="image" content="{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}">
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="{{ site.twitterAccount }}">
@@ -25,7 +21,6 @@
     <meta property="og:image" content="{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:description" content="{{ site.description }}" /> 
     
-
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl }}">
     <link rel="apple-touch-icon" sizes="152x152" href="{{ "/img/favicons/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">

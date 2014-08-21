@@ -1,3 +1,7 @@
+/**
+ * kjscompiler annotation
+ * @ignore
+ */
 (function($) {
     $(document).ready(function() {
         $('body').css('overflow', 'hidden');
