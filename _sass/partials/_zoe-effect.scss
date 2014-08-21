@@ -69,6 +69,7 @@ $figcaption-color: #3c4a50;
         width: 100%;
         height: 50px;
         padding: 13px;
+        z-index: 2;
         transition: $base-transition;
         transform: translateY(100%);
         color: $figcaption-color;
