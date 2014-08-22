@@ -13,6 +13,7 @@
                         </div>
                         <div class="share pull-right">
                             <ul class="social-links">
+                            {% assign postUrl = site.url | append:page.url %} 
                                 <li>
                                     <a href="https://plus.google.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open('https://plus.google.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-google-plus" viewBox="0 0 30 32">
