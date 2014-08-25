@@ -1,5 +1,5 @@
 @include web-fonts(($fixed-font-family:($light, $regular, $bold)));
- body, html {
+body, html {
     font-family: $fixed-font-family, $base-font-family;
     font-size: $base-font-size;
     font-weight: $regular;

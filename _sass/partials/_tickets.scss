@@ -47,7 +47,8 @@ $button-background-color-hover: #4d4d4d;
                 margin: 0;
             }
         }
-        .amount {
+        .price {
+            margin-bottom: 30px;
             color: $primary-color;
         }
         .pricing-content {
@@ -69,14 +70,20 @@ $button-background-color-hover: #4d4d4d;
     }
     .title {
         font-size: 32px;
+        font-weight: $light;
         margin: 0;
         padding: 20px 0;
         background: $title-background-color;
     }
-    .amount {
-        font-size: 65px;
+    .price {
+        margin: 30px 0 10px;
         padding: 26px 0;
+        font-size: 65px;
+        font-weight: $light;
         color: #000;
+    }
+    .currency {
+        font-size: 32px;
     }
     .button {
         font-size: 32px;
@@ -85,7 +92,7 @@ $button-background-color-hover: #4d4d4d;
         padding: 7px 0 10px;
         color: #fff;
         background: $button-background-color;
-        font-weight: 100;
+        font-weight: $light;
         text-decoration: none;
         &:hover {
             background: $button-background-color-hover;

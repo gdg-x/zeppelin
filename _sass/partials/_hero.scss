@@ -21,14 +21,20 @@
         }
     }
 }
+.typeout-fallback {
+    display: none;
+    @media (max-width: 767px) {
+        display: inline-block;
+    }
+}
 .explore {
     margin-left: -12px;
     position: absolute;
-    bottom: 50px;
+    bottom: 25px;
     left: 50%;
-    transition: $base-transition;
+    animation: callToAction 3.5s linear 0s infinite;
     @media (max-width: 767px) {
-        bottom: 30px;
+        animation: none;
     }
 }
 .icon-arrow-down {
@@ -38,5 +44,27 @@
     @media (max-width: 767px) {
         width: 24px;
         height: 24px;
+    }
+}
+@keyframes callToAction {
+    0% {
+        opacity: 0;
+        transform: translateY(-16px);
+    }
+    25% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    75% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    85% {
+        opacity: 0;
+        transform: translateY(-16px);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(-16px);
     }
 }

@@ -1,16 +1,16 @@
-<!-- Begin Buy Tickets Section -->
-<section id="buy-tickets" class="buy-tickets">
+<!-- Begin Tickets Section -->
+<section id="tickets" class="tickets">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.buyTicketsTitle }}</h3>
+			<h3>{{ site.ticketsTitle }}</h3>
             {% for ticketsOffer in site.ticketsOffers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
 	            {% assign check = forloop.index | modulo:2 %}
 	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
 	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
 					<div class="pricing-header">
-						<h3 class="title">{{ ticketsOffer.name }}</h3>
-						<h4 class="amount">{{ ticketsOffer.price }}</h4>
+						<p class="title">{{ ticketsOffer.name }}</p>
+						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
 					</div>
 					<div class="pricing-content">
 						<ul>
@@ -25,4 +25,4 @@
 		</div>
 	</div>
 </section>
-<!-- End Buy Tickets Section -->
+<!-- End Tickets Section -->

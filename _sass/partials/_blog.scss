@@ -1,6 +1,6 @@
 .blog {
     h3 {
-        margin-top: 0;
+        margin: 0 0 20px;
     }
 }
 .post-section {
@@ -16,21 +16,26 @@
         font-size: 15px;
         line-height: 26px;
     }
-    .social-links {
-        li {
-            margin-left: 4px;
-        }
-    }
 }
 .post-header {
     height: 20px;
     margin-top: 20px;
     font-size: 14px;
     .published {
+        padding: 0;
         font-weight: $bold;
     }
     .publish-date {
         color: #656565;
+    }
+    .share {
+        padding: 0;
+        text-align: right;
+    }
+    .social-links {
+        li {
+            margin-left: 4px;
+        }
     }
 }
 .post-body {

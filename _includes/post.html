@@ -3,33 +3,32 @@
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             <div class="col-lg-8 col-md-10 col-xs-12">
-
                 <article class="row post">
                     {% if include.isStaticPost == false %}
                     <div class="post-header">
-                        <div class="published pull-left">
+                        <div class="published col-md-6 col-xs-6 pull-left">
                             <span class="caption">Posted:</span>
                             <span class="publish-date" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
                         </div>
-                        <div class="share pull-right">
+                        <div class="share col-md-6 col-xs-6 pull-right">
                             <ul class="social-links">
-                            {% assign postUrl = site.url | append:page.url %} 
+                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %} 
                                 <li>
-                                    <a href="https://plus.google.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open('https://plus.google.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}', 'newwindow', 'width=600, height=500'); return false;">
+                                    <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-google-plus" viewBox="0 0 30 32">
                                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-google-plus"></use>
                                         </svg>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/home?status={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open('https://twitter.com/home?status={{ page.url | prepend: site.baseurl | prepend: site.url }}', 'newwindow', 'width=600, height=250'); return false;">
+                                    <a href="#" onclick="window.open('https://twitter.com/home?status={{ postUrl }}', 'newwindow', 'width=600, height=250'); return false;">
                                         <svg class="icon icon-twitter" viewBox="0 0 30 32">
                                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
                                         </svg>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}', 'newwindow', 'width=600, height=500'); return false;">
+                                    <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-facebook" viewBox="0 0 30 32">
                                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-facebook"></use>
                                         </svg>
@@ -45,12 +44,12 @@
                     <div id="page-navigation" class="page-navigation">
                         <div class="next col-xs-6">
                             {% if page.next.url %}
-                                <a href="{{page.next.url}}" title="{{page.next.title |  strip_html }}">&laquo; {{page.next.title |  strip_html | truncate: 15 }}</a>
+                                <a href="{{ page.next.url | prepend: site.baseurl }}" title="{{ page.next.title | strip_html }}">&laquo; {{page.next.title | strip_html | truncate: 15 }}</a>
                             {% endif %}
                         </div>
-                        <div class="previous col-xs-6">
+                        <div class="previous col-xs-6 text-right">
                             {% if page.previous.url %}
-                                <a href="{{page.previous.url}}" title="{{page.previous.title |  strip_html }}">{{page.previous.title |  strip_html | truncate: 15 }} &raquo;</a>
+                                <a href="{{ page.previous.url | prepend: site.baseurl }}" title="{{ page.previous.title | strip_html }}">{{page.previous.title | strip_html | truncate: 15 }} &raquo;</a>
                             {% endif %}
                         </div>
                     </div>

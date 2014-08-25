@@ -1,20 +1,16 @@
-.waves-button {
-    color: #fff;
-    &:hover, &:link, &:visited, .waves-button-input {
-        color: #fff;
-    }
-}
 .btn {
     font-weight: $bold;
     transition: $base-cubic-transition;
 }
 .btn-primary {
+    color: #fff !important;
     user-select: none;
     text-transform: uppercase;
     border: 0;
     background: $primary-color !important;
     &:hover, &:focus, &:active, &.active {
         outline: none;
+        color: #fff;
         background: $primary-color-hover;
     }
 }
