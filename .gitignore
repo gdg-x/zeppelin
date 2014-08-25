@@ -1,2 +1,6 @@
-_site
-_sass/.sass-cache
+### Jekyll ###
+_site/
+
+
+### Sass ###
+.sass-cache

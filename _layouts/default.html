@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/Blog">
+<html lang="en">
 
 {% include head.html %}
 
@@ -8,7 +8,7 @@
         <div class="loader-gplus"></div>
     </div>
 
-    <div id="st-container" class="st-container">
+    <div id="st-container" class="st-container disable-scrolling">
         <div class="st-pusher">
             <div class="st-content">
 
@@ -30,97 +30,81 @@
 
     {% include analytics.html %}
     
-    <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-    <!-- jQuery local fallback -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
     </script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <!-- Bootstrap JS local fallback -->
     <script>
     if (typeof($.fn.modal) === 'undefined') {
         document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}><\/script>')
     }
     </script>
-    <script src="{{ "/js/jquery.appear.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/waves.min.js" | prepend: site.baseurl }}"></script>
-    <script>Waves.displayEffect();</script>
+    <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
+    {% if page.permalink == '/' %}
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    {% elsif page.permalink == '/logistics/' %}
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
+    {% endif %} 
+    <script>
+        Waves.displayEffect();
+        {% if page.permalink == '/' %}
+            var googleMaps = 'index',
+                eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
+                centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates }}),
+                mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates }}),
+                icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+            var twitterFeedUrl = '{{ site.twitterFeed }}';
+            $(document).ready(function () {
+                $(function () {
+                    if ($(window).width() > 767) {
+                        $("#typeout-text").typed({
+                            strings: [{{site.typeoutTextValues}}],
+                            typeSpeed: 150,
+                            backDelay: 900,
+                            loop: true
+                        });
+                    }
+                });
+                var rockstarSpeakers = [
+                    {% for speaker in site.data.speakers %}
+                        {% if speaker.rockstar %}
+                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                        {% endif %}
+                    {% endfor %}
+                ];
+                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+                if(rockstarSpeakers.length > 0) {
+                    var animationDelay = 1500,
+                        count = {{ site.rockstarSpeakersCount }},
+                        colWidth = 12/count;
+                    for(i=0; i<count; i++) {
+                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
+                        animationDelay -= 500;
+                    }
+                }
+            });
+        {% elsif page.permalink == '/logistics/' %}
+            var googleMaps = 'logistics',
+                eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
+                centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
+                mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
+                icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+        {% endif %} 
+    </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}
-    <script src="{{ "/js/jquery.sticky-kit.min.js" | prepend: site.baseurl }}"></script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            var navHeight = $('#top-header').height();
-            var headerHeight = $('.track-header').first().height();
-            $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
-            $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
-        });
-    </script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var navHeight = $('#top-header').height();
+                var headerHeight = $('.track-header').first().height();
+                $('.stick-header').stick_in_parent({sticky_class: 'sticky', offset_top: navHeight});
+                $('.stick-label').stick_in_parent({offset_top: navHeight + headerHeight});
+            });
+        </script>
     {% endif %}
-    <script type="application/ld+json">
-    [{
-        "@context" : "http://schema.org",
-        "@type" : "Event",
-        "name" : "{{ site.title }}",
-        "description": "{{ site.description }}",
-        "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
-        "url" : "{{ site.url }}",
-        "startDate" : "{{ site.eventStartTime }}",
-        "doorTime" : "{{ site.eventDoorTime }}",
-        "endDate" : "{{ site.eventEndTime }}",
-        "location" : {
-            "@type" : "Place",
-            "name" : "{{ site.eventLocationName }}",
-            "sameAs" : "{{ site.eventLocationLink }}",
-            "address" : {
-                "@type" : "PostalAddress",
-                "streetAddress" : "{{ site.eventStreetAddress }}",
-                "addressLocality" : "{{ site.eventAddressLocality }}",
-                "addressRegion" : "{{ site.eventAddressLocalityRegion }}",
-                "postalCode" : "{{ site.eventPostalCode }}",
-                "addressCountry" : "{{ site.eventAddressCountry }}"
-            }
-        },
-        "organizer" : {
-            "@type" : "Organization",
-            "name" : "{{ site.organizerName }}",
-            "alternateName" : "{{ site.organizerAlternateName }}",
-            "description" : "{{ site.organizerDescription }}"
-            "logo" : "{{ site.organizerLogo | prepend: site.baseurl | prepend: site.url }}",
-            "email" : "{{ site.organizerEmail }}",
-            "sameAs" : "{{ site.organizerLink }}"
-        },
-        "offers" : [
-        {% for ticketsOffer in site.ticketsOffers %}
-        {
-            "@type" : "Offer",
-            "name" : "{{ ticketsOffer.name }}",
-            "url" : "{{ ticketsOffer.buyButtonLink }}",
-            "price" : "{{ ticketsOffer.price }}",
-            "validFrom" : "{{ ticketsOffer.validFrom }}",
-            "validThrough" : "{{ ticketsOffer.validThrough }}"
-        }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %} 
-        ],
-        "performer" : [ 
-        {% for speaker in site.data.speakers %}
-        {
-            "@type" : "Person",
-            "name" : "{{ speaker.name }} {{ speaker.surname }}",
-            "image" : "{{ speaker.thumbnailUrl | prepend: site.thumbnailsFolder | prepend: site.baseurl | prepend: site.url }}",
-            "jobTitle" : "{{ speaker.title }}",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "{{ speaker.company }}"
-            }
-            "sameAs" : "{{ speaker.social[0].link }}"
-        }{% if forloop.index != forloop.length %},{% endif %}
-        {% endfor %}  
-        ],
-        "eventStatus" : "EventScheduled",
-        "typicalAgeRange" : "16+"
-    }]
-    </script>
+
+    {% include schema-event.html %}
 </body>
 
 </html>

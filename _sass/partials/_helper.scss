@@ -1,8 +1,17 @@
+.content-wrapper {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+}
 .bordered {
     display: inline-block;
     color: rgba(255, 255, 255, .6);
     border: 1px solid rgba(255, 255, 255, .6);
     border-radius: 0;
+    &.dark-border {
+        color: rgba(51, 51, 51, .6);
+        border-color: rgba(51, 51, 51, .6);
+    }
 }
 .colored {
     color: $primary-color;
@@ -116,4 +125,7 @@
 }
 .reset-padding {
     padding: 0;
+}
+.disable-scrolling {
+    overflow: hidden;
 }
