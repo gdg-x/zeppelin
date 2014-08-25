@@ -10,7 +10,7 @@
         <ul>
             {% for navigationLink in site.navigationLinks %}
             <li>
-                <a class="{% if page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}">{{ navigationLink.text}}</a>
+                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}">{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
         </ul>

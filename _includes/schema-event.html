@@ -45,6 +45,7 @@
             "name" : "{{ ticketsOffer.name }}",
             "url" : "{{ ticketsOffer.buyButtonLink }}",
             "price" : "{{ ticketsOffer.price }}",
+            "priceCurrency" : "{{ ticketsOffer.priceCurrency }}",
             "validFrom" : "{{ ticketsOffer.validFrom }}",
             "validThrough" : "{{ ticketsOffer.validThrough }}"
         }{% if forloop.index != forloop.length %},{% endif %}

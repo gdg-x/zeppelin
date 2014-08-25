@@ -4,15 +4,19 @@
         height: 64px;
         fill: #fff;
     }
-    .tweet {
-        height: 130px;
-        @media (max-width: 767px) {
-            height: 200px;
-        }
-        p {
-            font-weight: $light;
-        }
+}
+.tweet {
+   height: 130px;
+    @media (max-width: 767px) {
+        height: 200px;
     }
+    p {
+        font-weight: $light;
+    }
+}
+.tweets {
+    max-width: 850px;
+    margin: 0 auto;
 }
 .tweet-text {
     font-size: 26px;
