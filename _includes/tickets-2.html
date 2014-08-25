@@ -13,13 +13,13 @@
 							{% if ticketsOffer.additionalInfo != null %}
 								<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
 							{% endif %}
+							{% if ticketsOffer.disabled != true %}
+							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
+								<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
+							{% endif %}
 						</div>
 						<div class="col-md-3 col-xs-12">
 							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
-							{% if ticketsOffer.disabled != true %}
-								{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
-								<span class="ticket-sales">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
-							{% endif %}
 						</div>
 						<div class="col-md-3 col-xs-12">
 							{% if ticketsOffer.disabled != true %}

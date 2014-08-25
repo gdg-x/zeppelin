@@ -28,12 +28,14 @@
     }
 }
 .explore {
-    margin-left: -12px;
+    margin-left: -16px;
     position: absolute;
-    bottom: 25px;
+    bottom: -25px;
     left: 50%;
     animation: callToAction 3.5s linear 0s infinite;
     @media (max-width: 767px) {
+        margin-left: -12.5px;
+        bottom: 30px;
         animation: none;
     }
 }
