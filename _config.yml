@@ -128,7 +128,7 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-19T23:59"
--
+ -
   name: "Teachers Early Bird"
   price: "8"
   priceCurrency: "Dollars"
