@@ -128,10 +128,20 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
+  -
+  name: "Student Early Bird"
+  price: "8"
+  priceCurrency: "Dollars"
+  ticketsNumber: "150"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "15"
-  priceCurrency: "UAH"
+  price: "20"
+  priceCurrency: "Dollars"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
@@ -143,8 +153,8 @@ ticketsOffers:
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "12"
+  priceCurrency: "Dollars"
   ticketsNumber: "50"
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
   buyButtonText: "Buy Now"
