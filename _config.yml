@@ -127,7 +127,62 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validThrough: "2014-09-19T23:59"
+-
+  name: "Teachers Early Bird"
+  price: "8"
+  priceCurrency: "Dollars"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-09-19T23:59"
+ -
+  name: "Developers Early Bird"
+  price: "10"
+  priceCurrency: "Dollars"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-09-19T23:59"
+ -
+  name: "Student"
+  price: "12"
+  priceCurrency: "Dollars"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-17T23:59"
+ -
+  name: "Teachers"
+  price: "12"
+  priceCurrency: "Dollars"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-17T23:59"
+ -
+  name: "Developers"
+  price: "15"
+  priceCurrency: "Dollars"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-17T23:59"
  -
   name: "Last Chance"
   price: "20"
@@ -138,42 +193,9 @@ ticketsOffers:
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2014-10-18T00:00"
+  validThrough: "2014-10-18T23:59"
   disabled: true
- -
-  name: "Student"
-  price: "12"
-  priceCurrency: "Dollars"
-  ticketsNumber: "50"
-  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
- -
-  name: "Student"
-  price: "12"
-  priceCurrency: "Dollars"
-  ticketsNumber: "50"
-  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
- -
-  name: "Student"
-  price: "12"
-  priceCurrency: "Dollars"
-  ticketsNumber: "50"
-  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
 
 # Footer
 socialLinks:
