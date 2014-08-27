@@ -80,23 +80,23 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-24T10:00"
+eventLocationName: "Fresno City College OAB"
+eventLocationLink: "http://www.fresnocitycollege.edu/"
+eventStreetAddress: "1101 E University Ave"
+eventAddressLocality: "Fresno"
+eventAddressLocalityRegion: "California"
+eventPostalCode: "93741"
+eventAddressCountry: "US"
+eventStartTime: "2014-10-18T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-24T20:00"
-eventPlaceCoordinates: "49.843237,24.028751"
-mapCenterCoordinates: "49.842537,24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2014-10-18T18:00"
+eventPlaceCoordinates: "36.768592,-119.795866"
+mapCenterCoordinates: "36.768592,-119.795866"
+mapMobileCenterCoordinates: "36.768592,-119.795866"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Fresno City College"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
