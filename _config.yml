@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 
 # Hero Block
 heroTitle: "GDG DevFest<typeout>2014"
@@ -54,7 +54,7 @@ eventDate: "October 18 2014"
 typeoutTextValues: '"", "Fresno", "Visalia", "Oakdale"'
 typeoutFallback: "Season"
 heroButtons:
- - {url: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -66,8 +66,8 @@ aboutBlock:
 # Statistic Block
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "9", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "9", specialCharacter: "", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from our community and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -97,7 +97,7 @@ mapMobileCenterCoordinates: "36.768592,-119.795866"
 # Venue Block
 venueBlockTitle: "Venue"
 venueTitle: "Fresno City College"
-venueFeatures: ["OAB","Old Administration Build","Completed 1916","Restored 2011"]
+venueFeatures: ["OAB","Old Administration Build","Completed in 1916 and Restored in 2011"]
 
 # Tweets Feed Block
 tweetsFeedTitle: "What's Up?"
@@ -120,7 +120,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Student Early Bird"
-  price: "8"
+  price: "10"
   priceCurrency: "Dollars"
   ticketsNumber: "150"
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
@@ -131,7 +131,7 @@ ticketsOffers:
   validThrough: "2014-09-19T23:59"
  -
   name: "Teachers Early Bird"
-  price: "8"
+  price: "10"
   priceCurrency: "Dollars"
   ticketsNumber: "50"
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
@@ -199,8 +199,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGFresno", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
