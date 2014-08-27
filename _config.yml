@@ -97,7 +97,7 @@ mapMobileCenterCoordinates: "36.768592,-119.795866"
 # Venue Block
 venueBlockTitle: "Venue"
 venueTitle: "Fresno City College"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["OAB"]
 
 # Tweets Feed Block
 tweetsFeedTitle: "What's Up?"
@@ -119,11 +119,21 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  name: "Student Early Bird"
+  price: "8"
+  priceCurrency: "Dollars"
   ticketsNumber: "150"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+   -
+  name: "Student"
+  price: "12"
+  priceCurrency: "Dollars"
+  ticketsNumber: "150"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
@@ -135,7 +145,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
@@ -146,7 +156,7 @@ ticketsOffers:
   price: "200"
   priceCurrency: "UAH"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
