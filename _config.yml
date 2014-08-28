@@ -120,7 +120,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Student"
-  price: "12"
+  price: "10"
   priceCurrency: "Dollars"
   ticketsNumber: "50"
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
@@ -131,7 +131,7 @@ ticketsOffers:
   validThrough: "2014-10-17T23:59"
  -
   name: "Teachers"
-  price: "12"
+  price: "20"
   priceCurrency: "Dollars"
   ticketsNumber: "50"
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
@@ -142,7 +142,7 @@ ticketsOffers:
   validThrough: "2014-10-17T23:59"
  -
   name: "Developers"
-  price: "15"
+  price: "20"
   priceCurrency: "Dollars"
   ticketsNumber: "50"
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
@@ -152,7 +152,7 @@ ticketsOffers:
   validThrough: "2014-10-17T23:59"
  -
   name: "Last Chance"
-  price: "20"
+  price: "25"
   priceCurrency: "Dollars"
   ticketsNumber: "50"
   buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
