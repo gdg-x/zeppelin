@@ -4,7 +4,7 @@
   tracks: 
     
     - {title: "Android", color: "#90be4e"}
-    - {title: "Web 1`& Cloud", color: "#03a9f4"}
+    - {title: "Web & Cloud", color: "#03a9f4"}
     - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
