@@ -92,7 +92,7 @@
     animation: blink .7s infinite;
     opacity: 1;
 }
-@-keyframes blink {
+@keyframes blink {
     0% {
         opacity: 1;
     }

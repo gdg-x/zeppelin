@@ -1,8 +1,22 @@
-.judges {
+$judge-image-size: 160px;
 
+.judge {
+    margin-bottom: 45px;
+	.name {
+		margin: 8px 0 4px;
+		font-size: 25px;
+	}
+	.company {
+		margin-top: 6px;
+		display: block;
+		font-size: 18px;
+		line-height: 1.1;
+	}
 }
 .judge-img {
-	width: 140px;
-	height: 140px;
+	width: $judge-image-size;
+	height: $judge-image-size;
 	margin: 0 auto;
+	border: 3px solid #fff;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, .15), 0 3px 4px rgba(0, 0, 0, .2);
 }
