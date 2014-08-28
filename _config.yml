@@ -66,7 +66,7 @@ aboutBlock:
 # Statistic Block
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "9", specialCharacter: "", info: "hours", detail: "of pure Google technologies"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from our community and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
