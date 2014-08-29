@@ -5,7 +5,7 @@
   subtype: keynote
   speakers:
   language: 
-  complexity: "Beginner"
+  complexity:
 -
   id: 101
   title: "Lunch"
