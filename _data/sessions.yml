@@ -1,9 +1,11 @@
 -
   id: 100
   title: "Keynote"
-  place: "OAB Auditorium"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  service: true
+  description: "This is a placeholder for a short description of the keynote speaker - COMING SOON!"
+  subtype: keynote
+  speakers:
+  language: 
+  complexity: "Beginner"
 -
   id: 101
   title: "Lunch"
