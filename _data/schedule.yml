@@ -31,11 +31,11 @@
     - {
         startTime: "1:00",
         endTime: "1:50",
-        sessionIds: [008, 006, 010, 010]
+        sessionIds: [008, 009, 010, 010]
       }      
     - {
         startTime: "2:00",
         endTime: "2:50",
-        sessionIds: [008, 006, 010, 010]
+        sessionIds: [008, 012, 011, 010]
       }      
             
