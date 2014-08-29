@@ -1,4 +1,9 @@
 -
+  id: 100
+  title: "Keynote"
+  place: "OAB Auditorium"
+  service: true
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
