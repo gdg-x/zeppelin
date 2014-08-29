@@ -22,7 +22,7 @@
 -
   id: 001
   title: "Android Studio"
-  description: "This session will cover the basics of working with Android Studio."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: workshop
   speakers:
   language: 
@@ -30,7 +30,7 @@
 -
   id: 002
   title: "AngularJS"
-  description: "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: presentation
   speakers: 
   language: 
@@ -38,7 +38,7 @@
 -
   id: 003
   title: "MIT App Inventor"
-  description: "App Inventor is a cloud-based tool, which means that you can build apps right in your web browser. This website offers all of the support that you'll need as you learn how to build your own apps. "
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: presentation
   speakers: 
   language: 
@@ -46,7 +46,7 @@
 -
   id: 004
   title: "Performance Matters"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -54,7 +54,7 @@
 -
   id: 005
   title: "Google Glass"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -62,7 +62,7 @@
 -
   id: 006
   title: "Polymer"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -70,7 +70,7 @@
 -
   id: 007
   title: "Getting It Done"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -78,7 +78,7 @@
 -
   id: 008
   title: "Android EndPoints"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -86,7 +86,7 @@
 -
   id: 009
   title: "Cloud Storage"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -94,7 +94,7 @@
 -
   id: 010
   title: "Dart Part 1"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -102,7 +102,7 @@
 -
   id: 011
   title: "Dart Part 2"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -110,7 +110,7 @@
 -
   id: 012
   title: "Android UX/UI"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -118,7 +118,7 @@
 -
   id: 013
   title: "Google App Engine"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -126,7 +126,7 @@
 -
   id: 014
   title: "Open"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
@@ -135,9 +135,25 @@
 -
   id: 015
   title: "Getting into GIT"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 
   language: 
   complexity: "Beginner"
 
+-
+  id: 016
+  title: "HTML 5"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
+-
+  id: 016
+  title: "Chrome DevTools"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
