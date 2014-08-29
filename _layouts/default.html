@@ -53,7 +53,7 @@
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
@@ -69,7 +69,7 @@
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}
                 ];
@@ -89,13 +89,13 @@
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
         {% elsif page.permalink == '/hackathon/' %}
             var googleMaps = 'hackathon',
                 eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.hackathonMapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.hackathonMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
         {% endif %} 
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>

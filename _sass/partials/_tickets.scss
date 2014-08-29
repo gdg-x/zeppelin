@@ -33,12 +33,6 @@ $button-background-color-hover: #4d4d4d;
             top: 0;
         }
         .pricing-ribbon {
-            position: absolute;
-            top: 10px;
-            right: -45px;
-            padding: 5px 50px;
-            transform: rotate(45deg);
-            color: #fff;
             background: $primary-color;
         }
         .title {
@@ -97,6 +91,15 @@ $button-background-color-hover: #4d4d4d;
         &:hover {
             background: $button-background-color-hover;
         }
+    }
+    .pricing-ribbon {
+        position: absolute;
+        top: 10px;
+        right: -45px;
+        padding: 5px 50px;
+        transform: rotate(45deg);
+        color: #fff;
+        background: $button-background-color;
     }
 }
 .pricing-content {
