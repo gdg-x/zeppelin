@@ -8,7 +8,11 @@
   title: "Lunch"
   place: "OAB Auditorium"
   service: true
-
+-
+  id: 102
+  title: "Closing/Pizza/DJ"
+  place: "OAB Auditorium"
+  service: true
 -
   id: 307
   title: "Coffee Break"
@@ -149,14 +153,7 @@
   speakers: 
   language: 
   complexity: "Beginner"
--
-  id: 016
-  title: "Chrome DevTools"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
-  speakers: 
-  language: 
-  complexity: "Beginner"
+
 -
   id: 017
   title: "Android Wear"
@@ -192,6 +189,22 @@
 -
   id: 021
   title: "Compute Engine"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
+-
+  id: 022
+  title: "Chrome DevTools"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
+-
+  id: 023
+  title: "Design Spring"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
   speakers: 

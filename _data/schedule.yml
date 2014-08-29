@@ -43,6 +43,14 @@
         endTime: "3:50",
         sessionIds: [019, 021, 016, 014]
       }
-
-      
+    - {
+        startTime: "4:00",
+        endTime: "4:50",
+        sessionIds: [019, 021, 016, 014]
+      }
+    - {
+        startTime: "5:00",
+        endTime: "7:50",
+        sessionIds: [102]
+      }      
                      
