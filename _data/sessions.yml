@@ -19,7 +19,7 @@
   title: "Android Studio"
   description: "This session will cover the basics of working with Android Studio."
   subtype: workshop
-  speakers: [3]
+  speakers:
   language: en
   complexity: "Beginner"
 -
@@ -44,7 +44,7 @@
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
   speakers: [6]
-  language: uk
+  language: en
   complexity: "Beginner"
 -
   id: 005
