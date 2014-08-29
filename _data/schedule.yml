@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Android", color: "#90be4e"}
     - {title: "Chrome & Cloud", color: "#03a9f4"}
-    - {title: "Intern", color: "#e91e63"}
+    - {title: "Intern", color: "#ffcc00"}
   timeslots:
     - {
         startTime: "10:00",
