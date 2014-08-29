@@ -4,6 +4,16 @@
   place: "OAB Auditorium"
   service: true
 -
+  id: 101
+  title: "Closing"
+  place: "OAB Auditorium"
+  service: true
+  -
+  id: 102
+  title: "Pizza/Party/Music"
+  place: "CourtYard"
+  service: true
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
@@ -15,15 +25,15 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Android Studio"
+  description: "This session will cover the basics of working with Android Studio."
   subtype: workshop
   speakers: [3]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
+  title: "Google Glass"
   description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
   subtype: presentation
   speakers: [4, 5]
