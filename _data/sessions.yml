@@ -157,3 +157,43 @@
   speakers: 
   language: 
   complexity: "Beginner"
+-
+  id: 017
+  title: "Android Wear"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"  
+-
+  id: 018
+  title: "How to be a Web Developer Super Hero"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
+-
+  id: 019
+  title: "Android Wear"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
+-
+  id: 020
+  title: "Google Play Services"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
+-
+  id: 021
+  title: "Compute Engine"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
