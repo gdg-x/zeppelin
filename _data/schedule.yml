@@ -31,6 +31,6 @@
     - {
         startTime: "1:00",
         endTime: "1:50",
-        sessionIds: [008, 006, 003, 004]
+        sessionIds: [008, 006, 003, 010]
       }      
       
