@@ -2,6 +2,7 @@
   id: 100
   title: "Keynote"
   place: "OAB Auditorium"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   service: true
 -
   id: 101
