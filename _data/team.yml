@@ -36,7 +36,35 @@
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
+  id: 3
+  name: "Justine"
+  surname: "Ribeiro"
+  title: "GDG Oakdale Co-Organizer"
+  thumbnailUrl: justinribeiro.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+
+- 
   id: 4
+  name: "Ahsen"
+  surname: "Baig"
+  title: "GDG Visalia Organizer"
+  thumbnailUrl: justinribeiro.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+   
+- 
+  id: 8
   name: "Ashen"
   surname: "Danylyk"
   title: "Android Program Committee"
@@ -47,7 +75,7 @@
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 7
+  id: 9
   name: "Valentyn"
   surname: "Shybanov"
   title: "Web and Cloud Program Committee"
