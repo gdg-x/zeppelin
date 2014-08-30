@@ -1,9 +1,9 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
+  name: "Rio"
+  surname: "Waller"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: riowaller.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
