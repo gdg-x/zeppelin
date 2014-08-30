@@ -2,22 +2,20 @@
   id: 0
   name: "Rio"
   surname: "Waller"
-  title: "Sponsors and Speakers Manager"
+  title: "Event Manager"
   thumbnailUrl: riowaller.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+RioWaller"}
+    - {name: "twitter", link: "https://twitter.com/riowaller"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "James"
+  surname: "Cha"
+  title: "Event Manager"
+  thumbnailUrl: jamescha.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -26,7 +24,7 @@
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
+  name: "Justine"
   surname: "Andrusiv"
   title: "Sponsors and Speakers Manager"
   thumbnailUrl: OstapAndrusiv.jpg
@@ -39,7 +37,7 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
+  name: "Ashen"
   surname: "Danylyk"
   title: "Android Program Committee"
   thumbnailUrl: DmytroDanylyk.jpg
