@@ -2,7 +2,7 @@
   id: 0
   name: "Rio"
   surname: "Waller"
-  title: "Event Manager"
+  title: "GDG Fresno Co-Organizer"
   thumbnailUrl: riowaller.jpg
   team: true
   ribbon: 
@@ -14,7 +14,7 @@
   id: 1
   name: "James"
   surname: "Cha"
-  title: "Event Manager"
+  title: "GDG Fresno Co-Organizer"
   thumbnailUrl: jamescha.jpg
   team: true
   ribbon: 
@@ -25,9 +25,9 @@
 - 
   id: 2
   name: "Justine"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  surname: "Ribeiro"
+  title: "GDG Oakdale Co-Organizer"
+  thumbnailUrl: justinribeiro.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
