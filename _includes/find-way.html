@@ -24,7 +24,7 @@
                     <svg class="icon icon-flag" viewBox="0 0 30 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flag"></use>
                     </svg>
-                    <span>Distance</span>
+                    <span>{{ site.findWayDistance }}</span>
                     <span id="distance" class="detailed-result pull-right"></span>
                 </li>
                 <li>
@@ -33,16 +33,17 @@
                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flight"></use>
                         </svg>
                         <select id="mode-select">
-                            <option value="DRIVING">DRIVING</option>
-                            <option value="WALKING">WALKING</option>
-                            <option value="BICYCLING">BICYCLING</option>
-                            <option value="TRANSIT">TRANSIT</option>
+                            <option value="DRIVING">{{ site.findWayDriving }}</option>
+                            <option value="WALKING">{{ site.findWayWalking }}</option>
+                            <option value="BICYCLING">{{ site.findWayBicycling }}</option>
+                            <option value="TRANSIT">{{ site.findWayTransit }}</option>
                         </select>
                         <span id="estimateTime" class="detailed-result pull-right"></span>
                     </div>
-                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">Find Flight</a>
+                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">{{ site.findWayFindFlight }}</a>
                 </li>
             </ul>
+            <a href="http://maps.google.com/maps?ll={{ site.eventPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.eventStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.eventAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
         </div>
     </div>
 </section>

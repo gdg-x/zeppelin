@@ -1,6 +1,11 @@
 $prize-img-width: 250px;
 $small-prize-img-width: 110px;
 
+.prizes {
+	h3 {
+		margin-bottom: 20px;
+	}
+}
 .prize {
 	margin-top: 50px;
 	&:nth-child(3) {

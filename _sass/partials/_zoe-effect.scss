@@ -110,13 +110,7 @@ $figcaption-color: #3c4a50;
         }
         .position {
             font-size: 12px;
-            display: block;
-            display: -webkit-box;
-            overflow: hidden;
-            height: 15px;
-            text-overflow: ellipsis;
-            -webkit-line-clamp: 1;
-            -webkit-box-orient: vertical;
+            @include trimText(12px, 1, 1);
         }
     }
     .bio {
@@ -125,18 +119,12 @@ $figcaption-color: #3c4a50;
         position: relative;
         top: 50%;
         left: 0;
-        display: block;
-        display: -webkit-box;
-        overflow: hidden;
-        height: 110px;
         padding: 1.4em;
         transition: $base-transition;
         transform: translateY(0);
-        text-overflow: ellipsis;
         opacity: 0;
         color: #fff;
         background: none;
-        -webkit-line-clamp: 5;
-        -webkit-box-orient: vertical;
+        @include trimText(14px, 1.3, 5);
     }
 }

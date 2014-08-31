@@ -42,18 +42,26 @@
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script>
+        if ($(window).width() > 767) {
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+        } 
+    </script>
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
     {% endif %} 
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
+            if ($(window).width() > 767) {
             var googleMaps = 'index',
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates }}),
                 icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+            } else {
+                $('#canvas-map').addClass('image-section').css('background-image','url(http://maps.googleapis.com/maps/api/staticmap?zoom=17&center={{ site.mapMobileCenterCoordinates | replace:' ','' }}&size=' + $(window).width() + 'x700&scale=2&language=en&markers={{ site.eventPlaceCoordinates | replace:' ','' }})');
+            }
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
@@ -79,7 +87,11 @@
                         count = {{ site.rockstarSpeakersCount }},
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
-                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
+                        var clearfix = '<div class="clearfix visible-xs"></div>';
+                        if ((i)%2 != 0) {
+                            clearfix = ""
+                        }
+                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>' + clearfix);
                         animationDelay -= 500;
                     }
                 }
@@ -98,7 +110,7 @@
                 icon = '{{ site.baseurl }}/img/other/map-marker.svg';
         {% endif %} 
     </script>
-    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
