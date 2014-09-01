@@ -1,5 +1,5 @@
 <!-- Begin Tickets 2 Section -->
-<section id="tickets-2" class="tickets-2">
+<section id="tickets" class="tickets-2">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
 			<h3>{{ site.ticketsTitle }}</h3>
@@ -8,7 +8,7 @@
             {% for ticketsOffer in site.ticketsOffers %}
 	            <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 	            	<div class="row">
-						<div class="col-md-6 col-xs-12">
+						<div class="col-sm-6 col-xs-12">
 							<p class="title">{{ ticketsOffer.name }}</p>
 							{% if ticketsOffer.additionalInfo != null %}
 								<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
@@ -18,10 +18,10 @@
 								<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
 							{% endif %}
 						</div>
-						<div class="col-md-3 col-xs-12">
+						<div class="col-sm-3 col-xs-12">
 							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
 						</div>
-						<div class="col-md-3 col-xs-12">
+						<div class="col-sm-3 col-xs-12">
 							{% if ticketsOffer.disabled != true %}
 							<span class="bordered dark-border button">
 								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>

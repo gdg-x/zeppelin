@@ -46,7 +46,7 @@
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
-                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position">{{ speaker.company }}</span>
                                                     </p>
