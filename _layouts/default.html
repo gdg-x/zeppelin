@@ -54,13 +54,17 @@
         Waves.displayEffect();
         {% if page.permalink == '/' %}
             if ($(window).width() > 767) {
-            var googleMaps = 'index',
-                eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
-                centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates }}),
-                mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+                var googleMaps = 'index',
+                    eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
+                    centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
+                    mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
+                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
             } else {
-                $('#canvas-map').addClass('image-section').css('background-image','url(http://maps.googleapis.com/maps/api/staticmap?zoom=17&center={{ site.mapMobileCenterCoordinates | replace:' ','' }}&size=' + $(window).width() + 'x700&scale=2&language=en&markers={{ site.eventPlaceCoordinates | replace:' ','' }})');
+               var staticGoogleMaps = true,
+                eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
+                centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
+                mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
+                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
@@ -103,14 +107,23 @@
                 mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
                 icon = '{{ site.baseurl }}/img/other/map-marker.svg';
         {% elsif page.permalink == '/hackathon/' %}
-            var googleMaps = 'hackathon',
-                eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
-                centerMap = new google.maps.LatLng({{ site.hackathonMapCenterCoordinates }}),
-                mobileCenterMap = new google.maps.LatLng({{ site.hackathonMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+            if ($(window).width() > 767) {
+                var googleMaps = 'hackathon',
+                    eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
+                    centerMap = new google.maps.LatLng({{ site.hackathonMapCenterCoordinates }}),
+                    mobileCenterMap = new google.maps.LatLng({{ site.hackathonMapMobileCenterCoordinates }}),
+                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+            } else {
+               var staticGoogleMaps = true,
+                eventPlaceCoordinates = '{{ site.hackathonPlaceCoordinates | replace:' ','' }}',
+                centerMapCoordinates = '{{ site.hackathonMapCenterCoordinates | replace:' ','' }}',
+                mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
+                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
+            }
+            
         {% endif %} 
     </script>
-    <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
