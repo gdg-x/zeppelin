@@ -1,7 +1,7 @@
 <!-- Begin Direction Details-->
 <section id="direction-details" class="direction-details">
     <div class="content-wrapper">
-        <section class="image-section standart-height" style="background-image: url('{{ site.baseurl }}/img/direction-details.jpg');">
+        <section class="image-section standart-height" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.directionDetailsImage }}');">
             <h3>{{ site.directionDetailsTitle }}</h3>
         </section>
         <div class="row">
@@ -28,7 +28,7 @@
                             <h5>{{ subCard.title }}</h5>
                             <ul>
                                 {% for linkElement in subCard.links %}
-                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" target="_blank">{{ linkElement.text }}</a></li>
+                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
                                 {% endfor %}
                             </ul>
                         </div>

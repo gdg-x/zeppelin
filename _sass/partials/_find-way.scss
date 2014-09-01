@@ -18,6 +18,13 @@ $location-card-highlight-color: #333;
             left: 0;
         }
     }
+    &.location-active {
+        .content-wrapper {
+            @media (max-width: 767px) {
+                z-index: initial;
+            }
+        }  
+    }
 }
 .map-card {
     font-size: 16px;
@@ -39,7 +46,7 @@ $location-card-highlight-color: #333;
     .location-active & {
         transform: translateY(-135px);
         @media (max-width: 767px) {
-            transform: translateY(-140px);
+            transform: translateY(-165px);
         }
     }
     .location-input-icon {
@@ -58,6 +65,10 @@ $location-card-highlight-color: #333;
        @extend .location-input-icon;
         width: 19px;
         height: 19px;
+    }
+    .view-on-map {
+        font-size: 14px;
+        margin-bottom: 5px;
     }
 }
 .location-input {
@@ -85,7 +96,7 @@ $location-card-highlight-color: #333;
 .location-details {
     clear: both;
     height: 100%;
-    padding: 8px 20px;
+    padding: 8px 18px 15px;
     transition: $location-card-transition;
     transform: translateY(140px);
     @media (max-width: 767px) {
@@ -94,7 +105,7 @@ $location-card-highlight-color: #333;
     .location-active & {
         transform: translateY(-125px);
         @media (max-width: 767px) {
-            transform: translateY(-135px);
+            transform: translateY(-160px);
         }
     }
     ul {

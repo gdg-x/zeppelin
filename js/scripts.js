@@ -81,16 +81,16 @@
         });
 
         var scrollStatus = 1;
-        $(document).on('touchmove', function(e) {
-            if (scrollStatus == 0) {
-                e.preventDefault();
-            } else {
-                return true;
-            }
-        });
-        $('body').on('touchmove', '.scrollable', function(e) {
-            e.stopPropagation();
-        });
+        // $(document).on('touchmove', function(e) {
+        //     if (scrollStatus == 0) {
+        //         e.preventDefault();
+        //     } else {
+        //         return true;
+        //     }
+        // });
+        // $('body').on('touchmove', '.scrollable', function(e) {
+        //     e.stopPropagation();
+        // });
 
         function toogleScrolling() {
             if (scrollStatus == 0) {
@@ -235,14 +235,14 @@
             }
         });
         $('.slider-next-item').click(function() {
-            var speakerItem = $(this).closest('.speaker-item');
-            var elem = speakerItem.find('.slider-current-item').next();
+            var slider = $(this).closest('div');
+            var elem = slider.find('.slider-current-item').next();
             if (elem.length) {
                 elem.addClass('slider-current-item').removeClass('hidden');
-                speakerItem.find('.slider-current-item').first().removeClass('slider-current-item').addClass('hidden');
+                slider.find('.slider-current-item').first().removeClass('slider-current-item').addClass('hidden');
             } else {
-                speakerItem.find('.slider-item').first().addClass('slider-current-item').removeClass('hidden');
-                speakerItem.find('.slider-current-item').last().removeClass('slider-current-item').addClass('hidden');
+                slider.find('.slider-item').first().addClass('slider-current-item').removeClass('hidden');
+                slider.find('.slider-current-item').last().removeClass('slider-current-item').addClass('hidden');
             }
         });
 
@@ -291,6 +291,11 @@
         po.src = 'https://apis.google.com/js/platform.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(po, s);
+    }
+
+    // Google maps static
+    if (typeof staticGoogleMaps !== 'undefined') {
+        $('#canvas-map').addClass('image-section').css('background-image','url(http://maps.googleapis.com/maps/api/staticmap?zoom=17&center=' + mobileCenterMapCoordinates +'&size=' + $(window).width() + 'x700&scale=2&language=en&markers=icon:' + icon +'|'+ eventPlaceCoordinates +'&maptype=roadmap&style=visibility:on|lightness:40|gamma:1.1|weight:0.9&style=element:labels|visibility:off&style=feature:water|hue:0x0066ff&style=feature:road|visibility:on&style=feature:road|element:labels|saturation:-30)');
     }
 
     //Google maps

@@ -41,19 +41,31 @@
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
+    <script>
+        if ($(window).width() > 767) {
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+        } 
+    </script>
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
     {% endif %} 
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
-            var googleMaps = 'index',
-                eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
-                centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates }}),
-                mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+            if ($(window).width() > 767) {
+                var googleMaps = 'index',
+                    eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
+                    centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
+                    mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
+                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+            } else {
+               var staticGoogleMaps = true,
+                eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
+                centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
+                mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
+                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
+            }
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
@@ -69,7 +81,7 @@
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}
                 ];
@@ -79,7 +91,11 @@
                         count = {{ site.rockstarSpeakersCount }},
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
-                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
+                        var clearfix = '<div class="clearfix visible-xs"></div>';
+                        if ((i)%2 != 0) {
+                            clearfix = ""
+                        }
+                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>' + clearfix);
                         animationDelay -= 500;
                     }
                 }
@@ -89,7 +105,22 @@
                 eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
                 centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/svg/map-marker.svg';
+                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+        {% elsif page.permalink == '/hackathon/' %}
+            if ($(window).width() > 767) {
+                var googleMaps = 'hackathon',
+                    eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
+                    centerMap = new google.maps.LatLng({{ site.hackathonMapCenterCoordinates }}),
+                    mobileCenterMap = new google.maps.LatLng({{ site.hackathonMapMobileCenterCoordinates }}),
+                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+            } else {
+               var staticGoogleMaps = true,
+                eventPlaceCoordinates = '{{ site.hackathonPlaceCoordinates | replace:' ','' }}',
+                centerMapCoordinates = '{{ site.hackathonMapCenterCoordinates | replace:' ','' }}',
+                mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
+                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
+            }
+            
         {% endif %} 
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>

@@ -53,3 +53,13 @@
   -webkit-order: $val;  
   order: $val;
 }
+
+@mixin trimText($font-size, $line-height, $lines) {
+  display: block;
+  display: -webkit-box;
+  overflow: hidden;
+  height: $font-size*$line-height*$lines+2px;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: $lines;
+  -webkit-box-orient: vertical;
+}

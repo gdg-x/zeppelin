@@ -10,7 +10,7 @@
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: teamMember.thumbnailUrl }})">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
@@ -36,7 +36,7 @@
             {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: teamMember.thumbnailUrl }})">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">

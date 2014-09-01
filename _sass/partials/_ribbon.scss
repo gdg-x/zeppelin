@@ -1,6 +1,8 @@
 $ribbon-color: #999;
 $gdg-ribbon-border-color: #427fed;
+$gdgw-ribbon-border-color: #ed2c82;
 $gde-ribbon-border-color: #db4437;
+$wt-ribbon-border-color: #72e1b3;
 .ribbon-wrapper {
     position: absolute;
     z-index: 5;
@@ -20,8 +22,14 @@ $gde-ribbon-border-color: #db4437;
     .gdg {
         border-right: 4px solid $gdg-ribbon-border-color;
     }
+    .gdgw {
+        border-right: 4px solid $gdgw-ribbon-border-color;
+    }
     .gde {
         border-right: 4px solid $gde-ribbon-border-color;
+    }
+    .wt {
+        border-right: 4px solid $wt-ribbon-border-color;
     }
     .ribbon {
         font-size: 13px;

@@ -28,7 +28,7 @@
 						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
-									<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+									<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">{{ speaker.name }} {{ speaker.surname }}
@@ -37,7 +37,7 @@
 									{% if speaker.ribbon != null %}
 									<div class="modal-ribbon-wrapper">
 			                            {% for ribbon in speaker.ribbon %}
-			                               <a class="modal-ribbon" href="ribbon["url"]" target="_blank">{{ ribbon["title"] }}</a>   
+			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
 			                            {% endfor %}
 			                        </div>
 			                        {% endif %}

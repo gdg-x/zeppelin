@@ -1,20 +1,33 @@
+$rockstar-image-size: 140px;
+$small-rockstar-image-size: 120px;
+
 .rockstar-speakers {
-    .rockstar-speaker {
-        padding-bottom: 13px;
-    }
-    .rockstar-speaker-img {
-        width: 140px;
-        height: 140px;
-        margin: 0 auto;
-    }
     .name {
-        font-size: $base-font-size * 2;
+        font-size: 26px;
         line-height: 1.1;
         margin: 10px 0 2px;
+        @media (max-width: 767px) {
+            font-size: 20px;
+        }
     }
     .sub {
         font-size: $base-font-size * 1.4;
         margin: 0 0 15px;
         color: $link-color;
+        @media (max-width: 767px) {
+            font-size: 16px;
+        }
+    }
+}
+.rockstar-speaker {
+    padding-bottom: 13px;
+}
+.rockstar-speaker-img {
+    width: $rockstar-image-size;
+    height: $rockstar-image-size;
+    margin: 0 auto;
+    @media (max-width: 767px) {
+        width: $small-rockstar-image-size;
+        height: $small-rockstar-image-size;
     }
 }
