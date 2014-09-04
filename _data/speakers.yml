@@ -32,7 +32,7 @@
   thumbnailUrl: aaronroberson.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/++AaronRoberson"}
+    - {name: "google-plus", link: "https://plus.google.com/+AaronRoberson"}
 - 
   id: 6
   name: "Todd"
@@ -43,4 +43,15 @@
   thumbnailUrl: toddmcleod.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/++AaronRoberson"}
+    - {name: "google-plus", link: "https://plus.google.com/+AaronRoberson"}
+- 
+  id: 7
+  name: "Csaba"
+  surname: "Toth"
+  company: " "
+  title: "Software developer"
+  bio: "We need Csaba's Bio here"
+  thumbnailUrl: csabatoth.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}
