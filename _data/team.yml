@@ -36,6 +36,20 @@
     - {name: "twitter", link: "https://twitter.com/justinribeiro"}
     - {name: "site", link: "https://www.justinribeiro.com/"}
     - {name: "github", link: "https://github.com/justinribeiro"}
+- 
+  id: 3
+  name: "James"
+  surname: "Duvall IV"
+  title: "GDG Oakdale Co-Organizer"
+  thumbnailUrl: jamesd.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+JamesDuvallIV"}
+    - {name: "twitter", link: "https://twitter.com/justinribeiro"}
+    - {name: "site", link: "https://www.justinribeiro.com/"}
+    - {name: "github", link: "https://github.com/justinribeiro"}
 
 - 
   id: 4
