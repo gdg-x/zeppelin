@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Sponsors"
-date:   2014-07-21 09:00:00
-isStaticPost: false
+date:   2014-09-03 09:00:00
+isStaticPost: true
 ---
 GDG DevFest are volunteer run events focused on inspiring local developers who are interested in Mobile or Web technologies.
 
