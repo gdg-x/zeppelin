@@ -29,7 +29,7 @@
 -
   id: 001
   title: "Android Studio"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Get familiar with using the new Android IDE co-created by Google and IntelliJ"
   subtype: workshop
   speakers:
   language: 
@@ -37,16 +37,16 @@
 -
   id: 002
   title: "AngularJS"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Get an introduciton on how to use Google's Superheroic JavaScript MVW Framework"
   subtype: presentation
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 003
-  title: "MIT App Inventor"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: presentation
+  title: "MIT App Inventor Part 1"
+  description: "Want to get started in programming? Come learn with making a Android App with blocks!"
+  subtype: workshop
   speakers: 
   language: 
   complexity: "Beginner"
@@ -54,26 +54,26 @@
   id: 004
   title: "Performance Matters"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: 
   language: 
   complexity: "Beginner"
 -
   id: 005
   title: "Google Glass"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  description: "Curious about Google Glass? Come learn more about it and how to make an app for it."
+  subtype: workshop
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 006
   title: "Polymer"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond."
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 007
   title: "Getting It Done"
@@ -85,11 +85,11 @@
 -
   id: 008
   title: "Android EndPoints"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Android Endpoints to get up and running quickly with a cloud backend for your Android App."
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 009
   title: "Cloud Storage"
@@ -97,11 +97,11 @@
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 010
   title: "Dart Part 1"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: keynote
   speakers: 
   language: 
@@ -109,7 +109,7 @@
 -
   id: 011
   title: "Dart Part 2"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: keynote
   speakers: 
   language: 
@@ -121,7 +121,7 @@
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 013
   title: "Google App Engine"
@@ -129,7 +129,7 @@
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 014
   title: "Open"
@@ -164,7 +164,7 @@
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"  
+  complexity: "Intermediate"  
 -
   id: 018
   title: "How to be a Web Developer Super Hero"
@@ -180,7 +180,7 @@
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 020
   title: "Google Play Services"
@@ -188,7 +188,7 @@
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 021
   title: "Compute Engine"
@@ -196,7 +196,7 @@
   subtype: keynote
   speakers: 
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 022
   title: "Chrome DevTools"
@@ -210,6 +210,14 @@
   title: "Design Sprint - Wearables"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
+  speakers: 
+  language: 
+  complexity: "Beginner"
+-
+  id: 024
+  title: "MIT App Inventor Part 2"
+  description: "Want to get started in programming? Come learn with making a Android App with blocks!"
+  subtype: workshop
   speakers: 
   language: 
   complexity: "Beginner"
