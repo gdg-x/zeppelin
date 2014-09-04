@@ -7,6 +7,8 @@
   bio: "Joshua has 5+ years as a professional Software Engineer. Currently he is a Front End Developer at eBay. He was the founder of GDG Fresno where he taught Google Technologies to new and experienced developers."
   thumbnailUrl: JoshuaWoodward.png
   rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JoshuaWoodward/"}
 - 
@@ -15,19 +17,19 @@
   surname: "Ribeiro"
   company: "Stickman Ventures, Inc."
   title: "I build and hack on just about anything"
-  bio: 'My lovely wife Monica keeps me sane. She has to because we have three girls (the oldest Alli, and the new twins, Isabella and Evelyn). I started a company called Stickman Ventures, Inc back in 2007 with Gareth Coen. Still going strong. And no, we’re not a startup. We’re a business! I heart the hacking. I will hack pretty much anything that interests me. Code, hardware, house, car, kids toys…I don’t care.'
+  bio: '#glassexplorer currently writing a book on Glassware / GDK development. My lovely wife Monica keeps me sane. She has to because we have three girls (the oldest Alli, and the new twins, Isabella and Evelyn). I started a company called Stickman Ventures, Inc back in 2007 with Gareth Coen. Still going strong. And no, we’re not a startup. We’re a business! I heart the hacking. I will hack pretty much anything that interests me. Code, hardware, house, car, kids toys…I don’t care.'
   thumbnailUrl: justinribeiro.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://google.com/+justinribeiro"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
+  name: "Aaron"
+  surname: "Roberson"
+  company: "PixelPolished"
   title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  bio: "We need Aaron's Bio here"
+  thumbnailUrl: aaronroberson.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
