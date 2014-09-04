@@ -12,5 +12,5 @@
 - 
   group: "Location Sponsors"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+      - {name: "Fresno City College", description: "California's Premier Community College", link: "http://fresnocitycollege.edu", imageUrl: "fcc.jpg"}
    
