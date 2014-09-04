@@ -1,6 +1,8 @@
+### Idea ###
+.idea
+
 ### Jekyll ###
 _site/
-
 
 ### Sass ###
 .sass-cache
