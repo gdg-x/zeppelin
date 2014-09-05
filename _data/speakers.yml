@@ -39,7 +39,7 @@
   surname: "McLeod"
   company: "Fresno City College"
   title: "CIT Profesor"
-  bio: "We need Todd's Bio here"
+  bio: "Todd McLeod is tenured faculty at Fresno City College. Recent areas of focus include Python, Java, Android, and Git."
   thumbnailUrl: toddmcleod.jpg
   rockstar: true
   social: 
