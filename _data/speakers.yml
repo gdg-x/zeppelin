@@ -17,7 +17,7 @@
   surname: "Ribeiro"
   company: "Stickman Ventures, Inc."
   title: "I build and hack on just about anything"
-  bio: '#glassexplorer currently writing a book on Glassware / GDK development. My lovely wife Monica keeps me sane. She has to because we have three girls (the oldest Alli, and the new twins, Isabella and Evelyn). I started a company called Stickman Ventures, Inc back in 2007 with Gareth Coen. Still going strong. And no, we’re not a startup. We’re a business! I heart the hacking. I will hack pretty much anything that interests me. Code, hardware, house, car, kids toys…I don’t care.'
+  bio: 'Co-organizer of the GDG Oakdale, Oakdale OpenMesh, and his three daughters. 18+ years development experience and author of the upcoming book "Developing a Google Glass Edge", he is constantly building software, sensors, and hacking on toys.'
   thumbnailUrl: justinribeiro.jpg
   rockstar: true
   social: 
@@ -54,4 +54,16 @@
   thumbnailUrl: csabatoth.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}    
+-
+  id: 8
+  name: "James"
+  surname: "Duvall"
+  company: "Stickman Ventures, Inc."
+  title: "Chief Architect"
+  bio: "A software engineer and co-organizer of the GDG Oakdale, Oakdale OpenMesh and his three daughters. With 10+ years of development experience, he works daily in .Net technologies, C#, and Chrome, building web applications that push the web to its limits."
+  thumbnailUrl: jamesd.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+JamesDuvallIV"}
+    - {name: "twitter", link: "https://twitter.com/jamesduvall"}
