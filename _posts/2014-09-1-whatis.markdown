@@ -4,9 +4,12 @@ title:  "What is a Devfest"
 date:   2014-09-03 09:00:00
 isStaticPost: true
 ---
+In, short developers "make software for the world to use." GDG DevFests are large, ommunity-run events that can offer speaker sessions across multiple product areas, all-day hack-a-thons, code labs, and more.
+
 GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, all-day hack-a-thons, code labs, and more.
 
-#### Amazing things can happen!!
+#### GDG DevFest Fresno 2013!!
+Channel 30 News article link in markdown needed and FCC New Media Club links here! 
 
 Each GDG DevFest will be inspired by and uniquely tailored to the needs of the developer community that hosts it. While no two events will be exactly alike, each GDG DevFest will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
 
