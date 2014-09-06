@@ -185,7 +185,7 @@ In a connected world, our greatest challenge in software development is cross-pl
 -
   id: 020
   title: "From Beginning 2 Google Play Store"
-  description: ""Learn how Android applications go from 'new project' to v1.0 in the real world! This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
+  description: "Learn how Android applications go from 'new project' to v1.0 in the real world! This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
   subtype: keynote
   speakers: [11]
   language: 
