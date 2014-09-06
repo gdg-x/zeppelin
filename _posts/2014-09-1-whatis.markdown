@@ -9,8 +9,8 @@ In, short developers "make software for the world to use." GDG DevFests are larg
 GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, all-day hack-a-thons, code labs, and more.
 
 #### GDG DevFest Fresno 2013!!
-Our first annual event was a sold out event!  Check out some of the amazing media we received:
- * [Local Channel 30 News Coverage](http://abc30.com/archive/9296048/ "DevFest 2013") e
+Our first annual event was a sold out event!  Check out some of the amazing media we received!
+ * [Local Channel 30 News Coverage](http://abc30.com/archive/9296048/ "DevFest 2013") 
  * FCC New Media Club Video
 
 Channel 30 News article  needed and FCC New Media Club links here! 
