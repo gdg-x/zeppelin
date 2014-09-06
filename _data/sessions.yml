@@ -31,7 +31,7 @@
   title: "Android Studio"
   description: "Get familiar with using the new Android IDE co-created by Google and IntelliJ"
   subtype: workshop
-  speakers:
+  speakers: 
   language: 
   complexity: "Beginner"
 -
@@ -169,11 +169,11 @@ In a connected world, our greatest challenge in software development is cross-pl
 -
   id: 018
   title: "How to be a Web Developer Super Hero"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Learn how to use tools like Yeoman, Bower and Grunt to make your web development workflow faster. Pair these tools together with a framework like AngularJS make dynamic websites in minutes. Integrate all these with a platform like NodeJS ... I think you could call yourself a web development super hero.!"
   subtype: keynote
-  speakers: 
+  speakers: [3]
   language: 
-  complexity: "Beginner"
+  complexity: "Advanced"
 -
   id: 019
   title: "Android Wear"
