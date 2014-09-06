@@ -118,9 +118,9 @@ In a connected world, our greatest challenge in software development is cross-pl
 -
   id: 012
   title: "Android UX/UI"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "With the arrival of Material Design, Google has published clear, coherent, and deep design guidelines to help developers and designers adapt more easily to their new design language. Besides having this great resource, there are other tools and resources that can be used to speed up the app design process. However, if you are a newcomer to designing Android applications, the design process may seem overwhelming and unclear. Should you start with some basic wireframes? Should you fire up Illustrator or Photoshop and jump right into designing some revolutionary user interfaces? Should you start at a basic level and do some use case diagrams? Should you do all three or go in a totally different direction? This talk will answer these questions by recommending and describing a design process that you can use that covers the user experience and user interface sides of designing a new Android application. During the talk, I will show the evolution of the design of an example Android application and cite tools and resources that you can use at each step of the design process. I will also give you some ideas on how to become a part of Android’s ever-growing design community."
   subtype: keynote
-  speakers: 
+  speakers: [9]
   language: 
   complexity: "Intermediate"
 -

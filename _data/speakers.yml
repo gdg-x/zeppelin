@@ -68,3 +68,17 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+JamesDuvallIV"}
     - {name: "twitter", link: "https://twitter.com/jamesduvall"}
+-  
+  
+  id: 9
+  name: "Joshua"
+  surname: "Greene"
+  company: "ScholarDev App Development"
+  title: "Founder"
+  bio: "General Project Manager at ScholarDev - Studies Computer Game Science at University of California, Irvine
+ Fresno City College"
+  thumbnailUrl: JoshuaGreene.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JoshwinGreene"}
+
