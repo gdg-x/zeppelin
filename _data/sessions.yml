@@ -31,7 +31,7 @@
   title: "Android Studio"
   description: "Get familiar with using the new Android IDE co-created by Google and IntelliJ"
   subtype: workshop
-  speakers: 
+  speakers: [6]
   language: 
   complexity: "Beginner"
 -
@@ -64,7 +64,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Google Glass"
   description: "Curious about Google Glass? Come learn more about it and how to make an app for it."
   subtype: workshop
-  speakers: 
+  speakers: [4]
   language: 
   complexity: "Intermediate"
 -
@@ -145,7 +145,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Getting into GIT"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
-  speakers: 
+  speakers: [6]
   language: 
   complexity: "Beginner"
 
