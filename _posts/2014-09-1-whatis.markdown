@@ -14,23 +14,9 @@ Our first annual event was a sold out event!  Check out some of the amazing medi
  * [Local Channel 30 News Coverage](http://abc30.com/archive/9296048/ "DevFest 2013") 
  * [FCC New Media Club Video](https://www.youtube.com/watch?v=tw_bal1uuEc)
 
-Channel 30 News article  needed and FCC New Media Club links here! 
-
 Each GDG DevFest will be inspired by and uniquely tailored to the needs of the developer community that hosts it. While no two events will be exactly alike, each GDG DevFest will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
 
-
 The invitation to host a GDG DevFest is being extended to active GDG chapters. In case someone wants to organize a GDG DevFest in a city with no GDG chapter, then the first step would be to start a GDG chapter in that city. In addition to the GDG chapters, we are inviting chapters who have decided to stay with the GTUG branding to also plan and organize GTUG DevFests.
-
-GDG DevFests can be organized year round and are community run events. Therefore, these events take the form desired by the community with minimal guidelines. In order to ensure these events are bigger than regular GDG meetups though, there are a few recommendations:
-
-* We welcome diversity our events are open to all skill level, and various technologies.
-
-##### Why should you support us?
-
-* Connect with attendees on a high level developer event.
-* Brand yourself and your products as community friendly.
-* Endless thanks of the organizers and attendees.
-
 
 
 #### Any questions? 
