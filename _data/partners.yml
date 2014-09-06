@@ -2,7 +2,7 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "Oakdale Chamber of Commerce", description: "Oakdale Chamber of Commerce", link: "http://www.oakdalechamber.com", imageUrl: "oakdalecoc.png"}
+    - {name: "Stickman Ventures", description: "Stickman Ventures - Build. Animate. Ship", link: "https://www.stickmanventures.com/", imageUrl: "stickmanventures.png"}
     - {name: "Fresno City College", description: "California's Premier Community College", link: "http://fresnocitycollege.edu", imageUrl: "fcc.jpg"}
     - {name: "Fresno City College - Student Government", description: "ASG - Associated Student Government @ FCC", link: "http://www.fresnocitycollege.edu/index.aspx?page=361", imageUrl: "asgfcc.jpg"}
         
@@ -10,7 +10,8 @@
   group: "With support of"
   elements: 
     - {name: "College of Science and Mathematics - CSUF", description: "College of Science and Mathematics", link: "http://www.fresnostate.edu/csm/", imageUrl: "csm.png"}
-    - {name: "Stickman Ventures", description: "Stickman Ventures - Build. Animate. Ship", link: "https://www.stickmanventures.com/", imageUrl: "stickmanventures.png"}
+    - {name: "Oakdale Chamber of Commerce", description: "Oakdale Chamber of Commerce", link: "http://www.oakdalechamber.com", imageUrl: "oakdalecoc.png"}
+
     
 
 - 
