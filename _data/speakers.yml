@@ -26,13 +26,14 @@
   id: 5
   name: "Aaron"
   surname: "Roberson"
-  company: "PixelPolished"
+  company: "OnFarm Systems"
   title: "Software Engineer"
-  bio: "We need Aaron's Bio here"
+  bio: "Aaron Roberson is a JavaScript and AngularJS enthusiast with over 12 years of experience as a software engineer. He’s held contracts with the U.S. Fish & Wildlife Service as well as Esri, a global GIS software provider. Currently, Aaron is a Senior Software Developer at OnFarm Systems. He’s also a former instructor at the Institute of Technology and is now teaching at the Geekwise Academy."
   thumbnailUrl: aaronroberson.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AaronRoberson"}
+
 - 
   id: 6
   name: "Todd"
