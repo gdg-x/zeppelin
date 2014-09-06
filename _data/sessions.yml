@@ -96,7 +96,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Cloud Storage"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
-  speakers: [7]
+  speakers: 
   language: 
   complexity: "Intermediate"
 -
@@ -128,7 +128,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Google App Engine"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
-  speakers: 
+  speakers: [7]
   language: 
   complexity: "Intermediate"
 -
