@@ -82,7 +82,8 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JoshwinGreene"}
 -
- id: 10
+
+  id: 10
   name: "Rio"
   surname: "Waller"
   company: "Fresno City College"
