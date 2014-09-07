@@ -102,4 +102,28 @@
   thumbnailUrl: nicroberts.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RioWaller"}
+    - {name: "google-plus", link: "https://plus.google.com/+NickRoberts"}
+-
+  id: 12
+  name: "James"
+  surname: "Cha"
+  company: "Schneider Electric"
+  title: "Software Engineer"
+  bio: "Software Engineer at Pelco By Schneider Electric Attended California State University, Fresno
+Lives in Fresno, CA"
+  thumbnailUrl: jamescha.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JamesCha"}
+    
+-
+  id: 13
+  name: "Ashen"
+  surname: "Baig"
+  company: "College of the Sequoias"
+  title: "Software Engineer/GDG Visiali Organizer"
+  bio: "need"
+  thumbnailUrl: AhsenBaig.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JamesCha"}

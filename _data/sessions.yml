@@ -48,7 +48,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "MIT App Inventor Part 1"
   description: "Want to get started in programming? Come learn with making a Android App with blocks!"
   subtype: workshop
-  speakers: 
+  speakers: [12] [13]
   language: 
   complexity: "Beginner"
 -
@@ -104,7 +104,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Dart Part 1"
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: keynote
-  speakers: 
+  speakers: [12] [13]
   language: 
   complexity: "Beginner"
 -
@@ -112,7 +112,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Dart Part 2"
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: keynote
-  speakers: 
+  speakers: [12] [13]
   language: 
   complexity: "Beginner"
 -
