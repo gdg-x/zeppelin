@@ -111,12 +111,14 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [2014 南阳 GDG Devfest 大会](http://devfest.gdgny.org)
 * [DevFest Nordeste 2014](http://devfestnordeste.github.io/devfest-2014/)
 * [GDG DevFest The Netherlands](http://www.devfest.nl/)
+* [DevFest Centro-Oeste 2014](http://www.devfestcentrooeste.com.br/)
+* [DevFest SP 2014](http://sp.devfest.com.br/)
 
 ### Contributors
 * Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
 * Idea and Jekyll integration: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
 
 ### Licence
-Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don'y forget to add reference to authors :)
+Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
 
