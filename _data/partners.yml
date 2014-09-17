@@ -11,6 +11,7 @@
   elements: 
     - {name: "College of Science and Mathematics - CSUF", description: "College of Science and Mathematics", link: "http://www.fresnostate.edu/csm/", imageUrl: "csm.png"}
     - {name: "Oakdale Chamber of Commerce", description: "Oakdale Chamber of Commerce", link: "http://www.oakdalechamber.com", imageUrl: "oakdalecoc.png"}
+    - {name: "Bitwise", description: "Bitwise Industries | Mothership of Technology", link: "http://www.bitwiseindustries.com", imageUrl: "bitwise.png"}
 
     
 
