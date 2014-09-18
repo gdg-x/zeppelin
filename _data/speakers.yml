@@ -98,7 +98,7 @@
   surname: "Roberts"
   company: "CS Student @ FCC"
   title: "Himself"
-  bio: "Need Nick's Bio"
+  bio: "Nick Roberts is a second year Computer Science and Electrical Engineering student at Fresno City College. Nick has studied Android both academically and independently, and has contributed to, and has published, various apps in the Google Play store."
   thumbnailUrl: nicroberts.png
   rockstar: true
   social: 
@@ -127,3 +127,15 @@ Lives in Fresno, CA"
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JamesCha"}
+    
+-
+  id: 14
+  name: "Mica"
+  surname: "Simonian"
+  company: "Shift Three"
+  title: "Software Engineer/GDG Visiali Organizer"
+  bio: "Mica is full-stack web-developer by day and a general trouble-maker all the time. Code is her virtual Lego set, and she loves building things and fixing problems.  Always one for exploration and learning, Mica enjoys encouraging others toward collaboration, community building, and self-empowerment, and so is an enthusiastic participant in Fresno's thriving technology community."
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
