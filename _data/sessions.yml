@@ -203,7 +203,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Chrome DevTools"
   description: "The Chrome Developer Tools are a set of web authoring and debugging tools built into Google Chrome. The DevTools provide web developers deep access into the internals of the browser and their web application. Use the DevTools to efficiently track down layout issues, set JavaScript breakpoints, and get insights for code optimization. This session will provide an overview of the features in Chrome Canary (the developer's Chrome)."
   subtype: keynote
-  speakers: 
+  speakers: 14
   language: 
   complexity: "Beginner"
 -
