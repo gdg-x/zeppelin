@@ -118,15 +118,15 @@ Lives in Fresno, CA"
     
 -
   id: 13
-  name: "Ashen"
+  name: "Ahsen"
   surname: "Baig"
   company: "College of the Sequoias"
-  title: "Software Engineer/GDG Visiali Organizer"
+  title: "Software Engineer/GDG Visalia Organizer"
   bio: "need"
   thumbnailUrl: AhsenBaig.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JamesCha"}
+    - {name: "google-plus", link: "https://plus.google.com/+AhsenBaig"}
     
 -
   id: 14
