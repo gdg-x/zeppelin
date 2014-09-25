@@ -231,3 +231,12 @@ In a connected world, our greatest challenge in software development is cross-pl
   speakers:
   language: 
   complexity: "Beginner"
+  
+-
+  id: 026
+  title: "HTML 5 Part 2"
+  description: "Introduction to writing HTML code and why it is easier than most people think.  In this beginning session we will get our hand into some HTML code and see how quickly we can create a simple but functional site."
+  subtype: keynote
+  speakers: [15, 16]
+  language: 
+  complexity: "Beginner"  
