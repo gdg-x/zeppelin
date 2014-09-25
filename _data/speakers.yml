@@ -87,7 +87,7 @@
   surname: "Waller"
   company: "FCC/GDG Fresno"
   title: "CIT Professor"
-  bio: "In addition to teaching Web Develeopment courses at Fresno City College, Rio is also a co-organier of GDG Fresno and is heading up the local effort to increase visality of Women in Technology, she is Founder and Orangizer for - Fresno Tech Women (FTW).  Rio is passionate to Web Development an also help run RawFresno.com"
+  bio: "In addition to teaching Web Develeopment courses at Fresno City College, Rio is also a co-organzier of GDG Fresno and is heading up the local effort to increase visality of Women in Technology, she is Founder and Orangizer for - Fresno Tech Women (FTW).  Rio is passionate to Web Development an also help run RawFresno.com"
   thumbnailUrl: riowaller.jpg
   rockstar: true
   social: 
@@ -153,11 +153,11 @@ Lives in Fresno, CA"
     
 -
   id: 16
-  name: "Karl Rummler"
-  surname: "Toledo"
+  name: "Karl"
+  surname: "Rummler"
   company: "Computer Science Student"
   title: "Fresno City College"
-  bio: "Karl is currently in his first year at Fresno City studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His backgorund in HTML5 & CSS3 started in highschool-studying at the start of the first Geekwise Academy Program. "
+  bio: "Karl is currently in his first year at Fresno City studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in highschool-studying at the start of the first Geekwise Academy Program. "
   thumbnailUrl: KarlRummler.jpg
   rockstar: true
   social: 
