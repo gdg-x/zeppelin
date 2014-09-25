@@ -139,3 +139,14 @@ Lives in Fresno, CA"
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
+-
+  id: 15
+  name: "Bianca"
+  surname: "Toledo"
+  company: "Computer Science Student"
+  title: "Fresno City College"
+  bio: "Bianca Toledo is an 18-year-old Computer Science major at Fresno City and Clovis Community College. Aside from years of practice in graphic design, she also has years of experience in HTML5 and CSS3 and is currently expanding her knowledge of web development at Geekwise Academy. Other languages she is currently learning are Java and C++ programming."
+  thumbnailUrl: Bianca.png
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
