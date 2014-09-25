@@ -222,3 +222,12 @@ In a connected world, our greatest challenge in software development is cross-pl
   speakers: [12]
   language: 
   complexity: "Beginner"
+  
+-
+  id: 025
+  title: "3D Printing + Arudino"
+  description: "Need description"
+  subtype: workshop
+  speakers:
+  language: 
+  complexity: "Beginner"
