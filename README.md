@@ -12,7 +12,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 ### Features
 * Easy to setup
 * Simple and responsive design
-* Inegrated speakers and sessions management
+* Integrated speakers and sessions management
 * SVG icons
 * SEO friendly
 
