@@ -24,7 +24,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 4. Select what content blocks do you need
 5. Push changes to ```gh-pages``` branch
 6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
-7. Whatch project presentation from [GDG[x] Townhall meeting](http://www.youtube.com/watch?v=xYmhheoLjcI). Slides available [here](https://docs.google.com/presentation/d/19aM7yNl_orDaCNND5LpCY3fShb6PyMltnzYfKvV8R_8/edit?usp=sharing)
+Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.com/watch?v=xYmhheoLjcI). Slides available [here](https://docs.google.com/presentation/d/19aM7yNl_orDaCNND5LpCY3fShb6PyMltnzYfKvV8R_8/edit?usp=sharing)
 
 
 ## Local development
