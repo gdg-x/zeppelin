@@ -117,6 +117,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/)
 * [DevFest in Baroda](devfest.gdgbaroda.com)
 * [GDG Hi Pic (France)](http://maximemularz.github.io/zeppelin/)
+* [GDG Space Coast DevFest](http://gdg-space-coast.github.io/zeppelin/)
 
 ### Contributors
 * Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
