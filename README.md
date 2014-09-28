@@ -88,7 +88,6 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 
 
 ### TODO List
-* Schedule page template
 * Optimization scripts for mac and linux
 
 ### Known issues
@@ -116,6 +115,8 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [DevFest Centro-Oeste 2014](http://www.devfestcentrooeste.com.br/)
 * [DevFest SP 2014](http://sp.devfest.com.br/)
 * [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/)
+* [DevFest in Baroda](devfest.gdgbaroda.com)
+* [GDG Hi Pic (France)](http://maximemularz.github.io/zeppelin/)
 
 ### Contributors
 * Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
