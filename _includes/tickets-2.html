@@ -22,7 +22,9 @@
 							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
 						</div>
 						<div class="col-sm-3 col-xs-12">
-							{% if ticketsOffer.disabled != true %}
+							{% if ticketsOffer.soldOut == true %}
+							<p class="ticket-sold-out">{{ ticketsOffer.soldOutText }}</p>
+							{% elsif ticketsOffer.disabled != true %}
 							<span class="bordered dark-border button">
 								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 							</span>
