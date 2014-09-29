@@ -162,3 +162,15 @@ Lives in Fresno, CA"
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}    
+    
+-
+  id: 17
+  name: "Pooja"
+  surname: "Pawara"
+  company: " Masters Student in Computer Science"
+  title: "Fresno State"
+  bio: "Pooja Pawara is a Masters Student in Computer Science at Fresno State. Programming Intern at DirectFile Systems Inc. Field interests are Database (SQL and NoSQL)."
+  thumbnailUrl: pooja.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PoojaPawara"}        

@@ -93,12 +93,12 @@ In a connected world, our greatest challenge in software development is cross-pl
   complexity: "Intermediate"
 -
   id: 009
-  title: "Cloud Storage"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  title: "Cloud DataStore"
+  description: "Interested in NoSQL Databases? Come and learn about the new and upcoming technology Cloud Datastore which is a managed, NoSQL database using SQL like queries for a non-relational data."
   subtype: keynote
-  speakers: 
+  speakers: [17]
   language: 
-  complexity: "Intermediate"
+  complexity: "Beginning"
 -
   id: 010
   title: "Dart Part 1"
@@ -184,7 +184,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   complexity: "Intermediate"
 -
   id: 020
-  title: "new project to v1.0 in the real world!"
+  title: "New project to v1.0 in the real world!"
   description: "This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
   subtype: keynote
   speakers: [11]
