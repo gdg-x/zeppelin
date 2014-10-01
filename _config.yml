@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Tickets"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/aCMR8A", text: "Become a speaker"}
+ - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 rightNavigationButtons:
- - {link: "http://goo.gl/aCMR8A", text: "Become a speaker"}
+ - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 
 # Hero Block
 heroTitle: "GDG DevFest<typeout>2014"
