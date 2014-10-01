@@ -55,7 +55,7 @@
   thumbnailUrl: csabatoth.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}    
+    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}
 -
   id: 8
   name: "James"
@@ -69,7 +69,6 @@
     - {name: "google-plus", link: "https://google.com/+JamesDuvallIV"}
     - {name: "twitter", link: "https://twitter.com/jamesduvall"}
 -  
-  
   id: 9
   name: "Joshua"
   surname: "Greene"
@@ -114,7 +113,6 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JamesCha"}
-    
 -
   id: 13
   name: "Ahsen"
@@ -126,7 +124,6 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AhsenBaig"}
-    
 -
   id: 14
   name: "Mica"
@@ -149,7 +146,6 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
-    
 -
   id: 16
   name: "Karl"
@@ -160,8 +156,7 @@
   thumbnailUrl: KarlRummler.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}    
-    
+    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
 -
   id: 17
   name: "Pooja"
@@ -172,4 +167,4 @@
   thumbnailUrl: pooja.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+PoojaPawara"}        
+    - {name: "google-plus", link: "https://plus.google.com/+PoojaPawara"}
