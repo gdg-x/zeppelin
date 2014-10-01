@@ -41,6 +41,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Tickts"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/aCMR8A", text: "Become a speaker"}
@@ -53,7 +54,7 @@ eventDate: "October 18 2014"
 typeoutTextValues: '"", "Fresno", "Visalia", "Oakdale"'
 typeoutFallback: "Season"
 heroButtons:
- - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
+ - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
