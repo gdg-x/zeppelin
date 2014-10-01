@@ -61,3 +61,15 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+AhsenBaig"}
    
+- 
+  id: 5
+  name: "Kristen"
+  surname: "Foster"
+  title: "Writer/Social Media"
+  thumbnailUrl: KFoster.jpg
+  team: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+AhsenBaig"}
+   
