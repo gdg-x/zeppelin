@@ -63,6 +63,19 @@
    
 - 
   id: 5
+  name: "Mark"
+  surname: "Simonian"
+  title: "Dr"
+  thumbnailUrl: marksimonian.jpg
+  team: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/116552287288266856649"}
+   
+
+- 
+  id: 6
   name: "Kristen"
   surname: "Foster"
   title: "Writer/Social Media"
