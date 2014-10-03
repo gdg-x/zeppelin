@@ -53,8 +53,8 @@ In a connected world, our greatest challenge in software development is cross-pl
   complexity: "Beginner"
 -
   id: 004
-  title: "Performance Matters"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  title: "Coming Soon"
+  description: "COMING SOON!"
   subtype: presentation
   speakers: 
   language: 
@@ -80,9 +80,9 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Deal0Round - Debrief"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
-  speakers: 
+  speakers: [18]
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 008
   title: "Android EndPoints"
@@ -98,13 +98,13 @@ In a connected world, our greatest challenge in software development is cross-pl
   subtype: keynote
   speakers: [17]
   language: 
-  complexity: "Beginning"
+  complexity: "Intermediate"
 -
   id: 010
   title: "Dart Part 1"
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: keynote
-  speakers: [13]
+  speakers: [13, 12]
   language: 
   complexity: "Beginner"
 -
@@ -112,7 +112,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Dart Part 2"
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: keynote
-  speakers: [13]
+  speakers: [13, 12]
   language: 
   complexity: "Beginner"
 -
@@ -157,7 +157,6 @@ In a connected world, our greatest challenge in software development is cross-pl
   speakers: [15, 16]
   language: 
   complexity: "Beginner"
-
 -
   id: 017
   title: "Android Wear"
@@ -165,15 +164,15 @@ In a connected world, our greatest challenge in software development is cross-pl
   subtype: keynote
   speakers: [4]
   language: 
-  complexity: "Intermediate"  
+  complexity: "Intermediate"
 -
   id: 018
-  title: "How to be a Web Developer Super Hero"
-  description: "Learn how to use tools like Yeoman, Bower and Grunt to make your web development workflow faster. Pair these tools together with a framework like AngularJS make dynamic websites in minutes. Integrate all these with a platform like NodeJS ... I think you could call yourself a web development super hero.!"
+  title: "Open"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
-  speakers: [3]
+  speakers: 
   language: 
-  complexity: "Advanced"
+  complexity: "Beginner"
 -
   id: 019
   title: "Android Wear"
@@ -211,7 +210,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "Design Sprint - Wearables"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: keynote
-  speakers: 
+  speakers: [19]
   language: 
   complexity: "Beginner"
 -
@@ -219,14 +218,14 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "MIT App Inventor Part 2"
   description: "Want to get started in programming? Come learn with making a Android App with blocks!"
   subtype: workshop
-  speakers: [12]
+  speakers: [12, 19]
   language: 
   complexity: "Beginner"
   
 -
   id: 025
-  title: "3D Printing + Arudino"
-  description: "Need description"
+  title: "Coming Soon"
+  description: "Coming Soon"
   subtype: workshop
   speakers:
   language: 

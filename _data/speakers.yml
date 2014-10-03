@@ -1,17 +1,4 @@
 - 
-  id: 3
-  name: "Joshua"
-  surname: "Woodward"
-  company: "eBay"
-  title: "Software Engineer"
-  bio: "Joshua has 5+ years as a professional Software Engineer. Currently he is a Front End Developer at eBay. He was the founder of GDG Fresno where he taught Google Technologies to new and experienced developers."
-  thumbnailUrl: JoshuaWoodward.png
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JoshuaWoodward/"}
-- 
   id: 4
   name: "Justin"
   surname: "Ribeiro"
@@ -168,3 +155,25 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PoojaPawara"}
+-
+  id: 18
+  name: "Mike"
+  surname: "Twohey"
+  company:  "Floway Pumps"
+  title: "Software Developer and Entrepreneur"
+  bio: "Michael Twohey is an application developer with over 14 years of experience in all aspects of the development lifecycle. In 2012 he assumed ownership of the Central California .NET User Group. In this group he has given presentations on parallel programming, mobile Android, web development, and software career experience. The group features famous software development speakers who travel to Fresno on a monthly basis. http://centralcaldotnet.comThis past year he has helped form several startup companies. They include two mobile game companies and a mobile delivery company. http://tinyurl.com/ksecphshttp://dealoround.com http://navie.co He works full time as a Senior Programmer Analyst at a Fresno pump manufacturing company, Floway Pumps.He lives in Clovis, California with a loving family, a pet tortoise and dozens of fish friends."
+  thumbnailUrl: mike.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/MikeTwohey"}
+-
+  id: 19
+  name: "Victoria"
+  surname: "Solomon"
+  company: "Fresno Tech Women"
+  title: "Fresno Tech Women Organizer and all around amazing lady!"
+  bio: "Victoria is an Enterprise Content Management Specialist for Tulare County Information & Communications Technology. She enjoys learning about front-end web development and user interface design. Victoria is an organizer of Fresno Tech Women (FTW), a monthly meetup for women interested in technology in the Central Valley."
+  thumbnailUrlL: victoria.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}
