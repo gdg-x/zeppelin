@@ -176,8 +176,7 @@
   thumbnailUrlL: victoria.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}
-    
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}    
 -
   id: 20
   name: "Rob"
@@ -189,3 +188,4 @@
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+RobDodson"}    
+    
