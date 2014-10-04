@@ -67,7 +67,7 @@
   surname: "Simonian"
   title: "Dr"
   thumbnailUrl: marksimonian.jpg
-  subteam: true
+  subTeam: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
@@ -80,7 +80,7 @@
   surname: "Foster"
   title: "Writer/Social Media"
   thumbnailUrl: KFoster.jpg
-  subteam: true
+  subTeam: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
