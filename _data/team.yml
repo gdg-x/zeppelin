@@ -85,4 +85,13 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+AhsenBaig"}
-   
+
+- 
+  id: 7
+  name: "Victoria"
+  surname: "Solomon"
+  title: "Enterprise Content Management Specialist"
+  thumbnailUrl: KFoster.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VictoriaSoloman"}
