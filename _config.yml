@@ -59,9 +59,9 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full day of workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full day freestyle Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlock:
@@ -97,7 +97,7 @@ mapMobileCenterCoordinates: "36.768592,-119.795866"
 # Venue Block
 venueBlockTitle: "Venue"
 venueTitle: "Fresno City College"
-venueFeatures: ["OAB","Old Administration Build","Completed in 1916 and Restored in 2011"]
+venueFeatures: ["OAB","Old Administration Building","Completed in 1916 and restored in 2011"]
 
 # Tweets Feed Block
 tweetsFeedTitle: "What's Up?"
@@ -116,7 +116,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Student"
