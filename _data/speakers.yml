@@ -84,7 +84,7 @@
   surname: "Waller"
   company: "FCC/GDG Fresno"
   title: "CIT Professor"
-  bio: "In addition to teaching Web Develeopment courses at Fresno City College, Rio is also a co-organzier of GDG Fresno and is heading up the local effort to increase visality of Women in Technology, she is Founder and Orangizer for - Fresno Tech Women (FTW).  Rio is passionate to Web Development an also help run RawFresno.com"
+  bio: "In addition to teaching Web Development courses at Fresno City College, Rio is also a co-organzier of GDG Fresno and is heading up the local effort to increase the visibility of Women in Technology, as a Founder and Organizer for Fresno Tech Women (FTW). Rio is passionate about Web Development and also helps run RawFresno.com."
   thumbnailUrl: riowaller.jpg
   rockstar: true
   social: 
@@ -95,7 +95,7 @@
   surname: "Roberts"
   company: "CS Student @ FCC"
   title: "Himself"
-  bio: "Nick Roberts is a second year Computer Science and Electrical Engineering student at Fresno City College. Nick has studied Android both academically and independently, and has contributed to, and has published, various apps in the Google Play store."
+  bio: "Nick Roberts is a second year Computer Science and Electrical Engineering student at Fresno City College. Nick has studied Android both academically and independently, and has contributed to and published, various apps in the Google Play store."
   thumbnailUrl: nicroberts.png
   rockstar: true
   social: 
@@ -150,7 +150,7 @@
   surname: "Rummler"
   company: "Computer Science Student"
   title: "Fresno City College"
-  bio: "Karl is currently in his first year at Fresno City studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in highschool-studying at the start of the first Geekwise Academy Program. "
+  bio: "Karl is currently in his first year at Fresno City College studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in high school, studying at the start of the first Geekwise Academy Program. "
   thumbnailUrl: KarlRummler.jpg
   rockstar: true
   social: 
