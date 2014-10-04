@@ -173,10 +173,10 @@
   company: "Fresno Tech Women"
   title: "Fresno Tech Women Organizer and all around amazing lady!"
   bio: "Victoria is an Enterprise Content Management Specialist for Tulare County Information & Communications Technology. She enjoys learning about front-end web development and user interface design. Victoria is an organizer of Fresno Tech Women (FTW), a monthly meetup for women interested in technology in the Central Valley."
-  thumbnailUrlL: victoria.jpg
+  thumbnailUrl: victoria.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}    
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}
 -
   id: 20
   name: "Rob"
@@ -184,8 +184,7 @@
   company: "Google"
   title: "Developer Advocate"
   bio: "Rob Dodson is a developer advocate at Google where he focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies,  user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrlL: robdodson.jpg
+  thumbnailUrl: robdodson.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+RobDodson"}    
-    
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RobDodson"}
