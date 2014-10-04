@@ -185,7 +185,7 @@
   company: "Google"
   title: "Developer Advocate"
   bio: "Rob Dodson is a developer advocate at Google where he focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies,  user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrlL: rdodson.jpg
+  thumbnailUrlL: robdodson.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+RobDodson"}    
