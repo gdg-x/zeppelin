@@ -84,7 +84,7 @@
   complexity: "Intermediate"
 -
   id: 008
-  title: "Google’s PlayN framework"
+  title: "Google’s PlayN Framework"
   description: "Learn how a small team put together the Android game Deal-O-Round in this year’s 59 Days of Code competition. We will review Java code in Google’s PlayN framework.  PlayN is a game engine supporting cross platform 2D  graphics."
   subtype: presentation
   speakers: [18]
