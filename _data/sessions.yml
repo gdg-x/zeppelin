@@ -30,8 +30,8 @@
   id: 001
   title: "Android Studio"
   description: "Get familiar with using the new Android IDE co-created by Google and IntelliJ"
-  subtype: workshop
-  speakers: [6, 11] 
+  subtype: presentation
+  speakers: [6, 11]
   language: 
   complexity: "Beginner"
 -
@@ -48,7 +48,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   title: "MIT App Inventor Part 1"
   description: "Want to get started in programming? Come learn with making a Android App with blocks!"
   subtype: workshop
-  speakers: [12]
+  speakers: [12, 19]
   language: 
   complexity: "Beginner"
 -
@@ -63,7 +63,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 005
   title: "Google Glass"
   description: "Curious about Google Glass? Come learn more about it and how to make an app for it."
-  subtype: workshop
+  subtype: presentation
   speakers: [4]
   language: 
   complexity: "Intermediate"
@@ -71,31 +71,31 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 006
   title: "Polymer"
   description: "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond."
-  subtype: keynote
+  subtype: presentation
   speakers: [3]
   language: 
   complexity: "Intermediate"
--
+  -
   id: 007
-  title: "Deal0Round - Debrief"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
-  speakers: [18]
+  title: "Android EndPoints"
+  description: "Android Endpoints to get up and running quickly with a cloud backend for your Android App."
+  subtype: presentation
+  speakers: 
   language: 
   complexity: "Intermediate"
 -
   id: 008
-  title: "Android EndPoints"
-  description: "Android Endpoints to get up and running quickly with a cloud backend for your Android App."
-  subtype: keynote
-  speakers: 
+  title: "Google’s PlayN framework"
+  description: "Learn how a small team put together the Android game Deal-O-Round in this year’s 59 Days of Code competition. We will review Java code in Google’s PlayN framework.  PlayN is a game engine supporting cross platform 2D  graphics."
+  subtype: presentation
+  speakers: [18]
   language: 
   complexity: "Intermediate"
 -
   id: 009
   title: "Cloud DataStore"
   description: "Interested in NoSQL Databases? Come and learn about the new and upcoming technology Cloud Datastore which is a managed, NoSQL database using SQL like queries for a non-relational data."
-  subtype: keynote
+  subtype: presentation
   speakers: [17]
   language: 
   complexity: "Intermediate"
@@ -103,7 +103,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 010
   title: "Dart Part 1"
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
-  subtype: keynote
+  subtype: workshop
   speakers: [13, 12]
   language: 
   complexity: "Beginner"
@@ -111,7 +111,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 011
   title: "Dart Part 2"
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
-  subtype: keynote
+  subtype: workshop
   speakers: [13, 12]
   language: 
   complexity: "Beginner"
@@ -119,7 +119,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 012
   title: "Android UX/UI"
   description: "With the arrival of Material Design, Google has published clear, coherent, and deep design guidelines to help developers and designers adapt more easily to their new design language. Besides having this great resource, there are other tools and resources that can be used to speed up the app design process. However, if you are a newcomer to designing Android applications, the design process may seem overwhelming and unclear. Should you start with some basic wireframes? Should you fire up Illustrator or Photoshop and jump right into designing some revolutionary user interfaces? Should you start at a basic level and do some use case diagrams? Should you do all three or go in a totally different direction? This talk will answer these questions by recommending and describing a design process that you can use that covers the user experience and user interface sides of designing a new Android application. During the talk, I will show the evolution of the design of an example Android application and cite tools and resources that you can use at each step of the design process. I will also give you some ideas on how to become a part of Android’s ever-growing design community."
-  subtype: keynote
+  subtype: presentation
   speakers: [9]
   language: 
   complexity: "Intermediate"
@@ -127,7 +127,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 013
   title: "Google App Engine"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: [7]
   language: 
   complexity: "Intermediate"
@@ -135,7 +135,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 014
   title: "Open"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: 
   language: 
   complexity: "Beginner"
@@ -144,7 +144,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 015
   title: "Getting into GIT"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: [6]
   language: 
   complexity: "Beginner"
@@ -153,7 +153,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 016
   title: "HTML 5 Part 1"
   description: "Introduction to writing HTML code and why it is easier than most people think.  In this beginning session we will get our hand into some HTML code and see how quickly we can create a simple but functional site."
-  subtype: keynote
+  subtype: workshop
   speakers: [15, 16]
   language: 
   complexity: "Beginner"
@@ -161,7 +161,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 017
   title: "Android Wear"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: [4]
   language: 
   complexity: "Intermediate"
@@ -169,7 +169,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 018
   title: "Open"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: 
   language: 
   complexity: "Beginner"
@@ -177,7 +177,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 019
   title: "Android Wear"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: [4]
   language: 
   complexity: "Intermediate"
@@ -185,7 +185,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 020
   title: "New project to v1.0 in the real world!"
   description: "This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
-  subtype: keynote
+  subtype: presentation
   speakers: [11]
   language: 
   complexity: "Intermediate"
@@ -193,7 +193,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 021
   title: "Compute Engine"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: [7]
   language: 
   complexity: "Intermediate"
@@ -201,7 +201,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 022
   title: "Chrome DevTools"
   description: "The Chrome Developer Tools are a set of web authoring and debugging tools built into Google Chrome. The DevTools provide web developers deep access into the internals of the browser and their web application. Use the DevTools to efficiently track down layout issues, set JavaScript breakpoints, and get insights for code optimization. This session will provide an overview of the features in Chrome Canary (the developer's Chrome)."
-  subtype: keynote
+  subtype: presentation
   speakers: [14]
   language: 
   complexity: "Beginner"
@@ -209,7 +209,7 @@ In a connected world, our greatest challenge in software development is cross-pl
   id: 023
   title: "Design Sprint - Wearables"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: keynote
+  subtype: presentation
   speakers: [19]
   language: 
   complexity: "Beginner"
@@ -221,21 +221,19 @@ In a connected world, our greatest challenge in software development is cross-pl
   speakers: [12, 19]
   language: 
   complexity: "Beginner"
-  
 -
   id: 025
-  title: "Coming Soon"
-  description: "Coming Soon"
-  subtype: workshop
-  speakers:
-  language: 
+  title: "Intro to Java"
+  description: "Introductory class for Java."
+  subtype: presentation
+  speakers: [6]
+  language: "Java"
   complexity: "Beginner"
-  
 -
   id: 026
   title: "HTML 5 Part 2"
   description: "Introduction to writing HTML code and why it is easier than most people think.  In this beginning session we will get our hand into some HTML code and see how quickly we can create a simple but functional site."
-  subtype: keynote
+  subtype: workshop
   speakers: [15, 16]
   language: 
   complexity: "Beginner"  
