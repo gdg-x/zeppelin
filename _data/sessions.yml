@@ -171,14 +171,6 @@
   language: 
   complexity: "Intermediate"
 -
-  id: 019
-  title: "Android Wear"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: presentation
-  speakers: [4]
-  language: 
-  complexity: "Intermediate"
--
   id: 020
   title: "Hello World v1!"
   description: "This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
