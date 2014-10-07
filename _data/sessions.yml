@@ -37,8 +37,7 @@
 -
   id: 002
   title: "AngularJS FTW"
-  description: "AngularJS FTW!
-In a connected world, our greatest challenge in software development is cross-platform support. Discover Google's super-heroic JavaScript framework and how it can empower you to code your apps once, and deploy anywhere! AngularJS is suitable for super-fast prototyping of the smallest of projects, but excels in all the heavy-lifting and complex demands of a scalable, distributed and mission-critical enterprise application."
+  description: "AngularJS FTW! In a connected world, our greatest challenge in software development is cross-platform support. Discover Google's super-heroic JavaScript framework and how it can empower you to code your apps once, and deploy anywhere! AngularJS is suitable for super-fast prototyping of the smallest of projects, but excels in all the heavy-lifting and complex demands of a scalable, distributed and mission-critical enterprise application."
   subtype: presentation
   speakers: [5]
   language: 
@@ -139,7 +138,6 @@ In a connected world, our greatest challenge in software development is cross-pl
   speakers: 
   language: 
   complexity: "Beginner"
-
 -
   id: 015
   title: "Getting into GIT"
@@ -148,7 +146,6 @@ In a connected world, our greatest challenge in software development is cross-pl
   speakers: [6]
   language: 
   complexity: "Beginner"
-
 -
   id: 016
   title: "HTML 5 Part 1"
