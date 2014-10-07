@@ -75,15 +75,15 @@
   language: 
   complexity: "Intermediate"
 -
-  id: 007
-  title: "Coming Soon"
-  description: "Coming Soon"
-  subtype: presentation
-  speakers: 
+  id: 023
+  title: "Polymer Code Lab Part 2"
+  description: "Hands on code lab with Polymer"
+  subtype: workshop
+  speakers: [4]
   language: 
   complexity: "Intermediate"
 -
-  id: 008
+  id: 017
   title: "Google’s PlayN Framework"
   description: "Learn how a small team put together the Android game Deal-O-Round in this year’s 59 Days of Code competition. We will review Java code in Google’s PlayN framework.  PlayN is a game engine supporting cross platform 2D  graphics."
   subtype: presentation
@@ -155,7 +155,7 @@
   language: 
   complexity: "Beginner"
 -
-  id: 017
+  id: 008
   title: "Android Wear"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: presentation
@@ -164,12 +164,12 @@
   complexity: "Intermediate"
 -
   id: 018
-  title: "Open"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: presentation
-  speakers: 
+  title: "Polymer Code Lab Part 1"
+  description: "Get hands on experience with Ploymer!"
+  subtype: workshop
+  speakers: [4]
   language: 
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 019
   title: "Android Wear"
@@ -180,7 +180,7 @@
   complexity: "Intermediate"
 -
   id: 020
-  title: "New project to v1.0 in the real world!"
+  title: "Hello World v1!"
   description: "This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
   subtype: presentation
   speakers: [11]
@@ -203,7 +203,7 @@
   language: 
   complexity: "Beginner"
 -
-  id: 023
+  id: 007
   title: "Design Sprint - Wearables"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: presentation
