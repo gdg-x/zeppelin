@@ -40,7 +40,7 @@
   description: "AngularJS FTW! In a connected world, our greatest challenge in software development is cross-platform support. Discover Google's super-heroic JavaScript framework and how it can empower you to code your apps once, and deploy anywhere! AngularJS is suitable for super-fast prototyping of the smallest of projects, but excels in all the heavy-lifting and complex demands of a scalable, distributed and mission-critical enterprise application."
   subtype: presentation
   speakers: [5]
-  language: HTML/JavaScript
+  language: 
   complexity: "Intermediate"
 -
   id: 003
@@ -72,7 +72,7 @@
   description: "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond."
   subtype: presentation
   speakers: [3]
-  language: HTML/JavaScript
+  language: 
   complexity: "Intermediate"
 -
   id: 023
@@ -80,7 +80,7 @@
   description: "Hands on code lab with Polymer"
   subtype: workshop
   speakers: [4]
-  language: HTML/JavaScript
+  language: 
   complexity: "Intermediate"
 -
   id: 019
