@@ -32,7 +32,7 @@
   description: "Get familiar with using the new Android IDE co-created by Google and IntelliJ"
   subtype: presentation
   speakers: [6, 11]
-  language: 
+  language: Java
   complexity: "Beginner"
 -
   id: 002
@@ -40,7 +40,7 @@
   description: "AngularJS FTW! In a connected world, our greatest challenge in software development is cross-platform support. Discover Google's super-heroic JavaScript framework and how it can empower you to code your apps once, and deploy anywhere! AngularJS is suitable for super-fast prototyping of the smallest of projects, but excels in all the heavy-lifting and complex demands of a scalable, distributed and mission-critical enterprise application."
   subtype: presentation
   speakers: [5]
-  language: 
+  language: HTML/JavaScript
   complexity: "Intermediate"
 -
   id: 003
@@ -72,7 +72,7 @@
   description: "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond."
   subtype: presentation
   speakers: [3]
-  language: 
+  language: HTML/JavaScript
   complexity: "Intermediate"
 -
   id: 023
@@ -80,7 +80,7 @@
   description: "Hands on code lab with Polymer"
   subtype: workshop
   speakers: [4]
-  language: 
+  language: HTML/JavaScript
   complexity: "Intermediate"
 -
   id: 019
@@ -104,7 +104,7 @@
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: workshop
   speakers: [13, 12]
-  language: 
+  language: Dart
   complexity: "Beginner"
 -
   id: 011
@@ -112,7 +112,7 @@
   description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
   subtype: workshop
   speakers: [13, 12]
-  language: 
+  language: Dart
   complexity: "Beginner"
 -
   id: 012
@@ -120,12 +120,12 @@
   description: "With the arrival of Material Design, Google has published clear, coherent, and deep design guidelines to help developers and designers adapt more easily to their new design language. Besides having this great resource, there are other tools and resources that can be used to speed up the app design process. However, if you are a newcomer to designing Android applications, the design process may seem overwhelming and unclear. Should you start with some basic wireframes? Should you fire up Illustrator or Photoshop and jump right into designing some revolutionary user interfaces? Should you start at a basic level and do some use case diagrams? Should you do all three or go in a totally different direction? This talk will answer these questions by recommending and describing a design process that you can use that covers the user experience and user interface sides of designing a new Android application. During the talk, I will show the evolution of the design of an example Android application and cite tools and resources that you can use at each step of the design process. I will also give you some ideas on how to become a part of Android’s ever-growing design community."
   subtype: presentation
   speakers: [9]
-  language: 
+  language: Java
   complexity: "Intermediate"
 -
   id: 013
   title: "Google App Engine"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "Google App Engine is a Platform as a Service level Google cloud technology. We'll examine App Engine features, place it into the cloud technology stack and look at some interesting examples. We'll also see how certain App Engine details reach towards the Infrastructure as a Service level abilities."
   subtype: presentation
   speakers: [7]
   language: 
@@ -180,8 +180,8 @@
   complexity: "Intermediate"
 -
   id: 021
-  title: "Compute Engine"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  title: "Google Compute Engine"
+  description: "Google Compute Engine is an Infrastructure as a Service level Google cloud technology. We'll examine Compute Engine's offerings, place it into the cloud technology stack and look at some fun examples. We'll also see how certain Compute Engine features reach towards the Platform as a Service level and thus inherently allow someone to position his solution within the cloud stack."
   subtype: presentation
   speakers: [7]
   language: 

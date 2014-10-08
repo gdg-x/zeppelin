@@ -49,7 +49,7 @@
   surname: "Toth"
   company: " "
   title: "Software developer"
-  bio: "We need Csaba's Bio here"
+  bio: "Csaba Toth is a software engineer and technology user group activist, who presented on various topics including cloud technologies, Hadoop and it's eco-system in the past. He has a CAD software developer C++ background and is at home in the Java and C# platforms too. He holds a masters degree in Computer Science. He co-founded the Nashville Java User Group and co-organized the Nashville .NET User Group. These days he grows the Central California Java User Group, helps the Fresno GDG, and co-organizes the Central California .NET User Group."
   thumbnailUrl: csabatoth.jpg
   rockstar: true
   social: 
@@ -72,8 +72,7 @@
   surname: "Greene"
   company: "ScholarDev App Development"
   title: "Founder"
-  bio: "General Project Manager at ScholarDev - Studies Computer Game Science at University of California, Irvine
- Fresno City College"
+  bio: "General Project Manager at ScholarDev - Studies Computer Game Science at University of California, Irvine"
   thumbnailUrl: JoshuaGreene.jpg
   rockstar: true
   social: 
