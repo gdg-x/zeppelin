@@ -120,8 +120,8 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG DevFest Córdoba 2014](http://gdgcordoba.github.io/zeppelin/)
 
 ### Contributors
-* Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
-* Idea and Jekyll integration: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
+* Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
+* Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
 
 ### Licence
 Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
