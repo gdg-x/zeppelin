@@ -71,6 +71,7 @@ Learn more about Sass development from [documentation](https://github.com/gdg-x/
 ### Resource optimizations (optional)
 
 You can optimize images and minify css and javascript automaticaly (for now only on Windows).
+But for Mac OS users available amazing tool - [imageoptim](https://imageoptim.com/). Thanks [@raphaelsavina](https://github.com/raphaelsavina) for link.
 Optimize all images by running this script from `/automation/images/` folder:
 ```bash
     all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
