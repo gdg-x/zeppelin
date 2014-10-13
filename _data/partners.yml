@@ -20,4 +20,4 @@
   group: "Location Sponsors"
   elements: 
       - {name: "Fresno City College", description: "California's Premier Community College", link: "http://fresnocitycollege.edu", imageUrl: "fcc.jpg"}
-   
+      - {name: "ScholarDev", description: "ScholarDev", link: "http://www.scholardevapps.com/", imageUrl: "scholardev_logo.png"}
