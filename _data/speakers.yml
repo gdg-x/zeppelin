@@ -72,12 +72,8 @@
   surname: "Greene"
   company: "ScholarDev App Development"
   title: "Founder"
-<<<<<<< HEAD
-  bio: "General Project Manager at ScholarDev - Studies Software Engineer at University of California, Irvine
+  bio: "General Project Manager at ScholarDev - Studying Software Engineer at University of California, Irvine
  Fresno City College"
-=======
-  bio: "General Project Manager at ScholarDev - Studies Computer Game Science at University of California, Irvine"
->>>>>>> 5c341027099af4f76776a35c705e5f1b99f09b91
   thumbnailUrl: JoshuaGreene.jpg
   rockstar: true
   social: 
