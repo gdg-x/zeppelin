@@ -120,6 +120,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG Hi Pic (France)](http://maximemularz.github.io/zeppelin/)
 * [GDG DevFest Córdoba 2014](http://gdgcordoba.github.io/zeppelin/)
 * [GDG DevFest Düsseldorf 2014](http://www.gdg-dus.de/DevFest2014/)
+* [GDG Dublin DevFest 2014](http://gdg-dublin.appspot.com/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
