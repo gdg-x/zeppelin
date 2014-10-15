@@ -47,7 +47,7 @@
   id: 7
   name: "Csaba"
   surname: "Toth"
-  company: " "
+  company: "Csaba Technology Services LLC"
   title: "Software developer"
   bio: "Csaba Toth is a software engineer and technology user group activist, who presented on various topics including cloud technologies, Hadoop and it's eco-system in the past. He has a CAD software developer C++ background and is at home in the Java and C# platforms too. He holds a masters degree in Computer Science. He co-founded the Nashville Java User Group and co-organized the Nashville .NET User Group. These days he grows the Central California Java User Group, helps the Fresno GDG, and co-organizes the Central California .NET User Group."
   thumbnailUrl: csabatoth.jpg
@@ -188,3 +188,12 @@
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}
+-
+  id: 20
+  name: "Adam"
+  surname: "Temple"
+  company: "Bixley"
+  title: ""
+  bio: "Adam Temple founded a tech company in 2004 that reached multimillion dollar revenue shortly after. He left the company and it was purchased in 2012. After quite a few failures he started Bixly, a Python development company which reached multimillion dollar status within 4 years. He still creates failures on the side.Adam Temple founded a tech company in 2004 that reached multimillion dollar revenue shortly after. He left the company and it was purchased in 2012. After quite a few failures he started Bixly, a Python development company which reached multimillion dollar status within 4 years. He still creates failures on the side."
+  thumbnailUrl: adam.jpg
+  rockstar: true
