@@ -3,7 +3,7 @@
   title: "Keynote"
   description: "This is a placeholder for a short description of the keynote speaker - COMING SOON!"
   subtype: keynote
-  speakers:
+  speakers: [20]
   language: 
   complexity:
 -
