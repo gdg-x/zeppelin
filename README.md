@@ -123,6 +123,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG Dublin DevFest 2014](http://gdg-dublin.appspot.com/)
 * [GDG Makerere DevFest 2014](http://gdgmakerere.github.io/)
 * [GDG Busitema DevFest 2014](http://gdgbusitema.github.io/)
+* [DevFest Vienna 2014](http://www.devfest.at/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
