@@ -124,6 +124,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG Makerere DevFest 2014](http://gdgmakerere.github.io/)
 * [GDG Busitema DevFest 2014](http://gdgbusitema.github.io/)
 * [DevFest Vienna 2014](http://www.devfest.at/)
+* [Android Wear DevFest](http://devfest.gdgnorthjersey.com/wear2014/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
