@@ -1,7 +1,7 @@
 -
   id: 100
   title: "Keynote"
-  description: "This is a placeholder for a short description of the keynote speaker - COMING SOON!"
+  description: ""
   subtype: keynote
   speakers: [20]
   language: 
@@ -79,7 +79,7 @@
   title: "Polymer Code Lab Part 2"
   description: "Hands on code lab with Polymer"
   subtype: workshop
-  speakers: [4]
+  speakers: [4, 21]
   language: 
   complexity: "Intermediate"
 -
@@ -132,10 +132,10 @@
   complexity: "Intermediate"
 -
   id: 014
-  title: "Open"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  title: "Intro to Polymer"
+  description: "Intro to Polymer"
   subtype: presentation
-  speakers: 
+  speakers: [21]
   language: 
   complexity: "Beginner"
 -
@@ -167,7 +167,7 @@
   title: "Polymer Code Lab Part 1"
   description: "Get hands on experience with Ploymer!"
   subtype: workshop
-  speakers: [4]
+  speakers: [4, 21]
   language: 
   complexity: "Intermediate"
 -
