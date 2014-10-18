@@ -51,11 +51,11 @@
   language: 
   complexity: "Beginner"
 -
-  id: 004
-  title: "Coming Soon"
-  description: "COMING SOON!"
+  id: 014
+  title: "Intro to Polymer"
+  description: "Intro to Polymer"
   subtype: presentation
-  speakers: 
+  speakers: [21]
   language: 
   complexity: "Beginner"
 -
