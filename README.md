@@ -127,6 +127,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [Android Wear DevFest](http://devfest.gdgnorthjersey.com/wear2014/)
 * [GDG SLAU DevFest 2014](http://gdgslau.github.io/)
 * [GDG Korea DevFair 2014](http://devfair2014.gdg.kr/)
+* [Lima DevFest](http://limadevfest.com/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
