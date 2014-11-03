@@ -129,6 +129,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG Korea DevFair 2014](http://devfair2014.gdg.kr/)
 * [Lima DevFest](http://limadevfest.com/)
 * [GDG DevFest Kota Kinabalu 2014](http://devfest.gdgkk.info/)
+* [GDG DevFest Belgium](http://gdg-brussels.org/DevFest2014/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
