@@ -133,6 +133,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [DevFest Praha 2014](http://devfest.cz/)
 * [GDG DevFest Kosice](http://devfest.sk/)
 * [DevFest Birgunj](gdgbirgunj.github.io/DevFest2014/)
+* [DevFest Lima 2014](http://limadevfest.com/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
