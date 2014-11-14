@@ -24,7 +24,7 @@
     background-position: center center !important;
     background-size: cover !important;
     &.parallax {
-	    background-attachment: fixed;
+	    //background-attachment: fixed;
 	    box-shadow: inset 0 0 12px 3px rgba(0, 0, 0, .75);
 	}
 	&.standart-height {
@@ -128,7 +128,4 @@
 }
 .reset-padding {
     padding: 0;
-}
-.disable-scrolling {
-    overflow: hidden;
 }

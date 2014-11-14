@@ -30,22 +30,22 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 
 ## Local development
 
-Check if you have [all requirments for local environment](http://jekyllrb.com/docs/installation/), install [Jekyll server](http://jekyllrb.com/docs/quickstart/) gem and run this command from project root folder:
+Check if you have [all requirments for local environment](http://jekyllrb.com/docs/installation/), install [Jekyll server](http://jekyllrb.com/docs/quickstart/) gem.
+Install GitHub pages
+```bash
+	gem install github-pages
+``` 
 
+Run this command from project root folder:
 ```bash
     jekyll serve -w
 ```
-Site will be available at http://127.0.0.1:4000/zeppelin/
+Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:4000/zeppelin/ (on Windows)
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
-### Sass support
-Install Sass. Ruby uses Gems to manage its various packages of code like Sass. In your open terminal window type:
-```bash
-	gem install sass
-```
-
-Also you need to install the latest version of [Compass](http://compass-style.org/) with command
+### Sass(Compass) support
+Install the latest version of [Compass](http://compass-style.org/). Ruby uses Gems to manage its various packages of code like Sass. In your open terminal window type:
 ```bash
 	gem install compass --pre
 ```
@@ -60,10 +60,10 @@ And for prefixing css3 properties use [Autoprefixer](https://github.com/ai/autop
 	gem install autoprefixer-rails
 ```
 
-To watch changes in `.sass` files and compile it to the `.css` on a fly, run this command from `\_sass\` folder
-```bash
-	compass watch -c config.rb -e production
-```
+**Note:** Also you need to install [Node.js](http://nodejs.org/download/)
+
+To watch changes of `.sass` files and compile it to the `.css` on a fly change property `safe: true` to `safe: false` in `_config.yml`.
+**Note: It works only on local machine, because GitHub runs Jekyll in `--save` [mode](https://help.github.com/articles/using-jekyll-with-pages/#configuration-overrides)**
 
 Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
 
