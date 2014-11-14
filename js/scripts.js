@@ -225,6 +225,9 @@
             var iframe = $(this).find('iframe');
             iframe.attr('src', iframe.attr('src'));
         });
+        $('.slot').click(function() {
+            location.hash = $(this).attr('id');
+        });
 
 
         if (typeof twitterFeedUrl !== 'undefined') {
