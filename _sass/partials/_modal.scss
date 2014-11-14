@@ -28,8 +28,8 @@ $modal-highlight-color: #212121;
 }
 .modal-dialog {
     @media (min-width: 768px) {
-    width: 740px;
-    margin-top: 100px;
+        width: 740px;
+        margin-top: 100px;
     }
 }
 .modal-body {
@@ -44,8 +44,14 @@ $modal-highlight-color: #212121;
             color: $modal-highlight-color;
         }
     }
+    .theme-video {
+        margin: 20px 0;
+    }
     .theme-description {
-        margin: 12px 0 37px;
+        margin: 12px 0 20px;
+    } 
+    .theme-presentation {
+        font-size: 15px;
     } 
     .people-details {
         .row {

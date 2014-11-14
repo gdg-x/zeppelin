@@ -68,7 +68,7 @@ nav {
         height: 100%;
         transition: $long-transition;
         background: #fff;
-        transform: translate(-100%,0);
+        transform: translateX(-100%);
     }
     .st-menu-open & {
         transform: translate(0);
@@ -89,6 +89,9 @@ nav {
         }
         .top-header.after-scroll & {
             transform: translateY(20px);  
+            @media (max-width: 767px) {
+                transform: translateY(0);  
+            }
         }
     }
     li {
