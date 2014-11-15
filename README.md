@@ -134,7 +134,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG DevFest Kosice](http://devfest.sk/)
 * [DevFest Birgunj](gdgbirgunj.github.io/DevFest2014/)
 * [DevFest Lima 2014](http://limadevfest.com/)
-* [GDG DevFest Kota Kinabalu](http://devfest.gdgkk.info/)
+* [DevFest Chennai 2014](http://devfest.gdgchennai.com/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
