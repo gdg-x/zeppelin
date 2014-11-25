@@ -10,34 +10,37 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "GDG DevFest Nyeri 2014"
+email: "gdg-kimathi-university@googlegroups.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+baseurl: ""
+url: ""
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-56321342-1"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Kimathi University"
+organizerAlternateName: "Google Developer Group Kimathi University"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "kenmbugua@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgkimathiuniversity.blogspot.com/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@GDGKimathiUni"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: 
+c4sponsorsUrl: 
 
 
 # Navigation
@@ -47,22 +50,22 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "GDG DevFest Nyeri  2014"
+eventDate: "29th November, 2014"
+typeoutTextValues: '"", "Android", "Cloud", "Women In Tech", "Codelabs"'
+typeoutFallback: "Android"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://devfestnyeri14.eventbrite.com", text: "Register here"}
+ #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -74,10 +77,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "6", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,19 +93,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationName: "Dedan Kimathi University of Technology"
+eventLocationLink: "http://dkut.ac.ke/"
+eventStreetAddress: "Auditorium"
+eventAddressLocality: "Dedan Kimathi University of Technology"
+eventAddressLocalityRegion: "Nyeri"
+eventPostalCode: "099"
+eventAddressCountry: "Kenya"
+eventStartTime: "2014-11-29T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2014-11-29T7:00"
+eventPlaceCoordinates: "-0.3954526, 36.9620919"
+mapCenterCoordinates: "-0.3954526, 36.9620919"
+mapMobileCenterCoordinates: "-0.3954526, 36.9620919"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -115,8 +118,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Follow us on twitter"
+twitterHashTag: "devfestnyeri14"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -175,7 +178,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGKimathiUni", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
