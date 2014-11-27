@@ -33,7 +33,7 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 Check if you have [all requirments for local environment](http://jekyllrb.com/docs/installation/), install [Jekyll server](http://jekyllrb.com/docs/quickstart/) gem.
 Install GitHub pages
 ```bash
-	gem install github-pages
+  gem install github-pages
 ``` 
 
 Run this command from project root folder:
@@ -47,17 +47,17 @@ Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:40
 ### Sass(Compass) support
 Install the latest version of [Compass](http://compass-style.org/). Ruby uses Gems to manage its various packages of code like Sass. In your open terminal window type:
 ```bash
-	gem install compass --pre
+  gem install compass --pre
 ```
 
 Then for combining media queries you can use [Sass::MediaQueryCombiner](https://github.com/aaronjensen/sass-media_query_combiner) plugin. Install with command
 ```bash
-	gem install sass-media_query_combiner
+  gem install sass-media_query_combiner
 ```
 
 And for prefixing css3 properties use [Autoprefixer](https://github.com/ai/autoprefixer)
 ```bash
-	gem install autoprefixer-rails
+  gem install autoprefixer-rails
 ```
 
 **Note:** Also you need to install [Node.js](http://nodejs.org/download/)
@@ -118,10 +118,10 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 | [GDG Korea DevFair 2014](http://devfair2014.gdg.kr/) | [GDG DevFest Kota Kinabalu 2014](http://devfest.gdgkk.info/) | [GDG DevFest Belgium](http://gdg-brussels.org/DevFest2014/) |
 | [DevFest Praha 2014](http://devfest.cz/) | [GDG DevFest Kosice](http://devfest.sk/) | [GDG DevFest Cagayan de Oro](http://devfest.gdgcdo.org/) |
 | [DevFest Birgunj](http://gdgbirgunj.github.io/DevFest2014/) | [GDG DevFest Poland](http://devfest.pl/) | [GDG DevFest Silicon Valley](http://devfest2014.gdgsv.com/) |
- [DevFest Chennai 2014](http://devfest.gdgchennai.com/) | [GDG DevFest Bari](http://gdgbari.github.io/zeppelin/) | [GDG DevFest Ahmedabad](http://devfest.gdgahmedabad.com/) |
+| [DevFest Chennai 2014](http://devfest.gdgchennai.com/) | [GDG DevFest Bari](http://gdgbari.github.io/zeppelin/) | [GDG DevFest Ahmedabad](http://devfest.gdgahmedabad.com/) |
 | [GDG DevFest Sri Lanka](http://www.devfestlk.org/) | [GDG DevFest Tunis](http://devfest.gdgtunis.org/) | [GDG DevFest Kozhikode](http://devfest.gdgkozhikode.org/) | 
-[GDG DevFest Argentina](http://devfest.gdg.com.ar/) | [GDG DevFest Bhubaneswar](http://devfest2014.gdgbbsr.com/) | [GDG DevFest Miage Gi](http://gdgmiagegilab.github.io/) | 
-[GDG DevFest Nanyang](http://devfest.gdgny.org/) |
+| [GDG DevFest Argentina](http://devfest.gdg.com.ar/) | [GDG DevFest Bhubaneswar](http://devfest2014.gdgbbsr.com/) | [GDG DevFest Miage Gi](http://gdgmiagegilab.github.io/) | 
+| [GDG DevFest Nanyang](http://devfest.gdgny.org/) | [GDG Devfest Nyeri 2014](http://devfest.gdgkimathiuniversity.com/) | |
 
 
 ### Contributors
