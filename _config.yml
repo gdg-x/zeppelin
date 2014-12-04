@@ -10,23 +10,23 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "GDG DevFest Voronezh 2014"
+email: "info@gdgvrn.org"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+baseurl: "/"
+url: "http://devfest2014.gdgvrn.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Voronezh"
+organizerAlternateName: "Google Developer Group Voronezh"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "info@gdgvrn.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.gdgvrn.org/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -36,48 +36,48 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "http://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {link: "http://www.gdgvrn.org", text: "Блог"}
+ - {permalink: "/schedule/", text: "Расписание"}
+# - {permalink: "/speakers/", text: "Спикеры"}
+# - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/logistics/", text: "Logistics"}
+ # - {permalink: "/hackathon/", text: "Design Sprint"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "nexus.png"
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+eventDate: "Россия, Воронеж, 13 - 14 декабря, 2014"
+typeoutTextValues: '"", "Season", "Воронеж", "Омск", "Brussels"'
+typeoutFallback: "Воронеж"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/x1VB6mebvq", text: "Регистрация"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "О GDG DevFest Воронеж 2014"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "13 декабря - Конференция", image: "conference.jpg", text: "Крупнейшая региональная конференция по технологиям Google в мобильной и веб-рзарботке." }
+ - {title: "14 декабря - Wearables Design Sprint", image: "workshop.jpg", text: "Уникальная возможность научиться создавать своё собственное Wearable приложения от идеи до реализации на устройстве." }
+ #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "250", specialCharacter: "+", info: "участников", detail: "ежегодно"}
+ - {count: "48", info: "часов", detail: "уникального опыта"}
+ - {count: "9", info: "спикеров", detail: "из России и зарубежья"}
+ #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -89,38 +89,38 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
+locationBlockTitle: "Место проведения"
+eventLocationName: "Воронежский Государственный Университет"
+eventLocationLink: "http://www.vsu.ru/"
+eventStreetAddress: "Университетская площадь, 1"
+eventAddressLocality: "Воронеж"
 eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventPostalCode: "394006"
+eventAddressCountry: "Россия"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "51.656642, 39.205992"
+mapCenterCoordinates: "51.656642, 39.205992"
+mapMobileCenterCoordinates: "51.656642, 39.205992"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+# venueBlockTitle: "Воронежский Государственный Университет"
+# venueBigImage: "venue_0.jpg"
+# venueSmallImage1: "venue_1.jpg"
+# venueSmallImage2: "venue_2.jpg"
+# venueSmallImage3: "venue_3.jpg"
+# venueTitle: "Kinopalace Cinema"
+# venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# # Tweets Feed Block
+# tweetsFeedImage: "twitter-feed.jpg"
+# tweetsFeedTitle: "What's Up?"
+# twitterHashTag: "devfest"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Организаторы"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -130,68 +130,68 @@ subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+# # Tickets Block
+# ticketsTitle: "Pricetable"
+# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+# ticketsOffers:
+#  -
+#   name: "Early Bird"
+#   price: "350"
+#   priceCurrency: "UAH"
+#   ticketsNumber: "150"
+#   ribbon: "-5%"
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2014-08-25T10:00"
+#   validThrough: "2014-09-30T23:59"
+#  -
+#   name: "Last Chance"
+#   price: "450"
+#   priceCurrency: "UAH"
+#   ticketsNumber: "100"
+#   ribbon: "-20%"
+#   featured: true
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2014-10-01T00:00"
+#   validThrough: "2014-10-23T23:59"
+#   disabled: true
+#  -
+#   name: "Student"
+#   price: "200"
+#   priceCurrency: "UAH"
+#   ticketsNumber: "50"
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "Buy Now"
+#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2014-08-20T10:00"
+#   validThrough: "2014-10-23T23:59"
+#   soldOut: true
+#   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://www.google.com/+GdgvrnOrg", icon: "google-plus"}
+ # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdgomsk.org/", text: "GDG Omsk"}
    - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ # -
+ #  title: "Contacts"
+ #  links:
+ #   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+ # -
+ #  title: "FAQ"
+ #  links:
+ #   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
