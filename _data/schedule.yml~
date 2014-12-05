@@ -1,0 +1,103 @@
+- 
+  date: "2014-12-13"
+  dateReadable: "Декабрь 13"
+  tracks: 
+    - {title: "Конференция", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [504]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "11:00",
+        sessionIds: [505]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:40",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "11:45",
+    	endTime: "12:25",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:10",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "13:15",
+    	endTime: "13:55",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:00",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:40",
+    	sessionIds: [005]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "16:20",
+    	sessionIds: [006]
+    }
+    - {
+    	startTime: "16:25",
+    	endTime: "17:05",
+    	sessionIds: [007]
+    }
+    - {
+    	startTime: "17:10",
+    	endTime: "17:50",
+    	sessionIds: [008]
+    }
+- 
+  date: "2014-12-14"
+  dateReadable: "December 14"
+  tracks: 
+    - {title: "Design Sprint and Hackathon", color: "#90be4e"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "11:30",
+    	sessionIds: [011]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:00",
+    	sessionIds: [012]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:20",
+        sessionIds: [013]
+    }
+    - {
+    	startTime: "12:20",
+    	endTime: "13:20",
+    	sessionIds: [014]
+    }
+    - {
+    	startTime: "13:20",
+    	endTime: "14:20",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "14:20",
+    	endTime: "14:50",
+    	sessionIds: [015]
+    }
+    - {
+    	startTime: "14:50",
+    	endTime: "19:00",
+    	sessionIds: [016]
+    }
+
