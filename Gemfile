@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'sass'
+gem 'compass'
+gem 'sass-media_query_combiner'
+gem 'autoprefixer-rails'
+gem 'jekyll'
