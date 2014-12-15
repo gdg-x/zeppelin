@@ -18,6 +18,15 @@ javascripts_dir = "../js"
 line_comments = false
 relative_assets = true 
 output_style = :compressed
+if environment == :production
+    require 'fileutils'
+        on_stylesheet_saved do |file|
+            if File.exists?(file)
+            filename = File.basename(file, File.extname(file))
+            File.rename(file, "../css" + "/" + filename + ".min" + File.extname(file))
+        end
+    end
+end
 
 # Remove multiline comments - monkey patch
 class Sass::Tree::Visitors::Perform < Sass::Tree::Visitors::Base
