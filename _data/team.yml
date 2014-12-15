@@ -51,3 +51,11 @@
   thumbnailUrl: KrisztinaOrosz.jpg
   team: true
   social: 
+-
+  id: "alexandra-negoescu"
+  name: "Alexandra"
+  surname: "Negoescu"
+  title: "Public Relations & Marketing"
+  thumbnailUrl: "AlexandraNegoescu.jpg"
+  team: true
+  social:
