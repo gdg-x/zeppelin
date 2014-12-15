@@ -52,6 +52,6 @@ $long-cubic-transition: all .5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
 // Path
 $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
-$logos-sprite: $sprites-dir + "/logos.svg";
+$logos-sprite: $sprites-dir + "/logos.png";
 
 @import "modules/all";
