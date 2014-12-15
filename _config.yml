@@ -116,7 +116,7 @@ venueFeatures: ["What to say", "about the location", "where it is"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "wtmvie"
 twitterFeed: "/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
