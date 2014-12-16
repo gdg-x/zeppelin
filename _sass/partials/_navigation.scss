@@ -3,39 +3,26 @@ $nav-color-hover: #cfcfcf;
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 
-$nav-top-bg1: rgba(0, 0, 0, 0.90);
-$nav-top-bg2: rgba(0, 0, 0, 0.5);
+$nav-top-bg: rgba(255,255,255,.9);
 
 .top-section-hero {
     .top-header {
-        background: -webkit-linear-gradient($nav-top-bg1, $nav-top-bg2);
-        background: -o-linear-gradient($nav-top-bg1, $nav-top-bg2);
-        background: -moz-linear-gradient($nav-top-bg1, $nav-top-bg2);
-        background: linear-gradient($nav-top-bg1, $nav-top-bg2);
-        &.after-scroll {
-            background: rgba(255, 255, 255, .9);
-        }
+        background: $nav-top-bg;
     }
 }
 .top-header {
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px 35px 0;
+    padding: 0;
+/*
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
-    &.after-scroll {
-        padding-top: 0;
-        padding-bottom: 0;
-        box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
-        .overlay {
-            opacity: 1;
-        }
-    }
+*/
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
     .overlay {
-        opacity: 0;
-        transition: $base-transition;
+        opacity: 1;
     }
 }
 .logo-header {
@@ -45,7 +32,7 @@ $nav-top-bg2: rgba(0, 0, 0, 0.5);
     @media (max-width: 767px) {
         transform: translateX(-45px);
     }
-    .top-header.after-scroll & {
+    .top-header & {
         transform: translateY(1px);
         @media (max-width: 767px) {
             transform: translateX(-45px);
@@ -102,7 +89,7 @@ nav {
             margin: 20px 0 0 5px;
             transform: translateY(0);  
         }
-        .top-header.after-scroll & {
+        .top-header & {
             transform: translateY(20px);  
             @media (max-width: 767px) {
                 transform: translateY(0);  
@@ -138,7 +125,7 @@ nav {
                     color: $main-color;
                 }
             }
-            .top-header.after-scroll & {
+            .top-header & {
                 color: $nav-scroll-color;
                 @media (max-width: 767px) {
                     top: 20px;

@@ -472,10 +472,10 @@ $pager-disabled-color:                 $pagination-disabled-color !default;
 //
 //##
 
-$jumbotron-padding:              30px !default;
+$jumbotron-padding:              8px !default;
 $jumbotron-color:                inherit !default;
 // $jumbotron-bg:                   $gray-lighter !default;
-$jumbotron-bg:                   rgba(0,0,0,0.1);
+$jumbotron-bg:                   white;
 $jumbotron-heading-color:        inherit !default;
 $jumbotron-font-size:            ceil(($font-size-base * 1.5)) !default;
 

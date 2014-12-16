@@ -7,9 +7,9 @@
         top: 50%;
         margin: 0;
         left: 0;
-        transform: translateY(-60%);
-        // background-color: $jumbotron-bg;
-        text-shadow: 2px 0 0 rgba(0,0,0,0.5), -2px 0 0 rgba(0,0,0,0.5), 0 2px 0 rgba(0,0,0,0.5), 0 -2px 0 rgba(0,0,0,0.5), 1px 1px rgba(0,0,0,0.5), -1px -1px 0 rgba(0,0,0,0.5), 1px -1px 0 rgba(0,0,0,0.5), -1px 1px 0 rgba(0,0,0,0.5);
+        transform: translateY(-40%);
+        background-color: $jumbotron-bg;
+        color: black;
         @media (max-width: 767px) {
             margin: 0;
             padding: 0;

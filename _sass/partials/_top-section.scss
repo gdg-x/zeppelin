@@ -1,6 +1,6 @@
 .top-section {
     position: relative;
-    min-height: 400px;
+    min-height: 200px;
     padding-top: 0;
     background: $base-section-background-color;
     @media (max-width: 767px) {
@@ -17,12 +17,11 @@
 .jumbotron {
     position: relative;
     left: 26px;
-    margin: 200px 0 0 0;
-    color: #fff;
+    margin: 100px 0 0 0;
     background: 0;
     @media (max-width: 767px) {
         left: 13px;
-        margin-top: 100px;
+        margin-top: 50px;
         padding-left: 0;
         /* padding-bottom: 5px; */
     }
