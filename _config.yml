@@ -56,10 +56,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Women Techmakers Vienna <typeout>"
-eventDate: "Spring 2015"
-typeoutTextValues: '"", "2014", "2015"'
-typeoutFallback: "2015"
+heroTitle: "Women Techmakers Vienna"
+eventDate: "Coming back in Spring 2015"
+# typeoutTextValues: '"", "2014", "2015"'
+# typeoutFallback: "2015"
 heroButtons:
  # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  # - {permalink: "/#tickets", text: "Buy tickets"}

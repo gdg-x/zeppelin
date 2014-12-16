@@ -3,6 +3,14 @@ $nav-color-hover: #cfcfcf;
 $nav-scroll-color: rgba(0, 0, 0, .5);
 $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 
+.top-section-hero {
+    .top-header {
+        background: rgba(160, 160, 160, 0.85);
+        &.after-scroll {
+            background: rgba(255, 255, 255, .9);
+        }
+    }
+}
 .top-header {
     position: fixed;
     z-index: 500;
@@ -103,7 +111,7 @@ nav {
         }
         a {
             font-size: $base-font-size;
-            font-weight: $regular;
+            font-weight: $bold;
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
