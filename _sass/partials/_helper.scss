@@ -63,6 +63,9 @@
     &.white-solid {
         background: rgba(255, 255, 255, .9);
     }
+    &.hero-solid {
+        background: rgba(0, 0, 0, 0.3);
+    }
     &.gradient-overlay {
 	    background: linear-gradient(to bottom, rgba(0, 0, 0, .32) 0%, rgba(0, 0, 0, 0) 32%, rgba(0, 0, 0, .64) 100%);
 	}
