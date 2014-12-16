@@ -15,12 +15,13 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px;
+    padding: 0 45px 35px 0;
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
     &.after-scroll {
         padding-top: 0;
+        padding-bottom: 
         box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
         .overlay {
             opacity: 1;
