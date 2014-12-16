@@ -20,7 +20,9 @@
   thumbnailUrl: AngelikiChrysochou.jpg
   team: true
   ribbon: 
-  social: 
+  social:
+    - {name: "twitter", link: "https://twitter.com/angelikix"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/angeliki-chrysochou/53/280/565"}
 - 
   id: "pia-liszt"
   name: "Pia"
@@ -30,6 +32,7 @@
   team: true
   ribbon: 
   social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pialiszt"}
 - 
   id: "helmuth-breitenfellner"
   name: "Helmuth"
@@ -51,6 +54,7 @@
   thumbnailUrl: KrisztinaOrosz.jpg
   team: true
   social: 
+    - {name: "linkedin", link: "http://at.linkedin.com/in/krisztinaorosz"}
 -
   id: "alexandra-negoescu"
   name: "Alexandra"
@@ -59,3 +63,4 @@
   thumbnailUrl: "AlexandraNegoescu.jpg"
   team: true
   social:
+    - {name: "linkedin", link: "http://at.linkedin.com/pub/alexandra-negoescu/60/192/a11"}
