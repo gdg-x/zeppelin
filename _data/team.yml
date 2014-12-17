@@ -34,6 +34,8 @@
   ribbon: 
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pialiszt"}
+    - {name: "facebook", link: "https://www.facebook.com/pia.liszt"}
+    - {name: "google-plus", link: "https://plus.google.com/+PiaLiszt"}
 - 
   id: "helmuth-breitenfellner"
   name: "Helmuth"
