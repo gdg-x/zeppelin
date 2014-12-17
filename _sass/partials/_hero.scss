@@ -14,6 +14,9 @@
             margin: 0;
             padding: 0;
         }
+        h1 {
+            font-weight: $regular;
+        }
         p {
             font-size: $base-font-size * 2;
             font-weight: $regular;
