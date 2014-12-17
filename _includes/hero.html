@@ -5,10 +5,10 @@
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
          <div class="row text-center">
-          <div class="col-lg-2 col-md-2 col-sm-2">
+          <div class="col-lg-3 col-md-2 col-sm-2">
             <img src="/img/wtm-logo.png" class="center-block image-responsive" style="padding-top:10px; padding-left: 10px;">
           </div>
-          <div class="col-lg-10 col-md-10 col-sm-10">
+          <div class="col-lg-8 col-md-10 col-sm-10">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <p>{{ site.eventDate }}</p>
