@@ -3,6 +3,6 @@
   elements: 
     - {name: "GDG Vienna", description: "GDG Vienna - Open and volunteer geek community", link: "http://www.gdg-vienna.at", imageUrl: "gdg-vienna.png"}
 - 
-  group: "Co-organizers"
-  elements: 
-    - {name: "JSUG Vienna", description: "JSUG Vienna - Java (Student) User Group", link: "http://jsug.at", imageUrl: "jsug.png"}
+  #group: "Co-organizers"
+  #elements: 
+    #- {name: "JSUG Vienna", description: "JSUG Vienna - Java (Student) User Group", link: "http://jsug.at", imageUrl: "jsug.png"}

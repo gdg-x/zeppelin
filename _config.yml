@@ -76,11 +76,11 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere - men &amp; women"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "sessions, workshops &amp; discussion"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from Vienna and beyond"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "local professionals"}
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "What we stand for"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"

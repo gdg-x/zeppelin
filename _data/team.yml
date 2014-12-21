@@ -12,7 +12,7 @@
     - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
     - {name: "github", link: "https://github.com/therealimy"}
     - {name: "facebook", link: "https://www.facebook.com/timea.turdean"}
-    - {name: "site", link: "http://www.timeturdean.com/"}
+    - {name: "site", link: "http://www.timeaturdean.com/"}
 - 
   id: "angeliki-chrysochou"
   name: "Angeliki"
@@ -58,6 +58,7 @@
   team: true
   social: 
     - {name: "linkedin", link: "http://at.linkedin.com/in/krisztinaorosz"}
+    - {name: "twitter", link: "https://twitter.com/krisz_O"}	 
 -
   id: "alexandra-negoescu"
   name: "Alexandra"
