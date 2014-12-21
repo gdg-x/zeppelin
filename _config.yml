@@ -80,7 +80,10 @@ statisticBlock:
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "What we stand for"
+latestNewsTitle: "Latest News"
+
+# Strategy Block
+strategyTitle: "What we stand for"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -288,3 +291,7 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+
+collections:
+  strategy:
+    output: true

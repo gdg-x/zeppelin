@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mission"
-date:   2014-12-20 07:00:00
 isStaticPost: true
+permalink: strategy/mission.html
 ---
 ## Mission
 

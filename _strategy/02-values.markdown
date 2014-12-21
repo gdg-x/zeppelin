@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Values"
-date:   2014-12-21 07:00:00
 isStaticPost: true
+permalink: strategy/values.html
 ---
 ## Values
 
