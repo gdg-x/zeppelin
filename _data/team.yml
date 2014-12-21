@@ -57,8 +57,8 @@
   thumbnailUrl: KrisztinaOrosz.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "http://at.linkedin.com/in/krisztinaorosz"}
-    - {name: "twitter", link: "https://twitter.com/krisz_O"}	 
+    - {name: "twitter", link: "https://twitter.com/krisz_O"}
+    - {name: "linkedin", link: "https://at.linkedin.com/in/krisztinaorosz"}
 -
   id: "alexandra-negoescu"
   name: "Alexandra"
