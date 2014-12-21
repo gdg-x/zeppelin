@@ -1,16 +1,20 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Code of conduct
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+All attendees, speakers, sponsors and volunteers at Women Techmakers Vienna 2015 are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We rely on your help ensuring a safe and comfortable environment for everybody. 
+
+Women Techmakers Vienna 2015 is an event dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, race or religion. We do not tolerate harassment of conference participants in any form. 
+We kindly ask all participants, sponsors and volunteers to refrain from inappropriate behaviour. Examples of inappropriate behaviour which are not tolerated under any circumstance include, but are not limited to: sexual language and imagery, verbal or physical harassment, theft. Any participant exhibiting any of the aforementioned behaviour will be sanctioned or expelled from the event at the discretion of the organisers. 
+Sponsors also must abide to this code of conduct. In particular we ask them not to use sexualized images, activities or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. 
 
 
-GDG Vienna prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+Should you encounter harassment or notice someone else being harassed, please contact the organisers immediately, or, in worse situations, contact the police directly at 112. Organisers are ready to help in all situations and will handle them with care. 
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG events’ awesomeness.
+We expect all participants, sponsors, volunteers to abide by this code of conduct and we look forward to a successful and welcoming event. If you have questions or would like to report incidents of harassment pre- or post-event, please contact us at: team@womentechmakers.at.
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
