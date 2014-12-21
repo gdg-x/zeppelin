@@ -14,7 +14,7 @@ title: "Women Techmakers Vienna"
 email: "team@womentechmakers.at"
 description: "Women Techmakers Vienna is part of an international event series initiated by Google whose goal is to make women in tech more visible and to help build a better community."
 baseurl: ""
-url: "https://womentechmakers.at"
+url: "https://www.womentechmakers.at"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-21611117-7"
 googleAnalyticsSiteUrl: "womentechmakers.at"
@@ -43,7 +43,7 @@ c4sponsorsUrl: "/sponsors"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Vienna"
-eventDate: "Coming back in Spring 2015"
+eventDate: "Coming back in March 2015"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Supporting women in tech through the power of example" }
+ - {title: "Conference", image: "conference.jpg", text: "Supporting women in tech through the power of example." }
  - {title: "Workshops", image: "workshop.jpg", text: "High-tech workshops, hands-on experience, hacking and debugging. Delivered by top women in tech!" }
- - {title: "Discussion", image: "discussion.jpg", text: "How can we close the gender gap in science, tech, engineering & mathematics? On-stage panel discussion with experts and leaders" }
+ - {title: "Discussion", image: "discussion.jpg", text: "How can we close the gender gap in science, tech, engineering & mathematics? On-stage panel discussion with experts and leaders." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -77,7 +77,7 @@ statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere - men &amp; women"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "sessions, workshops &amp; discussion"}
  - {count: "5", specialCharacter: "+", info: "speakers", detail: "from Vienna and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
