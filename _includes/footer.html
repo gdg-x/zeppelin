@@ -1,8 +1,6 @@
 <!-- Begin Footer -->
 <footer id="footer" class="footer">
-	<div class="row">	
-		<div class="logo logo-footer logo-gray pull-right"></div>
-	</div>
+	
 	<div class="row">
 		{% for block in site.footerBlocks %}
         {% assign colWidth = 12 | divided_by: forloop.length %}
@@ -31,6 +29,9 @@
 			</ul>
 			<div class="pull-left col-md-6 col-xs-6">
 				<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{ site.url }}"></div>
+			</div>
+			<div class="row">	
+				<div class="logo logo-footer logo-gray pull-right"></div>
 			</div>
 		</div>
 	</div>
