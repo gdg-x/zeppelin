@@ -4,7 +4,6 @@ title:  "Mission"
 date:   2014-12-20 07:00:00
 isStaticPost: false
 ---
-
 ## Mission
 
 *Raise awareness of gender equality & diversity issues in STEM (science, technology, engineering & math)

@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 ## Vision
 
-Equality & diversity in STEM regardless of gender.
+*"Equality & diversity in STEM regardless of gender."*
 
 This is the world we are dreaming of. A world where women don't have to give 120% to be taken full.
 A world where men and women are working together in exploring science, developing technology,
