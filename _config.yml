@@ -31,9 +31,9 @@ organizerLink: "http://www.gdg-vienna.at/"
 # Head
 metaKeywords: "event, gdg, women in tech, google, programming, developers, vienna, austria"
 twitterAccount: "@WTMvienna"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/wtm-logo.png"
+socialImageSrcTwitter: "/img/wtm-logo.png"
+socialImageSrcFacebook: "/img/wtm-logo.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
