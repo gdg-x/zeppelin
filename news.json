@@ -3,7 +3,7 @@ layout: nil
 ---
 
 [
-{% for entry in data.news %}
+{% for entry in site.data.news %}
     {
       "title"    : "{{ entry.title }}",
       "image"    : "{{ entry.img }}",
