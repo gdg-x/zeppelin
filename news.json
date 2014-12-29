@@ -1,0 +1,16 @@
+---
+layout: nil
+---
+
+[
+{% for entry in data.news %}
+    {
+      "title"    : "{{ entry.title }}",
+      "image"    : "{{ entry.img }}",
+      "url"      : "{{ entry.url }}",
+      "date"     : "{{ entry.date | date: "%B %d, %Y" }}",
+      "content"  : "{{ entry.content | escape }}",
+      "priority" : {{ entry.priority }}
+    } {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+]
