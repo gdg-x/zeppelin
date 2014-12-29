@@ -6,9 +6,9 @@ layout: nil
 {% for entry in site.data.news %}
     {
       "title"    : "{{ entry.title }}",
-      "image"    : "{{ entry.img }}",
+      "image"    : "{{ entry.image }}",
       "url"      : "{{ entry.url }}",
-      "date"     : "{{ entry.date | date: "%B %d, %Y" }}",
+      "date"     : "{{ entry.date | date: "%Y-%m-%d %H:%M:%S" }}",
       "content"  : "{{ entry.content | escape }}",
       "priority" : {{ entry.priority }}
     } {% if forloop.last %}{% else %},{% endif %}
