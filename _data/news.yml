@@ -2,13 +2,15 @@
   title: "Women Techmakers coming in March 2015"
   image: "https://www.womentechmakers.at/img/seo/sharing-facebook.png"
   url: "http://www.gdg-vienna.at"
-  date: 2014-12-31 12:00:00
+  from: 2014-12-31 12:00:00
+  until: 2015-02-28 12:00:00
   content: "Much more to say about this. No space left"
   priority: 100
 -
   title: "DevFest Vienna was nice"
   image: "http://www.devfest.at/img/collage.jpg"
   url: "http://www.devfest.at"
-  date: 2014-10-01 14:00:00
+  from: 2014-10-01 14:00:00
+  until: 2015-01-01 14:00:00
   content: "Much more to say about this. No space left"
   priority: 100

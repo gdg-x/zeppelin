@@ -8,7 +8,8 @@ layout: nil
       "title"    : "{{ entry.title }}",
       "image"    : "{{ entry.image }}",
       "url"      : "{{ entry.url }}",
-      "date"     : "{{ entry.date | date: "%Y-%m-%d %H:%M:%S" }}",
+      "from"     : "{{ entry.from | date: "%Y-%m-%d %H:%M:%S" }}",
+      "until"    : "{{ entry.until | date: "%Y-%m-%d %H:%M:%S" }}",
       "content"  : "{{ entry.content | escape }}",
       "priority" : {{ entry.priority }}
     } {% if forloop.last %}{% else %},{% endif %}
