@@ -4,7 +4,6 @@ title:  "Vision"
 isStaticPost: true
 permalink: strategy/vision.html
 ---
-## Vision
 
 *Equality & diversity in STEM regardless of gender.*
 

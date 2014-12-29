@@ -4,7 +4,6 @@ title:  "Values"
 isStaticPost: true
 permalink: strategy/values.html
 ---
-## Values
 
 *Respect, Trust, Fairness, Embrace Differences, Sharing & Supporting, Improvement*
 

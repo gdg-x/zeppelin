@@ -4,7 +4,6 @@ title:  "Mission"
 isStaticPost: true
 permalink: strategy/mission.html
 ---
-## Mission
 
 *Raise awareness of gender equality & diversity issues in STEM (science, technology, engineering & math)
 through the power of example. We create an open environment where challenges can be understood and means to
