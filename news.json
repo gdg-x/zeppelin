@@ -2,8 +2,8 @@
 layout: nil
 ---
 
-[
-{% for entry in site.data.news %}
+{ "news" : [
+  {% for entry in site.data.news %}
     {
       "title"    : "{{ entry.title }}",
       "image"    : "{{ entry.image }}",
@@ -12,5 +12,6 @@ layout: nil
       "content"  : "{{ entry.content | escape }}",
       "priority" : {{ entry.priority }}
     } {% if forloop.last %}{% else %},{% endif %}
-{% endfor %}
-]
+  {% endfor %}
+  ]
+}
