@@ -2,9 +2,8 @@
   date: "2015-03-07"
   dateReadable: "March 7"
   tracks: 
-    - {title: "WTM Vienna", color: "#90be4e"}
+    - {title: "Women Techmakers", color: "#90be4e"}
     - {title: "Kid's Workshops", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "09:30",
