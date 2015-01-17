@@ -65,10 +65,10 @@
   language: en
 -
   id: 150
-  title: "Workshop for Kids"
+  title: "Kinder-Workshop"
   place: "Room 2"
-  description: "More details to be announced"
+  description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
   speakers: []
-  language: en
+  language: de
 -
