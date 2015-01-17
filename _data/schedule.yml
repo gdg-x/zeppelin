@@ -7,52 +7,52 @@
     - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "09:30"
-    	endTime: "10:00"
+    	startTime: "09:30",
+    	endTime: "10:00",
     	sessionIds: [200]
     }
     - {
-        startTime: "10:00"
-        endTime: "10:15"
+        startTime: "10:00",
+        endTime: "10:15",
         sessionIds: [201]
     }
     - {
-    	startTime: "10:15"
-    	endTime: "11:15"
+    	startTime: "10:15",
+    	endTime: "11:15",
     	sessionIds: [100, 150]
     }
     - {
-        startTime: "11:15"
-        endTime: "12:15"
+        startTime: "11:15",
+        endTime: "12:15",
         sessionIds: [101, 150]
     }
     - {
-        startTime: "12:15"
-        endTime: "13:15"
+        startTime: "12:15",
+        endTime: "13:15",
         sessionIds: [202]
     }
     - {
-        startTime: "13:15"
-        endTime: "14:15"
+        startTime: "13:15",
+        endTime: "14:15",
         sessionIds: [102, 150]
     }
     - {
-        startTime: "14:15"
-        endTime: "15:00"
+        startTime: "14:15",
+        endTime: "15:00",
         sessionIds: [103, 150]
     }
     - {
-        startTime: "15:00"
-        endTime: "17:00"
+        startTime: "15:00",
+        endTime: "17:00",
         sessionIds: [104]
     }
     - {
-        startTime: "17:00"
-        endTime: "17:15"
+        startTime: "17:00",
+        endTime: "17:15",
         sessionIds: [203]
     }
     - {
-        startTime: "17:15"
-        endTime: "-"
+        startTime: "17:15",
+        endTime: "-",
         sessionIds: [204]
     }
