@@ -196,6 +196,14 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+ -
+  title: "Social Links"
+  links:
+   - {link: "http://www.gdg-vienna.at", text: "GDG Vienna"}
+   - {link: "https://plus.google.com/+WomentechmakersAt", icon: "google-plus"}
+   - {link: "https://twitter.com/WTMVienna", icon: "twitter"}
+   - {link: "https://www.facebook.com/WomenTechmakersVienna", icon: "facebook"}
+   - {permalink: "/feed.xml", icon: "rss"}
 
 # Blog
 blogTitle: "Latest news"
