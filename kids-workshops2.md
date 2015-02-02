@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: post
 title: Workshop for kids
 permalink: /kids-workshops2/
 image: kidsWS.jpg
 color: "rgba(43,26,3,.7)"
+isStaticPost: true
 ---
 In this Workshop, made in cooperation with Vienna based company [http://spielend-progmmieren.at](http://spielend-progmmieren.at), kids of age 10+ can learn how to create and publish self-designed computer games or videos using the Software [Scratch](http://scratch.mit.edu) from Massachusetts Institute of Technology.
 
