@@ -264,6 +264,13 @@
                 var interval = setInterval(changeTweets, 5000);
             }
         }
+
+        $('.lang').click(function(){
+            alert('asdfasdfadsfg');
+            $('.content-workshop').toggle();
+        });
+
+
     });
 
     //Google plus
