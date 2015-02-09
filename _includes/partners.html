@@ -15,7 +15,6 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-            {% comment %}
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
@@ -30,7 +29,6 @@
             </ul>
             {% endfor %}
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
-            {% endcomment %}
         </div>
     </div> 
 </section>

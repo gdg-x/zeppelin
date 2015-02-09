@@ -58,12 +58,12 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Vienna"
-eventDate: "Coming back in March 2015"
+eventDate: "7 March 2015"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
  # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- # - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
@@ -94,19 +94,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://eventplatz.at"
-eventStreetAddress: "Strasse"
+eventLocationName: "Microsoft Austria"
+eventLocationLink: "http://www.microsoft.at"
+eventStreetAddress: "Am Europlatz 3"
 eventAddressLocality: "Vienna"
 eventAddressLocalityRegion: "Vienna"
-eventPostalCode: "1234"
+eventPostalCode: "1120"
 eventAddressCountry: "Austria"
 eventStartTime: "2015-03-07T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-03-07T19:00"
-eventPlaceCoordinates: "48.1964423,16.369645"
-mapCenterCoordinates: "48.1964423,16.369645"
-mapMobileCenterCoordinates: "48.1964423,16.369645"
+eventPlaceCoordinates: "48.170681,16.3339366"
+mapCenterCoordinates: "48.170681,16.3339366"
+mapMobileCenterCoordinates: "48.170681,16.3339366"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -125,8 +125,8 @@ twitterFeed: "/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "Become a Sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
