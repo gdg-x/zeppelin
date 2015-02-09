@@ -5,7 +5,15 @@
   company: "Microsoft Austria"
   title: "Technical Evangelist"
   bio: "Rina is a Technical Evangelist at Microsoft Austria and works with developers on apps for the Windows platform. Previously she has been working as a database developer in a large international organization."
-  thumbnailUrl: RinaAhmed.jpg
+  thumbnailUrl: "RinaAhmed.jpg"
   social:
     - {name: "twitter", link: "https://twitter.com/rinaahm"}
   rockstar: true
+-
+  id: "horst-jens"
+  name: "Horst"
+  surname: "Jens"
+  company: "spielend-programieren"
+  title: "Kids' Programming Instructor"
+  bio: "'spielend-programmieren' is German and means roughly programming while playing. Jens has founded the company and is running it, and he offers computer-programming courses for (mostly young) students. The courses focus on game programming using free/open source software like Linux and Python, Pygame and Blender and several other programming tools and languages."
+  thumbnailUrl: "HostJens.jpg"
