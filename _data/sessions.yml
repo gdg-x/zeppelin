@@ -79,6 +79,6 @@
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
-  speakers: []
+  speakers: ["horst-jens"]
   language: de
 -
