@@ -59,11 +59,12 @@
   language: en
 -
   id: 200
-  title: "Workshop"
+  title: "Workshop: Microsoft Azure"
   place: "Room 2"
-  description: "More details to be announced"
+  description: "In this workshop you will get an introduction to services from the cloud on Microsoft Azure. We will set up and configure a website together in the cloud."
   subtype: workshop
-  speakers: []
+  speakers: ["rina-ahmed"]
+  language: en
 -
   id: 300
   title: "Panel Discussion"
