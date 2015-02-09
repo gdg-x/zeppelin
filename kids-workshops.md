@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop for kids
-permalink: /kids-workshops2/
+permalink: /kids-workshops/
 image: kidsWS.jpg
 color: "rgba(43,26,3,.7)"
 isStaticPost: true
