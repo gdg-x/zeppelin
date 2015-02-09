@@ -1,25 +1,25 @@
 -
-  id: 200
+  id: 900
   title: "Registration"
   place: "Hall"
   service: true
 -
-  id: 201
+  id: 901
   title: "Welcome"
   place: "Hall"
   service: true
 -
-  id: 202
+  id: 902
   title: "Lunch Break"
   place: "Hall"
   service: true
 -
-  id: 203
+  id: 903
   title: "Closing"
   place: "Hall"
   service: true
 -
-  id: 204
+  id: 904
   title: "Networking"
   place: "Hall"
   service: true
@@ -49,6 +49,21 @@
   language: en
 -
   id: 103
+  title: "Talk 4"
+  place: "Room 1"
+  description: "More details to be announced"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 200
+  title: "Workshop"
+  place: "Room 2"
+  description: "More details to be announced"
+  subtype: workshop
+  speakers: []
+-
+  id: 300
   title: "Panel Discussion"
   place: "Room 1"
   description: "More details to be announced"
@@ -56,15 +71,7 @@
   speakers: []
   language: en
 -
-  id: 104
-  title: "Workshop"
-  place: "Room 1"
-  description: "More details to be announced"
-  subtype: workshop
-  speakers: []
-  language: en
--
-  id: 150
+  id: 500
   title: "Kinder-Workshop"
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"

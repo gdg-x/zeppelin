@@ -2,56 +2,57 @@
   date: "2015-03-07"
   dateReadable: "March 7"
   tracks: 
-    - {title: "Women Techmakers", color: "#90be4e"}
+    - {title: "Presentations", color: "#90be4e"}
+    - {title: "Workshops", color: "#be904e"}
     - {title: "Kid's Workshops", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:30",
     	endTime: "10:00",
-    	sessionIds: [200]
+    	sessionIds: [900]
     }
     - {
         startTime: "10:00",
         endTime: "10:15",
-        sessionIds: [201]
+        sessionIds: [901]
     }
     - {
     	startTime: "10:15",
     	endTime: "11:15",
-    	sessionIds: [100, 150]
+    	sessionIds: [100, , 500]
     }
     - {
         startTime: "11:15",
-        endTime: "12:15",
-        sessionIds: [101, 150]
+        endTime: "12:00",
+        sessionIds: [101, , 500]
     }
     - {
-        startTime: "12:15",
-        endTime: "13:15",
-        sessionIds: [202]
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [902]
     }
     - {
-        startTime: "13:15",
-        endTime: "14:15",
-        sessionIds: [102, 150]
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [102, 200, 500]
     }
     - {
-        startTime: "14:15",
+        startTime: "14:00",
         endTime: "15:00",
-        sessionIds: [103, 150]
+        sessionIds: [103, 200, 500]
     }
     - {
         startTime: "15:00",
-        endTime: "17:00",
-        sessionIds: [104]
+        endTime: "15:45",
+        sessionIds: [300]
     }
     - {
-        startTime: "17:00",
-        endTime: "17:15",
-        sessionIds: [203]
+        startTime: "15:45",
+        endTime: "16:00",
+        sessionIds: [903]
     }
     - {
-        startTime: "17:15",
+        startTime: "16:00",
         endTime: "-",
-        sessionIds: [204]
+        sessionIds: [904]
     }
