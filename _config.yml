@@ -201,11 +201,13 @@ footerBlocks:
  -
   title: "Social Links"
   links:
-   - {link: "http://www.gdg-vienna.at", text: "GDG Vienna"}
+   - {link: "https://plus.google.com/+WomentechmakersAt", text: "Google+"}
+   - {link: "https://twitter.com/WTMVienna", text: "Twitter"}
+   - {link: "https://www.facebook.com/WomenTechmakersVienna", text: "Facebook"}
    - {link: "https://plus.google.com/+WomentechmakersAt", icon: "google-plus"}
    - {link: "https://twitter.com/WTMVienna", icon: "twitter"}
    - {link: "https://www.facebook.com/WomenTechmakersVienna", icon: "facebook"}
-   - {permalink: "/feed.xml", icon: "rss"}
+   # - {permalink: "/feed.xml", icon: "rss"}
 
 # Blog
 blogTitle: "Latest news"
