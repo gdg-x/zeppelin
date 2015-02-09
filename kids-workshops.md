@@ -8,6 +8,8 @@ isStaticPost: true
 ---
 ### Lerne Spieleprogrammierung mit *Scratch*
 
+[English Version below](#english)
+
 In diesem Workshop (in Zusammenarbeit mit dem Wiener Schulungsunternehmen [spielend-programmieren.at](http://spielend-programmieren.at)) lernen Kinder ab 10 Jahren eigene Film- bzw. Spielideen am Computer zu erstellen und im Internet zu publizieren. Verwendet wird die speziell für Kinder vom Massachusetts Institute of Technology entwickelte Programmiersoftware [Scratch](http://scratch.mit.edu).
 
 <i class="fa fa-cogs" style="color:#03a9f4"></i>**Voraussetzungen:** WorkshopteilnehmerInnen (alt und jung) benötigen keine Programmierkenntnise, aber sollten allgemeine Computerkenntnisse haben (Maus, Tastatur, Internet) und fähig sein einfache englische Wörter zu lesen. Kenntnisse im Umgang mit einem Computer-Malprogramm (z.B. Gimp oder MS-Paint) sind sehr empfehlenswert.
@@ -29,7 +31,7 @@ Das Fotografieren der WorkshopteilnehmerInnen während dem Workshop für PR/Doku
 Das Fotografieren / Erstellen von Videos sowohl der WorkshopteilnehmerInnen als auch deren Werke (Spiele/Filme) zum Zweck der Einreichung/Promotion bei Programmierwettbewerben wie dem U-19 Wettbewerb der Ars Electronica
 Einverständniserklärungen gibt es bei der Anmeldung oder bei den Veranstaltern.
 
-
+<a name="english"> &nbsp; </a>
 ### Learn Game Programming using *Scratch*
 
 In this Workshop, made in cooperation with Vienna based company [spielend-progmmieren.at](http://spielend-progmmieren.at), kids of age 10+ can learn how to create and publish self-designed computer games or videos using the Software [Scratch](http://scratch.mit.edu) from Massachusetts Institute of Technology.
