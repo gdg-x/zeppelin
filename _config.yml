@@ -52,10 +52,10 @@ navigationLinks:
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
 rightNavigationButtons:
  # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -65,7 +65,7 @@ eventDate: "7 March 2015"
 # typeoutFallback: "2015"
 heroButtons:
  # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
@@ -183,7 +183,7 @@ socialLinks:
  - {link: "https://plus.google.com/+WomentechmakersAt", icon: "google-plus"}
  - {link: "https://twitter.com/WTMVienna", icon: "twitter"}
  - {link: "https://www.facebook.com/WomenTechmakersVienna", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
@@ -204,9 +204,6 @@ footerBlocks:
    - {link: "https://plus.google.com/+WomentechmakersAt", text: "Google+"}
    - {link: "https://twitter.com/WTMVienna", text: "Twitter"}
    - {link: "https://www.facebook.com/WomenTechmakersVienna", text: "Facebook"}
-   - {link: "https://plus.google.com/+WomentechmakersAt", icon: "google-plus"}
-   - {link: "https://twitter.com/WTMVienna", icon: "twitter"}
-   - {link: "https://www.facebook.com/WomenTechmakersVienna", icon: "facebook"}
    # - {permalink: "/feed.xml", icon: "rss"}
 
 # Blog
