@@ -26,12 +26,13 @@ Bitte erscheinen Sie pünktlich zum Workshopbeginn! Es wird empfohlen beide Work
 
 <i class="fa fa-mortar-board" style="color:#03a9f4"></i> **Ziel:** Nach dem Workshop sollten die TeilnehmerInnen befähigt sein, einfache Spiel- oder Filmideen mit Hilfe von [Scratch](http://scratch.mit.edu) zu verwirklichen und im Internet zu publizieren. Die TeilnehmerInnen werden ermutigt, ihre Kreationen bei Wettbewerben wie dem [U19-Wettbewerb der Ars Electronica](http://90.146.8.18/de/prix/u19/) einzureichen.
 
+<a name="english"> &nbsp; </a>
 <i class="fa fa-bookmark" style="color:#03a9f4"></i> **Einverständniserklärung:** WorkshopteilnehmerInnen unter 18 Jahren brauchen eine von einer/einem Erziehungsberechtigten unterschriebene Einverständniserklärung die erlaubt:
 Das Fotografieren der WorkshopteilnehmerInnen während dem Workshop für PR/Dokumentationszwecke und veröffentlichen dieser Fotos im Internet / in Publikationen
 Das Fotografieren / Erstellen von Videos sowohl der WorkshopteilnehmerInnen als auch deren Werke (Spiele/Filme) zum Zweck der Einreichung/Promotion bei Programmierwettbewerben wie dem U-19 Wettbewerb der Ars Electronica
 Einverständniserklärungen gibt es bei der Anmeldung oder bei den Veranstaltern.
 
-<a name="english"> &nbsp; </a>
+
 ### Learn Game Programming using *Scratch*
 
 In this Workshop, made in cooperation with Vienna based company [spielend-progmmieren.at](http://spielend-progmmieren.at), kids of age 10+ can learn how to create and publish self-designed computer games or videos using the Software [Scratch](http://scratch.mit.edu) from Massachusetts Institute of Technology.
