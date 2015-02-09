@@ -12,7 +12,6 @@
                         <li>{{ site.eventPostalCode }} {{ site.eventAddressLocality }}</li>
                         <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
-                            <date>{{ site.eventDate }}</date>,
                             <time>{{ startTime[1] }}</time> -
                             {% assign endTime = site.eventEndTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>

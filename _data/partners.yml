@@ -5,5 +5,5 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "120px"}
-    - {name: "Tauber", description: "Tauber", link: "http://www.tauber.at/", imageUrl: "tauber-logo.jpg", width: "120px"}
+    - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "160px"}
+    - {name: "Tauber", description: "Tauber", link: "http://www.tauber.at/", imageUrl: "tauber-logo.jpg", width: "160px"}
