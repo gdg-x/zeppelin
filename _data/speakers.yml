@@ -17,3 +17,11 @@
   title: "Kids' Programming Instructor"
   bio: "'spielend-programmieren' is German and means roughly programming while playing. Jens has founded the company and is running it, and he offers computer-programming courses for (mostly young) students. The courses focus on game programming using free/open source software like Linux and Python, Pygame and Blender and several other programming tools and languages."
   thumbnailUrl: "HostJens.jpg"
+-
+  id: "satya-dash"
+  name: "Satya Sandha"
+  surname: "Dash"
+  company: "Kapsch TrafficCom AG"
+  title: "Corporate Entrepreneur"
+  bio: "Speaker identifies herself as holistic corporate Entrepreneur, Innovator and Visionary ( Business model and Technological solution).<br/>Grew up in Odisha, India and left home in 2003 to start a life of her own in a new culture and language. Started hardware/software design degree education in German, only after learning the language within 7 months in the University of Applied Science, Hagenberg, in Austria.<br/>Worked previously in different industry sectors such as semiconductor and consulting before joining Kapsch TrafficCom as a developer in R&D in 2010.<br/>Got her disruptive business model idea based on Service Oriented Architecture funded for €101,000 directly by her current company's board and has dedicated herself entirely to work on her project."
+  thumbnailUrl: "SatyaDash.jpg"
