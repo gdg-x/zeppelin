@@ -130,7 +130,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "//swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&id=ac260fb163"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -190,7 +190,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:hello@swancon.co.uk", text: "hello@swancon.co.uk"}
  -
   title: "FAQ"
   links:
