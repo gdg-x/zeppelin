@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SwanseaCon 2015"
 email: "hello@swancon.co.uk"
 description: "SwanseaCon is an agile development and software craftsmanship conference"
-baseurl: "/"
+baseurl: ""
 url: "http://swanseacon.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-57225674-1"
