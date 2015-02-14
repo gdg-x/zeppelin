@@ -139,6 +139,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [DevFest Chennai 2014](http://devfest.gdgchennai.com/)
 * [GDG DevFest Bari](http://gdgbari.github.io/zeppelin/)
 * [GDG DevFest Cagayan de Oro](http://devfest.gdgcdo.org/)
+* [MENAT GDG Summit 2014](http://summit.gdg-menat.com/)
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
