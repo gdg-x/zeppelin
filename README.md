@@ -77,9 +77,9 @@ Optimize all images by running this script from `/automation/images/` folder:
     all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
 ```
 
-To minify CSS and JS run `minify_all.bat` from `/automation/minifying/` folder:
+To minify CSS and JS run `minify_js.bat` (for Windows) and `minify_js.sh` (for Linux and MacOS) from `/automation/minifying/` folder:
 ```bash
-    minify_all.bat
+    minify_js.bat
 ```
 
 Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
