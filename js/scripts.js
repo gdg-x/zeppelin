@@ -1,3 +1,5 @@
+---
+---
 (function($) {
     $(document).ready(function() {
         $(window).load(function() {
@@ -570,6 +572,15 @@
                 smoothZoom(5);
                 $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
             });
+            
+            {% if site.logisticsMapAutoDirections %}
+            if (googleMaps == 'logistics' && navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                    calcRoute(origin, 'DRIVING');
+                });
+            }
+            {% endif %}
         }
 
         google.maps.event.addDomListener(window, 'load', initialize);
