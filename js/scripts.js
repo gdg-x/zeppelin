@@ -483,6 +483,15 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
+            
+            function calcRouteFromMyLocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(function(position) {
+                        origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                        calcRoute(origin, 'TRANSIT');
+                    });
+                }
+            }
 
             function makeMarker(position) {
                 var directionMarker = new google.maps.Marker({
@@ -542,15 +551,7 @@
                 calcRoute(origin, selectedMode);
             });
 
-
-            $("#direction-locate").click(function() {
-                if (navigator.geolocation) {
-                    navigator.geolocation.getCurrentPosition(function(position) {
-                        origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                        calcRoute(origin, 'TRANSIT');
-                    });
-                }
-            });
+            $("#direction-locate").click(calcRouteFromMyLocation);
 
             $("#direction-cancel").click(function() {
                 $('#find-way').removeClass('location-active');
@@ -570,6 +571,10 @@
                 smoothZoom(5);
                 $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
             });
+
+            if (autoDirectionEnabled) {
+                calcRouteFromMyLocation();
+            }
         }
 
         google.maps.event.addDomListener(window, 'load', initialize);
