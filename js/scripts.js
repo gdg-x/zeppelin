@@ -572,7 +572,7 @@
                 $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
             });
 
-            if (autoDirectionEnabled) {
+            if (typeof autoDirectionEnabled !== 'undefined' && autoDirectionEnabled == true) {
                 calcRouteFromMyLocation();
             }
         }

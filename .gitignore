@@ -1,5 +1,5 @@
-### Idea ###
-.idea
+### General ###
+*.lock
 
 ### Jekyll ###
 _site/

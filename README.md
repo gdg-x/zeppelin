@@ -3,7 +3,7 @@
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
 
-Project is builded on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
+Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
 
 Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
@@ -30,11 +30,16 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 
 ## Local development
 
-Check if you have [all requirments for local environment](http://jekyllrb.com/docs/installation/), install [Jekyll server](http://jekyllrb.com/docs/quickstart/) gem.
-Install GitHub pages
+Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
+To install all development dependencies install [Bundler](http://bundler.io/).
 ```bash
-  gem install github-pages
+  gem install bundler
 ``` 
+and run next command from root folder:
+
+```bash
+	bundle install
+```  
 
 Run this command from project root folder:
 ```bash
@@ -45,22 +50,7 @@ Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:40
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
 ### Sass(Compass) support
-Install the latest version of [Compass](http://compass-style.org/). Ruby uses Gems to manage its various packages of code like Sass. In your open terminal window type:
-```bash
-  gem install compass --pre
-```
-
-Then for combining media queries you can use [Sass::MediaQueryCombiner](https://github.com/aaronjensen/sass-media_query_combiner) plugin. Install with command
-```bash
-  gem install sass-media_query_combiner
-```
-
-And for prefixing css3 properties use [Autoprefixer](https://github.com/ai/autoprefixer)
-```bash
-  gem install autoprefixer-rails
-```
-
-**Note:** Also you need to install [Node.js](http://nodejs.org/download/)
+**Note:** You need to install [Node.js](http://nodejs.org/download/)
 
 To watch changes of `.sass` files and compile it to the `.css` on a fly change property `safe: true` to `safe: false` in `_config.yml`.
 **Note: It works only on local machine, because GitHub runs Jekyll in `--save` [mode](https://help.github.com/articles/using-jekyll-with-pages/#configuration-overrides)**
@@ -70,7 +60,7 @@ Learn more about Sass development from [documentation](https://github.com/gdg-x/
 
 ### Resource optimizations (optional)
 
-You can optimize images and minify css and javascript automaticaly (for now only on Windows).
+You can optimize images and minify css and javascript automatically (for now only on Windows).
 But for Mac OS users available amazing tool - [imageoptim](https://imageoptim.com/). Thanks [@raphaelsavina](https://github.com/raphaelsavina) for link.
 Optimize all images by running this script from `/automation/images/` folder:
 ```bash
@@ -86,13 +76,6 @@ Learn more about available optimization options from [documentation](https://git
 
 ### Documentation
 Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
-
-
-### TODO List
-* Optimization scripts for mac and linux
-
-### Known issues
-* Scrolling on open navbar
 
 ### Used libraries
 * [Bootstrap](https://github.com/twbs/bootstrap)
@@ -129,7 +112,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
 * Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
 
-### Licence
-Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
+### License
+Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
 
