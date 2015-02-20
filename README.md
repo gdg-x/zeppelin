@@ -33,7 +33,7 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
 To install all development dependencies install [Bundler](http://bundler.io/).
 ```bash
-  gem install bundler
+  	gem install bundler
 ``` 
 and run next command from root folder:
 
@@ -41,7 +41,7 @@ and run next command from root folder:
 	bundle install
 ```  
 
-Run this command from project root folder:
+To start Jekyll run:
 ```bash
     jekyll serve -w
 ```
