@@ -32,11 +32,11 @@
   service: true
 -
   id: 100
-  title: "Let's be more than our job description"
+  title: "Talk 1"
   place: "Room 1"
-  description: "Let's be more than our job description: Innovative woman tech makers and trends setters"
+  description: "More details to be announced"
   subtype: presentation
-  speakers: ["satya-dash"]
+  speakers: []
   language: en
 -
   id: 101
@@ -56,11 +56,11 @@
   language: en
 -
   id: 103
-  title: "Talk 4"
+  title: "Let's be more than our job description"
   place: "Room 1"
-  description: "More details to be announced"
+  description: "Let's be more than our job description: Innovative woman tech makers and trends setters"
   subtype: presentation
-  speakers: []
+  speakers: ["satya-dash"]
   language: en
 -
   id: 200
