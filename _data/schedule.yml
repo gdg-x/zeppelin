@@ -33,13 +33,13 @@
     }
     - {
         startTime: "12:45",
-        endTime: "13:00",
-        sessionIds: [905, 0, 500]
+        endTime: "13:45",
+        sessionIds: [902]
     }
     - {
-        startTime: "13:00",
+        startTime: "13:45",
         endTime: "14:00",
-        sessionIds: [902]
+        sessionIds: [906, 0, 500]
     }
     - {
         startTime: "14:00",

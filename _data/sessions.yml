@@ -31,6 +31,13 @@
   place: "Hall"
   service: true
 -
+  id: 906
+  title: "EU Codeweek in Austria"
+  place: "Hall"
+  description: "All around Europe, people are making apps, websites and lots of other things by learning to code. Many events and clubs will take place when EU Codeweek will return this year.<br/>All 2014 EU codeweek events in Austria at a glance: <a href='http://events.codeweek.eu/search/?country_code=AT&past=yes' target='_blank'>events.codeweek.eu/search/?country_code=AT&past=yes</a><br/>Austrian EU codeweek site: <a href='https://www.codeweek.at/' target='_blank'>www.codeweek.at</a>"
+  subtype: announcement
+  speakers: ["meral-akin-hecke"]
+-
   id: 100
   title: "Talk 1"
   place: "Room 1"
