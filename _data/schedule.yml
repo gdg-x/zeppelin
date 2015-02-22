@@ -7,52 +7,62 @@
     - {title: "Kid's Workshops", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "09:30",
-    	endTime: "10:00",
+    	startTime: "10:00",
+    	endTime: "10:30",
     	sessionIds: [900]
     }
     - {
-        startTime: "10:00",
-        endTime: "10:15",
+        startTime: "10:30",
+        endTime: "10:45",
         sessionIds: [901]
     }
     - {
-    	startTime: "10:15",
-    	endTime: "11:15",
+    	startTime: "10:45",
+    	endTime: "11:45",
     	sessionIds: [100, 0, 500]
     }
     - {
-        startTime: "11:15",
+        startTime: "11:45",
         endTime: "12:00",
-        sessionIds: [101, 0, 500]
+        sessionIds: [905]
     }
     - {
         startTime: "12:00",
+        endTime: "12:45",
+        sessionIds: [101, 0, 500]
+    }
+    - {
+        startTime: "12:45",
         endTime: "13:00",
-        sessionIds: [902]
+        sessionIds: [905]
     }
     - {
         startTime: "13:00",
         endTime: "14:00",
-        sessionIds: [102, 200, 500]
+        sessionIds: [902]
     }
     - {
         startTime: "14:00",
         endTime: "15:00",
-        sessionIds: [103, 200, 500]
+        sessionIds: [102, 200, 500]
     }
     - {
         startTime: "15:00",
-        endTime: "15:45",
+        endTime: "16:00",
+        sessionIds: [103, 200, 500]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:45",
         sessionIds: [300]
     }
     - {
-        startTime: "15:45",
-        endTime: "16:00",
+        startTime: "16:45",
+        endTime: "17:00",
         sessionIds: [903]
     }
     - {
-        startTime: "18:00",
+        startTime: "17:00",
         endTime: "-",
         sessionIds: [904]
     }

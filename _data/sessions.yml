@@ -26,28 +26,33 @@
   place: "Hall"
   service: true
 -
+  id: 905
+  title: "Announcement"
+  place: "Hall"
+  service: true
+-
   id: 100
-  title: "Talk 1"
+  title: "Let's be more than our job description"
   place: "Room 1"
-  description: "More details to be announced"
+  description: "Let's be more than our job description: Innovative woman tech makers and trends setters"
   subtype: presentation
-  speakers: []
+  speakers: ["satya-dash"]
   language: en
 -
   id: 101
-  title: "Talk 2"
+  title: "Special Telecommunications ­ Air Traffic Management, Public Safety, Maritime, Defence."
   place: "Room 1"
   description: "More details to be announced"
   subtype: presentation
-  speakers: []
+  speakers: ["melania-gagea"]
   language: en
 -
   id: 102
-  title: "Talk 3"
+  title: "Computational Aspects of Material Science"
   place: "Room 1"
-  description: "More details to be announced"
+  description: "Understanding, predicting and designing new materials and devices from electronic structure calculations.<br>The Major points I will be covering during my talk:<ul><li>The history of computational simulations / why do we need quantum physics?</li><li>Why do we do simulations? What are we aiming for? How do we do it? What are the steps that we are taking for a complete research?</li><li>Examples</li><li>Nobel prizes in the field and how it turns out to be very useful in everyday life</li></ul>"
   subtype: presentation
-  speakers: []
+  speakers: ["zeynep-ergonenc"]
   language: en
 -
   id: 103
