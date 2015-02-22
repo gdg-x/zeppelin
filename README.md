@@ -33,12 +33,12 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
 To install all development dependencies install [Bundler](http://bundler.io/).
 ```bash
-  	gem install bundler
+    gem install bundler
 ``` 
 and run next command from root folder:
 
 ```bash
-	bundle install
+  bundle install
 ```  
 
 To start Jekyll run:
@@ -105,7 +105,8 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 | [GDG DevFest Sri Lanka](http://www.devfestlk.org/) | [GDG DevFest Tunis](http://devfest.gdgtunis.org/) | [GDG DevFest Kozhikode](http://devfest.gdgkozhikode.org/) | 
 | [GDG DevFest Argentina](http://devfest.gdg.com.ar/) | [GDG DevFest Bhubaneswar](http://devfest2014.gdgbbsr.com/) | [GDG DevFest Miage Gi](http://gdgmiagegilab.github.io/) | 
 | [GDG DevFest NORTE](http://norte.devfest.com.br/) | [GDG Devfest Nyeri 2014](http://devfest.gdgkimathiuniversity.com/) | [GDG DevFest Paris](http://devfest.gdgparis.com/) |
-|[GDG Akure](http://gdgakure.github.io/)|[MENAT GDG Summit 2014](http://summit.gdg-menat.com/)|[Women Techmakers Istanbul 2015](http://wtmistanbul.com)
+| [GDG Akure](http://gdgakure.github.io/)|[MENAT GDG Summit 2014](http://summit.gdg-menat.com/)|[Women Techmakers Istanbul 2015](http://wtmistanbul.com) |
+| [GDG DevFest Mallorca](http://devfest.gdgmallorca.com/)| | |
 
 
 ### Contributors
