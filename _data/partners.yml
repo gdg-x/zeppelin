@@ -1,8 +1,12 @@
 - 
-  group: "General sponsor"
+  group: "General Sponsor"
   elements: 
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.comt/", imageUrl: "logo-google.png"}
-- 
+-
+  group: "Silver Sponsor"
+  elements:
+    - {name: "Intel", description: "Intel", link: "http://www.intel.com/jobs", imageUrl: "intel-logo.png", width: "200px"}
+-
   group: "With support of"
   elements: 
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "160px"}
