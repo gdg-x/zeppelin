@@ -139,7 +139,7 @@ nav {
     }
 }
 .right-nav-button {
-    margin: 11px 65px 0 0;
+    margin: 11px 11px 0 0;
     transition: $base-transition;
     opacity: 1;
     display: block;
@@ -150,6 +150,9 @@ nav {
         opacity: 0;
         transform: translateY(-50px);
     }
+}
+.right-nav-button-rightest {
+    margin: 11px 65px 0 0;
 }
 .icon-menu {
     width: 20px;
