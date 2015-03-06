@@ -62,6 +62,9 @@
                                     <div class="color-line"></div>
                                     <div class="slot-content">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        {% if session.description != null %}
+                                        <p class="theme-description"><br>{{ session.description }}</p>
+                                        {% endif %}
                                     </div>
                                 </div>
                                 {% endif %}
