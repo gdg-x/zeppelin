@@ -1,4 +1,17 @@
 -
+  id: "timea-turdean"
+  name: "Timea"
+  surname: "Turdean"
+  company: "Google Developer Group"
+  title: "Team leader"
+  thumbnailUrl: "TimeaTurdean.jpg"
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+TimeaTurdean_imy"}
+    - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
+    - {name: "github", link: "https://github.com/therealimy"}
+    - {name: "facebook", link: "https://www.facebook.com/timea.turdean"}
+    - {name: "site", link: "http://www.timeaturdean.com/"}
+-
   id: "rina-ahmed"
   name: "Rina"
   surname: "Ahmed"
@@ -49,3 +62,9 @@
   company: "EU Codeweek"
   bio: "Meral Akin-Hecke has been appointed Digital Champion Austria in June 2013. Digital Champions are ambassadors for the Digital Agenda, appointed by their Members States to help every European become digital. 2014 she initiated WerdeDigital.at - a platform to raise awareness and teach about digital media literacy. In her role as Digital Champion Austria she started EU Codeweek action week in Austria with 55 events in 2014. Meral Akin-Hecke studied Business Informatics at the Technical University of Vienna. She is originally from Istanbul, Turkey and graduated there from the Austrian School St. Georg's College. She started her career as software consultant at SAP and went on at the Austrian Broadcasting Company ORF. She is one of the Executive Board Members of Open Knowledge Foundation Austria and supports the idea of an 'open society'."
   thumbnailUrl: "MeralAkin-Hecke.png"
+-
+  id: "simonetta-di-pippo"
+  name: "Simonetta"
+  surname: "Di Pippo"
+  company: "UNITED NATIONS - Office for Outer Space Affairs"
+  title: "Director"

@@ -27,9 +27,12 @@
   service: true
 -
   id: 905
-  title: "Announcement"
+  title: "Video Address  from SIMONETTA DI PIPPO"
   place: "Hall"
-  service: true
+  description: "An address from the Director of the UNOOSA (UNITED NATIONS - Office for Outer Space Affairs), about the importance and challenge of women in technology"
+  subtype: announcement
+  speakers: ["simonetta-di-pippo"]
+  language: en
 -
   id: 906
   title: "EU Codeweek in Austria"
@@ -39,11 +42,11 @@
   speakers: ["meral-akin-hecke"]
 -
   id: 100
-  title: "Talk 1"
+  title: "Women Techmakers Vienna 2015"
   place: "Room 1"
-  description: "More details to be announced"
+  description: ""
   subtype: presentation
-  speakers: []
+  speakers: ["timea-turdean"]
   language: en
 -
   id: 101
