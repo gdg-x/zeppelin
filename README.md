@@ -112,6 +112,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
 * Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
+* Bug fixing and support: [Said Tahsin Dane](https://github.com/tasomaniac)
 
 ### License
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
