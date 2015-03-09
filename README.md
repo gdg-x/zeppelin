@@ -9,6 +9,8 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 ### Live demo http://gdg-x.github.io/zeppelin/
 
+#### Automated version with Grunt <https://github.com/gdg-x/zeppelin-grunt>
+
 ### Features
 * Easy to setup
 * Simple and responsive design
