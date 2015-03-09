@@ -9,6 +9,8 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 ### Live demo http://gdg-x.github.io/zeppelin/
 
+#### Automated version with Grunt <https://github.com/gdg-x/zeppelin-grunt>
+
 ### Features
 * Easy to setup
 * Simple and responsive design
@@ -33,15 +35,15 @@ Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.
 Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
 To install all development dependencies install [Bundler](http://bundler.io/).
 ```bash
-  gem install bundler
+    gem install bundler
 ``` 
 and run next command from root folder:
 
 ```bash
-	bundle install
+  bundle install
 ```  
 
-Run this command from project root folder:
+To start Jekyll run:
 ```bash
     jekyll serve -w
 ```
@@ -105,12 +107,14 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 | [GDG DevFest Sri Lanka](http://www.devfestlk.org/) | [GDG DevFest Tunis](http://devfest.gdgtunis.org/) | [GDG DevFest Kozhikode](http://devfest.gdgkozhikode.org/) | 
 | [GDG DevFest Argentina](http://devfest.gdg.com.ar/) | [GDG DevFest Bhubaneswar](http://devfest2014.gdgbbsr.com/) | [GDG DevFest Miage Gi](http://gdgmiagegilab.github.io/) | 
 | [GDG DevFest NORTE](http://norte.devfest.com.br/) | [GDG Devfest Nyeri 2014](http://devfest.gdgkimathiuniversity.com/) | [GDG DevFest Paris](http://devfest.gdgparis.com/) |
-|[GDG Akure](http://gdgakure.github.io/)|[MENAT GDG Summit 2014](http://summit.gdg-menat.com/)|[Women Techmakers Istanbul 2015](http://wtmistanbul.com)
+| [GDG Akure](http://gdgakure.github.io/)|[MENAT GDG Summit 2014](http://summit.gdg-menat.com/)|[Women Techmakers Istanbul 2015](http://wtmistanbul.com) |
+| [GDG DevFest Mallorca](http://devfest.gdgmallorca.com/)| [Michigan GDG DevFest 2015](http://michigandevfest.com/) | [International Women's Day](http://iwd.gdgnorthjersey.com/womeninnovation/) |
 
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
 * Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
+* Bug fixing and support: [Said Tahsin Dane](https://github.com/tasomaniac)
 
 ### License
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
