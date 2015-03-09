@@ -143,6 +143,9 @@ nav {
     transition: $base-transition;
     opacity: 1;
     display: block;
+    &:nth-of-type(1) {
+        margin-right: 65px;
+    }
     a {
         font-size: $base-font-size * 90 / 100;
     }
@@ -150,9 +153,6 @@ nav {
         opacity: 0;
         transform: translateY(-50px);
     }
-}
-.right-nav-button-rightest {
-    margin: 11px 65px 0 0;
 }
 .icon-menu {
     width: 20px;

@@ -3,6 +3,7 @@
   title: "Coffee Break"
   place: "Hall"
   service: true
+  description: "The best time to talk with speakers and attendees"
 -
   id: 503
   title: "Lunch Break"
