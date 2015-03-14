@@ -2,7 +2,7 @@
 layout: null
 ---
 {
-  "short_name": "{{ site.short_title }}",
+  "short_name": "{{ site.shortTitle }}",
   "name": "{{ site.title }}",
   "icons": [
     {
