@@ -131,6 +131,9 @@ layout: compress
         {% endif %} 
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    <script>
+        navigator.serviceWorker.register('{{ site.baseurl }}/service-worker.js', {scope: '{{ site.baseurl }}/'});
+    </script>
     {% if page.permalink == '/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
