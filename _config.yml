@@ -51,11 +51,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ #- {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
 rightNavigationButtons:
- # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ #- {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
 
 # Hero Block
 heroImage: "hero.jpg"
