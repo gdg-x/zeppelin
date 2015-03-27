@@ -1,7 +1,7 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Project Zeppelin / GDG DevFest 2015 site template
 
-### About 
-Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
+### About
+Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.
 
 Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
 
@@ -22,7 +22,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 ### Quick-start guide
 1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
 2. Clone locally
-3. Update ```_config.yml``` 
+3. Update ```_config.yml```
 4. Select what content blocks do you need
 5. Push changes to ```gh-pages``` branch
 6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
@@ -36,7 +36,7 @@ Check if you have [all requirements for local environment](http://jekyllrb.com/d
 To install all development dependencies install [Bundler](http://bundler.io/).
 ```bash
     gem install bundler
-``` 
+```
 and run next command from root folder:
 
 ```bash
@@ -104,8 +104,8 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 | [DevFest Praha 2014](http://devfest.cz/) | [GDG DevFest Kosice](http://devfest.sk/) | [GDG DevFest Cagayan de Oro](http://devfest.gdgcdo.org/) |
 | [DevFest Birgunj](http://gdgbirgunj.github.io/DevFest2014/) | [GDG DevFest Poland](http://devfest.pl/) | [GDG DevFest Silicon Valley](http://devfest2014.gdgsv.com/) |
 | [DevFest Chennai 2014](http://devfest.gdgchennai.com/) | [GDG DevFest Bari](http://gdgbari.github.io/zeppelin/) | [GDG DevFest Ahmedabad](http://devfest.gdgahmedabad.com/) |
-| [GDG DevFest Sri Lanka](http://www.devfestlk.org/) | [GDG DevFest Tunis](http://devfest.gdgtunis.org/) | [GDG DevFest Kozhikode](http://devfest.gdgkozhikode.org/) | 
-| [GDG DevFest Argentina](http://devfest.gdg.com.ar/) | [GDG DevFest Bhubaneswar](http://devfest2014.gdgbbsr.com/) | [GDG DevFest Miage Gi](http://gdgmiagegilab.github.io/) | 
+| [GDG DevFest Sri Lanka](http://www.devfestlk.org/) | [GDG DevFest Tunis](http://devfest.gdgtunis.org/) | [GDG DevFest Kozhikode](http://devfest.gdgkozhikode.org/) |
+| [GDG DevFest Argentina](http://devfest.gdg.com.ar/) | [GDG DevFest Bhubaneswar](http://devfest2014.gdgbbsr.com/) | [GDG DevFest Miage Gi](http://gdgmiagegilab.github.io/) |
 | [GDG DevFest NORTE](http://norte.devfest.com.br/) | [GDG Devfest Nyeri 2014](http://devfest.gdgkimathiuniversity.com/) | [GDG DevFest Paris](http://devfest.gdgparis.com/) |
 | [GDG Akure](http://gdgakure.github.io/)|[MENAT GDG Summit 2014](http://summit.gdg-menat.com/)|[Women Techmakers Istanbul 2015](http://wtmistanbul.com) |
 | [GDG DevFest Mallorca](http://devfest.gdgmallorca.com/)| [Michigan GDG DevFest 2015](http://michigandevfest.com/) | [International Women's Day](http://iwd.gdgnorthjersey.com/womeninnovation/) |
@@ -119,5 +119,3 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 
 ### License
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
-
-
