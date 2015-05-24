@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Fresno 2014"
+title: "GDG DevFest Fresno 2015"
 email: "james.cha.zero@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
@@ -38,15 +38,15 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Tickets"}
+# - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Tickets"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
+# - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 rightNavigationButtons:
- - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
+# - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 
 # Hero Block
 heroTitle: "GDG DevFest<typeout>2014"
