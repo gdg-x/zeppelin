@@ -49,7 +49,7 @@ rightNavigationButtons:
 # - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 
 # Hero Block
-heroTitle: "GDG Fresno Visalia and Oakdale DevFest<typeout>2015"
+heroTitle: "GDG (Fresno Visalia and Oakdale) DevFest<typeout>2015"
 eventDate: "Save the DATE - October 17 2015"
 typeoutTextValues: '"", "Fresno", "Visalia", "Oakdale"'
 typeoutFallback: "Season"
