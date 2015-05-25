@@ -57,11 +57,11 @@ heroButtons:
  - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
-aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full day of workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full day freestyle Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+# aboutTitle: "About GDG DevFest"
+# aboutBlock:
+# - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
+# - {title: "Workshops", image: "workshop.jpg", text: "Full day of workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full day freestyle Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 aboutTitle: "Statistics for 2014 DevFest"
