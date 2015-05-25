@@ -64,8 +64,9 @@ aboutBlock:
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full day freestyle Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
+aboutTitle: "Statistics for 2014 DevFest"
 statisticBlock:
- - {count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "320", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from our community and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
