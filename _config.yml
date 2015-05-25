@@ -54,7 +54,7 @@ eventDate: "October 17 2015"
 typeoutTextValues: '"", "Fresno", "Visalia", "Oakdale"'
 typeoutFallback: "Season"
 heroButtons:
- - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
+ - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 
 # About Block
 # aboutTitle: "About GDG DevFest"
