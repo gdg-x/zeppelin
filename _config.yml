@@ -45,8 +45,8 @@ navigationLinks:
  - {link: "https://developers.google.com", text: "Developers"}
 #bottomNavigationLinks:
 # - {link: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
-#rightNavigationButtons:
-# - {link: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
+rightNavigationButtons:
+ - {link: "http://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
 
 # Hero Block
 heroTitle: "October 17 2015  "
