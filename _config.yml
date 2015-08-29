@@ -49,8 +49,8 @@ rightNavigationButtons:
  - {url: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
 
 # Hero Block
-heroTitle: "GDG DevFest"
-eventDate: "October 17 2015 - Powered by GDG Fresno, GDG Oakdale and GDG Visalia"
+heroTitle: "GDG DevFest - October 17 2015 - Powered by "
+eventDate: "GDG Fresno, GDG Oakdale and GDG Visalia"
 typeoutTextValues: ''
 typeoutFallback: "Season"
 #heroButtons:
