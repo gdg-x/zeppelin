@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39c510b-4fcd-4d84-b117-a8b6d0f99b3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/team.yml" afterPath="$PROJECT_DIR$/_data/team.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="zeppelin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,23 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="team.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="team.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/team.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22633745">
-              <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+            <state vertical-scroll-proportion="15.222222">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.444445">
-              <caret line="115" column="83" selection-start-line="115" selection-start-column="83" selection-end-line="115" selection-end-column="83" />
+            <state vertical-scroll-proportion="0.3974359">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
               <folding>
-                <marker date="1440834489000" expanded="true" signature="2814:3403" placeholder="statisticBlock:" />
+                <marker date="1440835157000" expanded="true" signature="2815:3404" placeholder="statisticBlock:" />
               </folding>
             </state>
           </provider>
@@ -71,8 +71,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-09-1-whatis.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-09-3-sponsors.markdown" />
         <option value="$PROJECT_DIR$/css/main.min.css" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_data/team.yml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -648,16 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.444445">
-          <caret line="115" column="83" selection-start-line="115" selection-start-column="83" selection-end-line="115" selection-end-column="83" />
-          <folding>
-            <marker date="1440834489000" expanded="true" signature="2814:3403" placeholder="statisticBlock:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/hero.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08510638">
@@ -676,9 +666,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/team.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22633745">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        <state vertical-scroll-proportion="15.222222">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3974359">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+          <folding>
+            <marker date="1440835157000" expanded="true" signature="2815:3404" placeholder="statisticBlock:" />
+          </folding>
         </state>
       </provider>
     </entry>
