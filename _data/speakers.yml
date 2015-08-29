@@ -80,17 +80,17 @@
 #  rockstar: true
 #  social:
 #    - {name: "google-plus", link: "https://plus.google.com/+JoshwinGreene"}
--
-  id: 10
-  name: "Rio"
-  surname: "Waller"
-  company: "FCC/GDG Fresno"
-  title: "CIT Professor"
-  bio: "In addition to teaching Web Development courses at Fresno City College, Rio is also a co-organzier of GDG Fresno and is heading up the local effort to increase the visibility of Women in Technology, as a Founder and Organizer for Fresno Tech Women (FTW). Rio is passionate about Web Development and also helps run RawFresno.com."
-  thumbnailUrl: riowaller.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RioWaller"}
+#-
+#  id: 10
+#  name: "Rio"
+#  surname: "Waller"
+#  company: "FCC/GDG Fresno"
+#  title: "CIT Professor"
+#  bio: "In addition to teaching Web Development courses at Fresno City College, Rio is also a co-organzier of GDG Fresno and is heading up the local effort to increase the visibility of Women in Technology, as a Founder and Organizer for Fresno Tech Women (FTW). Rio is passionate about Web Development and also helps run RawFresno.com."
+#  thumbnailUrl: riowaller.jpg
+#  rockstar: true
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+RioWaller"}
 #-
 #  id: 11
 #  name: "Nick"
