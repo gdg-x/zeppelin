@@ -51,10 +51,10 @@ rightNavigationButtons:
 # Hero Block
 heroTitle: "GDG DevFest<typeout>2015"
 eventDate: "Save the DATE - October 17 2015 - Powered by GDG Fresno, GDG Oakdale and GDG Visalia"
-typeoutTextValues: '"SAVE the Date", "Fresno", "Visalia", "Oakdale"'
+typeoutTextValues: "Fresno", "Visalia", "Oakdale"'
 typeoutFallback: "Season"
-heroButtons:
- - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
+#heroButtons:
+# - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
