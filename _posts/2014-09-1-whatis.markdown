@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a DevFest"
-date:   2014-09-03 09:00:00
+date:   2015-08-27 09:00:00
 isStaticPost: true
 ---
 In short, developers “make software for the world to use.” GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, all-day hackathons, code labs and more.
