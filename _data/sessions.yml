@@ -6,223 +6,223 @@
   speakers:
   language: 
   complexity:
--
-  id: 101
-  title: "Lunch"
-  place: "OAB Auditorium"
-  service: true
--
-  id: 102
-  title: "Closing/Pizza/DJ"
-  place: "OAB Auditorium"
-  service: true
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Android Studio"
-  description: "Get familiar with using the new Android IDE co-created by Google and IntelliJ"
-  subtype: presentation
-  speakers: [6, 11]
-  language: Java
-  complexity: "Beginner"
--
-  id: 002
-  title: "AngularJS FTW"
-  description: "AngularJS FTW! In a connected world, our greatest challenge in software development is cross-platform support. Discover Google's super-heroic JavaScript framework and how it can empower you to code your apps once, and deploy anywhere! AngularJS is suitable for super-fast prototyping of the smallest of projects, but excels in all the heavy-lifting and complex demands of a scalable, distributed and mission-critical enterprise application."
-  subtype: presentation
-  speakers: [5]
-  language: 
-  complexity: "Intermediate"
--
-  id: 003
-  title: "MIT App Inventor Part 1"
-  description: "Want to get started in programming? Come learn with making a Android App with blocks!"
-  subtype: workshop
-  speakers: [12, 19]
-  language: 
-  complexity: "Beginner"
--
-  id: 014
-  title: "Intro to Polymer"
-  description: "Intro to Polymer"
-  subtype: presentation
-  speakers: [21]
-  language: 
-  complexity: "Beginner"
--
-  id: 005
-  title: "Google Glass"
-  description: "Curious about Google Glass? Come learn more about it and how to make an app for it."
-  subtype: presentation
-  speakers: [4]
-  language: 
-  complexity: "Intermediate"
--
-  id: 006
-  title: "Polymer"
-  description: "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond."
-  subtype: presentation
-  speakers: [3]
-  language: 
-  complexity: "Intermediate"
--
-  id: 023
-  title: "Polymer Code Lab Part 2"
-  description: "Hands on code lab with Polymer"
-  subtype: workshop
-  speakers: [4, 21]
-  language: 
-  complexity: "Intermediate"
--
-  id: 019
-  title: "Google’s PlayN Framework"
-  description: "Learn how a small team put together the Android game Deal-O-Round in this year’s 59 Days of Code competition. We will review Java code in Google’s PlayN framework.  PlayN is a game engine supporting cross platform 2D  graphics."
-  subtype: presentation
-  speakers: [18]
-  language: 
-  complexity: "Intermediate"
--
-  id: 009
-  title: "Cloud DataStore"
-  description: "Interested in NoSQL Databases? Come and learn about the new and upcoming technology Cloud Datastore which is a managed, NoSQL database using SQL like queries for a non-relational data."
-  subtype: presentation
-  speakers: [17]
-  language: 
-  complexity: "Intermediate"
--
-  id: 010
-  title: "Dart Part 1"
-  description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
-  subtype: workshop
-  speakers: [13, 12]
-  language: Dart
-  complexity: "Beginner"
--
-  id: 011
-  title: "Dart Part 2"
-  description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
-  subtype: workshop
-  speakers: [13, 12]
-  language: Dart
-  complexity: "Beginner"
--
-  id: 012
-  title: "Android UX/UI"
-  description: "With the arrival of Material Design, Google has published clear, coherent, and deep design guidelines to help developers and designers adapt more easily to their new design language. Besides having this great resource, there are other tools and resources that can be used to speed up the app design process. However, if you are a newcomer to designing Android applications, the design process may seem overwhelming and unclear. Should you start with some basic wireframes? Should you fire up Illustrator or Photoshop and jump right into designing some revolutionary user interfaces? Should you start at a basic level and do some use case diagrams? Should you do all three or go in a totally different direction? This talk will answer these questions by recommending and describing a design process that you can use that covers the user experience and user interface sides of designing a new Android application. During the talk, I will show the evolution of the design of an example Android application and cite tools and resources that you can use at each step of the design process. I will also give you some ideas on how to become a part of Android’s ever-growing design community."
-  subtype: presentation
-  speakers: [9]
-  language: Java
-  complexity: "Intermediate"
--
-  id: 013
-  title: "Google App Engine"
-  description: "Google App Engine is a Platform as a Service level Google cloud technology. We'll examine App Engine features, place it into the cloud technology stack and look at some interesting examples. We'll also see how certain App Engine details reach towards the Infrastructure as a Service level abilities."
-  subtype: presentation
-  speakers: [7]
-  language: 
-  complexity: "Intermediate"
--
-  id: 014
-  title: "Intro to Polymer"
-  description: "Intro to Polymer"
-  subtype: presentation
-  speakers: [21]
-  language: 
-  complexity: "Beginner"
--
-  id: 015
-  title: "Getting into GIT"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: presentation
-  speakers: [6]
-  language: 
-  complexity: "Beginner"
--
-  id: 016
-  title: "HTML 5 Part 1"
-  description: "Introduction to writing HTML code and why it is easier than most people think.  In this beginning session we will get our hand into some HTML code and see how quickly we can create a simple but functional site."
-  subtype: workshop
-  speakers: [15, 16]
-  language: 
-  complexity: "Beginner"
--
-  id: 008
-  title: "Android Wear"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: presentation
-  speakers: [4]
-  language: 
-  complexity: "Intermediate"
--
-  id: 018
-  title: "Polymer Code Lab Part 1"
-  description: "Get hands on experience with Ploymer!"
-  subtype: workshop
-  speakers: [4, 21]
-  language: 
-  complexity: "Intermediate"
--
-  id: 020
-  title: "Hello World v1!"
-  description: "This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
-  subtype: presentation
-  speakers: [11]
-  language: 
-  complexity: "Intermediate"
--
-  id: 021
-  title: "Google Compute Engine"
-  description: "Google Compute Engine is an Infrastructure as a Service level Google cloud technology. We'll examine Compute Engine's offerings, place it into the cloud technology stack and look at some fun examples. We'll also see how certain Compute Engine features reach towards the Platform as a Service level and thus inherently allow someone to position his solution within the cloud stack."
-  subtype: presentation
-  speakers: [7]
-  language: 
-  complexity: "Intermediate"
--
-  id: 022
-  title: "Chrome DevTools"
-  description: "The Chrome Developer Tools are a set of web authoring and debugging tools built into Google Chrome. The DevTools provide web developers deep access into the internals of the browser and their web application. Use the DevTools to efficiently track down layout issues, set JavaScript breakpoints, and get insights for code optimization. This session will provide an overview of the features in Chrome Canary (the developer's Chrome)."
-  subtype: presentation
-  speakers: [14]
-  language: 
-  complexity: "Beginner"
--
-  id: 007
-  title: "Design Sprint - Wearables"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
-  subtype: presentation
-  speakers: [19]
-  language: 
-  complexity: "Beginner"
--
-  id: 024
-  title: "MIT App Inventor Part 2"
-  description: "Want to get started in programming? Come learn with making a Android App with blocks!"
-  subtype: workshop
-  speakers: [12, 19]
-  language: 
-  complexity: "Beginner"
--
-  id: 025
-  title: "Intro to Java"
-  description: "Introductory class for Java."
-  subtype: presentation
-  speakers: [6]
-  language: "Java"
-  complexity: "Beginner"
--
-  id: 026
-  title: "HTML 5 Part 2"
-  description: "Introduction to writing HTML code and why it is easier than most people think.  In this beginning session we will get our hand into some HTML code and see how quickly we can create a simple but functional site."
-  subtype: workshop
-  speakers: [15, 16]
-  language: 
-  complexity: "Beginner"  
+#-
+#  id: 101
+#  title: "Lunch"
+#  place: "OAB Auditorium"
+#  service: true
+#-
+#  id: 102
+#  title: "Closing/Pizza/DJ"
+#  place: "OAB Auditorium"
+#  service: true
+#-
+#  id: 307
+#  title: "Coffee Break"
+#  place: "Hall"
+#  service: true
+#-
+#  id: 503
+#  title: "Lunch Break"
+#  place: "Dining room"
+#  service: true
+#-
+#  id: 001
+#  title: "Android Studio"
+#  description: "Get familiar with using the new Android IDE co-created by Google and IntelliJ"
+#  subtype: presentation
+#  speakers: [6, 11]
+#  language: Java
+#  complexity: "Beginner"
+#-
+#  id: 002
+#  title: "AngularJS FTW"
+#  description: "AngularJS FTW! In a connected world, our greatest challenge in software development is cross-platform support. Discover Google's super-heroic JavaScript framework and how it can empower you to code your apps once, and deploy anywhere! AngularJS is suitable for super-fast prototyping of the smallest of projects, but excels in all the heavy-lifting and complex demands of a scalable, distributed and mission-critical enterprise application."
+#  subtype: presentation
+#  speakers: [5]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 003
+#  title: "MIT App Inventor Part 1"
+#  description: "Want to get started in programming? Come learn with making a Android App with blocks!"
+#  subtype: workshop
+#  speakers: [12, 19]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 014
+#  title: "Intro to Polymer"
+#  description: "Intro to Polymer"
+#  subtype: presentation
+#  speakers: [21]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 005
+#  title: "Google Glass"
+#  description: "Curious about Google Glass? Come learn more about it and how to make an app for it."
+#  subtype: presentation
+#  speakers: [4]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 006
+#  title: "Polymer"
+#  description: "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond."
+#  subtype: presentation
+#  speakers: [3]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 023
+#  title: "Polymer Code Lab Part 2"
+#  description: "Hands on code lab with Polymer"
+#  subtype: workshop
+#  speakers: [4, 21]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 019
+#  title: "Google’s PlayN Framework"
+#  description: "Learn how a small team put together the Android game Deal-O-Round in this year’s 59 Days of Code competition. We will review Java code in Google’s PlayN framework.  PlayN is a game engine supporting cross platform 2D  graphics."
+#  subtype: presentation
+#  speakers: [18]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 009
+#  title: "Cloud DataStore"
+#  description: "Interested in NoSQL Databases? Come and learn about the new and upcoming technology Cloud Datastore which is a managed, NoSQL database using SQL like queries for a non-relational data."
+#  subtype: presentation
+#  speakers: [17]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 010
+#  title: "Dart Part 1"
+#  description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
+#  subtype: workshop
+#  speakers: [13, 12]
+#  language: Dart
+#  complexity: "Beginner"
+#-
+#  id: 011
+#  title: "Dart Part 2"
+#  description: "Web more your style? Then come learn Dart! A Google created language to get your ideas on the web quickly!"
+#  subtype: workshop
+#  speakers: [13, 12]
+#  language: Dart
+#  complexity: "Beginner"
+#-
+#  id: 012
+#  title: "Android UX/UI"
+#  description: "With the arrival of Material Design, Google has published clear, coherent, and deep design guidelines to help developers and designers adapt more easily to their new design language. Besides having this great resource, there are other tools and resources that can be used to speed up the app design process. However, if you are a newcomer to designing Android applications, the design process may seem overwhelming and unclear. Should you start with some basic wireframes? Should you fire up Illustrator or Photoshop and jump right into designing some revolutionary user interfaces? Should you start at a basic level and do some use case diagrams? Should you do all three or go in a totally different direction? This talk will answer these questions by recommending and describing a design process that you can use that covers the user experience and user interface sides of designing a new Android application. During the talk, I will show the evolution of the design of an example Android application and cite tools and resources that you can use at each step of the design process. I will also give you some ideas on how to become a part of Android’s ever-growing design community."
+#  subtype: presentation
+#  speakers: [9]
+#  language: Java
+#  complexity: "Intermediate"
+#-
+#  id: 013
+#  title: "Google App Engine"
+#  description: "Google App Engine is a Platform as a Service level Google cloud technology. We'll examine App Engine features, place it into the cloud technology stack and look at some interesting examples. We'll also see how certain App Engine details reach towards the Infrastructure as a Service level abilities."
+#  subtype: presentation
+#  speakers: [7]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 014
+#  title: "Intro to Polymer"
+#  description: "Intro to Polymer"
+#  subtype: presentation
+#  speakers: [21]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 015
+#  title: "Getting into GIT"
+#  description: "This is a placeholder for a short description of the session - COMING SOON!"
+#  subtype: presentation
+#  speakers: [6]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 016
+#  title: "HTML 5 Part 1"
+#  description: "Introduction to writing HTML code and why it is easier than most people think.  In this beginning session we will get our hand into some HTML code and see how quickly we can create a simple but functional site."
+#  subtype: workshop
+#  speakers: [15, 16]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 008
+#  title: "Android Wear"
+#  description: "This is a placeholder for a short description of the session - COMING SOON!"
+#  subtype: presentation
+#  speakers: [4]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 018
+#  title: "Polymer Code Lab Part 1"
+#  description: "Get hands on experience with Ploymer!"
+#  subtype: workshop
+#  speakers: [4, 21]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 020
+#  title: "Hello World v1!"
+#  description: "This session includes a discussion on using awesome web tools such as GitHub and Bitbucket for hosting open source (or otherwise) projects, as well a broad overview of methods for learning how to use new APIs with the Android platform. This session will also describe and demonstrate the publishing process in the Google Play Store. "
+#  subtype: presentation
+#  speakers: [11]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 021
+#  title: "Google Compute Engine"
+#  description: "Google Compute Engine is an Infrastructure as a Service level Google cloud technology. We'll examine Compute Engine's offerings, place it into the cloud technology stack and look at some fun examples. We'll also see how certain Compute Engine features reach towards the Platform as a Service level and thus inherently allow someone to position his solution within the cloud stack."
+#  subtype: presentation
+#  speakers: [7]
+#  language:
+#  complexity: "Intermediate"
+#-
+#  id: 022
+#  title: "Chrome DevTools"
+#  description: "The Chrome Developer Tools are a set of web authoring and debugging tools built into Google Chrome. The DevTools provide web developers deep access into the internals of the browser and their web application. Use the DevTools to efficiently track down layout issues, set JavaScript breakpoints, and get insights for code optimization. This session will provide an overview of the features in Chrome Canary (the developer's Chrome)."
+#  subtype: presentation
+#  speakers: [14]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 007
+#  title: "Design Sprint - Wearables"
+#  description: "This is a placeholder for a short description of the session - COMING SOON!"
+#  subtype: presentation
+#  speakers: [19]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 024
+#  title: "MIT App Inventor Part 2"
+#  description: "Want to get started in programming? Come learn with making a Android App with blocks!"
+#  subtype: workshop
+#  speakers: [12, 19]
+#  language:
+#  complexity: "Beginner"
+#-
+#  id: 025
+#  title: "Intro to Java"
+#  description: "Introductory class for Java."
+#  subtype: presentation
+#  speakers: [6]
+#  language: "Java"
+#  complexity: "Beginner"
+#-
+#  id: 026
+#  title: "HTML 5 Part 2"
+#  description: "Introduction to writing HTML code and why it is easier than most people think.  In this beginning session we will get our hand into some HTML code and see how quickly we can create a simple but functional site."
+#  subtype: workshop
+#  speakers: [15, 16]
+#  language:
+#  complexity: "Beginner"  

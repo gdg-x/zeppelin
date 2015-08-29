@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39c510b-4fcd-4d84-b117-a8b6d0f99b3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/speakers.yml" afterPath="$PROJECT_DIR$/_data/speakers.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/sessions.yml" afterPath="$PROJECT_DIR$/_data/sessions.yml" />
     </list>
     <ignored path="zeppelin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,23 +72,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sessions.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sessions.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.95884776">
+              <caret line="227" column="27" selection-start-line="8" selection-start-column="1" selection-end-line="227" selection-end-column="27" />
               <folding>
-                <marker date="1440813510000" expanded="true" signature="84:93" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="84:93" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="601:617" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="1190:1202" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="1425:1442" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="1589:1602" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="1812:1824" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="2245:2257" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="2425:2441" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="2811:2824" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="3142:3155" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="3387:3404" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="3637:3654" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="4971:4983" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="5423:5435" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="5586:5599" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="5805:5817" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="6151:6168" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="6370:6382" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="6557:6573" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="7040:7053" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="7573:7585" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="8150:8163" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="8378:8391" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="8610:8627" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="8783:8795" placeholder="speakers:" />
+                <marker date="1440814209000" expanded="true" signature="9136:9153" placeholder="speakers:" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="speakers.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="speakers.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6502058">
-              <caret line="200" column="17" selection-start-line="126" selection-start-column="1" selection-end-line="200" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
               <folding>
                 <marker date="1440813996000" expanded="true" signature="532:616" placeholder="social:" />
                 <marker date="1440813996000" expanded="true" signature="1129:1208" placeholder="social:" />
@@ -141,8 +166,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/schedule.html" />
         <option value="$PROJECT_DIR$/_data/schedule.yml" />
-        <option value="$PROJECT_DIR$/_data/sessions.yml" />
         <option value="$PROJECT_DIR$/_data/speakers.yml" />
+        <option value="$PROJECT_DIR$/_data/sessions.yml" />
       </list>
     </option>
   </component>
@@ -581,20 +606,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-          <folding>
-            <marker date="1440813510000" expanded="true" signature="84:93" placeholder="speakers:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6502058">
-          <caret line="200" column="17" selection-start-line="126" selection-start-column="1" selection-end-line="200" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
           <folding>
             <marker date="1440813996000" expanded="true" signature="532:616" placeholder="social:" />
             <marker date="1440813996000" expanded="true" signature="1129:1208" placeholder="social:" />
@@ -610,6 +625,41 @@
             <marker date="1440813996000" expanded="true" signature="7879:7961" placeholder="social:" />
             <marker date="1440813996000" expanded="true" signature="8987:9059" placeholder="social:" />
             <marker date="1440813996000" expanded="true" signature="9599:9689" placeholder="social:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95884776">
+          <caret line="227" column="27" selection-start-line="8" selection-start-column="1" selection-end-line="227" selection-end-column="27" />
+          <folding>
+            <marker date="1440814209000" expanded="true" signature="84:93" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="601:617" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="1190:1202" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="1425:1442" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="1589:1602" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="1812:1824" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="2245:2257" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="2425:2441" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="2811:2824" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="3142:3155" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="3387:3404" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="3637:3654" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="4971:4983" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="5423:5435" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="5586:5599" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="5805:5817" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="6151:6168" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="6370:6382" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="6557:6573" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="7040:7053" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="7573:7585" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="8150:8163" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="8378:8391" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="8610:8627" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="8783:8795" placeholder="speakers:" />
+            <marker date="1440814209000" expanded="true" signature="9136:9153" placeholder="speakers:" />
           </folding>
         </state>
       </provider>
