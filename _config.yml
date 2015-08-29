@@ -72,12 +72,12 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-# latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-# rockstarSpeakersCount: 4
-# rockstarSpeakersTitle: "Rockstar speakers"
-# rockstarSpeakersButtonText: "See all speakers"
+#Rockstar Speakers Block
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
