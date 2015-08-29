@@ -46,10 +46,10 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6367521">
-              <caret line="196" column="20" selection-start-line="196" selection-start-column="20" selection-end-line="196" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.20940171">
+              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
               <folding>
-                <marker date="1440816681000" expanded="true" signature="2843:3432" placeholder="statisticBlock:" />
+                <marker date="1440816839000" expanded="true" signature="2822:3411" placeholder="statisticBlock:" />
               </folding>
             </state>
           </provider>
@@ -654,10 +654,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6367521">
-          <caret line="196" column="20" selection-start-line="196" selection-start-column="20" selection-end-line="196" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.20940171">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
           <folding>
-            <marker date="1440816681000" expanded="true" signature="2843:3432" placeholder="statisticBlock:" />
+            <marker date="1440816839000" expanded="true" signature="2822:3411" placeholder="statisticBlock:" />
           </folding>
         </state>
       </provider>
