@@ -41,7 +41,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Tickets"}
+ - {permalink: "http://www.eventbrite.com/e/fresno-devfest-2015-tickets-18266248842", text: "Tickets"}
  - {link: "https://developers.google.com", text: "Developers"}
 #bottomNavigationLinks:
 # - {link: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
