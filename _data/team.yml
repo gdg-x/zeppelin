@@ -1,5 +1,5 @@
 - 
-  id: 0
+  id: 1
   name: "Rio"
   surname: "Waller"
   title: "GDG Fresno Co-Organizer"
@@ -11,7 +11,7 @@
     - {name: "google-plus", link: "https://google.com/+RioWaller"}
     - {name: "twitter", link: "https://twitter.com/riowaller"}
 - 
-  id: 1
+  id: 0
   name: "James"
   surname: "Cha"
   title: "GDG Fresno Co-Organizer"
