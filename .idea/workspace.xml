@@ -46,13 +46,13 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4017093">
-              <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.5769231">
+              <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
               <folding>
-                <marker date="1440835434000" expanded="true" signature="1259:1648" placeholder="navigationLinks:" />
-                <marker date="1440835434000" expanded="true" signature="1650:1780" placeholder="bottomNavigationLinks:" />
-                <marker date="1440835434000" expanded="true" signature="1782:1915" placeholder="rightNavigationButtons:" />
-                <marker date="1440835434000" expanded="true" signature="2820:3409" placeholder="statisticBlock:" />
+                <marker date="1440835584000" expanded="true" signature="1259:1647" placeholder="navigationLinks:" />
+                <marker date="1440835584000" expanded="true" signature="1649:1779" placeholder="bottomNavigationLinks:" />
+                <marker date="1440835584000" expanded="true" signature="1781:1914" placeholder="rightNavigationButtons:" />
+                <marker date="1440835584000" expanded="true" signature="2819:3408" placeholder="statisticBlock:" />
               </folding>
             </state>
           </provider>
@@ -677,13 +677,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4017093">
-          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.5769231">
+          <caret line="43" column="83" selection-start-line="43" selection-start-column="83" selection-end-line="43" selection-end-column="83" />
           <folding>
-            <marker date="1440835434000" expanded="true" signature="1259:1648" placeholder="navigationLinks:" />
-            <marker date="1440835434000" expanded="true" signature="1650:1780" placeholder="bottomNavigationLinks:" />
-            <marker date="1440835434000" expanded="true" signature="1782:1915" placeholder="rightNavigationButtons:" />
-            <marker date="1440835434000" expanded="true" signature="2820:3409" placeholder="statisticBlock:" />
+            <marker date="1440835584000" expanded="true" signature="1259:1647" placeholder="navigationLinks:" />
+            <marker date="1440835584000" expanded="true" signature="1649:1779" placeholder="bottomNavigationLinks:" />
+            <marker date="1440835584000" expanded="true" signature="1781:1914" placeholder="rightNavigationButtons:" />
+            <marker date="1440835584000" expanded="true" signature="2819:3408" placeholder="statisticBlock:" />
           </folding>
         </state>
       </provider>
