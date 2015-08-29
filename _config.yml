@@ -38,8 +38,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-18266248842", text: "Tickets"}
  - {link: "https://developers.google.com", text: "Developers"}
@@ -53,15 +53,15 @@ heroTitle: "GDG DevFest<typeout>2015"
 eventDate: "Save the DATE - October 17 2015 - Powered by GDG Fresno, GDG Oakdale and GDG Visalia"
 typeoutTextValues: '"SAVE the Date", "Fresno", "Visalia", "Oakdale"'
 typeoutFallback: "Season"
-#heroButtons:
-# - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
+heroButtons:
+ - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 
 # About Block
-# aboutTitle: "About GDG DevFest"
-# aboutBlock:
-# - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
-# - {title: "Workshops", image: "workshop.jpg", text: "Full day of workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
-# - {title: "Hackathon", image: "hackathon.jpg", text: "Full day freestyle Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+aboutTitle: "About GDG DevFest"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full day of workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full day freestyle Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 aboutTitle: "Statistics for 2014 DevFest"
