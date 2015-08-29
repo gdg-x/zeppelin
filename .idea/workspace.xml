@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a39c510b-4fcd-4d84-b117-a8b6d0f99b3c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/schedule.yml" afterPath="$PROJECT_DIR$/_data/schedule.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/sessions.yml" afterPath="$PROJECT_DIR$/_data/sessions.yml" />
     </list>
     <ignored path="zeppelin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,17 +56,17 @@
       <file leaf-file-name="schedule.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/schedule.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.91769546">
-              <caret line="53" column="26" selection-start-line="15" selection-start-column="5" selection-end-line="53" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.9382716">
+              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
               <folding>
-                <marker date="1440813341000" expanded="true" signature="433:464" placeholder="sessionIds:" />
-                <marker date="1440813341000" expanded="true" signature="547:578" placeholder="sessionIds:" />
-                <marker date="1440813341000" expanded="true" signature="661:677" placeholder="sessionIds:" />
-                <marker date="1440813341000" expanded="true" signature="760:791" placeholder="sessionIds:" />
-                <marker date="1440813341000" expanded="true" signature="874:905" placeholder="sessionIds:" />
-                <marker date="1440813341000" expanded="true" signature="988:1019" placeholder="sessionIds:" />
-                <marker date="1440813341000" expanded="true" signature="1102:1133" placeholder="sessionIds:" />
-                <marker date="1440813341000" expanded="true" signature="1216:1232" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="433:464" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="547:578" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="661:677" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="760:791" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="874:905" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="988:1019" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="1102:1133" placeholder="sessionIds:" />
+                <marker date="1440813406000" expanded="true" signature="1216:1232" placeholder="sessionIds:" />
               </folding>
             </state>
           </provider>
@@ -114,8 +113,8 @@
         <option value="$PROJECT_DIR$/_data/team.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/schedule.html" />
-        <option value="$PROJECT_DIR$/_data/schedule.yml" />
         <option value="$PROJECT_DIR$/_data/sessions.yml" />
+        <option value="$PROJECT_DIR$/_data/schedule.yml" />
       </list>
     </option>
   </component>
@@ -547,17 +546,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/schedule.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91769546">
-          <caret line="53" column="26" selection-start-line="15" selection-start-column="5" selection-end-line="53" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.9382716">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
           <folding>
-            <marker date="1440813341000" expanded="true" signature="433:464" placeholder="sessionIds:" />
-            <marker date="1440813341000" expanded="true" signature="547:578" placeholder="sessionIds:" />
-            <marker date="1440813341000" expanded="true" signature="661:677" placeholder="sessionIds:" />
-            <marker date="1440813341000" expanded="true" signature="760:791" placeholder="sessionIds:" />
-            <marker date="1440813341000" expanded="true" signature="874:905" placeholder="sessionIds:" />
-            <marker date="1440813341000" expanded="true" signature="988:1019" placeholder="sessionIds:" />
-            <marker date="1440813341000" expanded="true" signature="1102:1133" placeholder="sessionIds:" />
-            <marker date="1440813341000" expanded="true" signature="1216:1232" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="433:464" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="547:578" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="661:677" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="760:791" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="874:905" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="988:1019" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="1102:1133" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="1216:1232" placeholder="sessionIds:" />
           </folding>
         </state>
       </provider>
