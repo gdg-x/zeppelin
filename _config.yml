@@ -41,12 +41,12 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
-# - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Tickets"}
+ - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-18266248842", text: "Tickets"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
-# - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
+ - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 rightNavigationButtons:
-# - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
+ - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
 
 # Hero Block
 heroTitle: "GDG DevFest<typeout>2015"
