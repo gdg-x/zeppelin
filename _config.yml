@@ -91,8 +91,8 @@ eventAddressCountry: "US"
 eventStartTime: "2015-10-17T010:00"
 eventDoorTime: "10:00"
 eventEndTime: "2015-10-17T16:00"
-eventPlaceCoordinates: "36.768592,-119.795866"
-mapCenterCoordinates: "36.768592,-119.795866"
+eventPlaceCoordinates: "36.7675271,-119.7978797"
+mapCenterCoordinates: "36.7675271,-119.7978797"
 mapMobileCenterCoordinates: "36.768592,-119.795866"
 
 # Venue Block
