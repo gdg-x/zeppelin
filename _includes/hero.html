@@ -2,21 +2,21 @@
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/devfestlogo.png');">
     {% include navigation.html %}
     <div class="content-wrapper">
-    <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
-            <p>{{ site.eventDate }}</p>
-            {% for button in site.heroButtons %}
-            <a href="{{ button.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ button.text }}</a>
-            {% endfor %}
+        <div class="jumbotron">
+            <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+                {% assign heroText = site.heroTitle | split:"<typeout>" %}
+                <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+                <p>{{ site.eventDate }}</p>
+                {% for button in site.heroButtons %}
+                <a href="{{ button.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ button.text }}</a>
+                {% endfor %}
+            </div>
         </div>
-    </div>
-    <a href="#about" class="explore">
-        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
-            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
-        </svg>
-    </a>
+        <a href="#about" class="explore">
+            <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+            </svg>
+        </a>
     </div>
 </section>
 <!-- End Hero Section -->

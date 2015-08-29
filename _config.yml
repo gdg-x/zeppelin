@@ -37,7 +37,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -49,7 +49,7 @@ rightNavigationButtons:
  - {url: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
 
 # Hero Block
-heroTitle: "GDG DevFest2015 - <typeout>"
+heroTitle: "GDG DevFest 2015 - <typeout>"
 eventDate: "October 17 2015 - Powered by GDG Fresno, GDG Oakdale and GDG Visalia"
 typeoutTextValues: '"SAVE", "THE", "DATE"'
 typeoutFallback: "Season"
