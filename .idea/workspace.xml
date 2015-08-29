@@ -72,40 +72,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sessions.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sessions.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.95884776">
-              <caret line="227" column="27" selection-start-line="8" selection-start-column="1" selection-end-line="227" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="224" column="20" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
               <folding>
-                <marker date="1440814209000" expanded="true" signature="84:93" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="601:617" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="1190:1202" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="1425:1442" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="1589:1602" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="1812:1824" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="2245:2257" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="2425:2441" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="2811:2824" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="3142:3155" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="3387:3404" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="3637:3654" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="4971:4983" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="5423:5435" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="5586:5599" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="5805:5817" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="6151:6168" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="6370:6382" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="6557:6573" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="7040:7053" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="7573:7585" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="8150:8163" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="8378:8391" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="8610:8627" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="8783:8795" placeholder="speakers:" />
-                <marker date="1440814209000" expanded="true" signature="9136:9153" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="84:93" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="601:617" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="1190:1202" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="1425:1442" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="1589:1602" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="1812:1824" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="2245:2257" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="2425:2441" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="2811:2824" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="3142:3155" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="3387:3404" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="3637:3654" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="4971:4983" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="5423:5435" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="5586:5599" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="5805:5817" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="6151:6168" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="6370:6382" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="6557:6573" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="7040:7053" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="7573:7585" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="8150:8163" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="8378:8391" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="8610:8627" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="8783:8795" placeholder="speakers:" />
+                <marker date="1440814335000" expanded="true" signature="9136:9153" placeholder="speakers:" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logos.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img/sprites/logos.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -236,7 +243,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -250,7 +257,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_data" />
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprites" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,11 +429,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/sprites/logos.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/venue/venue_0.jpg">
@@ -631,37 +637,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95884776">
-          <caret line="227" column="27" selection-start-line="8" selection-start-column="1" selection-end-line="227" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="224" column="20" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
           <folding>
-            <marker date="1440814209000" expanded="true" signature="84:93" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="601:617" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="1190:1202" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="1425:1442" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="1589:1602" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="1812:1824" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="2245:2257" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="2425:2441" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="2811:2824" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="3142:3155" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="3387:3404" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="3637:3654" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="4971:4983" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="5423:5435" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="5586:5599" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="5805:5817" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="6151:6168" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="6370:6382" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="6557:6573" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="7040:7053" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="7573:7585" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="8150:8163" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="8378:8391" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="8610:8627" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="8783:8795" placeholder="speakers:" />
-            <marker date="1440814209000" expanded="true" signature="9136:9153" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="84:93" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="601:617" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="1190:1202" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="1425:1442" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="1589:1602" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="1812:1824" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="2245:2257" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="2425:2441" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="2811:2824" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="3142:3155" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="3387:3404" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="3637:3654" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="4971:4983" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="5423:5435" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="5586:5599" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="5805:5817" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="6151:6168" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="6370:6382" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="6557:6573" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="7040:7053" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="7573:7585" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="8150:8163" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="8378:8391" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="8610:8627" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="8783:8795" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="9136:9153" placeholder="speakers:" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/sprites/logos.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
