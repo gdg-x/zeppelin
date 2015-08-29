@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-18266248842", text: "Tickets"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
+ - {url: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
 rightNavigationButtons:
- - {url: "https://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969", text: "Get Your Ticket!"}
+ - {url: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
 
 # Hero Block
 heroTitle: "GDG DevFest<typeout>2015"
@@ -88,9 +88,9 @@ eventAddressLocality: "Fresno"
 eventAddressLocalityRegion: "California"
 eventPostalCode: "93741"
 eventAddressCountry: "US"
-eventStartTime: "2014-10-18T08:00"
+eventStartTime: "2015-10-17T010:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-18T18:00"
+eventEndTime: "2015-10-17T16:00"
 eventPlaceCoordinates: "36.768592,-119.795866"
 mapCenterCoordinates: "36.768592,-119.795866"
 mapMobileCenterCoordinates: "36.768592,-119.795866"
