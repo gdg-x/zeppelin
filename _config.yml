@@ -52,7 +52,7 @@ navigationLinks:
 heroTitle: "October 17 2015  "
 eventDate: "GDG Fresno, GDG Oakdale and GDG Visalia"
 typeoutTextValues: '"SAVE THE DATE"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 #heroButtons:
 # - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 
