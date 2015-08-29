@@ -47,9 +47,9 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.33760685">
-              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
               <folding>
-                <marker date="1440816243000" expanded="true" signature="2861:3450" placeholder="statisticBlock:" />
+                <marker date="1440816308000" expanded="true" signature="2843:3432" placeholder="statisticBlock:" />
               </folding>
             </state>
           </provider>
@@ -655,9 +655,9 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33760685">
-          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
           <folding>
-            <marker date="1440816243000" expanded="true" signature="2861:3450" placeholder="statisticBlock:" />
+            <marker date="1440816308000" expanded="true" signature="2843:3432" placeholder="statisticBlock:" />
           </folding>
         </state>
       </provider>
