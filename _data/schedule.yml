@@ -2,10 +2,10 @@
   date: "2015-10-17"
   dateReadable: "October 17"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Chrome & Cloud", color: "#03a9f4"}
-    - {title: "Intern", color: "#ffcc00"}
-    - {title: "Inspired", color: "#ff3300"}
+    - {title: "Beginner", color: "#90be4e"}
+    - {title: "Intermediate", color: "#03a9f4"}
+    - {title: "Advanced", color: "#ffcc00"}
+    - {title: "Professional", color: "#ff3300"}
     
   timeslots:
     - {
