@@ -50,9 +50,9 @@ navigationLinks:
 
 # Hero Block
 heroTitle: "October 17 2015  "
-eventDate: "GDG Fresno, GDG Oakdale and GDG Visalia"
+eventDate: "GDG Fresno, GDG Oakdale, GDG Visalia and GDG Modesto"
 typeoutTextValues: '"SAVE THE DATE"'
-typeoutFallback: ""
+typeoutFallback: "@ FCC"
 #heroButtons:
 # - {url: "http://goo.gl/aCMR8A", text: "Become a speaker"}
 
