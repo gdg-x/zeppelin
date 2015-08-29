@@ -1,4 +1,16 @@
-- 
+-
+  id: 0
+  name: "James"
+  surname: "Cha"
+  title: "GDG Fresno Co-Organizer"
+  thumbnailUrl: jamescha.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
+-
   id: 1
   name: "Rio"
   surname: "Waller"
@@ -10,18 +22,7 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+RioWaller"}
     - {name: "twitter", link: "https://twitter.com/riowaller"}
-- 
-  id: 0
-  name: "James"
-  surname: "Cha"
-  title: "GDG Fresno Co-Organizer"
-  thumbnailUrl: jamescha.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+
 - 
   id: 2
   name: "Justine"

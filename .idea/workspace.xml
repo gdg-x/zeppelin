@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39c510b-4fcd-4d84-b117-a8b6d0f99b3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/team.yml" afterPath="$PROJECT_DIR$/_data/team.yml" />
     </list>
     <ignored path="zeppelin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,130 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hero.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/hero.html">
+      <file leaf-file-name="team.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_data/team.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.22633745">
+              <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.491453">
-              <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+            <state vertical-scroll-proportion="-19.444445">
+              <caret line="115" column="83" selection-start-line="115" selection-start-column="83" selection-end-line="115" selection-end-column="83" />
               <folding>
                 <marker date="1440834489000" expanded="true" signature="2814:3403" placeholder="statisticBlock:" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-09-1-whatis.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-09-1-whatis.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6666666">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="12.5">
-              <caret line="0" column="12146" selection-start-line="0" selection-start-column="12146" selection-end-line="0" selection-end-column="12146" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_hero.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/partials/_hero.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.875">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-09-3-sponsors.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-09-3-sponsors.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7777777">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="schedule.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/schedule.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-              <folding>
-                <marker date="1440813406000" expanded="true" signature="255:1242" placeholder="timeslots:" />
-                <marker date="1440813406000" expanded="true" signature="433:464" placeholder="sessionIds:" />
-                <marker date="1440813406000" expanded="true" signature="547:578" placeholder="sessionIds:" />
-                <marker date="1440813406000" expanded="true" signature="661:677" placeholder="sessionIds:" />
-                <marker date="1440813406000" expanded="true" signature="760:791" placeholder="sessionIds:" />
-                <marker date="1440813406000" expanded="true" signature="874:905" placeholder="sessionIds:" />
-                <marker date="1440813406000" expanded="true" signature="988:1019" placeholder="sessionIds:" />
-                <marker date="1440813406000" expanded="true" signature="1102:1133" placeholder="sessionIds:" />
-                <marker date="1440813406000" expanded="true" signature="1216:1232" placeholder="sessionIds:" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sessions.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/sessions.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="224" column="20" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
-              <folding>
-                <marker date="1440814335000" expanded="true" signature="84:93" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="601:617" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="1190:1202" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="1425:1442" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="1589:1602" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="1812:1824" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="2245:2257" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="2425:2441" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="2811:2824" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="3142:3155" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="3387:3404" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="3637:3654" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="4971:4983" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="5423:5435" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="5586:5599" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="5805:5817" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="6151:6168" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="6370:6382" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="6557:6573" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="7040:7053" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="7573:7585" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="8150:8163" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="8378:8391" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="8610:8627" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="8783:8795" placeholder="speakers:" />
-                <marker date="1440814335000" expanded="true" signature="9136:9153" placeholder="speakers:" />
               </folding>
             </state>
           </provider>
@@ -170,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_data/team.yml" />
         <option value="$PROJECT_DIR$/_includes/schedule.html" />
         <option value="$PROJECT_DIR$/_data/schedule.yml" />
         <option value="$PROJECT_DIR$/_data/speakers.yml" />
@@ -180,6 +72,7 @@
         <option value="$PROJECT_DIR$/_posts/2014-09-3-sponsors.markdown" />
         <option value="$PROJECT_DIR$/css/main.min.css" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_data/team.yml" />
       </list>
     </option>
   </component>
@@ -191,8 +84,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="131" />
-    <option name="y" value="39" />
+    <option name="x" value="1" />
+    <option name="y" value="23" />
     <option name="width" value="1433" />
     <option name="height" value="873" />
   </component>
@@ -322,6 +215,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zeppelin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zeppelin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -408,7 +315,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="39" width="1433" height="873" extended-state="0" />
+    <frame x="1" y="23" width="1433" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -575,14 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/team.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/team.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -656,28 +555,20 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/schedule.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
           <folding>
-            <marker date="1440813406000" expanded="true" signature="255:1242" placeholder="timeslots:" />
-            <marker date="1440813406000" expanded="true" signature="433:464" placeholder="sessionIds:" />
-            <marker date="1440813406000" expanded="true" signature="547:578" placeholder="sessionIds:" />
-            <marker date="1440813406000" expanded="true" signature="661:677" placeholder="sessionIds:" />
-            <marker date="1440813406000" expanded="true" signature="760:791" placeholder="sessionIds:" />
-            <marker date="1440813406000" expanded="true" signature="874:905" placeholder="sessionIds:" />
-            <marker date="1440813406000" expanded="true" signature="988:1019" placeholder="sessionIds:" />
-            <marker date="1440813406000" expanded="true" signature="1102:1133" placeholder="sessionIds:" />
-            <marker date="1440813406000" expanded="true" signature="1216:1232" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="timeslots:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
+            <marker date="1440813406000" expanded="true" signature="-1:-1" placeholder="sessionIds:" />
           </folding>
         </state>
       </provider>
@@ -687,32 +578,32 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="224" column="20" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
           <folding>
-            <marker date="1440814335000" expanded="true" signature="84:93" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="601:617" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="1190:1202" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="1425:1442" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="1589:1602" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="1812:1824" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="2245:2257" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="2425:2441" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="2811:2824" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="3142:3155" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="3387:3404" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="3637:3654" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="4971:4983" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="5423:5435" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="5586:5599" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="5805:5817" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="6151:6168" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="6370:6382" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="6557:6573" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="7040:7053" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="7573:7585" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="8150:8163" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="8378:8391" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="8610:8627" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="8783:8795" placeholder="speakers:" />
-            <marker date="1440814335000" expanded="true" signature="9136:9153" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
+            <marker date="1440814335000" expanded="true" signature="-1:-1" placeholder="speakers:" />
           </folding>
         </state>
       </provider>
@@ -729,14 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.6666666">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/hero.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -767,11 +650,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.491453">
-          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        <state vertical-scroll-proportion="-19.444445">
+          <caret line="115" column="83" selection-start-line="115" selection-start-column="83" selection-end-line="115" selection-end-column="83" />
           <folding>
             <marker date="1440834489000" expanded="true" signature="2814:3403" placeholder="statisticBlock:" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/hero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08510638">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/team.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22633745">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
