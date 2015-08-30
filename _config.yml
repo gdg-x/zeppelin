@@ -115,54 +115,6 @@ subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
-# Tickets Block
-#ticketsTitle: "Pricetable"
-#ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
-#ticketsOffers:
-# -
-#  name: "Student"
-#  price: "10"
-#  priceCurrency: "Dollars"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
-#  buyButtonText: "Buy Now"
-#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-17T23:59"
-# -
-#  name: "Teachers"
-#  price: "20"
-#  priceCurrency: "Dollars"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
-#  buyButtonText: "Buy Now"
-#  additionalInfo: "Contact us directly for special pricing for your students."
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-17T23:59"
-# -
-#  name: "Developers"
-#  price: "20"
-#  priceCurrency: "Dollars"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
-#  buyButtonText: "Buy Now"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-17T23:59"
-# -
-#  name: "Last Chance"
-#  price: "25"
-#  priceCurrency: "Dollars"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://www.eventbrite.com/e/fresno-devfest-2014-tickets-12537823969"
-#  buyButtonText: "Buy Now"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-10-18T00:00"
-#  validThrough: "2014-10-18T23:59"
-#  disabled: true
-
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
