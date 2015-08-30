@@ -43,8 +43,8 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "http://www.eventbrite.com/e/fresno-devfest-2015-tickets-18266248842", text: "Tickets"}
  - {link: "https://developers.google.com", text: "Developers"}
-#bottomNavigationLinks:
-# - {link: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
+bottomNavigationLinks:
+ - {link: "https://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
 rightNavigationButtons:
  - {link: "http://www.eventbrite.com/e/fresno-devfest-2015-tickets-1826624884", text: "Get Your Ticket!"}
 
@@ -89,7 +89,7 @@ eventAddressLocalityRegion: "California"
 eventPostalCode: "93741"
 eventAddressCountry: "US"
 eventStartTime: "2015-10-17T010:00"
-eventDoorTime: "10:00"
+eventDoorTime: "9:00"
 eventEndTime: "2015-10-17T16:00"
 eventPlaceCoordinates: "36.7675271,-119.7978797"
 mapCenterCoordinates: "36.7675271,-119.7978797"
