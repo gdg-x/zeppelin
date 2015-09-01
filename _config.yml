@@ -194,10 +194,10 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Porto"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Porto. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.ana.pt/pt-PT/Aeroportos/Porto/Porto/Chegadas/SairdoAeroporto/TransportesPublicos/Paginas/Transportes-Publicos.aspx">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Porto. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Porto.'}
  - {title: "Hotels", information: 'Porto has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
