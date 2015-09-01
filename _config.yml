@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Porto 2015"
-email: "devfest@gdg.org.ua"
+email: "devfest@gdgporto.xyz"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "https://gdgporto.github.io"
@@ -24,7 +24,7 @@ siteVerification: "to_replace"
 organizerName: "GDG Porto"
 organizerAlternateName: "Google Developer Group Porto"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "Dont@Email.Us"
+organizerEmail: "devfest@gdgporto.xyz"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgporto.xyz"
 
@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "October, 2015"
 typeoutTextValues: '"", "Europe", "Iberia", "Portugal", "Porto"'
 typeoutFallback: "Porto"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -161,7 +161,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:dont@email.us", text: "Not available"}
+   - {link: "mailto:devfest@gdgporto.xyz", text: "DevFest Contact Email"}
  -
   title: "FAQ"
   links:
