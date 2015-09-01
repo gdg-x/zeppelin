@@ -51,6 +51,7 @@ navigationLinks:
  
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
+
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
 
