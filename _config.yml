@@ -69,6 +69,7 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience and debugging. Come and tame your favourite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -76,6 +77,7 @@ statisticBlock:
  - {count: "?", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "999", specialCharacter: "+", info: "things", detail: "you'll be surprised to see"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -108,8 +110,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["Great location, Located near FEUP, ISEC"]
+venueTitle: "To be confirmed."
+venueFeatures: ["Great location", "Located near FEUP and ISEC"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
