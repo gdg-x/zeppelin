@@ -101,9 +101,9 @@ eventAddressCountry: "Portugal"
 eventStartTime: "2015-10-17T10:00"
 eventDoorTime: "08:00"
 eventEndTime: "2015-10-17T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "41.1621, 8.6220"
+mapCenterCoordinates: "41.1621, 8.6220"
+mapMobileCenterCoordinates: "41.1621, 8.6220"
 
 # Venue Block
 venueBlockTitle: "Venue"
