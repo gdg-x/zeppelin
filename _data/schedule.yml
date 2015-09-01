@@ -5,11 +5,11 @@
     - {title: "Beginner", color: "#90be4e"}
     - {title: "Intermediate", color: "#03a9f4"}
     - {title: "Advanced", color: "#ffcc00"}
-    - {title: "Professional", color: "#ff3300"}
+    - {title: "Talks", color: "#ff3300"}
     
   timeslots:
     - {
-        startTime: "10:00",
+        startTime: "9:00",
         endTime: "3:00",
         sessionIds: [100]
     }
