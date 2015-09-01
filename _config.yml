@@ -11,20 +11,20 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Porto 2015"
-email: "devfest@gdg.org.ua"
+email: "devfest@gdgporto.xyz"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "https://gdgporto.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
+googleAnalyticsTrackingId: "to_replace"
 googleAnalyticsSiteUrl: "gdgporto.github.io"
-siteVerification: ""
+siteVerification: "to_replace"
 
 # Organizer Info
 organizerName: "GDG Porto"
 organizerAlternateName: "Google Developer Group Porto"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "Dont@Email.Us"
+organizerEmail: "devfest@gdgporto.xyz"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgporto.xyz"
 
@@ -48,11 +48,12 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
+ 
+bottomNavigationLinks:
+ - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
 
- bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +62,7 @@ eventDate: "October, 2015"
 typeoutTextValues: '"", "Europe", "Iberia", "Portugal", "Porto"'
 typeoutFallback: "Porto"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -69,13 +70,15 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience and debugging. Come and tame your favourite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "?", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "999", specialCharacter: "+", info: "things", detail: "you'll be surprised to see"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -108,8 +111,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["Great location, Located near FEUP, ISEC"]
+venueTitle: "To be confirmed."
+venueFeatures: ["Great location", "Located near FEUP and ISEC"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -143,7 +146,6 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
- -
 
 # Footer
 socialLinks:
@@ -160,7 +162,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:dont@email.us", text: "Not available"}
+   - {link: "mailto:devfest@gdgporto.xyz", text: "DevFest Contact Email"}
  -
   title: "FAQ"
   links:
