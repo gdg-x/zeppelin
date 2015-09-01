@@ -74,7 +74,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "?", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "999", specialCharacter: "+", info: "things", detail: "you'll be surprised to see"}
