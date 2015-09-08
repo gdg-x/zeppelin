@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Google Techs", color: "#90be4e"}
   timeslots:
-    -  {
+    - {
     	startTime: "9:00",
     	endTime: "9:30",
     	sessionIds: [110]
@@ -15,9 +15,9 @@
     	sessionIds: [001]
     }
     - {
-        startTime: "10:15",
-        endTime: "11:00",
-        sessionIds: [002]
+      startTime: "10:15",
+      endTime: "11:00",
+      sessionIds: [002]
     }
     - {
     	startTime: "11:00",
@@ -39,17 +39,17 @@
     	endTime: "14:00",
     	sessionIds: [200]
     }
-  -  {
+    - {
     	startTime: "14:00",
     	endTime: "14:45",
     	sessionIds: [005]
     }
-    -  {
+    - {
     	startTime: "14:45",
     	endTime: "15:30",
     	sessionIds: [006]
     }
-    -  {
+    - {
     	startTime: "15:30",
     	endTime: "16:15",
     	sessionIds: [007]
@@ -59,17 +59,17 @@
     	endTime: "17:00",
     	sessionIds: [300]
     }
-    -  {
+    - {
     	startTime: "18:30",
     	endTime: "19:00",
     	sessionIds: [008]
     }
-    -  {
+    - {
     	startTime: "19:00",
     	endTime: "19:30",
     	sessionIds: [009]
     }
-    -  {
+    - {
     	startTime: "19:30",
     	endTime: "19:45",
     	sessionIds: [120]
