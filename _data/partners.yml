@@ -6,7 +6,7 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "WIT Software", description: "WIT", link: "https://www.wit-software.com", imageUrl: "wit.svg", width: "120px"}
+    - {name: "Last2Ticket", description: "Last2Ticket", link: "https://www.Last2Ticket.com", imageUrl: "last2ticket.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
