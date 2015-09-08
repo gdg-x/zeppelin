@@ -7,7 +7,7 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 001
   title: "To be announced"
@@ -16,7 +16,7 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 002
   title: "To be announced"
@@ -25,7 +25,7 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -  
   id: 100
   title: "Coffee Break"
@@ -40,7 +40,7 @@
   speakers: [3]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 004
   title: "To be announced"
@@ -64,7 +64,7 @@
   speakers: [5]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 006
   title: "To be announced"
@@ -73,7 +73,7 @@
   speakers: [6]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 007
   title: "To be announced"
@@ -82,7 +82,7 @@
   speakers: [7]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -  
   id: 300
   title: "Coffee Break"
@@ -97,7 +97,7 @@
   speakers: [8]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 009
   title: "To be announced"
@@ -106,7 +106,7 @@
   speakers: [9]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
 -
   id: 120
   title: "Goodbye talk"
@@ -116,5 +116,5 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "//www.youtube.com/embed/dQw4w9WgXcQ"
   
