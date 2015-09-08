@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Porto", description: "GDG Porto - Open and volunteer geek community", link: "http://gdgporto.xyz", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Porto", description: "GDG Porto - Open and volunteer geek community", link: "http://gdgporto.xyz", imageUrl: "gdg-porto.png"}
 - 
   group: "Co-organizers"
   elements: 
