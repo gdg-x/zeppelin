@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2014-10-08 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+GDG DevFest Porto 2015 will be held 17th of October in ancient city of Porto. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -20,11 +20,9 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 ##### Android
 
-__Google I/O 2014__
+__Google I/O 2015__
 
 * Material Design
-* Migration to ART
-* New Android Camera API
 * New Job Scheduler
 * Storage Access Framework
 * Elevation & Clipping
@@ -56,12 +54,12 @@ __General__
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+#### Please submit your proposals [here](http://goo.gl/forms/L0JcpfQ2Rq).
+__Deadline__ is September 30, 2015
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until September 20, 2015.<br/>
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Email organizers at [devfest@gdgporto.xyz](mailto:devfest@gdgporto.xyz)
