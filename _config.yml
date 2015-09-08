@@ -137,14 +137,14 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, hands-on, workshop and coffee breaks. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name: "DevFest Ticket"
   price: "0"
   priceCurrency: "€"
-  ticketsNumber: "50"
+  ticketsNumber: "80"
   ribbon: "-100%"
-  buyButtonLink: "https://www.last2ticket.com/?lang=en"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonLink: ""
+  buyButtonText: "Buy ticket"
+  ticketContentList: ["Available after 14th of September", "Just 80 tickets available", "Don't miss this opportunity!"]
   validFrom: "2015-09-01T10:00"
   validThrough: "2015-10-15T23:59"
 
@@ -175,7 +175,7 @@ blogCommentsEnabled: true
 discusShortName: "devfestporto"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
