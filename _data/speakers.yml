@@ -5,7 +5,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
@@ -16,7 +16,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
@@ -27,7 +27,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
@@ -39,7 +39,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
@@ -50,7 +50,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
@@ -61,7 +61,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
@@ -72,7 +72,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
@@ -83,7 +83,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
@@ -94,7 +94,7 @@
   company: "-"
   title: "-"
   bio: "Bio"
-  thumbnailUrl: tobeconfirmed.jpg
+  thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
