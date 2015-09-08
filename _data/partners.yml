@@ -5,8 +5,8 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "UPTEC", description: "UPTEC - Science and Technology Park of the University of Porto", link: "https://www.http://uptec.up.pt/", imageUrl: "uptec-small.png", width: "120px"}
-    - {name: "Last2Ticket", description: "Last2Ticket", link: "https://www.Last2Ticket.com", imageUrl: "last2ticket.png", width: "120px"}
+    - {name: "UPTEC", description: "UPTEC - Science and Technology Park of the University of Porto", link: "https://www.http://uptec.up.pt/", imageUrl: "uptec-small.png"}
+    - {name: "Last2Ticket", description: "Last2Ticket", link: "https://www.Last2Ticket.com", imageUrl: "last2ticket.png"}
 - 
   group: "Information partners"
   elements: 
