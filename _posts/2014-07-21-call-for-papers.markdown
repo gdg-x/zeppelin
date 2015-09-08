@@ -45,6 +45,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Cast
 * Cardboard
 * Go (as a new emerging language)
+* Google Prediction API
 * Nest API
 
 
