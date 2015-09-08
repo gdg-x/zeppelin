@@ -20,19 +20,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 ##### Android
 
-__Google I/O 2015__
-
-* Material Design
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
+* Everything and anything.. really, surprise us!
 
 ##### Web
 
@@ -43,7 +31,6 @@ __General__
 * ChromeOS (apps development)
 * Web Performance (tools, techniques, approaches)
 
-
 ##### Cloud
 
 * Google Cloud Platform
@@ -52,6 +39,13 @@ __General__
   * Storages (SQL, NoSQL, BigData)
   * APIs
 * Go (as a language for a Cloud Ready Apps)
+
+##### Other
+
+* Cast
+* Cardboard
+* Go (as a new emerging language)
+* Nest API
 
 
 #### Please submit your proposals [here](http://goo.gl/forms/L0JcpfQ2Rq).
