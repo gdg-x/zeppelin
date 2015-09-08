@@ -3,6 +3,11 @@
   title: "Welcome talk"
   place: "Auditório UPTEC"
   description: "A warm welcome for all"
+  subtype: keynote
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+  video: ""
 -
   id: 001
   title: "To be announced"
@@ -104,7 +109,12 @@
   video: ""
 -
   id: 120
-   title: "Goodbye talk"
+  title: "Goodbye talk"
   place: "Auditório UPTEC"
   description: "A farwell with some prizes? Who knows..."
+  subtype: keynote
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+  video: ""
   
