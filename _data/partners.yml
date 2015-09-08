@@ -2,7 +2,7 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.svg"}
-    - {name: "GDG Porto", description: "GDG Porto - Open and volunteer geek community", link: "http://gdgporto.xyz", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Porto", description: "GDG Porto - Open and volunteer geek community", link: "http://gdgporto.xyz", imageUrl: "gdg-porto.svg"}
 - 
   group: "With support of"
   elements: 
