@@ -92,14 +92,14 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "To confirm..."
-eventLocationLink: "http://to.confirm/"
-eventStreetAddress: "To confirm..."
+eventLocationName: "UPTEC - Science and Technology Park of the University of Porto"
+eventLocationLink: "http://uptec.up.pt/en"
+eventStreetAddress: "Rua Alfredo Allen, n.º455/461"
 eventAddressLocality: "Porto"
 eventAddressLocalityRegion: "Porto"
-eventPostalCode: "4200"
+eventPostalCode: "4200-135"
 eventAddressCountry: "Portugal"
-eventStartTime: "2015-10-17T10:00"
+eventStartTime: "2015-10-17T09:00"
 eventDoorTime: "08:00"
 eventEndTime: "2015-10-17T20:00"
 eventPlaceCoordinates: "41.177199, -8.604832"
@@ -129,7 +129,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://xyz.us11.list-manage.com/subscribe/post?u=aeeb2cfabeff9252e9729f5c9&amp;id=d62591b2ad"
 subscribeInfo: "Registration will be open around middle of September. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
