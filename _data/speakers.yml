@@ -1,32 +1,32 @@
 - 
   id: 1
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
   id: 2
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
   id: 3
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
@@ -34,66 +34,66 @@
     
     - 
   id: 4
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
   id: 5
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
   id: 6
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
   id: 7
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
 - 
   id: 8
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
 - 
   id: 9
-  name: "To be"
-  surname: "Confirmed"
+  name: "Soon"
+  surname: "..."
   company: "-"
   title: "-"
-  bio: "Bio"
+  bio: "..."
   thumbnailUrl: tobeconfirmed.png
   rockstar: false
   social: 
