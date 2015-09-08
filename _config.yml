@@ -69,8 +69,9 @@ heroButtons:
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Hands-on experience and debugging. Come and tame your favourite technology!" }
+ - {title: "Demos", image: "hackathon.jpg", text: "Awesome demos of cool products!" }
+
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -129,11 +130,11 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of September. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around middle of September. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, hands-on, workshop and coffee breaks. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
@@ -141,11 +142,11 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "50"
   ribbon: "-100%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.last2ticket.com/?lang=en"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2015-09-01T10:00"
+  validThrough: "2015-10-15T23:59"
 
 # Footer
 socialLinks:
