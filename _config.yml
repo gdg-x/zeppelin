@@ -63,7 +63,7 @@ typeoutTextValues: '"", "OPorto", "Portugal", "Porto"'
 typeoutFallback: "Porto"
 heroButtons:
  - {link: "http://goo.gl/forms/L0JcpfQ2Rq", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Get a ticket"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -133,8 +133,8 @@ subscribeAction: "https://xyz.us11.list-manage.com/subscribe/post?u=aeeb2cfabeff
 subscribeInfo: "Registration will be open around middle of September. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, hands-on, workshop and coffee breaks. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Tickets information"
+ticketsInfo: "Tickets will be available after 14th September. They will grant access to all conference sections, hands-on, workshop and coffee breaks. Accommodation is NOT included."
 ticketsOffers:
  -
   name: "DevFest Ticket"
