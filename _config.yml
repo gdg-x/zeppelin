@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://no.available.yet"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/Soon.pdf"
 
 
 # Navigation
@@ -189,8 +189,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "41.1621, 8.6220"
-logisticsMapMobileCenterCoordinates: "41.1621, 8.6220"
+logisticsMapCenterCoordinates: "41.177199, -8.604832"
+logisticsMapMobileCenterCoordinates: "41.177199, -8.604832"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
