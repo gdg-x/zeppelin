@@ -6,7 +6,7 @@
   title: "-"
   bio: "Bio"
   thumbnailUrl: tobeconfirmed.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
@@ -17,7 +17,7 @@
   title: "-"
   bio: "Bio"
   thumbnailUrl: tobeconfirmed.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
@@ -28,7 +28,7 @@
   title: "-"
   bio: "Bio"
   thumbnailUrl: tobeconfirmed.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
     
@@ -98,4 +98,3 @@
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
-    
