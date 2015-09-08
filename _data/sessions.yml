@@ -21,13 +21,12 @@
   language: en
   complexity: "Intermediate"
   video: ""
-  
--  id: 100
+-  
+  id: 100
   title: "Coffee Break"
   description: "The best time to talk with speakers and attendees"
   place: "Hall da UPTEC"
   service: true  
-  
 -
   id: 003
   title: "To be announced"
@@ -46,13 +45,12 @@
   language: en
   complexity: "Intermediate"
   video: ""
-  
-  -  id: 200
+  -
+  id: 200
   title: "Lunch"
   description: "A good time to network and have fun"
   place: "TBD"
   service: true  
-  
 -
   id: 005
   title: "To be announced"
@@ -71,7 +69,7 @@
   language: en
   complexity: "Intermediate"
   video: ""
-  -
+-
   id: 007
   title: "To be announced"
   description: "To be announced."
@@ -80,14 +78,13 @@
   language: en
   complexity: "Intermediate"
   video: ""
-  
-  -  id: 300
+-  
+  id: 300
   title: "Coffee Break"
   description: "The best time to talk with speakers and attendees"
   place: "Hall da UPTEC"
   service: true 
-  
-    -
+-
   id: 008
   title: "To be announced"
   description: "To be announced."
@@ -96,7 +93,7 @@
   language: en
   complexity: "Intermediate"
   video: ""
-    -
+-
   id: 009
   title: "To be announced"
   description: "To be announced."
@@ -105,7 +102,7 @@
   language: en
   complexity: "Intermediate"
   video: ""
-      -
+-
   id: 120
    title: "Goodbye talk"
   place: "Auditório UPTEC"
