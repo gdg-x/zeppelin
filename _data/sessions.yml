@@ -46,6 +46,14 @@
   speakers: []
   complexity: "Beginner"
 
+-
+  id: 010
+  title: "Polymer Element Creation"
+  description: "More to Come"
+  subtype: Code Lab
+  speakers: []
+  complexity: "Advanced"
+
 
 #-
 #  id: 102
@@ -86,14 +94,7 @@
 #  speakers: [12, 19]
 #  language:
 #  complexity: "Beginner"
-#-
-#  id: 014
-#  title: "Intro to Polymer"
-#  description: "Intro to Polymer"
-#  subtype: presentation
-#  speakers: [21]
-#  language:
-#  complexity: "Beginner"
+
 #-
 #  id: 005
 #  title: "Google Glass"

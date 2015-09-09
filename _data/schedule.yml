@@ -8,20 +8,16 @@
     - {title: "Talks", color: "#ff3300"}
     
   timeslots:
-    - {
-        startTime: "9:00",
-        endTime: "3:00",
-        sessionIds: [100]
-    }
+
     - {
         startTime: "10:00",
         endTime: "10:50",
-        sessionIds: [001, 007]
+        sessionIds: [001, 007, 110]
     }
     - {
         startTime: "11:00",
         endTime: "11:50",
-        sessionIds: [001, 007]
+        sessionIds: [001, 007, 110, 100, 100]
     }
     - {
         startTime: "12:00",
@@ -32,12 +28,12 @@
     - {
         startTime: "1:00",
         endTime: "1:50",
-        sessionIds: [009, 008]
+        sessionIds: [009, 008, 100, 100, 100]
     }
     - {
         startTime: "2:00",
         endTime: "2:50",
-        sessionIds: [009, 008]
+        sessionIds: [009, 008, 100, 100, 100]
       }
 
 #    - {
