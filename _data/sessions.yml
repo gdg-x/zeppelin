@@ -12,7 +12,7 @@
   title: "Doors Open"
   description: ""
   subtype: keynote
-  
+
 -
   id: 001
   title: "HTML/CSS"
@@ -38,7 +38,7 @@
 
 -
   id: 008
-  title: "Go and Google App Engine"
+  title: "Go and App Engine"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: code lab
   speakers: []
@@ -46,7 +46,7 @@
 
 -
   id: 009
-  title: "Javascript  "
+  title: "Javascript   "
   description: "We will cover the basics of JavaScript"
   subtype: codelab
   speakers: []
@@ -57,6 +57,14 @@
   title: "Polymer Element Creation"
   description: "More to Come"
   subtype: Code Lab
+  speakers: []
+  complexity: "Advanced"
+
+-
+  id: 011
+  title: "Google Cloud Spin"
+  description: "More to Come"
+  subtype: Talk
   speakers: []
   complexity: "Advanced"
 

@@ -6,6 +6,7 @@
     - {title: "Intermediate", color: "#03a9f4"}
     - {title: "Advanced", color: "#ffcc00"}
     - {title: "Talks", color: "#ff3300"}
+    - {title: "Office Hours", color: "#90be4e}
     
   timeslots:
     - {
