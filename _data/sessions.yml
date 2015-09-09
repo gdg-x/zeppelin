@@ -75,6 +75,20 @@
   subtype: Talk
   speakers: []
   complexity: "Advanced"
+-
+  id: 013
+  title: "Webdev/Android/Cloud"
+  description: "More to Come"
+  subtype: Talk
+  speakers: []
+  complexity: "Advanced"
+-
+  id: 014
+  title: "Games and Cloud"
+  description: "More to Come"
+  subtype: Talk
+  speakers: []
+  complexity: "Advanced"
 
 #-
 #  id: 102
