@@ -68,6 +68,13 @@
   speakers: []
   complexity: "Advanced"
 
+-
+  id: 012
+  title: "Cloud"
+  description: "More to Come"
+  subtype: Talk
+  speakers: []
+  complexity: "Advanced"
 
 #-
 #  id: 102
