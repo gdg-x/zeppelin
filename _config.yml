@@ -113,7 +113,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "UPTEC - Science and Technology Park of the University of Porto"
-venueFeatures: ["Great location", "Located near FEUP and ISEC"]
+venueFeatures: ["Great location", "Located near FEUP and ISEP"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
