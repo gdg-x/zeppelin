@@ -32,12 +32,12 @@
     - {
         startTime: "1:00",
         endTime: "1:50",
-        sessionIds: [009]
+        sessionIds: [009, 008]
     }
     - {
         startTime: "2:00",
         endTime: "2:50",
-        sessionIds: [009]
+        sessionIds: [009, 008]
       }
 
 #    - {
