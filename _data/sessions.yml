@@ -36,7 +36,6 @@
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: code lab
   speakers: []
-  language:
   complexity: "Intermediate"
 
 -
@@ -46,7 +45,6 @@
   subtype: codelab
   speakers: []
   complexity: "Beginner"
-
 
 
 #-

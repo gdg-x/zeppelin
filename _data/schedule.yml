@@ -34,11 +34,11 @@
         endTime: "1:50",
         sessionIds: [009]
     }
- - {
+    - {
         startTime: "2:00",
         endTime: "2:50",
         sessionIds: [009]
-    }
+      }
 
 #    - {
 #        startTime: "11:00",
