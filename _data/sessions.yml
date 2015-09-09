@@ -12,10 +12,7 @@
   title: "Doors Open"
   description: ""
   subtype: keynote
-  speakers:
-  language:
-  complexity:
-
+  
 -
   id: 001
   title: "HTML/CSS"
