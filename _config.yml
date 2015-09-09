@@ -17,7 +17,7 @@ baseurl: "/zeppelin"
 url: "https://gdgporto.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-67370549-1"
-googleAnalyticsSiteUrl: "gdgporto.github.io"
+googleAnalyticsSiteUrl: "devfest.gdgporto.xyz"
 siteVerification: "Mx7AhHxqDI6DbgsPRkSJ3m_D_XeoPHgYsS1wOx05EEE"
 
 # Organizer Info
