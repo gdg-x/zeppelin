@@ -16,9 +16,9 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "https://gdgporto.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "to_replace"
+googleAnalyticsTrackingId: "UA-67370549-1"
 googleAnalyticsSiteUrl: "gdgporto.github.io"
-siteVerification: "to_replace"
+siteVerification: "Mx7AhHxqDI6DbgsPRkSJ3m_D_XeoPHgYsS1wOx05EEE"
 
 # Organizer Info
 organizerName: "GDG Porto"
