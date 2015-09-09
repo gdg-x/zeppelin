@@ -8,6 +8,15 @@
   complexity:
 
 -
+  id: 200
+  title: "Doors Open"
+  description: ""
+  subtype: keynote
+  speakers:
+  language:
+  complexity:
+
+-
   id: 001
   title: "HTML/CSS"
   description: "We will cover the basics of HTML/CSS"

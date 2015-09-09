@@ -8,6 +8,12 @@
     - {title: "Talks", color: "#ff3300"}
     
   timeslots:
+   - {
+          startTime: "9:00",
+          endTime: "10:00",
+          sessionIds: [200]
+      }
+
 
     - {
         startTime: "10:00",
