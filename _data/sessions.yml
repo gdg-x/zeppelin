@@ -6,11 +6,21 @@
   speakers:
   language: 
   complexity:
-#-
-#  id: 101
-#  title: "Lunch"
-#  place: "OAB Auditorium"
-#  service: true
+
+-
+  id: 001
+  title: "HTML/CSS"
+  description: "We will cover the basics of HTML/CSS"
+  subtype: codelab
+  speakers: []
+  complexity: "Beginner"
+
+
+-
+  id: 101
+  title: "Lunch"
+  place: "OAB Auditorium"
+  service: true
 #-
 #  id: 102
 #  title: "Closing/Pizza/DJ"
