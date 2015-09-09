@@ -15,12 +15,40 @@
   speakers: []
   complexity: "Beginner"
 
-
 -
   id: 101
   title: "Lunch"
   place: "OAB Auditorium"
   service: true
+
+-
+  id: 007
+  title: "Design Sprint"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: presentation
+  speakers: []
+  language:
+  complexity: "Intermediate"
+
+-
+  id: 008
+  title: "Go and Google App Engine"
+  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  subtype: code lab
+  speakers: []
+  language:
+  complexity: "Intermediate"
+
+-
+  id: 009
+  title: "Javascript"
+  description: "We will cover the basics of JavaScript"
+  subtype: codelab
+  speakers: []
+  complexity: "Beginner"
+
+
+
 #-
 #  id: 102
 #  title: "Closing/Pizza/DJ"
@@ -202,14 +230,6 @@
 #  description: "The Chrome Developer Tools are a set of web authoring and debugging tools built into Google Chrome. The DevTools provide web developers deep access into the internals of the browser and their web application. Use the DevTools to efficiently track down layout issues, set JavaScript breakpoints, and get insights for code optimization. This session will provide an overview of the features in Chrome Canary (the developer's Chrome)."
 #  subtype: presentation
 #  speakers: [14]
-#  language:
-#  complexity: "Beginner"
-#-
-#  id: 007
-#  title: "Design Sprint - Wearables"
-#  description: "This is a placeholder for a short description of the session - COMING SOON!"
-#  subtype: presentation
-#  speakers: [19]
 #  language:
 #  complexity: "Beginner"
 #-
