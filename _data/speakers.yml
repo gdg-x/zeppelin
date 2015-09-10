@@ -1,14 +1,14 @@
-#-
-#  id: 3
-#  name: "Rob"
-#  surname: "Dodson"
-#  company: "Google"
-#  title: "Developer Advocate"
-#  bio: "Rob Dodson is a developer advocate at Google where he focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies,  user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-#  thumbnailUrl: robdodson.jpg
-#  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/+RobDodson"}
+-
+  id: 3
+  name: "Zeno"
+  surname: "Rocha"
+  company: "Liferay, Inc."
+  title: "Developer Advocate"
+  bio: "Zeno Rocha is a Developer Advocate at Liferay, Inc. He dedicates a lot of his time traveling to show how awesome HTML5 and Web Components are, contributing to hundreds of open source projects, and creating tools to help developers build great applications. He created [CustomElements.io](http://customelements.io/), the most popular Web Components gallery and [WebComponents.org](http://webcomponents.org/) which is the go-to place to learn about this subject. Besides that, he's a member of the Google Developers Expert program and co-founder of BrazilJS Foundation. Prior to Liferay, Zeno worked as a software developer at Petrobras (the largest company in Latin America) and Globoesporte.com (the most accessed sports website in Brazil)."
+  thumbnailUrl: zenorocha.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ZenoRochaBN"}
 - 
   id: 4
   name: "Justin"
