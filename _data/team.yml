@@ -24,4 +24,12 @@
     - {name: "twitter", link: "https://twitter.com/neteinstein"}
     - {name: "site", link: "http://neteinstein.org/"}
 - 
+  id: 2
+  name: "André"
+  surname: "Silva"
+  title: "Speaker Manager"
+  thumbnailUrl: toconfirm.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/108149312466048440019/posts"}
   
