@@ -29,7 +29,7 @@
   surname: "Silva"
   title: "Speaker Manager"
   thumbnailUrl: toconfirm.jpg
-  team: true
+  subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/108149312466048440019/posts"}
   
