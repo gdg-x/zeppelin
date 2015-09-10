@@ -6,6 +6,8 @@
   title: "Developer Advocate"
   bio: "Zeno Rocha is a Developer Advocate at Liferay, Inc. He dedicates a lot of his time traveling to show how awesome HTML5 and Web Components are, contributing to hundreds of open source projects, and creating tools to help developers build great applications. He created [CustomElements.io](http://customelements.io/), the most popular Web Components gallery and [WebComponents.org](http://webcomponents.org/) which is the go-to place to learn about this subject. Besides that, he's a member of the Google Developers Expert program and co-founder of BrazilJS Foundation. Prior to Liferay, Zeno worked as a software developer at Petrobras (the largest company in Latin America) and Globoesporte.com (the most accessed sports website in Brazil)."
   thumbnailUrl: zenorocha.jpg
+  ribbon:
+      - {abbr: "GDE", title: "Google Developer Expert"}
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ZenoRochaBN"}
