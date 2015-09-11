@@ -28,7 +28,7 @@
   name: "André"
   surname: "Silva"
   title: "Speaker Manager"
-  thumbnailUrl: andre_silva.png
+  thumbnailUrl: andre_silva.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/108149312466048440019/posts"}
