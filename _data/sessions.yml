@@ -18,7 +18,7 @@
   title: "HTML/CSS"
   description: "We will cover the basics of HTML/CSS"
   subtype: codelab
-  speakers: []
+  speakers: [15, 16]
   complexity: "Beginner"
 
 -
@@ -32,7 +32,7 @@
   title: "Design Sprint"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: presentation
-  speakers: []
+  speakers: [19]
   language:
   complexity: "Intermediate"
 
@@ -49,7 +49,7 @@
   title: "Javascript   "
   description: "We will cover the basics of JavaScript"
   subtype: codelab
-  speakers: []
+  speakers: [15, 16]
   complexity: "Beginner"
 
 -

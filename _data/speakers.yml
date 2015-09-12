@@ -151,27 +151,27 @@
 #  social:
 #    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
 #-
-#  id: 15
-#  name: "Bianca"
-#  surname: "Toledo"
-#  company: "Computer Science Student"
-#  title: "Fresno City College"
-#  bio: "Bianca Toledo is an 18-year-old Computer Science major at Fresno City and Clovis Community College. Aside from years of practice in graphic design, she also has years of experience in HTML5 and CSS3 and is currently expanding her knowledge of web development at Geekwise Academy. Other languages she is currently learning are Java and C++ programming."
-#  thumbnailUrl: Bianca.png
-#  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
-#-
-#  id: 16
-#  name: "Karl"
-#  surname: "Rummler"
-#  company: "Computer Science Student"
-#  title: "Fresno City College"
-#  bio: "Karl is currently in his first year at Fresno City College studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in high school, studying at the start of the first Geekwise Academy Program. "
-#  thumbnailUrl: KarlRummler.jpg
-#  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
+  id: 15
+  name: "Bianca"
+  surname: "Toledo"
+  company: "Computer Science Student"
+  title: "Fresno City College"
+  bio: "Bianca Toledo is an 18-year-old Computer Science major at Fresno City and Clovis Community College. Aside from years of practice in graphic design, she also has years of experience in HTML5 and CSS3 and is currently expanding her knowledge of web development at Geekwise Academy. Other languages she is currently learning are Java and C++ programming."
+  thumbnailUrl: Bianca.png
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
+-
+  id: 16
+  name: "Karl"
+  surname: "Rummler"
+  company: "Computer Science Student"
+  title: "Fresno City College"
+  bio: "Karl is currently in his first year at Fresno City College studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in high school, studying at the start of the first Geekwise Academy Program. "
+  thumbnailUrl: KarlRummler.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
 #-
 #  id: 17
 #  name: "Pooja"
@@ -194,17 +194,17 @@
 #  rockstar: true
 #  social:
 #    - {name: "twitter", link: "https://twitter.com/MikeTwohey"}
-#-
-#  id: 19
-#  name: "Victoria"
-#  surname: "Solomon"
-#  company: "Fresno Tech Women"
-#  title: "Fresno Tech Women Organizer and all around amazing lady!"
-#  bio: "Victoria is an Enterprise Content Management Specialist for Tulare County Information & Communications Technology. She enjoys learning about front-end web development and user interface design. Victoria is an organizer of Fresno Tech Women (FTW), a monthly meetup for women interested in technology in the Central Valley."
-#  thumbnailUrl: victoria.jpg
-#  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}
+-
+  id: 19
+  name: "Victoria"
+  surname: "Solomon"
+  company: "Fresno Tech Women"
+  title: "Fresno Tech Women Organizer and all around amazing lady!"
+  bio: "Victoria is an Enterprise Content Management Specialist for Tulare County Information & Communications Technology. She enjoys learning about front-end web development and user interface design. Victoria is an organizer of Fresno Tech Women (FTW), a monthly meetup for women interested in technology in the Central Valley."
+  thumbnailUrl: victoria.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}
 #-
 #  id: 20
 #  name: "Adam"
