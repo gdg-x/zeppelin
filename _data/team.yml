@@ -18,7 +18,7 @@
   thumbnailUrl: riowaller.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG/WTM", title: "Google Developer Group Organzier/Women Tech Makers Lead"}
   social: 
     - {name: "google-plus", link: "https://google.com/+RioWaller"}
     - {name: "twitter", link: "https://twitter.com/riowaller"}
@@ -92,5 +92,7 @@
   bio: "Victoria is an Enterprise Content Management Specialist for Tulare County Information & Communications Technology. She enjoys learning about front-end web development and user interface design. Victoria is an organizer of Fresno Tech Women (FTW), a monthly meetup for women interested in technology in the Central Valley."
   thumbnailUrl: victoria.jpg
   subTeam: true
+  ribbon:
+     - {abbr: "GDG/WTM", title: "Google Developer Group Organzier/Women Tech Makers Lead"}
   social: 
     - {name: "google-plus", link: "https://google.com/+VictoriaSoloman"}
