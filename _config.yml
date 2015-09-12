@@ -59,9 +59,9 @@ typeoutFallback: "@ FCC"
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Design Sprints! Want some real teambuilding? Grab your team and join our hackathon!" }
+ - {title: "Code Labs", image: "conference.jpg", text: "Workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
+ - {title: "Talks", image: "workshop.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
+ - {title: "Office Hours", image: "hackathon.jpg", text: "Ask questions, make connections!!!" }
 
 # Statistic Block
 aboutTitle: "2015 DevFest Plans"
