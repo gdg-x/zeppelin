@@ -41,7 +41,7 @@
   title: "Go and App Engine"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: code lab
-  speakers: []
+  speakers: [6]
   complexity: "Intermediate"
 
 -
@@ -57,7 +57,7 @@
   title: "Polymer Element Creation"
   description: "More to Come"
   subtype: Code Lab
-  speakers: []
+  speakers: [4, 8]
   complexity: "Advanced"
 
 -
@@ -65,7 +65,7 @@
   title: "Google Cloud Spin"
   description: "More to Come"
   subtype: Tak
-  speakers: [2]
+  speakers: []
   complexity: "Advanced"
 
 -
