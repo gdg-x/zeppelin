@@ -10,7 +10,7 @@
       - {abbr: "Cloud", title: "Google Cloud Platform"}
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+ZenoRochaBN"}
+    - {name: "google-plus", link: "https://plus.google.com/+mimming/"}
 -
   id: 3
   name: "Zeno"
@@ -37,17 +37,17 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://google.com/+justinribeiro"}
-#-
-#  id: 5
-#  name: "Aaron"
-#  surname: "Roberson"
-#  company: "OnFarm Systems"
-#  title: "Software Engineer"
-#  bio: "Aaron Roberson is a JavaScript and AngularJS enthusiast with over 12 years of experience as a software engineer. He’s held contracts with the U.S. Fish & Wildlife Service as well as Esri, a global GIS software provider. Currently, Aaron is a Senior Software Developer at OnFarm Systems. He’s also a former instructor at the Institute of Technology and is now teaching at the Geekwise Academy."
-#  thumbnailUrl: aaronroberson.jpg
-#  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+AaronRoberson"}
+-
+  id: 5
+  name: "Aaron"
+  surname: "Roberson"
+  company: "OnFarm Systems"
+  title: "Software Engineer"
+  bio: "Aaron Roberson is a JavaScript and AngularJS enthusiast with over 12 years of experience as a software engineer. He’s held contracts with the U.S. Fish & Wildlife Service as well as Esri, a global GIS software provider. Currently, Aaron is a Senior Software Developer at OnFarm Systems. He’s also a former instructor at the Institute of Technology and is now teaching at the Geekwise Academy."
+  thumbnailUrl: aaronroberson.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+AaronRoberson"}
 
 - 
   id: 6
