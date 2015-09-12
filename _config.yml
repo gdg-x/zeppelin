@@ -60,16 +60,18 @@ typeoutFallback: "@ FCC"
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the California Central Valley carefully crafted for you by your local GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full day of workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full day freestyle Design Sprints! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Design Sprints! Want some real teambuilding? Grab your team and join our hackathon!" }
 
 # Statistic Block
-aboutTitle: "Statistics for 2014 DevFest"
+aboutTitle: "2015 DevFest Plans"
 statisticBlock:
- - {count: "320", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from our community and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350+", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "6", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: "from our community and beyond"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "office hours"}
+ - {count: "2", specialCharacter: "", info: "gde", detail: "google developer expert"}
+ - {count: "1", specialCharacter: "", info: "googlere", detail: "person some google - so far!!"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
