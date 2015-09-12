@@ -71,7 +71,7 @@ statisticBlock:
  - {count: "15", specialCharacter: "+", info: "speakers", detail: "from our community and beyond"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus office hours"}
  - {count: "2", specialCharacter: "", info: "gde", detail: "google developer expert"}
- - {count: "1", specialCharacter: "", info: "googler", detail: "= person some google!!"}
+ - {count: "1", specialCharacter: "", info: "googler", detail: "= person from google!!"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
