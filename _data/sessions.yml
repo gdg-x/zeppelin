@@ -64,8 +64,8 @@
   id: 011
   title: "Google Cloud Spin"
   description: "More to Come"
-  subtype: Talk
-  speakers: []
+  subtype: Tak
+  speakers: [2]
   complexity: "Advanced"
 
 -
@@ -84,10 +84,14 @@
   complexity: "Advanced"
 -
   id: 014
-  title: "Games and Cloud"
-  description: "More to Come"
+  title: "Hacking IoT Stuaff"
+  description: "Everyone seems to be talking about the Internet of Things. From houseplants to ice machines, from fitness bracelets to fish tanks: It's all fair game.
+
+                                Hacking around with IoT stuff is a lot of fun, but the learning curve can be intimidating, and early validation of your idea is critical. You need to be confident that your plan is going to work before you print 1000 circuit boards.
+
+                                In this talk Jenny Tong, a Developer Advocate on Google Cloud Platform, will show you how node.js, Firebase, and development boards come together to make your IoT project real. We'll build the hello world of electronics on stage, and then divert our attention to a worthy target: connecting children's tabletop games to the Internet."
   subtype: Talk
-  speakers: []
+  speakers: [2]
   complexity: "Advanced"
 
 #-
