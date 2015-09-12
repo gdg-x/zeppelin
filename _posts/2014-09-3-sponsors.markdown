@@ -8,7 +8,7 @@ GDG DevFests are volunteer run events focused on inspiring local developers who 
 
 #### Sponsors make all the difference!!
 
-We are currently looking to fill sponsor positions for DevFest Fresno 2014 and would love to determine if this opportunity is a good fit for your organization.
+We are currently looking to fill sponsor positions for DevFest Fresno 2015 and would love to determine if this opportunity is a good fit for your organization.
 
 
 #### About our Group
