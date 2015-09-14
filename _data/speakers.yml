@@ -83,6 +83,19 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+JamesDuvallIV"}
     - {name: "twitter", link: "https://twitter.com/jamesduvall"}
+-
+  id: 9
+  name: "Level"
+  surname: "Up"
+  company: "Level Up Inc"
+  title: "Our Team"
+  bio: "Is a non-profit organization that is focused in teaching underprivileged and underrepresented youth how to code. Inspiring them to pursue a career in being a developer with a interactive curriculum filled with activities that help engage them to the content.  Giving them the chance to interact with the greatest minds who will become a beacon for them."
+  thumbnailUrl: levelup.png
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+JamesDuvallIV"}
+    - {name: "twitter", link: "https://twitter.com/jamesduvall"}
+
 #-
 #  id: 9
 #  name: "Joshwin"
