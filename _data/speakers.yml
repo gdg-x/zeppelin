@@ -167,8 +167,8 @@
   id: 15
   name: "Bianca"
   surname: "Toledo"
-  company: "Computer Science Student"
-  title: "Fresno City College"
+  company: "Level Up Club"
+  title: "Computer Science Student"
   bio: "Bianca Toledo is an 18-year-old Computer Science major at Fresno City and Clovis Community College. Aside from years of practice in graphic design, she also has years of experience in HTML5 and CSS3 and is currently expanding her knowledge of web development at Geekwise Academy. Other languages she is currently learning are Java and C++ programming."
   thumbnailUrl: Bianca.png
   rockstar: true
@@ -178,8 +178,8 @@
   id: 16
   name: "Karl"
   surname: "Rummler"
-  company: "Computer Science Student"
-  title: "Fresno City College"
+  company: "Level Up Club"
+  title: "Computer Science Student"
   bio: "Karl is currently in his first year at Fresno City College studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in high school, studying at the start of the first Geekwise Academy Program. "
   thumbnailUrl: KarlRummler.jpg
   rockstar: true
