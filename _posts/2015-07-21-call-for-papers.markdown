@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-10-08 09:00:00
+date:   2015-10-08 09:00:00
 isStaticPost: false
 ---
 GDG DevFest Porto 2015 will be held 17th of October in ancient city of Porto. If you want to be part of this great event as a speaker you knocked at the good door.
