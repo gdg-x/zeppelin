@@ -142,11 +142,11 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "80"
   ribbon: "-100%"
-  buyButtonLink: ""
+  buyButtonLink: "javascript:alert('We will release the speakers, sponsors and open the ticket line on the 17th of September');"
   buyButtonText: "Buy ticket"
   ticketContentList: ["Available on 17th of September", "Just 80 tickets available", "Don't miss this opportunity!"]
-  validFrom: "2015-09-01T10:00"
-  validThrough: "2015-10-15T23:59"
+  validFrom: "2015-09-17T10:00"
+  validThrough: "2015-10-16T23:59"
 
 # Footer
 socialLinks:
