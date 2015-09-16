@@ -118,8 +118,8 @@ venueFeatures: ["Great location", "Located near FEUP and ISEP"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "opodevfest"
+twitterFeed: "https://queryfeed.net/tw?q=%23devfestopo"
 
 # Partners Block
 organizersTitle: "Organizers"
