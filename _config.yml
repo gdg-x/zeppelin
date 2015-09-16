@@ -118,7 +118,7 @@ venueFeatures: ["Great location", "Located near FEUP and ISEP"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "opodevfest"
+twitterHashTag: "devfestopo"
 twitterFeed: "https://queryfeed.net/tw?q=%23devfestopo"
 
 # Partners Block
