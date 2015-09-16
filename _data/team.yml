@@ -32,15 +32,14 @@
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/108149312466048440019/posts"}
-    
-    
+-     
   id: 3
   name: "Joana"
   surname: "Moreira"
   title: "Design"
   thumbnailUrl: joana_moreira.jpg
   subTeam: true
-    
+-     
   id: 4
   name: "Rafael"
   surname: "Viana
