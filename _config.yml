@@ -142,7 +142,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "80"
   ribbon: "-100%"
-  buyButtonLink: "javascript:alert('We will release the speakers, sponsors and open the ticket line on the 17th of September');"
+  buyButtonLink: "http://www.last2ticket.com/ev1317-Bilhetes-Online-GDG-DevFest-Porto-2015"
   buyButtonText: "Buy ticket"
   ticketContentList: ["Available on 17th of September", "Just 80 tickets available", "Don't miss this opportunity!"]
   validFrom: "2015-09-17T10:00"
