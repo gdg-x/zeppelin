@@ -1,7 +1,7 @@
 - 
   group: "Platinum Sponsor"
   elements: 
-    - {name: "WIT", description: "WIT", link: "https://www.wit-software.com", imageUrl: "wit.eps"}
+    - {name: "WIT", description: "WIT", link: "https://www.wit-software.com", imageUrl: "wit.png"}
     
   group: "Gold Sponsor"
 - elements: 
