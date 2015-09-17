@@ -4,11 +4,11 @@
     - {name: "WIT", description: "WIT", link: "https://www.wit-software.com", imageUrl: "wit.png"}
 -
   group: "Gold Sponsor"
-- elements: 
+  elements: 
     - {name: "Mindera", description: "Mindera", link: "https://www.mindera.com", imageUrl: "mindera.png"}
 -
   group: "Bronze Sponsor"
-  - elements: 
+  elements: 
     - {name: "Edigma", description: "Edigma", link: "https://www.edigma.com", imageUrl: "edigma.png"}
 -
   group: "With support of"
