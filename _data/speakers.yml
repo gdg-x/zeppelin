@@ -5,7 +5,7 @@
   company: ""
   title: "Software Engineer"
   bio: "Carlos is a strong believer that the answer to life, the universe and everything is 42. He has been developing mobile applications for 4 years now. He first met Android during his master thesis at the University of Coimbra, Portugal – it was a rough start (although way better than Java ME); Cupcake was still on an early stage but since then we’ve come a long way and it is now a breeze developing for Lollipop – with an extraordinary new (material) design - and at the time of this writing, to Marshmallow. Working at WIT Software he has been developing several applications – currently you can find him working on the company RCSe applications for Android."
-  thumbnailUrl: speaker_carlos_mota.png
+  thumbnailUrl: speaker_carlos_mota.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/113424350630896111871/"}
@@ -50,7 +50,7 @@
   title: "-"
   bio: "..."
   thumbnailUrl: tobeconfirmed.png
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
@@ -105,7 +105,7 @@
   company: ""
   title: "Android Craftsman"
   bio: ""
-  thumbnailUrl: vicente.png
+  thumbnailUrl: vicente.jpg
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PedroVicenteNeTeInStEiN/"}    
