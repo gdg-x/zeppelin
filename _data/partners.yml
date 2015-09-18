@@ -1,23 +1,23 @@
 - 
-  group: "General sponsor"
+  group: "Platinum Sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "WIT", description: "WIT", link: "https://www.wit-software.com", imageUrl: "wit.png"}
+- 
+  group: "Gold Sponsor"
+  elements: 
+    - {name: "Mindera", description: "Mindera", link: "https://www.mindera.com", imageUrl: "mindera.png"}
+- 
+  group: "Bronze Sponsor"
+  elements: 
+    - {name: "Edigma", description: "Edigma", link: "https://www.edigma.com", imageUrl: "edigma.png"}
 - 
   group: "With support of"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "Google", description: "Google", link: "https://www.google.com", imageUrl: "google.svg"}
+    - {name: "UPTEC", description: "UPTEC - Science and Technology Park of the University of Porto", link: "https://www.http://uptec.up.pt/", imageUrl: "uptec-small.png"}
+    - {name: "Last2Ticket", description: "Last2Ticket", link: "https://www.Last2Ticket.com", imageUrl: "last2ticket.png"}
 - 
   group: "Information partners"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
