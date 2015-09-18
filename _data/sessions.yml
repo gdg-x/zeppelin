@@ -6,7 +6,8 @@
   subtype: keynote
   speakers: [10]
   language: en
-  video: ""
+  complexity: "Beginner"
+  video: "#"
 -
   id: 001
   title: "Android TV Strangelove"
@@ -15,7 +16,7 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
-  video: ""
+  video: "#"
 -
   id: 002
   title: "To be announced"
