@@ -30,9 +30,8 @@
   thumbnailUrl: tobeconfirmed.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
-    
-    - 
+    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
+- 
   id: 4
   name: "Soon"
   surname: "..."
@@ -99,7 +98,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
 
-	
+-
   id: 10
   name: "Pedro"
   surname: "Vicente"
