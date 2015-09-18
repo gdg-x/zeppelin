@@ -113,7 +113,7 @@
   place: "Auditório UPTEC"
   description: "A farwell with some prizes? Who knows..."
   subtype: keynote
-  speakers: [1]
+  speakers: [10]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/dQw4w9WgXcQ"
