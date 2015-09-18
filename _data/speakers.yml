@@ -17,7 +17,7 @@
   title: "-"
   bio: "..."
   thumbnailUrl: tobeconfirmed.png
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}
 - 
@@ -28,7 +28,7 @@
   title: "-"
   bio: "..."
   thumbnailUrl: tobeconfirmed.png
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
 - 
