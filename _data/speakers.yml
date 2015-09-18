@@ -97,15 +97,14 @@
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
-
 -
   id: 10
-  name: "Pedro"
-  surname: "Vicente"
+  name: "GDG"
+  surname: "Porto"
   company: "Opening Keynote"
-  title: "GDG Porto Co-Organizer"
+  title: "GDG Porto Organizers"
   bio: ""
-  thumbnailUrl: vicente.jpg
+  thumbnailUrl: gdgporto.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+PedroVicenteNeTeInStEiN/"}    
+    - {name: "google-plus", link: "https://plus.google.com/+GDGPorto/"}    
