@@ -60,6 +60,18 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+AhsenBaig"}
+
+-
+  id: 8
+  name: "Jim"
+  surname: "Hutson"
+  title: "GDG Modesto Organizer"
+  thumbnailUrl: jimh.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JimHutson"}
 - 
   id: 5
   name: "Mark"
