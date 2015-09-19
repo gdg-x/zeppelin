@@ -15,7 +15,10 @@
  #   - {name: "Teknode", description: "Teknode Technology Solutions", link: "http://teknode.net/", imageUrl: "teknode.png"}
  #   - {name: "Bolt Ether", description: "Bolt Ether", imageUrl: "be.png"}
 
-    
+-
+  group: "Together with"
+  elements:
+    - {name: "Level Up Club", description: "Level Up Club", link: "http://www.levelupclub.org", imageUrl: "levelup.png"}
 
 - 
   group: "Location Sponsors"
