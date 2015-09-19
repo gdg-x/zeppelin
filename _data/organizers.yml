@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Fresno", description: "GDG Fresno - Open and volunteer geek community", link: "http://www.gdgfresno.com", imageUrl: "GDG_Fresno.svg"}
-    - {name: "GDG Visalia", description: "GDG Visalia - Open and volunteer geek community", link: "http://www.gdgvisalia.com", imageUrl: "GDG_Visalia.svg"}
+    - {name: "GDG Fresno", description: "GDG Fresno - Open and volunteer geek community", link: "http://www.meetup.com/googledevelopers/", imageUrl: "GDG_Fresno.svg"}
+    - {name: "GDG Visalia", description: "GDG Visalia - Open and volunteer geek community", link: "http://www.meetup.com/GDG-Visalia-Google-Developer-Group/", imageUrl: "GDG_Visalia.svg"}
     - {name: "GDG Oakdale", description: "GDG Oakdale - Open and volunteer geek community", link: "http://www.meetup.com/GDG-Oakdale", imageUrl: "GDG_Oakdale.svg"}
     - {name: "GDG Modesto", description: "GDG Modesto - Open and volunteer geek community", link: "http://www.meetup.com/GDG-Modesto-Google-Developer-Group/", imageUrl: "GDG_Modesto.png"}
