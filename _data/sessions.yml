@@ -18,7 +18,7 @@
   title: "HTML/CSS"
   description: "We will cover the basics of HTML/CSS"
   subtype: codelab
-  speakers: [9]
+  speakers: [8]
   complexity: "Beginner"
 
 -
@@ -57,7 +57,7 @@
   title: "Polymer Element Creation"
   description: "More to Come"
   subtype: Code Lab
-  speakers: [4, 8]
+  speakers: [4, 7]
   complexity: "Advanced"
 
 -
