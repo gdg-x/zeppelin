@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Fresno 2015"
-email: "james.cha.zero@gmail.com"
+email: "gdgfresno@gdgfresno.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "http://gdgfresno.github.io/"
