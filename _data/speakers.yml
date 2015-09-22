@@ -72,7 +72,7 @@
 #  social: 
 #    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}
 -
-  id: 7
+  id: 8
   name: "James"
   surname: "Duvall"
   company: "Stickman Ventures, Inc."
@@ -84,7 +84,7 @@
     - {name: "google-plus", link: "https://google.com/+JamesDuvallIV"}
     - {name: "twitter", link: "https://twitter.com/jamesduvall"}
 -
-  id: 8
+  id: 9
   name: "Level"
   surname: "Up Club"
   company: "Level Up Club"
