@@ -1,0 +1,15 @@
+<!-- Begin Top Section -->
+<section id="top-section" class="top-section{% if page.color != null %} top-section-{{page.color}}{% endif %}">
+    <div class="gradient-overlay"></div>
+
+    {% include navigation.html %}
+
+    {% if page.hideTitle == null %}
+    <div class="jumbotron text-left">
+        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+    {% endif %}
+</section>
+<!-- End Top Section -->
