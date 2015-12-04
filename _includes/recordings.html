@@ -1,0 +1,58 @@
+<!-- Begin Recordings -->
+<section id="recordings-{{ include.year }}" class="recordings">
+  <h3>DevFest Vienna {{ include.year }}</h3>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<div class="row text-left appear-animation-trigger">
+				{% for session in site.data.recordings %}
+					{% if session.year == include.year %}
+			    	<div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+				    	<div class="lily-effect ribbon-activator">
+					    	<div class="lily-head" data-toggle="modal" data-target="#session-{{ include.year }}-{{ session.id }}">
+						    	<figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: site.thumbnailsSessions | append: include.year | append: '-' | append: session.thumbnailUrl }})">
+				    				<div class="overlay solid-overlay"></div>
+							    	{% if session.ribbon != null %}
+								      <ul class="ribbon-wrapper">
+							      		{% for ribbon in session.ribbon %}
+								        	<li class="{{ ribbon["abbr"] | downcase }}">
+								        		<p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+										        <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+								        	</li>
+								      	{% endfor %}
+						      		</ul>
+					    			{% endif %}
+							    	<figcaption class="speakercount-{{ session.speakers | size }}">
+							    	  <h2 class="name">
+							      	  {% for session_speaker in session.speakers %}
+							    	      {% for speaker in site.data.speakers %}
+							    	        {% if speaker.id == session_speaker %}
+							    	           {{ speaker.name }} &nbsp; <span>{{ speaker.surname }}</span><br/>
+							    	        {% endif %}
+							    	      {% endfor %}
+							    	    {% endfor %}
+							    	  </h2>
+							    	</figcaption>
+							    	{% for session_speaker in session.speakers %}
+							    	  {% for speaker in site.data.speakers %}
+							    	    {% if speaker.id == session_speaker %}
+							    	      <div class="person-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+							    	    {% endif %}
+							    	  {% endfor %}
+							    	{% endfor %}
+							    </figure>
+					    	</div>
+				    		<div class="lily-bottom">
+						    	<ul class="slider">
+										<li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
+    							</ul>
+					    	</div>
+						    <a href="#" class="slider-next-item hidden">Next</a>
+			    		</div>
+			    	</div>
+			    {% endif %}
+			 	{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Recordings -->

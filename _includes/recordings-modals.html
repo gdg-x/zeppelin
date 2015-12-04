@@ -1,0 +1,73 @@
+<!-- Begin Recordings Modals -->
+<div class="modals">
+  {% for session in site.data.recordings %}
+    <div class="modal fade text-left person-modal" id="session-{{ session.year }}-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionLabel-{{ session.year }}-{{ session.id }}" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+            <div class="close">
+              <svg class="icon icon-cross" viewBox="0 0 32 32">
+                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+              </svg>
+              <div class="close-mask" data-dismiss="modal"></div>
+            </div>
+            <h4>{{ session.title }}</h4>
+            <span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+            {% if session.youtube %}
+              <br/>
+              <div class="youtube" id="{{ session.youtube }}" style="width: 400px; height: 225px;"></div>
+              <!-- <iframe width="400" height="225" src="http://www.youtube.com/embed/{{ session.youtube }}?rel=0" frameborder="0" allowfullscreen=""></iframe> -->
+            {% endif %}
+            {% if session.links | size > 0 %}
+              <h6>Links &amp; Presentation</h6>
+              {% for link in session.links %}
+                <p><a href="{{link.url}}" target="_blank">{{ link.text }}</a></p>
+              {% endfor %}
+            {% endif %}
+            <p class="theme-description">{{ session.description }}</p>
+            <hr/>
+            <div class="person-details">
+              {% for session_speaker in session.speakers %}
+                {% for speaker in site.data.speakers %}
+                  {% if session_speaker == speaker.id %}
+                  <div class="row">
+                    <div class="col-md-2 col-sm-2">
+                      <div class="flow-img img-circle person-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+                    </div>
+                    <div class="col-md-10 col-sm-10 details">
+                      <p class="name">{{ speaker.name }} {{ speaker.surname }}
+                        <span class="position">{{ speaker.title }}{% if speaker.company && speaker.title %}, {% endif %}{{ speaker.company }}</span>
+                      </p>
+                      {% if speaker.ribbon != null %}
+                      <div class="modal-ribbon-wrapper">
+                        {% for ribbon in speaker.ribbon %}
+                           <a class="modal-ribbon" href="ribbon["url"]" target="_blank">{{ ribbon["title"] }}</a>   
+                        {% endfor %}
+                      </div>
+                      {% endif %}
+                      <p class="about">{{ speaker.bio }}</p>
+                      <ul class="social">
+                        {% for social in speaker.social %}
+                          <li>
+                            <a href="{{ social["link"] }}" target="_blank">
+                              <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                              </svg>
+                            </a>
+                          </li>
+                        {% endfor %}
+                      </ul>
+                    </div>
+                  </div>
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+<script src="https://labnol.googlecode.com/files/youtube.js"></script>
+<!-- End Recordings Modals -->
