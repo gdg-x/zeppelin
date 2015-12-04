@@ -44,10 +44,11 @@ c4sponsorsUrl: "/sponsors"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/recordings/", text: "Recordings"}
+ - {permalink: "/schedule/", text: "Schedule (2015)"}
  # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/kids-workshops/", text: "Kids-Workshop (2015)"}
  - {permalink: "/team/", text: "Team"}
- # - {permalink: "/kids-workshops/", text: "Workshop for kids"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
