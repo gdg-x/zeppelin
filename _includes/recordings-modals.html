@@ -12,7 +12,9 @@
               <div class="close-mask" data-dismiss="modal"></div>
             </div>
             <h4>{{ session.title }}</h4>
+            {% if session.language %}
             <span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+            {% endif %}
             {% if session.youtube %}
               <br/>
               <div class="youtube" id="{{ session.youtube }}" style="width: 400px; height: 225px;"></div>
