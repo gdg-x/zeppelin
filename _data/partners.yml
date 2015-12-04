@@ -14,4 +14,4 @@
     - {name: "Ströck", description: "Ströck", link: "http://www.stroeck.at/", imageUrl: "stroeck-logo.png", width: "160px"}
     - {name: "Red Bull", description: "Red Bull", link: "http://www.redbull.com/at/de", imageUrl: "red_bull.png", width: "160px"}
     - {name: "Innocent", description: "Innocent", link: "http://www.innocentdrinks.at/", imageUrl: "innocent-logo.jpg", width: "160px"}
-    - {name: "INiTS", description: "innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.php", width: "160px"}
+    - {name: "INiTS", description: "innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}
