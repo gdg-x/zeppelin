@@ -219,7 +219,8 @@ aboutUs: "The core team of Women Techmakers Vienna 2016 consists of 6 enthusiast
 kidsWStitel: "Learn Game programming by using Scratch"
 
 # location of thumbnails
-thumbnailsFolder: /img/sessions/
+thumbnailsFolder: /img/speakers/
+thumbnailsSessions: /img/sessions/
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
