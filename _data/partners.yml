@@ -3,15 +3,7 @@
   elements: 
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png"}
 -
-  group: "Silver Sponsor"
-  elements:
-    - {name: "Intel", description: "Intel", link: "http://www.intel.com/jobs", imageUrl: "intel-logo.png", width: "200px"}
--
   group: "With support of"
   elements: 
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "160px"}
-    - {name: "Tauber", description: "Tauber", link: "http://www.tauber.at/", imageUrl: "tauber-logo.jpg", width: "160px"}
-    - {name: "Ströck", description: "Ströck", link: "http://www.stroeck.at/", imageUrl: "stroeck-logo.png", width: "160px"}
-    - {name: "Red Bull", description: "Red Bull", link: "http://www.redbull.com/at/de", imageUrl: "red_bull.png", width: "160px"}
-    - {name: "Innocent", description: "Innocent", link: "http://www.innocentdrinks.at/", imageUrl: "innocent-logo.jpg", width: "160px"}
     - {name: "INiTS", description: "innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}
