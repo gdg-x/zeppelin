@@ -5,7 +5,7 @@
             <h3>{{ site.teamBlockTitle }}</h3>
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div class="col-lg-10 col-lg-offset-1 text-center members">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
@@ -32,7 +32,7 @@
             {% endif %} {% endfor %}
         </div>
         {% comment %}
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div class="col-lg-10 col-lg-offset-1 text-center members">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program committee</h4>
             {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
