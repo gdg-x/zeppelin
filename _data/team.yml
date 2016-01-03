@@ -68,3 +68,13 @@
   team: true
   social:
     - {name: "linkedin", link: "http://at.linkedin.com/pub/alexandra-negoescu/60/192/a11"}
+-
+  id: "kariem-hussein"
+  name: "Kariem"
+  surname: "Hussein"
+  title: "Logistics"
+  thumbnailUrl: "KariemHussein.jpg"
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kariem" }
+    - {name: "github", link: "https://github.com/kariem" }
