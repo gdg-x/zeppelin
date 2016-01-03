@@ -25,18 +25,6 @@
     - {name: "twitter", link: "https://twitter.com/angelikix"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/angeliki-chrysochou/53/280/565"}
 - 
-  id: "pia-liszt"
-  name: "Pia"
-  surname: "Liszt"
-  title: "Sponsors Manager"
-  thumbnailUrl: PiaLiszt.jpg
-  team: true
-  ribbon: 
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pialiszt"}
-    - {name: "facebook", link: "https://www.facebook.com/pia.liszt"}
-    - {name: "google-plus", link: "https://plus.google.com/+PiaLiszt"}
-- 
   id: "helmuth-breitenfellner"
   name: "Helmuth"
   surname: "Breitenfellner"
@@ -56,6 +44,8 @@
   title: "Logistics responsible"
   thumbnailUrl: KrisztinaOrosz.jpg
   team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "https://twitter.com/krisz_O"}
     - {name: "linkedin", link: "https://at.linkedin.com/in/krisztinaorosz"}
@@ -75,6 +65,8 @@
   title: "Logistics"
   thumbnailUrl: "KariemHussein.jpg"
   team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/kariem" }
     - {name: "github", link: "https://github.com/kariem" }
