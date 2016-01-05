@@ -90,6 +90,10 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+MarcEdem"}
+    - {name: "twitter", link: "https://twitter.com/marc_edem"}
+    - {name: "facebook", link: "https://www.facebook.com/edemmarc"}
+    - {name: "site", link: "http://www.marcedem.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcedem" }
 -
   id: "philipp-effenberger"
   name: "Philipp"
