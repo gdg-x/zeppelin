@@ -1,13 +1,13 @@
-- 
+-
   id: "krisztina-orosz"
   name: "Krisztina"
   surname: "Orosz"
   title: "Team Leader"
   thumbnailUrl: KrisztinaOrosz.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/krisz_O"}
     - {name: "linkedin", link: "https://at.linkedin.com/in/krisztinaorosz"}
 -
@@ -17,22 +17,22 @@
   title: "Partnerships"
   thumbnailUrl: TimeaTurdean.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+TimeaTurdean_imy"}
     - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
     - {name: "github", link: "https://github.com/therealimy"}
     - {name: "facebook", link: "https://www.facebook.com/timea.turdean"}
     - {name: "site", link: "http://www.timeaturdean.com/"}
-- 
+-
   id: "angeliki-chrysochou"
   name: "Angeliki"
   surname: "Chrysochou"
   title: "Content and Speakers"
   thumbnailUrl: AngelikiChrysochou.jpg
   team: true
-  ribbon: 
+  ribbon:
   social:
     - {name: "twitter", link: "https://twitter.com/angelikix"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/angeliki-chrysochou/53/280/565"}
@@ -44,21 +44,24 @@
   thumbnailUrl: "PilarHuidobro.png"
   team: true
   social:
+    - {name: "twitter", link: "https://twitter.com/Althaire"}
     - {name: "github", link: "https://github.com/Althaire"}
-- 
+    - {name: "facebook", link: "https://www.facebook.com/pilar.huidobro"}
+    - {name: "site", link: "althaire.github.io"}
+-
   id: "helmuth-breitenfellner"
   name: "Helmuth"
   surname: "Breitenfellner"
   title: "Fund Raising"
   thumbnailUrl: HelmuthBreitenfellner.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+HelmuthBreitenfellner"}
     - {name: "twitter", link: "https://twitter.com/helmuthb"}
     - {name: "github", link: "https://github.com/helmuthb"}
-- 
+-
   id: "alexandra-negoescu"
   name: "Alexandra"
   surname: "Negoescu"
@@ -74,7 +77,7 @@
   title: "Logistics"
   thumbnailUrl: "KariemHussein.jpg"
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/kariem" }
@@ -88,7 +91,7 @@
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://google.com/+MarcEdem"}
     - {name: "twitter", link: "https://twitter.com/marc_edem"}
     - {name: "facebook", link: "https://www.facebook.com/edemmarc"}
