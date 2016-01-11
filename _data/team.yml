@@ -1,4 +1,4 @@
--
+hht-
   id: "krisztina-orosz"
   name: "Krisztina"
   surname: "Orosz"
@@ -47,7 +47,7 @@
     - {name: "twitter", link: "https://twitter.com/Althaire"}
     - {name: "github", link: "https://github.com/Althaire"}
     - {name: "facebook", link: "https://www.facebook.com/pilar.huidobro"}
-    - {name: "site", link: "althaire.github.io"}
+    - {name: "site", link: "http://althaire.github.io"}
 -
   id: "helmuth-breitenfellner"
   name: "Helmuth"
