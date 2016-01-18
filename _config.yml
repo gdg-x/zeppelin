@@ -49,7 +49,7 @@ navigationLinks:
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/kids-workshops/", text: "Kids-Workshop (2015)"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/call/", text: "Call"}
+ - {permalink: "/call/", text: "Call for Speakers"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
