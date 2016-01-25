@@ -25,6 +25,6 @@ Please send in your talk proposal until **7th of February 2016**. All talk propo
 We are here for you! Feel free to contact us for further information or if you need any support with creating your talk proposal.
 
 Please fill out this simple form here:<br>
-<a href="http://goo.gl/forms/k1AH70b0Cp" role="button">Talk Submission</a>
+<a class="btn btn-success" href="http://goo.gl/forms/k1AH70b0Cp" role="button">Talk Submission</a>
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/call.jpg" style="display:none">
