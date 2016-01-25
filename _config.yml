@@ -53,9 +53,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- #- {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
 rightNavigationButtons:
- #- {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -64,7 +64,7 @@ eventDate: "12 March 2016"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
- #- {link: "https://wtm-vienna-2015.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
