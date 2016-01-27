@@ -49,6 +49,15 @@
     - {name: "facebook", link: "https://www.facebook.com/pilar.huidobro"}
     - {name: "site", link: "http://althaire.github.io"}
 -
+  id: "helga-turcanu"
+  name: "Helga"
+  surname: "Turcanu"
+  title: "Information Technology"
+  thumbnailUrl: "HelgaTurcanu.jpg"
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hturcanu"}
+-
   id: "helmuth-breitenfellner"
   name: "Helmuth"
   surname: "Breitenfellner"
