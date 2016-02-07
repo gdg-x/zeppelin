@@ -67,7 +67,7 @@ eventDate: "12 March 2016"
 # typeoutFallback: "2015"
 heroButtons:
  - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
- - {permalink: "/call/", text: "Call for Speakers"}
+# - {permalink: "/call/", text: "Call for Speakers"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
