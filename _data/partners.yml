@@ -1,7 +1,7 @@
 - 
   group: "General Sponsor"
   elements: 
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png", width: "200px"}
 -
   group: "Gold Sponsor"
   elements:
@@ -9,5 +9,5 @@
 -
   group: "With support of"
   elements: 
-    - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "160px"}
+    - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "180px"}
     - {name: "INiTS", description: "INiTS - innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}

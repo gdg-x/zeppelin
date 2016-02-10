@@ -5,4 +5,4 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "JSUG Vienna", description: "JSUG Vienna - Java (Student) User Group", link: "http://jsug.at", imageUrl: "jsug.png"}
+    - {name: "JSUG Vienna", description: "JSUG Vienna - Java (Student) User Group", link: "http://jsug.at", imageUrl: "jsug.png", width: "120px"}
