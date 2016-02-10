@@ -5,9 +5,9 @@
 -
   group: "Gold Sponsor"
   elements:
-    - {name: "Compass", description: "Information für Ihren Vorteil", link: "http://www.compass.at/", imageUrl: "compass-logo.png", width: "200px"}
+    - {name: "Compass", description: "Compass Gruppe - Information für Ihren Vorteil", link: "http://www.compass.at/", imageUrl: "compass-logo.jpg", width: "220px"}
 -
   group: "With support of"
   elements: 
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "160px"}
-    - {name: "INiTS", description: "innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}
+    - {name: "INiTS", description: "INiTS - innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}
