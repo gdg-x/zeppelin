@@ -5,7 +5,7 @@
 -
   group: "Gold Sponsor"
   elements:
-    - {name: "Compass", description: "Compass Gruppe - Information für Ihren Vorteil", link: "http://www.compass.at/", imageUrl: "compass-logo.jpg", width: "220px"}
+    - {name: "Compass", description: "Compass Gruppe - Information für Ihren Vorteil", link: "http://www.compass.at/", imageUrl: "compass-logo.jpg", width: "280px"}
 -
   group: "With support of"
   elements: 
