@@ -120,7 +120,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 
 See [list of contributors](https://github.com/gdg-x/zepplin/graphs/contributors)
 
-Maintainers: [@tasomaniac](https://github.com/tasomaniac) and @ozasadnyy](https://github.com/ozasadnyy)
+Maintainers: [@tasomaniac](https://github.com/tasomaniac) and [@ozasadnyy](https://github.com/ozasadnyy).
 
 ### License
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
