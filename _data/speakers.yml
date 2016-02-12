@@ -37,7 +37,7 @@
   rockstar: true
   active: true
   social:
-    - {name: "linkedin", link: https://www.linkedin.com/in/astridwoollard"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/astridwoollard"}
 -
   id: "rina-ahmed"
   name: "Rina"
