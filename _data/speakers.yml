@@ -46,6 +46,7 @@
   title: "Technical Evangelist"
   bio: "Rina is a Technical Evangelist at Microsoft Austria and works with developers on apps for the Windows platform. Previously she has been working as a database developer in a large international organization."
   thumbnailUrl: "RinaAhmed.jpg"
+  active: true
   social:
     - {name: "twitter", link: "https://twitter.com/rinaahm"}
   rockstar: true
