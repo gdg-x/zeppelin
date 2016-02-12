@@ -5,12 +5,39 @@
   company: "Google Developer Group"
   title: "Team leader"
   thumbnailUrl: "TimeaTurdean.jpg"
+  rockstar: true
+  active: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+TimeaTurdean_imy"}
     - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
     - {name: "github", link: "https://github.com/therealimy"}
     - {name: "facebook", link: "https://www.facebook.com/timea.turdean"}
     - {name: "site", link: "http://www.timeaturdean.com/"}
+-
+  id: "sanja-selak"
+  name: "Sanja"
+  surname: "Selak"
+  company: "Origimm (‘Origins of Immunity’)"
+  title: "Founder, inventor and CEO"
+  bio: "Dr. Sanja Selak is the founder, inventor and CEO of Origimm (‘Origins of Immunity’), an Austrian biotechnology company which is developing a completely new way of treating common acne, based on immunotherapy against one of the main causes of acne, the bacterium Propionibacterium acnes."
+  thumbnailUrl: "SanjaSelak.jpg"
+  rockstar: true
+  active: true
+  social:
+    - {name: "linkedin", link: "https://at.linkedin.com/in/sselak"}
+    - {name: "site", link: "http://www.origimm.com"}
+-
+  id: "astrid-woollard"
+  name: "Astrid"
+  surname: "Woollard"
+  company: "Institute of Science and Technology Austria"
+  title: "Independent IP strategy advisor for startups"
+  bio: "Dr Astrid Woollard is a technology transfer professional with vast experience in establishing and running companies (including IP strategy, business strategy, business development, and fundraising)."
+  thumbnailUrl: "AstridWoollard.jpg"
+  rockstar: true
+  active: true
+  social:
+    - {name: "linkedin", link: https://www.linkedin.com/in/astridwoollard"}
 -
   id: "rina-ahmed"
   name: "Rina"

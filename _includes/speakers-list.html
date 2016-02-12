@@ -4,6 +4,7 @@
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
+                {% if speaker.active %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
@@ -48,6 +49,7 @@
                         </div>
                     </div>
                 </div>
+                {% endif %}
                 {% endfor %}
             </div> 
 <!--
