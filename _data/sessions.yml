@@ -26,6 +26,13 @@
   place: "Hall"
   service: true
 -
+  id: 102
+  title: "Idea > Invention > Innovation"
+  place: "Hall"
+  description: "From awesome academia and brilliant business into technology transfer.<br><br>In her talk, Astrid will take you on a journey from science and business into technology transfer. She will share her experiences of working in the highly competitive tech world, and will highlight examples of some of the successful and inspiring female entrepreneurs she encountered during her career."
+  subtype: "presentation"
+  speakers: ["astrid-woollard"]
+-
   id: 905
   title: "Simonetta Di Pippo - UNOOSA"
   place: "Hall"
@@ -57,14 +64,6 @@
   speakers: ["melania-gagea"]
   language: en
 -
-  id: 102
-  title: "Computational Aspects of Material Science"
-  place: "Room 1"
-  description: "Understanding, predicting and designing new materials and devices from electronic structure calculations.<br>The Major points I will be covering during my talk:<ul><li>The history of computational simulations / why do we need quantum physics?</li><li>Why do we do simulations? What are we aiming for? How do we do it? What are the steps that we are taking for a complete research?</li><li>Examples</li><li>Nobel prizes in the field and how it turns out to be very useful in everyday life</li></ul>"
-  subtype: presentation
-  speakers: ["zeynep-ergonenc"]
-  language: en
--
   id: 103
   title: "Let's be more than our job description"
   place: "Room 1"
@@ -74,11 +73,11 @@
   language: en
 -
   id: 200
-  title: "Workshop: Microsoft Azure"
+  title: "Workshop: Overcoming Impostor Syndrome"
   place: "Room 2"
-  description: "In this workshop you will get an introduction to services from the cloud on Microsoft Azure. We will set up and configure a website together in the cloud."
+  description: "Do you feel like a fraud? Are you not sure whether you can do the work you are supposed to?<br><br>You are not alone, and many high-achievers are unable to internalize and accept their successes. They often attribute their accomplishments to luck rather than to ability, and fear that others will eventually unmask them as a fraud.<br>This workshop will help you identify and deal with the impostor syndrome. You will make the first steps in overcoming your fears and foster your confidence in your abilities."
   subtype: workshop
-  speakers: ["rina-ahmed"]
+  speakers: ["timea-turdean"]
   language: en
 -
   id: 300
