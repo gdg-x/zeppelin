@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Presentations", color: "#90be4e"}
     - {title: "Workshops", color: "#be904e"}
-    - {title: "Kid's Workshops", color: "#03a9f4"}
+    - {title: "Kids' Workshops", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:00",

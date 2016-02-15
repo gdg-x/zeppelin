@@ -12,7 +12,7 @@
   service: true
 -
   id: 201
-  title: "Kinder-Workshop"
+  title: "Kids' Workshop"
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
@@ -20,7 +20,7 @@
   subtitle: "9:30 - 11:40"
 -
   id: 202
-  title: "Kinder-Workshop"
+  title: "Kids' Workshop"
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
