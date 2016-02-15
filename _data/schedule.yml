@@ -7,62 +7,87 @@
     - {title: "Kid's Workshops", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:30",
+    	startTime: "09:00",
+    	endTime: "09:30",
     	sessionIds: [900]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "09:45",
+        sessionIds: [901, 0, 201]
+    }
+    - {
+    	startTime: "09:45",
+    	endTime: "10:30",
+    	sessionIds: [100, 0, 201]
     }
     - {
         startTime: "10:30",
         endTime: "10:45",
-        sessionIds: [901]
+        sessionIds: [300, 0, 201]
     }
     - {
-    	startTime: "10:45",
-    	endTime: "11:45",
-    	sessionIds: [100, 0, 500]
+        startTime: "10:45",
+        endTime: "11:30",
+        sessionIds: [101, 0, 201]
     }
     - {
-        startTime: "11:45",
-        endTime: "12:00",
-        sessionIds: [905, 0, 500]
+        startTime: "11:30",
+        endTime: "11:40",
+        sessionIds: [301, 0, 201]
     }
     - {
-        startTime: "12:00",
-        endTime: "12:45",
-        sessionIds: [101, 0, 500]
-    }
-    - {
-        startTime: "12:45",
-        endTime: "13:45",
+        startTime: "11:40",
+        endTime: "12:30",
         sessionIds: [902]
     }
     - {
+        startTime: "12:30",
+        endTime: "12:45",
+        sessionIds: [300, 200, 201]
+    }
+    - {
+        startTime: "12:45",
+        endTime: "13:30",
+        sessionIds: [102, 200, 201]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "13:45",
+        sessionIds: [300, 200, 201]
+    }
+    - {
         startTime: "13:45",
-        endTime: "14:00",
-        sessionIds: [906, 0, 500]
+        endTime: "14:30",
+        sessionIds: [103, 200, 201]
     }
     - {
-        startTime: "14:00",
+        startTime: "14:30",
         endTime: "15:00",
-        sessionIds: [102, 200, 500]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "16:00",
-        sessionIds: [103, 200, 500]
-    }
-    - {
-        startTime: "16:00",
-        endTime: "16:45",
-        sessionIds: [300]
-    }
-    - {
-        startTime: "16:45",
-        endTime: "17:00",
         sessionIds: [903]
     }
     - {
-        startTime: "17:00",
-        endTime: "-",
+        startTime: "15:00",
+        endTime: "15:45",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "15:45",
+        endTime: "16:30",
+        sessionIds: [105]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:15",
+        sessionIds: [106]
+    }
+    - {
+        startTime: "17:15",
+        endTime: "18:00",
         sessionIds: [904]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "-",
+        sessionIds: [905]
     }

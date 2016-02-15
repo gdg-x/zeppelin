@@ -2,97 +2,112 @@
   id: 0
 -
   id: 900
-  title: "Registration"
+  title: "Registration and Coffee"
   place: "Hall"
   service: true
 -
   id: 901
-  title: "Welcome"
+  title: "Welcome and Intro to WTM"
   place: "Hall"
   service: true
 -
-  id: 902
-  title: "Lunch Break"
-  place: "Hall"
-  service: true
+  id: 201
+  title: "Kinder-Workshop"
+  place: "Room 2"
+  description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
+  subtype: workshop
+  language: de
 -
-  id: 903
-  title: "Closing"
-  place: "Hall"
-  service: true
+  id: 100
+  title: "Session #1 (TBA)"
+  place: "Room 1"
+  description: "More details coming soon"
+  subtype: presentation
+  language: en
 -
-  id: 904
-  title: "Networking"
-  place: "Hall"
-  service: true
+  id: 300
+  title: "Partners"
+  place: "Room 1"
+  description: "Presentation of and by our partners for Women Techmakers Vienna 2016"
+  subtype: "presentation"
+  language: "en"
 -
-  id: 102
+  id: 101
   title: "Idea > Invention > Innovation"
   place: "Hall"
   description: "From awesome academia and brilliant business into technology transfer.<br><br>In her talk, Astrid will take you on a journey from science and business into technology transfer. She will share her experiences of working in the highly competitive tech world, and will highlight examples of some of the successful and inspiring female entrepreneurs she encountered during her career."
   subtype: "presentation"
   speakers: ["astrid-woollard"]
 -
-  id: 905
-  title: "Simonetta Di Pippo - UNOOSA"
+  id: 301
+  title: "Microsoft HR"
+  place: "Room 1"
+  description: "Job opportunities at Microsoft"
+  subtype: "presentation"
+  language: "en"
+-
+  id: 902
+  title: "Lunch Break"
   place: "Hall"
-  description: "Ms. Di Pippo has an extensive and distinguished career with the Italian Space Agency, and prior to her appointment as Director, headed the European Space Policy Observatory in Brussels. Previously she worked for several years in various roles for the European Space Agency, including as Chair of the ESA Programme Board of Human Spaceflight, Microgravity and Exploration in Paris. In May 2008, she was appointed Director of the European Space Agency's Human Space Flight Directorate. The various fields covered in her 27 years of space-related activities include earth observation, advanced studies, space automation and robotics, space science, human exploration, debris and asteroids threat, space safety, commercial human spaceflight, Italian and European astronauts coordination, and the management of the biggest in-orbit masterpiece, the International Space Station."
-  subtype: announcement
-  speakers: ["simonetta-di-pippo"]
-  language: en
--
-  id: 906
-  title: "EU Codeweek in Austria"
-  place: "Hall"
-  description: "All around Europe, people are making apps, websites and lots of other things by learning to code. Many events and clubs will take place when EU Codeweek will return this year.<br/>All 2014 EU codeweek events in Austria at a glance: <a href='http://events.codeweek.eu/search/?country_code=AT&past=yes' target='_blank'>events.codeweek.eu/search/?country_code=AT&past=yes</a><br/>Austrian EU codeweek site: <a href='https://www.codeweek.at/' target='_blank'>www.codeweek.at</a>"
-  subtype: announcement
-  speakers: ["meral-akin-hecke"]
--
-  id: 100
-  title: "Women Techmakers Vienna 2015"
-  place: "Room 1"
-  description: ""
-  subtype: presentation
-  speakers: ["timea-turdean"]
-  language: en
--
-  id: 101
-  title: "Special Telecommunications ­ Air Traffic Management, Public Safety, Maritime, Defence."
-  place: "Room 1"
-  description: "More details to be announced"
-  subtype: presentation
-  speakers: ["melania-gagea"]
-  language: en
--
-  id: 103
-  title: "Let's be more than our job description"
-  place: "Room 1"
-  description: "Let's be more than our job description: Innovative woman tech makers and trends setters"
-  subtype: presentation
-  speakers: ["satya-dash"]
-  language: en
+  service: true
 -
   id: 200
   title: "Workshop: Overcoming Impostor Syndrome"
-  place: "Room 2"
+  place: "Room 3"
   description: "Do you feel like a fraud? Are you not sure whether you can do the work you are supposed to?<br><br>You are not alone, and many high-achievers are unable to internalize and accept their successes. They often attribute their accomplishments to luck rather than to ability, and fear that others will eventually unmask them as a fraud.<br>This workshop will help you identify and deal with the impostor syndrome. You will make the first steps in overcoming your fears and foster your confidence in your abilities."
   subtype: workshop
   speakers: ["timea-turdean"]
   language: en
 -
-  id: 300
-  title: "Panel Discussion"
+  id: 102
+  title: "Session #3 (TBA)"
   place: "Room 1"
-  description: "More details to be announced"
-  subtype: discussion
-  speakers: []
+  description: "More details coming soon"
+  subtype: presentation
+  speakers: ["rina-ahmed"]
   language: en
 -
-  id: 500
-  title: "Kinder-Workshop"
-  place: "Room 2"
-  description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
-  subtype: workshop
-  speakers: ["horst-jens"]
-  language: de
+  id: 103
+  title: "Session #4 (TBA)"
+  place: "Room 1"
+  description: "More details coming soon"
+  subtype: presentation
+  language: en
 -
+  id: 903
+  title: "Coffe and Snacks"
+  place: "Hall"
+  service: true
+-
+  id: 104
+  title: "Session #5 (TBA)"
+  place: "Room 1"
+  description: "More details coming soon"
+  subtype: presentation
+  language: en
+-
+  id: 105
+  title: "Session #6 (TBA)"
+  place: "Room 1"
+  description: "More details coming soon"
+  subtype: presentation
+  language: en
+-
+  id: 106
+  title: "Session #7 (TBA)"
+  place: "Room 1"
+  description: "More details coming soon"
+  subtype: presentation
+  language: en
+-
+  id: 904
+  title: "Closing and Thank You"
+  place: "Room 1"
+  service: true
+  language: "en"
+-
+  id: 905
+  title: "Afterparty"
+  place: "TBA"
+  description: "Awesome Afterparty - location will be announced at the event"
+  subtype: party
