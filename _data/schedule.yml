@@ -44,22 +44,22 @@
     - {
         startTime: "12:30",
         endTime: "12:45",
-        sessionIds: [300, 200, 201]
+        sessionIds: [300, 200, 202]
     }
     - {
         startTime: "12:45",
         endTime: "13:30",
-        sessionIds: [102, 200, 201]
+        sessionIds: [102, 200, 202]
     }
     - {
         startTime: "13:30",
         endTime: "13:45",
-        sessionIds: [300, 200, 201]
+        sessionIds: [300, 200, 202]
     }
     - {
         startTime: "13:45",
         endTime: "14:30",
-        sessionIds: [103, 200, 201]
+        sessionIds: [103, 200, 202]
     }
     - {
         startTime: "14:30",

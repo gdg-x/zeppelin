@@ -17,6 +17,15 @@
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
   language: de
+  subtitle: "9:30 - 11:40"
+-
+  id: 202
+  title: "Kinder-Workshop"
+  place: "Room 2"
+  description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
+  subtype: workshop
+  language: de
+  subtitle: "12:30 - 14:30"
 -
   id: 100
   title: "Session #1 (TBA)"
@@ -58,6 +67,7 @@
   subtype: workshop
   speakers: ["timea-turdean"]
   language: en
+  subtitle: "12:30 - 14:30"
 -
   id: 102
   title: "Session #3 (TBA)"
