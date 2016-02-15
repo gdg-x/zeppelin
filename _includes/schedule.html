@@ -30,7 +30,7 @@
                         {% assign endTime = timeslot.endTime | split: ":" %}
                         {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
-                    -->{% comment %}
+                    -->{% endcomment %}
                 </div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for slot in timeslot.sessionIds %}
