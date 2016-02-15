@@ -9,7 +9,7 @@
     - {name: "INiTS", description: "INiTS - innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}
 -
   group: "Silver Sponsor"
-  elemens:
+  elements:
     - {name: "Semantic Web", description: "Semantic Web", link: "https://www.semantic-web.at/", imageUrl: "semanticweb-logo.png"}
 -
   group: "With support of"
