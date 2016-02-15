@@ -10,7 +10,7 @@
 -
   group: "Silver Sponsor"
   elements:
-    - {name: "Semantic Web", description: "Semantic Web", link: "https://www.semantic-web.at/", imageUrl: "semanticweb-logo.png"}
+    - {name: "Semantic Web", description: "Semantic Web", link: "https://www.semantic-web.at/", imageUrl: "semanticweb-logo.png", width: "260px"}
 -
   group: "With support of"
   elements: 
