@@ -25,10 +25,12 @@
                         {% assign startTime = timeslot.startTime | split: ":" %}
                         {{ startTime[0] }}<span>{{ startTime[1] }}</span>
                     </time>
+                    {% comment %}<!-- do not show end time
                     <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
                         {% assign endTime = timeslot.endTime | split: ":" %}
                         {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
+                    -->{% comment %}
                 </div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for slot in timeslot.sessionIds %}
