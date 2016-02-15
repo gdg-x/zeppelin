@@ -15,4 +15,4 @@
   group: "With support of"
   elements: 
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "180px"}
-    - {name: "Helga", description: "Helga", imageUrl: "helga.jpg"}
+    - {name: "Helga", description: "Helga", link: "http://www.hallohelga.at/", imageUrl: "helga-logo.jpg"}
