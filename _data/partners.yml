@@ -8,6 +8,10 @@
     - {name: "Compass", description: "Compass Gruppe - Information für Ihren Vorteil", link: "http://www.compass.at/", imageUrl: "compass-logo.jpg", width: "280px"}
     - {name: "INiTS", description: "INiTS - innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}
 -
+  group: "Silver Sponsor"
+  elemens:
+    - {name: "Semantic Web", description: "Semantic Web", link: "https://www.semantic-web.at/", imageUrl: "semanticweb-logo.png"}
+-
   group: "With support of"
   elements: 
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "180px"}
