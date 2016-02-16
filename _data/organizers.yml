@@ -9,5 +9,5 @@
 -
   group: "Partners"
   elements:
-    - {name: "Girls n' Code", description: "Girls n' Code", link: "http://girlsncode.com/", imageUrl: "girls-n-code.jpg"}
+    - {name: "Girls n' Code", description: "Girls n' Code", link: "http://girlsncode.com/", imageUrl: "girls-n-code.jpg", width: "120px"}
     - {name: "Spielend Programmieren", description: "Spielend Programmieren", link: "http://spielend-programmieren.at/", imageUrl: "spielend-programmieren.png"}
