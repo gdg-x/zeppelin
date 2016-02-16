@@ -6,3 +6,8 @@
   group: "Co-organizers"
   elements: 
     - {name: "JSUG Vienna", description: "JSUG Vienna - Java (Student) User Group", link: "http://jsug.at", imageUrl: "jsug.png", width: "120px"}
+-
+  group: "Partners"
+  elements:
+    - {name: "Girls n' Code", description: "Girls n' Code", link: "http://girlsncode.com/", imageUrl: "girls-n-code.jpg"}
+    - {name: "Spielend Programmieren", description: "Spielend Programmieren", link: "http://spielend-programmieren.at/", imageUrl: "spielend-programmieren.png"}
