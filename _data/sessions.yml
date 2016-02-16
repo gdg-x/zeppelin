@@ -70,9 +70,9 @@
   subtitle: "12:30 - 14:30"
 -
   id: 102
-  title: "Session #3 (TBA)"
+  title: "One App Across Devices"
   place: "Room 1"
-  description: "More details coming soon"
+  description: "With Windows 10, developers have the opportunity to bring their apps to multiple device families at once. Learn how to develop apps for Windows 10 than run across devices such as Raspberry Pi, Phones, Tablets, Desktop and more! You will see demos with cool sceanarios like gender and age recognition to create more personal app experiences."
   subtype: presentation
   speakers: ["rina-ahmed"]
   language: en
