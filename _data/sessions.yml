@@ -16,6 +16,7 @@
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
+  speakers: ["horst-jens"]
   language: de
   subtitle: "9:30 - 11:40"
 -
@@ -24,6 +25,7 @@
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
+  speakers: ["horst-jens"]
   language: de
   subtitle: "12:30 - 14:30"
 -
@@ -32,6 +34,7 @@
   place: "Room 1"
   description: "More details coming soon"
   subtype: presentation
+  speakers: ["sanja-selak"]
   language: en
 -
   id: 300

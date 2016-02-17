@@ -41,7 +41,7 @@
   surname: "Selak"
   company: "Origimm (‘Origins of Immunity’)"
   title: "Founder, inventor and CEO"
-  bio: "Dr. Sanja Selak is the founder, inventor and CEO of Origimm (‘Origins of Immunity’), an Austrian biotechnology company which is developing a completely new way of treating common acne, based on immunotherapy against one of the main causes of acne, the bacterium Propionibacterium acnes."
+  bio: "Dr. Sanja Selak is the founder, inventor and CEO of Origimm (‘Origins of Immunity’), an Austrian biotechnology company developing a completely new way of treating common acne, based on immunotherapy against one of the main causes of acne, the bacterium Propionibacterium acnes."
   thumbnailUrl: "SanjaSelak.jpg"
   rockstar: true
   active: true
@@ -80,6 +80,7 @@
   title: "Kids' Programming Instructor"
   bio: "Horst Jens is founder of vienna based computer programming education company 'spielend­programmieren' and enjoys teaching game programming to young children using free/libre/open­source software."
   thumbnailUrl: "HostJens.jpg"
+  active: true
   social:
     - {name: "web", link: "http://spielend-programmieren.at/de:kontakt"}
 -
