@@ -80,7 +80,6 @@
   title: "Kids' Programming Instructor"
   bio: "Horst Jens is founder of vienna based computer programming education company 'spielend­programmieren' and enjoys teaching game programming to young children using free/libre/open­source software."
   thumbnailUrl: "HostJens.jpg"
-  active: true
   social:
     - {name: "web", link: "http://spielend-programmieren.at/de:kontakt"}
 -
