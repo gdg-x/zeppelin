@@ -78,10 +78,11 @@
   language: en
 -
   id: 103
-  title: "Session #4 (TBA)"
+  title: "A User’s Worst Nightmare"
   place: "Room 1"
-  description: "More details coming soon"
+  description: "Everyone has already seen bad usability mistakes. In this talk you will get to see some common misconceptions between the users' and the developers' perspectives. It will also show why the 'obviously' correct solution from the user perspective seems seldom that obvious to developers. Who hasn’t been dreaming about a life without users... <br>This beginner’s guide to the user perspective intends to help you reconcile the different stakeholders’ wishes."
   subtype: presentation
+  speakers: ["elisabeth-bluemelhuber", "myriam-teicher"]
   language: en
 -
   id: 903

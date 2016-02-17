@@ -1,4 +1,22 @@
 -
+  id: "elisabeth-bluemelhuber"
+  name: "Lisi"
+  surname: "Blümelhuber"
+  company: "Compass Group"
+  title: "Software Developer"
+  thumbnailUrl: "ElisabethBluemelhuber.jpg"
+  active: true
+  bio: "Lisi is an experienced software developer. She focuses on clean code, high-quality software development and build management."
+-
+  id: "myriam-teicher"
+  name: "Myriam"
+  surname: "Teicher"
+  company: "Compass Group"
+  title: "Requirements Engineer"
+  thumbnailUrl: "MyriamTeicher.jpg"
+  active: true
+  bio: "Myriam works as a requirements engineer and UI designer. She likes to improve the users’ lives by designing clean and consistent interfaces."
+-
   id: "irene-fialka"
   name: "Irene"
   surname: "Fialka"
