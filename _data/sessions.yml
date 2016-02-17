@@ -30,7 +30,7 @@
   id: 100
   title: "Don’t just “Lean in” - follow your passion"
   place: "Room 1"
-  description: "Sheryl Sandberg, the Facebook’s Chief Operating Officer,wrote in her celebrated book Lean In, that we women often sabotage our career “by lacking self-confidence, by not raising our hands and by pulling back when we should be leaning in”. Of course, women can be held back also by many other hurdles, however this one sentence highlights the obstacles that women tend to create within themselves."
+  description: "Sheryl Sandberg, the Facebook’s Chief Operating Officer, wrote in her celebrated book <i>Lean In</i> that we women often sabotage our career “by lacking self-confidence, by not raising our hands and by pulling back when we should be leaning in”. Of course, women can be held back also by many other hurdles, however this one sentence highlights the obstacles that women tend to create within themselves."
   subtype: presentation
   speakers: ["sanja-selak"]
   language: en
@@ -73,7 +73,7 @@
   id: 102
   title: "One App Across Devices"
   place: "Room 1"
-  description: "With Windows 10, developers have the opportunity to bring their apps to multiple device families at once. Learn how to develop apps for Windows 10 than run across devices such as Raspberry Pi, Phones, Tablets, Desktop and more! You will see demos with cool sceanarios like gender and age recognition to create more personal app experiences."
+  description: "With Windows 10 developers have the opportunity to bring their apps to multiple device families at once. Learn how to develop apps for Windows 10 that run across devices such as Raspberry Pi, Phones, Tablets, Desktop and more! You will see demos with cool sceanarios like gender and age recognition to create more personal app experiences."
   subtype: presentation
   speakers: ["rina-ahmed"]
   language: en
