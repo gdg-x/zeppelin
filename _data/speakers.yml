@@ -1,4 +1,17 @@
 -
+  id: "stefanie-duchet"
+  name: "Stefanie"
+  surname: "Duchet"
+  company: "Becton Dickinson Austria"
+  title: "Team Lead for Project Management"
+  thumbnailUrl: "StefanieDuchet.jpg"
+  active: true
+  bio: "I am a 31-year-old team lead for project management currently employed at Becton Dickinson Austria and responsible for implementing medical software projects. Although I have completed a technical study programme with the focus on sports equipment technology I was never a so called “IT pro”. Nevertheless, I was always attracted by managing IT and technical projects with a certain passion for health tech. The main steps of my career include being part of and establishing a startup in the field of e-Health and ambient assisted living, working as an IT project manager at a Scandinavian IT company and my current job as team lead."
+  social:
+    - {name: "site", link: "http://www.communicationplayground.net/"}
+    - {name: "linkedin", link: "http://at.linkedin.com/in/stefanieduchet"}
+    - {name: "twitter", ,link: "https://twitter.com/StefanieDuchet"}
+-
   id: "elisabeth-bluemelhuber"
   name: "Lisi"
   surname: "Blümelhuber"
