@@ -12,4 +12,4 @@
     - {name: "Girls n' Code", description: "Girls n' Code", link: "http://girlsncode.com/", imageUrl: "girls-n-code.jpg", width: "120px"}
     - {name: "Spielend Programmieren", description: "Spielend Programmieren", link: "http://spielend-programmieren.at/", imageUrl: "spielend-programmieren.png"}
     - {name: "Logiscool", description: "Logiscool", link: "http://www.logiscool.at/", imageUrl: "logiscool-logo.jpg", width: "180px"}
-    - {name: "Dreamicode", description: "Dreamicode", link: "http://dreamicode.com/", imageUrl: "dreamicode-logo.png"}
+    - {name: "Dreamicode", description: "Dreamicode", link: "http://dreamicode.com/", imageUrl: "dreamicode-logo.png", width: "180px"}
