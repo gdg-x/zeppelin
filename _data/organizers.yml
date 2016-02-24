@@ -13,3 +13,4 @@
     - {name: "Spielend Programmieren", description: "Spielend Programmieren", link: "http://spielend-programmieren.at/", imageUrl: "spielend-programmieren.png"}
     - {name: "Logiscool", description: "Logiscool", link: "http://www.logiscool.at/", imageUrl: "logiscool-logo.jpg", width: "180px"}
     - {name: "Dreamicode", description: "Dreamicode", link: "http://dreamicode.com/", imageUrl: "dreamicode-logo.png", width: "180px"}
+    - {name: "Frauenreferat der HTU Wien", description: "Frauenreferat der HTU Wien", link: "https://htu.at/Frauen", imageUrl: "htu-frauenreferat.png"}
