@@ -86,6 +86,16 @@
     - {name: "twitter", link: "https://twitter.com/rinaahm"}
   rockstar: true
 -
+  id: "franz-knipp"
+  name: "Franz"
+  surname: "Knipp"
+  company: "qnipp Gmbh"
+  title: "Founder and CEO"
+  bio: "Dipl.-Ing. Franz Knipp is passionate about computers and coding since the age of ten. After studying and working in Vienna, he founded a company in his home village to offer high-tech jobs in the rural area. He implements prototypes and complete solutions of web and mobile applications.<br>In 2014 Franz Knipp started his coding workshops called <a href='http://code14.org/' target='_blank'>Code 14</a> and <a href='http://dreamicode.com/' target='_blank'>Dreamicode</a> to share his passion with youths in the age of 10 to 14. About 100 participants had the chance to take their first steps in the field of programming until now."
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/franzknipp"}
+    - {name: "site", link: "http://qnipp.com/""}
+-
   id: "horst-jens"
   name: "Horst"
   surname: "Jens"

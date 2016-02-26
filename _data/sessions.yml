@@ -17,6 +17,7 @@
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
   language: de
+  speaker: ["franz-knipp"]
   subtitle: "9:30 - 11:40"
 -
   id: 202
