@@ -44,10 +44,10 @@ c4sponsorsUrl: "/assets/#"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programa"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/logistics/", text: "Logística"}
 bottomNavigationLinks:
  - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
 rightNavigationButtons:
@@ -103,7 +103,7 @@ mapCenterCoordinates: "40.3896044, -3.6298781"
 mapMobileCenterCoordinates: "40.3896044, -3.6298781"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Lugar"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -118,15 +118,9 @@ twitterHashTag: "jnext16"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+organizersTitle: "Organizan"
+partnersTitle: "Colaboran"
+partnersC4sponsorsButton: "Colabora con Java.next()"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
