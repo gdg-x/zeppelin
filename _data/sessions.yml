@@ -108,10 +108,11 @@
   language: en
 -
   id: 106
-  title: "Session #7 (TBA)"
+  title: "?"
   place: "Room 1"
-  description: "More details coming soon"
+  description: "Ever wondered why we are here? What are the social, cultural or personal factors that bring women to the tech field? As a sociologist with training, Nino tried to explore existing international research findings, as well as, to conduct her own survey to define current context in Georgia. During this talk you will hear interesting stories, find out about striking commonalities and share your thoughts with each other. We invite you share, discuss and define steps on how we can support women participation and truly empower their work."
   subtype: presentation
+  speakers: ["nino-nanitashvili"]
   language: en
 -
   id: 904

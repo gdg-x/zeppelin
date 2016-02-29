@@ -34,6 +34,18 @@
   name: "Irene"
   surname: "Fialka"
 -
+  id: "nino-nanitashvili"
+  name: "Nino"
+  surname: "Nanitashvili"
+  company: "Google Developer Group Tbilisi"
+  title: "Founder"
+  thumbnailUrl: "NinoNanitashvili.jpg"
+  active: true
+  bio: "Nino Nanitashvili has been founder of the first ever Google Developer Group in Georgia (at that time called GTUG). Throughout 4 years of leadership she has been organizer of numbers of small to large scale events and conferences. In addition to GDG, Nino has broad experience at international, governmental and non-governmental institutions working on social issues, civic engagement and transformation through technologies. She leads Women Techmakers community in Georgia, teaches kids in the regions basic computer programming, advocates for digital accessibility and uses computer games for connecting youth in conflict divides virtually."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+    - {name: "twitter", link: "https://twitter.com/ninonanitashvil"}
+-
   id: "timea-turdean"
   name: "Timea"
   surname: "Turdean"
