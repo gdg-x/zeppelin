@@ -98,6 +98,12 @@
     - {name: "twitter", link: "https://twitter.com/rinaahm"}
   rockstar: true
 -
+  id: "logiscool"
+  name: "Logiscool"
+  surname: ""
+  bio: "Logiscool is a coding school for kids age 7-15 located in Vienna’s 3rd district.<br>We believe that coding is an essential skill of the 21st century - it is the foreign language of our times. Kids should actively create, not only passively consume digitally.  We teach the fundamentals of coding, a way of thinking, that is applicable in all mainstream programming languages. We designed a playful, fun and creative learning experience for our students that is delivered by our young and enthusiastic trainer team. Our courses run once a week for 90min, with 5-10 kids in a class, learning with peers at the same age. For more information and registration visit <a href='http://www.logischool.at' target='_blank'>www.logiscool.at</a>."
+  thumbnailUrl: "../organizers/logiscool-logo.jpg"
+-
   id: "franz-knipp"
   name: "Franz"
   surname: "Knipp"
