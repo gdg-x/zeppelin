@@ -34,6 +34,18 @@
   name: "Irene"
   surname: "Fialka"
 -
+  id: "birgit-hofreiter"
+  name: "Birgit"
+  surname: "Hofreiter"
+  company: "TU Wien"
+  title: "Director Entrepreneurship & Innovation Center"
+  thumbnailUrl: "BirgitHofreiter.jpg"
+  active: true
+  bio: "Dr. Birgit Hofreiter is Board Member of AustrianStartups, the Head of the Informatics Innovation Center (i²c) and since the cross-faculty roll out director of the TUW wide Entrepreneurship & Innovation Center offering a bootcamp style StartAcademy for R&D commercialization, a Diploma Supplement on Innovation for students at TUW, a campus located co-working space (i²c FounderSpace) providing an incubation program (TUW i²ncubator), as well as many public events like eg. the Founder & Investor Talk Series (already in season 5) or the i²c NetworkingFriday. Before Birgit dedicated her career the implementation and business development of an Entrepreneurial University, she set up a competence center on inter-organizational business collaborations while with University of Liechtenstein, has been a Post Doc Research Fellow at the University of Technology Sydney, and an Austrian Delegate to UN/CEFACT contributing to standards and recommendations for interoperability. Additionally, she is co-founder of the IEEE Conference on Business Informatics and on the editorial board of community related journals."
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/birgit-hofreiter-38892021"}
+    - {name: "site", link: "https://www.facebook.com/InformaticsInnovationCenter"}
+-
   id: "nino-nanitashvili"
   name: "Nino"
   surname: "Nanitashvili"
