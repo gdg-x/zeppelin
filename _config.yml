@@ -45,9 +45,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programa"}
- - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logística"}
+ - {permalink: "/logistics/", text: "¿Cómo llegar?"}
 bottomNavigationLinks:
  - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
 rightNavigationButtons:
@@ -72,13 +71,12 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "300", specialCharacter: "+", info: "asistentes", detail: "entusiastas de la JVM"}
+ - {count: "8", specialCharacter: "", info: "horas", detail: "de Open Space puro"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "¡tú también!"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -108,14 +106,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "ETSI de Sistemas Informáticos"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "twitter-feed.png"
 tweetsFeedTitle: "Últimos tuits"
 twitterHashTag: "jnext16"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://jnext-tweetledee.herokuapp.com/tweetledee/searchjson.php?q=%23jnext16&cache_interval=8000&c=10"
 
 # Partners Block
 organizersTitle: "Organizan"
@@ -123,8 +121,8 @@ partnersTitle: "Colaboran"
 partnersC4sponsorsButton: "Colabora con Java.next()"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Entradas"
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Last Chance"
