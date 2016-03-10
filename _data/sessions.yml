@@ -62,6 +62,8 @@
   title: "Lunch Break"
   place: "Hall"
   service: true
+  speakers: ["gaumenfreundinnen"]
+  description: "„Gaumenfreundinnen“ is a Viennese catering company founded by Philippa Erlacher and Margherita Putze in November 2014. As we are both vegetarians and both of us have a background in sustainability studies, it was obvious for us to specialize on organic and vegetarian food. Furthermore we try to buy most of our food from organic farmers in the region that sell at weekly farmer’s markets and thereby to support the market culture of the city.<br>We are very pleased to provide ‚Women Techmakers’ with a healthy and tasty lunch at its big event on March 12th."
 -
   id: 200
   title: "Workshop: Overcoming Impostor Syndrome"
