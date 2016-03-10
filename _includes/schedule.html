@@ -67,12 +67,12 @@
                                     <div class="color-line"></div>
                                     <div class="slot-content">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
-                                        {% if session.description %}
-                                        <p>{{session.description}}</p>
-                                        {% endif %}
                                         {% if session.thumbnailUrl %}
                                         <ul class="slot-speakers">
                                         <li itemprop="performer"><div class="speaker-img flow-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: session.thumbnailUrl }})"></div>
+                                        <p class="speaker-name">{{ session.subtitle }}
+                                        <span class="speaker-position">{{ session.description }}</span>
+                                        </p>
                                         </li>
                                         </ul>
                                         {% endif %}

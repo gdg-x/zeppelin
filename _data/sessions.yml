@@ -63,7 +63,8 @@
   place: "Hall"
   service: true
   thumbnailUrl: "Gaumenfreundinnen.jpg"
-  description: "„Gaumenfreundinnen“ is a Viennese catering company which is specialized on organic and vegetarian food. Expect a healthy and tasty lunch!"
+  subtitle: "Gaumenfreundinnen"
+  description: "<emph>Gaumenfreundinnen</emph> is a Viennese catering company which is specialized on organic and vegetarian food. Expect a healthy and tasty lunch!"
 -
   id: 200
   title: "Workshop: Overcoming Impostor Syndrome"
