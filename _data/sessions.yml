@@ -50,6 +50,7 @@
   description: "From awesome academia and brilliant business into technology transfer.<br><br>In her talk, Astrid will take you on a journey from science and business into technology transfer. She will share her experiences of working in the highly competitive tech world, and will highlight examples of some of the successful and inspiring female entrepreneurs she encountered during her career."
   subtype: "presentation"
   speakers: ["astrid-woollard"]
+  language: en
 -
   id: 301
   title: "Sponsor Announcements"
