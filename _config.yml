@@ -53,10 +53,10 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
+ # - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
 rightNavigationButtons:
- - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
+ # - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
 
 # Hero Block
@@ -66,7 +66,7 @@ eventDate: "12 March 2016"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
- - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
+# - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
 # - {permalink: "/call/", text: "Call for Speakers"}
 
 # About Block
