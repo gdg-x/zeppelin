@@ -97,9 +97,10 @@
   service: true
 -
   id: 104
-  title: "Session #5 (TBA)"
+  title: "Entrepreneurial University – Are we there yet?"
+  subtitle: "From Concept To Action At TUW"
   place: "Room 1"
-  description: "More details coming soon"
+  description: "In my talk, I will basically give the audience a peek view on my personal journey of education/work, being a scientist and almost the natural consequence of becoming an intrapreneur /+ entrepreneur at TUW. (Basically, how my way impacted what I am doing now). I will share my vision of an entrepreneurial university ecosystem and the role of universities in an entrepreneurial ecosystem subsequently ending in an identification of some obstacles and missing components inhouse and the Austrian ecosystem."
   speakers: ["birgit-hofreiter"]
   subtype: presentation
   language: en
