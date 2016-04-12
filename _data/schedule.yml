@@ -1,6 +1,6 @@
 - 
   date: "2016-03-12"
-  dateReadable: "March 12"
+  dateReadable: "12 March 2016"
   tracks: 
     - {title: "Presentations", color: "#90be4e"}
     - {title: "Workshops", color: "#be904e"}
