@@ -174,3 +174,25 @@
   company: "UNITED NATIONS - Office for Outer Space Affairs"
   title: "Director"
   thumbnailUrl: "pippo.png"
+-
+  id: "timea-turdean"
+  current: true
+  rockstar: true
+  name: "Timea"
+  surname: "Turdean"
+  title: "Hitchhiker on the Semantic Web"
+  company: "Semantic Web Company GmbH"
+  bio: "I'm a Technical Consultant at Semantic Web Company GmbH and work together with our customers to find specific solutions and develop proof of concepts based on our product family. In my free time I volunteer for Google Developer Group Vienna and Women Techmakers Vienna."
+  thumbnailUrl: TimeaTurdean.jpg
+  ribbon:
+    - { abbr: "GDG", title: "Google Developer Group", url: "http://www.gdg-vienna.at"}
+  social:
+    - { name: "linkedin", link: "https://at.linkedin.com/pub/timea-turdean/29/9ab/3b1/en" }
+    - { name: "site", link: "http://www.timeaturdean.com/" }
+    - { name: "twitter", link: "https://twitter.com/TimeaTurdean"}
+-
+  id: "visda-goudarzi"
+  name: "Visda"
+  surname: "Goudarzi"
+  title: "Scientific-Artistic Audio Researcher"
+  company: "Institute for Electronic Music and Acoustics"
