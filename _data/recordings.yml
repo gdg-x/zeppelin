@@ -5,6 +5,7 @@
   subtype: "presentation"
   youtube: "AwJ9Ec6XRqQ"
   year: "2016"
+  speakers: ["sanja-selak"]
   thumbnailUrl: "dont-just-lean-in.jpg"
 -
   id: "ideas-invention-innovation"
@@ -13,6 +14,7 @@
   subtype: "presentation"
   youtube: "Yfy68JvTyNo"
   year: "2016"
+  speakers: ["astrid-woollard"]
   thumbnailUrl: "ideas-invention-innovation.jpg"
 -
   id: "users-worst-nightmare"
@@ -21,6 +23,7 @@
   subtype: "presentation"
   youtube: "xARCx16wzNQ"
   year: "2016"
+  speakers: ["elisabeth-bluemelhuber", "myriam-teicher"]
   thumbnailUrl: "users-worst-nightmare.jpg"
 -
   id: "effective-communication-it-projects"
@@ -29,6 +32,7 @@
   subtype: "presentation"
   youtube: "pj7puoTQOYQ"
   year: "2016"
+  speakers: ["stefanie-duchet"]
   thumbnailUrl: "effective-communication-it-projects.jpg"
 -
   id: "brings-women-makes-stay"
@@ -37,6 +41,7 @@
   subtype: "presentation"
   youtube: "J0UCe2H-q4Q"
   year: "2016"
+  speakers: ["nino-nanitashvili"]
   thumbnailUrl: "brings-women-makes-stay.jpg"
 -
   id: "one-app-across-devices"
@@ -45,6 +50,7 @@
   subtype: "workshop"
   youtube: "eVZLX8rp6b4"
   year: "2016"
+  speakers: ["rina-ahmed"]
   thumbnailUrl: "one-app-across-devices.jpg"
 -
   id: "entrepreneurial-university"
