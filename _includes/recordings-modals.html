@@ -1,5 +1,10 @@
 <!-- Begin Recordings Modals -->
 <div class="modals">
+  <style type="text/css">
+  .lily-effect figcaption h2 span {
+    display: inline;
+  }
+  </style>
   {% for session in site.data.recordings %}
     <div class="modal fade text-left person-modal" id="session-{{ session.year }}-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionLabel-{{ session.year }}-{{ session.id }}" aria-hidden="true">
       <div class="modal-dialog">
@@ -38,7 +43,7 @@
                     </div>
                     <div class="col-md-10 col-sm-10 details">
                       <p class="name">{{ speaker.name }} {{ speaker.surname }}
-                        <span class="position">{{ speaker.title }}{% if speaker.company && speaker.title %}, {% endif %}{{ speaker.company }}</span>
+                        <div class="position">{{ speaker.title }}{% if speaker.company && speaker.title %}, {% endif %}{{ speaker.company }}</div>
                       </p>
                       {% if speaker.ribbon != null %}
                       <div class="modal-ribbon-wrapper">
