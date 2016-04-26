@@ -35,7 +35,7 @@
 							    	{% for session_speaker in session.speakers %}
 							    	  {% for speaker in site.data.speakers %}
 							    	    {% if speaker.id == session_speaker %}
-							    	      <div class="person-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+							    	      <div class="person-img flow-img img-circle speaker-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
 							    	    {% endif %}
 							    	  {% endfor %}
 							    	{% endfor %}
