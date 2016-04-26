@@ -9,7 +9,7 @@
 			    	<div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
 				    	<div class="lily-effect ribbon-activator">
 					    	<div class="lily-head" data-toggle="modal" data-target="#session-{{ include.year }}-{{ session.id }}">
-						    	<figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: site.thumbnailsSessions | append: include.year | append: '-' | append: session.thumbnailUrl }})">
+						    	<figure style="background-image: url({{ site.baseurl | append: site.thumbnailsSessions | append: include.year | append: '-' | append: session.thumbnailUrl }})">
 				    				<div class="overlay solid-overlay"></div>
 							    	{% if session.ribbon != null %}
 								      <ul class="ribbon-wrapper">

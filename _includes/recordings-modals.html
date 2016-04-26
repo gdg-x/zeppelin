@@ -6,7 +6,7 @@
   }
   </style>
   {% for session in site.data.recordings %}
-    <div class="modal fade text-left person-modal" id="session-{{ session.year }}-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionLabel-{{ session.year }}-{{ session.id }}" aria-hidden="true">
+    <div class="schedule modal fade text-left person-modal" id="session-{{ session.year }}-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionLabel-{{ session.year }}-{{ session.id }}" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-body">
@@ -39,7 +39,7 @@
                   {% if session_speaker == speaker.id %}
                   <div class="row">
                     <div class="col-md-2 col-sm-2">
-                      <div class="flow-img img-circle person-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+                      <div class="flow-img img-circle person-img speaker-img" style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
                     </div>
                     <div class="col-md-10 col-sm-10 details">
                       <p class="name">{{ speaker.name }} {{ speaker.surname }}
