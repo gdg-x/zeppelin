@@ -1,0 +1,13 @@
+-
+  title: "Applying and Participating"
+  faq:
+  - { question: "Do I need prior knowledge in programming?", answer: "In the workshop we assume you have basic knowledge in programming. Once you know how it works in one language - it's easy to manage with JavaScript. basic knowledge in HTML and SCC is also required, but it's really easy to learn."}
+
+-
+  title: "Getting Ready"
+  faq:
+  - { question: "What do I have to install on my computer prior to the workshop?", answer: "We will send the prerequirements to the participants prior to the workshop. You can start now by installing NodeJS, Git and an IDE of your choice."}
+  - { question: "What IDE do you recommend?", answer: "There are various IDEs you can install with different licenses. Webstorm is very popular, and you can get it with a free trial of a month. Sublime Text is not an IDE but has many plugins that make you feel like it is."}
+
+-
+  title: "Angular 2"
