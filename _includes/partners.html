@@ -9,12 +9,17 @@
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}"
+                             title="{{ element.description }}"
+                             alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
             </ul>
             {% endfor %}
+
+            <h5>More partners coming soon...</h5>
+
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}"
                target="_blank"
                class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
