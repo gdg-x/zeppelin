@@ -1,11 +1,14 @@
 <!-- Begin Hero Section -->
-<section id="home" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
+<section id="home" class="top-section-hero top-section image-section parallax"
+         style="background-image: url('{{ site.baseurl }}/img/sections-background/eclipse.png');">
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle %}
-            <h1>{{ heroText }}<span class="hidden-xs"></span></h1>
+            <div class="logo logo-big"></div>
+            <div class="logo logo-name"></div>
+            <!--{% assign heroText = site.heroTitle %}-->
+            <!--<h1>{{ heroText }}<span class="hidden-xs"></span></h1>-->
             <p>{{ site.eventDate }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}"
