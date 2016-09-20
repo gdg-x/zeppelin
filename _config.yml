@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {permalink: "/faq/", text: "Apply Now"}
 
 # Hero Block
-heroImage: "purplesky.png"
+heroImage: "eclipse.png"
 heroTitle: "ngGirls"
 eventDate: "November 13, 2016, Tel-Aviv"
 heroButtons:
@@ -87,7 +87,7 @@ organizingTeamCount: 2
 organizingTeamTitle: "Organizing Team"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "djangogirls1.jpg"
 rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Organizing Team"
 
