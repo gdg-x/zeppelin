@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "ngGirls"
 organizerAlternateName: "Angular Girls"
-organizerDescription: "Free angular 2 workshops for women."
+organizerDescription: "ngGirls is a free one-day Angular 2 workshop for women"
 organizerEmail: "info@ng-girls.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.ng-girls.org/"
@@ -50,25 +50,25 @@ navigationLinks:
  - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Apply Now"}
+ - {permalink: "/faq/", text: "Apply Now"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Apply Now"}
+ - {permalink: "/faq/", text: "Apply Now"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "purplesky.png"
 heroTitle: "ngGirls"
 eventDate: "November 13, 2016, Tel-Aviv"
 heroButtons:
- - {permalink: "/#tickets", text: "apply for the workhsop"}
- - {link: "https://bit.ly/dfua-c4p", text: "call for mentors"}
+ - {permalink: "/faq/", text: "apply for the workhsop"}
+ - {permalink: "/faq/", text: "call for mentors"}
  - {permalink: *c4sponsorsUrl, newTab: true, text: "call for sponsors"}
 
 # About Block
 aboutTitle: "About ngGirls"
 aboutBlock:
- - {title: "motivation", image: "conference.jpg", text: "ngGirls is aims to introduce women to the world of technology and increase the diversity. Angular 2 is a great technology to start with. We believe this is a win-win situation!" }
- - {title: "operation", image: "workshop.jpg", text: "One-day workshop to build and deploy Angular 2 app with the help of dedticated mentors. Later that week join the community at AngularUP international conference!" }
- - {title: "participation", image: "hackathon.jpg", text: "If you're a committed, motivated woman who wants to step into the Web Development world - your place is with us! Apply now!<br>Want to help? Please get in touch!" }
+ - {title: "motivation", image: "motivation.png", text: "ngGirls is aims to introduce women to the world of technology and increase the diversity. Angular 2 is a great technology to start with. We believe this is a win-win situation!" }
+ - {title: "operation", image: "operation.png", text: "One-day workshop to build and deploy Angular 2 app with the help of dedticated mentors. Later that week join the community at AngularUP international conference!" }
+ - {title: "participation", image: "participation.png", text: "If you're a committed, motivated woman who wants to step into the Web Development world - your place is with us! Apply now!<br>Want to help? Please get in touch!" }
 
 # Description Block (Latest News in index)
 descriptionTitle: "Be a Part of ngGirls"
@@ -82,7 +82,7 @@ descriptionBlock:
 latestNewsTitle: "Latest news"
 
 # Organizing Team Block
-organizingTeamImage: "rockstar-speakers.jpg"
+organizingTeamImage: "djangogirls1.jpg"
 organizingTeamCount: 2
 organizingTeamTitle: "Organizing Team"
 
@@ -131,24 +131,12 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+
 footerBlocks:
  -
-  title: "Links"
+  title: "Contact us"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:info@ng-girls.com", text: "info@ng-girls.com"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:info@ng-girls.org", text: "info@ng-girls.org"}
 
 # FAQ
 faqTitle: "Frequently Asked Questions"
