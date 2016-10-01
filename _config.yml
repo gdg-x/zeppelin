@@ -137,6 +137,10 @@ footerBlocks:
   title: "Contact us"
   links:
    - {link: "mailto:info@ng-girls.org", text: "info@ng-girls.org"}
+ -
+  title: ""
+  links:
+   - {permalink: "/coc/", text: "Code of Conduct"}
 
 # FAQ
 faqTitle: "Frequently Asked Questions"
