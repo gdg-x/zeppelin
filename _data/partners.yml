@@ -2,3 +2,9 @@
   group: "ngGirls is inspired by Django Girls and makes use of its resources"
   elements:
     - {name: "Django Girls", description: "Django Girls", link: "https://djangogirls.org/", imageUrl: "djangogirls.png"}
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
+     - {name: "AngularJS-IL", description: "AngularJS-IL meetup group", link: "http://www.meetup.com/AngularJS-IL/", imageUrl: "AngularJS-IL.png"}
