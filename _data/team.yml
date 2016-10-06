@@ -19,6 +19,9 @@
   surname: "Chrysochou"
   team: true
   thumbnailUrl: "CandyChrysochou.jpg"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/candy-chrysochou-39934587"}
+    - {name: "facebook", link: "https://www.facebook.com/candy.chris.56"}
 -
   id: "angeliki-chrysochou"
   name: "Angeliki"
