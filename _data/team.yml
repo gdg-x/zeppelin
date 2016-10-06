@@ -1,4 +1,13 @@
 -
+  id: "eva-lettner"
+  name: "Eva"
+  surname: "Lettner"
+  team: true
+  thumbnailUrl: "EvaLettner.jpg"
+  social:
+    - {name: "twitter", link: "http://twitter.com/eva_trostlos"}
+    - {name: "site", link: "http://codepen.io/eva_trostlos/"}
+-
   id: "candy-chrysochou"
   name: "Aikaterini-Konstantina"
   surname: "Chrysochou"
