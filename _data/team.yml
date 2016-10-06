@@ -2,7 +2,7 @@
   id: "tatyana-sandanova"
   name: "Tatyana"
   surname: "Sandanova"
-  team: true
+  team: false
   thumbnailUrl: "TatyanaSandanova.jpg"
 -
   id: "eva-lettner"
