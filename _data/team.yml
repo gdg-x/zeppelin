@@ -10,3 +10,14 @@
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/shmool"}
+-
+  id: 2
+  name: "Moran"
+  surname: "Fine"
+  company: "IBM"
+  title: "Frontend Developer"
+  description: "I would like to see more female developers and willing to share my knowledge of frontend development in order for it to happen."
+  bio: "Moran is a senior frontend developer at IBM. She loves Javascript and frontend, and uses Angular for the last 2 years. She gave talks about Angular, was a co-organizer of She Codes;, organized a hackathon for helping NPOs and organized lectures about code and technology."
+  thumbnailUrl: Moran.png
+  rockstar: true
+
