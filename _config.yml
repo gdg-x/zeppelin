@@ -50,16 +50,16 @@ navigationLinks:
  - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {permalink: "/faq/", text: "Apply Now"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdIDVrdl6KNSLQEMvOD54zwWy8UGpqrQ1DmBw3RU71ndTDlCw/viewform", text: "Apply Now"}
 rightNavigationButtons:
- - {permalink: "/faq/", text: "Apply Now"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdIDVrdl6KNSLQEMvOD54zwWy8UGpqrQ1DmBw3RU71ndTDlCw/viewform", text: "Apply Now"}
 
 # Hero Block
 heroImage: "eclipse.png"
 heroTitle: "ngGirls"
 eventDate: "November 13, 2016, Tel-Aviv"
 heroButtons:
- - {permalink: "/faq/", text: "apply for the workhsop"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdIDVrdl6KNSLQEMvOD54zwWy8UGpqrQ1DmBw3RU71ndTDlCw/viewform", text: "apply for the workhsop"}
  - {permalink: "/faq/", text: "call for mentors"}
  - {permalink: *c4sponsorsUrl, newTab: true, text: "call for sponsors"}
 

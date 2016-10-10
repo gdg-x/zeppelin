@@ -1,7 +1,8 @@
 -
   title: "Applying and Participating"
   faq:
-  - { question: "How can I apply?", answer: "Applications will open in the next few days, stay tuned!"}
+  - { question: "How can I apply?", answer: 'Applications are open until <b>October 31st, 2016</b>.
+   <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdIDVrdl6KNSLQEMvOD54zwWy8UGpqrQ1DmBw3RU71ndTDlCw/viewform">Just fill out this form!</a>'}
   - { question: "What is the criteria for choosing applicants?", answer: 'You can read about it in our source of inspiration - <a href="http://blog.djangogirls.org/post/91067112853/djangogirls-how-we-scored-applications" target="_blank">Django Girls blog post</a>.'}
   - { question: "Do I need prior knowledge in programming?", answer: "In the workshop we assume you have basic knowledge in programming. Once you know how it works in one language - it's easy to manage with JavaScript. basic knowledge in HTML and SCC is also required, but it's really easy to learn."}
 
