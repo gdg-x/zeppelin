@@ -20,4 +20,7 @@
   bio: "Moran is a senior frontend developer at IBM. She loves Javascript and frontend, and uses Angular for the last 2 years. She gave talks about Angular, was a co-organizer of She Codes;, organized a hackathon for helping NPOs and organized lectures about code and technology."
   thumbnailUrl: Moran.png
   rockstar: true
+  social:
+    - {name: "linkedin", link: "https://il.linkedin.com/in/moran-fine-43844722"}
+    - {name: "github", link: "https://github.com/MoranF"}
 
