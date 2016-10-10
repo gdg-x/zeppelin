@@ -15,7 +15,9 @@
 -
   title: "Mentoring"
   faq:
-  - { question: "Can I be a mentor?", answer: 'Applications for mentors will open in the next few days, you can <a href="mailto:info@ng-girls.org"> send us mail </a> in the meantime.'}
+  - { question: "Can I be a mentor?", answer: 'Yes, we would love to have your help! If you have some knowledge and experience in front-end development,
+   please <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform">fill out this form</a>
+   and we will get in touch in the next few days.'}
 
 -
   title: "More FAQ"
