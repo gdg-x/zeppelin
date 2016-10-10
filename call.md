@@ -4,12 +4,21 @@ title: Call for Speakers
 permalink: /call/
 isStaticPost: true
 ---
+Women Techmakers Vienna is an event that envisions empowering women to pursue careers in the STEM fields; these encompass science, technology, engineering, and mathematics. Women Techmakers Vienna focuses on raising the public awareness through the power of example of existing gender issues and possible solutions.
 
-Unfortunately, the call for speakers has now closed for this year.
+We are in search of engaging speakers and workshop facilitators that can provide interesting technical or social-aspect talks and workshops, highlighting their experiences.
 
-However, you can still be part of Women Techmakers 2016 by attending for free!
-<br>
-Register here:
-<a href="https://wtm-vienna-2016.eventbrite.com/" target="_blank">Women Techmakers Vienna 2016 on Eventbrite</a>
+Your talk needs to be in *English* and you will have a time slot of *30 minutes* followed by 5 to 10 minutes question and answer session after the talk.
+Your workshop needs to be in *English* and you will have a time slot of *60, 90 or 120 minutes*.
+ * Technical talks should be about a subject that belongs to the STEM fields, presented in a fun and introductory manner since the attendees might lack the speaker's fundamental knowledge on the subject. They should highlight your personal achievement and success story, more than the technical aspects.
+ * Social-aspect talks should demonstrate causes, examples, solutions for gender issues and be empowering young (and not only) women that pursue, or plan to pursue a career in STEM.
+ * Workshops can either be empowering for solutions relevant to gender issues, or hands-on workshops for STEM related topics.
 
+In order to be selected, we require a short introduction about yourself and a draft outline of your talk.
+
+<a role="button" class="btn btn-info" href="https://cfp.gdg-vienna.at/">Call for Papers</a>
+
+Please send in your proposal until *30 November 2016*. All proposals will be carefully reviewed by the Women Techmakers team and you will be contacted if selected for our event.
+
+We are here for you! Feel free to contact us for further information or if you need any support with preparing your talk proposal.
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/call.jpg" style="display:none">
