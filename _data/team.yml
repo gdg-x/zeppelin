@@ -2,6 +2,7 @@
   id: "tatyana-sandanova"
   name: "Tatyana"
   surname: "Sandanova"
+  team: true
   thumbnailUrl: "TatyanaSandanova.jpg"
 -
   id: "eva-lettner"
@@ -50,7 +51,6 @@
   surname: "Turcanu"
   title: "Information Technology"
   thumbnailUrl: "HelgaTurcanu.jpg"
-  team: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/hturcanu"}
 -
