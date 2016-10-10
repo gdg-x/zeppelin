@@ -44,7 +44,7 @@ c4sponsorsUrl: "/sponsors"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/recordings/", text: "Recordings"}
  - {permalink: "/schedule/", text: "Schedule (2016)"}
  - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
