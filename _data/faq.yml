@@ -1,26 +1,60 @@
 -
   title: "Applying and Participating"
   faq:
-  - { question: "How can I apply?", answer: 'Applications are open until <b>October 31st, 2016</b>.
-   <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdIDVrdl6KNSLQEMvOD54zwWy8UGpqrQ1DmBw3RU71ndTDlCw/viewform">Just fill out this form!</a>'}
-  - { question: "What is the criteria for choosing applicants?", answer: 'You can read about it in our source of inspiration - <a href="http://blog.djangogirls.org/post/91067112853/djangogirls-how-we-scored-applications" target="_blank">Django Girls blog post</a>.'}
-  - { question: "Do I need prior knowledge in programming?", answer: "In the workshop we assume you have basic knowledge in programming. Once you know how it works in one language - it's easy to manage with JavaScript. basic knowledge in HTML and SCC is also required, but it's really easy to learn."}
+  - { question: "How can I apply?",
+      answer: 'Applications are open until <b>October 31st, 2016</b>.
+                <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdIDVrdl6KNSLQEMvOD54zwWy8UGpqrQ1DmBw3RU71ndTDlCw/viewform">Just fill out this form!</a>'}
+  - { question: "What is the criteria for choosing applicants?",
+      answer: 'You can read about it in our source of inspiration -
+                <a href="http://blog.djangogirls.org/post/91067112853/djangogirls-how-we-scored-applications" target="_blank">Django Girls blog post</a>.'}
+  - { question: "Do I need prior knowledge in programming?",
+      answer: "In the workshop we assume you have basic knowledge in programming.
+                Once you know how it works in one language - it's easy to manage with JavaScript.
+                Basic knowledge in HTML and CSS is also required, but it's really easy to learn."}
+  - { question: "I have no knowledge in programming whatsoever. But I’m willing to learn.
+                  Can you recommend me on some resources?",
+      answer: 'There are many tutorials on the internet for Web development: HTML, CSS and JavaScript.
+                You should get the grasp of how things work.<br />
+               <a target="_blank" href="https://www.codecademy.com/">Codecademy</a> is a good place to start,
+               since it provides a platform for coding while learning.<br />
+               Another great option to prepare is <a target="_blank" href="http://www.she-codes.org/">She Codes</a>:
+               this organization has branches all over Israel, where women get together, learn and practice.
+               It’s free, and no registration in advance is needed.
+               We recommend taking the Sample Web Track to prepare for the workshop. Later you can join the full Web track.'}
+  - { question: "Will I get a free ticket to AngularUP?",
+      answer: "We really hope so. We’re currently looking for sponsors to make it happen.
+               But even if you won’t get a free ticket, you will be able to purchase one with a special discount."}
 
 -
   title: "Getting Ready"
   faq:
-  - { question: "What do I have to install on my computer prior to the workshop?", answer: "We will send the prerequirements to the participants prior to the workshop. You can start now by installing NodeJS, Git and an IDE of your choice."}
-  - { question: "What IDE do you recommend?", answer: "There are various IDEs you can install with different licenses. Webstorm is very popular, and you can get it with a free trial of a month."}
+  - { question: "Should I bring my own laptop?",
+      answer: "Yes! But if you don't have one, make sure you let us know in advance.
+                It is also important for us that you will take home everything you’ll write and create during workshop."}
+  - { question: "Do I need to have something installed on my laptop?",
+      answer: "We will send the full pre requirements to the participants prior to the workshop.
+                One of the mentors will help you with the installations before the workshop.
+                You can start now by installing NodeJS, Git and an IDE of your choice, and open an account on Github."}
+  - { question: "What IDE do you recommend?",
+      answer: "There are various IDEs you can install with different licenses.
+                Webstorm is very popular, and you can get it with a free trial of a month."}
 
 -
   title: "Mentoring"
   faq:
-  - { question: "Can I be a mentor?", answer: 'Yes, we would love to have your help! If you have some knowledge and experience in front-end development,
-   please <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform">fill out this form</a>
-   and we will get in touch in the next few days.'}
+  - { question: "Can I be a mentor?",
+      answer: 'Yes, we would love to have your help! If you have some knowledge and experience in front-end development,
+               please <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform">fill out this form</a>
+               and we will get in touch in the next few days.'}
+  - { question: "Are mentors being payed?",
+      answer: "No, mentors, as well as the organizers, volunteer for the workshop."}
+  - { question: "Do mentors get a free ticket to AngularUP?",
+      answer: "No, mentors, as well as the organizers, buy their own tickets, but can get a discount."}
 
 -
   title: "More FAQ"
   faq:
-  - { question: "I've got many more questions!", answer: "More FAQ will be added soon, including a list of resources to get into the basics."}
+  - { question: "I've got many more questions!",
+      answer: 'You can email us: <a href="mailto:info@ng-girls.org">info@ng-girls.org</a>
+                and we will be glad to answer any question.'}
 
