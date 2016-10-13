@@ -19,7 +19,7 @@
             text-shadow: 2px 2px rgba(28, 27, 31, 0.81);
         }
         .btn {
-            margin: 0 3px;
+           margin: 0 3px 20px;
         }
         .logo {
             &.logo-big {
@@ -27,12 +27,21 @@
                 background-size: 100% auto;
                 width: 450px;
                 height: 340px;
+                @media (max-width: 767px) {
+                  width: 250px;
+                  height: 185px;
+                }
             }
             &.logo-name {
                 margin: 20px auto 0;
                 background-size: 100% auto;
                 width: 330px;
                 height: 155px;
+                @media (max-width: 767px) {
+                  width: 180px;
+                  height: 80px;
+                  margin: 10px auto 20px;
+                }
             }
         }
     }
