@@ -29,9 +29,9 @@
                 width: 450px;
                 height: 340px;
                 @media (max-width: 767px) {
-		            width: 130px;
-    				height: 97px;
-		        }
+                    width: 130px;
+                    height: 97px;
+                }
             }
             &.logo-name {
                 margin: 20px auto 0;
@@ -39,10 +39,10 @@
                 width: 330px;
                 height: 155px;
                 @media (max-width: 767px) {
-		            width: 100px;
-				    height: 45px;
-				    margin: 10px auto 20px;
-		        }
+                    width: 100px;
+                    height: 45px;
+                    margin: 10px auto 20px;
+                }
             }
         }
     }
