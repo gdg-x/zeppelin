@@ -4,6 +4,17 @@
   - { question: "How can I apply?",
       answer: 'Applications are open until <b>October 31st, 2016</b>.
                 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdIDVrdl6KNSLQEMvOD54zwWy8UGpqrQ1DmBw3RU71ndTDlCw/viewform">Just fill out this form!</a>'}
+  - { question: "What is the schecdule of the workshop day?",
+      answer: "The workshop will be held during the day. <br />
+                <ul>
+                  <li><b>9:00</b> - Check in</li>
+                  <li><b>9:15</b> - Welcome and intro to Angular 2 (lecture room)</li>
+                  <li><b>10:00</b> - Workshop begins!</li>
+                  <li><b>13:00</b> - Lunch break</li>
+                  <li><b>14:00</b> - Workshop resumes</li>
+                  <li><b>16:30</b> - Sponsors talks and closing notes (lecture room)</li>
+                  <li><b>17:00</b> - Goodbye</li>
+                </ul>"}
   - { question: "What is the criteria for choosing applicants?",
       answer: 'You can read about it in our source of inspiration -
                 <a href="http://blog.djangogirls.org/post/91067112853/djangogirls-how-we-scored-applications" target="_blank">Django Girls blog post</a>.'}
