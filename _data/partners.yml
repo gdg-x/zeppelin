@@ -7,6 +7,11 @@
      - {name: "AngularJS-IL", description: "AngularJS-IL meetup group", link: "http://www.meetup.com/AngularJS-IL/", imageUrl: "AngularJS-IL.png"}
 
 -
+  group: "Swag Contributors"
+  elements:
+    - {name: "WalkMe", description: "WalkMe", link: "http://www.walkme.com/", imageUrl: "WalkMe.png"}
+
+-
   group: "ngGirls is inspired by Django Girls and makes use of its resources"
   elements:
     - {name: "Django Girls", description: "Django Girls", link: "https://djangogirls.org/", imageUrl: "djangogirls.png"}
