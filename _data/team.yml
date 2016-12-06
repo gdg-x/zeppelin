@@ -1,4 +1,18 @@
 -
+  id: "timea-turdean"
+  name: "Timea"
+  surname: "Turdean"
+  thumbnailUrl: TimeaTurdean.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+TimeaTurdean_imy"}
+    - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
+    - {name: "github", link: "https://github.com/therealimy"}
+    - {name: "facebook", link: "https://www.facebook.com/timea.turdean"}
+    - {name: "site", link: "http://www.timeaturdean.com/"}
+-
   id: "tatyana-sandanova"
   name: "Tatyana"
   surname: "Sandanova"
