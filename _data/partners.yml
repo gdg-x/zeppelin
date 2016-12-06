@@ -3,17 +3,11 @@
   elements: 
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png", width: "200px"}
 -
-  group: "Gold Sponsor"
+  group: "Sponsors"
   elements:
-    - {name: "Compass", description: "Compass Gruppe - Information für Ihren Vorteil", link: "http://www.compass.at/", imageUrl: "compass-logo.jpg", width: "280px"}
-    - {name: "INiTS", description: "INiTS - innovation into business", link: "http://www.inits.at/", imageUrl: "inits-logo.png", width: "160px"}
--
-  group: "Silver Sponsor"
-  elements:
-    - {name: "Semantic Web", description: "Semantic Web", link: "https://www.semantic-web.at/", imageUrl: "semanticweb-logo.png", width: "260px"}
+    - {name: "Innovation Incubation Center", description: "Innovation Incubation Center", link: "https://i2c.ec.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "280px"}
+    - {name: "TU Wien - Faculty for Informatics", description: "TU Wien - Faculty for Informatics", link: "http://www.informatik.tuwien.ac.at/", imageUrl: "informatics-logo.png", width: "280px"}
 -
   group: "With support of"
   elements: 
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "180px"}
-    - {name: "Helga", description: "Helga", link: "http://www.hallohelga.at/", imageUrl: "helga-logo.png", width: "100px"}
-    - {name: "Kaahée", description: "Kaahée", link: "http://www.kaahee.at/", imageUrl: "kaahee-logo.jpg", width: "180px"}
