@@ -14,4 +14,5 @@
     - {name: "Logiscool", description: "Logiscool", link: "http://www.logiscool.at/", imageUrl: "logiscool-logo.jpg", width: "180px"}
     - {name: "Dreamicode", description: "Dreamicode", link: "http://dreamicode.com/", imageUrl: "dreamicode-logo.png", width: "180px"}
     - {name: "Frauenreferat der HTU Wien", description: "Frauenreferat der HTU Wien", link: "https://htu.at/Frauen", imageUrl: "htu-frauenreferat.png"}
-    - {name: "Gaumenfreundinnen", description: "Gaumenfreundinnen Catering", link: "http://www.Gaumenfreundinnen.com/", imageUrl: "gaumenfreundinnen.jpg"}
+    - {name: "Innovation Incubation Center", description: "Innovation Incubation Center", link: "https://i2c.ec.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "280px"}
+    - {name: "TU Wien - Faculty for Informatics", description: "TU Wien - Faculty for Informatics", link: "http://www.informatik.tuwien.ac.at/", imageUrl: "informatics-logo.png", width: "280px"}
