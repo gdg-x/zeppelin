@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "ngGirls Tel-Aviv 2016"
+title: "ngGirls"
 email: "info@ng-girls.com"
-description: "ngGirls is a free one-day Angular 2 workshop for women"
+description: "ngGirls is an organization that aims to increase diversity in Tech"
 baseurl: ""
 url: "http://ng-girls.org"
 permalink: "/blog/:title"
@@ -23,13 +23,13 @@ siteVerification: "AIzaSyCZoEYpnZkkqUryTf4WAYfWNMfQK5xTqCY"
 # Organizer Info
 organizerName: "ngGirls"
 organizerAlternateName: "Angular Girls"
-organizerDescription: "ngGirls is a free one-day Angular 2 workshop for women"
+organizerDescription: "ngGirls is an organization that aims to increase diversity in Tech"
 organizerEmail: "info@ng-girls.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://ng-girls.org/"
 
 # Head
-metaKeywords: "event, angular, google, programming, web, chrome, developers, javascript, single page application, tel aviv"
+metaKeywords: "event, angular, google, programming, web, chrome, developers, diversity, javascript, single page application, tel aviv"
 twitterAccount: "@AngularGirls"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -37,7 +37,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: &c4sponsorsUrl "/assets/ngGirls_sponsors_flyer.pdf"
+c4sponsorsUrl: &c4sponsorsUrl "mailto:info@ng-girls.org"
+#c4sponsorsUrl: &c4sponsorsUrl "/assets/ngGirls_sponsors_flyer.pdf"
 
 
 # Navigation
@@ -46,32 +47,32 @@ navigationLinks:
  - {permalink: "/#about", text: "About"}
  - {permalink: "/#description", text: "Be a part"}
  - {permalink: "/#organizing-team", text: "Team"}
- - {permalink: "/#location-map", text: "Location"}
+# - {permalink: "/#location-map", text: "Location"}
  - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/faq/", text: "FAQ"}
 
 # Hero Block
 heroImage: "eclipse.png"
 heroTitle: "ngGirls"
-eventDate: "November 13, 2016, Tel-Aviv"
+eventDate: ""
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform", text: "call for mentors"}
- - {permalink: *c4sponsorsUrl, newTab: true, text: "call for sponsors"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform", text: "call for mentors"}
+# - {permalink: *c4sponsorsUrl, newTab: true, text: "call for sponsors"}
 
 # About Block
 aboutTitle: "About ngGirls"
 aboutBlock:
- - {title: "motivation", image: "motivation.png", text: "ngGirls is aims to introduce women to the world of technology and increase the diversity. Angular 2 is a great technology to start with. We believe this is a win-win situation!" }
- - {title: "operation", image: "operation.png", text: "One-day workshop to build and deploy Angular 2 app with the help of dedticated mentors. Later that week join the community at AngularUP international conference!" }
- - {title: "participation", image: "participation.png", text: "If you're a committed, motivated woman who wants to step into the Web Development world - your place is with us! Apply now!<br>Want to help? Please get in touch!" }
+ - {title: "motivation", image: "motivation.png", text: "ngGirls is aims to introduce women to the world of technology and increase the diversity. Angular is a great technology to start with. We believe this is a win-win situation!" }
+ - {title: "operation", image: "operation.png", text: "We plan various events and activities in which the participants build and deploy a web application with Angular. We offer guidance to help finding a job in front end development." }
+ - {title: "participation", image: "participation.png", text: "If you're a committed, motivated woman who wants to step into the Web Development world - your place is with us! <br>Want to help? Please get in touch!" }
 
 # Description Block (Latest News in index)
 descriptionTitle: "Be a Part of ngGirls"
 descriptionBlock:
  - {title: "Who is it for?", template: "description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
-                  <ul><li><b>Sponsors</b> - with your help we can make this event truely awesome!
-                  From supplying tickets to AngularUP, through supplying lunch, to swag - lots of opportunities to help. "}
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

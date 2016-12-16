@@ -1,9 +1,11 @@
 -
   title: "Applying and Participating"
   faq:
-  - { question: "How can I apply?",
-      answer: 'Application is closed. <br>
-              You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.'}
+  - { question: "The following information regards the event held on November 13th, 2016",
+        answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
+#  - { question: "How can I apply?",
+#      answer: 'Application is closed. <br>
+#              You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.'}
   - { question: "What is the schecdule of the workshop day?",
       answer: "The workshop will be held during the day. <br />
                 <ul>
@@ -32,9 +34,9 @@
                this organization has branches all over Israel, where women get together, learn and practice.
                It’s free, and no registration in advance is needed.
                We recommend taking the Sample Web Track to prepare for the workshop. Later you can join the full Web track.'}
-  - { question: "Will I get a free ticket to AngularUP?",
-      answer: "We really hope so. We’re currently looking for sponsors to make it happen.
-               But even if you won’t get a free ticket, you will be able to purchase one with a special discount."}
+#  - { question: "Will I get a free ticket to AngularUP?",
+#      answer: "We really hope so. We’re currently looking for sponsors to make it happen.
+#               But even if you won’t get a free ticket, you will be able to purchase one with a special discount."}
 
 -
   title: "Getting Ready"

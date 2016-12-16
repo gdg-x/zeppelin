@@ -1,10 +1,10 @@
 -
    group: "With support of"
    elements:
-     - {name: "500Tech", description: "Leading frontend consultancy in Israel", link: "http://500tech.com/", imageUrl: "500Tech.png"}
-     - {name: "AngularUP", description: "Israel's international Angular conference", link: "http://angular-up.com/", imageUrl: "AngularUP.png"}
+#     - {name: "500Tech", description: "Leading frontend consultancy in Israel", link: "http://500tech.com/", imageUrl: "500Tech.png"}
+#     - {name: "AngularUP", description: "Israel's international Angular conference", link: "http://angular-up.com/", imageUrl: "AngularUP.png"}
      - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
-     - {name: "AngularJS-IL", description: "AngularJS-IL meetup group", link: "http://www.meetup.com/AngularJS-IL/", imageUrl: "AngularJS-IL.png"}
+#     - {name: "AngularJS-IL", description: "AngularJS-IL meetup group", link: "http://www.meetup.com/AngularJS-IL/", imageUrl: "AngularJS-IL.png"}
 
 -
   group: "Swag Contributors"
