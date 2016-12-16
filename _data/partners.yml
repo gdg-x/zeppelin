@@ -1,8 +1,12 @@
-- 
+-
   group: "General Sponsor"
-  elements: 
+  elements:
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "logo-google.png", width: "200px"}
 -
+  group: "Gold Sponsor"
+  elements:
+    - {name: "PwC", description: "PwC Österreich", link: "https://www.pwc.at/", imageUrl: "pwc-logo.png", width: "200px"}
+-
   group: "With support of"
-  elements: 
+  elements:
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "180px"}
