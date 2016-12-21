@@ -1,3 +1,10 @@
+  id: "lara-spendier"
+  name: "Lara"
+  surname: "Spendier"
+  thumbnailUrl: "LaraSpendier.jpg"
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/laraspendier"}
 -
   id: "timea-turdean"
   name: "Timea"
