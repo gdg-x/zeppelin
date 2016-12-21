@@ -48,7 +48,7 @@
                       {% if speaker.ribbon != null %}
                       <div class="modal-ribbon-wrapper">
                         {% for ribbon in speaker.ribbon %}
-                           <a class="modal-ribbon" href="ribbon["url"]" target="_blank">{{ ribbon["title"] }}</a>   
+                           <a class="modal-ribbon" href="ribbon["url"]" target="_blank">{{ ribbon["title"] }}</a>
                         {% endfor %}
                       </div>
                       {% endif %}
@@ -64,5 +64,5 @@
     </div>
   {% endfor %}
 </div>
-<script src="https://labnol.googlecode.com/files/youtube.js"></script>
+<script src="{{ site.baseurl }}/js/youtube.js"></script>
 <!-- End Recordings Modals -->
