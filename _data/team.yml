@@ -1,4 +1,20 @@
 -
+  id: 2
+  name: "Revital"
+  surname: "Friedman"
+  company: "Taptica"
+  title: "Front end developer"
+  description: "I've always wanted to combine my love for advance technologies with my willing to help other girls in the Tech world.
+  I have volunteered as a mentor in the first ngGirls workshop, and there I found my way to share my knowledge and help other girls to join the wonderful family of Angular."
+  bio: "Revital Friedman is a passionate Full-stack developer.
+        In the army she has served in the special intelligence technology unit, called Unit 8200.
+        Revital has been a software developer for the last five years, currently working at Taptica as a front end developer, using Angular as the main platform."
+  thumbnailUrl: Revital_Friedman.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://il.linkedin.com/in/revital-friedman-16b79488"}
+
+-
   id: 1
   name: "Shmuela"
   surname: "Jacobs"
@@ -6,12 +22,15 @@
   title: "Web Developer and Consultant"
   description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
   bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular at 500Tech, a leading Web Development company. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
-  thumbnailUrl: Shmuela.jpg
+  thumbnailUrl: Shmuela_AC.png
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/shmool"}
+    - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
+    - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+
 -
-  id: 2
+  id: 3
   name: "Or"
   surname: "Chen"
   company: "Foodsters"
