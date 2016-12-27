@@ -1,20 +1,28 @@
 -
-  title: "Applying and Participating"
+  title: "Applying and Participating - ngGirls @ ngVikings"
   faq:
-  - { question: "The following information regards the event held on November 13th, 2016",
-        answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
-#  - { question: "How can I apply?",
-#      answer: 'Application is closed. <br>
-#              You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.'}
-  - { question: "What is the schecdule of the workshop day?",
+  - { question: "What's ngVikings?",
+      answer: 'ngVikings is the main Angular conference in the Nordics.
+      It takes place in Copenhagen on February 11th (conference day) and 12th (workshops day), 2017.
+      ngGirls participants and mentors will get a special discount for the conference day!
+      Check out the <a href="https://ngvikings.org/" target="_blank">ngVikings website</a>.'}
+#  - { question: "The following information regards the event held on November 13th, 2016",
+#        answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
+  - { question: "How can I apply?",
+      answer: 'Just fill out the <a href="https://goo.gl/forms/54BNs02vlwoIVT7I3" target="_blank">application form</a>.<br/>
+              Do you already have experience in front-end development? <a href="https://goo.gl/forms/JKfM6hzC3mw9izhR2" target="_blank">Apply as a mentor!</a>'}
+  - { question: "Where is ngGirls @ ngVikings going to take place?",
+      answer: 'The workshop will be held in one of the classrooms of the IT University of Copenhagen.
+       <a href="https://www.google.com/maps/dir/55.659635,12.5887693/@55.659635,12.5887693,18z" target="_blank">See the location in Google Maps</a>'}
+  - { question: "What is the schedule of the workshop day?",
       answer: "The workshop will be held during the day. <br />
                 <ul>
                   <li><b>9:00</b> - Check in</li>
-                  <li><b>9:15</b> - Welcome and intro to Angular 2 (lecture room)</li>
+                  <li><b>9:15</b> - Welcome and intro to Angular 2</li>
                   <li><b>10:00</b> - Workshop begins!</li>
                   <li><b>13:00</b> - Lunch break</li>
                   <li><b>14:00</b> - Workshop resumes</li>
-                  <li><b>16:30</b> - Sponsors talks and closing notes (lecture room)</li>
+                  <li><b>16:30</b> - Sponsors talks and closing notes</li>
                   <li><b>17:00</b> - Goodbye</li>
                 </ul>"}
   - { question: "What is the criteria for choosing applicants?",
@@ -37,6 +45,8 @@
 #  - { question: "Will I get a free ticket to AngularUP?",
 #      answer: "We really hope so. We’re currently looking for sponsors to make it happen.
 #               But even if you won’t get a free ticket, you will be able to purchase one with a special discount."}
+  - { question: "Will I get a discount for ngVikings?",
+      answer: "We'll be more than happy to see you at the ngVikings conference! The selected applicants will receive a special discount."}
 
 -
   title: "Getting Ready"
@@ -50,19 +60,20 @@
                 You can start now by installing NodeJS, Git and an IDE of your choice, and open an account on Github."}
   - { question: "What IDE do you recommend?",
       answer: "There are various IDEs you can install with different licenses.
-                Webstorm is very popular, and you can get it with a free trial of a month."}
+                Webstorm is very popular, and you can get it with a free trial of a month.
+                Visual Studio Code is another great option which you can get for free!"}
 
 -
   title: "Mentoring"
   faq:
   - { question: "Can I be a mentor?",
       answer: 'Yes, we would love to have your help! If you have some knowledge and experience in front-end development,
-               please <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform">fill out this form</a>
+               please <a target="_blank" href="https://goo.gl/forms/JKfM6hzC3mw9izhR2">fill out this form</a>
                and we will get in touch in the next few days.'}
   - { question: "Are mentors being payed?",
       answer: "No, mentors, as well as the organizers, volunteer for the workshop."}
-  - { question: "Do mentors get a free ticket to AngularUP?",
-      answer: "No, mentors, as well as the organizers, buy their own tickets, but can get a discount."}
+  - { question: "Do mentors get a discount for ngVikings?",
+      answer: "It will be awesome to have the mentors at ngVikings. Mentors will get a special discount."}
 
 -
   title: "More FAQ"

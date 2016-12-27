@@ -5,11 +5,12 @@
 #     - {name: "AngularUP", description: "Israel's international Angular conference", link: "http://angular-up.com/", imageUrl: "AngularUP.png"}
      - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
 #     - {name: "AngularJS-IL", description: "AngularJS-IL meetup group", link: "http://www.meetup.com/AngularJS-IL/", imageUrl: "AngularJS-IL.png"}
+     - {name: "ngVikings", description: "ngVikings - The main Angular conference in the Nordics", link: "https://ngvikings.org/", imageUrl: "ngvikings.jpg"}
 
--
-  group: "Swag Contributors"
-  elements:
-    - {name: "WalkMe", description: "WalkMe", link: "http://www.walkme.com/", imageUrl: "WalkMe.png"}
+#-
+#  group: "Swag Contributors"
+#  elements:
+#    - {name: "WalkMe", description: "WalkMe", link: "http://www.walkme.com/", imageUrl: "WalkMe.png"}
 
 -
   group: "ngGirls is inspired by Django Girls and makes use of its resources"
