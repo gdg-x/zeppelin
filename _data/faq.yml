@@ -37,11 +37,7 @@
       answer: 'There are many tutorials on the internet for Web development: HTML, CSS and JavaScript.
                 You should get the grasp of how things work.<br />
                <a target="_blank" href="https://www.codecademy.com/">Codecademy</a> is a good place to start,
-               since it provides a platform for coding while learning.<br />
-               Another great option to prepare is <a target="_blank" href="http://www.she-codes.org/">She Codes</a>:
-               this organization has branches all over Israel, where women get together, learn and practice.
-               It’s free, and no registration in advance is needed.
-               We recommend taking the Sample Web Track to prepare for the workshop. Later you can join the full Web track.'}
+               since it provides a platform for coding while learning.'}
 #  - { question: "Will I get a free ticket to AngularUP?",
 #      answer: "We really hope so. We’re currently looking for sponsors to make it happen.
 #               But even if you won’t get a free ticket, you will be able to purchase one with a special discount."}
