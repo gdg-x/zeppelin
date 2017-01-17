@@ -5,7 +5,7 @@
 -
   group: "Platinum Sponsor"
   elements:
-    - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch.at/", imageUrl: "bosch-logo.png", width: "240px"}
+    - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch.at/", imageUrl: "bosch-logo.jpg", width: "240px"}
 -
   group: "Gold Sponsor"
   elements:
