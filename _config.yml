@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "PHP Pernambuco"
 email: "devfest@gdg.org.ua"
@@ -19,6 +18,13 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "Comunidade PHP Pernambuco <typeout>"
+eventDate: ""
+typeoutTextValues: "PHP", "Pernambuco"
+typeoutFallback: "Season"
 
 # Head
 metaKeywords: "php, pernambuco, recife, pe, brasil"
@@ -42,6 +48,11 @@ tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "php"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
