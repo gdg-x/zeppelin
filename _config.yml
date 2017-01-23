@@ -41,10 +41,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Mais informações sobre a comunidade PHP Pernambuco"
 aboutBlock:
- - {title: "Meetups", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Meetups", image: "conference.jpg", text: "Realizamos encontros mensais para discutir assuntos relacionados a php e tecnologia em geral" }
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
