@@ -1,7 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
-safe: false
+safe: true
 
 # Build Settings
 markdown: kramdown
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 heroImage: "capa_php_pernambuco_2.jpg"
 heroTitle: "Comunidade PHP Pernambuco <typeout> 2017"
 eventDate: "Próximo meetup ainda a ser confirmado"
-typeoutTextValues: '"PHP", "Pernambuco"'
+typeoutTextValues: '"", "PHP", "Pernambuco"'
 typeoutFallback: "Season"
 
 # Head
