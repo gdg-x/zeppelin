@@ -62,6 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Vienna"
+heroSubtitle: "Telling our story - 11 March 2017"
 eventDate: "11 March 2017"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
