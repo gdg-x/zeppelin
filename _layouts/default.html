@@ -65,7 +65,8 @@ layout: compress
                     eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
                     centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
                     mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+                    icon = '{{ site.baseurl }}/img/other/map-marker.svg',
+                    zoom = 8;
             } else {
                var staticGoogleMaps = true,
                 eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',

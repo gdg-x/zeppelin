@@ -48,7 +48,7 @@ eventStartTime: "2017-01-31T19:00"
 eventDoorTime: "19:00"
 eventEndTime: "2017-01-31T22:00"
 eventPlaceCoordinates: "-8.0533827, -34.900661799999966"
-#mapCenterCoordinates: "49.842537, 24.025701"
+mapCenterCoordinates: "-8.0533827, -34.900661799999966"
 #mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Navigation
