@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Vienna"
-eventDate: "12 March 2016"
+eventDate: "11 March 2017"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
@@ -71,6 +71,7 @@ heroButtons:
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
+aboutInfo: "People of all genders are welcome to attend your meetups.<br>The theme for this year is &quot;Telling Our Story&quot;.<br>The theme is loose guidance for how you can frame your event, speakers, activities, etc.<br>As always, we try to focus on the accomplishments of technologists that also happen to be women, rather than just focusing on the story of doing something as a woman. This helps the focus be more of the work rather than our gender.<br>It's best to keep things positive when developing panels, talks, keynotes, etc. We know that we need more women in tech and there are issues we face in the industry, but one of the most powerful things we can do to counter act that is to show the women doing great things and what we are achieving."
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Supporting women in tech through the power of example." }
  - {title: "Workshops", image: "workshop.jpg", text: "High-tech workshops, hands-on experience, hacking and debugging. Delivered by top women in tech!" }
@@ -98,16 +99,16 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Microsoft Austria"
-eventLocationLink: "http://www.microsoft.at"
-eventStreetAddress: "Am Euro Platz 3"
+eventLocationName: "TU Wien"
+eventLocationLink: "http://www.tuwien.ac.at"
+eventStreetAddress: "Gußhausstraße 27-29, 1040 Wien"
 eventAddressLocality: "Vienna"
 eventAddressLocalityRegion: "Vienna"
 eventPostalCode: "1120"
 eventAddressCountry: "Austria"
-eventStartTime: "2016-03-12T10:00"
+eventStartTime: "2017-03-11T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-03-12T19:00"
+eventEndTime: "2016-03-11T19:00"
 eventPlaceCoordinates: "48.170681,16.3339366"
 mapCenterCoordinates: "48.170681,16.3339366"
 mapMobileCenterCoordinates: "48.170681,16.3339366"
