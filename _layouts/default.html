@@ -48,7 +48,7 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCplO_Gk67cF3nJ9TGAmW73xZiH7nRwVOs"><\/script>')
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}
@@ -65,7 +65,8 @@ layout: compress
                     eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
                     centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
                     mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+                    icon = '{{ site.baseurl }}/img/other/map-marker.svg',
+                    zoom = 10;
             } else {
                var staticGoogleMaps = true,
                 eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
