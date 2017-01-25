@@ -12,19 +12,16 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "PHP Pernambuco"
 email: ""
 description: "Comunidade de usuários de PHP em Pernambuco"
-baseurl: "/zeppelin"
-url: "https://php-pernambuco.github.io"
+baseurl: ""
+url: "http://php-pernambuco.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Hero Block
 heroImage: "capa_php_pernambuco_2.jpg"
 heroTitle: "PHP Pernambuco: <typeout> "
 eventDate: "31 de Janeiro, 2017, Connection Coworking, Recife"
 typeoutTextValues: '"", "Meetups", "Palestras", "Comunidade"'
-typeoutFallback: "Season"
+typeoutFallback: "Meetups"
 heroButtons:
  - {link: "https://www.eventick.com.br/meetup-php-pernambuco", text: "Inscrição"}
 
@@ -32,8 +29,8 @@ heroButtons:
 metaKeywords: "php, pernambuco, recife, pe, brasil"
 twitterAccount: "@PHPPernambuco"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcTwitter: "/img/seo/php_pernambuco.jpg"
+socialImageSrcFacebook: "/img/seo/php_pernambuco.png"
 
 # Location Block
 locationBlockTitle: "Local"
@@ -49,7 +46,6 @@ eventDoorTime: "19:00"
 eventEndTime: "2017-01-31T22:00"
 eventPlaceCoordinates: "-8.0533827, -34.900661799999966"
 mapCenterCoordinates: "-8.0533827, -34.900661799999966"
-#mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Navigation
 navigationLinks:
