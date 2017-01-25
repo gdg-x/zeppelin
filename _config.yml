@@ -21,10 +21,12 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Hero Block
 heroImage: "capa_php_pernambuco_2.jpg"
-heroTitle: "Comunidade PHP Pernambuco <typeout> 2017"
-eventDate: "Próximo meetup ainda a ser confirmado"
+heroTitle: "Comunidade <typeout> PHP Pernambuco"
+eventDate: "31 de Janeiro - 2017"
 typeoutTextValues: '"", "PHP", "Pernambuco"'
-typeoutFallback: "Season"
+typeoutFallback: "Season",
+heroButtons:
+ - {link: "https://www.eventick.com.br/meetup-php-pernambuco", text: "Inscrição"}
 
 # Head
 metaKeywords: "php, pernambuco, recife, pe, brasil"
@@ -48,6 +50,12 @@ tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "php"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Footer
 socialLinks:
