@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "PHP Pernambuco"
-email: "devfest@gdg.org.ua"
+email: ""
 description: "Comunidade de usuários de PHP em Pernambuco"
 baseurl: "/zeppelin"
 url: "https://php-pernambuco.github.io"
