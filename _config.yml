@@ -39,7 +39,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 
 # About Block
-aboutTitle: "Mais informações sobre a comunidade PHP Pernambuco"
+aboutTitle: "Mais informações sobre a comunidade"
 aboutBlock:
  - {title: "Meetups", image: "conference.jpg", text: "Realizamos encontros mensais para discutir assuntos relacionados a php e tecnologia em geral" }
 
