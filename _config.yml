@@ -21,9 +21,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Hero Block
 heroImage: "capa_php_pernambuco_2.jpg"
-heroTitle: "Comunidade <typeout> PHP Pernambuco"
-eventDate: "31 de Janeiro - 2017"
-typeoutTextValues: '"", "PHP", "Pernambuco"'
+heroTitle: "PHP Pernambuco: <typeout> "
+eventDate: "31 de Janeiro, 2017, Connection Coworking, Recife"
+typeoutTextValues: '"", "Meetups", "Palestras", "Comunidade"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://www.eventick.com.br/meetup-php-pernambuco", text: "Inscrição"}
@@ -35,6 +35,21 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
+# Location Block
+locationBlockTitle: "Local"
+eventLocationName: "Connection Coworking"
+eventLocationLink: "http://cwconnection.com.br"
+eventStreetAddress: "R. Ana Angélica, 64"
+eventAddressLocality: "Derby"
+eventAddressLocalityRegion: "Recife"
+eventPostalCode: "52010-230"
+eventAddressCountry: "Brazil"
+eventStartTime: "2014-10-25T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Navigation
 navigationLinks:
