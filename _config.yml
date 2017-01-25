@@ -24,7 +24,7 @@ heroImage: "capa_php_pernambuco_2.jpg"
 heroTitle: "Comunidade <typeout> PHP Pernambuco"
 eventDate: "31 de Janeiro - 2017"
 typeoutTextValues: '"", "PHP", "Pernambuco"'
-typeoutFallback: "Season",
+typeoutFallback: "Season"
 heroButtons:
  - {link: "https://www.eventick.com.br/meetup-php-pernambuco", text: "Inscrição"}
 
