@@ -44,12 +44,12 @@ eventAddressLocality: "Derby"
 eventAddressLocalityRegion: "Recife"
 eventPostalCode: "52010-230"
 eventAddressCountry: "Brazil"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventStartTime: "2017-01-31T19:00"
+eventDoorTime: "19:00"
+eventEndTime: "2017-01-31T22:00"
+eventPlaceCoordinates: "-8.0533827, -34.900661799999966"
+#mapCenterCoordinates: "49.842537, 24.025701"
+#mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Navigation
 navigationLinks:
