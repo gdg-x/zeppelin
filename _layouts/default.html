@@ -26,6 +26,10 @@ layout: compress
 
     {% if page.modal != null %} 
     	{% include team-modals.html %}
+      {% include ngvikings-mentors-modals.html %}
+    {% endif %}
+
+    {% if page.modal == 'ngvikings' %}
     {% endif %}
 
     {% if page.permalink == '/schedule/' %}

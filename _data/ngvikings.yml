@@ -8,3 +8,87 @@ descriptionBlock:
  - {title: "Can I help?", template: "ngvikings-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+mentors:
+- id: 1
+  name: "Jamie"
+  surname: "González García"
+  bio: "<p>Hi! I am Jaime González García and I am a full stack web developer and UX designer.
+  During the past few years of my career I have been slowly but surely specializing in front-end development and user
+  experience, and somewhere and some time along the way I fell in love with JavaScript.
+  I still enjoy developing in the full stack though, bringing ideas to life,
+  building things from nothingness, beautiful things that are a pleasure and a delight to use.</p>
+
+<p><b>I want to <a href='https://vimeo.com/98720197' target='_blank'>make the world a better place</a> through building
+ awesome software.</b> I haven’t figured out how exactly to do that just yet… so I am getting by with
+ <a href='http://www.jaimegonzalezgarcia.com/' target='_blank'>building meaningful products that help people</a>,
+ <a href='http://www.google.se/' target='_blank'>working as a technical solutions consultant at Google and helping my publishers be great</a>,
+ <a href='http://www.barbarianmeetscoding.com/' target='_blank'>teaching and sharing what I know</a>,
+ and at a smaller scale by being kind to those around me, joyful and funny :).</p>
+
+<p>I live in Sweden with my beautiful fiancée Malin and devote my hours to writing software,
+ reading a ton, writing, drawing and lifting heavy weights.</p>
+
+<p>I'm looking forward to teaching the awesomeness of programming Angular to more people at ngGirls and increase the
+diversity of our awesome community! Yey!</p>
+"
+  thumbnailUrl: jamie.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/vintharas"}
+
+- id: 2
+  name: "Sebastian"
+  surname: "Florian"
+  bio: "<p>I started programming around age 15, got interested in design,
+  internet of things, electronics, engineering, worked in a few startups and projects,
+   currently playing around at Falcon.io where I am a senior frontend developer.
+   Been working with angular for almost 3 years. </p>
+
+  <p>I loved Angular at first sight, and have been really lucky to have had a great mentor myself when I started.
+  I know sometimes the world of programming can look intimidating, and a bit like a man's world,
+  but it's actually something very creative and personal, and the more diverse and different ways of viewing a problem,
+  the better. </p>
+"
+  thumbnailUrl: sebastian.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/SebFlorian"}
+
+- id: 3
+  name: "Martin"
+  surname: "Hobert"
+  bio: "<p>I’m at 26-year-old developer currently working at Mindworking A/S where I develop websites and solutions
+  for real estate agencies. I’ve had my own web agency for 4 years where we created websites for all kinds of companies.
+  I’ve recently sparked my attention with Single Page Applications and got to create my very first Angular 2 web app
+  together with the WordPress REST API to create a website for a physiotherapist
+  (<a href='https://kuhrefysio.dk/' target='_blank'>kuhrefysio.dk</a>).
+  Since then I’ve started several small and big projects with most of them either based on Angular 2 or React,
+  some of them being web applications while others are mobile.</p>
+
+  <p>I love learning and playing with new toys which is why my boss hates/loves me as I’m that guy who
+  always comes about and want to try out the next cool thing on the block!
+  When I’m not coding I’m usually gaming or sleeping.</p>
+"
+  thumbnailUrl: martin.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/MartinHobert"}
+
+- id: 4
+  name: "Robert"
+  surname: "Willemelis"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
