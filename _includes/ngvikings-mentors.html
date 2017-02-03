@@ -8,7 +8,11 @@
 
       {% assign animationDelay = 0 %}
       {% for member in site.data.ngvikings.mentors %}
-      {% assign colWidth = 12 | divided_by: forloop.length %}
+      {% if forloop.index < 4 %}
+        {% assign colWidth = 4 %}
+      {% else %}
+        {% assign colWidth = 3 %}
+      {% endif %}
       {% assign memberImage = site.baseurl | append: '/img/ngvikings-mentors/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
@@ -19,6 +23,7 @@
                  style="background-image: url({{ memberImage }})"></div>
             <div class="name">{{ member.name }} {{ member.surname }}</div>
             <div class="sub">{{ member.company }}</div>
+            <br />
           </div>
         </div>
       </div>
@@ -29,7 +34,7 @@
       {% endfor %}
 
     </div>
-    <h6 style="float: right; padding-right: 30px">and others...</h6>
+    <!--<h6 style="float: right; padding-right: 30px">and others...</h6>-->
   </div>
 </section>
 <!-- End Organizing Team Section -->

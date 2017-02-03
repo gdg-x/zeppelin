@@ -37,23 +37,23 @@ diversity of our awesome community! Yey!</p>
   social:
     - {name: "twitter", link: "https://twitter.com/vintharas"}
 
-- id: 2
-  name: "Sebastian"
-  surname: "Florian"
-  bio: "<p>I started programming around age 15, got interested in design,
-  internet of things, electronics, engineering, worked in a few startups and projects,
-   currently playing around at Falcon.io where I am a senior frontend developer.
-   Been working with angular for almost 3 years. </p>
+- id: 6
+  name: "Simona"
+  surname: "Cotin"
+  bio: "<p>I fell in love with programming while I was being tutored to pass the programming in C++ class.
+  That was 15 years ago. Ever since I have  coded in C++, Java, C#, Delphi, Python, PHP, Lisp,
+  Javascript and hoping to learn Go this year.</p>
 
-  <p>I loved Angular at first sight, and have been really lucky to have had a great mentor myself when I started.
-  I know sometimes the world of programming can look intimidating, and a bit like a man's world,
-  but it's actually something very creative and personal, and the more diverse and different ways of viewing a problem,
-  the better. </p>
+  <p>I am a self thought Angular developer with nearly 4 years experience.
+  Angular was love at first sight giving a complete new meaning to the Javascript world,
+  thanks to Kent Dodds and <a href='egghead.io' target='_blank'>egghead.io</a> - that's where I got hooked on Angular.</p>
+
+  <p>Looking forward to sharing the passion and knowledge with ngGirls &hearts;!</p>
 "
-  thumbnailUrl: sebastian.png
+  thumbnailUrl: simona.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/SebFlorian"}
+    - {name: "twitter", link: "https://twitter.com/simona_cotin"}
 
 - id: 3
   name: "Martin"
@@ -75,6 +75,24 @@ diversity of our awesome community! Yey!</p>
   social:
     - {name: "twitter", link: "https://twitter.com/MartinHobert"}
 
+- id: 2
+  name: "Sebastian"
+  surname: "Florian"
+  bio: "<p>I started programming around age 15, got interested in design,
+  internet of things, electronics, engineering, worked in a few startups and projects,
+   currently playing around at Falcon.io where I am a senior frontend developer.
+   Been working with angular for almost 3 years. </p>
+
+  <p>I loved Angular at first sight, and have been really lucky to have had a great mentor myself when I started.
+  I know sometimes the world of programming can look intimidating, and a bit like a man's world,
+  but it's actually something very creative and personal, and the more diverse and different ways of viewing a problem,
+  the better. </p>
+"
+  thumbnailUrl: sebastian.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/SebFlorian"}
+
 - id: 4
   name: "Robert"
   surname: "Willemelis"
@@ -92,3 +110,25 @@ diversity of our awesome community! Yey!</p>
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 5
+  name: "Daniel"
+  surname: "Lazarovici"
+  bio: "<p>Senior Front-end engineer with passion for UI / UX</p>
+"
+  thumbnailUrl: daniel.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/TheLaz"}
+
+- id: 7
+  name: "Thomas"
+  surname: "Horvath"
+  bio: "<p>Front-End Developer from Dublin, Ireland.
+  Thomas has been working with Angular since its alpha stages last year and never looked back.
+  While it was a bumpy road, he is excited to share his learning experience with the ng world :)</p>
+"
+  thumbnailUrl: thomas.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/CriticalPix"}
