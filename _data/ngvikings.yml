@@ -8,6 +8,16 @@ descriptionBlock:
  - {title: "Can I help?", template: "ngvikings-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+posts:
+- title: "Diversity Support - Ticket Donation"
+- content: "
+<p class='post-body'>
+  We're happy to announce the diversity support program! ngVikings participants can donate a ticket to help us get
+  underrepresented groups to the conference. For each full-price ticket donated by ngGirls mentors,
+  ngVikings brings two ngGirls participants to the conference! Thanks ngVikings for making this happen and huge
+  thanks to the mentors!
+</p>
+"
 
 mentors:
 - id: 1
