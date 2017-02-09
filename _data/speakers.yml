@@ -1,8 +1,15 @@
 -
+  id: "karin-hohenthaner"
+  name: "Karin"
+  surname: "Hohenthaner"
+  thumbnailUrl: "missing.png"
+  active: true
+  bio: ""
+-
   id: "laura-gaetano"
   name: "Laura"
   surname: "Gaetano"
-  thumbnailUrl: "LauraGaetano.jpg"
+  thumbnailUrl: "missing.png"
   active: true
   bio: "Laura is a manager at Travis Foundation and the organiser of Rails Girls Summer of Code — a 3-month scholarship program to support women in the Open Source community. With a background in the visual arts and a non-traditional career path, she landed in tech as a web developer somewhat by accident. Laura is passionate about making things, Open Source software, feminism, music and space (as in rockets). Her favourite vine is the one of the tiny piglet prancing through the grass."
 -
@@ -32,7 +39,7 @@
   surname: "Sárga"
   thumbnailUrl: "NoraSarga.jpg"
   active: true
-  bio: "will be updated soon"
+  bio: ""
 -
   id: "eniko-balint"
   name: "Enikö"
