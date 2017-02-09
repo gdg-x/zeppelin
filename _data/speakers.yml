@@ -1,11 +1,59 @@
 -
+  id: "laura-gaetano"
+  name: "Laura"
+  surname: "Gaetano"
+  thumbnailUrl: "LauraGaetano.jpg"
+  active: true
+  bio: "Laura is a manager at Travis Foundation and the organiser of Rails Girls Summer of Code — a 3-month scholarship program to support women in the Open Source community. With a background in the visual arts and a non-traditional career path, she landed in tech as a web developer somewhat by accident. Laura is passionate about making things, Open Source software, feminism, music and space (as in rockets). Her favourite vine is the one of the tiny piglet prancing through the grass."
+-
+  id: "josephine-dorado"
+  name: "Josephine"
+  surname: "Dorado"
+  thumbnailUrl: "JosephineDorado.jpg"
+  active: true
+  bio: "Josephine Dorado is an entrepreneur, professor and performing artist whose work focuses on the convergence of physical with digital experiences and social practice arts. Her work has garnered multiple Fulbright awards and a MacArthur Foundation award. Recently, Josephine completed a residency at Museumsquartier in Austria, working with refugees to create virtual reality media narratives and exploring aerial performance-play as social practice. She is President of Fulbright’s NY Chapter, teaches at The New School, and consults for the U.S. State Department’s TechCamps. Previously, Josephine founded Kidz Connect, a virtual cultural exchange program that connected youth internationally through creative collaboration and performance in virtual worlds."
+-
+  id: "kristina-kiesel"
+  name: "Kristina"
+  surname: "Kiesel"
+  thumbnailUrl: "KristinaKiesel.jpg"
+  active: true
+  bio: "I am born and raised in Vienna and studied architecture at the Technical University Vienna and the Pratt Institute NY. in 2015 I finished my PhD in Building Physics on "The Influence of the Urban Micro Climate on the Thermal Performance of Buildings". I have been working in research and teaching at the Department of Building Physics and Building Ecology at TU Vienna since 2010. My research focuses are urban microclimate, urban density, air quality, building performance and building performance simulation, acoustics and light."
+-
+  id: "agnes-scherzer"
+  name: "Agnes"
+  surname: "Scherzer"
+  thumbnailUrl: "AgnesScherzer.jpg"
+  active: true
+  bio: "Agnes is Senior Product Manager at Pivotal Labs, Berlin. She helps start-ups and enterprises establish more user-centered, lean and agile approaches in order to build better products and services. Prior to Pivotal Labs Agnes was responsible for the self-care application portfolio at A1 Telekom Austria and consulted client companies on strategies how to master their Digital Transformation processes. Agnes studied Business Administration and IT Management in Wiener Neustadt and took several courses on related topics at UC Berkeley and Harvard University. She supports the Balanced Team movement and loves to operate at the intersection of user needs, business goals and technical possibilities."
+-
+  id: "nora-sarga"
+  name: "Nóra"
+  surname: "Sárga"
+  thumbnailUrl: "NoraSarga.jpg"
+  active: true
+  bio: "will be updated soon"
+-
+  id: "eniko-balint"
+  name: "Enikö"
+  surname: "Balint"
+  thumbnailUrl: "EnikoBalint.jpg"
+  active: true
+  bio: "I call myself a lucky person as my passion is also my profession. I run my own company in software development and innovation consulting with an amazing team and I love what I am doing. I have started as a developer 9 years ago at an international insurance company, moved upwards the corporate ladder, which was sometimes challenging as a women (+ migrant) in such a male-dominated area. For over 2 years I was leading the distributed business process management team with 22 employees and was responsible for a 7 digit budget. Afterwards I wanted to dive into the startup world, worked for and with startups and decided to build up my own company with the mission of bringing out the potential of individuals and organisations. We are now a company of 4 migrant women based in Vienna, running the business successfully for over a year and aiming to teach the spirit of entrepreneurship, the leap of faith and our passion for coding."
+-
+  id: "ramon-huidobro"
+  name: "Ramón"
+  surname: "Huidobro"
+  thumbnailUrl: "RamonHuidobro.jpg"
+  active: true
+  bio: "Ramón is a Chilean fellow living in Vienna, Austria. He’s been developing Mac, iOS and Web software for years and loving every minute of it. During the last five years he’s been running the “Computer Game Programming” after-school activity at his old school in Vienna where he teaches kids to make games with different technologies. He’s also currently wrapping up his Software Engineering degree at the Vienna University of Technology, and at the same time helping run the “Ruby Habits” study group. He loves puppies."
+-
   id: "stefanie-duchet"
   name: "Stefanie"
   surname: "Duchet"
   company: "BD, Austria"
   title: "Team Lead for Project Management"
   thumbnailUrl: "StefanieDuchet.jpg"
-  active: true
   bio: "Stefanie is a 31-year-old team lead for project management currently employed at BD, Austria and responsible for implementing medical software projects. Although she has completed a technical study programme with the focus on sports equipment technology she was never a so called “IT pro”. Nevertheless, Stefanie was always attracted by managing IT and technical projects with a certain passion for health tech. The main steps of her career include being part of and establishing a startup in the field of e-Health and ambient assisted living, working as an IT project manager at a Scandinavian IT company and her current job as team lead."
   social:
     - {name: "site", link: "http://www.communicationplayground.net/"}
@@ -18,7 +66,6 @@
   company: "Compass Group"
   title: "Software Developer"
   thumbnailUrl: "ElisabethBluemelhuber.jpg"
-  active: true
   bio: "Lisi Blümelhuber and Myriam Teicher both work for Compass Gruppe, a company providing Data mining services on business information like the Austrian Business Register. Lisi is an experienced software developer. She focuses on clean code, high-quality software development and build management."
 -
   id: "myriam-teicher"
@@ -27,7 +74,6 @@
   company: "Compass Group"
   title: "Requirements Engineer"
   thumbnailUrl: "MyriamTeicher.jpg"
-  active: true
   bio: "Lisi Blümelhuber and Myriam Teicher both work for Compass Gruppe, a company providing Data mining services on business information like the Austrian Business Register. Myriam works as a requirements engineer and UI designer. She likes to improve the users’ lives by designing clean and consistent interfaces."
 -
   id: "irene-fialka"
@@ -40,7 +86,6 @@
   company: "TU Wien"
   title: "Director Entrepreneurship & Innovation Center"
   thumbnailUrl: "BirgitHofreiter.jpg"
-  active: true
   bio: "Dr. Birgit Hofreiter is Board Member of AustrianStartups, the Head of the Informatics Innovation Center (i²c) and since the cross-faculty roll out director of the TUW wide Entrepreneurship & Innovation Center offering a bootcamp style StartAcademy for R&D commercialization, a Diploma Supplement on Innovation for students at TUW, a campus located co-working space (i²c FounderSpace) providing an incubation program (TUW i²ncubator), as well as many public events like eg. the Founder & Investor Talk Series (already in season 5) or the i²c NetworkingFriday. Before Birgit dedicated her career the implementation and business development of an Entrepreneurial University, she set up a competence center on inter-organizational business collaborations while with University of Liechtenstein, has been a Post Doc Research Fellow at the University of Technology Sydney, and an Austrian Delegate to UN/CEFACT contributing to standards and recommendations for interoperability. Additionally, she is co-founder of the IEEE Conference on Business Informatics and on the editorial board of community related journals."
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/birgit-hofreiter-38892021"}
@@ -52,7 +97,6 @@
   company: "Google Developer Group Tbilisi"
   title: "Founder"
   thumbnailUrl: "NinoNanitashvili.jpg"
-  active: true
   bio: "Nino Nanitashvili has been founder of the first ever Google Developer Group in Georgia (at that time called GTUG). Throughout 4 years of leadership she has been organizer of numbers of small to large scale events and conferences. In addition to GDG, Nino has broad experience at international, governmental and non-governmental institutions working on social issues, civic engagement and transformation through technologies. She leads Women Techmakers community in Georgia, teaches kids in the regions basic computer programming, advocates for digital accessibility and uses computer games for connecting youth in conflict divides virtually."
   social:
     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
@@ -64,9 +108,7 @@
   company: "Google Developer Group"
   title: "Team leader"
   thumbnailUrl: "TimeaTurdean.jpg"
-  rockstar: true
-  active: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+TimeaTurdean_imy"}
     - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
     - {name: "github", link: "https://github.com/therealimy"}
@@ -80,8 +122,6 @@
   title: "Founder, inventor and CEO"
   bio: "Dr. Sanja Selak is the founder, inventor and CEO of Origimm (‘Origins of Immunity’), an Austrian biotechnology company developing a completely new way of treating common acne, based on immunotherapy against one of the main causes of acne, the bacterium Propionibacterium acnes."
   thumbnailUrl: "SanjaSelak.jpg"
-  rockstar: true
-  active: true
   social:
     - {name: "linkedin", link: "https://at.linkedin.com/in/sselak"}
     - {name: "site", link: "http://www.origimm.com"}
@@ -93,8 +133,6 @@
   title: "Technology Transfer Associate"
   bio: "Dr Astrid Woollard is a technology transfer professional with vast experience in establishing and running companies (including IP strategy, business strategy, business development, and fundraising).<br>Astrid currently works at the Institute of Science and Technology Austria and acts as an independent IP strategy advisor for startups. Previously, Astrid worked for Oxford University’s technology transfer organization Isis Innovation, and was Security Policy Advisor for an EU FP7 big data project at the STFC’s Scientific Computing Department.<br>Before moving into the technology transfer world, Astrid had worked for many years in the pharmaceutical industry by which she acquired detailed knowledge about the drug development process and associated technologies."
   thumbnailUrl: "AstridWoollard.jpg"
-  rockstar: true
-  active: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/astridwoollard"}
 -
@@ -108,7 +146,6 @@
   active: true
   social:
     - {name: "twitter", link: "https://twitter.com/rinaahm"}
-  rockstar: true
 -
   id: "logiscool"
   name: "Logiscool"
@@ -121,7 +158,6 @@
   surname: "Knipp"
   company: "qnipp Gmbh"
   title: "Founder and CEO"
-  active: true
   thumbnailUrl: "FranzKnipp.jpg"
   bio: "Dipl.-Ing. Franz Knipp is passionate about computers and coding since the age of ten. After studying and working in Vienna, he founded a company in his home village to offer high-tech jobs in the rural area. He implements prototypes and complete solutions of web and mobile applications.<br>In 2014 Franz Knipp started his coding workshops called <a href='http://code14.org/' target='_blank'>Code 14</a> and <a href='http://dreamicode.com/' target='_blank'>Dreamicode</a> to share his passion with youths in the age of 10 to 14. About 100 participants had the chance to take their first steps in the field of programming until now."
   social:

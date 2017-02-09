@@ -1,15 +1,15 @@
-- 
-  date: "2016-03-12"
-  dateReadable: "12 March 2016"
-  tracks: 
+-
+  date: "2017-03-11"
+  dateReadable: "11 March 2017"
+  tracks:
     - {title: "Presentations", color: "#90be4e"}
     - {title: "Workshops", color: "#be904e"}
     - {title: "Kids' Workshops", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "09:00",
-    	endTime: "09:30",
-    	sessionIds: [900]
+        startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [900]
     }
     - {
         startTime: "09:30",
@@ -17,9 +17,9 @@
         sessionIds: [901, 0, 201]
     }
     - {
-    	startTime: "09:45",
-    	endTime: "10:30",
-    	sessionIds: [100, 0, 201]
+        startTime: "09:45",
+        endTime: "10:30",
+        sessionIds: [100, 0, 201]
     }
     - {
         startTime: "10:30",
@@ -70,16 +70,6 @@
         startTime: "15:00",
         endTime: "15:45",
         sessionIds: [104]
-    }
-    - {
-        startTime: "15:45",
-        endTime: "16:30",
-        sessionIds: [105]
-    }
-    - {
-        startTime: "16:30",
-        endTime: "17:15",
-        sessionIds: [106]
     }
     - {
         startTime: "17:15",

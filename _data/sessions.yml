@@ -7,7 +7,7 @@
   service: true
 -
   id: 901
-  title: "Welcome and Intro to WTM, special welcome by Irene Fialka"
+  title: "Welcome and Intro to WTM"
   place: "Hall"
   service: true
 -
@@ -17,7 +17,7 @@
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
   language: de
-  speakers: ["franz-knipp"]
+  speakers: ["rina-ahmed"]
   subtitle: "9:30 - 11:40"
 -
   id: 202
@@ -25,31 +25,31 @@
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
-  speakers: ["logiscool"]
+  speakers: ["rina-ahmed"]
   language: de
   subtitle: "12:30 - 14:30"
 -
   id: 100
-  title: "Don’t just “Lean in” - follow your passion"
+  title: "Making your voice heard: Open Source Needs You"
   place: "Room 1"
-  description: "Sheryl Sandberg, the Facebook’s Chief Operating Officer, wrote in her celebrated book <i>Lean In</i> that we women often sabotage our career “by lacking self-confidence, by not raising our hands and by pulling back when we should be leaning in”. Of course, women can be held back also by many other hurdles, however this one sentence highlights the obstacles that women tend to create within themselves."
+  description: "The people who contribute to an OSS project are the ones shaping its future. But if you've never contributed to an Open Source project before, it can be daunting to submit your first pull request and become part of its community, especially if you're a woman. This might keep you from contributing in the first place, meaning your voice, experience, and opinions will be lost. What if you could submit a pull request with confidence, contribute your skills & experience, and become a meaningful part of a project? My talk will explain what contributing to Open Source actually means, show the (social and technical) ways in which you can contribute, and present paths to get started with your first contribution. By the end, you will know how to find a project you’re passionate about, and how you can go about improving it and the Open Source community—one contribution at a time."
   subtype: presentation
-  speakers: ["sanja-selak"]
+  speakers: ["laura-gaetano"]
   language: en
 -
   id: 300
   title: "Partners"
   place: "Room 1"
-  description: "Presentation of and by our partners for Women Techmakers Vienna 2016"
+  description: "Presentation of and by our partners for Women Techmakers Vienna 2017"
   subtype: "presentation"
   language: "en"
 -
   id: 101
-  title: "Idea > Invention > Innovation"
+  title: "Thriving in the Macondo: VR storytelling workshops for women"
   place: "Hall"
-  description: "From awesome academia and brilliant business into technology transfer.<br><br>In her talk, Astrid will take you on a journey from science and business into technology transfer. She will share her experiences of working in the highly competitive tech world, and will highlight examples of some of the successful and inspiring female entrepreneurs she encountered during her career."
+  description: "Josephine Dorado recently completed a Fulbright residency in Austria, working with women in the Macondo refugee community to create virtual reality media narratives of their journeys and developing a methodology by which the VR workshops can be replicated. The workshops involved creating immersive 360-degree photospheres stitched with audio stories of their journeys. Participants included women from Chechnya, Pakistan, Somalia, Afghanistan and Syria who were taking compulsory language classes at the Macondo. The workshop weaves language learning with immersive story creation in a deeply engaging 360-degree environment. Women participating learned how to generate their own stories, construct and use Google Cardboard headsets and create photospheres, encouraging digital literacy and storytelling skills within a framework of cultural inclusion and awareness. The talk will describe the process and will include elements of participation involving viewing content through Google Cardboard headsets."
   subtype: "presentation"
-  speakers: ["astrid-woollard"]
+  speakers: ["josephine-dorado"]
   language: en
 -
   id: 301
@@ -63,33 +63,30 @@
   title: "Lunch Break"
   place: "Hall"
   service: true
-  thumbnailUrl: "Gaumenfreundinnen.jpg"
-  subtitle: "Gaumenfreundinnen"
-  description: "<emph>Gaumenfreundinnen</emph> is a Viennese catering company which is specialized on organic and vegetarian food. Expect a healthy and tasty lunch!"
 -
   id: 200
-  title: "Workshop: Overcoming Impostor Syndrome"
+  title: "Workshop: LEGO - this game is serious"
   place: "Room 3"
-  description: "Do you feel like a fraud? Are you not sure whether you can do the work you are supposed to?<br><br>You are not alone, and many high-achievers are unable to internalize and accept their successes. They often attribute their accomplishments to luck rather than to ability, and fear that others will eventually unmask them as a fraud.<br>This workshop will help you identify and deal with the impostor syndrome. You will make the first steps in overcoming your fears and foster your confidence in your abilities."
+  description: "LEGO Serious Play (LSP) is a way of using LEGO bricks to express feelings and ideas. It is used by mostly adults and companies, to collaborate and discuss relationships and concepts. By building LEGO models, people associate metaphors to it and a storytelling begins, which is more powerful than just talking. This hands-on workshop is based on the LSP principles and offers participants the possibility to build up something together, to be creative, to share ideas and thoughts, to play and to discuss very “serious” topics along the way. At the beginning participants are introduced to the concept of metaphors and how to express themselves with LEGO bricks. Everybody builds up a small model with only a few pieces. Afterwards the group splits up in smaller teams and everybody is working on a model for a specific topic. This topic can be defined by the Women Techmakers team and can be related to the challenges women face in the STEM areas. During the modelling phase also ideas and solutions are discussed. It is a really powerful tool to loosen up boundaries and talk about feelings and abstract concepts in a very concrete environment. It can be a door opener for many conversations that will last even after the workshop and that would make the event memorable. Ideally there are 8-12 participants, however having more participants is also possible by splitting them up into smaller groups."
   subtype: workshop
-  speakers: ["timea-turdean"]
+  speakers: ["eniko-balint", "nora-sarga"]
   language: en
   subtitle: "12:30 - 14:30"
 -
   id: 102
-  title: "One App Across Devices"
-  place: "Room 1"
-  description: "With Windows 10 developers have the opportunity to bring their apps to multiple device families at once. Learn how to develop apps for Windows 10 that run across devices such as Raspberry Pi, Phones, Tablets, Desktop and more! You will see demos with cool sceanarios like gender and age recognition to create more personal app experiences."
+  title: "The 5 elements of urban architecture: fire, earth, water, air and You"
+  place: "Hall"
+  description: "Urban architecture has a key role in climate policies. More than two thirds of the human population will live in cities by the year 2050. If we do not think about city design, we will not be able to meet our climate goals. Urban design is a fascinating topic for me. It is complex – a typical building performance simulation uses thousands of variables and a lot of computer power. It is integrative – bringing together social sciences, architecture, medicine, physics, meteorology and a variety of other research areas. And it is demanding – changing cities is a political effort that rarely gains the attention it deserves. Therefore, it is the perfect research area for me and other women. Urban design can be understood in five critical aspects that I like to describe as the 5 elements of urban performance: Fire – The suns radiation has major influences on us as human beings, but also on the functionality of buildings and urban environments. The amount of solar gains that go into a building can make it energy efficient and sustainable, but if not considered properly can lead to a building or environment that makes us sick and needs enormous efforts to be usable. Water – Cities have to deal with water in many different ways (eg. Supply of save drinking water, storm water management, sewage treatment). But also the humidity and evaporation will affect the habitability of urban spaces and the way buildings work. Earth --- Urban environments are composed of many different surfaces. The amount of permeable soil within city structures and also the amount of vegetation is fundamental not only to the human wellbeing but also the urban climatic. Air --- The air we breathe is composed by the emission we produce. Furthermore wind on one hand is very important to remove pollutants and to bring fresh into the city. But it can also cause problems for the architecture and the usability of open spaces if to strong. You – The user of an environment whether a building or an urban space plays a key role f we want to make out cities more sustainable. Anthropogenic heat from cars, heating and/or cooling spaces transforms the urban climate and therefore the functionality of buildings and spaces."
   subtype: presentation
-  speakers: ["rina-ahmed"]
+  speakers: ["kristina-kiesel"]
   language: en
 -
   id: 103
-  title: "A User’s Worst Nightmare"
+  title: "Ways to find success and happiness at work – lessons for our 20-year old selves"
   place: "Room 1"
-  description: "Everyone has already seen bad usability mistakes. In this talk you will get to see some common misconceptions between the users' and the developers' perspectives. It will also show why the 'obviously' correct solution from the user perspective seems seldom that obvious to developers. Who hasn’t been dreaming about a life without users... <br>This beginner’s guide to the user perspective intends to help you reconcile the different stakeholders’ wishes."
+  description: "Looking back on over ten years of our respective careers, we faced both phases of success as well as rocky times and disruptions; at the same time, we realized that while our areas of competence grew, happiness did not always necessarily correlate with (perceived) success. In our talk we want to reflect on the learnings we individually identified to find both - success and happiness at work. We start off by sharing some of the personal high and low points in our careers so far, and contrasting the level of success with the amount of happiness perceived over time. We stipulate, that the ultimate aim is to achieve both growing success as well as an increasing level of happiness over time, and that both can be positively influenced by following some of the advice we want to offer based on our personal experiences. In the main part, we will address topics such as - How to lead by influence, - Why empathy matters, - Why you shouldn’t be afraid to step in big footprints, - Why it’s important to do good and make it known, - How saying no could help you achieve more, and - Why 1 on 1 meetings are so powerful. For each of these topics, we will state why it is relevant, introduce definitions, prominent examples or study results where applicable, share our own experiences by telling a personal story, and then give an advice addressed to our own 20 year-old self. We will then introduce two powerful underlying principles that guided us so far: authenticity and resilience. Again, we will define these concepts, and then provide our personal take on them. After a wrap-up including the key take-aways, we will invite the audience to ask questions or share similar stories with the group."
   subtype: presentation
-  speakers: ["elisabeth-bluemelhuber", "myriam-teicher"]
+  speakers: ["agnes-scherzer"]
   language: en
 -
   id: 903
@@ -98,28 +95,11 @@
   service: true
 -
   id: 104
-  title: "Entrepreneurial University – Are we there yet?"
-  subtitle: "From Concept To Action At TUW"
+  title: "The Benefits Of Teaching Kids to Code"
   place: "Room 1"
-  description: "In my talk, I will basically give the audience a peek view on my personal journey of education/work, being a scientist and almost the natural consequence of becoming an intrapreneur /+ entrepreneur at TUW. (Basically, how my way impacted what I am doing now). I will share my vision of an entrepreneurial university ecosystem and the role of universities in an entrepreneurial ecosystem subsequently ending in an identification of some obstacles and missing components inhouse and the Austrian ecosystem."
-  speakers: ["birgit-hofreiter"]
+  description: "'How come we can only define a method once?' Ever taught kids to code? They have this magical ability to take something you think you understand well and turn it upside down within an instant. They challenge norms and ask questions that you never thought could be asked. Challenges aside, teaching has been an extraordinary turning point for me. I highly recommend it! You can take the lessons learned from doing so and turn them into valuable skills. These can help you become an active member of the developer community. Everyone can benefit from teaching, and not just from teaching kids!"
+  speakers: ["ramon-huidobro"]
   subtype: presentation
-  language: en
--
-  id: 105
-  title: "Effective communication in IT projects as a success factor - why women are the perfect match"
-  place: "Room 1"
-  description: "Usually IT specialists with extended technical knowledge evolve to become project managers. One explanation is that having profound knowledge in IT domain is considered as essential prerequisite to become an IT project manager. Looking at the gender distribution in IT it is very clear that women are currently underrepresented. What my work experience has taught me is that it is possible to manage IT projects without having detailed technical know-how but being a good communicator and enabler for a great team of specialists you can rely on instead. This talk will highlight what is needed to communicate effectively in project management and that women carry a lot of the needed skills in them."
-  subtype: presentation
-  speakers: ["stefanie-duchet"]
-  language: en
--
-  id: 106
-  title: "What Brings Women to IT and Makes Them Stay There?"
-  place: "Room 1"
-  description: "Ever wondered why we are here? What are the social, cultural or personal factors that bring women to the tech field? As a sociologist with training, Nino tried to explore existing international research findings, as well as, to conduct her own survey to define current context in Georgia.<br>During this talk you will hear interesting stories, find out about striking commonalities and share your thoughts with each other. Session will summarize explicit or latent influences that affect decisions of young girls and women, from childhood throughout their career. You'll realize how much parents, teachers, early access to computers, cultural stereotypes of even content of school textbooks matter in this process. We hope after the session you will learn how we as speakers, mentors, sisters or acquaintances can do our part to enhance positive facilitating factors and avoid negative preconceptions.<br>We invite you to share, discuss and refine practical steps for direct application in our environment to support women participation and a true empowerment. It's never late to start programming and it's never late to support others in this path."
-  subtype: presentation
-  speakers: ["nino-nanitashvili"]
   language: en
 -
   id: 904
