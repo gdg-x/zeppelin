@@ -126,7 +126,7 @@ venueFeatures: ["What to say", "about the location", "where it is"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "wtmvie"
+twitterHashTag: "wtmvie17"
 twitterFeed: "/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
