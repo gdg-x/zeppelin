@@ -1,4 +1,12 @@
 -
+  id: "tanja-ollinger"
+  name: "Tanja"
+  surname: "Ollinger"
+  company: "Bosch"
+  thumbnailUrl: "TanjaOllinger.jpg"
+  active: true
+  bio: ""
+-
   id: "karin-hohenthaner"
   name: "Karin"
   surname: "Hohenthaner"

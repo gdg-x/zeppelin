@@ -30,6 +30,30 @@
   subtitle: "12:30 - 14:30"
 -
   id: 100
+  title: "The 5 elements of urban architecture: fire, earth, water, air and You"
+  place: "Room 1"
+  description: "Urban architecture has a key role in climate policies. More than two thirds of the human population will live in cities by the year 2050. If we do not think about city design, we will not be able to meet our climate goals. Urban design is a fascinating topic for me. It is complex – a typical building performance simulation uses thousands of variables and a lot of computer power. It is integrative – bringing together social sciences, architecture, medicine, physics, meteorology and a variety of other research areas. And it is demanding – changing cities is a political effort that rarely gains the attention it deserves. Therefore, it is the perfect research area for me and other women. Urban design can be understood in five critical aspects that I like to describe as the 5 elements of urban performance: Fire – The suns radiation has major influences on us as human beings, but also on the functionality of buildings and urban environments. The amount of solar gains that go into a building can make it energy efficient and sustainable, but if not considered properly can lead to a building or environment that makes us sick and needs enormous efforts to be usable. Water – Cities have to deal with water in many different ways (eg. Supply of save drinking water, storm water management, sewage treatment). But also the humidity and evaporation will affect the habitability of urban spaces and the way buildings work. Earth --- Urban environments are composed of many different surfaces. The amount of permeable soil within city structures and also the amount of vegetation is fundamental not only to the human wellbeing but also the urban climatic. Air --- The air we breathe is composed by the emission we produce. Furthermore wind on one hand is very important to remove pollutants and to bring fresh into the city. But it can also cause problems for the architecture and the usability of open spaces if to strong. You – The user of an environment whether a building or an urban space plays a key role f we want to make out cities more sustainable. Anthropogenic heat from cars, heating and/or cooling spaces transforms the urban climate and therefore the functionality of buildings and spaces."
+  subtype: presentation
+  speakers: ["kristina-kiesel"]
+  language: en
+-
+  id: 101
+  title: "Thriving in the Macondo: VR storytelling workshops for women"
+  place: "Room 1"
+  description: "Josephine Dorado recently completed a Fulbright residency in Austria, working with women in the Macondo refugee community to create virtual reality media narratives of their journeys and developing a methodology by which the VR workshops can be replicated. The workshops involved creating immersive 360-degree photospheres stitched with audio stories of their journeys. Participants included women from Chechnya, Pakistan, Somalia, Afghanistan and Syria who were taking compulsory language classes at the Macondo. The workshop weaves language learning with immersive story creation in a deeply engaging 360-degree environment. Women participating learned how to generate their own stories, construct and use Google Cardboard headsets and create photospheres, encouraging digital literacy and storytelling skills within a framework of cultural inclusion and awareness. The talk will describe the process and will include elements of participation involving viewing content through Google Cardboard headsets."
+  subtype: "presentation"
+  speakers: ["josephine-dorado"]
+  language: en
+-
+  id: 102
+  title: "Leading in a VUCA world"
+  place: "Room 1"
+  description: "Business is getting more Volatile Uncertain Complex and Ambiguous, how shall we handle this? There are many philosophies about 'Leading Change', 'Motivation 3.0', 'Transformational Leadership' but everyone has to find her own style of creating the future. Since it is within the human nature to learn by examples, I would like to share some of mine with you."
+  subtype: "presentation"
+  speakers: ["tanja-ollinger"]
+  language: en
+-
+  id: 103
   title: "Making your voice heard: Open Source Needs You"
   place: "Room 1"
   description: "The people who contribute to an OSS project are the ones shaping its future. But if you've never contributed to an Open Source project before, it can be daunting to submit your first pull request and become part of its community, especially if you're a woman. This might keep you from contributing in the first place, meaning your voice, experience, and opinions will be lost. What if you could submit a pull request with confidence, contribute your skills & experience, and become a meaningful part of a project? My talk will explain what contributing to Open Source actually means, show the (social and technical) ways in which you can contribute, and present paths to get started with your first contribution. By the end, you will know how to find a project you’re passionate about, and how you can go about improving it and the Open Source community—one contribution at a time."
@@ -43,14 +67,6 @@
   description: "Presentation of and by our partners for Women Techmakers Vienna 2017"
   subtype: "presentation"
   language: "en"
--
-  id: 101
-  title: "Thriving in the Macondo: VR storytelling workshops for women"
-  place: "Hall"
-  description: "Josephine Dorado recently completed a Fulbright residency in Austria, working with women in the Macondo refugee community to create virtual reality media narratives of their journeys and developing a methodology by which the VR workshops can be replicated. The workshops involved creating immersive 360-degree photospheres stitched with audio stories of their journeys. Participants included women from Chechnya, Pakistan, Somalia, Afghanistan and Syria who were taking compulsory language classes at the Macondo. The workshop weaves language learning with immersive story creation in a deeply engaging 360-degree environment. Women participating learned how to generate their own stories, construct and use Google Cardboard headsets and create photospheres, encouraging digital literacy and storytelling skills within a framework of cultural inclusion and awareness. The talk will describe the process and will include elements of participation involving viewing content through Google Cardboard headsets."
-  subtype: "presentation"
-  speakers: ["josephine-dorado"]
-  language: en
 -
   id: 301
   title: "Sponsor Announcements"
@@ -73,15 +89,7 @@
   language: en
   subtitle: "12:30 - 14:30"
 -
-  id: 102
-  title: "The 5 elements of urban architecture: fire, earth, water, air and You"
-  place: "Hall"
-  description: "Urban architecture has a key role in climate policies. More than two thirds of the human population will live in cities by the year 2050. If we do not think about city design, we will not be able to meet our climate goals. Urban design is a fascinating topic for me. It is complex – a typical building performance simulation uses thousands of variables and a lot of computer power. It is integrative – bringing together social sciences, architecture, medicine, physics, meteorology and a variety of other research areas. And it is demanding – changing cities is a political effort that rarely gains the attention it deserves. Therefore, it is the perfect research area for me and other women. Urban design can be understood in five critical aspects that I like to describe as the 5 elements of urban performance: Fire – The suns radiation has major influences on us as human beings, but also on the functionality of buildings and urban environments. The amount of solar gains that go into a building can make it energy efficient and sustainable, but if not considered properly can lead to a building or environment that makes us sick and needs enormous efforts to be usable. Water – Cities have to deal with water in many different ways (eg. Supply of save drinking water, storm water management, sewage treatment). But also the humidity and evaporation will affect the habitability of urban spaces and the way buildings work. Earth --- Urban environments are composed of many different surfaces. The amount of permeable soil within city structures and also the amount of vegetation is fundamental not only to the human wellbeing but also the urban climatic. Air --- The air we breathe is composed by the emission we produce. Furthermore wind on one hand is very important to remove pollutants and to bring fresh into the city. But it can also cause problems for the architecture and the usability of open spaces if to strong. You – The user of an environment whether a building or an urban space plays a key role f we want to make out cities more sustainable. Anthropogenic heat from cars, heating and/or cooling spaces transforms the urban climate and therefore the functionality of buildings and spaces."
-  subtype: presentation
-  speakers: ["kristina-kiesel"]
-  language: en
--
-  id: 103
+  id: 104
   title: "Ways to find success and happiness at work – lessons for our 20-year old selves"
   place: "Room 1"
   description: "Looking back on over ten years of our respective careers, we faced both phases of success as well as rocky times and disruptions; at the same time, we realized that while our areas of competence grew, happiness did not always necessarily correlate with (perceived) success. In our talk we want to reflect on the learnings we individually identified to find both - success and happiness at work. We start off by sharing some of the personal high and low points in our careers so far, and contrasting the level of success with the amount of happiness perceived over time. We stipulate, that the ultimate aim is to achieve both growing success as well as an increasing level of happiness over time, and that both can be positively influenced by following some of the advice we want to offer based on our personal experiences. In the main part, we will address topics such as - How to lead by influence, - Why empathy matters, - Why you shouldn’t be afraid to step in big footprints, - Why it’s important to do good and make it known, - How saying no could help you achieve more, and - Why 1 on 1 meetings are so powerful. For each of these topics, we will state why it is relevant, introduce definitions, prominent examples or study results where applicable, share our own experiences by telling a personal story, and then give an advice addressed to our own 20 year-old self. We will then introduce two powerful underlying principles that guided us so far: authenticity and resilience. Again, we will define these concepts, and then provide our personal take on them. After a wrap-up including the key take-aways, we will invite the audience to ask questions or share similar stories with the group."
@@ -94,7 +102,7 @@
   place: "Hall"
   service: true
 -
-  id: 104
+  id: 105
   title: "The Benefits Of Teaching Kids to Code"
   place: "Room 1"
   description: "'How come we can only define a method once?' Ever taught kids to code? They have this magical ability to take something you think you understand well and turn it upside down within an instant. They challenge norms and ask questions that you never thought could be asked. Challenges aside, teaching has been an extraordinary turning point for me. I highly recommend it! You can take the lessons learned from doing so and turn them into valuable skills. These can help you become an active member of the developer community. Everyone can benefit from teaching, and not just from teaching kids!"
