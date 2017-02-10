@@ -141,7 +141,8 @@ layout: compress
             });
         </script>
     {% endif %}
-    <script src="{{ "/js/flipclock.js" | prepend: site:baseurl }}"></script>
+    {% if page.permalink == '/' %}
+    <script src="{{ "/js/flipclock.js" | prepend: site.baseurl }}"></script>
     <script>
       (function() {
         var endDate = Date.parse({{ site.eventDate }});
@@ -156,6 +157,7 @@ layout: compress
         }
       })();
     </script>
+    {% endif %}
 
     {% include schema-event.html %}
 </body>
