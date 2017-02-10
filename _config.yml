@@ -64,6 +64,7 @@ heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Vienna"
 heroSubtitle: "Telling Our Story - 11 March 2017"
 eventDate: "11 March 2017"
+eventDateISO: "2017-03-11T09:30+01:00"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
