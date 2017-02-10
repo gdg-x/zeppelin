@@ -17,7 +17,7 @@
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
-            <div class="wtmvie-countdown" style="width:460px; margin:0 auto;"></div>
+            <div class="wtmvie-countdown" style="width:460px; margin:0 auto; padding-top:30px;"></div>
           </div>
          </div>
         </div>
