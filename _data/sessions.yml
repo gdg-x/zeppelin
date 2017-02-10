@@ -18,16 +18,16 @@
   subtype: workshop
   language: de
   speakers: ["rina-ahmed"]
-  subtitle: "9:30 - 11:40"
+  subtitle: "9:30 - 11:45"
 -
-  id: 202
+  id: 211
   title: "Kids' Workshop"
   place: "Room 2"
   description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
   subtype: workshop
   speakers: ["rina-ahmed"]
   language: de
-  subtitle: "12:30 - 14:30"
+  subtitle: "13:30 - 15:45"
 -
   id: 100
   title: "The 5 elements of urban architecture: fire, earth, water, air and You"
@@ -87,7 +87,16 @@
   subtype: workshop
   speakers: ["eniko-balint", "nora-sarga"]
   language: en
-  subtitle: "12:30 - 14:30"
+  subtitle: "09:45 - 11:45"
+-
+  id: 210
+  title: "Workshop: LEGO - this game is serious"
+  place: "Room 3"
+  description: "LEGO Serious Play (LSP) is a way of using LEGO bricks to express feelings and ideas. It is used by mostly adults and companies, to collaborate and discuss relationships and concepts. By building LEGO models, people associate metaphors to it and a storytelling begins, which is more powerful than just talking. This hands-on workshop is based on the LSP principles and offers participants the possibility to build up something together, to be creative, to share ideas and thoughts, to play and to discuss very “serious” topics along the way. At the beginning participants are introduced to the concept of metaphors and how to express themselves with LEGO bricks. Everybody builds up a small model with only a few pieces. Afterwards the group splits up in smaller teams and everybody is working on a model for a specific topic. This topic can be defined by the Women Techmakers team and can be related to the challenges women face in the STEM areas. During the modelling phase also ideas and solutions are discussed. It is a really powerful tool to loosen up boundaries and talk about feelings and abstract concepts in a very concrete environment. It can be a door opener for many conversations that will last even after the workshop and that would make the event memorable. Ideally there are 8-12 participants, however having more participants is also possible by splitting them up into smaller groups."
+  subtype: workshop
+  speakers: ["eniko-balint", "nora-sarga"]
+  language: en
+  subtitle: "13:45 - 15:45"
 -
   id: 104
   title: "Ways to find success and happiness at work – lessons for our 20-year old selves"
