@@ -145,7 +145,7 @@ layout: compress
     <script src="{{ "/js/flipclock.js" | prepend: site.baseurl }}"></script>
     <script>
       (function() {
-        var endDate = Date.parse({{ site.eventDate }});
+        var endDate = Date.parse("{{ site.eventDate }}");
         var currDate = new Date();
         var diff = (endDate.getTime()/1000) - (currDate.getTime()/1000);
         if (diff > 0 && diff < 50 * 3600 * 24) {
