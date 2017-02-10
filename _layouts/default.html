@@ -141,7 +141,7 @@ layout: compress
             });
         </script>
     {% endif %}
-    <script src="/js/flipclock.min.js"></script>
+    <script src="{{ "/js/flipclock.js" | prepend: site:baseurl }}"></script>
     <script>
       (function() {
         var endDate = Date.parse({{ site.eventDate }});
