@@ -42,6 +42,13 @@
   active: true
   bio: "Agnes is Senior Product Manager at Pivotal Labs, Berlin. She helps start-ups and enterprises establish more user-centered, lean and agile approaches in order to build better products and services. Prior to Pivotal Labs Agnes was responsible for the self-care application portfolio at A1 Telekom Austria and consulted client companies on strategies how to master their Digital Transformation processes. Agnes studied Business Administration and IT Management in Wiener Neustadt and took several courses on related topics at UC Berkeley and Harvard University. She supports the Balanced Team movement and loves to operate at the intersection of user needs, business goals and technical possibilities."
 -
+  id: "andrea-mayr-stalder"
+  name: "Andrea"
+  surname: "Mayr-Stalder"
+  thumbnailUrl: "AndreaMayr-Stalder.jpg"
+  active: true
+  bio: "Since the late 1990s, Andrea has worked on numerous artistic and educational Internet projects. She studied visual media (University of Applied Arts; Vienna) and has worked as a system admin and programmer at ISPs in Vienna and New York. Much of her work involves Free Software and she was chairwomen of the LinuxWochen, Vienna. Most recently, she initiated Turtlestitch.org, a platform to combine computing and embroidery."
+-
   id: "nora-sarga"
   name: "Nóra"
   surname: "Sárga"

@@ -12,20 +12,20 @@
   service: true
 -
   id: 201
-  title: "Kids' Workshop"
+  title: "My first computer game with TouchDevelop"
   place: "Room 2"
-  description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
+  description: "In this workshop we will learn what programming is and how you have to think when you want to develop computer games. We will work together on a computer game, so that by the end of the workshop you have created your own version of a game similar to Flappy Bird. Of course, making a game also means playing it! Who will fly the longest in end?"
   subtype: workshop
   language: de
   speakers: ["rina-ahmed"]
   subtitle: "9:30 - 11:45"
 -
   id: 211
-  title: "Kids' Workshop"
+  title: "code! - draw! - stitch!"
   place: "Room 2"
-  description: "In deutscher Sprache, ein Workshop für Kinder ab 10 Jahren"
+  description: "Turtlestitch is based on a modified Snap!, a web-based graphic programming tool similar to Scratch. The modification enables to use the pen tool to generate patterns that can be read by embroidery machines. Thus it brings together the abstract logic of programming with the material logic of textiles.<br/>During the workshop, the participants will be instructed to design a pattern and how to materialize this pattern as embroidery on a textile. You can bring your own T-shirts (at your own risk) or use textiles provided."
   subtype: workshop
-  speakers: ["rina-ahmed"]
+  speakers: ["andrea-mayr-stalder"]
   language: de
   subtitle: "13:30 - 15:45"
 -
