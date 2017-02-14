@@ -46,17 +46,17 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/call/", text: "Call for Speakers"}
- - {permalink: "/recordings/", text: "Recordings"}
  - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/recordings/", text: "Recordings"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- # - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
 rightNavigationButtons:
- # - {link: "https://wtm-vienna-2016.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
 
 # Hero Block
