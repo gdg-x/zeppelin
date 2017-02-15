@@ -110,7 +110,7 @@ eventPostalCode: "1120"
 eventAddressCountry: "Austria"
 eventStartTime: "2017-03-11T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-03-11T19:00"
+eventEndTime: "2017-03-11T19:00"
 eventPlaceCoordinates: "48.170681,16.3339366"
 mapCenterCoordinates: "48.170681,16.3339366"
 mapMobileCenterCoordinates: "48.170681,16.3339366"
@@ -221,7 +221,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The core team of Women Techmakers Vienna 2016 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2016 an event where everyone is welcome and we can reach fruitful outcomes together."
+aboutUs: "The core team of Women Techmakers Vienna 2017 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2017 an event where everyone is welcome and we can reach fruitful outcomes together."
 
 #Workshop for kids Block
 kidsWStitel: "Learn Game programming by using Scratch"
