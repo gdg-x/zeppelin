@@ -14,7 +14,7 @@
   id: 201
   title: "My first computer game with TouchDevelop"
   place: "Room 2"
-  description: "In this workshop we will learn what programming is and how you have to think when you want to develop computer games. We will work together on a computer game, so that by the end of the workshop you have created your own version of a game similar to Flappy Bird. Of course, making a game also means playing it! Who will fly the longest in end?"
+  description: "In this workshop we will learn what programming is and how you have to think when you want to develop computer games. We will work together on a computer game, so that by the end of the workshop you have created your own version of a game similar to Flappy Bird. Of course, making a game also means playing it! Who will fly the longest in the end?"
   subtype: workshop
   language: de
   speakers: ["rina-ahmed"]
