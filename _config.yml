@@ -51,16 +51,16 @@ navigationLinks:
  - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
+ - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 rightNavigationButtons:
- - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
+ - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 
 # Hero Block
 heroImage: "eclipse.png"
 heroTitle: "ngGirls"
-eventDate: "Upcoming workshop: February 12, 2017, Copenhagen"
+eventDate: "Upcoming workshop: April 4th, 2017, Salt Lake City, UT"
 heroButtons:
- - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
+ - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform", text: "call for mentors"}
 # - {permalink: *c4sponsorsUrl, newTab: true, text: "call for sponsors"}
 
