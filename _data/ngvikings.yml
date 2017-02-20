@@ -4,8 +4,8 @@ mentorsForm: "https://goo.gl/forms/JKfM6hzC3mw9izhR2"
 ngVikingsSite: "https://ngvikings.org/"
 descriptionTitle: "ngGirls @ ngVikings"
 descriptionBlock:
- - {title: "Who is it for?", template: "ngvikings-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "ngvikings-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+ - {title: "Who is it for?", template: "ngvikings/ngvikings-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ngvikings/ngvikings-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
 posts:
