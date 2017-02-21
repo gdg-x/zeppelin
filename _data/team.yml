@@ -134,3 +134,15 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/philippeffenberger"}
     - {name: "twitter", link: "https://twitter.com/peffenberger"}
+-
+  id: "robert-hesele"
+  name: "Robert"
+  surname: "Hesele"
+  thumbnailUrl: "RobertHesele.jpg"
+  team: false
+-
+  id: "bernhard-stecher"
+  name: "Bernhard"
+  surname: "Stecher"
+  thumbnailUrl: "BernhardStecher.jpg"
+  team: false
