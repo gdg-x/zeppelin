@@ -12,6 +12,8 @@
   surname: "Hanfi"
   thumbnailUrl: "MahekHanfi.jpg"
   team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mahek-hanfi-36794021"}
 -
   id: "timea-turdean"
   name: "Timea"
