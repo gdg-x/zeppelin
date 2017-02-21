@@ -36,7 +36,7 @@
   id: "eva-lettner"
   name: "Eva"
   surname: "Lettner"
-  team: true
+  team: false
   thumbnailUrl: "EvaLettner.jpg"
   social:
     - {name: "twitter", link: "http://twitter.com/eva_trostlos"}
@@ -109,7 +109,7 @@
   surname: "Hussein"
   title: "Logistics"
   thumbnailUrl: "KariemHussein.jpg"
-  team: true
+  team: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
@@ -121,7 +121,7 @@
   surname: "Edem"
   title: "Information Technology"
   thumbnailUrl: "MarcEdem.jpg"
-  team: true
+  team: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
@@ -136,7 +136,7 @@
   surname: "Effenberger"
   title: "Content and Speakers"
   thumbnailUrl: "PhilippEffenberger.jpg"
-  team: true
+  team: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/philippeffenberger"}
     - {name: "twitter", link: "https://twitter.com/peffenberger"}
