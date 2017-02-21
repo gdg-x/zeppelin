@@ -7,6 +7,12 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/laraspendier"}
 -
+  id: "mahek-hanfi"
+  name: "Mahek"
+  surname: "Hanfi"
+  thumbnailUrl: "MahekHanfi.jpg"
+  team: true
+-
   id: "timea-turdean"
   name: "Timea"
   surname: "Turdean"
