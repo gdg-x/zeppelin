@@ -11,6 +11,10 @@
   elements:
     - {name: "PwC", description: "PwC Österreich", link: "https://www.pwc.at/", imageUrl: "pwc-logo.png", width: "200px"}
 -
+  group: "Silver Sponsor"
+  elements:
+    - {name: "GitHub", description: "GitHub", link: "https://github.com/", imageUrl: "github-logo.png", width: "200px"}
+-
   group: "With support of"
   elements:
     - {name: "Microsoft Austria", description: "Microsoft Austria", link: "http://www.microsoft.at/", imageUrl: "ms-logo.png", width: "180px"}
