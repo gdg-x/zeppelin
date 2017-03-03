@@ -30,7 +30,7 @@ var speakerNum = {};
 var speakersOut = [];
 var aSpeaker;
 for (i=0; i<speakers.length; i++) {
-  if (!speakers[i].current) continue;
+  if (!speakers[i].active) continue;
   speakerNum[speakers[i].id] = i+1;
   aSpeaker = {
     'bio': deHtml(speakers[i].bio),
