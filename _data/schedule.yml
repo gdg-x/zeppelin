@@ -6,63 +6,51 @@
     - {title: "Workshops", color: "#be904e"}
     - {title: "Kids' Workshops", color: "#03a9f4"}
   timeslots:
-    - {
-        startTime: "09:00",
-        endTime: "09:30",
+    -
+        startTime: "09:00"
+        endTime: "09:30"
         sessionIds: [900]
-    }
-    - {
-        startTime: "09:30",
-        endTime: "09:45",
+    -
+        startTime: "09:30"
+        endTime: "09:45"
         sessionIds: [901, 0, 201]
-    }
-    - {
-        startTime: "09:45",
-        endTime: "10:45",
+    -
+        startTime: "09:45"
+        endTime: "10:45"
         sessionIds: [100, 200, 201]
-    }
-    - {
-        startTime: "10:45",
-        endTime: "11:45",
+    -
+        startTime: "10:45"
+        endTime: "11:45"
         sessionIds: [101, 200, 201]
-    }
-    - {
-        startTime: "11:45",
-        endTime: "12:45",
+    -
+        startTime: "11:45"
+        endTime: "12:45"
         sessionIds: [102, 0, 201]
-    }
-    - {
-        startTime: "12:45",
-        endTime: "13:45",
+    -
+        startTime: "12:45"
+        endTime: "13:45"
         sessionIds: [902]
-    }
-    - {
-        startTime: "13:45",
-        endTime: "14:45",
+    -
+        startTime: "13:45"
+        endTime: "14:45"
         sessionIds: [103, 210, 211]
-    }
-    - {
-        startTime: "14:45",
-        endTime: "15:45",
+    -
+        startTime: "14:45"
+        endTime: "15:45"
         sessionIds: [104, 210, 211]
-    }
-    - {
-        startTime: "15:45",
-        endTime: "16:15",
+    -
+        startTime: "15:45"
+        endTime: "16:15"
         sessionIds: [903, 0, 0]
-    }
-    - {
-        startTime: "16:15",
-        endTime: "17:15",
+    -
+        startTime: "16:15"
+        endTime: "17:15"
         sessionIds: [105, 0, 0]
-    }
-    - {
-        startTime: "17:15",
-        endTime: "18:15",
+    -
+        startTime: "17:15"
+        endTime: "18:15"
         sessionIds: [904, 0, 0]
-    }
-    - {
-        startTime: "18:15",
-        endTime: "-",
+    -
+        startTime: "18:15"
+        endTime: "-"
         sessionIds: [905]
-    }
