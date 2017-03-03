@@ -70,9 +70,8 @@ for (i=0; i<speakers.length; i++) {
       }
     }
   }
-  if (aSpeaker) {
-    speakersOut[i] = aSpeaker;
-  }
+  // speakersOut[i] = aSpeaker;
+  speakersOut.push(aSpeaker);
 }
 // create assoc of sessions by id
 var sessionsById = {};
