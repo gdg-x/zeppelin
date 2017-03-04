@@ -78,70 +78,84 @@ var sessionsById = {};
 for (i=0; i<sessions.length; i++) {
   sessionsById[sessions[i].id] = sessions[i];
 }
-var x = 1;
-var sessionsOut = [];
-// create output sessions
+// get the start- and end-times for sessions
 for (i=0; i<schedule.length; i++) {
   for (j=0; j<schedule[i].timeslots.length; j++) {
     for (k=0; k<schedule[i].timeslots[j].sessionIds.length; k++) {
       var sessionId = schedule[i].timeslots[j].sessionIds[k];
       if (sessionId in sessionsById) {
-        var aSession = {
-          'description': deHtml(sessionsById[sessionId].description),
-          'id': x,
-          'title': deHtml(sessionsById[sessionId].title)
-        };
-        x++;
-        // get session image (if exists)
-        if ('imageUrl' in sessionsById[sessionId]) {
-          aSession.photo = 'https://www.womentechmakers.at/img/' + sessionsById[sessionId].imageUrl;
+        var session = sessionsById[sessionId];
+        var slot = schedule[i].timeslots[j];
+        var timeFrom = schedule[i].date + ' ' + slot.startTime;
+        var timeTo = schedule[i].date + ' ' + slot.endTime;
+        if (!session.timeFrom || session.timeFrom > timeFrom) {
+          session.timeFrom = timeFrom;
         }
-        // get the duration
-        var date1 = schedule[i].date + ' ' + schedule[i].timeslots[j].startTime;
-        var date2 = schedule[i].date + ' ' + schedule[i].timeslots[j].endTime;
-        var duration = ((new Date(date2).getTime()) - (new Date(date1).getTime())) / (1000 * 60);
-        aSession.startAt = date1;
-        aSession.duration = duration;
-        var sessionSpeakers = [];
-        if ('speakers' in sessionsById[sessionId]) {
-          for (var t=0; t<sessionsById[sessionId].speakers.length; t++) {
-            var speakerStrId = sessionsById[sessionId].speakers[t];
-            if (speakerStrId in speakerNum) {
-              sessionSpeakers.push(speakerNum[speakerStrId]);
-            }
-          }
-        }
-        if (sessionSpeakers.length) {
-          aSession.speakersId = sessionSpeakers;
+        if (!session.timeTo || session.timeTo < timeTo) {
+          session.timeTo = timeTo;
         }
         // get the room id
-        if (schedule[i].timeslots[j].sessionIds.length == 1) {
+        if (slot.sessionIds.length == 1) {
           if (sessionsById[sessionId].service) {
             // we have a service session
-            aSession.roomId = 0;
+            session.roomId = 0;
           }
           else {
             // we have a content session
-            aSession.roomId = 1;
+            session.roomId = 1;
           }
         }
-        else if (schedule[i].timeslots[j].sessionIds.length == 2) {
+        else if (slot.sessionIds.length == 2) {
           // first session in room 1, second in room 2
           if (k == 0) {
-            aSession.roomId = 1;
+            session.roomId = 1;
           }
           else {
-            aSession.roomId = 2;
+            session.roomId = 2;
           }
         }
         else {
-          aSession.roomId = k + 1;
+          session.roomId = k + 1;
         }
-        // add session
-        sessionsOut.push(aSession);
       }
     }
   }
+}
+
+var x = 1;
+var sessionsOut = [];
+// create output sessions
+for (i=0; i<sessions.length; i++) {
+  var session = sessions[i];
+  var milsecTo = new Date(session.timeTo).getTime();
+  var milsecFrom = new Date(session.timeFrom).getTime();
+  var duration = (milsecTo - milsecFrom) / (1000 * 60);
+  var aSession = {
+    'description': deHtml(session.description),
+    'id': i,
+    'title': deHtml(session.title),
+    'roomId': session.roomId,
+    'startAt': session.timeFrom,
+    'duration': duration
+  };
+  // get session image (if exists)
+  if ('imageUrl' in session) {
+    aSession.photo = 'https://www.womentechmakers.at/img/' + session.imageUrl;
+  }
+  var sessionSpeakers = [];
+  if ('speakers' in session) {
+    for (var t=0; t<session.speakers.length; t++) {
+      var speakerStrId = session.speakers[t];
+      if (speakerStrId in speakerNum) {
+        sessionSpeakers.push(speakerNum[speakerStrId]);
+      }
+    }
+  }
+  if (sessionSpeakers.length) {
+    aSession.speakersId = sessionSpeakers;
+  }
+  // add session
+  sessionsOut.push(aSession);
 }
 // serialize sessions & speakers to file
 try {
