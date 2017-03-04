@@ -23,7 +23,7 @@
   id: 211
   title: "code! - draw! - stitch!"
   place: "Room 2"
-  description: "Turtlestitch is based on a modified Snap!, a web-based graphic programming tool similar to Scratch. The modification enables to use the pen tool to generate patterns that can be read by embroidery machines. Thus it brings together the abstract logic of programming with the material logic of textiles.<br/>During the workshop, the participants will be instructed to design a pattern and how to materialize this pattern as embroidery on a textile. You can bring your own T-shirts (at your own risk) or use textiles provided."
+  description: "Turtlestitch is based on a modified Snap!, a web-based graphic programming tool similar to Scratch. The modification enables to use the pen tool to generate patterns that can be read by embroidery machines. Thus it brings together the abstract logic of programming with the material logic of textiles.<br>During the workshop, the participants will be instructed to design a pattern and how to materialize this pattern as embroidery on a textile. You can bring your own T-shirts (at your own risk) or use textiles provided."
   subtype: workshop
   speakers: ["andrea-mayr-stalder"]
   language: de
@@ -127,6 +127,7 @@
 -
   id: 905
   title: "Afterparty"
-  place: "TBA"
-  description: "Awesome Afterparty - location will be announced at the event"
+  place: "Lanea"
+  description: "Awesome Afterparty - taking place at Lanea, in walking distance from the conference"
   subtype: party
+  service: true
