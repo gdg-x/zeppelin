@@ -41,7 +41,7 @@
     -
         startTime: "15:45"
         endTime: "16:15"
-        sessionIds: [903, 0, 0]
+        sessionIds: [903]
     -
         startTime: "16:15"
         endTime: "17:15"
