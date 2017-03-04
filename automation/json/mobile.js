@@ -127,6 +127,8 @@ var sessionsOut = [];
 // create output sessions
 for (i=0; i<sessions.length; i++) {
   var session = sessions[i];
+  // kick off old / empty sessions
+  if (!session.timeFrom || !session.title) continue;
   var milsecTo = new Date(session.timeTo).getTime();
   var milsecFrom = new Date(session.timeFrom).getTime();
   var duration = (milsecTo - milsecFrom) / (1000 * 60);
