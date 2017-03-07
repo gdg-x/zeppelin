@@ -5,11 +5,13 @@
   title: "Registration and Coffee"
   place: "Hall"
   service: true
+  imageUrl: "other/opening.jpg"
 -
   id: 901
   title: "Welcome and Intro to WTM"
   place: "Hall"
   service: true
+  imageUrl: "other/opening.jpg"
 -
   id: 201
   title: "My first computer game with TouchDevelop"
@@ -79,6 +81,7 @@
   title: "Lunch Break"
   place: "Hall"
   service: true
+  imageUrl: "other/lunchbreak.jpg"
 -
   id: 200
   title: "Workshop: LEGO - this game is serious"
@@ -88,6 +91,7 @@
   speakers: ["eniko-balint", "nora-sarga"]
   language: en
   subtitle: "09:45 - 11:15"
+  imageUrl: "other/lego.jpg"
 -
   id: 210
   title: "Workshop: LEGO - this game is serious"
@@ -97,6 +101,7 @@
   speakers: ["eniko-balint", "nora-sarga"]
   language: en
   subtitle: "13:45 - 15:15"
+  imageUrl: "other/lego.jpg"
 -
   id: 104
   title: "Ways to find success and happiness at work – lessons for our 20-year old selves"
@@ -105,11 +110,13 @@
   subtype: presentation
   speakers: ["agnes-scherzer","karin-hohenthaner"]
   language: en
+  imageUrl: "other/happiness.jpg"
 -
   id: 903
   title: "Coffee and Snacks"
   place: "Hall"
   service: true
+  imageUrl: "other/coffeebreak.jpg"
 -
   id: 105
   title: "The Benefits Of Teaching Kids to Code"
@@ -124,6 +131,7 @@
   place: "Room 1"
   service: true
   language: "en"
+  imageUrl: "other/closing.jpg"
 -
   id: 905
   title: "Afterparty"
@@ -131,3 +139,4 @@
   description: "Awesome Afterparty - taking place at Lanea, in walking distance from the conference"
   subtype: party
   service: true
+  imageUrl: "other/party.png"
