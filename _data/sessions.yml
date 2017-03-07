@@ -127,11 +127,11 @@
   language: en
 -
   id: 904
-  title: "Closing discussion"
+  title: "Lightning Talks & Closing"
   place: "Room 1"
   service: true
   language: "en"
-  imageUrl: "other/closing.jpg"
+  imageUrl: "other/lightning.jpg"
 -
   id: 905
   title: "Afterparty"
