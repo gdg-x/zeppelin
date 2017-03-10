@@ -111,9 +111,9 @@ eventAddressCountry: "Austria"
 eventStartTime: "2017-03-11T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2017-03-11T19:00"
-eventPlaceCoordinates: "48.170681,16.3339366"
-mapCenterCoordinates: "48.170681,16.3339366"
-mapMobileCenterCoordinates: "48.170681,16.3339366"
+eventPlaceCoordinates: "48.1961733,16.369386"
+mapCenterCoordinates: "48.1961733,16.369386"
+mapMobileCenterCoordinates: "48.1961733,16.369386"
 
 # Venue Block
 venueBlockTitle: "Venue"
