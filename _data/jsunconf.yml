@@ -1,11 +1,11 @@
 eventDate: "March 25th, 2017, Hamburg"
-applicationForm: "https://goo.gl/forms/54BNs02vlwoIVT7I3"
-mentorsForm: "https://goo.gl/forms/JKfM6hzC3mw9izhR2"
-ngVikingsSite: "https://jsunconf.eu/"
-descriptionTitle: "ngGirls @ JS Unconf"
+applicationForm: "https://goo.gl/forms/v6meOFcJUIbquIhh2"
+mentorsForm: "https://goo.gl/forms/BkFjKCLSmcBkJBO23"
+jsunconfSite: "https://jsunconf.eu/"
+descriptionTitle: "ngGirls @ JSUnconf"
 descriptionBlock:
  - {title: "Who is it for?", template: "jsunconf/jsunconf-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Schedule?", template: "jsunconf/jsunconf-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "jsunconf/jsunconf-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "jsunconf/jsunconf-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to JS Unconf, through supplying cool ngGirls goodies - lots of opportunities to help. "}
@@ -15,8 +15,6 @@ partners:
 -
    group: "With support of"
    elements:
-#     - {name: "500Tech", description: "Leading frontend consultancy in Israel", link: "http://500tech.com/", imageUrl: "500Tech.png"}
-#     - {name: "AngularUP", description: "Israel's international Angular conference", link: "http://angular-up.com/", imageUrl: "AngularUP.png"}
      - {name: "JS Unconf", description: "JS Unconf 2017", link: "https://jsunconf.eu/", imageUrl: "jsunconflogo.svg"}
      - {name: "Angular Berlin", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/", imageUrl: "angular-berlin.jpg"}
      - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
@@ -46,7 +44,6 @@ mentors:
 - id: 2
   name: "And You?"
   surname: ""
-  bio: "<p>Become a mentor and support the participants at our workshop.</p>
-"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
   thumbnailUrl: you.png
   rockstar: true
