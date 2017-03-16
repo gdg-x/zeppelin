@@ -19,6 +19,7 @@ partners:
 #     - {name: "AngularUP", description: "Israel's international Angular conference", link: "http://angular-up.com/", imageUrl: "AngularUP.png"}
      - {name: "JS Unconf", description: "JS Unconf 2017", link: "https://jsunconf.eu/", imageUrl: "jsunconflogo.svg"}
      - {name: "Angular Berlin", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/", imageUrl: "angular-berlin.jpg"}
+     - {name: "Angular Hamburg", description: "AngularJS Meetup Hamburg", link: "https://angular.hamburg/", imageUrl: "nghh.png"}
      - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
      - {name: "ng-conf", description: "ng-conf - The world's original Angular conference", link: "https://www.ng-conf.org/", imageUrl: "ng-conf.png"}
 
