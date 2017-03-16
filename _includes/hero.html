@@ -12,8 +12,9 @@
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <h2>
-            <p>{{ site.heroSubtitle }}</p>
-            <!-- <p style="font-style:italic;">Thank you for coming &amp; see you again <strong>11 March 2017!</strong></p> -->
+            <!-- <p>{{ site.heroSubtitle }}</p> -->
+            <p style="font-style:italic;">Thank you for coming &amp; see you again!</p> -->
+            {% comment %}
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
@@ -36,6 +37,7 @@
               </div>
             </div>
             <a target='_blank' href='https://play.google.com/store/apps/details?id=at.wtmvienna.app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img style='width:180px;' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+            {% endcomment %}
           </div>
          </div>
         </div>
