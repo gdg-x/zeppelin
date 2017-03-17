@@ -10,77 +10,73 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Java.next(2016)"
+email: "jnext.openspace@gmail.com"
+description: "Un open space sobre el futuro de Java"
+baseurl: "/jnext"
+url: "https://jnext.eu"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-74341480-1"
+googleAnalyticsSiteUrl: "jnext.eu"
+siteVerification: "_GYqmHGjILSQ0LnKgufxx7wH5tn3oS3WdPKe200j_gs"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Madrid JUG"
+organizerAlternateName: "Madrid Java User Group"
+organizerDescription: "Madrid Java User Group (MadridJUG) es un grupo de desarrolladores cuyo interés es compartir el conocimiento y realizar actividades en torno a Java y la JVM."
+organizerEmail: "madridjavausergroup@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.meetup.com/MadridJUG/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "evento, jug, open space, java, jvm, futuro, programacion, desarrolladores, madrid, madridjug, talentum empleo"
+twitterAccount: "@jnext_openspace"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://jnext.eu/#"
+c4sponsorsUrl: "/assets/#"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/schedule/", text: "Programa"}
+ - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/logistics/", text: "¿Cómo llegar?"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Java.next(2016) <typeout>"
+eventDate: "2 de Abril de 2016"
+typeoutTextValues: '"", "//Open Space", "//El futuro de Java"'
+typeoutFallback: '""'
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://is.gd/jGJodX", text: "¿Qué es un Open Space?"}
+ - {permalink: "/#tickets", text: "Compra tu entrada"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "300", specialCharacter: "+", info: "asistentes", detail: "entusiastas de la JVM"}
+ - {count: "8", specialCharacter: "", info: "horas", detail: "de Open Space puro"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "¡tú también!"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -89,62 +85,45 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "¿Dónde?"
+eventLocationName: "Campus Sur de la UPM (Carretera de Valencia), ETSI de Sistemas Informáticos"
+eventLocationLink: "https://www.etsisi.upm.es/campus_sur"
+eventStreetAddress: "Universidad Politécnica de Madrid, Calle Alan Turing, s/n"
+eventAddressLocality: "Madrid"
+eventAddressLocalityRegion: "Madrid"
+eventPostalCode: "28031"
+eventAddressCountry: "Spain"
+eventStartTime: "2016-04-02T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2016-04-02T20:00"
+eventPlaceCoordinates: "40.3896044, -3.6298781"
+mapCenterCoordinates: "40.3896044, -3.6298781"
+mapMobileCenterCoordinates: "40.3896044, -3.6298781"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Lugar"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "ETSI de Sistemas Informáticos"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+tweetsFeedImage: "twitter-feed.png"
+tweetsFeedTitle: "Últimos tuits"
+twitterHashTag: "jnext16"
+twitterFeed: "http://jnext-tweetledee.herokuapp.com/tweetledee/searchjson.php?q=%23jnext16&cache_interval=8000&c=10"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+organizersTitle: "Organizan"
+partnersTitle: "Colaboran"
+partnersC4sponsorsButton: "Colabora con Java.next()"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Entradas"
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
   price: "450"
@@ -174,20 +153,18 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=jnext_openspace", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.meetup.com/MadridJUG/", text: "MadridJUG Meetup"}
+   - {link: "http://talentumempleo.com/", text: "Talentum Empleo"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:madridjavausergroup@gmail.com", text: "madridjavausergroup@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -206,20 +183,20 @@ teamBlockTitle: "About us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
+findWayTitle: "Coordenadas"
+findWayDistance: "Distancia"
+findWayDriving: "EN COCHE"
+findWayWalking: "ANDANDO"
+findWayBicycling: "EN BICI"
+findWayTransit: "TRANSPORTE PÚBLICO"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "40.3886779, -3.7705158"
+logisticsMapMobileCenterCoordinates: "40.3886779, -3.7705158"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Llegar a Madrid"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
@@ -250,42 +227,3 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
