@@ -45,6 +45,17 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 - id: 2
+  name: "Svetlana"
+  surname: "Sapelova"
+  bio: "<p>I am a web dev and friendly geek, and i have been programming since i remember myself. Well, no, since I started my university studies, but this is the time I started remembering myself :) </p>
+   <p>Angularjs is great, the more people know it the better place the world will be i believe, and I am happy to help with this :) </p>
+"
+  thumbnailUrl: svetlana.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/SvetkaSapelova"}
+
+- id: 3
   name: "And You?"
   surname: ""
   bio: "<p>Become a mentor and support the participants at our workshop.</p>
