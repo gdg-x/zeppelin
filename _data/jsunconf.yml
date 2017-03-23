@@ -66,8 +66,10 @@ mentors:
 - id: 4
   name: "Martin"
   surname: "Sonnenholzer"
-  bio: "<p>I am an angular developer, who started with version 1.0.7. a lot happened in the angular world since then. What was the same since my beginning was the the awesome community and now it's my part to give back to the community.</p>
-   <p>What staid the same since my beginning is the great community. But we need more diversity to make it even better. That's why I try to give back to the community.</p>
+  bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
+  What stayed the same since the beginning was the awesome community. But we need more diversity to make it even better.
+  So now it's my part to give back to the community.</p>
+  <p>(Remote mentor)</p>
 "
   thumbnailUrl: martin.png
   rockstar: true

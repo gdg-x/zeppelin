@@ -11,7 +11,7 @@
       {% if forloop.index < 4 %}
         {% assign colWidth = 4 %}
       {% else %}
-        {% assign colWidth = 3 %}
+        {% assign colWidth = 6 %}
       {% endif %}
       {% assign memberImage = site.baseurl | append: '/img/jsunconf-mentors/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
