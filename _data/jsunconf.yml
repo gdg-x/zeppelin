@@ -17,6 +17,7 @@ partners:
    elements:
      - {name: "JS Unconf", description: "JS Unconf 2017", link: "https://jsunconf.eu/", imageUrl: "jsunconflogo.svg"}
      - {name: "Angular Berlin", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/", imageUrl: "angular-berlin.jpg"}
+     - {name: "Angular Hamburg", description: "AngularJS Meetup Hamburg", link: "https://angular.hamburg/", imageUrl: "nghh.png"}
      - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
      - {name: "ng-conf", description: "ng-conf - The world's original Angular conference", link: "https://www.ng-conf.org/", imageUrl: "ng-conf.png"}
 
@@ -42,6 +43,17 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 - id: 2
+  name: "Svetlana"
+  surname: "Sapelova"
+  bio: "<p>I am a web dev and friendly geek, and i have been programming since i remember myself. Well, no, since I started my university studies, but this is the time I started remembering myself :) </p>
+   <p>Angularjs is great, the more people know it the better place the world will be i believe, and I am happy to help with this :) </p>
+"
+  thumbnailUrl: svetlana.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/SvetkaSapelova"}
+
+- id: 3
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
