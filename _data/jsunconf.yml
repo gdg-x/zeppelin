@@ -45,8 +45,8 @@ mentors:
 - id: 2
   name: "Svetlana"
   surname: "Sapelova"
-  bio: "<p>I am a web dev and friendly geek, and i have been programming since i remember myself. Well, no, since I started my university studies, but this is the time I started remembering myself :) </p>
-   <p>Angularjs is great, the more people know it the better place the world will be i believe, and I am happy to help with this :) </p>
+  bio: "<p>I am a web dev and friendly geek, and I have been programming since I remember myself. Well, no, since I started my university studies, but this is the time I started remembering myself :) </p>
+   <p>Angular is great, the more people know it the better place the world will be, I believe. And I am happy to help with this :) </p>
 "
   thumbnailUrl: svetlana.png
   rockstar: true
