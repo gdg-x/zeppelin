@@ -22,6 +22,13 @@ $modal-highlight-color: #212121;
             font-size: 29px;
         }
     }
+
+    .team-title {
+        font-size: 26px;
+        @media (max-width: 767px) {
+            font-size: 22px;
+        }
+    }
 }
 .modal-backdrop {
     position: fixed;

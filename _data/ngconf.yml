@@ -20,125 +20,105 @@ posts:
 "
 
 mentors:
-- id: 1
-  name: "Jamie"
-  surname: "González García"
-  bio: "<p>Hi! I am Jaime González García and I am a full stack web developer and UX designer.
-  During the past few years of my career I have been slowly but surely specializing in front-end development and user
-  experience, and somewhere and some time along the way I fell in love with JavaScript.
-  I still enjoy developing in the full stack though, bringing ideas to life,
-  building things from nothingness, beautiful things that are a pleasure and a delight to use.</p>
 
-<p><b>I want to <a href='https://vimeo.com/98720197' target='_blank'>make the world a better place</a> through building
- awesome software.</b> I haven’t figured out how exactly to do that just yet… so I am getting by with
- <a href='http://www.jaimegonzalezgarcia.com/' target='_blank'>building meaningful products that help people</a>,
- <a href='http://www.google.se/' target='_blank'>working as a technical solutions consultant at Google and helping my publishers be great</a>,
- <a href='http://www.barbarianmeetscoding.com/' target='_blank'>teaching and sharing what I know</a>,
- and at a smaller scale by being kind to those around me, joyful and funny :).</p>
-
-<p>I live in Sweden with my beautiful fiancée Malin and devote my hours to writing software,
- reading a ton, writing, drawing and lifting heavy weights.</p>
-
-<p>I'm looking forward to teaching the awesomeness of programming Angular to more people at ngGirls and increase the
-diversity of our awesome community! Yey!</p>
-"
-  thumbnailUrl: jamie.png
-  rockstar: true
+- id: 21
+  name: 'Shravanthi'
+  surname: 'Manohar'
+  thumbnailUrl: Shravanthi.jpeg
+  title: "Software Engineer"
+  company: "Adobe Systems"
+  bio: "<p>I'm a developer at Adobe, I'm passionate about coding and want to make a great impact on society
+  through technology. I would love to see more girls on the tech scene.</p>"
   social:
-    - {name: "twitter", link: "https://twitter.com/vintharas"}
+  - {name: "twitter", link: "https://www.twitter.com/shravanthi16"}
 
-- id: 6
-  name: "Simona"
-  surname: "Cotin"
-  bio: "<p>I fell in love with programming while I was being tutored to pass the programming in C++ class.
-  That was 15 years ago. Ever since I have  coded in C++, Java, C#, Delphi, Python, PHP, Lisp,
-  Javascript and hoping to learn Go this year.</p>
-
-  <p>I am a self thought Angular developer with nearly 4 years experience.
-  Angular was love at first sight giving a complete new meaning to the Javascript world,
-  thanks to Kent Dodds and <a href='http://egghead.io' target='_blank'>egghead.io</a> - that's where I got hooked on Angular.</p>
-
-  <p>Looking forward to sharing the passion and knowledge with ngGirls &hearts;!</p>
-"
-  thumbnailUrl: simona.jpg
-  rockstar: true
+- id: 22
+  name: 'Kalyani'
+  surname: 'Yerra'
+  thumbnailUrl: Kalyani.jpg
+  title: "Sr Software Architect"
+  company: "Premier Inc"
+  bio: "<p>I am a Software Architect providing architectural direction and managing technical teams for the
+  Premier Inc organization, with an extensive knowledge in web application development,
+  and client server development for the health care industry. </p>"
   social:
-    - {name: "twitter", link: "https://twitter.com/simona_cotin"}
-
-- id: 3
-  name: "Martin"
-  surname: "Hobert"
-  bio: "<p>I’m at 26-year-old developer currently working at Mindworking A/S where I develop websites and solutions
-  for real estate agencies. I’ve had my own web agency for 4 years where we created websites for all kinds of companies.
-  I’ve recently sparked my attention with Single Page Applications and got to create my very first Angular 2 web app
-  together with the WordPress REST API to create a website for a physiotherapist
-  (<a href='https://kuhrefysio.dk/' target='_blank'>kuhrefysio.dk</a>).
-  Since then I’ve started several small and big projects with most of them either based on Angular 2 or React,
-  some of them being web applications while others are mobile.</p>
-
-  <p>I love learning and playing with new toys which is why my boss hates/loves me as I’m that guy who
-  always comes about and want to try out the next cool thing on the block!
-  When I’m not coding I’m usually gaming or sleeping.</p>
-"
-  thumbnailUrl: martin.png
-  rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/MartinHobert"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/Kalyaniyerra/"}
+  - {name: "twitter", link: "https://www.twitter.com/Yerra_Kalyani"}
 
-- id: 2
-  name: "Sebastian"
-  surname: "Florian"
-  bio: "<p>I started programming around age 15, got interested in design,
-  internet of things, electronics, engineering, worked in a few startups and projects,
-   currently playing around at Falcon.io where I am a senior frontend developer.
-   Been working with angular for almost 3 years. </p>
+#- id: 23
+#  name: 'Sarah'
+#  surname: 'Graham'
+#  thumbnailUrl:
+#  title: "Developer"
+#  company: "Jolt"
+#  bio: 	"<p>After studying media/visual arts and working as an English teacher and translator in Japan,
+#  I got excited about the creative and collaborative opportunities tech opens up at the Tokyo Hackerspace
+#  where members were using their knowledge to make (and program) incredible stuff and help others.
+#  After moving back to the U.S., I studied coding on my own, with the help of programmer friends,
+#  and through organizations like Girl Develop It to try to build a Japanese learning game.
+#  To accelerate my progress and a career change, I enrolled in an after-work MEAN-stack web programming
+#  course at Coding Campus (now V School). After successfully building the first version of the game for my
+#  final project, I got my first programming job at Jolt (<a href='joltup.com' target='_blank'>joltup.com</a>),
+#  a quickly-growing company that helps businesses organize operations and interact with their employees
+#  more effectively.</p>
+#  <p>I'm participating in ngGirls because I personally know how hard it is to be introduced to
+#  programming--even in our Information Age--and how important mentorship is to bridging that gap.</p>"
+#  social:
+#  - {name: "twitter", link: "https://www.twitter.com/sarahcodez"}
 
-  <p>I loved Angular at first sight, and have been really lucky to have had a great mentor myself when I started.
-  I know sometimes the world of programming can look intimidating, and a bit like a man's world,
-  but it's actually something very creative and personal, and the more diverse and different ways of viewing a problem,
-  the better. </p>
-"
-  thumbnailUrl: sebastian.png
-  rockstar: true
+- id: 24
+  name: 'Kristie'
+  surname: 'Giles'
+  thumbnailUrl: Kristie.jpg
+  title: "Front-End Software Engineer Technical Lead"
+  company: "Western Governors University"
+  bio: "<p>After studying visual design, Kristie just wanted to learn enough about development to
+  make some basic websites, but she found that writing code was a great creative outlet and kept
+  wanting to learn more. She currently works as a front-end software engineer tech lead at Western
+  Governors University, mentoring a dev team that builds student- and staff-facing web applications with Angular.
+  She enjoys CSS, reusable components, and cat GIFs.</p>"
   social:
-    - {name: "twitter", link: "https://twitter.com/SebFlorian"}
+  - {name: "twitter", link: "https://www.twitter.com/kristiegiles"}
 
-- id: 4
-  name: "Robert"
-  surname: "Willemelis"
-  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
-   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
-   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
-   So it is important to support them.</p>
-   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
-   <p>There are several projects with an impressive diversity support and very good material.<p>
-   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
-   in which he shows how important and good it can be to give something back to the community and how important
-   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
-"
-  thumbnailUrl: robert.png
-  rockstar: true
+- id: 25
+  name: 'Bonnie'
+  surname: 'Brennan'
+  thumbnailUrl: Bonnie.jpeg
+  title: "Software Developer"
+  company: "Freelance"
+  bio: "<p>Bonnie is a Senior Developer in Houston, Texas and the founder of the ngHouston Angular meetup.
+  She is also the co-founder of CodeBridge, an organization she runs with her teenage daughter to plan and
+  teach free coding workshops for women and girls at local universities. She enjoys teaching others and loves
+  encouraging more women and girls to learn programming.</p>"
   social:
-    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+  - {name: "twitter", link: "https://www.twitter.com/bonnster75"}
 
-- id: 5
-  name: "Daniel"
-  surname: "Lazarovici"
-  bio: "<p>Senior Front-end engineer with passion for UI / UX</p>
-"
-  thumbnailUrl: daniel.png
-  rockstar: true
+- id: 26
+  name: 'Uri'
+  surname: 'Goldshtein'
+  thumbnailUrl: Uri.png
+  title: "Programmer"
+  company: "Meteor Development Group"
+  bio: "<p>Working in open source for many years.
+           Done angular-meteor, apollo-angular, graphql-subscriptions and more...</p>"
   social:
-    - {name: "twitter", link: "https://twitter.com/TheLaz"}
+  - {name: "twitter", link: "https://www.twitter.com/urigoldshtein"}
 
-- id: 7
-  name: "Thomas"
-  surname: "Horvath"
-  bio: "<p>Front-End Developer from Dublin, Ireland.
-  Thomas has been working with Angular since its alpha stages last year and never looked back.
-  While it was a bumpy road, he is excited to share his learning experience with the ng world :)</p>
-"
-  thumbnailUrl: thomas.jpg
-  rockstar: true
+- id: 27
+  name: 'Craig'
+  surname: 'Nishina'
+  thumbnailUrl: Craig.jpg
+  title: "Software Engineer Tools and Infrastructure"
+  company: "Google"
+  bio: "<p>Craig works as a Software Engineer in Tools and Infrastructure at Google and a former
+  member of the Protractor team. Before Craig became a developer,
+  he had a previous career as a civil engineer.</p>"
   social:
-    - {name: "twitter", link: "https://twitter.com/CriticalPix"}
+  - {name: "twitter", link: "https://www.twitter.com/cnishina"}
+
+#- id: 28
+#  name: 'Amanda'
+#  surname: 'Haynes'
+#  social:
+#  - {name: "twitter", link: "https://www.twitter.com/a_mandala_"}
