@@ -1,0 +1,18 @@
+eventDate: "June 17th, 2017, Warsaw, Poland"
+applicationForm: "https://goo.gl/forms/HVvOUPb7MuaeAVI33"
+mentorsForm: "https://goo.gl/forms/40AUkUujYohu8r4I2"
+jspolandSite: "http://www.js-poland.pl/"
+descriptionTitle: "ngGirls @ JS-Poland"
+descriptionBlock:
+ - {title: "Who is it for?", template: "jspoland/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "jspoland/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "JS-Poland", description: "JS-Poland 2017", link: "http://www.js-poland.pl/", imageUrl: "JS-Poland.png"}
+     - {name: "Angular Nights", description: "Angular Nights meetup group - learn Angular by coding", link: "http://www.meetup.com/Angular-Nights/", imageUrl: "ngNights.png"}
+#     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Announcing ngGirls @ JS-Poland!"
+date:   2014-01-21 09:00:00
+isStaticPost: false
+---
+<p class="post-body">
+    <b>Happy to announce an ngGirls workshop as part of JS-Poland!</b>
+    <br>The workshop will be held on Saturday, June 17th, in Warsaw.
+    <br>All the details and registration are <a href="{{ jsite.baseurl | append: '/JS-Poland' }}">here</a>.
+</p>

@@ -6,7 +6,8 @@
 #     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
      - {name: "Angular Nights", description: "Angular Nights meetup group - learn Angular by coding", link: "http://www.meetup.com/Angular-Nights/", imageUrl: "ngNights.png"}
 #     - {name: "AngularJS-IL", description: "AngularJS-IL meetup group", link: "http://www.meetup.com/AngularJS-IL/", imageUrl: "AngularJS-IL.png"}
-     - {name: "ngVikings", description: "ngVikings - The main Angular conference in the Nordics", link: "https://ngvikings.org/", imageUrl: "ngvikings.png"}
+#     - {name: "ngVikings", description: "ngVikings - The main Angular conference in the Nordics", link: "https://ngvikings.org/", imageUrl: "ngvikings.png"}
+     - {name: "JS-Poland", description: "JS-Poland 2017", link: "http://www.js-poland.pl/", imageUrl: "JS-Poland.png"}
      - {name: "ng-conf", description: "ng-conf - The world's original Angular conference", link: "https://www.ng-conf.org/", imageUrl: "ng-conf.png"}
 
 #-
