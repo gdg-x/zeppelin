@@ -60,7 +60,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "eclipse.png"
 heroTitle: "ngGirls"
-eventDate: "Upcoming workshops: <br/> June 17th, 2017, Warsaw, Poland
+eventDate: "Upcoming workshops: <br/> June 18th, 2017, Warsaw, Poland
  <br/> June 26th, 2017, Tel-Aviv, Israel"
 heroButtons:
  - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
