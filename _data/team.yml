@@ -28,16 +28,35 @@
     - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
     - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
 
--
-  id: 3
-  name: "Or"
-  surname: "Chen"
-  company: "Foodsters"
-  title: "Software developer & CTO"
-  description: ""
-  bio: "Or has been a software developer for the past five years, specializing in server side and performance engineering. In the past year he has started developing for front end. He is a teacher, consultant and mentor. Or speaks French, English and Hebrew. He enjoys chocolate and Italian food."
-  thumbnailUrl: Or_Chen.png
+#-
+#  id: 3
+#  name: "Or"
+#  surname: "Chen"
+#  company: "Foodsters"
+#  title: "Software developer & CTO"
+#  description: ""
+#  bio: "Or has been a software developer for the past five years, specializing in server side and performance engineering. In the past year he has started developing for front end. He is a teacher, consultant and mentor. Or speaks French, English and Hebrew. He enjoys chocolate and Italian food."
+#  thumbnailUrl: Or_Chen.png
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/orchen"}
+
+- id: 3
+  name: "Robert"
+  surname: "Willemelis"
+  company: "STRATO"
+  title: "Web developer"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/orchen"}
-
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
