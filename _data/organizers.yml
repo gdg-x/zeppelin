@@ -1,4 +1,4 @@
 - 
-  group: "Organisateur"
+  group: "l'Association"
   elements: 
-    - {name: "Agile Pays Basque", description: "Agile Pays Basque - Association agile", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Agile Pays Basque", description: "Agile Pays Basque - Association agile", link: "https://agile-paysbasque.com", imageUrl: "agile-pays-basque.svg"}
