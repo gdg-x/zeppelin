@@ -71,17 +71,17 @@ heroButtons:
 # About Block
 aboutTitle: "A propos d'Agile Pays Basque"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferences", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Ateliers", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Forum", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "150", specialCharacter: "+", info: "participants", detail: "professionels, enseignants, étudiants ou curieux"}
+ - {count: "48", specialCharacter: "+", info: "heures", detail: "d'échange autout de l'agilité"}
+ - {count: "20", specialCharacter: "+", info: "sessions", detail: "from country and beyond"}
+ - {count: "4", specialCharacter: "", info: "tracks parallèles", detail: "pour des profils différentss"}
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
@@ -204,8 +204,8 @@ discusShortName: "agilepaysbasque"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "L'équipe"
-aboutUs: "Envie de participer ? Venez nous rencontrer."
+teamBlockTitle: "Envie de participer ?"
+aboutUs: "Venez nous rencontrer. "
 
 # Logistics Find Way Block
 findWayTitle: "Comment s'y rendre"
@@ -217,13 +217,13 @@ findWayTransit: "TRANSPORTS"
 findWayFindFlight: "Trouver un Vol"
 logisticsMapCenterCoordinates: "43.446264, -1.553900"
 logisticsMapMobileCenterCoordinates: "43.446264, -1.553900"
-logisticsMapAutoDirections: false
+logisticsMapAutoDirections: true
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Autour de l'ESTIA"
 directionDetailsCards:
- - {title: "Depuis l'aéroport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Depuis l'aéroport", information: 'L'aéroport de Biarritz est situé . Il est facilement accessbile par transport public, taxi ou voiture. Plus d'infos sur <a href="http://biarritz.aeroport.fr/fr/">Aéroport de Biarritz</a>.'}
  - {title: "Transports en commun", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:

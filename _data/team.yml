@@ -1,8 +1,8 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  name: "Barrlon"
+  surname: "Alice"
+  title: "Artisan Agile - Coach"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
@@ -14,9 +14,9 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
+  name: "Menardais"
+  surname: "Pascal"
+  title: "Artisan Logiciel"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
   ribbon: 
@@ -26,22 +26,22 @@
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
+  name: "Merlo"
+  surname: "Christophe"
+  title: "Enseignant"
   thumbnailUrl: OstapAndrusiv.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "linkedin", link: "https://google.com/+OstapAndrusiv"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
+  name: "Lousteau"
+  surname: "Vincent"
+  title: "Product Owner"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
   social: 
@@ -50,9 +50,9 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
+  name: "Antoine"
+  surname: "Sandrine"
+  title: "Coach"
   thumbnailUrl: ValentynShybanov.jpg
   subTeam: true
   social: 
