@@ -68,11 +68,12 @@ heroButtons:
  - {permalink: "/#tickets", text: "Inscription"}
 
 # About Block
-aboutTitle: "A propos d'Agile Pays Basque"
+aboutTitle: "C'est quoi"
+aboutDescription: ""
 aboutBlock:
  - {title: "Conferences", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Ateliers", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Forum", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Forum ouvert", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -177,8 +178,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=agilepb", icon: "twitter"}
+ - {link: "https://facebook.com/agilepb", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -203,8 +204,8 @@ discusShortName: "agilepaysbasque"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "Envie de participer ?"
-aboutUs: "Venez nous rencontrer. "
+teamBlockTitle: "Envie de participer ? "
+aboutUs: "Venez nous rencontrer. Des meetups sont organisés le long de l'année"
 
 # Logistics Find Way Block
 findWayTitle: "Comment s'y rendre"
