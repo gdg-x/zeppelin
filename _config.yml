@@ -61,10 +61,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Agile Pays Basque <typeout> 2017"
+heroTitle: "Agile <typeout> 2017"
 eventDate: "September, 2017"
-typeoutTextValues: '"", "Season", "France"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
+typeoutFallback: "Pays Basque"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a Speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
