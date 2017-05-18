@@ -59,7 +59,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Devenir Orateur"}
 
 # Hero Block
-heroImage: "aurore2.jpg"
+heroImage: "hero"
 heroTitle: "Agile <typeout> 2017"
 eventDate: "22 / 23 Septembre 2017"
 typeoutTextValues: '"", "Pays Basque", "Cote Basque"'

@@ -3,7 +3,7 @@
   name: "Barrlon"
   surname: "Alice"
   title: "Artisan Agile - Coach"
-  thumbnailUrl: AliceBarralon.jpg
+  thumbnailUrl: AliceBarralon.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
