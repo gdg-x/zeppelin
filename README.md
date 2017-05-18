@@ -7,7 +7,7 @@ Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, 
 
 Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
-### Live demo http://gdg-x.github.io/zeppelin/
+### Live demo http://agilepaysbasque.github.io/zeppelin/
 
 #### Automated version with Grunt <https://github.com/gdg-x/zeppelin-grunt>
 
