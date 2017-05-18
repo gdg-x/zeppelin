@@ -1,14 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
-- jekyll-multiple-languages-plugin
 safe: false
-
-# i18n
-# jekyll-multiple-languages-plugin settings:
-languages: ["en", "fr", "es", "eus"]
-exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
-
 
 # Build Settings
 markdown: kramdown
@@ -127,7 +120,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "AgilePaysBasque"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -205,7 +198,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
