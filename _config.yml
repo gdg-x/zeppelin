@@ -4,6 +4,9 @@ gems:
 - jekyll-multiple-languages-plugin
 safe: false
 
+# i18n
+languages: ["en", "fr", "es", "eus"]
+
 # Build Settings
 markdown: kramdown
 permalink: pretty
