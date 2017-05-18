@@ -1,7 +1,7 @@
 - 
   id: 0
-  name: "Barrlon"
-  surname: "Alice"
+  name: "Alice"
+  surname: "Barralon"
   title: "Artisan Agile - Coach"
   thumbnailUrl: AliceBarralon.png
   team: true
@@ -14,8 +14,8 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Menardais"
-  surname: "Pascal"
+  name: "Pascal"
+  surname: "Menardais"
   title: "Artisan Logiciel"
   thumbnailUrl: PascalMenardais.jpg
   team: true
@@ -26,10 +26,10 @@
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Merlo"
-  surname: "Christophe"
+  name: "Christophe"
+  surname: "Merlo"
   title: "Enseignant"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: ChristopheMerlo.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -39,10 +39,10 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Lousteau"
-  surname: "Vincent"
+  name: "Vincent"
+  surname: "Lousteau"
   title: "Product Owner"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: VincentLousteau.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -50,10 +50,10 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
-  name: "Antoine"
-  surname: "Sandrine"
+  name: "Sandrine"
+  surname: "Antoine"
   title: "Coach"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: SandrineAntoine.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
