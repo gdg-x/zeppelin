@@ -1,6 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-multiple-languages-plugin
 safe: false
 
 # Build Settings
