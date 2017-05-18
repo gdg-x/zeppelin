@@ -8,11 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-- scope:
-      path: "assets/img"
-    values:
-      image: true
-      
 # Site Settings
 title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
