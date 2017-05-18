@@ -3,7 +3,7 @@
   name: "Barrlon"
   surname: "Alice"
   title: "Artisan Agile - Coach"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: AliceBarralon.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -17,7 +17,7 @@
   name: "Menardais"
   surname: "Pascal"
   title: "Artisan Logiciel"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: PascalMenardais.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
