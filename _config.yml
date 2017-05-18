@@ -5,7 +5,10 @@ gems:
 safe: false
 
 # i18n
+# jekyll-multiple-languages-plugin settings:
 languages: ["en", "fr", "es", "eus"]
+exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
+
 
 # Build Settings
 markdown: kramdown
