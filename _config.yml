@@ -223,7 +223,7 @@ logisticsMapAutoDirections: true
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Autour de l'ESTIA"
 directionDetailsCards:
- - {title: "Depuis l'aéroport", information: 'L'aéroport de Biarritz est situé . Il est facilement accessbile par transport public, taxi ou voiture. Plus d'infos sur <a href="http://biarritz.aeroport.fr/fr/">Aéroport de Biarritz</a>.'}
+ - {title: "Depuis l'aéroport", information: "L'aéroport de Biarritz est situé . Il est facilement accessbile par transport public, taxi ou voiture. Plus d'infos sur <a href="http://biarritz.aeroport.fr/fr/">Aéroport de Biarritz</a>."}
  - {title: "Transports en commun", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
