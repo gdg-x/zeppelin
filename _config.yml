@@ -42,7 +42,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://bit.ly/dfua-c4p"
 
 # FIXME Sponsorhip PDF
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "https://tinyurl.com/agilepb-cfp17"
 
 
 # Navigation
@@ -53,9 +53,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "S'y rendre"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Devenir Orateur"}
+ - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Orateur"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Devenir Orateur"}
+ - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Orateur"}
 
 # Hero Block
 heroImage: "hero"
