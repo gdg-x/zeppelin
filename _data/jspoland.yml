@@ -16,3 +16,11 @@ partners:
      - {name: "JS-Poland", description: "JS-Poland 2017", link: "http://www.js-poland.pl/", imageUrl: "JS-Poland.png"}
      - {name: "Angular Nights", description: "Angular Nights meetup group - learn Angular by coding", link: "http://www.meetup.com/Angular-Nights/", imageUrl: "ngNights.png"}
 #     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
+
+posts:
+- {
+  title: 'Discounted Tickets to JS-Poland!',
+  content: "We're happy to announce that JS-Poland supports ngGirls participants by offering a huge discount
+   to the conference taking place the day after the workshop!
+  Check out the awesome speakers and content in <a href='http://www.js-poland.pl/' target='_blank'>JS-Poland</a>."
+  }

@@ -265,13 +265,21 @@ time {
   }
 }
 
-.logo {
+.top-section-hero .jumbotron .logo {
   &.logo-big {
     background-image: url("../img/other/logo_big.png");
   }
 
   &.logo-name {
     background-image: url("../img/other/logoname.png");
+
+    &.js-poland {
+      background-image: url("../img/js-poland/ngGirls-JS-Poland.png");
+      width: 450px;
+      @media (max-width: 767px) {
+        width: 130px;
+      }
+    }
 
   }
 }
