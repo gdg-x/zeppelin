@@ -105,8 +105,8 @@ eventStartTime: "2017-09-22T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2017-09-23T18:00"
 eventPlaceCoordinates: "43.445995, -1.553750"
-mapCenterCoordinates: "46.485430, -6.239108"
-mapMobileCenterCoordinates: "46.485430, -6.239108"
+mapCenterCoordinates: "43.445995, -1.553750"
+mapMobileCenterCoordinates: "43.445995, -1.553750"
 
 # Venue Block
 venueBlockTitle: "Lieu"
