@@ -121,7 +121,7 @@ venueFeatures: ["92, allée Théodore Monod", "Technopole Izarbel"]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Quoi de neuf ?"
 twitterHashTag: "AgilePaysBasque"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organisé par"
