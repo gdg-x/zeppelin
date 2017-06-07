@@ -1,19 +1,21 @@
 -
-  title: "Applying and Participating - ngGirls @ ng-conf"
+  title: "Applying and Participating - ngGirls"
   faq:
-  - { question: "What's ng-conf?",
-      answer: 'ng-conf is the original and biggest Angular conference in the world.
-      It takes place in Salt Lake City on April 5th-7th, 2017. <a href="https://www.ng-conf.org/" target="_blank">ng-conf website</a>'}
+#  - { question: "What's ng-conf?",
+#      answer: 'ng-conf is the original and biggest Angular conference in the world.
+#      It takes place in Salt Lake City on April 5th-7th, 2017. <a href="https://www.ng-conf.org/" target="_blank">ng-conf website</a>'}
 #  - { question: "The following information regards the event held on November 13th, 2016",
 #        answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
   - { question: "How can I apply?",
-      answer: 'Just fill out the <a href="https://goo.gl/forms/233Omb8LaVzlPpWG3" target="_blank">application form</a>.<br/>
-              Do you already have experience in front-end development? <a href="https://goo.gl/forms/dK621tXUEPstUdKe2" target="_blank">Apply as a mentor!</a>'}
-  - { question: "Where is ngGirls @ ng-conf going to take place?",
-      answer: 'The workshop will be held in the historic Grand America Hotel,
-      which is located in the heart of downtown Salt Lake City.
-       <a href="https://www.google.co.il/maps/place/The+Grand+America+Hotel/@40.7574,-111.8929647,17z" target="_blank">
-       See the location in Google Maps</a>'}
+      answer: 'Just fill out the application form for <a target="_blank" href="https://goo.gl/forms/HVvOUPb7MuaeAVI33">ngGirls @ JS-Poland</a>
+       or <a target="_blank" href="https://goo.gl/forms/nHQjU7EOHlFdsAC33">ngGirls TLV</a>.<br/>
+              Do you already have experience in front-end development? Apply as a mentor for
+              <a target="_blank" href="https://goo.gl/forms/40AUkUujYohu8r4I2">ngGirls @ JS-Poland</a> or
+              <a target="_blank" href="https://goo.gl/forms/xi0Jy7d6h1uuicBY2">ngGirls TLV</a>!'}
+  - { question: "Where is ngGirls going to take place?",
+      answer: '
+      ngGirls @ JS-Poland will take place at 7N Warsaw Office.<br>
+      ngGirls TLV will take place at AOL Israel offices, Atrium building, near Tel Aviv Center train station.'}
   - { question: "What is the schedule of the workshop day?",
       answer: "The workshop will be held during the day. <br />
                 <ul>
@@ -64,8 +66,9 @@
   faq:
   - { question: "Can I be a mentor?",
       answer: 'Yes, we would love to have your help! If you have some knowledge and experience in front-end development,
-               please <a target="_blank" href="https://goo.gl/forms/dK621tXUEPstUdKe2">fill out this form</a>
-               and we will get in touch in the next few days.'}
+               please fill out the form of the event you would like to join
+               and we will get in touch in the next few days: <a target="_blank" href="https://goo.gl/forms/40AUkUujYohu8r4I2">ngGirls @ JS-Poland</a> or
+               <a target="_blank" href="https://goo.gl/forms/xi0Jy7d6h1uuicBY2">ngGirls TLV</a>'}
   - { question: "Are mentors being payed?",
       answer: "No, mentors, as well as the organizers, volunteer for the workshop."}
 #  - { question: "Do mentors get a discount for ngVikings?",
