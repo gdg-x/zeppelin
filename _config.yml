@@ -46,6 +46,7 @@ c4sponsorsUrl: "https://tinyurl.com/agilepb-cfp17"
 
 
 # Navigation
+becomeSpeaker: "Devenir Orateur"
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Agenda"}
