@@ -6,7 +6,7 @@
   thumbnailUrl: AliceBarralon.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "", title: "ORIIONS"}
   social: 
     - {name: "twitter", link: "https://twitter.com/a_barralon"}
     - {name: "site", link: "http://www.oriions.com/"}
@@ -18,7 +18,7 @@
   thumbnailUrl: PascalMenardais.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "", title: "EXAKIS"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pascalmenardais/"}
     - {name: "twitter", link: "https://twitter.com/SquallyGator"}
@@ -30,7 +30,7 @@
   thumbnailUrl: ChristopheMerlo.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "", title: "ESTIA"}
   social: 
     - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/christophe-merlo.html"}
 - 
@@ -40,6 +40,8 @@
   title: "Product Owner"
   thumbnailUrl: VincentLousteau.jpg
   team: true
+  ribbon: 
+    - {abbr: "", title: "LEGRAND"}
   social: 
     - {name: "twitter", link: "https://twitter.com/vincent_loustau"}
 - 
@@ -51,3 +53,21 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/AntoineSandr"}
+- 
+  id: 8
+  name: "Mingo"
+  surname: "Nicolas"
+  title: "Product Owner/software craftsman"
+  thumbnailUrl: NicolasMingo.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasmingo/"}
+- 
+  id: 9
+  name: "Berger"
+  surname: "Mikaël"
+  title: "Consultant AMOA & Testing Indépendant"
+  thumbnailUrl: MickaelBerge.jpg
+  Team: true
+  social: 
+    - {name: "twitter", link: "https://www.linkedin.com/in/mika%C3%ABl-berger-82a307129/"}    
