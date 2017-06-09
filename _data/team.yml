@@ -39,7 +39,7 @@
   surname: "Lousteau"
   title: "Product Owner"
   thumbnailUrl: VincentLousteau.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/vincent_loustau"}
 - 
@@ -48,6 +48,6 @@
   surname: "Antoine"
   title: "Coach"
   thumbnailUrl: SandrineAntoine.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/AntoineSandr"}
