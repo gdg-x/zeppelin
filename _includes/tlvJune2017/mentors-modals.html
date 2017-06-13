@@ -22,10 +22,15 @@
 						<div class="row">
 							<div class="col-md-2 col-sm-2">
 								<div class="flow-img img-circle people-img"
-										 style="background-image: url({{ site.baseurl | append: '/img/tlvJune2017-mentors/' | append: speaker.thumbnailUrl }})"></div>
+										 style="background-image: url({{ site.baseurl | append: '/img/tlv-june-2017-mentors/' | append: speaker.thumbnailUrl }})"></div>
 							</div>
 							<div class="col-md-10 col-sm-10 details">
 								<p class="about">{{ speaker.bio }}</p>
+								{% if speaker.message != null %}
+								<blockquote>
+									<p class="theme-description">{{ speaker.message }}</p>
+								</blockquote>
+								{% endif %}
 								<ul class="social">
 									{% for social in speaker.social %}
 									<li>
