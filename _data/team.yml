@@ -1,73 +1,74 @@
 - 
   id: 0
-  name: "Alice"
-  surname: "Barralon"
-  title: "Artisan Agile - Coach"
-  thumbnailUrl: AliceBarralon.jpg
-  team: true
-  ribbon: 
-    - {abbr: "", title: "ORIIONS"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/a_barralon"}
-    - {name: "site", link: "http://www.oriions.com/"}
-- 
-  id: 1
-  name: "Pascal"
-  surname: "Menardais"
-  title: "Artisan Logiciel"
-  thumbnailUrl: PascalMenardais.jpg
-  team: true
-  ribbon: 
-    - {abbr: "", title: "EXAKIS"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pascalmenardais/"}
-    - {name: "twitter", link: "https://twitter.com/SquallyGator"}
-- 
-  id: 2
-  name: "Christophe"
-  surname: "Merlo"
-  title: "Enseignant"
-  thumbnailUrl: ChristopheMerlo.jpg
-  team: true
-  ribbon: 
-    - {abbr: "", title: "ESTIA"}
-  social: 
-    - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/christophe-merlo.html"}
-- 
-  id: 4
-  name: "Vincent"
-  surname: "Lousteau"
-  title: "Product Owner"
-  thumbnailUrl: VincentLousteau.jpg
-  team: true
-  ribbon: 
-    - {abbr: "", title: "LEGRAND"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/vincent_loustau"}
-- 
-  id: 7
   name: "Sandrine"
-  surname: "Antoine"
-  title: "Coach"
+  surname: "ANTOINE"
+  title: "Consultante, Formatrice en qualité de vie au travail"
   thumbnailUrl: SandrineAntoine.jpg
   team: true
   social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sandrine-antoine-818b1ab1/"}
     - {name: "twitter", link: "https://twitter.com/AntoineSandr"}
 - 
-  id: 8
-  name: "Mingo"
-  surname: "Nicolas"
-  title: "Product Owner/software craftsman"
-  thumbnailUrl: NicolasMingo.jpg
+  id: 1
+  name: "Alice"
+  surname: "BARRALON"
+  title: "Coach Agile"
+  thumbnailUrl: AliceBarralon.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasmingo/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alice-barralon-45068149/"}
+    - {name: "twitter", link: "https://twitter.com/a_barralon"}
+    - {name: "site", link: "http://www.oriions.com/"}
 - 
-  id: 9
-  name: "Berger"
-  surname: "Mikaël"
+  id: 2
+  name: "Mikaël"
+  surname: "BERGER"
   title: "Consultant AMOA & Testing Indépendant"
   thumbnailUrl: MickaelBerge.jpg
   Team: true
   social: 
-    - {name: "twitter", link: "https://www.linkedin.com/in/mika%C3%ABl-berger-82a307129/"}    
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mikaël-berger-82a307129/"}
+    - {name: "twitter", link: "https://www.linkedin.com/in/mika%C3%ABl-berger-82a307129/"} 
+- 
+  id: 3
+  name: "Vincent"
+  surname: "LOUSTAU"
+  title: "Product Owner"
+  thumbnailUrl: VincentLoustau.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vincent-loustau-3b625931/"}
+    - {name: "twitter", link: "https://twitter.com/vincent_loustau"} 
+- 
+  id: 4
+  name: "Pascal"
+  surname: "MENARDAIS"
+  title: "Software craftsman"
+  thumbnailUrl: PascalMenardais.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pascalmenardais/"}
+    - {name: "twitter", link: "https://twitter.com/SquallyGator"}
+    - {name: "github", link: "https://github.com/SquallyGator"}
+- 
+  id: 5
+  name: "Christophe"
+  surname: "MERLO"
+  title: "Enseignant"
+  thumbnailUrl: ChristopheMerlo.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/christophemerlo/"}
+    - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/christophe-merlo.html"}
+- 
+  id: 6
+  name: "Nicolas"
+  surname: "MINGO"
+  title: "Software craftsman"
+  thumbnailUrl: NicolasMingo.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasmingo/"}
+    - {name: "twitter", link: "https://twitter.com/nicolas_mingo"}
+    - {name: "github", link: "https://github.com/nicolasmingo"}
+
