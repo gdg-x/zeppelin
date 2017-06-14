@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2014-07-21 08:00:00
-isStaticPost: false
+title:  "Devenir Sponsor"
+date:   2017-05-15 08:00:00
+isStaticPost: true
 ---
 
 We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
