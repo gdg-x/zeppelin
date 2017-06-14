@@ -67,7 +67,7 @@ typeoutFallback: "Pays Basque"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Devenir Orateur"}
  - {permalink: "/#tickets", text: "Inscription"}
-heroCount: 6
+heroCount: 8
 heroFirst: 1
 
 # About Block
