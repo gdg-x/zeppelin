@@ -49,7 +49,7 @@ c4sponsorsUrl: "https://tinyurl.com/agilepb-cfp17"
 becomeSpeaker: "Devenir Sponsor"
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Orateurs"}
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "S'y rendre"}
