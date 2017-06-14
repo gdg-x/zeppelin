@@ -46,7 +46,7 @@ c4sponsorsUrl: "https://tinyurl.com/agilepb-cfp17"
 
 
 # Navigation
-becomeSpeaker: "Devenir Orateur"
+becomeSpeaker: "Devenir Sponsor"
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Agenda"}
@@ -54,9 +54,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "S'y rendre"}
 bottomNavigationLinks:
- - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Orateur"}
+ - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Sponsor"}
 rightNavigationButtons:
- - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Orateur"}
+ - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Sponsor"}
 
 # Hero Block
 heroImage: "hero"
@@ -65,7 +65,7 @@ eventDate: "22 / 23 Septembre 2017"
 typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Devenir Orateur"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Devenir Sponsor"}
  - {permalink: "/#tickets", text: "Inscription"}
 heroCount: 8
 heroFirst: 1
