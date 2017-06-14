@@ -24,16 +24,16 @@
   name: "Mikaël"
   surname: "BERGER"
   title: "Consultant AMOA & Testing Indépendant"
-  thumbnailUrl: MickaelBerge.jpg
-  Team: true
+  thumbnailUrl: MickaelBerger.jpg
+  team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mikaël-berger-82a307129/"}
-    - {name: "twitter", link: "https://www.linkedin.com/in/mika%C3%ABl-berger-82a307129/"} 
+    - {name: "twitter", link: "https://twitter.com/mikaquitain"} 
 - 
   id: 3
   name: "Vincent"
   surname: "LOUSTAU"
-  title: "Product Owner"
+  title: "Product Owner passionné"
   thumbnailUrl: VincentLoustau.jpg
   team: true
   social: 
