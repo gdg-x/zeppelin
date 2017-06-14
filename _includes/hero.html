@@ -21,7 +21,9 @@
 </section>
 <script>
     var heroSection = document.getElementById("top-section-hero");
-    var randomHeroImage = Math.floor((Math.random() * 4) + 1);
+    var heroCount = {{ site.heroCount }};
+    var heroFirst = {{ site.heroFirst }};
+    var randomHeroImage = Math.floor((Math.random() * heroCount) + heroFirst);
     heroSection.style = "background-image: url('{{ site.baseurl }}/assets/img/{{ site.heroImage }}"+ randomHeroImage +".jpg');";
 </script>
 <!-- End Hero Section -->
