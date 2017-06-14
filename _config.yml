@@ -79,10 +79,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "participants", detail: "professionels, enseignants, étudiants ou curieux"}
- - {count: "48", specialCharacter: "+", info: "heures", detail: "d'échange autout de l'agilité"}
- - {count: "20", specialCharacter: "+", info: "sessions", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "tracks parallèles", detail: "pour des profils différentss"}
+ - {count: "200", specialCharacter: "", info: "participants attendus", detail: "professionnels, enseignants, étudiants ou curieux"}
+ - {count: "48", specialCharacter: "", info: "heures d'échanges", detail: "autour de l'agilité pour tout niveau"}
+ - {count: "20", specialCharacter: "+", info: "sessions", detail: "pour tout type de profil"}
+ - {count: "3", specialCharacter: "", info: "formats différents", detail: "conférences, ateliers, forums ouverts"}
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
