@@ -69,12 +69,12 @@ heroButtons:
  - {permalink: "/#tickets", text: "Inscription"}
 
 # About Block
-aboutTitle: "C'est quoi"
+aboutTitle: "Pourquoi venir à Agile Pays Basque?"
 aboutDescription: ""
 aboutBlock:
- - {title: "Conferences", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Ateliers", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Forum ouvert", image: "forum.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conférences", image: "conference.jpg", text: "19 conférences réparties sur 3 thématiques \"Culture Agile et Management\", \"Découverte et Conception de Produits\" et \"Développement Logiciel et Tests\". Débutants bienvenus!" }
+ - {title: "Ateliers", image: "workshop.jpg", text: "5 ateliers permettant de découvrir ou d'approfondir des pratiques agiles en lien avec les thématiques des conférences" }
+ - {title: "Forum ouvert", image: "forum.jpg", text: "1 journée avec un programme co-construit le jour même entre les speakers et les participants, pour augmenter la variété des thématiques ou les approfondir" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
