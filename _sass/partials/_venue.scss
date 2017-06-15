@@ -33,12 +33,13 @@
     transition: $base-transition;
 }
 .venue-big-elem {
-    height: 610px;
+    height: 405px;
     @media (min-width: 768px) and (max-width: 991px) {
-        height: 580px;    
+        height: 385px;    
     }
     @media (max-width: 767px) {
         height: 340px;    
+        width: 100%;
     }
 }
 .venue-small-elem {
