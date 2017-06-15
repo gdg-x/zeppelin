@@ -96,8 +96,9 @@ rockstarSpeakersTitle: "Rockstars"
 rockstarSpeakersButtonText: "Voir tous les orateurs"
 
 # Location Block
-locationBlockTitle: "ESTIA"
-eventLocationName: "Technopole Izarbel"
+locationBlockTitle: "Pour s'y rendre'"
+
+eventLocationName: "ESTIA"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "92, allée Théodore Monod"
 eventAddressLocality: "Bidart"
@@ -106,10 +107,25 @@ eventPostalCode: "64210"
 eventAddressCountry: "France"
 eventStartTime: "2017-09-22T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2017-09-23T18:00"
+eventEndTime: "2017-09-22T18:00"
 eventPlaceCoordinates: "43.445995, -1.553750"
+
+event2LocationName: "Athlantal"
+event2LocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+event2StreetAddress: "153 bd des Plages"
+event2AddressLocality: "Anglet"
+event2AddressLocalityRegion: "64"
+event2PostalCode: "64600"
+event2AddressCountry: "France"
+event2StartTime: "2017-09-23T09:00"
+event2DoorTime: "09:00"
+event2EndTime: "2017-09-23T18:00"
+event2PlaceCoordinates: "43.445995, -1.553750"
+
 mapCenterCoordinates: "43.445995, -1.553750"
 mapMobileCenterCoordinates: "43.445995, -1.553750"
+
+
 
 # Venue Block
 venueBlockTitle: "Lieux"
@@ -117,10 +133,10 @@ venueBigImage: "venue_0.jpg"
 # ESTIA
 venueSmallImage1: "venue_1.jpg"
 venueTitle: "ESTIA"
-venueFeatures: ["Ecole d'ingénieurs'", "92, allée Théodore Monod", "Technopole Izarbel"]
+venueFeatures: ["Ecole d'ingénieurs", "92, allée Théodore Monod", "Technopole Izarbel"]
 # Athlantal
 venue2Title: "Athlantal"
-venue2Features: ["Hôtels & Thalasso", 153 bd des Plages", "64600 ANGLET"]
+venue2Features: ["Hôtels & Thalasso", "153 bd des Plages", "64600 ANGLET"]
 venueSmallImage2: "venue_2.jpg"
 
 # Tweets Feed Block
