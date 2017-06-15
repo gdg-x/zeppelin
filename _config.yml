@@ -138,46 +138,70 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "L'inscription est ouvert à partir de Juin. Le nombre de place est limité. Restez à l'écoute!"
 
 # Tickets Block
-ticketsTitle: "Tarifs"
+ticketsTitle: "Billetterie"
 ticketsInfo: "Les billets donnent access à toutes les conferences, pauses café. Les repas sont en option. L'hébergement n'est PAS inclus dans le prix du billet."
 ticketsOffers:
  -
-  name: "Lève Tôt"
-  price: "XX"
+  name: "\"Earl Bird\"<br/>2J, Billet+Repas"
+  price: "50"
   priceCurrency: "€"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "70"
+  ribbon: "-35%"
+  buyButtonLink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2017/"
   buyButtonText: "Acheter"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  ticketContentList: ["Conférences et ateliers à l'ESTIA, vendredi", "Repas au Spot' vendredi midi", "Forum ouvert à l'ATLANTHAL, samedi", "Repas à l'ATLANTHAL, samedi midi"]
+  validFrom: "2017-06-14T00:00"
+  validThrough: "2017-07-14T23:59"
+  disabled: false  
  -
-  name: "Dernière Chance"
-  price: "XX"
+  name: "Vendredi<br/>(Billet)"
+  price: "35"
   priceCurrency: "€"
-  ticketsNumber: "50"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "70"
+  ribbon: ""
+  buyButtonLink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2017/"
   buyButtonText: "Acheter"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  ticketContentList: ["Conférences et ateliers à l'ESTIA, vendredi", "<br/>&nbsp;", "<br/>&nbsp;", "<br/>&nbsp;"]
+  validFrom: "2017-06-14T00:00"
+  validThrough: "2017-09-21T23:59"
+  disabled: false
  -
-  name: "Etudiant"
-  price: "XX"
+  name: "Vendredi<br/>(Repas)"
+  price: "10"
   priceCurrency: "€"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "70"
+  ribbon: ""
+  buyButtonLink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2017/"
   buyButtonText: "Acheter"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  ticketContentList: ["<br/>&nbsp;", "Repas au Spot' vendredi midi", "<br/>&nbsp;", "<br/>&nbsp;"]
+  validFrom: "2017-06-14T00:00"
+  validThrough: "2017-09-21T23:59"
+  disabled: false
+ -
+  name: "Samedi<br/>(Billet+Repas)"
+  price: "30"
+  priceCurrency: "€"
+  ticketsNumber: "40"
+  ribbon: ""
+  buyButtonLink: "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2017/"
+  buyButtonText: "Acheter"
+  ticketContentList: ["<br/>&nbsp;", "<br/>&nbsp;", "Forum ouvert à l'ATLANTHAL, samedi", "Repas à l'ATLANTHAL, samedi midi"]
+  validFrom: "2017-06-14T00:00"
+  validThrough: "2017-09-21T23:59"
+  disabled: false
+  #-
+  #name: "Etudiant"
+  #price: "XX"
+  #priceCurrency: "€"
+  #ticketsNumber: "50"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  #buyButtonText: "Acheter"
+  #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  #validFrom: "2014-08-20T10:00"
+  #validThrough: "2014-10-23T23:59"
+  #soldOut: true
+  #soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
