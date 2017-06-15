@@ -47,7 +47,7 @@ c4sponsorsUrl: "/blog/devenir-sponsor"
 
 
 # Navigation
-becomeSpeaker: "Devenir Sponsor"
+becomeSpeaker: "Devenir Orateur"
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Programme"}
@@ -55,9 +55,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "S'y rendre"}
 bottomNavigationLinks:
- - {link: "blog/devenir-sponsor", text: "Devenir Sponsor"}
+ - {link: "/#tickets", text: "Acheter un billet"}
 rightNavigationButtons:
- - {link: "blog/devenir-sponsor", text: "Devenir Sponsor"}
+ - {link: "/#tickets", text: "Acheter un billet"}
 
 # Hero Block
 heroImage: "hero"
@@ -67,17 +67,16 @@ typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
  - {link: "blog/devenir-sponsor", text: "Devenir Sponsor"}
- - {permalink: "/#tickets", text: "Inscription"}
+ - {permalink: "/#tickets", text: "Acheter un billet"}
 heroCount: 8
 heroFirst: 1
 
 # About Block
-aboutTitle: "Pourquoi venir à Agile Pays Basque?"
-aboutDescription: ""
-aboutBlock:
- - {title: "Conférences", image: "conference.jpg", text: "19 conférences réparties sur 3 thématiques \"Culture Agile et Management\", \"Découverte et Conception de Produits\" et \"Développement Logiciel et Tests\". Débutants bienvenus!" }
- - {title: "Ateliers", image: "workshop.jpg", text: "5 ateliers permettant de découvrir ou d'approfondir des pratiques agiles en lien avec les thématiques des conférences" }
- - {title: "Forum ouvert", image: "forum.jpg", text: "1 journée avec un programme co-construit le jour même entre les speakers et les participants, pour augmenter la variété des thématiques ou les approfondir" }
+aboutTitle: "2ème édition de la conférence Agile Pays Basque"
+aboutLines:
+ - {text: "L'agilité avec l'ensemble de ses valeurs, de ses principes, de ses méthodes et pratiques, se diffuse progressivement dans nos environnements de travail et dans l'enseignement."}
+ - {text: "La 2ème édition : Agile Pays Basque 2017, sera cette année l'évènement agile de la région. C'est le rendez-vous des professionnels, enseignants et étudiants qui souhaitent savoir comment s'y prendre, découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter autour de l’agilité."}
+ - {text: "Débutants ou experts, curieux ou praticiens, venez donc partager, échanger, vous enrichir sur des thématiques agiles telles que Management Agile, Développement logiciel Agile, Lean IT, Lean Startup, Scrum, Kanban, eXtreme Programming, et l'agile hors IT."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -86,6 +85,12 @@ statisticBlock:
  - {count: "48", specialCharacter: "", info: "Heures d'échanges", detail: "Autour de l'agilité pour tout niveau"}
  - {count: "20", specialCharacter: "+", info: "Sessions", detail: "Pour tout type de profil"}
  - {count: "3", specialCharacter: "", info: "Formats différents", detail: "Conférences, Ateliers, Forums Ouverts"}
+
+# Format Block
+formatBlock:
+ - {title: "19 Conférences", image: "conference.jpg", text: "réparties sur 3 thématiques \"Culture Agile et Management\", \"Découverte et Conception de Produits\" et \"Développement Logiciel et Tests\". Débutants bienvenus!" }
+ - {title: "5 Ateliers", image: "workshop.jpg", text: "pour découvrir ou d'approfondir des pratiques agiles en lien avec les thématiques des conférences" }
+ - {title: "1 Forum ouvert", image: "forum.jpg", text: "pendant 1 journée avec un programme co-construit le jour même entre les speakers et les participants, pour augmenter la variété des thématiques ou les approfondir" }
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
@@ -129,12 +134,12 @@ mapMobileCenterCoordinates: "43.445995, -1.553750"
 
 
 # Venue Block
-venueBlockTitle: "Lieux"
+venueBlockTitle: "2 jours sur 2 lieux différents"
 venueBigImage: "venue_0.jpg"
 # ESTIA
 venueSmallImage1: "venue_1.jpg"
 venueTitle: "ESTIA"
-venueFeatures: ["Ecole d'ingénieurs", "92, allée Théodore Monod", "Technopole Izarbel"]
+venueFeatures: ["Ecole d'ingénieurs", "Technopole Izarbel", "64210 BIDART"]
 # Athlantal
 venue2Title: "Athlantal"
 venue2Features: ["Hôtels & Thalasso", "153 bd des Plages", "64600 ANGLET"]

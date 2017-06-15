@@ -1,0 +1,24 @@
+<!-- format Section -->
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for format in site.formatBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ format.title }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ format.image }}" height="128" width="128" alt="{{ about.title }}">
+                        <p>{{ format.text }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End format Section -->
