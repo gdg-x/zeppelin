@@ -42,7 +42,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://bit.ly/dfua-c4p"
 
 # FIXME Sponsorhip PDF
-c4sponsorsUrl: "https://tinyurl.com/agilepb-cfp17"
+# XXX relative url must start with "/" here. Others sponsor relative links don't need it'
+c4sponsorsUrl: "/blog/devenir-sponsor"
 
 
 # Navigation
@@ -54,9 +55,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "S'y rendre"}
 bottomNavigationLinks:
- - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Sponsor"}
+ - {link: "blog/devenir-sponsor", text: "Devenir Sponsor"}
 rightNavigationButtons:
- - {link: "https://tinyurl.com/agilepb-cfp17", text: "Devenir Sponsor"}
+ - {link: "blog/devenir-sponsor", text: "Devenir Sponsor"}
 
 # Hero Block
 heroImage: "hero"
@@ -65,7 +66,7 @@ eventDate: "22 / 23 Septembre 2017"
 typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Devenir Sponsor"}
+ - {link: "blog/devenir-sponsor", text: "Devenir Sponsor"}
  - {permalink: "/#tickets", text: "Inscription"}
 heroCount: 8
 heroFirst: 1
