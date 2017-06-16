@@ -10,6 +10,13 @@
 
 ### Live demo https://agilepaysbasque.github.io/site-web/
 
+
+# Docker
+
+```
+docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll --volume="$(pwd)/.gems:/usr/share/ruby/default-gems" -it -p 4000:4000 jekyll/jekyll bundle config local.jekyll /usr/srv/.gems && jekyll serve --watch --incremental 
+```
+
 ## Dev en Local
 
 Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
