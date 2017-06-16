@@ -1,6 +1,7 @@
 [{
 	"id": 3,
-	"title": "Accueil"
+	"title": "Accueil",
+	"service": "true"
 }, {
 	"id": 4,
 	"title": "Agile Exprès - comment réussir sa transformation agile en le faisant exprès",
@@ -23,10 +24,12 @@
 	"complexity": "Beginner",
 	"subtype": "presentation",
 	"presentation": "Cette prez est la suite de celle de l'an dernier sur le Management agile, donnée aussi à Lyon https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
-	"speakers": [19]
+	"speakers": [19],
+	"place": "Amphi"
 }, {
 	"id": 13,
-	"title": "Clôture"
+	"title": "Clôture",
+	"service": "true"
 }, {
 	"id": 14,
 	"title": "Co-concevoir un atelier de co-conception",
@@ -246,10 +249,12 @@
 	"speakers": [20]
 }, {
 	"id": 53,
-	"title": "Pause"
+	"title": "Pause",
+	"service": "true"
 }, {
 	"id": 54,
-	"title": "Pitch d'ouverture"
+	"title": "Pitch d'ouverture",
+	"service": "true"
 }, {
 	"id": 55,
 	"title": "Qu'est-ce qu'un Scrum Master ?",
