@@ -51,7 +51,6 @@ $small-label-width: 80px;
 }
 .timeslot {
     background: #fff;
-    border-top: $schedule-border;
     border-left: $schedule-border;
     &:last-child {
         border-bottom: $schedule-border;
@@ -163,6 +162,7 @@ $small-label-width: 80px;
     padding: 20px 15px 30px;
     min-height: 120px;
     background: #fff;
+    border-top: $schedule-border;
     transform: translateY(0);
     transition: $base-transition;
     @media (max-width: 767px) {
