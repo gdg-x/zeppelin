@@ -13,10 +13,10 @@
 						</div>
 						<h4>{{ session.title }}</h4>
 						{% if session.language != null %}
-						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+						<span class="theme-metadata"><span class="caption">Langue: </span>{{ session.language }}</span>
 						{% endif %}
 						{% if session.complexity != null %}
-						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
+						<span class="theme-metadata"><span class="caption">Public: </span>{{ session.complexity }}</span>
 						{% endif %}
 						{% if session.video %}
 						<div class="theme-video embed-responsive embed-responsive-16by9">
@@ -25,7 +25,7 @@
 						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
 						{% if session.presentation %}
-						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+						<a class="theme-presentation" href="{{ session.presentation }}" title="Présentation" target="_blank">Voir présentation</a>
 						{% endif %}
 						<hr>
 						<div class="people-details">
