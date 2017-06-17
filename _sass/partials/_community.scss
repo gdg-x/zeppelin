@@ -1,0 +1,25 @@
+section.community
+{
+    text-align: left;    
+
+    label{
+        display: block;
+        .mandatory::after{
+            content: '*';
+            color: red;
+            font-weight: bold;
+        }
+    }
+    input {
+        width: 100%;
+        height: 100%;
+        outline: none;
+        font-size: 16px;
+    }
+    textarea{
+        width: 100%;
+        height: 4em;
+        outline: none;
+        font-size: 16px;
+    }
+}
