@@ -20,6 +20,8 @@ modal: all
             <br/>
             <h4>Demandez une invitation</h4>
             <form action="https://formspree.io/agilepb@gmail.com" method="POST" class="">
+                <input type="hidden" name="_subject" value="Demande d'invitation au SLACK" />
+                <input type="text" name="_gotcha" style="display:none" />
                 <div class="email">
                     <label for="email" class="mandatory">Adresse e-mail</label>
                     <input id="email" type="email" name="_replyto">
