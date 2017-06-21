@@ -1,0 +1,32 @@
+iframe#haWidget {
+    width:100%;
+    height: 1100px;
+    border: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+        
+    @media (min-width: 767px) and (max-width: 900px) {
+        width:680px;
+        height: 1400px
+    }
+
+    @media (min-width: 412px) and (max-width: 766px) {
+        width: 400px;
+        margin-left: -10px;
+        height: 1650px;
+    }
+
+    @media (min-width: 360px) and (max-width: 411px) {
+        width: 340px;
+        margin-left: -5px;
+        height: 1800px;
+    }
+
+    @media (min-width: 320px) and (max-width: 359px) {
+        width: 320px;
+        margin-left: -15px;
+        margin-right: 15px;
+        height: 1900px;
+    }
+}
