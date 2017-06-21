@@ -2,10 +2,10 @@
   date: "2017-09-22"
   dateReadable: "22 Septembre"
   tracks: 
-    - {title: "Amphi", color: "#90be4e"}
-    - {title: "Vincent PO", color: "#03a9f4"}
-    - {title: "Chistophe Manship", color: "#e91e63"}
-    - {title: "Padawan", color: ""}
+    - {title: "Amphi", color: "#00C853"}
+    - {title: "Salle 1", color: "#0091EA"}
+    - {title: "Salle 2", color: "#D50000"}
+    - {title: "Salle 3", color: "#FFD600"}
   timeslots:
     - {
         startTime: "8:00",
