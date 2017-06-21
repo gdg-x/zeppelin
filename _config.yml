@@ -55,9 +55,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "S'y rendre"}
 bottomNavigationLinks:
- - {link: "/#tickets", text: "Acheter un billet"}
+ - {link: "#tickets", text: "Acheter un billet"}
 rightNavigationButtons:
- - {link: "/#tickets", text: "Acheter un billet"}
+ - {link: "#tickets", text: "Acheter un billet"}
 
 # Hero Block
 heroImage: "hero"
