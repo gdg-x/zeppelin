@@ -23,7 +23,7 @@
 	"description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"presentation": "Cette prez est la suite de celle de l'an dernier sur le Management agile, donnée aussi à Lyon https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
+	"presentation": "https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
 	"speakers": [19],
 	"place": "Amphi"
 }, {
@@ -44,7 +44,7 @@
 	"complexity": "Tout public",
 	"subtype": "workshop",
 	"presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
-	"speakers": [2]
+	"speakers": [2, 23]
 }, {
 	"id": 17,
 	"title": "Code Utilisable",
@@ -59,7 +59,7 @@
 	"description": "Après une courte définition de l'Obeya, nous passerons en mode atelier pour partager nos pratiques ou idées respectives pour en comprendre le fonctionnement et l'intérêt. Nous bénéficierons également de l'apport de chacun des participants pour répondre aux problématiques de management visuel que nous rencontrons probablement tous.",
 	"complexity": "Beginner",
 	"subtype": "workshop",
-	"speakers": [52]
+	"speakers": [52, 32]
 }, {
 	"id": 22,
 	"title": "Décollage imminent direction Scrum City",
@@ -90,7 +90,7 @@
 	"description": "L’enseignement supérieur est surtout une transmission de connaissances de l’enseignant-chercheur vers les étudiants. Cela a fait ses preuves mais les étudiants n’ont-ils pas aujourd’hui besoin d’autre chose ? Face à des situations professionnelles changeantes et complexes où les compétences et les métiers évoluent plus vite que les disciplines et formations universitaires d’autres formes d’enseignement permettent de développer une arme redoutable et trop méconnue: le bon sens !",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"presentation": "je l'ai faire cette année au printemps AGilemais la vidéo n'est pas encore en ligne: http://www.club-agile-caen.fr/printemps-agile/printemps-agile-2017/",
+	"presentation": "http://www.club-agile-caen.fr/printemps-agile/printemps-agile-2017/",
 	"speakers": [38]
 }, {
 	"id": 27,
@@ -105,7 +105,7 @@
 	"description": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"presentation": "Je l'ai déjà joué un petit peu dans des agile tour, une version des support est dispo ici : http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
+	"presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
 	"speakers": [43]
 }, {
 	"id": 29,
@@ -113,7 +113,7 @@
 	"description": "Les bénéfices du jeu pour les enfants n'est plus à démontrer: développant l'imagination et permettant la confrontation au monde réel, il encourage leur développement. Souvent à l'âge adulte celui ci est plus mal perçu, vu comme une perte de temps. Et si les bienfaits du jeux pouvaient nous servir à tout âge comme un outil d'apprentissage?",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"presentation": "J'ai déjà donné ce talk a mixit ou il a bien marché: https://mixitconf.org/2017/gamification-jouer-pour-apprendre, la vidéo sera disponible prochainement",
+	"presentation": "https://mixitconf.org/2017/gamification-jouer-pour-apprendre, la vidéo sera disponible prochainement",
 	"speakers": [16]
 }, {
 	"id": 30,
@@ -137,7 +137,7 @@
 	"complexity": "Beginner",
 	"subtype": "presentation",
 	"presentation": "http://cfp.devoxx.fr/2017/talk/YOJ-9199/JUnit-docker",
-	"speakers": [24]
+	"speakers": [24, 21]
 }, {
 	"id": 35,
 	"title": "Kebab kata: Fight the system making your code sad",
@@ -158,7 +158,7 @@
 	"description": "Retour d'expérience sur la mise en oeuvre du Design Sprint au sein d'une grande DSI : UX et agilité à l'échelle ça fonctionne ? ",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"speakers": [37]
+	"speakers": [37, 6]
 }, {
 	"id": 41,
 	"title": "Le Gherkin par l'exemple, quelle classe !",
@@ -169,11 +169,10 @@
 }, {
 	"id": 42,
 	"title": "Le StoryMapping : venez apprendre à mapper vos idées",
-	"description": "L'art du maniement d'une cartographie de projet agile.",
+	"description": "L'art du maniement d'une cartographie de projet agile. Basé sur le bouquin de Jeff Patton, comment représenter et organiser ses idées",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"presentation": "Basé sur le bouquin de Jeff Patton, comment représenter et organiser ses idées",
-	"speakers": [null]
+	"speakers": [8]
 }, {
 	"id": 43,
 	"title": "Le work hackisme est un humanisme",
@@ -232,7 +231,7 @@
 	"description": "Explore, and learn to overcome, the difficulties of communication across different cultures.As “Derdians” and “Engineers” try to build together a tape, scissors & cardboard bridge. Engineers teaching, Derdians building.We will then have a retrospective of the experience. What worked? What didn’t? Why?Information for Program Team:Disdain is the failure mode of understanding across cultural boundaries.Participants will experience that failure, as we separate them in two groupes that will obey two different modes of communication and make the groups communicate with each other.We'll then show that there was no reason for the disdain they experienced.",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"speakers": [24]
+	"speakers": [24, 44]
 }, {
 	"id": 51,
 	"title": "Mob Programming 101 (et en pratique)",
@@ -269,14 +268,14 @@
 	"description": "Un Product Owner efficace est incontournable à la réussite d'un produit.Cela passe par l'identification de tous les interlocuteurs que celui-ci est amené à solliciter au cours du projet pour assurer consistance et cohérence à son produit.Vous rencontrerez Chloé, le temps de la conférence, pour découvrir son réseau social et comment elle l'entretient. Tout est question d'équilibre !",
 	"complexity": "Beginner",
 	"subtype": "presentation",
-	"speakers": [52]
+	"speakers": [52, 53]
 }, {
 	"id": 57,
 	"title": "Rejoignez le réseau de Chloé, votre PO :: L'atelier",
 	"description": "Un Product Owner efficace est incontournable à la réussite d'un produit.Cela passe par l'identification de tous les interlocuteurs que celui-ci est amené à solliciter au cours du projet pour assurer consistance et cohérence à son produit.Vous chausserez les souliers de Chloé le temps d'un atelier pour construire son réseau social et commencer à l'entretenir. Tout est question d'équilibre !",
 	"complexity": "Beginner",
 	"subtype": "workshop",
-	"speakers": [52]
+	"speakers": [52, 53]
 }, {
 	"id": 58,
 	"title": "Repas deuxième service"
@@ -289,7 +288,7 @@
 	"description": "Sauvons notre base spatiale : imaginer, concevoir, réaliser, tester en équipes les robots pour remplir la mission de sauvetage ! Sensibilisation au travail collaboratif en équipe et à la coopération entre équipes !",
 	"complexity": "Tout public",
 	"subtype": "presentation",
-	"speakers": [26]
+	"speakers": [26, 26]
 }, {
 	"id": 61,
 	"title": "Si l'élection présidentielle était agile...",
@@ -334,7 +333,7 @@
 	"complexity": "Beginner",
 	"subtype": "presentation",
 	"presentation": "https://krilivye.github.io/TTT/",
-	"speakers": [null]
+	"speakers": [15]
 }, {
 	"id": 67,
 	"title": "The NoEstimates Game (En Francais!)",

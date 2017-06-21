@@ -48,6 +48,14 @@
 	"bio": "Cédric est \"Expert en Renouveau\" chez Fenikso dans les domaines Agilité des Organisations, Management & Facilitation.Depuis 2011, il accompagne ses clients dans leur chemin vers un \"Renouveau humaniste et discipliné\" (vaste programme ;)Parmi ses casquettes : coach, consultant, formateur, conférencier, organisateur de conférence, mélomane, humoriste, marathonien, époux, père…",
 	"thumbnailUrl": "CédricBodin.jpg"
 }, {
+	"id": 14,
+	"name": "Bruno",
+	"surname": "BOUCARD",
+	"company": "42 SKILLZ",
+	"title": "Coach Agile",
+	"bio": "Bruno Boucard est coach agile, software craftsman, formateur sur les pratiques XP. Il possède une vaste expérience de programmation depuis la programmation système et noyau sur serveur Unix à la programmation parallèle sur CPU et GPU sur Windows. Aujourd’hui il pratique un coaching pendant 6 mois pour des développeurs C# et Java où il enseigne le TDD, le Refactoring de code legacy, le BDD avec une pointe de DDD.",
+	"thumbnailUrl": "BrunoBoucard.jpg"
+}, {
 	"id": 15,
 	"name": "Pierre",
 	"surname": "BOUSQUIE",
