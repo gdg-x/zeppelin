@@ -278,10 +278,12 @@
 	"speakers": [52, 53]
 }, {
 	"id": 58,
-	"title": "Repas deuxième service"
+	"title": "Repas 1er service",
+	"service": "true"
 }, {
 	"id": 59,
-	"title": "Repas premier service"
+	"title": "Repas 2e service",
+	"service": "true"
 }, {
 	"id": 60,
 	"title": "Rescue Robots - Lego(r) Mindstorms",
