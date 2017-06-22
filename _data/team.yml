@@ -65,7 +65,7 @@
   name: "Nicolas"
   surname: "MINGO"
   title: "Software craftsman"
-  thumbnailUrl: NicolasMingo.jpg
+  thumbnailUrl: none.jpg
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasmingo/"}
