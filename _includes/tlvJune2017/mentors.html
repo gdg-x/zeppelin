@@ -8,7 +8,7 @@
 
       {% assign animationDelay = 0 %}
       {% for member in site.data.tlvJune2017.mentors %}
-      {% if forloop.index < 7 %}
+      {% if forloop.index < 8 and forloop.index > 4 %}
         {% assign colWidth = 4 %}
       {% else %}
         {% assign colWidth = 3 %}
@@ -34,7 +34,7 @@
       {% endfor %}
 
     </div>
-    <h6 style="float: right; padding-right: 30px">and others...</h6>
+    <h6 style="float: right; padding-right: 30px" class="col-xs-offset-5">and others...</h6>
   </div>
 </section>
 <!-- End Organizing Team Section -->

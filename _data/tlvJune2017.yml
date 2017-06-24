@@ -161,3 +161,13 @@ mentors:
   bio: "Working at Aol"
   rockstar: true
   thumbnailUrl: naor.jpg
+
+- id: 31
+  name: "Bar"
+  surname: "Cohen"
+  title: "Full Stack Developer"
+  company: "Aol"
+  social:
+  bio: "25 years old, Bsc. in computer science, I worked on IBM and HP before my current job (AOL). I'm participating in ngGirls because I think it's a good platform to increase the diversity in the developers community "
+  rockstar: true
+  thumbnailUrl: bar.jpg

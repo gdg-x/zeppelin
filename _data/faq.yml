@@ -7,14 +7,14 @@
 #  - { question: "The following information regards the event held on November 13th, 2016",
 #        answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
   - { question: "How can I apply?",
-      answer: 'Just fill out the application form for <a target="_blank" href="https://goo.gl/forms/HVvOUPb7MuaeAVI33">ngGirls @ JS-Poland</a>
-       or <a target="_blank" href="https://goo.gl/forms/nHQjU7EOHlFdsAC33">ngGirls TLV</a>.<br/>
-              Do you already have experience in front-end development? Apply as a mentor for
-              <a target="_blank" href="https://goo.gl/forms/40AUkUujYohu8r4I2">ngGirls @ JS-Poland</a> or
-              <a target="_blank" href="https://goo.gl/forms/xi0Jy7d6h1uuicBY2">ngGirls TLV</a>!'}
+#      answer: 'Just fill out the application form for <a target="_blank" href="https://goo.gl/forms/HVvOUPb7MuaeAVI33">ngGirls @ JS-Poland</a>
+#       or <a target="_blank" href="https://goo.gl/forms/nHQjU7EOHlFdsAC33">ngGirls TLV</a>.<br/>
+#              Do you already have experience in front-end development? Apply as a mentor for
+#              <a target="_blank" href="https://goo.gl/forms/40AUkUujYohu8r4I2">ngGirls @ JS-Poland</a> or
+#              <a target="_blank" href="https://goo.gl/forms/xi0Jy7d6h1uuicBY2">ngGirls TLV</a>!'}
+      answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
   - { question: "Where is ngGirls going to take place?",
       answer: '
-      ngGirls @ JS-Poland will take place at 7N Warsaw Office.<br>
       ngGirls TLV will take place at AOL Israel offices, Atrium building, near Tel Aviv Center train station.'}
   - { question: "What is the schedule of the workshop day?",
       answer: "The workshop will be held during the day. <br />
@@ -66,9 +66,10 @@
   faq:
   - { question: "Can I be a mentor?",
       answer: 'Yes, we would love to have your help! If you have some knowledge and experience in front-end development,
-               please fill out the form of the event you would like to join
-               and we will get in touch in the next few days: <a target="_blank" href="https://goo.gl/forms/40AUkUujYohu8r4I2">ngGirls @ JS-Poland</a> or
-               <a target="_blank" href="https://goo.gl/forms/xi0Jy7d6h1uuicBY2">ngGirls TLV</a>'}
+       please <b>join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>
+#               please fill out the form of the event you would like to join
+#               and we will get in touch in the next few days: <a target="_blank" href="https://goo.gl/forms/40AUkUujYohu8r4I2">ngGirls @ JS-Poland</a> or
+#               <a target="_blank" href="https://goo.gl/forms/xi0Jy7d6h1uuicBY2">ngGirls TLV</a>'}
   - { question: "Are mentors being payed?",
       answer: "No, mentors, as well as the organizers, volunteer for the workshop."}
 #  - { question: "Do mentors get a discount for ngVikings?",
