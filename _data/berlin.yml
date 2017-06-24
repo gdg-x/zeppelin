@@ -1,0 +1,61 @@
+eventDate: "July 15th, 2017, Berlin"
+applicationForm: "https://drive.google.com/open?id=1G_CX_8Ikvcx0krnJsI7foFUmMXtPYB9mjh2cZ4_FGBs"
+mentorsForm: "https://drive.google.com/open?id=170YKchXmkKAY-uGoGhY5cFs6udAki6mXRQAgtk87kBk"
+jsunconfSite: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/"
+descriptionTitle: "ngGirls @ Berlin"
+descriptionBlock:
+ - {title: "Who is it for?", template: "berlin/berlin-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "berlin/berlin-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "berlin/berlin-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Angular Berlin", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/", imageUrl: "angular-berlin.jpg"}
+
+
+mentors:
+
+- id: 1
+  name: "Robert"
+  surname: "Willemelis"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+
+- id: 2
+  name: "Martin"
+  surname: "Sonnenholzer"
+  bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
+  What stayed the same since the beginning was the awesome community. But we need more diversity to make it even better.
+  So now it's my part to give back to the community.</p>
+  <p>(Remote mentor)</p>
+"
+  thumbnailUrl: martin.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/chaos_monster"}
+
+
+- id: 3
+  name: "And You?"
+  surname: ""
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
