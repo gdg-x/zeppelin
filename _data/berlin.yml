@@ -21,6 +21,16 @@ partners:
 mentors:
 
 - id: 1
+  name: "Rozita"
+  surname: "Pourashraf"
+  bio: "<p>I'd love to be more involved in Angular2 community for my interest's sake and to ease passing the learning curve. The more I participate in such an event, the more I adjust my knowledge of Angular2. Then, I could easily share my knowledge through other Front-End communities which I'm a member of. Such as Front-End meetup in Freiburg, where many young women participate in monthly sharing the ideas and giving talk on brand new web tech.</p>
+"
+  thumbnailUrl: rozita.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/r_pourashraf"}
+
+- id: 2
   name: "Robert"
   surname: "Willemelis"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
@@ -39,7 +49,7 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 
-- id: 2
+- id: 3
   name: "Martin"
   surname: "Sonnenholzer"
   bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
