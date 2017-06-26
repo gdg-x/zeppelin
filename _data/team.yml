@@ -65,10 +65,27 @@
   name: "Nicolas"
   surname: "MINGO"
   title: "Software craftsman"
-  thumbnailUrl: none.jpg
+  thumbnailUrl: NicolasMingo.png
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasmingo/"}
     - {name: "twitter", link: "https://twitter.com/nicolas_mingo"}
     - {name: "github", link: "https://github.com/nicolasmingo"}
-
+-
+  id: 7
+  name: "Véronique"
+  surname: "PILNIERE"
+  title: "Enseignante"
+  thumbnailUrl: VeroniquePilniere.jpg
+  team: true
+  social: 
+    - {name: "site", link: "http://www.eralan2.eu/fr/les-acteurs/equipe-estia/veronique-pilniere.html"}
+-
+  id: 8
+  name: "Marion"
+  surname: "SAUMONNEAU"
+  title: "Chargée de projet"
+  thumbnailUrl: MarionSaumonneau.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marion-saumonneau-459685ba/"}
