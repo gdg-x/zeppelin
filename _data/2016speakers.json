@@ -1,0 +1,231 @@
+[{
+	"id": 2,
+	"name": "Fabrice",
+	"surname": "AIMETTI",
+	"company": "Ayeba",
+	"title": "Coach Agile",
+	"bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
+	"thumbnailUrl": "FabriceAimetti.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 8,
+	"name": "Alice",
+	"surname": "BARRALON",
+	"company": "Oriions",
+	"bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
+	"thumbnailUrl": "AliceBarralon.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 12,
+	"name": "Isabelle",
+	"surname": "BLASQUEZ",
+	"company": "Université de Limoges",
+	"title": "Enseignant-Chercheur",
+	"bio": "Enseignant-chercheur. Artisan pédagogue développeur d'agilitéMembre de la team Duchess France, Ambassadrice de la Code Week et Fondatrice des journées #iutagileBlog: http://www.duchess-france.org/",
+	"thumbnailUrl": "IsabelleBlasquez.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+},
+{
+	"id":18,
+	"name": "Sam",
+	"surname":"CRANFORD",
+	"company": "Upwiser",
+	"thumbnailUrl": "SamCranford.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 19,
+	"name": "Thierry",
+	"surname": "CROS",
+	"company": "Être Agile",
+	"bio": "Création de l'association Extreme Programming France en 200Auteur de \"Spécifiez agile\" en 2013, \"Managez agile\" en 2016",
+	"thumbnailUrl": "ThierryCros.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 26,
+	"name": "Frédéric",
+	"surname": "DUFFAU",
+	"company": "Duffau Consulting",
+	"title": "Consultant en Agilité",
+	"bio": "Consultant en Agilité / Coach Agile / Facilitateur / Formateur",
+	"thumbnailUrl": "FredDuffau.jpg"
+}, {
+	"id": 28,
+	"name": "Jean-Baptiste",
+	"surname": "DUSSEAUT",
+	"company": "Arpinum",
+	"title": "Developpeur",
+	"bio": "eXtreme programmer, co-fondateur d'Arpinum. ",
+	"thumbnailUrl": "Jean-baptisteDusseaut.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 29,
+	"name": "Frédéric",
+	"surname": "FAURE",
+	"company": "Zenika",
+	"title": "Developpeur",
+	"bio": "Javagiliste18 ans dans le code10 ans dans l'agilitéApproche pragmatique et empiriqueCoaching d'équipes opérationnelles",
+	"thumbnailUrl": "FredFaure.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 30,
+	"name": "Anne",
+	"surname": "GABRILLAGUES",
+	"company": "Ippon Technologies",
+	"bio": "Depuis une première rencontre avec l'Agilité en 2008, j'accompagne les équipes de développement en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetup et de conférences à Paris. J'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'an dernier l'équipe Lean Kanban France. Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.",
+	"thumbnailUrl": "AnneGabrillagues.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 39,
+	"name": "Arnaud",
+	"surname": "LEMAIRE",
+	"company": "Arpinum",
+	"title": "CTO",
+	"bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
+	"thumbnailUrl": "ArnaudLemaire.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 52,
+	"name": "Régis",
+	"surname": "SCHNEIDER",
+	"company": "Valtech",
+	"title": "Coach Agile",
+	"bio": "Je suis marié, avec 2 enfants (7 & 8 ans). J'adore la randonnée (disons trekking si ça fait mieux), la montagne. J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !Sinon, je suis Coach Agile à tendance Product Owner chez Valtech à Paris.Je suis tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir. En particulier pour la raison que je trouve là un bon prétexte pour [m']amuser au boulot. Mais c'est toujours fait avec beaucoup de sérieux.",
+	"thumbnailUrl": "RegisSchneider.jpg",
+	"ribbon": [{
+		"abbr": "2017",
+		"title": "2017"
+	}]
+}, {
+	"id": 58,
+	"name": "Claude",
+	"surname": "ANDRIEUX",
+	"thumbnailUrl": "ClaudeAndrieux.jpg"
+}, {
+	"id": 59,
+	"name": "Antoine",
+	"surname": "VERNOIS",
+	"thumbnailUrl": "AntoineVernois.jpg"
+}, {
+	"id": 60,
+	"name": "Olivier",
+	"surname": "AZEAU",
+	"thumbnailUrl": "OlivierAzeau.jpg"
+}, {
+	"id": 61,
+	"name": "Marc",
+	"surname": "DUGUE",
+	"thumbnailUrl": "MarcDugue.jpg"
+}, {
+	"id": 62,
+	"name": "Mickaël",
+	"surname": "BORDE",
+	"thumbnailUrl": "MickaelBorde.jpg"
+}, {
+	"id": 63,
+	"name": "Arnaud",
+	"surname": "GONZALES",
+	"thumbnailUrl": "ArnaudGonzales.jpg"
+}, {
+	"id": 64,
+	"name": "Gregory",
+	"surname": "ESTRADE",
+	"thumbnailUrl": "GregoryEstrade.jpg"
+}, {
+	"id": 65,
+	"name": "Stéphane",
+	"surname": "LANGLOIS",
+	"thumbnailUrl": "StephaneLanglois.jpg"
+}, {
+	"id": 66,
+	"name": "Denis",
+	"surname": "BENOIST",
+	"thumbnailUrl": "DenisBenoist.jpg"
+}, {
+	"id": 67,
+	"name": "Yannick",
+	"surname": "AMEUR",
+	"thumbnailUrl": "YannickAmeur.jpg"
+}, {
+	"id": 68,
+	"name": "Claude",
+	"surname": "AUBRY",
+	"thumbnailUrl": "ClaudeAubry.jpg"
+}, {
+	"id": 69,
+	"name": "Sylvain",
+	"surname": "LEBOSQUAIN",
+	"thumbnailUrl": "Sylvain.jpg"
+}, {
+	"id": 70,
+	"name": "Cyrille ",
+	"surname": "FRANCOIS",
+	"thumbnailUrl": "Cyrillefrancois.jpg"
+}, {
+	"id": 71,
+	"name": "Ivan",
+	"surname": "KOMAROFF",
+	"thumbnailUrl": "IvanKomaroff.jpg"
+}, {
+	"id": 72,
+	"name": "Bénédicte",
+	"surname": "LAMBERT",
+	"thumbnailUrl": "none.jpg"
+}, {
+	"id": 73,
+	"name": "Jean-Pierre",
+	"surname": "BONNAFOUS",
+	"thumbnailUrl": "Jean-pierreBonnafous.jpg"
+}, {
+	"id": 74,
+	"name": "Benoit",
+	"surname": "BRYON",
+	"thumbnailUrl": "BenoitBryon.jpg"
+}, {
+	"id": 75,
+	"name": "Fanny",
+	"surname": "WALTER",
+	"thumbnailUrl": "FannyWalter.jpg"
+}, {
+	"id": 76,
+	"name": "Ane",
+	"surname": "Diaz De Tuesta",
+	"thumbnailUrl": "ane.jpg"
+}, {
+	"id": 77,
+	"name": "Mathieu",
+	"surname": "MERZEREAU",
+	"thumbnailUrl": "MathieuMERZEREAU.jpg"
+},
+{
+	"id": 80,
+	"name": "François",
+	"surname": "SALAZAR",
+	"thumbnailUrl": "FrancoisSalazar.jpg"
+}]

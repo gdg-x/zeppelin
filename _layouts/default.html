@@ -32,6 +32,10 @@ layout: compress
         {% include sessions-modals.html %} 
     {% endif %} 
 
+    {% if page.permalink == '/schedule2016/' %}
+        {% include sessions-modals2016.html %} 
+    {% endif %} 
+
     {% include analytics.html %}
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

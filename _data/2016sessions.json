@@ -1,0 +1,281 @@
+[{
+	"id": 102,
+	"title": "#JeVisAvecUnCycleEnV",
+	"description": "Pérégrinations d'un agiliste au coeur d'une transformation agile à la maison (avec 1 CP et 2 jeunes enfants) quand sa moitié d'en comprend pas tout à fait l'état d'esprit... Que ce soit au boulot ou à la maison, les situations, les outils et les apprentissages se retrouvent. Partageons nos expériences !",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"speakers": [52],
+	"place": "Amphi"
+}, {
+	"id": 103,
+	"title": "Accueil",
+	"service": "true"
+}, {
+	"id": 104,
+	"title": "Agilitation",
+	"description": "\"A travers l'agitation constante subie par nos équipes de développement, nous avons réussi à subsister grâce, entre autres, à notre agilité ! Ce talk est un retour d'expérience à propos de ce que nous avons vécu dans nos équipes Scrum sur les derniers mois, avec par exemple des changements incessants de priorités, des travaux dans l'entreprise, ou encore de nouvelles activités à réaliser, puis de partager ce qui nous a permis de rester productifs et motivés. L'agilité nous a protégé de l'agitation !\".",
+	"speakers": [76, 77],
+	"place": "Trinquet 2"
+}, {
+	"id": 105,
+	"title": "Agilité et Liberté",
+	"description": "Si l’adhésion totale du dirigeant à une démarche de libération d’entreprise demeure indispensable, les salariés qui baignent dans les méthodes de développement logiciel dites « Agiles » sont d’excellents acteurs et promoteurs de telles libérations et c'est ainsi que la libération des énergies touchent des entités marketing opérationnel, des équipes commerciales, des fonction support...",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"speakers": [58],
+	"place": "Amphi"
+}, {
+	"id": 106,
+	"title": "Clean CODE",
+	"description": "Une attention continue à l'excellence technique et à une bonne conception renforce l’Agilité » — 9e principe du manifeste agile. À quoi ça sert de faire du code propre ? Et puis c'est quoi d'abord ? Et surtout, comment je m'y mets ? Par quoi je commence ?",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "http://avernois.github.io/training-clean_code/#/",
+	"speakers": [59],
+	"place": "Salle Lang 6"
+}, {
+	"id": 107,
+	"title": "Clôture",
+	"service": "true"
+}, {
+	"id": 108,
+	"title": "Déjeuner",
+	"service": "true"
+}, {
+	"id": 109,
+	"title": "DoDelinant de la tête",
+	"description": "Reprise et aménagement du talk donné à Agile Tour Bordeaux 2015 : C'est bien beau d'avoir une \"\"Définition de terminé\"\" dans une équipe mais cette définition est-elle adoptée par l'équipe? Aide-t-elle l'équipe à terminer ses user stories? Pour éviter les \"\"ça compile donc ça marche\"\", \"\"mais c'est pas du tout ce que j'avais demandé\"\" ou autres \"\"je comprends pas, ça marchait sur ma machine\"\", je reviendrai sur les fondamentaux de la pratique, je donnerai des pistes pour aider à la coconstruction de la DoD et des conseils pour faciliter son utilisation au quotidien, expérimentés dans mes propres équipes.",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "https://fr.slideshare.net/ffaure32/agile-tour2015",
+	"speakers": [29],
+	"place": "Salle Lang 6"
+}, {
+	"id": 110,
+	"title": "Doublure en folie",
+	"description": "Codeur est contrarié. Il s'est toujours considéré comme une virtuose du développement logiciel mais quand ses collègues lui ont dit qu'ils voulaient désormais pratiquer le TDD, il n'a pas eu le choix. Tests, Rouge, Vert, Refactor... Il devait assimiler tous ces mots nouveaux et il fallait le faire vite. Il s'attaque alors à la lecture de xUnit Test Patterns par Gerard Meszaros mais la fatigue le gagne. Dans son rêve, les tests et le code prennent vie... La première pièce de théâtre au monde qui se déroule entièrement dans un environnement de tests automatisés ! Après une première partie où quelques volontaires joueront la pièce devant le public, tout le monde pourra pratiquer le TDD en inventant une suite possible à l'histoire.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [60],
+	"place": "Salle Lang 5"
+}, {
+	"id": 111,
+	"title": "Facilitation graphique : Devenez le seigneur des pictos",
+	"description": "Cette conférence/atelier essayera de répondre à la cruciale question que tout le monde se pose (ou pas) : \"Comment faire pour devenir le seigneur des pictos et des visuels percutants quand on ne sait dessiner que des carrés et des patates ?\" Et accessoirement on regardera aussi les questions \"Qu'est-ce que la facilitation graphique ?\"\" et \"\"Qu'est-ce que cela apporte au quotidien ?\"\", mais honnêtement c'est moins important ... Venez avec vos papiers et crayons (ou tablette et stylet, ou toile et pinceaux ... ) ! \"",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "https://www.linkedin.com/pulse/quest-ce-que-la-facilitation-graphique-marc-dugu%C3%A9",
+	"speakers": [61],
+	"place": "Salle Lang 6"
+}, {
+	"id": 112,
+	"title": "Implémenter DDD, CQRS, ES",
+	"description": "Je construis des applications web et mobiles, de bout en bout, sur des domaines variés. J’ai appris, avec humilité, différents principes pour “tacler la complexité”. Mon outil principal est DDD qui place le métier au coeur de l’application. J’applique aussi CQRS pour obtenir un modèle d'écriture strict et décorrélé des modèles de lecture hétérogènes. Lorsque l'application s'y prête, les évènements métier deviennent la principale source de vérité grâce à Event Sourcing. Cette présentation technique aura pour but de montrer comment j’implémente ces approches. Il y aura du code, beaucoup de code.",
+	"complexity": "Avancé",
+	"subtype": "presentation",
+	"presentation": "https://github.com/MichaelBorde/ddd-cqrs-es-agilepb2016",
+	"speakers": [62],
+	"place": "Salle Lang 6"
+}, {
+	"id": 113,
+	"title": "Kanbanzine",
+	"description": "Ce jeu peut servir différent objectif. Il a été initialement pensé pour faciliter l’apprentissage de la méthode Kanban. Cependant grâce au jeu, on peut apprendre bien au-delà de la méthode, notamment en termes de dynamique d’équipe, de collaboration ou de leadership.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"presentation": "https://kanbanzine.wordpress.com/",
+	"speakers": [63, 30],
+	"place": "Salle Lang 5"
+}, {
+	"id": 114,
+	"title": "L'agilité et le mal : l'histoire de l'aïe",
+	"description": "Un regard sur les raisons pour lesquelles l'agilité est devenue la méthodologie de référence dans le domaine du développement de logiciel et autre produits complexes. Ou un truc comme ca...",
+	"subtype": "presentation",
+	"presentation": "https://fr.slideshare.net/nostradamnit/lagilit-et-le-mal",
+	"speakers": [18],
+	"place": "Trinquet 1"
+}, {
+	"id": 115,
+	"title": "La délication agilité du mammouth",
+	"description": "Retour d'expérience sur la mise en place de l'agilité, sous forme d'un documentaire animalier.",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "http://torlus.github.io/apb2016/",
+	"speakers": [64],
+	"place": "Amphi"
+}, {
+	"id": 116,
+	"title": "La solution est en vous, alors ACTION!",
+	"description": "L'art de mener des rétrospectives par une approche positive. Je vous propose d'imaginer ensemble des situations, lieux, objets, produits et de nous transporter dans le temps afin de construire ensemble une représentation idéale dans ce futur proche. Puis, dans une démarche orientée solution (donc positive), nous allons ensemble touché le champs des possibles pour actionner concrètement le mouvement !",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [26],
+	"place": "Salle Lang 5"
+}, {
+	"id": 117,
+	"title": "Le coach (agile) au service de la relation",
+	"description": "Je propose un retour d'expérience sur le rôle du coach agile au service d'une équipe / organisation. J'y mentionnerai les pièges potentiels (dans lequels je suis évidemment tombés) qui deviennent plus fréquents à une époque où l'Agilité peut être vu par certains comme une n-ième injonction de performance.",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "http://ayeba.fr/2016/11/le-manager-coach-de-son-equipe/",
+	"speakers": [2],
+	"place": "Amphi"
+}, {
+	"id": 118,
+	"title": "Lego à la rescousse",
+	"description": "Pour créer demain un code de qualité, venez (re)découvrir les bases des pratiques techniques du Software Craftsmanship de manière ludique ! Cet atelier s'appuye sur de petits exercices à base de LEGO proposés initialement par Bryan Beecham et Mike Bowler. Il permet de réviser et d'apprendre les bonnes pratiques en s'amusant (TDD, Clean Code, Refactoring, Dette Technique et Integration continue seront au programme !) L'usage des LEGO offre l'opportunité à tous (développeurs ou non) de venir s'essayer, comprendre et approfondir des concepts techniques. A l'issue de cet atelier une discussion sera ouverte sur l'état des lieux de ces bonnes pratiques et sur la pertinence d'un tel mode d'apprentissage.",
+	"presentation": "https://www.slideshare.net/alicebarralon9/lego-bonnes-pratiquesdevoxx2017",
+	"speakers": [12, 8],
+	"place": "Trinquet 2"
+}, {
+	"id": 119,
+	"title": "Les phases du programmeur",
+	"description": "\"Il y a quelques années, j’avais annoncé pompeusement lors d’une soirée « je crois que je n’ai plus rien à apprendre sur mon métier» Bien entendu, je ne pouvais pas être plus loin de la réalité, mais cette attitude est typique de ce qu’on pourrait appeler un expert débutant (terme de Erik Dietrich). Je me pose depuis la question de savoir comment je suis sorti de ce piège, et du coup comment aider les autres à en sortir. Dans cette conférence, j’aimerai vous parler de modèle d’apprentissage, de biais cognitifs, de motivations intrinsèques, en saupoudrant le tout de quelques trolls, pour tenter d’expliquer par quelles phases nous passons en tant que développeur avant d’être moins des dangers pour les produits que nous fabriquons. \".",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "http://www.arpinum.fr/2014/04/08/les-phases-du-programmeur/",
+	"speakers": [28],
+	"place": "Salle Lang 6"
+}, {
+	"id": 120,
+	"title": "Management Agile ... Concrètement",
+	"description": "Le Management est décisif dans une transformation agile. Pourtant, c'est un rôle méconnu. Cette présentation est une cartographie des activités de management agile, entre soutien aux activités et soutien aux équipes et personnes... Ce qui suppose une posture particulière qui privilégie l'autonomie de l'équipe. La présentation est ponctuée de plusieurs mises en pratique.",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"speakers": [19],
+	"place": "Amphi"
+}, {
+	"id": 121,
+	"title": "Monde de merde",
+	"description": "De l’industrialisation du difficile à l’exploration du complexe. « L’emploi est mort, vive le travail ! » nous dit le philosophe Bernard Stiegler. Pourquoi le système pyramidal vacille ? Pourquoi notre rapport au travail évolue ? 30% des tâches répétitives disparaissent tous les ans, à quoi ressemble les nouvelles activités ? On n'a pas forcément les réponses mais on a fait des expériences. Et on aime bien partager :-).",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"speakers": [65, 72],
+	"place": "Salle Lang 6"
+}, {
+	"id": 122,
+	"title": "Notre 1er patch \"bonheur au travail\"",
+	"description": "Josiane travaille dans une entreprise où les tableaux Gantt, les cahiers des charges et le cycle en V sont rois... Que va faire Josiane ? Quels artifices va-t-elle utiliser pour changer ces affreuses habitudes ? Est-elle consciente qu'elle se dirige vers la libération de l'entreprise ?",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "https://www.slideshare.net/agiletoulouse/agile-tour-toulouse-2015-patch-bonheur-au-travail",
+	"speakers": [66],
+	"place": "Amphi"
+}, {
+	"id": 123,
+	"title": "Co-construisons la librairie visuelle idéale",
+	"description": "Séance de créativité collective visant à construire ensemble une librairie visuelle couvrant autant de besoins que possible pour autant de monde que possible (facilitateurs graphiques, coach, chef de projet, touriste, étudiants, ...) L'objectif est d'identifier tous les besoins professionnels les plus courants (Ateliers, Icebreacker, réunions, technologies, etc.) mais aussi les besoins personnels (aliments, voyages, etc.), puis de les représenter ensemble au sein d'une librairie visuelle qui sera ensuite diffusée sous Creative Commons.",
+	"speakers": [61, 73],
+	"place": "Trinquet 1"
+}, {
+	"id": 124,
+	"title": "Oser l'innovation Jugaad et un management par la confiance pour être heureux",
+	"description": "Jugaad, de l’hindi « débrouilliardise », est une approche indienne d’innovation frugale et agile pour le 21ième siècle, conceptualisée par Navi Radjou, qui a reçu le prix \"Thinkers50 Innovation Award\" en 2013. L’innovation Jugaad permet d’improviser des solutions ingénieuses dans des conditions adverses. Dotés de cet état d'esprit agile, les entrepreneurs en Inde parviennent à transformer les contraintes en opportunités et à faire mieux avec moins, tout en restant simple, flexible, faisant appel à l’intuition, et intégrant les exclus. L’objectif est de partager avec vous mon retour d’expérience, mes intuitions sur les liens entre la communication en Inde basée sur la confiance, les entreprises libérées, et l’approche d’innovation Jugaad, et de vous apporter de nouvellesidées en abordant ces approches d’Orient.\"",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "http://twicsy.com/i/qqefri",
+	"speakers": [75],
+	"place": "Amphi"
+}, {
+	"id": 125,
+	"title": "Pause café",
+	"service": "true"
+}, {
+	"id": 126,
+	"title": "Pause pelote basque",
+	"service": "true"
+}, {
+	"id": 127,
+	"title": "Pitchs de l'après-midi",
+	"service": "true"
+}, {
+	"id": 128,
+	"title": "Repas au SPOT - 1er service",
+	"service": "true"
+}, {
+	"id": 129,
+	"title": "Repas au SPOT - 2e service",
+	"service": "true"
+}, {
+	"id": 130,
+	"title": "Road-trip d'auto organisation",
+	"description": "Récit d'une démarche d'auto-organisation d'équipes de développement, services et conseil dans une PME de 38 personnes. Aout 2015, le PDG décide de s'éloigner de l'opérationnel pour se consacrer à la préparation du futur. Il ne souhaite pas nommer un DG mais laisser les équipes s'auto-organiser. Au delà d'une équipe de développement, c'est toute une entreprise qui se prépare à un voyage vers l'inconnu...",
+	"speakers": [80],
+	"place": "Trinquet 1"
+}, {
+	"id": 131,
+	"title": "Scrum façon puzzle",
+	"description": "Pendant cet atelier nous allons pratiquer du Scrum à grande échelle. Apprendre à s’organiser en feature teams, à travailler ensemble, à se synchroniser à plusieurs équipes, à prioriser selon la valeur, à intégrer en continu, à faire des prévisions sur la release en toute transparence, à identifier les obstacles d’organisation, à s’améliorer dans ce contexte.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [67, 8],
+	"place": "Salle Lang 5"
+}, {
+	"id": 132,
+	"title": "Scrum mon scrutom !",
+	"description": "(titre directement inspiré du livre Qualité mon Q ! de Dominique Dupagne). On est en mode agile et on utilise la méthode Scrum pour nos projets\" ou alors \"on adapté Scrum à notre contexte\" ou alors (venant d'un manager) \"on réussit à peu près à maintenir la vélocité des sprints\". Mmmmmh, il y a dans ces paroles des indices qui laissent penser à du Scrum dénaturé.",
+	"complexity": "Tous",
+	"subtype": "keynote",
+	"speakers": [68],
+	"place": "Amphi"
+}, {
+	"id": 133,
+	"title": "Spécifications en milieu Agile",
+	"description": "Les spécifications ont parfois mauvaise presse : trop rigides, peu adaptées, elles sont vécues comme un fardeau par les développeurs. En face, les méthodologies agiles sont parfois accusées d'être trop dans le détail et d'empêcher la vision à long terme du projet. Et s’il était possible d'associer spécifications fonctionnelles et techniques avec les méthodologies agiles pour associer vision à long terme et flexibilité ? En associant les pratiques du user story mapping, de l'impact mapping et de l'event storming, nous verrons comment concilier agilité et vision produit !",
+	"complexity": "Tous",
+	"subtype": "presentation",
+	"presentation": "https://speakerdeck.com/lilobase/specifications-en-milieu-agile-agile-pays-basque-2016",
+	"speakers": [39],
+	"place": "Salle Lang 6"
+}, {
+	"id": 134,
+	"title": "Agilité et Coworking",
+	"description": "Créée il y a 4 ans, l'association Coworking Pays basque continue son chemin. Début 2016, elle agrandit ses locaux (+150%), ouvre un second lieu, rassemble plus de 80 coworkers (soit presque autant d'entreprises), adopte une gouvernance « horizontale », et vit toujours plus de convivialité et de bonheur au travail ! Dans un contexte où chacun exerce sa propre activité, où chacun est présent à son rythme, où il n'y a pas de « chef », comment trouver sa place ? Qu'est-ce qui favorise la coopération ? Comment prendre les décisions ? Pour quels objectifs et quels résultats ? Vous vous en doutez, il y a une bonne dose d'agilité dans la recette ! Sylvain et Benoît, membres du conseil d'animation de l'association, vous proposent quelques partages de pratiques et mises en situation pour échanger sur cette expérience et témoigner de leur joie à y contribuer.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [69, 74]
+}, {
+	"id": 135,
+	"title": "Néo le robot",
+	"description": "Le scénario consiste à remplir une mission pour déclencher l'évacuation de la base Martienne de la WASA (World Around Space Agency) car elle est menacée de destruction par une imminente éruption solaire.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [70]
+}, {
+	"id": 136,
+	"title": "Atelier spirale dynamique.",
+	"description": "La spirale dynamique est un outil inventé par le sociologue Clare Graves, postérieur à Maslow, dans les années 70. Il permet d'identifier et de lire les différents systèmes de valeurs qui co-existent au sein d'une même société, d'une organisation et par les individus qui la composent. Dans cette période que nous vivons de changement de paradigme, il est intéressant à utiliser par les animateurs et promoteurs de projets agiles, pour amener des personnes de niveaux de conscience différents à trouver de l'intérêt à participer à des projets de plus en plus transversaux et systémiques.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [71]
+}, {
+	"id": 137,
+	"title": "Sortir du cadre Voile et Marche",
+	"description": "Oui, oser sortir physiquement du cadre de vos bureaux. Sortir de ses bureaux met le corps en mouvement, favorise l'authenticité, l'ouverture aux émotions et à la confiance, la flexibilité, tout ceci pour plus de créativité, simplicité en revenant à l’essentiel, joie et performance. La métaphore de la voile sera utilisée, un lien sera fait avec l’agilité, puis en route dans les jardins pour expérimenter, avec quelques consignes, le coaching en milieu naturel par groupe de 2 sur un projet qui vous tient à cœur. Dans la Silicone Vallée, ils appellent cela des \"one on one\".\".",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [75]
+}, {
+	"id": 138,
+	"title": "Table Ronde autour des livres du collectif",
+	"complexity": "Tous",
+	"subtype": "workshop"
+}, {
+	"id": 139,
+	"title": "Artisanat Logiciel : une impasse culturelle ?",
+	"description": "Qu'on l'appelle \"\"artisanat du logiciel\"\" ou \"\"software craftsmanship\"\" dans sa version anglo-saxonne, la volonté des développeurs de logiciels de définir une certaine vision de leur métier est aussi ancienne que les méthodes agiles. Les deux mouvements ont d'ailleurs une longue histoire commune. Cependant, alors que la place de l'un est désormais reconnue dans le monde de l'entreprise, l'autre reste au mieux un truc anecdotique qui n'a d'importance que pour une poignée de \"\"craftsmen\"\" autoproclamés. Et pourtant, ce n'est pas par manque d'analogies pour imaginer un mode d'organisation dans les professions du développement logiciel : des guildes médiévales aux artisans contemporains, de l'ordre des médecins à celui des pirates... Beaucoup d'efforts pour un résultat relativement faible. Pourquoi les initiatives réussissent quand il s'agit de développeurs qui se cantonnent à parler entre eux ? Pourquoi le statut d'un développeur de logiciel ressemble bien trop souvent à celui d'un ouvrier du code ? Alors que les logiciels deviennent omniprésents dans la société, pourquoi leur processus de création est-il encore si mal compris des non initiés ? Et si le problème venait des développeurs eux-mêmes ? Ouvrons le débat !",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"speakers": [60]
+},
+{
+	"id": 140,
+	"title": "After improvisé",
+	"description": "Sur le principe de la non-organisation, Picnic à la plage, baignade améliorée, tentative de surf, course poursuites de marmots, chateau de sable, discussions ouvertes",
+	"service": "true"
+},
+{
+	"id": 141,
+	"title": "Chouille d'après",
+	"description": "Plage/Apéro/Repas. C'est prévu pour remercier les orateurs, mais chacun est libre de se greffer s'il y a de la place ;) ",
+	"service": "true"
+}]

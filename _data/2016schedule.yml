@@ -1,0 +1,123 @@
+- 
+  date: "2016-09-23"
+  dateReadable: "23 Sept 2016"
+  tracks: 
+    - {title: "Amphi Patuek", color: "#00C853"}
+    - {title: "Salle Lang 6", color: "#0091EA"}
+    - {title: "Salle Lang 5", color: "#D50000"}
+  timeslots:
+    - {
+        startTime: "8:00",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "9:00",
+        sessionIds: [132]
+    }
+    - {
+        startTime: "10:00",
+        sessionIds: [120, 106, 131]
+    }
+    - {
+        startTime: "10:45",
+        sessionIds: [125, 125, 404]
+    }
+    - {
+        startTime: "11:15",
+        sessionIds: [117, 111, 125]
+    }
+    - {
+        startTime: "11:45",
+        sessionIds: [404, 404, 113]
+    }
+    - {
+        startTime: "12:15",
+        sessionIds: [128, 112, 404]
+    }
+    - {
+        startTime: "13:15",
+        sessionIds: [404, 129, 129]
+    }
+    - {
+        startTime: "14:15",
+        sessionIds: [127]
+    }
+    - {
+        startTime: "14:30",
+        sessionIds: [115, 109, 116]
+    }
+    - {
+        startTime: "15:30",
+        sessionIds: [122, 133, 404]
+    }
+    - {
+        startTime: "15:50",
+        sessionIds: [105, 404, 404]
+    }
+    - {
+        startTime: "16:00",
+        sessionIds: [404, 404, 125]
+    }
+    - {
+        startTime: "16:15",
+        sessionIds: [125, 125, 404]
+    }
+    - {
+        startTime: "16:30",
+        sessionIds: [404, 404, 110]
+    }
+    - {
+        startTime: "16:45",
+        sessionIds: [124, 119, 404]
+    }
+    - {
+        startTime: "17:15",
+        sessionIds: [102, 121, 404]
+    }
+    - {
+        startTime: "18:00",
+        sessionIds: [107]
+    }
+    - {
+        startTime: "18:30",
+        sessionIds: [141]
+    }
+- 
+  date: "2016-09-24"
+  dateReadable: "24 Sept 2016"
+  tracks: 
+    - {title: "Salle 1", color: "#00C853"}
+    - {title: "Salle 2", color: "#0091EA"}
+  timeslots:
+    - {
+        startTime: "9:00",
+        sessionIds: [130, 118]
+    }
+    - {
+        startTime: "10:00",
+        sessionIds: [114, 404]
+    }
+    - {
+        startTime: "10:30",
+        sessionIds: [404, 104]
+    }
+    - {
+        startTime: "11:00",
+        sessionIds: [126, 404]
+    }
+    - {
+        startTime: "12:00",
+        sessionIds: [108]
+    }
+    - {
+        startTime: "14:00",
+        sessionIds: [123, 134, 135, 136]
+    }
+    - {
+        startTime: "16:30",
+        sessionIds: [107]
+    }
+    - {
+        startTime: "17:30",
+        sessionIds: [140]
+    }

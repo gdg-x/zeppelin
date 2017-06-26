@@ -54,6 +54,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Orateurs"}
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "S'y rendre"}
+ - {permalink: "/schedule2016/", text: "2016"}
 bottomNavigationLinks:
  - {link: "#tickets", text: "Acheter un billet"}
 rightNavigationButtons:
