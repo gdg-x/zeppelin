@@ -165,6 +165,7 @@ subscribeInfo: "L'inscription est ouvert à partir de Juin. Le nombre de place e
 # Tickets Block
 ticketsTitle: "Billetterie"
 ticketsInfo: "Les billets donnent access à toutes les conferences, pauses café. Les repas sont en option. L'hébergement n'est PAS inclus dans le prix du billet."
+ticketsBgImage: "tickets.jpg"
 ticketsOffers:
  -
   name: "\"Earl Bird\"<br/>2J, Billet+Repas"
