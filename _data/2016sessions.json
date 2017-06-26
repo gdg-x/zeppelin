@@ -266,4 +266,16 @@
 	"complexity": "Tous",
 	"subtype": "workshop",
 	"speakers": [60]
+},
+{
+	"id": 140,
+	"title": "After improvisé",
+	"description": "Sur le principe de la non-organisation, Picnic à la plage, baignade améliorée, tentative de surf, course poursuites de marmots, chateau de sable, discussions ouvertes",
+	"service": "true"
+},
+{
+	"id": 141,
+	"title": "Chouille d'après",
+	"description": "Plage/Apéro/Repas. C'est prévu pour remercier les orateurs, mais chacun est libre de se greffer s'il y a de la place ;) ",
+	"service": "true"
 }]

@@ -78,6 +78,10 @@
         startTime: "18:00",
         sessionIds: [107]
     }
+    - {
+        startTime: "18:30",
+        sessionIds: [141]
+    }
 - 
   date: "2016-09-24"
   dateReadable: "24 Sept 2016"
@@ -107,9 +111,13 @@
     }
     - {
         startTime: "14:00",
-        sessionIds: [123, 134, 135, 136, 137, 138, 139]
+        sessionIds: [123, 134, 135, 136]
     }
     - {
         startTime: "16:30",
         sessionIds: [107]
+    }
+    - {
+        startTime: "17:30",
+        sessionIds: [140]
     }
