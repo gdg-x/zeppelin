@@ -199,7 +199,7 @@
 	"id": 130,
 	"title": "Road-trip d'auto organisation",
 	"description": "Récit d'une démarche d'auto-organisation d'équipes de développement, services et conseil dans une PME de 38 personnes. Aout 2015, le PDG décide de s'éloigner de l'opérationnel pour se consacrer à la préparation du futur. Il ne souhaite pas nommer un DG mais laisser les équipes s'auto-organiser. Au delà d'une équipe de développement, c'est toute une entreprise qui se prépare à un voyage vers l'inconnu...",
-	"speakers": [null],
+	"speakers": [80],
 	"place": "Trinquet 1"
 }, {
 	"id": 131,
@@ -239,7 +239,7 @@
 	"description": "Le scénario consiste à remplir une mission pour déclencher l'évacuation de la base Martienne de la WASA (World Around Space Agency) car elle est menacée de destruction par une imminente éruption solaire.",
 	"complexity": "Tous",
 	"subtype": "workshop",
-	"speakers": [null]
+	"speakers": [70]
 }, {
 	"id": 136,
 	"title": "Atelier spirale dynamique.",
