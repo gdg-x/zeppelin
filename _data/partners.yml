@@ -1,24 +1,10 @@
 - 
-  group: "Gold"
-  elements: 
-    - {name: "Oriions", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "oriions.png"}
-    - {name: "Agile Tribu", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "agile-tribu.png"}
-    - {name: "AE&T", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "aet.png"}
-    - {name: "InfoTel", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "infotel.png"}
-- 
-  group: "Silver"
-  elements: 
-    - {name: "Waavy", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "waavy.png"}
-    - {name: "Duffau Consulting", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "duffau.png"}
-- 
   group: "Partenaires privilégiés"
   elements: 
-    - {name: "ESTIA", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "estia.png", width: "120px"}
-    - {name: "Cluster Pays Basque Digital", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "pays-basque-digital.png", width: "120px"}
+    - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "120px"}
 - 
   group: "Avec la participation de"
   elements: 
-    - {name: "Duchess France", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "duchess.png", width: "120px"}
-    - {name: "Antic", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "antic.png", width: "120px"}
-    - {name: "La mêlée Adour", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "melee_adour.png", width: "120px"}
-    - {name: "Athlantal", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "athlantal.jpg", width: "120px"}
+    - {name: "Atlanthal", description: "Centre de Thalassothérapie", link: "http://www.atlanthal.com", imageUrl: "atlanthal.jpg", width: "120px"}
+    - {name: "Le Spot'", description: "Bar-Brasserie-Snack Le Spot'", link: "http://www.le-spot.rest/", imageUrl: "lespot.jpg", width: "120px"}
