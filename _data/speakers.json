@@ -66,7 +66,7 @@
 	"company": "Upwiser",
 	"title": "Developpeur, Formateur",
 	"bio": "Catalyseur agile, extrême programmeur et formateur avec plus de 20 ans d'experience dans le monde informatique en transition agile",
-	"thumbnailUrl": "Sam.jpg"
+	"thumbnailUrl": "SamCranford.jpg"
 }, {
 	"id": 19,
 	"name": "Thierry",
@@ -215,5 +215,5 @@
 	"surname": "GALLAY",
 	"company": "Upwiser",
 	"title": "Coach Agile et Lean Startup",
-	"thumbnailUrl": "bastien.png"
+	"thumbnailUrl": "BastienGallay.png"
 }]
