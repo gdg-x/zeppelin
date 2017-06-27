@@ -1,4 +1,11 @@
 [{
+	"id": 0,
+	"title": "Coming soon",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
+	"subtype": "presentation",
+	"speakers": [0]
+},
+	{
 	"id": 3,
 	"title": "Accueil",
 	"service": "true"
@@ -9,13 +16,6 @@
 	"complexity": "Beginner",
 	"subtype": "presentation",
 	"speakers": [18, 60]
-}, {
-	"id": 8,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"speakers": [13]
 }, {
 	"id": 11,
 	"title": "Carte, boussole et territoire : le voyage du Manager agile",
@@ -45,26 +45,12 @@
 	"presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
 	"speakers": [2, 23]
 }, {
-	"id": 17,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [41]
-}, {
 	"id": 20,
 	"title": "Construisons ensemble notre Management visuel idéal",
 	"description": "Après une courte définition de l'Obeya, nous passerons en mode atelier pour partager nos pratiques ou idées respectives pour en comprendre le fonctionnement et l'intérêt. Nous bénéficierons également de l'apport de chacun des participants pour répondre aux problématiques de management visuel que nous rencontrons probablement tous.",
 	"complexity": "Beginner",
 	"subtype": "workshop",
 	"speakers": [52, 32]
-}, {
-	"id": 25,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "keynote",
-	"speakers": [33]
 },  {
 	"id": 27,
 	"title": "Entropie du logiciel : dette technique & complexité accidentelle",
@@ -81,54 +67,12 @@
 	"presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
 	"speakers": [43]
 }, {
-	"id": 30,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [17]
-}, {
-	"id": 32,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"speakers": [30]
-}, {
-	"id": 34,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [24, 21]
-}, {
-	"id": 35,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"speakers": [44]
-}, {
 	"id": 38,
 	"title": "L’agilité sans être informaticien, c’est possible ? !",
 	"description": "Vous n’êtes pas informaticien mais l’agilité vous intéresse ! Transformez ce concept en action. Mon atelier a pour objectif de faire rentrer les débutants dans le monde de l’agilité en accompagnant sur les termes barba... euh spécifiques à l’agilité. Nous traiterons de l’animation de réunion, de créativité des équipes… En résumé, faire en sorte d’appliquer le fameux « thinking out of de box ».",
 	"complexity": "Beginner",
 	"subtype": "presentation",
 	"speakers": [5]
-}, {
-	"id": 39,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [37, 6]
-}, {
-	"id": 41,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [12]
 }, {
 	"id": 42,
 	"title": "Le StoryMapping : venez apprendre à mapper vos idées",
@@ -137,42 +81,6 @@
 	"subtype": "presentation",
 	"speakers": [8]
 }, {
-	"id": 43,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [29]
-}, {
-	"id": 44,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "http://leantakeoff.com/",
-	"speakers": [3]
-}, {
-	"id": 45,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [14]
-}, {
-	"id": 49,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "keynote",
-	"speakers": [36]
-}, {
-	"id": 52,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [20]
-}, {
 	"id": 53,
 	"title": "Pause",
 	"service": "true"
@@ -180,13 +88,6 @@
 	"id": 54,
 	"title": "Pitch d'ouverture",
 	"service": "true"
-}, {
-	"id": 55,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"speakers": [17]
 }, {
 	"id": 58,
 	"title": "Repas 1er service",
@@ -210,13 +111,6 @@
 	"complexity": "Intermediate",
 	"subtype": "presentation",
 	"speakers": [28]
-}, {
-	"id": 66,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [15]
 }, {
 	"id": 67,
 	"title": "The NoEstimates Game (En Francais!)",
