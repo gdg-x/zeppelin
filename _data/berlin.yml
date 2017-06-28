@@ -31,6 +31,16 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/r_pourashraf"}
 
 - id: 2
+  name: "Michaela"
+  surname: "Lehr"
+  bio: "<p>Michaela is a creative frontend developer and designer, specialised in UX and WebGL/WebVR.  She contributes to @podlove_org, and curates two newsletters about Angular (@ng2comet) and WebVR (@webvrcomet). In her free time she practices yoga, and watches way too much Buffy</p>"
+  thumbnailUrl: michaela.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/fischaelameer"}
+
+
+- id: 3
   name: "Robert"
   surname: "Willemelis"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
@@ -49,7 +59,7 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 
-- id: 3
+- id: 4
   name: "Martin"
   surname: "Sonnenholzer"
   bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
