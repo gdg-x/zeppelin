@@ -137,7 +137,7 @@ time {
     height: 40px;
     overflow: hidden;
     border-radius: 20px;
-    animation: base 3s steps(1) 0s infinite;
+    animation: base 1s steps(1) 0s infinite;
     &::before, &::after {
         content: ' ';
         display: block;
@@ -154,10 +154,10 @@ time {
     &::before {
         z-index: 2;
         transform-style: preserve-3d;
-        animation: flip 3s linear 0s infinite;
+        animation: flip 1s linear 0s infinite;
     }
     &::after {
-        animation: reveal 3s steps(1) 0s infinite;
+        animation: reveal 1s steps(1) 0s infinite;
     }
 }
 @keyframes base {
