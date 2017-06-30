@@ -1,5 +1,7 @@
 # Site Web Agile Pays Basque
 
+### Live demo https://agilepaysbasquedev.github.io/site-web/
+
 **Fork** (https://github.com/gdg-x/zeppelin/fork) 
 
 ### Dépendances
@@ -7,9 +9,6 @@
 * [Fork](https://github.com/gdg-x/zeppelin/fork) 
 * Static CMS : [Jekyll](http://jekyllrb.com/)
 * Termplate : [GDG Lviv](http://lviv.gdg.org.ua/) .
-
-### Live demo https://agilepaysbasque.github.io/site-web/
-
 
 # Docker
 
