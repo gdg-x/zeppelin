@@ -1,4 +1,5 @@
-[{
+[
+{
 	"id": 2,
 	"name": "Fabrice",
 	"surname": "AIMETTI",
@@ -7,7 +8,7 @@
 	"bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
 	"thumbnailUrl": "FabriceAimetti.jpg"
 }, {
-	"id": 3,
+	"id": 0,
 	"name": "A",
 	"surname": "VENIR",
 	"thumbnailUrl": "nobody.png"
@@ -17,6 +18,11 @@
 	"surname": "ANTOINE",
 	"bio": "Accélératrice de la qualité de vie au travail, j’accompagne les entreprises aussi bien sur l’amélioration du bien-être des salariés que sur des problématiques liées à l’organisation et le management, bien entendu en mode Agile ! ",
 	"thumbnailUrl": "SandrineAntoine.jpg"
+}, {
+	"id": 3,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
 	"id": 6,
 	"name": "A",
@@ -31,31 +37,6 @@
 	"thumbnailUrl": "AliceBarralon.jpg"
 }, {
 	"id": 12,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 13,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 14,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 15,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 16,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 17,
 	"name": "A",
 	"surname": "VENIR",
 	"thumbnailUrl": "nobody.png"
@@ -75,17 +56,7 @@
 	"bio": "Création de l'association Extreme Programming France en 200Auteur de \"Spécifiez agile\" en 2013, \"Managez agile\" en 2016",
 	"thumbnailUrl": "ThierryCros.jpg"
 }, {
-	"id": 20,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 21,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 22,
+	"id": 17,
 	"name": "A",
 	"surname": "VENIR",
 	"thumbnailUrl": "nobody.png"
@@ -103,6 +74,11 @@
 	"surname": "VENIR",
 	"thumbnailUrl": "nobody.png"
 }, {
+	"id": 29,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
+}, {
 	"id": 28,
 	"name": "Jean-Baptiste",
 	"surname": "DUSSEAUT",
@@ -111,20 +87,17 @@
 	"bio": "eXtreme programmer, co-fondateur d'Arpinum. ",
 	"thumbnailUrl": "Jean-baptisteDusseaut.jpg"
 }, {
-	"id": 29,
+	"id": 61,
 	"name": "A",
 	"surname": "VENIR",
 	"thumbnailUrl": "nobody.png"
 }, {
-	"id": 30,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 31,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
+	"id": 60,
+	"name": "Bastien",
+	"surname": "GALLAY",
+	"company": "Upwiser",
+	"title": "Coach Agile et Lean Startup",
+	"thumbnailUrl": "BastienGallay.png"
 }, {
 	"id": 32,
 	"name": "Margerie",
@@ -134,22 +107,7 @@
 	"bio": "Ze SM",
 	"thumbnailUrl": "MargerieGuillot.jpg"
 }, {
-	"id": 33,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 36,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 37,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
-	"id": 38,
+	"id": 62,
 	"name": "A",
 	"surname": "VENIR",
 	"thumbnailUrl": "nobody.png"
@@ -160,7 +118,17 @@
 	"company": "Arpinum",
 	"title": "CTO",
 	"bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
-	"thumbnailUrl": "ArnaudLemaire.jpg"
+	"thumbnailUrl": "ArnaudLemaire2.jpg"
+}, {
+	"id": 38,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
+}, {
+	"id": 41,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
 	"id": 40,
 	"name": "Nils",
@@ -170,7 +138,7 @@
 	"bio": "Développeur surtout en .Net depuis 10 ansFan de l'agilité depuis 5 ans (j'aurai tellement aimé tomber dedans avant)Joueur, coach de rugby mais aujourd'hui seulement supporterMembre de l'organisation de Lean Kanban France 2016 & 17Speaker à l'Agile Tour Toulouse et Sophia 2016Responsable technique et opérationnel chez Nexeo",
 	"thumbnailUrl": "NilsLesieur.jpg"
 }, {
-	"id": 41,
+	"id": 42,
 	"name": "A",
 	"surname": "VENIR",
 	"thumbnailUrl": "nobody.png"
@@ -181,18 +149,18 @@
 	"company": "KoKan",
 	"bio": "La semaine, j’essaye d’être un agilitateur.J'ai la chance d'être un spectateur privilégié de très grandes transformations de ces dernières années.Bon, spectateur, et surtout acteur de ces transformationsMa dernière passion est exercée tous les week-ends lorsque j'aide les plus motivés à sauter à l’élastique du haut d’un pont : une forme de gestion du changement … assez bouleversante car c’est le succès ou …",
 	"thumbnailUrl": "AurelienMorvant.jpg"
-}, {
-	"id": 44,
-	"name": "A",
-	"surname": "VENIR",
-	"thumbnailUrl": "nobody.png"
-}, {
+},  {
 	"id": 46,
 	"name": "Matthew",
 	"surname": "PHILIP",
 	"company": "ThoughtWorks",
 	"bio": "https://mattphilip.wordpress.com/about/#bio",
 	"thumbnailUrl": "MatthewPhilip.jpg"
+}, {
+	"id": 64,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
 	"id": 52,
 	"name": "Régis",
@@ -202,6 +170,16 @@
 	"bio": "Je suis marié, avec 2 enfants (7 & 8 ans). J'adore la randonnée (disons trekking si ça fait mieux), la montagne. J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !Sinon, je suis Coach Agile à tendance Product Owner chez Valtech à Paris.Je suis tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir. En particulier pour la raison que je trouve là un bon prétexte pour [m']amuser au boulot. Mais c'est toujours fait avec beaucoup de sérieux.",
 	"thumbnailUrl": "RegisSchneider.jpg"
 }, {
+	"id": 65,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
+}, {
+	"id": 66,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
+}, {
 	"id": 56,
 	"name": "Raphaël",
 	"surname": "YHARRASSARRY",
@@ -209,11 +187,4 @@
 	"title": "UX Designer",
 	"bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. J’interviens sur les phases de recherches utilisateurs, l’animation d’ateliers de co-conception, la réalisation et l’évaluation des services, ainsi que sur la mise en place de stratégies centrées sur l’Utilisateur.Depuis 2009, je partage mon expérience et mes connaissances sur mon bloc-notes. Ce qui m’a amené par la suite, à enseigner dans divers écoles et notamment à créer une formation en UX Design. Je suis aussi au conseil de l’association Flupa qui cordonne de nombreux événements pour les professionnels de l’UX francophone.",
 	"thumbnailUrl": "RaphaelYharrassarry.jpg"
-}, {
-	"id": 60,
-	"name": "Bastien",
-	"surname": "GALLAY",
-	"company": "Upwiser",
-	"title": "Coach Agile et Lean Startup",
-	"thumbnailUrl": "BastienGallay.png"
 }]
