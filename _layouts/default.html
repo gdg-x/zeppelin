@@ -49,13 +49,7 @@ layout: compress
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
-    <script>
-        if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyB2q3fgWFaEBVbAu16sGAvCsaxwdtDnyw4&sensor=false"><\/script>')
-        } 
-    </script>
-    {% elsif page.permalink == '/logistics/' %}
+    {% if page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyB2q3fgWFaEBVbAu16sGAvCsaxwdtDnyw4&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
