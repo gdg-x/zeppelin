@@ -56,9 +56,9 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "S'y rendre"}
  - {permalink: "/schedule2016/", text: "2016"}
 bottomNavigationLinks:
- - {link: "#tickets", text: "Acheter un billet"}
+ - {permalink: "/#tickets", text: "Acheter un billet"}
 rightNavigationButtons:
- - {link: "#tickets", text: "Acheter un billet"}
+ - {permalink: "/#tickets", text: "Acheter un billet"}
 
 # Hero Block
 heroImage: "hero"
