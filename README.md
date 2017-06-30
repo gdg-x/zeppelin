@@ -1,6 +1,6 @@
 # Site Web Agile Pays Basque
 
-### Live demo https://agilepaysbasquedev.github.io/site-web/
+### Live https://agile-paysbasque.fr
 
 **Fork** (https://github.com/gdg-x/zeppelin/fork) 
 
