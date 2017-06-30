@@ -24,6 +24,6 @@
     var heroCount = {{ site.heroCount }};
     var heroFirst = {{ site.heroFirst }};
     var randomHeroImage = Math.floor((Math.random() * heroCount) + heroFirst);
-    heroSection.style = "background-image: url('{{ site.baseurl }}/assets/img/{{ site.heroImage }}"+ randomHeroImage +".jpg');";
+    heroSection.style.backgroundImage = "url('{{ site.baseurl }}/assets/img/{{ site.heroImage }}"+ randomHeroImage +".jpg')";
 </script>
 <!-- End Hero Section -->
