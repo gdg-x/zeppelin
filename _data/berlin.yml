@@ -1,6 +1,6 @@
 eventDate: "July 15th, 2017, Berlin"
-applicationForm: "https://drive.google.com/open?id=1G_CX_8Ikvcx0krnJsI7foFUmMXtPYB9mjh2cZ4_FGBs"
-mentorsForm: "https://drive.google.com/open?id=170YKchXmkKAY-uGoGhY5cFs6udAki6mXRQAgtk87kBk"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSeaemqc2NfhGQhh6kwabQk8h7Qs5aLccMS9qkmeT0LJ1aLYMg/viewform?usp=sf_link"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLScJa0t0m_NmxG7rq69NziDe8M6KkH6zcunRpjYPsG_TYQGeYA/viewform?usp=sf_link"
 jsunconfSite: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/"
 descriptionTitle: "ngGirls @ Berlin"
 descriptionBlock:
@@ -23,7 +23,10 @@ mentors:
 - id: 1
   name: "Rozita"
   surname: "Pourashraf"
-  bio: "<p>I'd love to be more involved in Angular2 community for my interest's sake and to ease passing the learning curve. The more I participate in such an event, the more I adjust my knowledge of Angular2. Then, I could easily share my knowledge through other Front-End communities which I'm a member of. Such as Front-End meetup in Freiburg, where many young women participate in monthly sharing the ideas and giving talk on brand new web tech.</p>
+  bio: "<p>I'd love to be more involved in Angular community for my interest's sake and to ease passing the learning curve.
+  The more I participate in such an event, the more I adjust my knowledge of Angular.
+  Then, I could easily share my knowledge through other Front-End communities which I'm a member of.
+  Such as Front-End meetup in Freiburg, where many young women participate in monthly sharing the ideas and giving talk on brand new web tech.</p>
 "
   thumbnailUrl: rozita.jpg
   rockstar: true
