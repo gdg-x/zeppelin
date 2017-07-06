@@ -1,4 +1,8 @@
 - 
+  group: "Sponsors GOLD"
+  elements: 
+    - {name: "CAFPI", description: "N°1 des courtiers en crédits immobiliers", link: "http://www.cafpi.fr", imageUrl: "cafpi.png", width: "203px"}
+- 
   group: "Partenaires privilégiés"
   elements: 
     - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
