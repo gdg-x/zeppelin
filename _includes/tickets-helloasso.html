@@ -4,10 +4,15 @@
     <div class="content-wrapper">
         <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
             <h3>{{ site.ticketsTitle }}</h3>
-            <iframe id="haWidget" src="https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2017/widget"></iframe>
+            <iframe id="haWidget"></iframe>
             <div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div>
         </div>
     </div>
+    <script>
+         window.onload = function() {
+            $("#haWidget").attr('src', "https://www.helloasso.com/associations/agile-cote-basque/evenements/agile-pays-basque-2017/widget");
+        };
+    </script>
 </section>
 
 <!-- End Tickets Section -->
