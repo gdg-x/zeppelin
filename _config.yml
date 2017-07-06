@@ -13,7 +13,7 @@ title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
 description: "Agile Pays Basque les 22 et 23 Septembre 2017 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter autour de l’agilité et du lean."
 baseurl: ""
-url: "https://agilepaysbasque.github.io/"
+url: "https://agilepaysbasque.github.io/site-web/"
 permalink: "/blog/:title"
 
 # FIXME Google Analytics
