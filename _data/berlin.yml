@@ -42,8 +42,25 @@ mentors:
   social:
     - {name: "twitter", link: "https://twitter.com/fischaelameer"}
 
-
 - id: 3
+  name: "Yonatan"
+  surname: "Miller"
+  bio: ""
+  thumbnailUrl: yonathan.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/shushugah"}
+
+- id: 4
+  name: "Danielle"
+  surname: "Friedrich"
+  bio: "<p>Because i think these groupes are an important way to support people.</p>"
+  thumbnailUrl: danielle.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mevrgior"}
+
+- id: 5
   name: "Robert"
   surname: "Willemelis"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
@@ -62,7 +79,7 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 
-- id: 4
+- id: 6
   name: "Martin"
   surname: "Sonnenholzer"
   bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
@@ -76,7 +93,7 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/chaos_monster"}
 
 
-- id: 3
+- id: 7
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
