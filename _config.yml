@@ -116,7 +116,7 @@ eventDoorTime: "09:00"
 eventEndTime: "2017-09-22T18:00"
 eventPlaceCoordinates: "43.445995, -1.553750"
 
-event2LocationName: "Athlantal"
+event2LocationName: "Atlanthal"
 event2LocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 event2StreetAddress: "153 bd des Plages"
 event2AddressLocality: "Anglet"
@@ -140,8 +140,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueTitle: "ESTIA"
 venueFeatures: ["Ecole d'ingénieurs", "Technopole Izarbel", "64210 BIDART"]
-# Athlantal
-venue2Title: "Athlantal"
+# Atlanthal
+venue2Title: "Atlanthal"
 venue2Features: ["Hôtels & Thalasso", "153 bd des Plages", "64600 ANGLET"]
 venueSmallImage2: "venue_2.jpg"
 
