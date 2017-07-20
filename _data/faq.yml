@@ -3,7 +3,8 @@
   faq:
   - { question: "What's AngularConnect?",
       answer: 'AngularConnect is the biggest Angular conference in Europe.
-        It takes place in London on November 7th-8th, 2017. <a href="https://www.angularconnect.com/" target="_blank">AngularConnect website</a><br/>
+        It takes place in London on November 7th-8th, 2017.
+        <a href="https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops" target="_blank">AngularConnect website</a><br/>
         AngularConnect hosts workshops during the days before the conference. <b>ngGirls workshop will be on Monday, November 6th.</b>'}
 #  - { question: "What's ng-conf?",
 #      answer: 'ng-conf is the original and biggest Angular conference in the world.

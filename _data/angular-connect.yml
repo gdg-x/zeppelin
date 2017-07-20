@@ -14,7 +14,8 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "AngularConnect", description: "Angular Connect 2017 conference", link: "https://www.angularconnect.com/", imageUrl: "angular-connect.png"}
+     - {name: "AngularConnect", description: "Angular Connect 2017 conference",
+        link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops", imageUrl: "angular-connect.png"}
 
 
 mentors:
