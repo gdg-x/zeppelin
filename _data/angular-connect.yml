@@ -1,10 +1,10 @@
-eventDate: "November 6th, 2017, London Excel"
+eventDate: "November 6th, 2017, London"
 applicationForm: "https://goo.gl/forms/zhpK932g8b5lFqB43"
 mentorsForm: "https://goo.gl/forms/sZ3tif1fC0ea9Ku13"
 descriptionTitle: "ngGirls @ AngularConnect"
 descriptionBlock:
  - {title: "Who is it for?", template: "angular-connect/angular-connect-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Schedule", template: "angular-connect/angular-connect-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+# - {title: "Schedule", template: "angular-connect/angular-connect-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "angular-connect/angular-connect-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}

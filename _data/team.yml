@@ -18,7 +18,8 @@
   id: 1
   name: "Shmuela"
   surname: "Jacobs"
-  title: "Web Developer and Consultant"
+  company: "ngGirls"
+  title: "Web Developer and Consultant, Founder"
   description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
   bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
   thumbnailUrl: Shmuela_AC.png
