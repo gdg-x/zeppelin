@@ -6,6 +6,7 @@
   group: "Partenaires privilégiés"
   elements: 
     - {name: "ESTIA", description: "Ecole d'ingénieurs", link: "http://www.estia.fr", imageUrl: "estia.png", width: "120px"}
+    - {name: "La mêlée Adour", description: "Structure fédératrice des acteurs de l'économie numérique du bassin de l'Adour", link: "http://lameleeadour.com", imageUrl: "melee_adour.png", width: "120px"}
     - {name: "Pays Basque Digital", description: "Cluster des entreprises numériques du Pays Basque", link: "https://www.pays-basque-digital.fr", imageUrl: "pays-basque-digital.png", width: "120px"}
 - 
   group: "Avec la participation de"
