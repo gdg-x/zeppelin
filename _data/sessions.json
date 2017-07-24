@@ -1,122 +1,175 @@
 [{
-	"id": 0,
-	"title": "Coming soon",
-	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
-	"subtype": "presentation",
-	"speakers": [0]
-},
-	{
-	"id": 3,
-	"title": "Accueil",
-	"service": "true"
-}, {
-	"id": 4,
-	"title": "Agile Exprès - comment réussir sa transformation agile en le faisant exprès",
-	"description": "L'agilité ne se fait pas toute seule, il faut l'instaurer avec soin et attention. Un regard sur les différentes façons d'implémenter l'agilité et les pièges à éviter. Intéressant pour les débutants aussi bien que les initiés, les développeurs aussi bien que les directeurs. Pas de connaissance particulière nécessaire, je parlerai de tous ce qu'il est nécessaire pour réussir une bonne et durable implémentation agile.L'idée de cette présentation est de partager un retour d'expérience et une vue étrangère tirés des discussions et questions posées sur les transitions vers l'agilité.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [18, 60]
-}, {
-	"id": 11,
-	"title": "Carte, boussole et territoire : le voyage du Manager agile",
-	"description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
-	"speakers": [19],
-	"place": "Amphi"
-}, {
-	"id": 13,
-	"title": "Clôture",
-	"service": "true"
-}, {
-	"id": 14,
-	"title": "Co-concevoir un atelier de co-conception",
-	"description": "Dans une démarche de Design thinking, la phase de conception se fait avec l’ensemble des participants du projet sous la forme d’ateliers. C’est souvent un moment clef où l’avenir du projet prend forme. Alors comment concevoir un atelier de co-conception pour qu’il fonctionne bien auprès des personnes qui vont participer et atteindre les objectifs fixés ? À partir d’un cas pratique, nous nous mettrons dans les conditions pour créer ensemble un atelier de co-conception. Nous appliquerons les mêmes techniques de facilitation que lors d’un atelier avec les clients afin de créer une belle dynamique dans les groupes. Le but est de découvrir les astuces et les principes qui permettent de faciliter efficacement un atelier de co-conception.",
-	"complexity": "Intermediate",
-	"subtype": "workshop",
-	"speakers": [56]
-}, {
-	"id": 16,
-	"title": "Coaching Dojo",
-	"description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui désirent découvrir, apprendre, développer, … des techniques de coaching qui les aideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching Dojo sur Bordeaux.",
-	"complexity": "Tout public",
-	"subtype": "workshop",
-	"presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
-	"speakers": [2, 23]
-}, {
-	"id": 20,
-	"title": "Construisons ensemble notre Management visuel idéal",
-	"description": "Après une courte définition de l'Obeya, nous passerons en mode atelier pour partager nos pratiques ou idées respectives pour en comprendre le fonctionnement et l'intérêt. Nous bénéficierons également de l'apport de chacun des participants pour répondre aux problématiques de management visuel que nous rencontrons probablement tous.",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"speakers": [52, 32]
-},  {
-	"id": 27,
-	"title": "Entropie du logiciel : dette technique & complexité accidentelle",
-	"description": "Souvent mal comprise et confondue avec l’érosion du logiciel, la dette technique a mauvaise presse. Elle reste pourtant un processus essentiel (si maitrisé correctement) lors des développements.A contrario, l’entropie logicielle est un phénomène naturel conduisant progressivement le logiciel à perdre en maintenabilité et évolutivité. Nous étudierons les causes d’accélération de cette entropie, mais surtout, comment combattre ce processus qui finit par bloquer l’évolution du logiciel (et au passage sa rentabilité) ?Une conférence ouverte à tous (y compris non développeurs), pour s’intéresser à pourquoi et comment le code source d’un logiciel finit par être immaintenable.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [39]
-}, {
-	"id": 28,
-	"title": "Etes vous prêt pour le grand saut ?",
-	"description": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
-	"speakers": [43]
-}, {
-	"id": 38,
-	"title": "L'Agilité ? Oui ! Mais pas seulement pour les geeks",
-	"description": "Vous n’êtes pas informaticien mais l’agilité vous intéresse ! Transformez ce concept en action. Mon atelier a pour objectif de faire rentrer les débutants dans le monde de l’agilité en accompagnant sur les termes barba... euh spécifiques à l’agilité. Nous traiterons de l’animation de réunion, de créativité des équipes… En résumé, faire en sorte d’appliquer le fameux « thinking out of de box ».",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [5]
-}, {
-	"id": 42,
-	"title": "Le StoryMapping : venez apprendre à mapper vos idées",
-	"description": "L'art du maniement d'une cartographie de projet agile. Basé sur le bouquin de Jeff Patton, comment représenter et organiser ses idées",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [8]
-}, {
-	"id": 53,
-	"title": "Pause",
-	"service": "true"
-}, {
-	"id": 54,
-	"title": "Pitch d'ouverture",
-	"service": "true"
-}, {
-	"id": 58,
-	"title": "Repas 1er service",
-	"service": "true"
-}, {
-	"id": 59,
-	"title": "Repas 2e service",
-	"service": "true"
-}, {
-	"id": 62,
-	"title": "Software craftsmanship - Je commence par où?",
-	"description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
-	"speakers": [40]
-}, {
-	"id": 65,
-	"title": "TDD et event sourcing dans la vraie vie",
-	"description": "Peut être vous êtes vous intéressé au Test Driven Development. Peut-être avez vous fait quelques katas, mais voilà, vous avez l’impression qu’un kata reste un exemple trop simple confronté à ce que vous vivez au quotidien.Dans cette session de live coding, je vous propose de découvrir mon quotidien de développeur pratiquant le TDD à 100%. Nous allons développer une fonctionnalité de bout en bout sur une application web, et peut être découvrir qu’il n’y a plus d’écart entre un kata et mon code de tous les jours. ",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"speakers": [28]
-}, {
-	"id": 67,
-	"title": "The NoEstimates Game (En Francais!)",
-	"description": "Wondering what NoEstimates means in practice, or why would you want to use NoEstimates? Perhaps you've heard the buzz, read Vasco Duarte's excellent book or simply want to understand how to plan better and reduce risk. If so, you should expect this workshop for a multi-team game that will help you:*Learn the basics of NoEstimates and why the concept can help*Learn how to create a risky way to plan*Understand how to reduce variation that affects delivery",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"presentation": "https://mattphilip.wordpress.com/noestimates-game/",
-	"speakers": [46]
-}]
+        "id": 0,
+        "title": "Coming soon",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
+        "subtype": "presentation",
+        "speakers": [0]
+    },
+    {
+        "id": 3,
+        "title": "Accueil",
+        "service": "true"
+    }, {
+        "id": 4,
+        "title": "Agile Exprès - comment réussir sa transformation agile en le faisant exprès",
+        "description": "L'agilité ne se fait pas toute seule, il faut l'instaurer avec soin et attention. Un regard sur les différentes façons d'implémenter l'agilité et les pièges à éviter. Intéressant pour les débutants aussi bien que les initiés, les développeurs aussi bien que les directeurs. Pas de connaissance particulière nécessaire, je parlerai de tous ce qu'il est nécessaire pour réussir une bonne et durable implémentation agile.L'idée de cette présentation est de partager un retour d'expérience et une vue étrangère tirés des discussions et questions posées sur les transitions vers l'agilité.",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "speakers": [18, 60]
+    }, {
+        "id": 8,
+        "title": "Le top 10 des pratiques agiles à fort R.O.I.",
+        "description": "Parce que l’agilité ça s’explique, mais surtout ça se vit, dans cet atelier vous expérimenterez concrètement le top 10 des pratiques agiles dont le R.O.I. (Return On Investment*) est le plus fort ! Ainsi, vous enrichirez votre boîte à outils de pépites, et vous repartirez avec le plein d’envies/d’idées pour les appliquer dès lundi !\n librement traduisible en \"Rentabilité Objectivement Importante\"",
+        "complexity": "Intermediate",
+        "subtype": "presentation",
+        "speakers": [13]
+    }, {
+        "id": 11,
+        "title": "Carte, boussole et territoire : le voyage du Manager agile",
+        "description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "presentation": "https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
+        "speakers": [19],
+        "place": "Amphi"
+    }, {
+        "id": 13,
+        "title": "Clôture",
+        "service": "true"
+    }, {
+        "id": 14,
+        "title": "Co-concevoir un atelier de co-conception",
+        "description": "Dans une démarche de Design thinking, la phase de conception se fait avec l’ensemble des participants du projet sous la forme d’ateliers. C’est souvent un moment clef où l’avenir du projet prend forme. Alors comment concevoir un atelier de co-conception pour qu’il fonctionne bien auprès des personnes qui vont participer et atteindre les objectifs fixés ? À partir d’un cas pratique, nous nous mettrons dans les conditions pour créer ensemble un atelier de co-conception. Nous appliquerons les mêmes techniques de facilitation que lors d’un atelier avec les clients afin de créer une belle dynamique dans les groupes. Le but est de découvrir les astuces et les principes qui permettent de faciliter efficacement un atelier de co-conception.",
+        "complexity": "Intermediaire",
+        "subtype": "workshop",
+        "speakers": [56]
+    }, {
+        "id": 16,
+        "title": "Coaching Dojo",
+        "description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui désirent découvrir, apprendre, développer, … des techniques de coaching qui les aideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching Dojo sur Bordeaux.",
+        "complexity": "Tout public",
+        "subtype": "workshop",
+        "presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
+        "speakers": [2, 23]
+    }, {
+        "id": 20,
+        "title": "Construisons ensemble notre Management visuel idéal",
+        "description": "Après une courte définition de l'Obeya, nous passerons en mode atelier pour partager nos pratiques ou idées respectives pour en comprendre le fonctionnement et l'intérêt. Nous bénéficierons également de l'apport de chacun des participants pour répondre aux problématiques de management visuel que nous rencontrons probablement tous.",
+        "complexity": "Débutant",
+        "subtype": "workshop",
+        "speakers": [52, 32]
+    }, {
+        "id": 25,
+        "title": "Développeur après 30 ans, n'as-tu donc aucune ambition ?",
+        "description": "Dans l'univers informatique français, le métier de développeur est très peu valorisé.Il est considéré comme une basse tâche de réalisation réservée aux débutants et voué à disparaître avec l'avènement de la robotisation.Pour évoluer dans sa carrière, il faut ensuite s'orienter vers des \"vrais\" métiers comme le management ou l'expertise.A cette vision purement française des choses s'oppose une autre vision issue du Software Craftsmanship. Le développement est alors considéré comme un métier aux multiples facettes, en éternelle évolution et porteur d'avenir !",
+        "complexity": "Débutant",
+        "subtype": "keynote",
+        "presentation": "https://www.slideshare.net/christopheheral/agile-tour-toulouse-2016-dveloppeur-aprs-30-ans-nastu-donc-aucune-ambition",
+        "speakers": [33]
+    }, {
+        "id": 27,
+        "title": "Entropie du logiciel : dette technique & complexité accidentelle",
+        "description": "Souvent mal comprise et confondue avec l’érosion du logiciel, la dette technique a mauvaise presse. Elle reste pourtant un processus essentiel (si maitrisé correctement) lors des développements.A contrario, l’entropie logicielle est un phénomène naturel conduisant progressivement le logiciel à perdre en maintenabilité et évolutivité. Nous étudierons les causes d’accélération de cette entropie, mais surtout, comment combattre ce processus qui finit par bloquer l’évolution du logiciel (et au passage sa rentabilité) ?Une conférence ouverte à tous (y compris non développeurs), pour s’intéresser à pourquoi et comment le code source d’un logiciel finit par être immaintenable.",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "speakers": [39]
+    }, {
+        "id": 28,
+        "title": "Etes vous prêt pour le grand saut ?",
+        "description": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
+        "speakers": [43]
+    }, {
+        "id": 30,
+        "title": "Il était une fois la vie d'un Product Owner",
+        "description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
+        "speakers": [17]
+    }, {
+        "id": 38,
+        "title": "L'Agilité ? Oui ! Mais pas seulement pour les geeks",
+        "description": "Vous n’êtes pas informaticien mais l’agilité vous intéresse ! Transformez ce concept en action. Mon atelier a pour objectif de faire rentrer les débutants dans le monde de l’agilité en accompagnant sur les termes barba... euh spécifiques à l’agilité. Nous traiterons de l’animation de réunion, de créativité des équipes… En résumé, faire en sorte d’appliquer le fameux « thinking out of de box ».",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "speakers": [5]
+    }, {
+        "id": 42,
+        "title": "Le StoryMapping : venez apprendre à mapper vos idées",
+        "description": "L'art du maniement d'une cartographie de projet agile. Basé sur le bouquin de Jeff Patton, comment représenter et organiser ses idées",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "speakers": [8]
+    }, {
+        "id": 43,
+        "title": "Le work hackisme est un humanisme",
+        "description": "Selon wikipedia, l'existentialisme considère chaque personne comme un être unique maître de ses actes, de son destin et des valeurs qu'il décide d'adopter. Peut-on être existentialiste au travail? Je pense que oui, en pratiquant le \"work hackisme\"! C'est ce que j'essaie de faire depuis quelques années via un certain nombre de pratiques, de postures. Dans cette session, je vous présenterez tous ces petits trucs du quotidien qui me permettent d'arriver au boulot le matin avec le sourire et de pouvoir me regarder dans la glace le soir en rentrant.",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "speakers": [29]
+    }, {
+        "id": 44,
+        "title": "Lean Takeoff : plongez dans un monde incertain",
+        "description": "Découvrez la posture entrepreneuriale du Lean Startup pour mitiger le risque marché avant le risque produit",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "presentation": "http://leantakeoff.com/",
+        "speakers": [3]
+    }, {
+        "id": 49,
+        "title": "Libérée Délivrée ",
+        "description": "Retour d'expérience sur la \"libération\" de notre groupe et sur notre gouvernance collective et modes de travail dans le Sud-Ouest",
+        "complexity": "Débutant",
+        "subtype": "keynote",
+        "speakers": [36]
+    }, {
+        "id": 52,
+        "title": "Où en est le contrat Agile en 2017?",
+        "description": "La manière de contractualiser des développements Agile est un choix crucial qui peut avoir de lourdes conséquences sur la réussite d'un produit. Quel est l'état de l'art des différents type de contrats ? Quel niveau de compatibilité offrent-ils pour les développement d'un produit en méthode Agile ? En quoi un contrat Agile peut-il aider ? Quelles sont les règles de base d'un contrat Agile ? Cette conférence parcourra les bénéfices et inconvénients de chaque contrat en les illustrant à l'aide de cas réels.",
+        "complexity": "Débutant",
+        "subtype": "presentation",
+        "speakers": [20, 31]
+    }, {
+        "id": 53,
+        "title": "Pause",
+        "service": "true"
+    }, {
+        "id": 54,
+        "title": "Pitch d'ouverture",
+        "service": "true"
+    }, {
+        "id": 58,
+        "title": "Repas 1er service",
+        "service": "true"
+    }, {
+        "id": 59,
+        "title": "Repas 2e service",
+        "service": "true"
+    }, {
+        "id": 62,
+        "title": "Software craftsmanship - Je commence par où?",
+        "description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
+        "complexity": "Intermediaire",
+        "subtype": "presentation",
+        "presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
+        "speakers": [40]
+    }, {
+        "id": 65,
+        "title": "TDD et event sourcing dans la vraie vie",
+        "description": "Peut être vous êtes vous intéressé au Test Driven Development. Peut-être avez vous fait quelques katas, mais voilà, vous avez l’impression qu’un kata reste un exemple trop simple confronté à ce que vous vivez au quotidien.Dans cette session de live coding, je vous propose de découvrir mon quotidien de développeur pratiquant le TDD à 100%. Nous allons développer une fonctionnalité de bout en bout sur une application web, et peut être découvrir qu’il n’y a plus d’écart entre un kata et mon code de tous les jours. ",
+        "complexity": "Intermediaire",
+        "subtype": "presentation",
+        "speakers": [28]
+    }, {
+        "id": 67,
+        "title": "The NoEstimates Game (En Francais!)",
+        "description": "Wondering what NoEstimates means in practice, or why would you want to use NoEstimates? Perhaps you've heard the buzz, read Vasco Duarte's excellent book or simply want to understand how to plan better and reduce risk. If so, you should expect this workshop for a multi-team game that will help you:*Learn the basics of NoEstimates and why the concept can help*Learn how to create a risky way to plan*Understand how to reduce variation that affects delivery",
+        "complexity": "Débutant",
+        "subtype": "workshop",
+        "presentation": "https://mattphilip.wordpress.com/noestimates-game/",
+        "speakers": [46]
+    }
+]
