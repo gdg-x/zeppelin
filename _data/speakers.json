@@ -8,7 +8,8 @@
 	"thumbnailUrl": "FabriceAimetti.jpg",
 	"ribbon": [{
 		"abbr": "2016",
-		"title": "2016"
+		"title": "2016",
+		"url": "2016"
 	}]
 }, {
 	"id": 3,
@@ -37,7 +38,8 @@
 	"thumbnailUrl": "AliceBarralon.jpg",
 	"ribbon": [{
 		"abbr": "2016",
-		"title": "2016"
+		"title": "2016",
+		"url": "2016"
 	}]
 }, {
 	"id": 13,
@@ -69,7 +71,8 @@
 	"thumbnailUrl": "ThierryCros.jpg",
 	"ribbon": [{
 		"abbr": "2016",
-		"title": "2016"
+		"title": "2016",
+		"url": "2016"
 	}]
 }, {
 	"id": 20,
@@ -101,7 +104,8 @@
 	"thumbnailUrl": "Jean-baptisteDusseaut.jpg",
 	"ribbon": [{
 		"abbr": "2016",
-		"title": "2016"
+		"title": "2016",
+		"url": "2016"
 	}]
 }, {
 	"id": 29,
@@ -113,7 +117,8 @@
 	"thumbnailUrl": "FredericFaure.jpg",
 	"ribbon": [{
 		"abbr": "2016",
-		"title": "2016"
+		"title": "2016",
+		"url": "2016"
 	}]
 }, {
 	"id": 31,
@@ -161,7 +166,8 @@
 	"thumbnailUrl": "ArnaudLemaire.jpg",
 	"ribbon": [{
 		"abbr": "2016",
-		"title": "2016"
+		"title": "2016",
+		"url": "2016"
 	}]
 }, {
 	"id": 40,
@@ -200,7 +206,8 @@
 	"thumbnailUrl": "RegisSchneider.jpg",
 	"ribbon": [{
 		"abbr": "2016",
-		"title": "2016"
+		"title": "2016",
+		"url": "2016"
 	}]
 }, {
 	"id": 56,
