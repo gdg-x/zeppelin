@@ -1,212 +1,222 @@
 [{
-    "id": 2,
-    "name": "Fabrice",
-    "surname": "AIMETTI",
-    "company": "Ayeba",
-    "title": "Coach Agile",
-    "bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
-    "thumbnailUrl": "FabriceAimetti.jpg"
+	"id": 2,
+	"name": "Fabrice",
+	"surname": "AIMETTI",
+	"company": "Ayeba",
+	"title": "Coach Agile",
+	"bio": "Fabrice est Coach Agile et Coach d'Entreprise. Il est convaincu et croit dans l'accompagnement des personnes, équipes et organisations.",
+	"thumbnailUrl": "FabriceAimetti.jpg",
+	"ribbon": [{
+		"abbr": "2016",
+		"title": "2016"
+	}]
 }, {
-    "id": 3,
-    "name": "Alfred",
-    "surname": "ALMENDRA",
-    "title": "Consultant Management Agile",
-    "bio": "Consultant en management agile de l'innovation",
-    "thumbnailUrl": "AlfredAlmendra.jpg"
+	"id": 3,
+	"name": "Alfred",
+	"surname": "ALMENDRA",
+	"title": "Consultant Management Agile",
+	"bio": "Consultant en management agile de l'innovation",
+	"thumbnailUrl": "AlfredAlmendra.jpg"
 }, {
-    "id": 5,
-    "name": "Sandrine",
-    "surname": "ANTOINE",
-    "bio": "Accélératrice de la qualité de vie au travail, j’accompagne les entreprises aussi bien sur l’amélioration du bien-être des salariés que sur des problématiques liées à l’organisation et le management, bien entendu en mode Agile ! ",
-    "thumbnailUrl": "SandrineAntoine.jpg"
+	"id": 5,
+	"name": "Sandrine",
+	"surname": "ANTOINE",
+	"bio": "Accélératrice de la qualité de vie au travail, j’accompagne les entreprises aussi bien sur l’amélioration du bien-être des salariés que sur des problématiques liées à l’organisation et le management, bien entendu en mode Agile ! ",
+	"thumbnailUrl": "SandrineAntoine.jpg"
 }, {
-    "id": 6,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+	"id": 6,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
-    "id": 8,
-    "name": "Alice",
-    "surname": "BARRALON",
-    "company": "Oriions",
-    "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
-    "thumbnailUrl": "AliceBarralon.jpg"
+	"id": 8,
+	"name": "Alice",
+	"surname": "BARRALON",
+	"company": "Oriions",
+	"bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
+	"thumbnailUrl": "AliceBarralon.jpg",
+	"ribbon": [{
+		"abbr": "2016",
+		"title": "2016"
+	}]
 }, {
-    "id": 13,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+	"id": 13,
+	"name": "Cédric",
+	"surname": "BODIN",
+	"company": "Fenikso",
+	"bio": "Cédric est \"Expert en Renouveau\" chez Fenikso dans les domaines Agilité des Organisations, Management & Facilitation.Depuis 2011, il accompagne ses clients dans leur chemin vers un \"Renouveau humaniste et discipliné\" (vaste programme ;)Parmi ses casquettes : coach, consultant, formateur, conférencier, organisateur de conférence, mélomane, humoriste, marathonien, époux, père…",
+	"thumbnailUrl": "CedricBodin.jpg"
 }, {
-    "id": 17,
-    "name": "Romain",
-    "surname": "COUTURIER",
-    "company": "Terredagile",
-    "title": "Coach Agile",
-    "bio": "Romain Couturier est coach agile et facilitateur graphique. En tant qu’artisan du changement, il accompagne les équipes et les organisations dans leur transition et évolution vers l’agilité. Il travaille à développer la valeur ajoutée des produits avec les responsables métier, unifier les équipes, et soutenir les managers dans le déploiement de contextes d'amélioration continue. Il est passé indépendant avec Terre d’Agile en 2012 après 10 années d’apprentissage dans les mondes de l’édition logicielle, startup et SSII. En 2016, il créé 1CUBE&GO, fournisseur de micro-formations.Intervenant ponctuel dans les universités pour l'enseignement de l'Agilité, il transmet et contribue à la communauté agile en tant que membre du CARA Lyon et de la Fédération Agile.",
-    "thumbnailUrl": "RomainCouturier.jpg"
+	"id": 17,
+	"name": "Romain",
+	"surname": "COUTURIER",
+	"company": "Terredagile",
+	"title": "Coach Agile",
+	"bio": "Romain Couturier est coach agile et facilitateur graphique. En tant qu’artisan du changement, il accompagne les équipes et les organisations dans leur transition et évolution vers l’agilité. Il travaille à développer la valeur ajoutée des produits avec les responsables métier, unifier les équipes, et soutenir les managers dans le déploiement de contextes d'amélioration continue. Il est passé indépendant avec Terre d’Agile en 2012 après 10 années d’apprentissage dans les mondes de l’édition logicielle, startup et SSII. En 2016, il créé 1CUBE&GO, fournisseur de micro-formations.Intervenant ponctuel dans les universités pour l'enseignement de l'Agilité, il transmet et contribue à la communauté agile en tant que membre du CARA Lyon et de la Fédération Agile.",
+	"thumbnailUrl": "RomainCouturier.jpg"
 }, {
-    "id": 18,
-    "name": "Sam",
-    "surname": "CRANFORD",
-    "company": "Upwiser",
-    "title": "Developpeur, Formateur",
-    "bio": "Catalyseur agile, extrême programmeur et formateur avec plus de 20 ans d'experience dans le monde informatique en transition agile",
-    "thumbnailUrl": "SamCranford.jpg"
+	"id": 18,
+	"name": "Sam",
+	"surname": "CRANFORD",
+	"company": "Upwiser",
+	"title": "Developpeur, Formateur",
+	"bio": "Catalyseur agile, extrême programmeur et formateur avec plus de 20 ans d'experience dans le monde informatique en transition agile",
+	"thumbnailUrl": "SamCranford.jpg"
 }, {
-    "id": 19,
-    "name": "Thierry",
-    "surname": "CROS",
-    "company": "Être Agile",
-    "bio": "Création de l'association Extreme Programming France en 200Auteur de \"Spécifiez agile\" en 2013, \"Managez agile\" en 2016",
-    "thumbnailUrl": "ThierryCros.jpg"
+	"id": 19,
+	"name": "Thierry",
+	"surname": "CROS",
+	"company": "Être Agile",
+	"bio": "Création de l'association Extreme Programming France en 200Auteur de \"Spécifiez agile\" en 2013, \"Managez agile\" en 2016",
+	"thumbnailUrl": "ThierryCros.jpg",
+	"ribbon": [{
+		"abbr": "2016",
+		"title": "2016"
+	}]
 }, {
-    "id": 20,
-    "name": "Laurent",
-    "surname": "DELVAUX",
-    "company": "ZENIKA",
-    "bio": "Diplômé de Telecom Nancy, Laurent débute sa carrière en 2001 et devient un expert des technologies Open-Source. Passionné par le partage des connaissances, il se consacre pleinement à la formation de 2004 à 2006. Après avoir couvert la France et l’Europe durant 2 ans pour partager sa passion technique, il co-crée Zenika en 2006 avec la volonté de créer la société d’experts dans laquelle il rêvait de travailler. Après des projets internationaux entre Londres et Paris, il se spécialise dans l’Agilité puis met en place et commercialise une gamme complète de services Agile allant de la formation au coaching en passant par de nouveaux types de contractualisation.",
-    "thumbnailUrl": "LaurentDelvaux.jpg"
+	"id": 20,
+	"name": "Laurent",
+	"surname": "DELVAUX",
+	"company": "ZENIKA",
+	"bio": "Diplômé de Telecom Nancy, Laurent débute sa carrière en 2001 et devient un expert des technologies Open-Source. Passionné par le partage des connaissances, il se consacre pleinement à la formation de 2004 à 2006. Après avoir couvert la France et l’Europe durant 2 ans pour partager sa passion technique, il co-crée Zenika en 2006 avec la volonté de créer la société d’experts dans laquelle il rêvait de travailler. Après des projets internationaux entre Londres et Paris, il se spécialise dans l’Agilité puis met en place et commercialise une gamme complète de services Agile allant de la formation au coaching en passant par de nouveaux types de contractualisation.",
+	"thumbnailUrl": "LaurentDelvaux.jpg"
 }, {
-    "id": 23,
-    "name": "Christophe",
-    "surname": "DENIAUD",
-    "company": "Ausy",
-    "title": "Coach Agile",
-    "bio": "Christophe Deniaud est Coach en Agilité et Coach d’Entreprise chez AUSY. Curieux et passionné d’agilité, il accompagne des équipes dans leurs transitions organisationnelles visant à replacer l’individu et les relations au centre de leur activité.",
-    "thumbnailUrl": "ChristopheDeniaud.jpg"
+	"id": 23,
+	"name": "Christophe",
+	"surname": "DENIAUD",
+	"company": "Ausy",
+	"title": "Coach Agile",
+	"bio": "Christophe Deniaud est Coach en Agilité et Coach d’Entreprise chez AUSY. Curieux et passionné d’agilité, il accompagne des équipes dans leurs transitions organisationnelles visant à replacer l’individu et les relations au centre de leur activité.",
+	"thumbnailUrl": "ChristopheDeniaud.jpg"
 }, {
-    "id": 24,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+	"id": 24,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
-    "id": 28,
-    "name": "Jean-Baptiste",
-    "surname": "DUSSEAUT",
-    "company": "Arpinum",
-    "title": "Developpeur",
-    "bio": "eXtreme programmer, co-fondateur d'Arpinum. ",
-    "thumbnailUrl": "Jean-baptisteDusseaut.jpg"
+	"id": 28,
+	"name": "Jean-Baptiste",
+	"surname": "DUSSEAUT",
+	"company": "Arpinum",
+	"title": "Developpeur",
+	"bio": "eXtreme programmer, co-fondateur d'Arpinum. ",
+	"thumbnailUrl": "Jean-baptisteDusseaut.jpg",
+	"ribbon": [{
+		"abbr": "2016",
+		"title": "2016"
+	}]
 }, {
-    "id": 29,
-    "name": "Frédéric",
-    "surname": "FAURE",
-    "company": "Zenika",
-    "title": "Developpeur",
-    "bio": "Javagiliste\n 18 ans dans le code\n10 ans dans l'agilité\nApproche pragmatique et empirique\nCoaching d'équipes opérationnelles",
-    "thumbnailUrl": "FredericFaure.jpg"
+	"id": 29,
+	"name": "Frédéric",
+	"surname": "FAURE",
+	"company": "Zenika",
+	"title": "Developpeur",
+	"bio": "Javagiliste18 ans dans le code10 ans dans l'agilitéApproche pragmatique et empiriqueCoaching d'équipes opérationnelles",
+	"thumbnailUrl": "FredericFaure.jpg",
+	"ribbon": [{
+		"abbr": "2016",
+		"title": "2016"
+	}]
 }, {
-    "id": 60,
-    "name": "Bastien",
-    "surname": "GALLAY",
-    "company": "Upwiser",
-    "title": "Coach Agile et Lean Startup",
-    "thumbnailUrl": "BastienGallay.png"
+	"id": 31,
+	"name": "Mathilde",
+	"surname": "GAUTIER",
+	"company": "ZENIKA",
+	"title": "Coach Agile",
+	"bio": "Diplômée de l’UTC, Mathilde débute sa carrière chez Worldline où elle s’est orientée vers la gestion de projets à grande échelle et a capitalisé son expertise via la structure PMO et les pratiques PMI (certifié PMP). Elle découvre l’Agilité dans son poste de manager et met en œuvre une transformation dans son département. Fort de cette expérience, elle se spécialise chez Zenika dans la formation et le coaching en agilité (Certifications : Scrum Master, Product Owner, Management 3.0 et Consultant SAFe 4).Facilitatrice, elle utilise les approches ludinnovantes pour transmettre motivation et passion.",
+	"thumbnailUrl": "MathildeGautier.jpg"
 }, {
-    "id": 31,
-    "name": "Mathilde",
-    "surname": "GAUTIER",
-    "company": "ZENIKA",
-    "title": "Coach Agile",
-    "bio": "Diplômée de l’UTC, Mathilde débute sa carrière chez Worldline où elle s’est orientée vers la gestion de projets à grande échelle et a capitalisé son expertise via la structure PMO et les pratiques PMI (certifié PMP). Elle découvre l’Agilité dans son poste de manager et met en œuvre une transformation dans son département. Fort de cette expérience, elle se spécialise chez Zenika dans la formation et le coaching en agilité (Certifications : Scrum Master, Product Owner, Management 3.0 et Consultant SAFe 4).Facilitatrice, elle utilise les approches ludinnovantes pour transmettre motivation et passion.",
-    "thumbnailUrl": "nobody.png"
+	"id": 32,
+	"name": "Margerie",
+	"surname": "GUILLOT",
+	"company": "Valtech",
+	"title": "Scrum Master",
+	"bio": "Ze SM",
+	"thumbnailUrl": "MargerieGuillot.jpg"
 }, {
-    "id": 32,
-    "name": "Margerie",
-    "surname": "GUILLOT",
-    "company": "Valtech",
-    "title": "Scrum Master",
-    "bio": "Ze SM",
-    "thumbnailUrl": "MargerieGuillot.jpg"
+	"id": 33,
+	"name": "Christophe",
+	"surname": "HERAL",
+	"title": "Developpeur",
+	"bio": "Convaincu par l'agilité, Christophe l'applique plus particulièrement à travers la mise en place de méthodes d'ingénierie : Extreme Programming, Software Craftsmanship...Il se définit comme un développeur, artisan logiciel, en est fier et souhaite revaloriser son métier.",
+	"thumbnailUrl": "ChristopheHeral.jpg"
 }, {
-    "id": 33,
-    "name": "Christophe",
-    "surname": "HERAL",
-    "title": "Developpeur",
-    "bio": "Convaincu par l'agilité, Christophe l'applique plus particulièrement à travers la mise en place de méthodes d'ingénierie : Extreme Programming, Software Craftsmanship...Il se définit comme un développeur, artisan logiciel, en est fier et souhaite revaloriser son métier.",
-    "thumbnailUrl": "ChristopheHeral.jpg"
+	"id": 36,
+	"name": "Vanessa",
+	"surname": "HUMPHREYS",
+	"company": "onepoint",
+	"title": "Coach Agile",
+	"bio": "Coach Agile et Leader en innovation managériale depuis des années, j'accompagne les équipes et les entreprises dans leurs transformations agiles et managériales",
+	"thumbnailUrl": "VanessaHumphreys.jpg"
 }, {
-    "id": 36,
-    "name": "Vanessa",
-    "surname": "HUMPHREYS",
-    "company": "onepoint",
-    "title": "Coach Agile",
-    "bio": "Coach Agile et Leader en innovation managériale depuis des années, j'accompagne les équipes et les entreprises dans leurs transformations agiles et managériales",
-    "thumbnailUrl": "VanessaHumphreys.jpg"
+	"id": 38,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
-    "id": 39,
-    "name": "Arnaud",
-    "surname": "LEMAIRE",
-    "company": "Arpinum",
-    "title": "CTO",
-    "bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
-    "thumbnailUrl": "ArnaudLemaire2.jpg"
+	"id": 39,
+	"name": "Arnaud",
+	"surname": "LEMAIRE",
+	"company": "Arpinum",
+	"title": "CTO",
+	"bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
+	"thumbnailUrl": "ArnaudLemaire.jpg",
+	"ribbon": [{
+		"abbr": "2016",
+		"title": "2016"
+	}]
 }, {
-    "id": 38,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+	"id": 40,
+	"name": "Nils",
+	"surname": "LESIEUR",
+	"company": "Nexeo",
+	"title": "CTO",
+	"bio": "Développeur surtout en .Net depuis 10 ansFan de l'agilité depuis 5 ans (j'aurai tellement aimé tomber dedans avant)Joueur, coach de rugby mais aujourd'hui seulement supporterMembre de l'organisation de Lean Kanban France 2016 & 17Speaker à l'Agile Tour Toulouse et Sophia 2016Responsable technique et opérationnel chez Nexeo",
+	"thumbnailUrl": "NilsLesieur.jpg"
 }, {
-    "id": 41,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+	"id": 41,
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
-    "id": 40,
-    "name": "Nils",
-    "surname": "LESIEUR",
-    "company": "Nexeo",
-    "title": "CTO",
-    "bio": "Développeur surtout en .Net depuis 10 ansFan de l'agilité depuis 5 ans (j'aurai tellement aimé tomber dedans avant)Joueur, coach de rugby mais aujourd'hui seulement supporterMembre de l'organisation de Lean Kanban France 2016 & 17Speaker à l'Agile Tour Toulouse et Sophia 2016Responsable technique et opérationnel chez Nexeo",
-    "thumbnailUrl": "NilsLesieur.jpg"
+	"id": 43,
+	"name": "Aurélien",
+	"surname": "MORVANT",
+	"company": "KoKan",
+	"bio": "La semaine, j’essaye d’être un agilitateur.J'ai la chance d'être un spectateur privilégié de très grandes transformations de ces dernières années.Bon, spectateur, et surtout acteur de ces transformationsMa dernière passion est exercée tous les week-ends lorsque j'aide les plus motivés à sauter à l’élastique du haut d’un pont : une forme de gestion du changement … assez bouleversante car c’est le succès ou …",
+	"thumbnailUrl": "AurelienMorvant.jpg"
 }, {
-    "id": 42,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+	"id": 46,
+	"name": "Matthew",
+	"surname": "PHILIP",
+	"company": "ThoughtWorks",
+	"bio": "Matt Philip is the Director of Learning and Development at ThoughtWorks. In his work as a coach, trainer, quality advocate and facilitator, Matt helps organizations and teams become fit for their purpose through continuous learning. He draws on lean and agile values, principles and practices (Kanban Method, XP, Scrum) to offer experience, models and options to customers and teammates. ",
+	"thumbnailUrl": "MatthewPhilip.jpg"
 }, {
-    "id": 43,
-    "name": "Aurélien",
-    "surname": "MORVANT",
-    "company": "KoKan",
-    "bio": "La semaine, j’essaye d’être un agilitateur.J'ai la chance d'être un spectateur privilégié de très grandes transformations de ces dernières années.Bon, spectateur, et surtout acteur de ces transformationsMa dernière passion est exercée tous les week-ends lorsque j'aide les plus motivés à sauter à l’élastique du haut d’un pont : une forme de gestion du changement … assez bouleversante car c’est le succès ou …",
-    "thumbnailUrl": "AurelienMorvant.jpg"
+	"id": 52,
+	"name": "Régis",
+	"surname": "SCHNEIDER",
+	"company": "Valtech",
+	"title": "Coach Agile",
+	"bio": "Je suis marié, avec 2 enfants (7 & 8 ans). J'adore la randonnée (disons trekking si ça fait mieux), la montagne. J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !Sinon, je suis Coach Agile à tendance Product Owner chez Valtech à Paris.Je suis tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir. En particulier pour la raison que je trouve là un bon prétexte pour [m']amuser au boulot. Mais c'est toujours fait avec beaucoup de sérieux.",
+	"thumbnailUrl": "RegisSchneider.jpg",
+	"ribbon": [{
+		"abbr": "2016",
+		"title": "2016"
+	}]
 }, {
-    "id": 46,
-    "name": "Matthew",
-    "surname": "PHILIP",
-    "company": "ThoughtWorks",
-    "bio": "https://mattphilip.wordpress.com/about/#bio",
-    "thumbnailUrl": "MatthewPhilip.jpg"
+	"id": 56,
+	"name": "Raphaël",
+	"surname": "YHARRASSARRY",
+	"company": "iergo",
+	"title": "UX Designer",
+	"bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. J’interviens sur les phases de recherches utilisateurs, l’animation d’ateliers de co-conception, la réalisation et l’évaluation des services, ainsi que sur la mise en place de stratégies centrées sur l’Utilisateur.Depuis 2009, je partage mon expérience et mes connaissances sur mon bloc-notes. Ce qui m’a amené par la suite, à enseigner dans divers écoles et notamment à créer une formation en UX Design. Je suis aussi au conseil de l’association Flupa qui cordonne de nombreux événements pour les professionnels de l’UX francophone.",
+	"thumbnailUrl": "RaphaëlYharrassarry.jpg"
 }, {
-    "id": 64,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
-}, {
-    "id": 52,
-    "name": "Régis",
-    "surname": "SCHNEIDER",
-    "company": "Valtech",
-    "title": "Coach Agile",
-    "bio": "Je suis marié, avec 2 enfants (7 & 8 ans). J'adore la randonnée (disons trekking si ça fait mieux), la montagne. J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !Sinon, je suis Coach Agile à tendance Product Owner chez Valtech à Paris.Je suis tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir. En particulier pour la raison que je trouve là un bon prétexte pour [m']amuser au boulot. Mais c'est toujours fait avec beaucoup de sérieux.",
-    "thumbnailUrl": "RegisSchneider.jpg"
-}, {
-    "id": 65,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
-}, {
-    "id": 66,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
-}, {
-    "id": 56,
-    "name": "Raphaël",
-    "surname": "YHARRASSARRY",
-    "company": "iergo",
-    "title": "UX Designer",
-    "bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. J’interviens sur les phases de recherches utilisateurs, l’animation d’ateliers de co-conception, la réalisation et l’évaluation des services, ainsi que sur la mise en place de stratégies centrées sur l’Utilisateur.Depuis 2009, je partage mon expérience et mes connaissances sur mon bloc-notes. Ce qui m’a amené par la suite, à enseigner dans divers écoles et notamment à créer une formation en UX Design. Je suis aussi au conseil de l’association Flupa qui cordonne de nombreux événements pour les professionnels de l’UX francophone.",
-    "thumbnailUrl": "RaphaelYharrassarry.jpg"
+	"id": 78,
+	"name": "Bastien",
+	"surname": "GALLAY",
+	"company": "Upwiser",
+	"title": "Coach Agile et Lean Startup",
+	"thumbnailUrl": "BastienGallay.jpg"
 }]
