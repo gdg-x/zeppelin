@@ -41,11 +41,9 @@
 	}]
 }, {
 	"id": 13,
-	"name": "Cédric",
-	"surname": "BODIN",
-	"company": "Fenikso",
-	"bio": "Cédric est \"Expert en Renouveau\" chez Fenikso dans les domaines Agilité des Organisations, Management & Facilitation.Depuis 2011, il accompagne ses clients dans leur chemin vers un \"Renouveau humaniste et discipliné\" (vaste programme ;)Parmi ses casquettes : coach, consultant, formateur, conférencier, organisateur de conférence, mélomane, humoriste, marathonien, époux, père…",
-	"thumbnailUrl": "CedricBodin.jpg"
+	"name": "A",
+	"surname": "VENIR",
+	"thumbnailUrl": "nobody.png"
 }, {
 	"id": 17,
 	"name": "Romain",
@@ -211,7 +209,7 @@
 	"company": "iergo",
 	"title": "UX Designer",
 	"bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. J’interviens sur les phases de recherches utilisateurs, l’animation d’ateliers de co-conception, la réalisation et l’évaluation des services, ainsi que sur la mise en place de stratégies centrées sur l’Utilisateur.Depuis 2009, je partage mon expérience et mes connaissances sur mon bloc-notes. Ce qui m’a amené par la suite, à enseigner dans divers écoles et notamment à créer une formation en UX Design. Je suis aussi au conseil de l’association Flupa qui cordonne de nombreux événements pour les professionnels de l’UX francophone.",
-	"thumbnailUrl": "RaphaëlYharrassarry.jpg"
+	"thumbnailUrl": "RaphaelYharrassarry.jpg"
 }, {
 	"id": 78,
 	"name": "Bastien",
