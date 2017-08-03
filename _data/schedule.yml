@@ -80,11 +80,11 @@
   timeslots:
     - {
         startTime: "9:00",
-        sessionIds: [3]
+        sessionIds: [140]
     }
     - {
         startTime: "10:00",
-        sessionIds: [140]
+        sessionIds: [141]
     }
     - {
         startTime: "12:00",
@@ -92,13 +92,9 @@
     }
     - {
         startTime: "14:00",
-        sessionIds: [141]
-    }
-    - {
-        startTime: "16:00",
         sessionIds: [142]
     }
     - {
-        startTime: "17:00",
+        startTime: "16:00",
         sessionIds: [143]
     }
