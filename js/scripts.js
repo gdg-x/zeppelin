@@ -122,7 +122,9 @@
                 $('.appear-animation-trigger').parent('div').find('.appear-animation').addClass('visible');
             }, 1000);
         });
-
+        $('#tickets').appear(function() {
+            ga('send', 'event', 'Tickets', 'appear');
+        }
         $('.animated').appear(function() {
             var element = $(this);
             var animation = element.data('animation');
