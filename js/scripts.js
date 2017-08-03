@@ -122,7 +122,9 @@
                 $('.appear-animation-trigger').parent('div').find('.appear-animation').addClass('visible');
             }, 1000);
         });
-
+        $('#tickets').appear(function() {
+            ga('send', 'event', 'Tickets', 'appear');
+        }
         $('.animated').appear(function() {
             var element = $(this);
             var animation = element.data('animation');
@@ -226,7 +228,9 @@
             iframe.attr('src', iframe.attr('src'));
         });
         $('.slot').click(function() {
-            location.hash = $(this).attr('id');
+            var sessionAttrId = $(this).attr('id');
+            ga('send', 'event', 'Schedule', 'showModal', 'sessionId', sessionAttrId);
+            location.hash = sessionAttrId;
         });
 
 

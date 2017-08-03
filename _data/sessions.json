@@ -164,9 +164,41 @@
 	"presentation": "https://mattphilip.wordpress.com/noestimates-game/",
 	"speakers": [46]
 }, {
+	"id": 140,
+	"title": "Forum Ouvert : Ordre du Jour",
+	"description": "Tous les participants se retrouvent en session plénière pour co-définir l'ordre du jour. Chaque partipant amène ses idées, questions, besoins à traiter. Tout le monde doit s'y retrouver dans les sujets à aborder pour un engagement maximal",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"place": "Athlantal"
+}, {
+	"id": 141,
+	"title": "Forum Ouvert : Sessions",
+	"description": "Lors des sessions de travail les participants vont débattre des sujets.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"place": "Athlantal"
+}, {
+	"id": 142,
+	"title": "Forum Ouvert : Sessions (suite)",
+	"description": "Lors des sessions de travail les participants vont débattre des sujets.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"place": "Athlantal"
+}, {
+	"id": 143,
+	"title": "Forum Ouvert : Bilan",
+	"description": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"place": "Athlantal"
+}, {
 	"id": 0,
 	"title": "Coming Soon",
 	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
 	"subtype": "presentation",
 	"speakers": [0]
+}, {
+	"id": 144,
+	"title": "Repas à Athlantal",
+	"service": "true"
 }]
