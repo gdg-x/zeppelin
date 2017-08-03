@@ -178,6 +178,13 @@
 	"subtype": "workshop",
 	"place": "Athlantal"
 }, {
+	"id": 142,
+	"title": "Forum Ouvert : Sessions (suite)",
+	"description": "Lors des sessions de travail les participants vont débattre des sujets.",
+	"complexity": "Tous",
+	"subtype": "workshop",
+	"place": "Athlantal"
+}, {
 	"id": 143,
 	"title": "Forum Ouvert : Clôture",
 	"description": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
