@@ -72,3 +72,33 @@
         endTime: "19:00",
         sessionIds: [13]
     }
+- 
+  date: "2017-09-23"
+  dateReadable: "23 Septembre"
+  tracks: 
+    - {title: "Athlantal", color: "#00C853"}
+  timeslots:
+    - {
+        startTime: "9:00",
+        sessionIds: [3]
+    }
+    - {
+        startTime: "10:00",
+        sessionIds: [0]
+    }
+    - {
+        startTime: "12:00",
+        sessionIds: [0]
+    }
+    - {
+        startTime: "14:00",
+        sessionIds: [0]
+    }
+    - {
+        startTime: "16:00",
+        sessionIds: [0]
+    }
+    - {
+        startTime: "17:00",
+        sessionIds: [13]
+    }
