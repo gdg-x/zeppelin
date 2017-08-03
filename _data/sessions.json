@@ -190,4 +190,8 @@
 	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel aliquet dolor. Nullam id maximus nulla. Pellentesque posuere diam sodales porta lacinia. Etiam auctor ornare ipsum, ut scelerisque ex finibus at. Donec eleifend sed elit non tincidunt. Fusce neque augue, placerat id scelerisque sit amet, efficitur et augue. Quisque ultricies leo nisi, sit amet condimentum sapien hendrerit ac. Suspendisse at mattis augue, at accumsan lacus. Maecenas auctor leo sit amet eros commodo ullamcorper. Aliquam efficitur augue sit amet sapien venenatis ultrices.",
 	"subtype": "presentation",
 	"speakers": [0]
+}, {
+	"id": 144,
+	"title": "Repas à Athlantal",
+	"service": "true"
 }]
