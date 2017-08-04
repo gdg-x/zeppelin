@@ -6,21 +6,31 @@
         It takes place in London on November 7th-8th, 2017.
         <a href="https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops" target="_blank">AngularConnect website</a><br/>
         AngularConnect hosts workshops during the days before the conference. <b>ngGirls workshop will be on Monday, November 6th.</b>'}
+  - { question: "What's Frontend-Con?",
+      answer: 'Frontend-Con is a frontend conference.
+        It takes place in Warsaw, Poland on September 22nd-23rd, 2017.
+        <a href="http://frontend-con.io/" target="_blank">Frontend-Con website</a><br/>
+        <b>ngGirls @ Frontend-Con workshop will be right after the conference, on Sunday, September 24th.</b>'}
 #  - { question: "What's ng-conf?",
 #      answer: 'ng-conf is the original and biggest Angular conference in the world.
 #      It takes place in Salt Lake City on April 5th-7th, 2017. <a href="https://www.ng-conf.org/" target="_blank">ng-conf website</a>'}
 #  - { question: "The following information regards the event held on November 13th, 2016",
 #        answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
   - { question: "How can I apply?",
-      answer: 'Just fill out the application form for <a target="_blank" href="https://goo.gl/forms/zhpK932g8b5lFqB43">ngGirls @ AngularConnect</a>.<br/>
-              Do you already have experience in front-end development?
-              <a target="_blank" href="https://goo.gl/forms/sZ3tif1fC0ea9Ku13">Apply as a mentor</a>!'}
+      answer: 'Just fill out the application form for
+      <a target="_blank" href="https://goo.gl/forms/zhpK932g8b5lFqB43">ngGirls @ AngularConnect</a> or
+      <a target="_blank" href="https://goo.gl/forms/d7K0cxQCPp1EQrm93">ngGirls @ Frontend-Con</a>.<br/>
+              Do you already have experience in front-end development? Apply as a mentor to
+              <a target="_blank" href="https://goo.gl/forms/sZ3tif1fC0ea9Ku13">ngGirls @ AngularConnect</a> or
+              <a target="_blank" href="https://goo.gl/forms/jT8QRtMYX6gLs0Fg2">ngGirls @ Frontend-Con</a>!'}
 #      answer: '<b>You are welcome to join the <a href="http://www.meetup.com/ngGirls/" target="_blank">ngGirls meetup group</a> to get informed about future events.</b>'}
   - { question: "Where is ngGirls going to take place?",
       answer: '
-      ngGirls @ AngularConnect will take place at ExCeL London.'}
+      ngGirls @ AngularConnect will take place at ExCeL London. <br/>
+      ngGirls @ Frontend-Con will take place at Golden Floor Tower, Warsaw, Poland.'}
   - { question: "What is the schedule of the workshop day?",
-      answer: "The workshop will be held during the day. <br />
+      answer: "The workshop will be held during the day.<br />
+       The schedule below is tentative, you'll get the updated schedule by mail.<br />
                 <ul>
                   <li><b>9:30</b> - check in</li>
                   <li><b>9:45</b> - opening lecture: introduction to ngGirls and Angular</li>
