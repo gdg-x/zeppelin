@@ -1,3 +1,4 @@
 -
   elements:
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "PET", description: "PET Computação - UFSC", link: "http://lviv.gdg.org.ua", imageUrl: "logo_petcomp_01.svg"}
+    - {name: "CALICO", description: "Centro Acadêmico Livre da Computação", link: "http://lviv.gdg.org.ua", imageUrl: "logo_calico.svg"}
