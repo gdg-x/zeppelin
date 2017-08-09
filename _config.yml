@@ -61,11 +61,30 @@ heroButtons:
 
 # About Block
 aboutTitle: "Sobre a SECCOM"
+aboutDescription: "A SECCOM é um evento que ocorre anualmente na Universidade
+    Federal de Santa Catarina (UFSC) no campus trindade da cidade de Florianópolis.
+    A vigésima edição do evento acontecerá na primeira semana de outubro, do dia 2
+    a 6, do ano de 2017. O objetivo fundamental da semana é complementar a formação
+    acadêmica e profissional dos alunos cursando graduação em alguma área da
+    computação e de outros interessados, buscando a exposição de tópicos recentes
+    aos participantes do evento, mostrando as possibilidades de trabalho e pesquisa
+    que existem após a graduação."
 aboutBlock:
- - {title: "Palestras", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Minicursos", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Feira Empresarial", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- - {title: "Laboratórios", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Palestras",
+    image: "conference.jpg",
+    text: "" }
+ - {title: "Minicursos",
+    image: "workshop.jpg",
+    text: "Full-day of workshops, hands-on experience, hacking and debugging.
+           Come and tame your favourite technology!" }
+ - {title: "Feira Empresarial",
+    image: "hackathon.jpg",
+    text: "Full-day freestyle hackathon! Want some real team building on
+           friday? Grab your team and join our hackathon!" }
+ - {title: "Laboratórios",
+    image: "hackathon.jpg",
+    text: "Full-day freestyle hackathon! Want some real team building on
+           friday? Grab your team and join our hackathon!" }
 
 
 # Statistic Block
@@ -108,13 +127,17 @@ venueSmallImage1: "venue_2.jpg"
 venueSmallImage2: "venue_1.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Reitoria 1"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: [
+                "Ambiente climatizado",
+                "203 assentos disponíveis",
+                "Sonorização",
+               ]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "seccom2017"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizadores"

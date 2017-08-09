@@ -8,6 +8,7 @@
             width: 16%;
             max-width: 180px;
             margin: 13px 7px;
+
             @media (max-width: 767px) {
                 width: 40%;
                 max-width: 160px;
@@ -16,5 +17,12 @@
     }
     img {
         width: 100%;
+    }
+
+    .diamond {
+        li {
+            width: 24%;
+            max-width: 270px;
+        }
     }
 }

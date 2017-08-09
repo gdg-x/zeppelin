@@ -32,8 +32,12 @@
   thumbnailUrl: MateuszHerych.jpg
   rockstar: false
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDE",
+       title: "Google Developer Expert",
+       url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG",
+       title: "Google Developer Group",
+       url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
@@ -47,7 +51,9 @@
   thumbnailUrl: RomanMazur.jpg
   rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG",
+       title: "Google Developer Group",
+       url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
@@ -61,7 +67,9 @@
   thumbnailUrl: ValentynShybanov.jpg
   rockstar: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG",
+       title: "Google Developer Group",
+       url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
