@@ -1,368 +1,375 @@
 [{
-	"id": 3,
-	"title": "Accueil",
-	"service": "true"
+    "id": 3,
+    "title": "Accueil",
+    "service": "true"
 }, {
-	"id": 4,
-	"title": "Agile Exprès - comment réussir sa transformation agile en le faisant exprès",
-	"description": "L'agilité ne se fait pas toute seule, il faut l'instaurer avec soin et attention. Un regard sur les différentes façons d'implémenter l'agilité et les pièges à éviter. Intéressant pour les débutants aussi bien que les initiés, les développeurs aussi bien que les directeurs. Pas de connaissance particulière nécessaire, je parlerai de tous ce qu'il est nécessaire pour réussir une bonne et durable implémentation agile.L'idée de cette présentation est de partager un retour d'expérience et une vue étrangère tirés des discussions et questions posées sur les transitions vers l'agilité.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [18]
+    "id": 4,
+    "title": "Agile Exprès - comment réussir sa transformation agile en le faisant exprès",
+    "description": "L'agilité ne se fait pas toute seule, il faut l'instaurer avec soin et attention. Un regard sur les différentes façons d'implémenter l'agilité et les pièges à éviter. Intéressant pour les débutants aussi bien que les initiés, les développeurs aussi bien que les directeurs. Pas de connaissance particulière nécessaire, je parlerai de tous ce qu'il est nécessaire pour réussir une bonne et durable implémentation agile.L'idée de cette présentation est de partager un retour d'expérience et une vue étrangère tirés des discussions et questions posées sur les transitions vers l'agilité.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [18]
 }, {
-	"id": 8,
-	"title": "Au secours, ma bibliothèque iTu*** me parle d’agilité :)",
-	"description": "Je souffre depuis peu d’un étrange syndrome : celui du \"mélomanagiliste\".Est-ce grave docteur ? Non, ça signifie juste qu’en réécoutant la musique de ma bibliothèque iTu*** je découvre que c’est dingue : Daft Punk, Stupeflip, The Strokes, John Williams, etc... ils parlent tous d’agilité !Alors pour vous prouvez que mon esprit n’est pas si malade, toutes les 3 minutes nous écouterons un extrait d’un artiste différent, puis je vous montrerai en quoi il parle manifestement d’agilité.Et si par malheur vous n’appreniez rien, vous aurez au moins passé un moment « Simple & Funky » comme l’agilité :)",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"presentation": "http://cedricbodin.net/tag/melomanagiliste",
-	"speakers": [13]
+    "id": 8,
+    "title": "Au secours, ma bibliothèque iTu*** me parle d’agilité :)",
+    "description": "Je souffre depuis peu d’un étrange syndrome : celui du \"mélomanagiliste\".Est-ce grave docteur ? Non, ça signifie juste qu’en réécoutant la musique de ma bibliothèque iTu*** je découvre que c’est dingue : Daft Punk, Stupeflip, The Strokes, John Williams, etc... ils parlent tous d’agilité !Alors pour vous prouvez que mon esprit n’est pas si malade, toutes les 3 minutes nous écouterons un extrait d’un artiste différent, puis je vous montrerai en quoi il parle manifestement d’agilité.Et si par malheur vous n’appreniez rien, vous aurez au moins passé un moment « Simple & Funky » comme l’agilité :)",
+    "complexity": "Intermediate",
+    "subtype": "presentation",
+    "presentation": "http://cedricbodin.net/tag/melomanagiliste",
+    "speakers": [13]
 }, {
-	"id": 11,
-	"title": "Carte, boussole et territoire : le voyage du Manager agile",
-	"description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
-	"speakers": [19],
-	"place": "Amphi"
+    "id": 11,
+    "title": "Carte, boussole et territoire : le voyage du Manager agile",
+    "description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
+    "speakers": [19],
+    "place": "Amphi"
 }, {
-	"id": 13,
-	"title": "Clôture",
-	"service": "true"
+    "id": 13,
+    "title": "Clôture",
+    "service": "true"
 }, {
-	"id": 14,
-	"title": "Co-concevoir un atelier de co-conception",
-	"description": "Dans une démarche de Design thinking, la phase de conception se fait avec l’ensemble des participants du projet sous la forme d’ateliers. C’est souvent un moment clef où l’avenir du projet prend forme. Alors comment concevoir un atelier de co-conception pour qu’il fonctionne bien auprès des personnes qui vont participer et atteindre les objectifs fixés ? À partir d’un cas pratique, nous nous mettrons dans les conditions pour créer ensemble un atelier de co-conception. Nous appliquerons les mêmes techniques de facilitation que lors d’un atelier avec les clients afin de créer une belle dynamique dans les groupes. Le but est de découvrir les astuces et les principes qui permettent de faciliter efficacement un atelier de co-conception.",
-	"complexity": "Intermediate",
-	"subtype": "workshop",
-	"speakers": [56]
+    "id": 14,
+    "title": "Co-concevoir un atelier de co-conception",
+    "description": "Dans une démarche de Design thinking, la phase de conception se fait avec l’ensemble des participants du projet sous la forme d’ateliers. C’est souvent un moment clef où l’avenir du projet prend forme. Alors comment concevoir un atelier de co-conception pour qu’il fonctionne bien auprès des personnes qui vont participer et atteindre les objectifs fixés ? À partir d’un cas pratique, nous nous mettrons dans les conditions pour créer ensemble un atelier de co-conception. Nous appliquerons les mêmes techniques de facilitation que lors d’un atelier avec les clients afin de créer une belle dynamique dans les groupes. Le but est de découvrir les astuces et les principes qui permettent de faciliter efficacement un atelier de co-conception.",
+    "complexity": "Intermediate",
+    "subtype": "workshop",
+    "speakers": [56]
 }, {
-	"id": 16,
-	"title": "Coaching Dojo",
-	"description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui désirent découvrir, apprendre, développer, … des techniques de coaching qui les aideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching Dojo sur Bordeaux.",
-	"complexity": "Tout public",
-	"subtype": "workshop",
-	"presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
-	"speakers": [2, 23]
+    "id": 16,
+    "title": "Coaching Dojo",
+    "description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui désirent découvrir, apprendre, développer, … des techniques de coaching qui les aideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching Dojo sur Bordeaux.",
+    "complexity": "Tout public",
+    "subtype": "workshop",
+    "presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
+    "speakers": [2, 23]
 }, {
-	"id": 17,
-	"title": "Code Utilisable",
-	"description": "Avez-vous pensé à l'utilisateur de votre code? Non pas celui qui utilise votre application mais le développeur ou la développeuse qui doit changer le code après vous? Cette personne a-t-elle un outil de travail (code) facile à utiliser entre les mains?Que pouvons-nous apprendre d'autres domaines que l'informatique, où l'on a découvert il y a des dizaines d'années le design centré utilisateur ? Prenons de bons designerspar exemple, ils rappellent sans cesse > You're not your user!et> It's not the users fault, it's the designs fault. Pourquoi? Quelle signification pour nous? Quelles sont les implications pour l’équipe et pour le code? Attendez-vous à de nombreuses exemples de code illustrant les concepts de Design et d'Ergonomie. Vousrentrerez avec des techniques tout aussi simples qu'essentiels.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://www.slideshare.net/martinsson/usable-software-design-code-utilisable-22",
-	"speakers": [41]
+    "id": 17,
+    "title": "Code Utilisable",
+    "description": "Avez-vous pensé à l'utilisateur de votre code? Non pas celui qui utilise votre application mais le développeur ou la développeuse qui doit changer le code après vous? Cette personne a-t-elle un outil de travail (code) facile à utiliser entre les mains?Que pouvons-nous apprendre d'autres domaines que l'informatique, où l'on a découvert il y a des dizaines d'années le design centré utilisateur ? Prenons de bons designerspar exemple, ils rappellent sans cesse > You're not your user!et> It's not the users fault, it's the designs fault. Pourquoi? Quelle signification pour nous? Quelles sont les implications pour l’équipe et pour le code? Attendez-vous à de nombreuses exemples de code illustrant les concepts de Design et d'Ergonomie. Vousrentrerez avec des techniques tout aussi simples qu'essentiels.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "https://www.slideshare.net/martinsson/usable-software-design-code-utilisable-22",
+    "speakers": [41]
 }, {
-	"id": 20,
-	"title": "Construisons ensemble notre Management visuel idéal",
-	"description": "Après une courte définition de l'Obeya, nous passerons en mode atelier pour partager nos pratiques ou idées respectives pour en comprendre le fonctionnement et l'intérêt. Nous bénéficierons également de l'apport de chacun des participants pour répondre aux problématiques de management visuel que nous rencontrons probablement tous.",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"speakers": [52, 32]
+    "id": 20,
+    "title": "Construisons ensemble notre Management visuel idéal",
+    "description": "Après une courte définition de l'Obeya, nous passerons en mode atelier pour partager nos pratiques ou idées respectives pour en comprendre le fonctionnement et l'intérêt. Nous bénéficierons également de l'apport de chacun des participants pour répondre aux problématiques de management visuel que nous rencontrons probablement tous.",
+    "complexity": "Beginner",
+    "subtype": "workshop",
+    "speakers": [52, 32]
 }, {
-	"id": 22,
-	"title": "Décollage imminent direction Scrum City",
-	"description": "J'adore voyager. Tout le monde aime ça non ? S’évader, découvrir d’autres cultures et traditions. Durant cette conférence je vous propose de voyager avec moi au pays de l'agilité et dans la ville de Scrum City. Nous rencontrerons les habitants de ce pays et leurs coutumes. Dépaysement garanti durant cette présentation entièrement dessinée par mes soins dans un style sketchnote.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://sites.google.com/view/fannydemey",
-	"speakers": [22]
+    "id": 22,
+    "title": "Décollage imminent direction Scrum City",
+    "description": "J'adore voyager. Tout le monde aime ça non ? S’évader, découvrir d’autres cultures et traditions. Durant cette conférence je vous propose de voyager avec moi au pays de l'agilité et dans la ville de Scrum City. Nous rencontrerons les habitants de ce pays et leurs coutumes. Dépaysement garanti durant cette présentation entièrement dessinée par mes soins dans un style sketchnote.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "https://sites.google.com/view/fannydemey",
+    "speakers": [22]
 }, {
-	"id": 23,
-	"title": "Découper mon besoin client pour une livraison en continue",
-	"description": "Description:Livrer en continu est techniquement possible et simple, encore faut-il que le besoin métier soit découpé et bien spécifié.Autour du kata \"elephant carpaccio\", les participants découvriront ou approfondiront des techniques de slicing (découpage du besoin client) et les spécifications par l'exemple.L'atelier peut se dérouler en deux parties:- découverte du sujet \"elephant carpaccio\" et découpage du besoin métier pour une livraison en continu- Spécification par l'exemple des \"tranche\" de besoin métierBénéfices :Découverte du slicing (ou découpage du besoin métier)Découverte des spécifications par l'exempleMatériel : Des post-it, des feutres (je peux les apporter), des idées et de la bonne humeur ;-)",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"presentation": "https://www.slideshare.net/niiils/elephant-carpaccio-agile-tour-toulouse-2016",
-	"speakers": [40]
+    "id": 23,
+    "title": "Découper mon besoin client pour une livraison en continue",
+    "description": "Description:Livrer en continu est techniquement possible et simple, encore faut-il que le besoin métier soit découpé et bien spécifié.Autour du kata \"elephant carpaccio\", les participants découvriront ou approfondiront des techniques de slicing (découpage du besoin client) et les spécifications par l'exemple.L'atelier peut se dérouler en deux parties:- découverte du sujet \"elephant carpaccio\" et découpage du besoin métier pour une livraison en continu- Spécification par l'exemple des \"tranche\" de besoin métierBénéfices :Découverte du slicing (ou découpage du besoin métier)Découverte des spécifications par l'exempleMatériel : Des post-it, des feutres (je peux les apporter), des idées et de la bonne humeur ;-)",
+    "complexity": "Beginner",
+    "subtype": "workshop",
+    "presentation": "https://www.slideshare.net/niiils/elephant-carpaccio-agile-tour-toulouse-2016",
+    "speakers": [40]
 }, {
-	"id": 25,
-	"title": "Développeur après 30 ans, n'as-tu donc aucune ambition ?",
-	"description": "Dans l'univers informatique français, le métier de développeur est très peu valorisé.Il est considéré comme une basse tâche de réalisation réservée aux débutants et voué à disparaître avec l'avènement de la robotisation.Pour évoluer dans sa carrière, il faut ensuite s'orienter vers des \"vrais\" métiers comme le management ou l'expertise.A cette vision purement française des choses s'oppose une autre vision issue du Software Craftsmanship. Le développement est alors considéré comme un métier aux multiples facettes, en éternelle évolution et porteur d'avenir !",
-	"complexity": "Beginner",
-	"subtype": "keynote",
-	"presentation": "https://www.slideshare.net/christopheheral/agile-tour-toulouse-2016-dveloppeur-aprs-30-ans-nastu-donc-aucune-ambition",
-	"speakers": [33]
+    "id": 25,
+    "title": "Développeur après 30 ans, n'as-tu donc aucune ambition ?",
+    "description": "Dans l'univers informatique français, le métier de développeur est très peu valorisé.Il est considéré comme une basse tâche de réalisation réservée aux débutants et voué à disparaître avec l'avènement de la robotisation.Pour évoluer dans sa carrière, il faut ensuite s'orienter vers des \"vrais\" métiers comme le management ou l'expertise.A cette vision purement française des choses s'oppose une autre vision issue du Software Craftsmanship. Le développement est alors considéré comme un métier aux multiples facettes, en éternelle évolution et porteur d'avenir !",
+    "complexity": "Beginner",
+    "subtype": "keynote",
+    "presentation": "https://www.slideshare.net/christopheheral/agile-tour-toulouse-2016-dveloppeur-aprs-30-ans-nastu-donc-aucune-ambition",
+    "speakers": [33]
 }, {
-	"id": 26,
-	"title": "Enseigner le bons sens",
-	"description": "L’enseignement supérieur est surtout une transmission de connaissances de l’enseignant-chercheur vers les étudiants. Cela a fait ses preuves mais les étudiants n’ont-ils pas aujourd’hui besoin d’autre chose ? Face à des situations professionnelles changeantes et complexes où les compétences et les métiers évoluent plus vite que les disciplines et formations universitaires d’autres formes d’enseignement permettent de développer une arme redoutable et trop méconnue: le bon sens !",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "http://www.club-agile-caen.fr/printemps-agile/printemps-agile-2017/",
-	"speakers": [38]
+    "id": 26,
+    "title": "Enseigner le bons sens",
+    "description": "L’enseignement supérieur est surtout une transmission de connaissances de l’enseignant-chercheur vers les étudiants. Cela a fait ses preuves mais les étudiants n’ont-ils pas aujourd’hui besoin d’autre chose ? Face à des situations professionnelles changeantes et complexes où les compétences et les métiers évoluent plus vite que les disciplines et formations universitaires d’autres formes d’enseignement permettent de développer une arme redoutable et trop méconnue: le bon sens !",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "http://www.club-agile-caen.fr/printemps-agile/printemps-agile-2017/",
+    "speakers": [38]
 }, {
-	"id": 27,
-	"title": "Entropie du logiciel : dette technique & complexité accidentelle",
-	"description": "Souvent mal comprise et confondue avec l’érosion du logiciel, la dette technique a mauvaise presse. Elle reste pourtant un processus essentiel (si maitrisé correctement) lors des développements.A contrario, l’entropie logicielle est un phénomène naturel conduisant progressivement le logiciel à perdre en maintenabilité et évolutivité. Nous étudierons les causes d’accélération de cette entropie, mais surtout, comment combattre ce processus qui finit par bloquer l’évolution du logiciel (et au passage sa rentabilité) ?Une conférence ouverte à tous (y compris non développeurs), pour s’intéresser à pourquoi et comment le code source d’un logiciel finit par être immaintenable.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [39]
+    "id": 27,
+    "title": "Entropie du logiciel : dette technique & complexité accidentelle",
+    "description": "Souvent mal comprise et confondue avec l’érosion du logiciel, la dette technique a mauvaise presse. Elle reste pourtant un processus essentiel (si maitrisé correctement) lors des développements.A contrario, l’entropie logicielle est un phénomène naturel conduisant progressivement le logiciel à perdre en maintenabilité et évolutivité. Nous étudierons les causes d’accélération de cette entropie, mais surtout, comment combattre ce processus qui finit par bloquer l’évolution du logiciel (et au passage sa rentabilité) ?Une conférence ouverte à tous (y compris non développeurs), pour s’intéresser à pourquoi et comment le code source d’un logiciel finit par être immaintenable.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [39]
 }, {
-	"id": 28,
-	"title": "Etes vous prêt pour le grand saut ?",
-	"description": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
-	"speakers": [43]
+    "id": 28,
+    "title": "Etes vous prêt pour le grand saut ?",
+    "description": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
+    "speakers": [43]
 }, {
-	"id": 29,
-	"title": "Gamification: Jouer pour apprendre",
-	"description": "Les bénéfices du jeu pour les enfants n'est plus à démontrer: développant l'imagination et permettant la confrontation au monde réel, il encourage leur développement. Souvent à l'âge adulte celui ci est plus mal perçu, vu comme une perte de temps. Et si les bienfaits du jeux pouvaient nous servir à tout âge comme un outil d'apprentissage?",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://mixitconf.org/2017/gamification-jouer-pour-apprendre, la vidéo sera disponible prochainement",
-	"speakers": [16]
+    "id": 29,
+    "title": "Gamification: Jouer pour apprendre",
+    "description": "Les bénéfices du jeu pour les enfants n'est plus à démontrer: développant l'imagination et permettant la confrontation au monde réel, il encourage leur développement. Souvent à l'âge adulte celui ci est plus mal perçu, vu comme une perte de temps. Et si les bienfaits du jeux pouvaient nous servir à tout âge comme un outil d'apprentissage?",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "https://mixitconf.org/2017/gamification-jouer-pour-apprendre, la vidéo sera disponible prochainement",
+    "speakers": [16]
 }, {
-	"id": 30,
-	"title": "Il était une fois la vie d'un Product Owner",
-	"description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
-	"speakers": [17]
+    "id": 30,
+    "title": "Il était une fois la vie d'un Product Owner",
+    "description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
+    "speakers": [17]
 }, {
-	"id": 32,
-	"title": "Job Story : penser autrement l'expression du besoin agile",
-	"description": "Si vous avez déjà travaillé sur un projet agile, vous avez sans doute rencontré la User Story. Vous avez même peut-être utilisé des \"persona\", ces fiches de personnage qui représentent un de vos utilisateurs type. Ces formats ont marqué une vraie étape dans l'évolution de la spécification agile et sont le support actuellement le plus largement utilisé pour la formalisation du besoin en mode agile. Mais est-ce suffisant ? Est-ce que cela permet de capter l'essence du besoin ? Pas forcément ! La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"speakers": [30]
+    "id": 32,
+    "title": "Job Story : penser autrement l'expression du besoin agile",
+    "description": "Si vous avez déjà travaillé sur un projet agile, vous avez sans doute rencontré la User Story. Vous avez même peut-être utilisé des \"persona\", ces fiches de personnage qui représentent un de vos utilisateurs type. Ces formats ont marqué une vraie étape dans l'évolution de la spécification agile et sont le support actuellement le plus largement utilisé pour la formalisation du besoin en mode agile. Mais est-ce suffisant ? Est-ce que cela permet de capter l'essence du besoin ? Pas forcément ! La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !",
+    "complexity": "Intermediate",
+    "subtype": "presentation",
+    "speakers": [30]
 }, {
-	"id": 34,
-	"title": "Junit-Docker",
-	"description": "Si vous avez déjà écris des tests d'intégration, vous avez probablement rencontré des difficultés à faire tourner vos dépendances.En effet, il faut :* démarrer la dépendance* s'assurer que la dépendance est dans un état correct avant de lancer le test* arrêter la dépendance à la fin du testÀ tout ceci se rajoute le problème de reproductibilité du test (différents environments, système d'exploitation).Cela peut s’avérer assez complexe. Heureusement, grâce à docker, le problème de reproductibilité est en grande partie résolue, mais encore faut-il pouvoir l'utiliser dans nos tests !Nous avons écris une extension à JUnit 5 qui rends tout ceci beaucoup plus simple.Durant ce talk, nous vous présenterons notre solution après avoir fais une présentation de jUnit 5.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "http://cfp.devoxx.fr/2017/talk/YOJ-9199/JUnit-docker",
-	"speakers": [24, 21]
+    "id": 34,
+    "title": "Junit-Docker",
+    "description": "Si vous avez déjà écris des tests d'intégration, vous avez probablement rencontré des difficultés à faire tourner vos dépendances.En effet, il faut :* démarrer la dépendance* s'assurer que la dépendance est dans un état correct avant de lancer le test* arrêter la dépendance à la fin du testÀ tout ceci se rajoute le problème de reproductibilité du test (différents environments, système d'exploitation).Cela peut s’avérer assez complexe. Heureusement, grâce à docker, le problème de reproductibilité est en grande partie résolue, mais encore faut-il pouvoir l'utiliser dans nos tests !Nous avons écris une extension à JUnit 5 qui rends tout ceci beaucoup plus simple.Durant ce talk, nous vous présenterons notre solution après avoir fais une présentation de jUnit 5.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "http://cfp.devoxx.fr/2017/talk/YOJ-9199/JUnit-docker",
+    "speakers": [24, 21]
 }, {
-	"id": 35,
-	"title": "Kebab kata: Fight the system making your code sad",
-	"description": "Essayez de créer un code qui vous ne considérez pas comme étant “legacy”.Je jouerai le rôle de votre client et j'utiliserai 20 techniques différentes pour vous faire échouerVous allez échouer.Nous allons débattre les techniques utilisées, comment elles arrivent dans la vraie vie et comment les combattre dans vos projets.Tous les langages sont bienvenus. Vous aurez besoin d'un portable avec votre environment, le hands-on se fera par petites équipes montés sur place.",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"speakers": [44]
+    "id": 35,
+    "title": "Kebab kata: Fight the system making your code sad",
+    "description": "Essayez de créer un code qui vous ne considérez pas comme étant “legacy”.Je jouerai le rôle de votre client et j'utiliserai 20 techniques différentes pour vous faire échouerVous allez échouer.Nous allons débattre les techniques utilisées, comment elles arrivent dans la vraie vie et comment les combattre dans vos projets.Tous les langages sont bienvenus. Vous aurez besoin d'un portable avec votre environment, le hands-on se fera par petites équipes montés sur place.",
+    "complexity": "Beginner",
+    "subtype": "workshop",
+    "speakers": [44]
 }, {
-	"id": 38,
-	"title": "L’agilité sans être informaticien, c’est possible ? !",
-	"description": "Vous n’êtes pas informaticien mais l’agilité vous intéresse ! Transformez ce concept en action. Mon atelier a pour objectif de faire rentrer les débutants dans le monde de l’agilité en accompagnant sur les termes barba... euh spécifiques à l’agilité. Nous traiterons de l’animation de réunion, de créativité des équipes… En résumé, faire en sorte d’appliquer le fameux « thinking out of de box ».",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [5]
+    "id": 38,
+    "title": "L’agilité sans être informaticien, c’est possible ? !",
+    "description": "Vous n’êtes pas informaticien mais l’agilité vous intéresse ! Transformez ce concept en action. Mon atelier a pour objectif de faire rentrer les débutants dans le monde de l’agilité en accompagnant sur les termes barba... euh spécifiques à l’agilité. Nous traiterons de l’animation de réunion, de créativité des équipes… En résumé, faire en sorte d’appliquer le fameux « thinking out of de box ».",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [5]
 }, {
-	"id": 39,
-	"title": "Le Design Sprint du Géant agile ! ",
-	"description": "Retour d'expérience sur la mise en oeuvre du Design Sprint au sein d'une grande DSI : UX et agilité à l'échelle ça fonctionne ? ",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [37, 6]
+    "id": 39,
+    "title": "Le Design Sprint du Géant agile ! ",
+    "description": "Retour d'expérience sur la mise en oeuvre du Design Sprint au sein d'une grande DSI : UX et agilité à l'échelle ça fonctionne ? ",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [37, 6]
 }, {
-	"id": 41,
-	"title": "Le Gherkin par l'exemple, quelle classe !",
-	"description": "Parce que le live coding, c'est un peu has been, commençons par découvrir le langage Gherkin au travers d'exemples et d'un live modeling !Une sorte de mode d'emploi du langage Gherkhin pour vous donner envie de mettre les mains dans le code et pourquoi pas de contribuer à un projet open source en y apportant la touche de votre dialecte favori !Spécification par l'exemple, BDD et Cucumber seront aussi au menu !",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [12]
+    "id": 41,
+    "title": "Le Gherkin par l'exemple, quelle classe !",
+    "description": "Parce que le live coding, c'est un peu has been, commençons par découvrir le langage Gherkin au travers d'exemples et d'un live modeling !Une sorte de mode d'emploi du langage Gherkhin pour vous donner envie de mettre les mains dans le code et pourquoi pas de contribuer à un projet open source en y apportant la touche de votre dialecte favori !Spécification par l'exemple, BDD et Cucumber seront aussi au menu !",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [12]
 }, {
-	"id": 42,
-	"title": "Le StoryMapping : venez apprendre à mapper vos idées",
-	"description": "L'art du maniement d'une cartographie de projet agile. Basé sur le bouquin de Jeff Patton, comment représenter et organiser ses idées",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [8]
+    "id": 42,
+    "title": "Le StoryMapping : venez apprendre à mapper vos idées",
+    "description": "L'art du maniement d'une cartographie de projet agile. Basé sur le bouquin de Jeff Patton, comment représenter et organiser ses idées",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [8]
 }, {
-	"id": 43,
-	"title": "Le work hackisme est un humanisme",
-	"description": "Selon wikipedia, l'existentialisme considère chaque personne comme un être unique maître de ses actes, de son destin et des valeurs qu'il décide d'adopter. Peut-on être existentialiste au travail? Je pense que oui, en pratiquant le \"work hackisme\"! C'est ce que j'essaie de faire depuis quelques années via un certain nombre de pratiques, de postures. Dans cette session, je vous présenterez tous ces petits trucs du quotidien qui me permettent d'arriver au boulot le matin avec le sourire et de pouvoir me regarder dans la glace le soir en rentrant.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [29]
+    "id": 43,
+    "title": "Le work hackisme est un humanisme",
+    "description": "Selon wikipedia, l'existentialisme considère chaque personne comme un être unique maître de ses actes, de son destin et des valeurs qu'il décide d'adopter. Peut-on être existentialiste au travail? Je pense que oui, en pratiquant le \"work hackisme\"! C'est ce que j'essaie de faire depuis quelques années via un certain nombre de pratiques, de postures. Dans cette session, je vous présenterez tous ces petits trucs du quotidien qui me permettent d'arriver au boulot le matin avec le sourire et de pouvoir me regarder dans la glace le soir en rentrant.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [29]
 }, {
-	"id": 44,
-	"title": "Lean Takeoff : plongez dans un monde incertain",
-	"description": "Découvrez la posture entrepreneuriale du Lean Startup pour mitiger le risque marché avant le risque produit",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "http://leantakeoff.com/",
-	"speakers": [3]
+    "id": 44,
+    "title": "Lean Takeoff : plongez dans un monde incertain",
+    "description": "Découvrez la posture entrepreneuriale du Lean Startup pour mitiger le risque marché avant le risque produit",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "http://leantakeoff.com/",
+    "speakers": [3]
 }, {
-	"id": 45,
-	"title": "Legacy Club",
-	"description": "Code non maintenable, bugs à répétition, corrections chronophages, vocabulaires hétérogènes, moral dans les chaussettes… Pas étonnant que la plupart d’entre nous préfèrent travailler sur des projets où tout est à (re)construire (Greenfield) plutôt que sur du code Legacy (Brownfield). Il faut dire que le Legacy sur lequel on a perdu le contrôle est plus que pénible. C’est épuisant, voire décourageant.Et si nous nous trompions ? Et si – munis de quelques techniques de refactoring mais surtout de communication entre les acteurs des équipes au sens large – nous pouvions inverser les choses et reprendre le contrôle… Le temps d’une session, venez découvrir les trucs et astuces des gens qui préfèrent reprendre le contrôle plutôt que de subir. Voir qui préfèrent les opportunités cachées du Legacy aux pages blanches des projets Greenfield. Vous aussi, rejoignez le Legacy Club !",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://www.youtube.com/watch?v=zeogtrxqc38&t=348s",
-	"speakers": [14]
+    "id": 45,
+    "title": "Legacy Club",
+    "description": "Code non maintenable, bugs à répétition, corrections chronophages, vocabulaires hétérogènes, moral dans les chaussettes… Pas étonnant que la plupart d’entre nous préfèrent travailler sur des projets où tout est à (re)construire (Greenfield) plutôt que sur du code Legacy (Brownfield). Il faut dire que le Legacy sur lequel on a perdu le contrôle est plus que pénible. C’est épuisant, voire décourageant.Et si nous nous trompions ? Et si – munis de quelques techniques de refactoring mais surtout de communication entre les acteurs des équipes au sens large – nous pouvions inverser les choses et reprendre le contrôle… Le temps d’une session, venez découvrir les trucs et astuces des gens qui préfèrent reprendre le contrôle plutôt que de subir. Voir qui préfèrent les opportunités cachées du Legacy aux pages blanches des projets Greenfield. Vous aussi, rejoignez le Legacy Club !",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "https://www.youtube.com/watch?v=zeogtrxqc38&t=348s",
+    "speakers": [14]
 }, {
-	"id": 46,
-	"title": "Lego4DevOps Game",
-	"description": "Comprendre les principes du mouvement DevOps en faisant une mise en situation sous forme d'équipes de développement et d'exploitation.",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"presentation": "http://www.agilegamesfrance.fr/index.php?title=Lego4Devops",
-	"speakers": [9]
+    "id": 46,
+    "title": "Lego4DevOps Game",
+    "description": "Comprendre les principes du mouvement DevOps en faisant une mise en situation sous forme d'équipes de développement et d'exploitation.",
+    "complexity": "Beginner",
+    "subtype": "workshop",
+    "presentation": "http://www.agilegamesfrance.fr/index.php?title=Lego4Devops",
+    "speakers": [9]
 }, {
-	"id": 47,
-	"title": "Les forces de la nature gouvernent l’entreprise !",
-	"description": "« Les forces fondamentales qui gouvernent notre monde sont cachées à nos yeux, mais belles et bien visibles dans les formes de la nature. »C’est en entendant par hasard cette intrigante affirmation que j’ai commencé à visionner l’excellent documentaire \"Les Forces de la Nature\".Je réalise alors que ces forces fondamentales gouvernent également l’entreprise : elles y modèlent les formes d’organisation et les comportements humains !Et pour vous le montrer, quoi de mieux que vous proposer une présentation 100% visuelle ?…",
-	"complexity": "Beginner",
-	"subtype": "keynote",
-	"speakers": [13]
+    "id": 47,
+    "title": "Les forces de la nature gouvernent l’entreprise !",
+    "description": "« Les forces fondamentales qui gouvernent notre monde sont cachées à nos yeux, mais belles et bien visibles dans les formes de la nature. »C’est en entendant par hasard cette intrigante affirmation que j’ai commencé à visionner l’excellent documentaire \"Les Forces de la Nature\".Je réalise alors que ces forces fondamentales gouvernent également l’entreprise : elles y modèlent les formes d’organisation et les comportements humains !Et pour vous le montrer, quoi de mieux que vous proposer une présentation 100% visuelle ?…",
+    "complexity": "Beginner",
+    "subtype": "keynote",
+    "speakers": [13]
 }, {
-	"id": 48,
-	"title": "Let's do solution focus",
-	"description": "Bonjour Monsieur, venez nous aider à solutionner nos problèmes ! Vous voyez ... c'est trop compliqué ... on ne peut pas changer, nos problèmes sont trop ancrés !Et pourtant l'agilité s'apparente au fait de faire preuve de bon sensDans cette session je vous propose de décrypter comment emmener un groupe de personne travaillant sur le même sujet vers la création de solution plus que vers la résolution de problèmes.Suite à un bref retour d'expérience, vous allez participer à un atelier solution focus.Par la suite, emmenez le chez vous et utilisez le !",
-	"complexity": "Tout public",
-	"subtype": "presentation",
-	"speakers": [43]
+    "id": 48,
+    "title": "Let's do solution focus",
+    "description": "Bonjour Monsieur, venez nous aider à solutionner nos problèmes ! Vous voyez ... c'est trop compliqué ... on ne peut pas changer, nos problèmes sont trop ancrés !Et pourtant l'agilité s'apparente au fait de faire preuve de bon sensDans cette session je vous propose de décrypter comment emmener un groupe de personne travaillant sur le même sujet vers la création de solution plus que vers la résolution de problèmes.Suite à un bref retour d'expérience, vous allez participer à un atelier solution focus.Par la suite, emmenez le chez vous et utilisez le !",
+    "complexity": "Tout public",
+    "subtype": "presentation",
+    "speakers": [43]
 }, {
-	"id": 49,
-	"title": "Libérée Délivrée ",
-	"description": "Retour d'expérience sur la \"libération\" de notre groupe et sur notre gouvernance collective et modes de travail dans le Sud-Ouest",
-	"complexity": "Beginner",
-	"subtype": "keynote",
-	"speakers": [36]
+    "id": 49,
+    "title": "Libérée Délivrée ",
+    "description": "Retour d'expérience sur la \"libération\" de notre groupe et sur notre gouvernance collective et modes de travail dans le Sud-Ouest",
+    "complexity": "Beginner",
+    "subtype": "keynote",
+    "speakers": [36]
 }, {
-	"id": 50,
-	"title": "Misunderstood Derdians",
-	"description": "Explore, and learn to overcome, the difficulties of communication across different cultures.As “Derdians” and “Engineers” try to build together a tape, scissors & cardboard bridge. Engineers teaching, Derdians building.We will then have a retrospective of the experience. What worked? What didn’t? Why?Information for Program Team:Disdain is the failure mode of understanding across cultural boundaries.Participants will experience that failure, as we separate them in two groupes that will obey two different modes of communication and make the groups communicate with each other.We'll then show that there was no reason for the disdain they experienced.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [24, 44]
+    "id": 50,
+    "title": "Misunderstood Derdians",
+    "description": "Explore, and learn to overcome, the difficulties of communication across different cultures.As “Derdians” and “Engineers” try to build together a tape, scissors & cardboard bridge. Engineers teaching, Derdians building.We will then have a retrospective of the experience. What worked? What didn’t? Why?Information for Program Team:Disdain is the failure mode of understanding across cultural boundaries.Participants will experience that failure, as we separate them in two groupes that will obey two different modes of communication and make the groups communicate with each other.We'll then show that there was no reason for the disdain they experienced.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [24, 44]
 }, {
-	"id": 51,
-	"title": "Mob Programming 101 (et en pratique)",
-	"description": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur !L'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"speakers": [55]
+    "id": 51,
+    "title": "Mob Programming 101 (et en pratique)",
+    "description": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur !L'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
+    "complexity": "Beginner",
+    "subtype": "workshop",
+    "speakers": [55]
 }, {
-	"id": 52,
-	"title": "Où en est le contrat Agile en 2017?",
-	"description": "La manière de contractualiser des développements Agile est un choix crucial qui peut avoir de lourdes conséquences sur la réussite d'un produit. Quel est l'état de l'art des différents type de contrats ? Quel niveau de compatibilité offrent-ils pour les développement d'un produit en méthode Agile ? En quoi un contrat Agile peut-il aider ? Quelles sont les règles de base d'un contrat Agile ? Cette conférence parcourra les bénéfices et inconvénients de chaque contrat en les illustrant à l'aide de cas réels.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [20]
+    "id": 52,
+    "title": "Où en est le contrat Agile en 2017?",
+    "description": "La manière de contractualiser des développements Agile est un choix crucial qui peut avoir de lourdes conséquences sur la réussite d'un produit. Quel est l'état de l'art des différents type de contrats ? Quel niveau de compatibilité offrent-ils pour les développement d'un produit en méthode Agile ? En quoi un contrat Agile peut-il aider ? Quelles sont les règles de base d'un contrat Agile ? Cette conférence parcourra les bénéfices et inconvénients de chaque contrat en les illustrant à l'aide de cas réels.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [20]
 }, {
-	"id": 53,
-	"title": "Pause",
-	"service": "true"
+    "id": 53,
+    "title": "Pause",
+    "service": "true"
 }, {
-	"id": 54,
-	"title": "Pitch d'ouverture",
-	"service": "true"
+    "id": 54,
+    "title": "Pitch d'ouverture",
+    "service": "true"
 }, {
-	"id": 55,
-	"title": "Qu'est-ce qu'un Scrum Master ?",
-	"description": "Avec l'essor massif de l'Agilité dans les organisations et plus particulièrement de la méthode Scrum, un nouveau rôle est apparu : Scrum Master. Peut-il développer ? Quelles sont ses missions ? Cette session devrait vous permettre de faire le tri entre les mythes et les réalités qui entourent ce rôle. En bonus vous repartirez avec quelques outils bien pratiques dans votre rôle quotidien de Scrum Master.",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"presentation": "http://talondagile.fr/2017/01/quest-quun-scrum-master/",
-	"speakers": [17]
+    "id": 55,
+    "title": "Qu'est-ce qu'un Scrum Master ?",
+    "description": "Avec l'essor massif de l'Agilité dans les organisations et plus particulièrement de la méthode Scrum, un nouveau rôle est apparu : Scrum Master. Peut-il développer ? Quelles sont ses missions ? Cette session devrait vous permettre de faire le tri entre les mythes et les réalités qui entourent ce rôle. En bonus vous repartirez avec quelques outils bien pratiques dans votre rôle quotidien de Scrum Master.",
+    "complexity": "Intermediate",
+    "subtype": "presentation",
+    "presentation": "http://talondagile.fr/2017/01/quest-quun-scrum-master/",
+    "speakers": [17]
 }, {
-	"id": 56,
-	"title": "Rejoignez le réseau de Chloé, notre product owner",
-	"description": "Un Product Owner efficace est incontournable à la réussite d'un produit.Cela passe par l'identification de tous les interlocuteurs que celui-ci est amené à solliciter au cours du projet pour assurer consistance et cohérence à son produit.Vous rencontrerez Chloé, le temps de la conférence, pour découvrir son réseau social et comment elle l'entretient. Tout est question d'équilibre !",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [52, 53]
+    "id": 56,
+    "title": "Rejoignez le réseau de Chloé, notre product owner",
+    "description": "Un Product Owner efficace est incontournable à la réussite d'un produit.Cela passe par l'identification de tous les interlocuteurs que celui-ci est amené à solliciter au cours du projet pour assurer consistance et cohérence à son produit.Vous rencontrerez Chloé, le temps de la conférence, pour découvrir son réseau social et comment elle l'entretient. Tout est question d'équilibre !",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [52, 53]
 }, {
-	"id": 57,
-	"title": "Rejoignez le réseau de Chloé, votre PO :: L'atelier",
-	"description": "Un Product Owner efficace est incontournable à la réussite d'un produit.Cela passe par l'identification de tous les interlocuteurs que celui-ci est amené à solliciter au cours du projet pour assurer consistance et cohérence à son produit.Vous chausserez les souliers de Chloé le temps d'un atelier pour construire son réseau social et commencer à l'entretenir. Tout est question d'équilibre !",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"speakers": [52, 53]
+    "id": 57,
+    "title": "Rejoignez le réseau de Chloé, votre PO :: L'atelier",
+    "description": "Un Product Owner efficace est incontournable à la réussite d'un produit.Cela passe par l'identification de tous les interlocuteurs que celui-ci est amené à solliciter au cours du projet pour assurer consistance et cohérence à son produit.Vous chausserez les souliers de Chloé le temps d'un atelier pour construire son réseau social et commencer à l'entretenir. Tout est question d'équilibre !",
+    "complexity": "Beginner",
+    "subtype": "workshop",
+    "speakers": [52, 53]
 }, {
-	"id": 58,
-	"title": "Repas 1er service",
-	"service": "true"
+    "id": 58,
+    "title": "Repas 1er service",
+    "service": "true"
 }, {
-	"id": 59,
-	"title": "Repas 2e service",
-	"service": "true"
+    "id": 59,
+    "title": "Repas 2e service",
+    "service": "true"
 }, {
-	"id": 60,
-	"title": "Rescue Robots - Lego(r) Mindstorms",
-	"description": "Sauvons notre base spatiale : imaginer, concevoir, réaliser, tester en équipes les robots pour remplir la mission de sauvetage ! Sensibilisation au travail collaboratif en équipe et à la coopération entre équipes !",
-	"complexity": "Tout public",
-	"subtype": "presentation",
-	"speakers": [26, 26]
+    "id": 60,
+    "title": "Rescue Robots - Lego(r) Mindstorms",
+    "description": "Sauvons notre base spatiale : imaginer, concevoir, réaliser, tester en équipes les robots pour remplir la mission de sauvetage ! Sensibilisation au travail collaboratif en équipe et à la coopération entre équipes !",
+    "complexity": "Tout public",
+    "subtype": "presentation",
+    "speakers": [26, 26]
 }, {
-	"id": 61,
-	"title": "Si l'élection présidentielle était agile...",
-	"description": "Et si l'élection présidentielle française s'organisait autour des pratiques, méthodes et principes de l'agilité... qu'est-ce que ça pourrait donner ?Mode de scrutin, programmes, temps de parole, sondages, professions de foi, etc. : nous aborderons tout cela dans une ambiance décalée mais sérieuse !",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [13]
+    "id": 61,
+    "title": "Si l'élection présidentielle était agile...",
+    "description": "Et si l'élection présidentielle française s'organisait autour des pratiques, méthodes et principes de l'agilité... qu'est-ce que ça pourrait donner ?Mode de scrutin, programmes, temps de parole, sondages, professions de foi, etc. : nous aborderons tout cela dans une ambiance décalée mais sérieuse !",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [13]
 }, {
-	"id": 62,
-	"title": "Software craftsmanship - Je commence par où?",
-	"description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
-	"speakers": [40]
+    "id": 62,
+    "title": "Software craftsmanship - Je commence par où?",
+    "description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
+    "complexity": "Intermediate",
+    "subtype": "presentation",
+    // "presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
+    "speakers": [40]
 }, {
-	"id": 63,
-	"title": "Solution focus et conversations constructives en pratique",
-	"description": "Nous avons (trop) souvent tendanceà nous focaliser sur nosproblèmes, à nous réfugier derrièrenos contraintes. Lors de mesaccompagnements, j’entendsbeaucoup «Faire différemment?Oui mais tu sais, chez nous c’estcompliqué.».Aujourd’hui, les approchesconstructives, orientées solutiontrouvent leur essor dans nosactivités d’accompagnementd’équipes et d’organisations. Cesdémarches sont de formidablesleviers pour accompagner noschangements personnels et lechangement en entreprise.Je vous propose de vous fairedécouvrir par la pratique ce quise cache derrière ces approcheset de comprendre, à traversquelques grilles de lecture, l’impactsur nous et autour de nous.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [7]
+    "id": 63,
+    "title": "Solution focus et conversations constructives en pratique",
+    "description": "Nous avons (trop) souvent tendanceà nous focaliser sur nosproblèmes, à nous réfugier derrièrenos contraintes. Lors de mesaccompagnements, j’entendsbeaucoup «Faire différemment?Oui mais tu sais, chez nous c’estcompliqué.».Aujourd’hui, les approchesconstructives, orientées solutiontrouvent leur essor dans nosactivités d’accompagnementd’équipes et d’organisations. Cesdémarches sont de formidablesleviers pour accompagner noschangements personnels et lechangement en entreprise.Je vous propose de vous fairedécouvrir par la pratique ce quise cache derrière ces approcheset de comprendre, à traversquelques grilles de lecture, l’impactsur nous et autour de nous.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [7]
 }, {
-	"id": 64,
-	"title": "Story mapping pour les nuls",
-	"description": "Découvrir le story mapping par un jeu simple simulation. Si vous ne connaissez pas le story mapping ou si vous voulez expliquer rapidement le story mapping, ce jeu est fait pour vous.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://idetido.wordpress.com/2014/06/04/exercice-de-story-mapping/",
-	"speakers": [25]
+    "id": 64,
+    "title": "Story mapping pour les nuls",
+    "description": "Découvrir le story mapping par un jeu simple simulation. Si vous ne connaissez pas le story mapping ou si vous voulez expliquer rapidement le story mapping, ce jeu est fait pour vous.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    // "presentation": "https://idetido.wordpress.com/2014/06/04/exercice-de-story-mapping/",
+    "speakers": [25]
 }, {
-	"id": 65,
-	"title": "TDD et event sourcing dans la vraie vie",
-	"description": "Peut être vous êtes vous intéressé au Test Driven Development. Peut-être avez vous fait quelques katas, mais voilà, vous avez l’impression qu’un kata reste un exemple trop simple confronté à ce que vous vivez au quotidien.Dans cette session de live coding, je vous propose de découvrir mon quotidien de développeur pratiquant le TDD à 100%. Nous allons développer une fonctionnalité de bout en bout sur une application web, et peut être découvrir qu’il n’y a plus d’écart entre un kata et mon code de tous les jours. ",
-	"complexity": "Intermediate",
-	"subtype": "presentation",
-	"speakers": [28]
+    "id": 65,
+    "title": "TDD et event sourcing dans la vraie vie",
+    "description": "Peut être vous êtes vous intéressé au Test Driven Development. Peut-être avez vous fait quelques katas, mais voilà, vous avez l’impression qu’un kata reste un exemple trop simple confronté à ce que vous vivez au quotidien.Dans cette session de live coding, je vous propose de découvrir mon quotidien de développeur pratiquant le TDD à 100%. Nous allons développer une fonctionnalité de bout en bout sur une application web, et peut être découvrir qu’il n’y a plus d’écart entre un kata et mon code de tous les jours. ",
+    "complexity": "Intermediate",
+    "subtype": "presentation",
+    "speakers": [28]
 }, {
-	"id": 66,
-	"title": "Tests Tout-Terrain (Euskal Herria Edition)",
-	"description": "# Tests Tout-Terrain Je fais des tests, mais: - Stubs, mock, fake, spy, property? je suis un peu paumé... - les tests unitaire, fonctionnels, techniques, de perfs, d'intégration c'est cher.- ca met 40 plombes! - Je débute, et franchement je ne sais pas par ou commencer. - legacy! FONCTION test_la_conf_TTT():    #Arrange    participants = genere_des_participants(2,MAX_DE_LA_SALLE) #au moins 2 orgas!    #Act    participants.viens_a_la_conf_TTT()     #Assert     POUR participant DANS participants:         ASSERT participant.a_appris_un_truc_sur_les_tests",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"presentation": "https://krilivye.github.io/TTT/",
-	"speakers": [15]
+    "id": 66,
+    "title": "Tests Tout-Terrain (Euskal Herria Edition)",
+    "description": "# Tests Tout-Terrain Je fais des tests, mais: - Stubs, mock, fake, spy, property? je suis un peu paumé... - les tests unitaire, fonctionnels, techniques, de perfs, d'intégration c'est cher.- ca met 40 plombes! - Je débute, et franchement je ne sais pas par ou commencer. - legacy! FONCTION test_la_conf_TTT():    #Arrange    participants = genere_des_participants(2,MAX_DE_LA_SALLE) #au moins 2 orgas!    #Act    participants.viens_a_la_conf_TTT()     #Assert     POUR participant DANS participants:         ASSERT participant.a_appris_un_truc_sur_les_tests",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "presentation": "https://krilivye.github.io/TTT/",
+    "speakers": [15]
 }, {
-	"id": 67,
-	"title": "The NoEstimates Game (En Francais!)",
-	"description": "Wondering what NoEstimates means in practice, or why would you want to use NoEstimates? Perhaps you've heard the buzz, read Vasco Duarte's excellent book or simply want to understand how to plan better and reduce risk. If so, you should expect this workshop for a multi-team game that will help you:*Learn the basics of NoEstimates and why the concept can help*Learn how to create a risky way to plan*Understand how to reduce variation that affects delivery",
-	"complexity": "Beginner",
-	"subtype": "workshop",
-	"presentation": "https://mattphilip.wordpress.com/noestimates-game/",
-	"speakers": [46]
+    "id": 67,
+    "title": "The NoEstimates Game (En Francais!)",
+    "description": "Wondering what NoEstimates means in practice, or why would you want to use NoEstimates? Perhaps you've heard the buzz, read Vasco Duarte's excellent book or simply want to understand how to plan better and reduce risk. If so, you should expect this workshop for a multi-team game that will help you:*Learn the basics of NoEstimates and why the concept can help*Learn how to create a risky way to plan*Understand how to reduce variation that affects delivery",
+    "complexity": "Beginner",
+    "subtype": "workshop",
+    "presentation": "https://mattphilip.wordpress.com/noestimates-game/",
+    "speakers": [46]
 }, {
-	"id": 68,
-	"title": "Trouvez vos cadences, et faite un pas vers le Continuous Delivery.",
-	"description": "Cette session vous emmènera à la découverte de la notion de cadence, celle qui rythme les activités des équipes, quelle que soit l’approche utilisée, du cycle en V au Continous Delivery en passant par Scrum et Kanban.La compréhension des cadences apporte des éléments de réponse aux questions suivantes (entre autres) : - Faut-il caler la production des user stories sur le calendrier des sprints, sur le release plan ? Y a-t-il d’autres possibilités intéressantes à explorer ? - Comment et quand intégrer les différents types de test au flux des travaux ? - À quel rythme faut-il livrer en production ? La question se pose-t-elle encore si vous utilisez une approche “continuous delivery” ? - Vous devez déjà avoir entendu parlé du fameux “rythme soutenable” nécessaire à la réussite d’un projet agile dans la durée. En théorie c’est très simple, mais en pratique, comment déterminer ce fameux rythme ?Et il y en a même qui pensent qu’avec de bonnes cadences on peut fluidifier l’ensemble des travaux à réaliser, de la collecte des besoins jusqu’au déploiement, s’affranchir des itérations et réussir un passage au Continuous Delivery !!",
-	"complexity": "Intermédiaire",
-	"subtype": "presentation",
-	"speakers": [30]
+    "id": 68,
+    "title": "Trouvez vos cadences, et faite un pas vers le Continuous Delivery.",
+    "description": "Cette session vous emmènera à la découverte de la notion de cadence, celle qui rythme les activités des équipes, quelle que soit l’approche utilisée, du cycle en V au Continous Delivery en passant par Scrum et Kanban.La compréhension des cadences apporte des éléments de réponse aux questions suivantes (entre autres) : - Faut-il caler la production des user stories sur le calendrier des sprints, sur le release plan ? Y a-t-il d’autres possibilités intéressantes à explorer ? - Comment et quand intégrer les différents types de test au flux des travaux ? - À quel rythme faut-il livrer en production ? La question se pose-t-elle encore si vous utilisez une approche “continuous delivery” ? - Vous devez déjà avoir entendu parlé du fameux “rythme soutenable” nécessaire à la réussite d’un projet agile dans la durée. En théorie c’est très simple, mais en pratique, comment déterminer ce fameux rythme ?Et il y en a même qui pensent qu’avec de bonnes cadences on peut fluidifier l’ensemble des travaux à réaliser, de la collecte des besoins jusqu’au déploiement, s’affranchir des itérations et réussir un passage au Continuous Delivery !!",
+    "complexity": "Intermédiaire",
+    "subtype": "presentation",
+    "speakers": [30]
 }, {
-	"id": 69,
-	"title": "Ultimate Fighting - Métier & Développeur dans la même cage !",
-	"description": "Le marketing est fait pour penserLe développeur est fait pour développerMettre marketing, metier avec des développeurs ans la même pièce ... une érésie.Qu'est ce qu'un développeur peut connaitre au métier.Et puis on est agile, on se voit déjà lors de la planification et lors de la démo.C'est bien suffisantOui ! Et si cela avait un intérêt ?Un développeur c'est aussi un utilisateur.Et un utilisateur peut aussi avoir des idées.A partir de ce constat, à plusieurs moments de la vie d'un produit, il devient intéressant de mettre ces 2 spécimens dans la même pièce.Nous vous proposons d'expérimenter des ateliers pour aider à la créativité.Nous vous partageons des retours d'expériences sur les beaux fails et les bonnes idées qui émergent.",
-	"complexity": "Tout public",
-	"subtype": "presentation",
-	"speakers": [43]
+    "id": 69,
+    "title": "Ultimate Fighting - Métier & Développeur dans la même cage !",
+    "description": "Le marketing est fait pour penserLe développeur est fait pour développerMettre marketing, metier avec des développeurs ans la même pièce ... une érésie.Qu'est ce qu'un développeur peut connaitre au métier.Et puis on est agile, on se voit déjà lors de la planification et lors de la démo.C'est bien suffisantOui ! Et si cela avait un intérêt ?Un développeur c'est aussi un utilisateur.Et un utilisateur peut aussi avoir des idées.A partir de ce constat, à plusieurs moments de la vie d'un produit, il devient intéressant de mettre ces 2 spécimens dans la même pièce.Nous vous proposons d'expérimenter des ateliers pour aider à la créativité.Nous vous partageons des retours d'expériences sur les beaux fails et les bonnes idées qui émergent.",
+    "complexity": "Tout public",
+    "subtype": "presentation",
+    "speakers": [43]
 }, {
-	"id": 70,
-	"title": "What is Your Daily DOSE for Creating Happy and Engaging Teams?",
-	"description": "We would all agree that “happy teams create happy results”, but the big piece to the puzzle is how to create those happy and engaged teams… In this edition of Scrum Pulse, Professional Scrum Trainer Nagesh Sharma will discuss the psychological aspects of the human brain connects the dots with Scrum. A Scrum Master can be helped by better understanding the chemical makeup of the human brain to create more happy and engaged teams by leveraging the Scrum framework and embracing Servant leadership.",
-	"complexity": "Beginner",
-	"subtype": "presentation",
-	"speakers": [45]
+    "id": 70,
+    "title": "What is Your Daily DOSE for Creating Happy and Engaging Teams?",
+    "description": "We would all agree that “happy teams create happy results”, but the big piece to the puzzle is how to create those happy and engaged teams… In this edition of Scrum Pulse, Professional Scrum Trainer Nagesh Sharma will discuss the psychological aspects of the human brain connects the dots with Scrum. A Scrum Master can be helped by better understanding the chemical makeup of the human brain to create more happy and engaged teams by leveraging the Scrum framework and embracing Servant leadership.",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [45]
+}, {
+    "id": 80,
+    "title": "Coaching à tous les étages",
+    "description": "Cette présentation traitera des questions essentielles : de l’intégration d’un nouvel arrivant dans une entreprise, à l’encouragement de la progression individuelle, en passant par le bien-être au travail de tous. La solution miracle (ou une partie du miracle) ? Le pair coaching maison !\nNous vous expliquerons tout de ce système que nous avons mis en place l’an dernier et continuons à améliorer depuis.\nUn coach (coaché) et une coachée viennent vous présenter la méthode (“du bonheur”).",
+    "complexity": "Beginner",
+    "subtype": "presentation",
+    "speakers": [79, 80]
 }]
