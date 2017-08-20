@@ -19,6 +19,14 @@
     "bio": "Consultant en management agile de l'innovation",
     "thumbnailUrl": "AlfredAlmendra.jpg"
 }, {
+    "id": 80,
+    "name": "Aurélie",
+    "surname": "AMBAL",
+    "company": "",
+    "title": "Développeuse",
+    "bio": "Je suis une jeune développeur web tout juste sortie d'une grande école. En janvier, j'ai intégré la même entreprise que Nicolas Savois, où nous testons ensemble de nouvelles méthodes de management et d'organisation. Je suis actuellement sa coachée et nous améliorons nos méthodologies en permanence.",
+    "thumbnailUrl": "AurelieAmbal.jpg"
+}, {
     "id": 5,
     "name": "Sandrine",
     "surname": "ANTOINE",
@@ -26,9 +34,10 @@
     "thumbnailUrl": "SandrineAntoine.jpg"
 }, {
     "id": 6,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+    "name": "Cécile",
+    "surname": "AURET",
+    "bio": "Agent du changement, aide les projets et les programmes à se mettre à l'agilité avec scrum, kanban et le Scaled Agile Framework®. Expérience en conception fonctionnelle, scrum master et chef de projet avec CMMi pour des projets d'informatique de gestion dans des domaines métier variés. Formateur sur les méthodes agiles, de gestion de projet et de gestion des exigences",
+    "thumbnailUrl": "CecileAuret.jpg"
 }, {
     "id": 8,
     "name": "Alice",
@@ -47,6 +56,13 @@
     "surname": "VENIR",
     "thumbnailUrl": "nobody.png"
 }, {
+    "id": 15,
+    "name": "Pierre",
+    "surname": "BOUSQUI&Eacute;",
+    "company": "Yaal",
+    "bio": "Je suis un informaticien; programmeur,développeur,architecte logiciel,administrateur système...\nJe suis un généraliste aussi bien hardware que software.\nJe cherche néanmoins à atteindre un niveau d'excellence dans toutes les spécialités.\nJe participe à de nombreuses associations (Okiwi, JUG, April, GUTemberg...) autour de l'informatique.",
+    "thumbnailUrl": "PierreBousquie.jpg"
+}, {
     "id": 17,
     "name": "Romain",
     "surname": "COUTURIER",
@@ -61,7 +77,12 @@
     "company": "Upwiser",
     "title": "Developpeur, Formateur",
     "bio": "Catalyseur agile, extrême programmeur et formateur avec plus de 20 ans d'experience dans le monde informatique en transition agile",
-    "thumbnailUrl": "SamCranford.jpg"
+    "thumbnailUrl": "SamCranford.jpg",
+    "ribbon": [{
+        "abbr": "2016",
+        "title": "2016",
+        "url": "2016"
+    }]
 }, {
     "id": 19,
     "name": "Thierry",
@@ -126,7 +147,19 @@
     "surname": "GABRILLAGUES",
     "company": "Ippon Technologies",
     "bio": "Depuis une première rencontre avec l'Agilité en 2008, j'accompagne les équipes de développement en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetup et de conférences à Paris. J'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'an dernier l'équipe Lean Kanban France. Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.",
-    "thumbnailUrl": "AnneGabrillagues.jpg"
+    "thumbnailUrl": "AnneGabrillagues.jpg",
+    "ribbon": [{
+        "abbr": "2016",
+        "title": "2016",
+        "url": "2016"
+    }]
+}, {
+    "id": 78,
+    "name": "Bastien",
+    "surname": "GALLAY",
+    "company": "Upwiser",
+    "title": "Coach Agile et Lean Startup",
+    "thumbnailUrl": "BastienGallay.jpg"
 }, {
     "id": 31,
     "name": "Mathilde",
@@ -159,10 +192,13 @@
     "bio": "Coach Agile et Leader en innovation managériale depuis des années, j'accompagne les équipes et les entreprises dans leurs transformations agiles et managériales",
     "thumbnailUrl": "VanessaHumphreys.jpg"
 }, {
-    "id": 38,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
+    "id": 37,
+    "name": "Rachel",
+    "surname": "JOLIN DUBOIS",
+    "company": "DSI de Pôle emploi ",
+    "title": "Coach de PO",
+    "bio": "Houlaaaaa !!  Ancienne \"Marketing Product Manager\" devenue \"Product Owner agile\" suite à une rencontre avec SCRUM et Claude Aubry en 2006, je continue à tracer mon chemin en enrichissant mes pratiques à la faveur des nouvelles rencontres et des lectures. Aujourd'hui je forme et j'accompagne les équipes, et plus particulièrement les PO. ",
+    "thumbnailUrl": "RachelJolinDubois.jpg"
 }, {
     "id": 39,
     "name": "Arnaud",
@@ -170,7 +206,7 @@
     "company": "Arpinum",
     "title": "CTO",
     "bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.Après avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. ",
-    "thumbnailUrl": "ArnaudLemaire.jpg",
+    "thumbnailUrl": "ArnaudLemaire2.jpg",
     "ribbon": [{
         "abbr": "2016",
         "title": "2016",
@@ -204,6 +240,22 @@
     "bio": "Matt Philip is the Director of Learning and Development at ThoughtWorks. In his work as a coach, trainer, quality advocate and facilitator, Matt helps organizations and teams become fit for their purpose through continuous learning. He draws on lean and agile values, principles and practices (Kanban Method, XP, Scrum) to offer experience, models and options to customers and teammates. ",
     "thumbnailUrl": "MatthewPhilip.jpg"
 }, {
+    "id": 85,
+    "name": "François",
+    "surname": "SALAZAR",
+    "company": "Waavy",
+    "title": "Entrepreneur, Formateur",
+    "bio": "François occupe aujourd’hui un poste de directeur dans une PME Innovante en transition vers un modèle agile intégral. Il partage aussi ses retours d’expériences comme facilitateur de transition pour les dirigeants. Bien avant : Développeur, chef de projet, manager, entrepreneur, formateur",
+    "thumbnailUrl": "FrancoisSalazar.jpg"
+}, {
+    "id": 79,
+    "name": "Nicolas",
+    "surname": "SAVOIS",
+    "company": "",
+    "title": "Développeur, CTO",
+    "bio": "Je suis développeur depuis 15 ans et CTO dans une grande banque depuis peu. \nJ'ai mangé du cycle en V pendant trop longtemps. \nMais aujourd'hui, je fais parti d'un service en rupture (lean startup interne) ou nous testons de nouvelles méthodes de travail, aussi bien techniques que méthodologiques. \nJe suis aussi coach et coaché depuis 1 an et demi, grâce à notre système de pair coaching. \nCe qui entraîne des changements drastiques dans ma manière d'aborder le travail en entreprise.",
+    "thumbnailUrl": "NicolasSavois.jpg"
+}, {
     "id": 52,
     "name": "Régis",
     "surname": "SCHNEIDER",
@@ -224,11 +276,4 @@
     "title": "UX Designer",
     "bio": "Je travaille en freelance comme lead UX designer, psychologue depuis le dernier millénaire. Mon parcours m’a permis de travailler sur des sujets variés allant du WAP à la télévision, en passant par, le web, le e-commerce et les applications professionnelles ou le design de service. J’interviens sur les phases de recherches utilisateurs, l’animation d’ateliers de co-conception, la réalisation et l’évaluation des services, ainsi que sur la mise en place de stratégies centrées sur l’Utilisateur.Depuis 2009, je partage mon expérience et mes connaissances sur mon bloc-notes. Ce qui m’a amené par la suite, à enseigner dans divers écoles et notamment à créer une formation en UX Design. Je suis aussi au conseil de l’association Flupa qui cordonne de nombreux événements pour les professionnels de l’UX francophone.",
     "thumbnailUrl": "RaphaelYharrassarry.jpg"
-}, {
-    "id": 78,
-    "name": "Bastien",
-    "surname": "GALLAY",
-    "company": "Upwiser",
-    "title": "Coach Agile et Lean Startup",
-    "thumbnailUrl": "BastienGallay.jpg"
 }]
