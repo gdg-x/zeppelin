@@ -43,7 +43,7 @@
     "name": "Alice",
     "surname": "BARRALON",
     "company": "Oriions",
-    "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). J'ai co-fondé l’événement AgilePaysBasque.",
+    "bio": "Artisan agiliste, et développeur sur mes temps libres. Je forme, dé- forme et transforme des personnes en les accompagnants dans les bonnes pratiques de développement et de management agile (formation et coaching). Co-fondatrice l’événement AgilePaysBasque.",
     "thumbnailUrl": "AliceBarralon.jpg",
     "ribbon": [{
         "abbr": "2016",
@@ -268,6 +268,14 @@
         "title": "2016",
         "url": "2016"
     }]
+}, {
+    "id": 86,
+    "name": "Stéphane",
+    "surname": "WOJEWODA",
+    "company": "INFOQ",
+    "title": "Coach Agile",
+    "bio": "Ma passion : rester à la pointe des tendances tech et culture. Ma mission : aider les individus et leurs entreprises à grandir à un rythme soutenable. Mon sourire : quand les équipes que j'accompagne comprennent pourquoi elles font ce qu'elles font, et parviennent à bien faire les bonnes choses au bon moment avec un effort just suffisant. Ce qui me rend encore plus heureux : voir le sourire de ma fille qui grandit. Et elle le fait plus vite que les entreprises.",
+    "thumbnailUrl": "StephaneWojewoda.png"
 }, {
     "id": 56,
     "name": "Raphaël",
