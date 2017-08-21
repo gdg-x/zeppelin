@@ -51,11 +51,6 @@
         "url": "2016"
     }]
 }, {
-    "id": 13,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
-}, {
     "id": 15,
     "name": "Pierre",
     "surname": "BOUSQUI&Eacute;",
@@ -110,11 +105,6 @@
     "title": "Coach Agile",
     "bio": "Christophe Deniaud est Coach en Agilité et Coach d’Entreprise chez AUSY. Curieux et passionné d’agilité, il accompagne des équipes dans leurs transitions organisationnelles visant à replacer l’individu et les relations au centre de leur activité.",
     "thumbnailUrl": "ChristopheDeniaud.jpg"
-}, {
-    "id": 24,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
 }, {
     "id": 28,
     "name": "Jean-Baptiste",
@@ -220,11 +210,6 @@
     "title": "CTO",
     "bio": "Développeur surtout en .Net depuis 10 ansFan de l'agilité depuis 5 ans (j'aurai tellement aimé tomber dedans avant)Joueur, coach de rugby mais aujourd'hui seulement supporterMembre de l'organisation de Lean Kanban France 2016 & 17Speaker à l'Agile Tour Toulouse et Sophia 2016Responsable technique et opérationnel chez Nexeo",
     "thumbnailUrl": "NilsLesieur.jpg"
-}, {
-    "id": 41,
-    "name": "A",
-    "surname": "VENIR",
-    "thumbnailUrl": "nobody.png"
 }, {
     "id": 43,
     "name": "Aurélien",
