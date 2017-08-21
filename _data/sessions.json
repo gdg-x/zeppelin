@@ -132,8 +132,8 @@
     "speakers": [52, 32]
 }, {
     "id": 15301,
-    "title": "Le StoryMapping ou comment j’ai découvert que je suis un super-héro pour mes utilisateurs",
-    "description": "L'art du maniement d'une cartographie de projet agile. Basé sur le bouquin de Jeff Patton, comment représenter et organiser ses idées",
+    "title": "Ne créez pas un produit inutile! Concentrez vous sur la valeur",
+    "description": "\"Il n’y a rien de plus inutile que de faire avec efficacité quelque chose qui ne doit pas du tout être fait.\" -Peter Drucker \nCette phrase vous parle ? Et bien venez ! \nNous parlerons de la vie du produit, de son idée à sa mise sur le marché en se concentrant sur la VALEUR. \n#LeanEntreprise #StoryMapping",
     "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [8]
@@ -169,11 +169,11 @@
     "speakers": [30]
 }, {
     "id": 16454,
-    "title": "Mob Programming 101",
-    "description": "",
-    "complexity": "Intermediate",
+    "title": "Mob Programming 101 (et en pratique)",
+    "description": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur ! \nL'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
+    "complexity": "Débutant",
     "subtype": "workshop",
-    "speakers": [0]
+    "speakers": [86]
 }, {
     "id": 17451,
     "title": "Agile Exprès - comment réussir sa transformation agile en le faisant exprès",
