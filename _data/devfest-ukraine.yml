@@ -1,11 +1,11 @@
-eventDate: "November 6th, 2017, London"
-applicationForm: "https://goo.gl/forms/zhpK932g8b5lFqB43"
-mentorsForm: "https://goo.gl/forms/sZ3tif1fC0ea9Ku13"
-descriptionTitle: "ngGirls @ AngularConnect"
+eventDate: "October 15th, 2017, Lviv"
+applicationForm: "https://goo.gl/forms/ZdQPvsg4sRZ7KJEZ2"
+mentorsForm: "https://goo.gl/forms/jdizK79iQg8YDlh32"
+descriptionTitle: "ngGirls @ DevFest Ukraine"
 descriptionBlock:
- - {title: "Who is it for?", template: "angular-connect/angular-connect-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
-# - {title: "Schedule", template: "angular-connect/angular-connect-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "angular-connect/angular-connect-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+ - {title: "Who is it for?", template: "devfest-ukraine/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+# - {title: "Schedule", template: "devfest-ukraine/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "devfest-ukraine/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
 
@@ -14,8 +14,12 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "AngularConnect", description: "AngularConnect 2017 conference",
-        link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops", imageUrl: "angular-connect.png"}
+     - {name: "GDG DevFest Ukraine", description: "The biggest Google tech conference in CEE",
+        link: "https://devfest.gdg.org.ua/", imageUrl: "DevFest-Ukraine.svg"}
+     - {name: "Angular Lviv", description: "Angular Lviv Meetup Group",
+        link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "AngularLviv.png", style: "transform: scale(0.7)"}
+     - {name: "TechMagic", description: "The Best Mobile & JavaScript Stack Ninjas In One Place",
+        link: "http://www.techmagic.co/", imageUrl: "logo-techmagic.svg", style: "transform: scale(1.2)"}
 
 
 mentors:
