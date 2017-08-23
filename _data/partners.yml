@@ -4,7 +4,9 @@
     - {name: "AE&T", description: "AE&T, Spécialiste français de la sécurité industrielle et de la protection des biens et des personnes", link: "https://aet.fr", imageUrl: "aet.png", width: "120px"}
     - {name: "Agile Tribu", description: "Agile Tribu, Améliorons ensemble nos pratiques Agiles.", link: "http://www.agiletribu.com/", imageUrl: "agile-tribu.png", width: "204px"}
     - {name: "CAFPI", description: "CAFPI, N°1 des courtiers en crédits immobiliers", link: "http://www.cafpi.fr", imageUrl: "cafpi.png", width: "203px"}
+    - {name: "EXAKIS", description: "Exakis, partenaire de la DSI et des Métiers, pour bâtir des plateformes Cloud intelligentes, encourager la collaboration, favoriser la mobilité,l&#039;innovation", link: "http://www.exakis.com", imageUrl: "exakis.png", width: "125px"}
     - {name: "OnePoint", description: "OnePoint, conseil en transformation et solutions digitales", link: "https://www.groupeonepoint.com/", imageUrl: "Onepoint.png", width: "215px"}
+    - {name: "Oriions", description: "Oriions, Avez-vous pensé à vous faire former ou accompagner dans votre transition agile et votre innovation continue ?", link: "http://www.oriions.com/", imageUrl: "oriions.png", width: "150px"}
     - {name: "Infotel", description: "Infotel Conseil, Editeur de Logiciels du mobile au Big Data", link: "http://www.infotel.com/", imageUrl: "infotel.png", width: "215px"}
     - {name: "Zenika", description: "Zenika", link: "https://www.zenika.com/", imageUrl: "Zenika.png", width: "215px"}
 - 
