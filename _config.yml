@@ -74,9 +74,9 @@ heroFirst: 1
 # About Block
 aboutTitle: "2ème édition de la conférence Agile Pays Basque"
 aboutLines:
- - {text: "L'agilité avec l'ensemble de ses valeurs, de ses principes, de ses méthodes et pratiques, se diffuse progressivement dans nos environnements de travail et dans l'enseignement."}
+ - {text: "L'agilité avec l'ensemble de ses valeurs, principes, méthodes et pratiques, se diffuse progressivement dans nos environnements de travail et dans l'enseignement."}
  - {text: "La 2ème édition : Agile Pays Basque 2017, sera cette année l'évènement agile de la région. C'est le rendez-vous des professionnels, enseignants et étudiants qui souhaitent savoir comment s'y prendre, découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter autour de l’agilité."}
- - {text: "Débutants ou experts, curieux ou praticiens, venez donc partager, échanger, vous enrichir sur des thématiques agiles telles que Management Agile, Développement logiciel Agile, Lean IT, Lean Startup, Scrum, Kanban, eXtreme Programming, et l'agile hors IT."}
+ - {text: "Débutants ou experts, curieux ou praticiens, venez donc partager, échanger, vous enrichir sur des thématiques telles que Management Agile, Développement logiciel, Lean IT, Lean Startup, Scrum, Kanban, eXtreme Programming, et l'agile hors IT."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
