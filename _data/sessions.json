@@ -28,7 +28,8 @@
     "place": "Amphi"
 }, {
     "id": 10152,
-    "title": "Software craftsmanship - Je commence par où ?",
+    "title": "Software craftsmanship",
+    "subtitle": "Je commence par où ?",
     "description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
     "complexity": "Intermédiaire",
     "subtype": "presentation",
@@ -59,7 +60,8 @@
     "speakers": [20, 31]
 }, {
     "id": 11152,
-    "title": "TDD et event sourcing dans la vraie vie",
+    "title": "TDD et event sourcing",
+    "subtitle": "Dans la vraie vie",
     "description": "Peut être vous êtes vous intéressé au Test Driven Development. Peut-être avez vous fait quelques katas, mais voilà, vous avez l’impression qu’un kata reste un exemple trop simple confronté à ce que vous vivez au quotidien.Dans cette session de live coding, je vous propose de découvrir mon quotidien de développeur pratiquant le TDD à 100%. Nous allons développer une fonctionnalité de bout en bout sur une application web, et peut être découvrir qu’il n’y a plus d’écart entre un kata et mon code de tous les jours. ",
     "complexity": "Intermédiaire",
     "subtype": "presentation",
@@ -97,7 +99,8 @@
     "speakers": [36]
 }, {
     "id": 13151,
-    "title": "Développeur après 30 ans, n'as-tu donc aucune ambition ?",
+    "title": "Développeur après 30 ans",
+    "subtitle": "N'as-tu donc aucune ambition ?",
     "description": "Dans l'univers informatique français, le métier de développeur est très peu valorisé.Il est considéré comme une basse tâche de réalisation réservée aux débutants et voué à disparaître avec l'avènement de la robotisation.Pour évoluer dans sa carrière, il faut ensuite s'orienter vers des \"vrais\" métiers comme le management ou l'expertise.A cette vision purement française des choses s'oppose une autre vision issue du Software Craftsmanship. Le développement est alors considéré comme un métier aux multiples facettes, en éternelle évolution et porteur d'avenir !",
     "complexity": "Débutant",
     "subtype": "keynote",
