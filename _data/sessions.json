@@ -215,6 +215,7 @@
 }, {
     "id": 140,
     "title": "Forum Ouvert : Ordre du Jour",
+    "inline": "Les participants et orateurs co-définissent l'ordre du jour en amenant leurs idées.",
     "description": "Tous les participants se retrouvent en session plénière pour co-définir l'ordre du jour. Chaque partipant amène ses idées, questions, besoins à traiter. Tout le monde doit s'y retrouver dans les sujets à aborder pour un engagement maximal",
     "complexity": "Tous",
     "subtype": "workshop",
@@ -222,6 +223,7 @@
 }, {
     "id": 141,
     "title": "Forum Ouvert : Sessions",
+    "inline": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
     "description": "Lors des sessions de travail les participants vont débattre des sujets.",
     "complexity": "Tous",
     "subtype": "workshop",
@@ -229,6 +231,7 @@
 }, {
     "id": 142,
     "title": "Forum Ouvert : Sessions (suite)",
+    "inline": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
     "description": "Lors des sessions de travail les participants vont débattre des sujets.",
     "complexity": "Tous",
     "subtype": "workshop",
@@ -236,6 +239,7 @@
 }, {
     "id": 143,
     "title": "Forum Ouvert : Bilan",
+    "inline": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
     "description": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
     "complexity": "Tous",
     "subtype": "workshop",
