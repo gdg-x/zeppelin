@@ -34,7 +34,7 @@
   - { question: "Where is ngGirls going to take place?",
       answer: '
       ngGirls @ AngularConnect will take place at ExCeL London. <br/>
-      ngGirls @ Frontend-Con will take place at Golden Floor Tower, Warsaw, Poland.'}
+      ngGirls @ Frontend-Con will take place at <a href="https://www.connectis.pl/" target="_blank">Connectis</a>, Aleje Jerozolimskie 96, Warsaw, Poland.'}
   - { question: "What is the schedule of the workshop day?",
       answer: "The workshop will be held during the day.<br />
        The schedule below is tentative, you'll get the updated schedule by mail.<br />

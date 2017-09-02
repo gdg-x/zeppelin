@@ -16,6 +16,8 @@ partners:
    elements:
      - {name: "Frontend-Con", description: "Frontend Conference in Warsaw, Poland",
         link: "http://frontend-con.io/", imageUrl: "frontend-con-logo.png"}
+     - {name: "Connectis", description: "We connect you with best IT specialists",
+        link: "https://www.connectis.pl/", imageUrl: "connectis.png"}
 
 
 mentors:
