@@ -278,7 +278,7 @@ logisticsMapAutoDirections: true
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Autour de l'ESTIA"
 directionDetailsCards:
- - {title: "Train et aéroport", information: 'La gare TGV Biarritz (Quartier La Negresse) est située à 5 minutes. <br/> L'aéroport Biarritz (Parme) est situé à 10 minutes.'}
+ - {title: "Train et aéroport", information: "La gare TGV Biarritz (Quartier La Negresse) est située à 5 minutes. <br/> L'aéroport Biarritz (Parme) est situé à 10 minutes."}
  - {title: "Par bus", information: "La technopole Izarbel, et donc l'Estia, est desservie par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour. La ligne C vous permet d'attendre l'ESTIA. <p>Tous les arrêts de la ligne C sur le site web. Consultez vos trajets et vos horaires en un seul clic sur internet <a href='http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=4'>www.chronoplus.eu</a> et même depuis votre mobile sur www.chronoplus.mobi.</p>"}
  - {title: "Par autoroute", information: "<p>Depuis Bordeaux : </p><p>Autoroute A63, sortie n° 4 : Biarritz Parme à 2 minutes. </p><p>Depuis Toulouse : </p><p>Autoroute A64 jusqu'à Bayonne puis Autoroute A63 (direction Espagne), sortie n° 4 : Biarritz Parme à 2 minutes</p>"}
 directionDetailsWideCards:
