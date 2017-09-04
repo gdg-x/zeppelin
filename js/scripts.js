@@ -713,7 +713,7 @@
             map.mapTypes.set('zoomed', zoomedMapType);
             if (googleMaps === 'logistics') {
                 map.setMapTypeId('default');
-                var input = (document.getElementById('location-input'));
+                var input = (document.getElementById('location-input2'));
                 autocomplete = new google.maps.places.Autocomplete(input);
                 google.maps.event.addListener(autocomplete, 'place_changed', function() {
                     marker.setVisible(false);
@@ -761,7 +761,7 @@
                         $('#estimateTime2').text(leg.duration.text);
                         $('#mode-select2').val(selectedMode);
                         $('#mode2').removeClass('hidden');
-                        var attribute = $('#mode-icon use').attr('xlink:href');
+                        var attribute = $('#mode-icon2 use').attr('xlink:href');
                         attribute = attribute.substring(0, attribute.indexOf('#') + 1) + 'icon-' + selectedMode.toLowerCase();
                         $('#mode-icon2 use').attr('xlink:href', attribute);
                     } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
@@ -844,7 +844,7 @@
                         var arrAddress = results[1].address_components;
                         $.each(arrAddress, function(i, address_component) {
                             if (address_component.types[0] == "locality") {
-                                $('#result-name').text(address_component.long_name);
+                                $('#result-name2').text(address_component.long_name);
                                 return false;
                             }
                         });
