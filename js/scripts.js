@@ -757,13 +757,13 @@
                         var leg = response.routes[0].legs[0];
                         makeMarker(leg.start_location);
                         makeMarker(leg.end_location);
-                        $('#distance').text(leg.distance.text);
-                        $('#estimateTime').text(leg.duration.text);
-                        $('#mode-select').val(selectedMode);
-                        $('#mode').removeClass('hidden');
+                        $('#distance2').text(leg.distance.text);
+                        $('#estimateTime2').text(leg.duration.text);
+                        $('#mode-select2').val(selectedMode);
+                        $('#mode2').removeClass('hidden');
                         var attribute = $('#mode-icon use').attr('xlink:href');
                         attribute = attribute.substring(0, attribute.indexOf('#') + 1) + 'icon-' + selectedMode.toLowerCase();
-                        $('#mode-icon use').attr('xlink:href', attribute);
+                        $('#mode-icon2 use').attr('xlink:href', attribute);
                     } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
                         calcRoute(origin, 'DRIVING');
                     } else {
@@ -778,16 +778,16 @@
                         map.fitBounds(bounds);
                         polyline.setMap(map);
                         var distance = Math.round(google.maps.geometry.spherical.computeDistanceBetween(origin, eventPlace2) / 1000);
-                        $('#distance').text(distance + ' km');
-                        $('#estimateTime').text('');
-                        $('#find-flight').removeClass('hidden');
-                        $('#mode').addClass('hidden');
+                        $('#distance2').text(distance + ' km');
+                        $('#estimateTime2').text('');
+                        $('#find-flight2').removeClass('hidden');
+                        $('#mode2').addClass('hidden');
                     }
                 });
                 deleteMarkers();
-                $('#find-way').addClass('location-active');
+                $('#find-way2').addClass('location-active');
                 setDirectionInput(origin);
-                $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
+                $('#find-way2 h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
             
             function calcRouteFromMyLocation() {
@@ -852,17 +852,17 @@
                 });
             }
 
-            $('#mode-select').change(function() {
+            $('#mode-select2').change(function() {
                 var selectedMode = $(this).val();
                 calcRoute(origin, selectedMode);
             });
 
-            $("#direction-locate").click(calcRouteFromMyLocation);
+            $("#direction-locate2").click(calcRouteFromMyLocation);
 
-            $("#direction-cancel").click(function() {
-                $('#find-way').removeClass('location-active');
-                $('#location-input').val('');
-                $("#find-flight").addClass('hidden');
+            $("#direction-cancel2").click(function() {
+                $('#find-way2').removeClass('location-active');
+                $('#location-input2').val('');
+                $("#find-flight2").addClass('hidden');
                 deleteMarkers();
                 directionsDisplay.setMap(null);
                 polyline.setMap(null);
@@ -875,7 +875,7 @@
                 }
                 makeMarker(eventPlace2);
                 smoothZoom(5);
-                $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
+                $('#find-way2 h3').removeClass('fadeOutDown').addClass('fadeInUp');
             });
 
             if (typeof autoDirectionEnabled !== 'undefined' && autoDirectionEnabled == true) {
