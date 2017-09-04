@@ -263,7 +263,7 @@ teamBlockTitle: "Envie de participer ? "
 aboutUs: "Venez nous rencontrer. Des meetups sont organisés le long de l'année"
 
 # Logistics Find Way Block
-findWayTitle: "Comment s'y rendre"
+findWayTitle: "Jour 1 : Se rendre à l'ESTIA"
 findWayDistance: "Distance"
 findWayDriving: "EN VOITURE"
 findWayWalking: "A PIED"
@@ -278,9 +278,9 @@ logisticsMapAutoDirections: true
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Autour de l'ESTIA"
 directionDetailsCards:
- - {title: "Depuis l'aéroport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Transports en commun", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Train et aéroport", information: 'Les gare TGV et aéroport de Biarritz sont situés à 5 minutes.'}
+ - {title: "Par bus", information: 'La technopole Izarbel, et donc l'Estia, est desservie par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour. La ligne C vous permet d'attendre l'ESTIA. Depuis Saint Pierre d’Irube, Bayonne ou Anglet Ligne C (itinéraire) Saint Pierre d’Irube– mairie de Bayonne (correspondances) – Géant Casino (nationale 10) - Anglet mairie – Aéroport – Gare de Biarritz (correspondances) - Bidart Izarbel. Tous les arrêts de la ligne C sur le site web. http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=4 Consultez vos trajets et vos horaires en un seul clic sur internet www.chronoplus.eu et même depuis votre mobile sur www.chronoplus.mobi'}
+ - {title: "Par autoroute", information: 'Depuis Bordeaux : Autoroute A63, sortie n° 4 : Biarritz Parme à 2 minutes. Depuis Toulouse : Autoroute A64 jusqu'à Bayonne puis Autoroute A63 (direction Espagne), sortie n° 4 : Biarritz Parme à 2 minutes'}
 directionDetailsWideCards:
  -
   title: "Questions ?"
@@ -288,20 +288,21 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Fast Hotel"}
+     - {link: "http://www.fasthotel.com/aquitaine/hotels-biarritz-pas-cher", text: "Fast Hotel"}
+     - {link: "http://www.atlanthal.com/", text: "Athlantal"}
    -
     title: "Restauration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Le Spot"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Fast Hotel"}
+     - {link: "http://www.le-spot.rest", text: "Le Spot"}
+     - {link: "http://www.fasthotel.com/aquitaine/hotels-biarritz-pas-cher", text: "Fast Hotel"}
 
 # Logistics Direction Details Block
-directionDetails2Image: "direction-details.jpg"
-directionDetails2Title: "Autour de l'ESTIA"
+findWayTitle2: "Jour 2 : Se rendre à Atlanthal"
+directionDetails2Image: "direction-details-2.jpg"
+directionDetails2Title: "Autour d'Atlanthal"
 directionDetails2Cards:
- - {title: "Depuis l'aéroport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Transports en commun", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Par autoroute", information: '- Depuis Bordeaux : Autoroute A63 en direction de Bayonne. Prendre la sortie 6 : Bayonne-Nord. Continuer sur D810. Prendre Avenue Marcel Dassault et Avenue de l'Adour en direction de Boulevard des Plages à Anglet. Depuis Toulouse : Autoroute A64 jusqu'à Bayonne puis Autoroute A63 (direction Bordeaux), sortie n° 6 : Bayonne-Nord. Continuer sur D810. Prendre Avenue Marcel Dassault et Avenue de l'Adour en direction de Boulevard des Plages à Anglet.'}
+ - {title: "Par bus", information: 'Atlantal est desservi par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour. La ligne 10 vous permet d'atteindre l'hôtel. Depuis Bayonne ou Biarritz : Ligne 10 (itinéraire) : Bayonne Technocité – Gare de Biarritz (correspondances) – Anglet Chambre d'Amour – Anglet Les Cavaliers. Tous les arrêts de la ligne 10 sur le site web. http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=1 Consultez vos trajets et vos horaires en un seul clic sur internet www.chronoplus.eu et même depuis votre mobile sur www.chronoplus.mobi'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
