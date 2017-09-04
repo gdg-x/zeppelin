@@ -18,7 +18,8 @@
     "speakers": [43]
 }, {
     "id": 10151,
-    "title": "Carte, boussole et territoire : le voyage du Manager agile",
+    "title": "Carte, boussole et territoire",
+    "subtitle": "Le voyage du Manager agile",
     "description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
     "complexity": "Débutant",
     "subtype": "presentation",
@@ -27,9 +28,10 @@
     "place": "Amphi"
 }, {
     "id": 10152,
-    "title": "Software craftsmanship - Je commence par où?",
+    "title": "Software craftsmanship",
+    "subtitle": "Je commence par où ?",
     "description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
-    "complexity": "Intermédaire",
+    "complexity": "Intermédiaire",
     "subtype": "presentation",
     // "presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
     "speakers": [40]
@@ -51,23 +53,24 @@
     "speakers": [2, 23]
 }, {
     "id": 11151,
-    "title": "Où en est le contrat Agile en 2017?",
+    "title": "Où en est le contrat Agile en 2017 ?",
     "description": "La manière de contractualiser des développements Agile est un choix crucial qui peut avoir de lourdes conséquences sur la réussite d'un produit. Quel est l'état de l'art des différents type de contrats ? Quel niveau de compatibilité offrent-ils pour les développement d'un produit en méthode Agile ? En quoi un contrat Agile peut-il aider ? Quelles sont les règles de base d'un contrat Agile ? Cette conférence parcourra les bénéfices et inconvénients de chaque contrat en les illustrant à l'aide de cas réels.",
     "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [20, 31]
 }, {
     "id": 11152,
-    "title": "TDD et event sourcing dans la vraie vie",
+    "title": "TDD et event sourcing",
+    "subtitle": "Dans la vraie vie",
     "description": "Peut être vous êtes vous intéressé au Test Driven Development. Peut-être avez vous fait quelques katas, mais voilà, vous avez l’impression qu’un kata reste un exemple trop simple confronté à ce que vous vivez au quotidien.Dans cette session de live coding, je vous propose de découvrir mon quotidien de développeur pratiquant le TDD à 100%. Nous allons développer une fonctionnalité de bout en bout sur une application web, et peut être découvrir qu’il n’y a plus d’écart entre un kata et mon code de tous les jours. ",
-    "complexity": "Intermédaire",
+    "complexity": "Intermédiaire",
     "subtype": "presentation",
     "speakers": [28]
 }, {
     "id": 11153,
     "title": "Le Design Sprint du Géant agile ! ",
     "description": "Retour d'expérience sur la mise en oeuvre du Design Sprint au sein d'une grande DSI : UX et agilité à l'échelle ça fonctionne ? ",
-    "complexity": "Beginner",
+    "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [37, 6]
 }, {
@@ -96,7 +99,8 @@
     "speakers": [36]
 }, {
     "id": 13151,
-    "title": "Développeur après 30 ans, n'as-tu donc aucune ambition ?",
+    "title": "Développeur après 30 ans",
+    "subtitle": "N'as-tu donc aucune ambition ?",
     "description": "Dans l'univers informatique français, le métier de développeur est très peu valorisé.Il est considéré comme une basse tâche de réalisation réservée aux débutants et voué à disparaître avec l'avènement de la robotisation.Pour évoluer dans sa carrière, il faut ensuite s'orienter vers des \"vrais\" métiers comme le management ou l'expertise.A cette vision purement française des choses s'oppose une autre vision issue du Software Craftsmanship. Le développement est alors considéré comme un métier aux multiples facettes, en éternelle évolution et porteur d'avenir !",
     "complexity": "Débutant",
     "subtype": "keynote",
@@ -111,7 +115,8 @@
     "speakers": [5]
 }, {
     "id": 14302,
-    "title": "Entropie du logiciel : dette technique & complexité accidentelle",
+    "title": "Entropie du logiciel",
+    "subtitle" : "Dette technique & complexité accidentelle",
     "description": "Souvent mal comprise et confondue avec l’érosion du logiciel, la dette technique a mauvaise presse. Elle reste pourtant un processus essentiel (si maitrisé correctement) lors des développements.A contrario, l’entropie logicielle est un phénomène naturel conduisant progressivement le logiciel à perdre en maintenabilité et évolutivité. Nous étudierons les causes d’accélération de cette entropie, mais surtout, comment combattre ce processus qui finit par bloquer l’évolution du logiciel (et au passage sa rentabilité) ?Une conférence ouverte à tous (y compris non développeurs), pour s’intéresser à pourquoi et comment le code source d’un logiciel finit par être immaintenable.",
     "complexity": "Débutant",
     "subtype": "presentation",
@@ -132,29 +137,33 @@
     "speakers": [52, 32]
 }, {
     "id": 15301,
-    "title": "Ne créez pas un produit inutile! Concentrez vous sur la valeur",
+    "title": "Ne créez pas un produit inutile!",
+    "subtitle": "Concentrez vous sur la valeur",
     "description": "\"Il n’y a rien de plus inutile que de faire avec efficacité quelque chose qui ne doit pas du tout être fait.\" -Peter Drucker \nCette phrase vous parle ? Et bien venez ! \nNous parlerons de la vie du produit, de son idée à sa mise sur le marché en se concentrant sur la VALEUR. \n#LeanEntreprise #StoryMapping",
     "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [8]
 }, {
     "id": 15302,
-    "title": "Tests Tout-Terrain (Euskal Herria Edition)",
+    "title": "Tests Tout-Terrain",
+    "subtitle": "(Euskal Herria Edition)",
     "description": "# Tests Tout-Terrain Je fais des tests, mais: - Stubs, mock, fake, spy, property? je suis un peu paumé... - les tests unitaire, fonctionnels, techniques, de perfs, d'intégration c'est cher.- ca met 40 plombes! - Je débute, et franchement je ne sais pas par ou commencer. - legacy! FONCTION test_la_conf_TTT():    #Arrange    participants = genere_des_participants(2,MAX_DE_LA_SALLE) #au moins 2 orgas!    #Act    participants.viens_a_la_conf_TTT()     #Assert     POUR participant DANS participants:         ASSERT participant.a_appris_un_truc_sur_les_tests",
-    "complexity": "Beginner",
+    "complexity": "Débutant",
     "subtype": "presentation",
     // "presentation": "https://krilivye.github.io/TTT/",
     "speakers": [15]
 }, {
     "id": 16451,
-    "title": "Parce-qu'on ne change pas une culture comme on change une roue de voiture",
+    "title": "Parce-qu'on ne change pas une culture",
+    "subtitle": "Comme on change une roue de voiture",
     "description": "Les \"méthodes\" de conduite du changement fonctionnent très mal lorsque l'on cherche à faire bouger les mentalités. Expériences et théories sur la nature profonde du changement dans les groupes humains",
     "complexity": "Débutant",
     "subtype": "workshop",
     "speakers": [85]
 }, {
     "id": 16452,
-    "title": "The NoEstimates Game (En Francais!)",
+    "title": "The NoEstimates Game",
+    "subtitle": "(En Francais!)",
     "description": "Vous vous demandez ce que NoEstimates veut dire en pratique, ou pourquoi vous devriez l'utiliser ? Peut être vous avez entendu parler du buzz, vous avez lu l'excellent livre de Vasco Duarte ou vous voulez simplement comprendre comment mieux planifier et réduire les risques. Si c'est le cas, vous devriez participer à ce jeu multi-joueurs, il vous aidera à :* Apprendre les bases du NoEstimates et pourquoi le concept peut aider* Savoir comment créer une manière risquée de planifier* Comprendre comment réduire la variation qui affecte la livraison",
     "complexity": "Débutant",
     "subtype": "workshop",
@@ -162,28 +171,32 @@
     "speakers": [46]
 }, {
     "id": 16453,
-    "title": "Job Story : penser autrement l'expression du besoin agile",
+    "title": "Job Story",
+    "subtitle": "Penser autrement l'expression du besoin agile",
     "description": "Si vous avez déjà travaillé sur un projet agile, vous avez sans doute rencontré la User Story. Vous avez même peut-être utilisé des \"persona\", ces fiches de personnage qui représentent un de vos utilisateurs type. Ces formats ont marqué une vraie étape dans l'évolution de la spécification agile et sont le support actuellement le plus largement utilisé pour la formalisation du besoin en mode agile. Mais est-ce suffisant ? Est-ce que cela permet de capter l'essence du besoin ? Pas forcément ! La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !",
     "complexity": "Intermediate",
     "subtype": "presentation",
     "speakers": [30]
 }, {
     "id": 16454,
-    "title": "Mob Programming 101 (et en pratique)",
+    "title": "Mob Programming 101",
+    "subtitle": "(et en pratique)",
     "description": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur ! \nL'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
     "complexity": "Débutant",
     "subtype": "workshop",
     "speakers": [86]
 }, {
     "id": 17451,
-    "title": "Agile Exprès - comment réussir sa transformation agile en le faisant exprès",
+    "title": "Agile Exprès",
+    "subtitle": "Comment réussir sa transformation agile en le faisant exprès",
     "description": "L'agilité ne se fait pas toute seule, il faut l'instaurer avec soin et attention. Un regard sur les différentes façons d'implémenter l'agilité et les pièges à éviter. Intéressant pour les débutants aussi bien que les initiés, les développeurs aussi bien que les directeurs. Pas de connaissance particulière nécessaire, je parlerai de tous ce qu'il est nécessaire pour réussir une bonne et durable implémentation agile.L'idée de cette présentation est de partager un retour d'expérience et une vue étrangère tirés des discussions et questions posées sur les transitions vers l'agilité.",
     "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [18, 78]
 }, {
     "id": 17453,
-    "title": "Lean Takeoff : plongez dans un monde incertain",
+    "title": "Lean Takeoff",
+    "subtitle": "Plongez dans un monde incertain",
     "description": "Découvrez la posture entrepreneuriale du Lean Startup pour mitiger le risque marché avant le risque produit",
     "complexity": "Débutant",
     "subtype": "presentation",
@@ -209,12 +222,13 @@
     "id": 14301,
     "title": "Coaching à tous les étages",
     "description": "Cette présentation traitera des questions essentielles : de l’intégration d’un nouvel arrivant dans une entreprise, à l’encouragement de la progression individuelle, en passant par le bien-être au travail de tous. La solution miracle (ou une partie du miracle) ? Le pair coaching maison !\nNous vous expliquerons tout de ce système que nous avons mis en place l’an dernier et continuons à améliorer depuis.\nUn coach (coaché) et une coachée viennent vous présenter la méthode (“du bonheur”).",
-    "complexity": "Beginner",
+    "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [79, 80]
 }, {
     "id": 140,
     "title": "Forum Ouvert : Ordre du Jour",
+    "subtitle": "Les participants et orateurs co-définissent l'ordre du jour en amenant leurs idées.",
     "description": "Tous les participants se retrouvent en session plénière pour co-définir l'ordre du jour. Chaque partipant amène ses idées, questions, besoins à traiter. Tout le monde doit s'y retrouver dans les sujets à aborder pour un engagement maximal",
     "complexity": "Tous",
     "subtype": "workshop",
@@ -222,6 +236,7 @@
 }, {
     "id": 141,
     "title": "Forum Ouvert : Sessions",
+    "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
     "description": "Lors des sessions de travail les participants vont débattre des sujets.",
     "complexity": "Tous",
     "subtype": "workshop",
@@ -229,6 +244,7 @@
 }, {
     "id": 142,
     "title": "Forum Ouvert : Sessions (suite)",
+    "subtitle": "Des sessions de travail se forment par groupe de participants pour débattre des sujets.",
     "description": "Lors des sessions de travail les participants vont débattre des sujets.",
     "complexity": "Tous",
     "subtype": "workshop",
@@ -236,6 +252,7 @@
 }, {
     "id": 143,
     "title": "Forum Ouvert : Bilan",
+    "subtitle": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
     "description": "Les participants partagent leurs apprentissages en présentant la restitution co-réalisée",
     "complexity": "Tous",
     "subtype": "workshop",

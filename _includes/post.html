@@ -7,8 +7,8 @@
                     {% if include.isStaticPost == false %}
                     <div class="post-header">
                         <div class="published col-md-6 col-xs-6 pull-left">
-                            <span class="caption">Posted:</span>
-                            <span class="publish-date" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
+                            <span class="caption">Posté le :</span>
+                            <span class="publish-date" itemprop="datePublished">{{ page.date | date: "%d-%m-%Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
                         </div>
                         <div class="share col-md-6 col-xs-6 pull-right">
                             <ul class="social-links">
@@ -64,7 +64,7 @@
 
                 {% if include.isStaticPost == false %}
                     <div class="row text-center">
-                        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
+                        <p class="rss-subscribe">S'abonner <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
                         </p>
                     </div>
                 {% endif %}
