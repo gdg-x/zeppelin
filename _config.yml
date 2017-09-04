@@ -259,8 +259,8 @@ discusShortName: "agilepaysbasque"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "Envie de participer ? "
-aboutUs: "Venez nous rencontrer. Des meetups sont organisés le long de l'année"
+teamBlockTitle: "Envie de participer ?"
+aboutUs: ""
 
 # Logistics Find Way Block
 findWayTitle: ""
