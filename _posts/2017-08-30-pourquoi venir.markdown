@@ -3,6 +3,7 @@ layout: post
 title:  "Pourquoi (re)venir à Agile Pays Basque les 22/23 Septembre ?"
 date:   2017-08-30 09:00:00
 isStaticPost: false
+image: schedule.jpg
 ---
 
 Tout d’abord parce que Agile Pays Basque est une **conférence agile**.
@@ -25,13 +26,15 @@ Certaines conférences comportent en outre des “open spaces” (`forum ouvert`
 
 Cette conférence est profondément attachée à sa région et inclut une dimension de promotion locale de l’agilité :
 
-- `Tarif volontairement bas` afin de rester accessibles pour un maximum de personnes et d’organisations, possible notamment grâce au travail d’une petite équipe de passionnés
+- **Tarif volontairement bas** afin de rester accessibles pour un maximum de personnes et d’organisations, possible notamment grâce au travail d’une petite équipe de passionnés
 
-- Conférence à cheval sur un `week end` afin de permettre à ceux qui ne peuvent pas se libérer en semaine de participer à la conférence
+- **Conférence à cheval sur un week end** afin de permettre à ceux qui ne peuvent pas se libérer en semaine de participer à la conférence
 
-- Mise en avant assumée des `orateurs du Sud Ouest` de la France, au sein d’un programme qui comporte aussi bon nombre d’orateurs `reconnus au niveau national`
+- **Mise en avant assumée des orateurs du Sud Ouest** de la France, au sein d’un programme qui comporte aussi bon nombre d’orateurs `reconnus au niveau national`
 
 
 - **Fort ancrage local** : la conférence se fournit auprès de producteurs locaux et permet aux participants de goûter à la douceur de vivre locale (repas du vendredi soir par exemple, 2nde journée de l’édition 2016 incluant la possibilité de jouer à la pelote basque, etc.)
 
- En résumé, `Agile Pays Basque` est une conférence agile qui allie à programme varié et de qualité une très forte identité valorisant la dimension communautaire et la promotion du `Pays Basque`. Participer à Agile Pays Basque, c’est passer `2 jours entourés d’agilistes passionnés` qui prennent au pied de la lettre le motto `“we care we share”` dans un cadre magnifique !
+ En résumé, `Agile Pays Basque` est une conférence agile qui allie à programme varié et de qualité une très forte identité valorisant la dimension communautaire et la promotion du `Pays Basque`. 
+ 
+ Participer à Agile Pays Basque, c’est passer `2 jours entourés d’agilistes passionnés` qui prennent au pied de la lettre le motto `“we care we share”` dans un cadre magnifique !
