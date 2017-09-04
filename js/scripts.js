@@ -857,7 +857,7 @@
                 calcRoute2(origin, selectedMode);
             });
 
-            $("#direction-locate2").click(calcRouteFromMyLocation);
+            $("#direction-locate2").click(calcRoute2FromMyLocation);
 
             $("#direction-cancel2").click(function() {
                 $('#find-way2').removeClass('location-active');
