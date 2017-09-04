@@ -589,16 +589,16 @@
 
     //Google maps
     if (typeof googleMaps !== 'undefined') {
-        var map, autocomplete, directionsDisplay, geocoder, polyline, origin;
+        var map2, autocomplete2, directionsDisplay2, geocoder2, polyline2, origin2;
         var markers2 = [];
-        var directionsService = new google.maps.DirectionsService();
+        var directionsService2 = new google.maps.DirectionsService();
         var MY_MAPTYPE_ID = 'custom_style';
 
         function initialize2() {
-            directionsDisplay = new google.maps.DirectionsRenderer({
+            directionsDisplay2 = new google.maps.DirectionsRenderer({
                 suppressMarkers: true
             });
-            geocoder = new google.maps.Geocoder();
+            geocoder2 = new google.maps.Geocoder();
 
             polyline = new google.maps.Polyline({
                 strokeColor: '#03a9f4',
@@ -693,14 +693,14 @@
                 mapOptions.zoomControl = true;
             }
 
-            map = new google.maps.Map(document.getElementById('canvas-map2'), mapOptions);
+            map2 = new google.maps.Map(document.getElementById('canvas-map2'), mapOptions);
             var marker = new google.maps.Marker({
                 position: eventPlace2,
                 animation: google.maps.Animation.DROP,
                 icon: icon,
-                map: map
+                map: map2
             });
-            markers.push(marker);
+            markers2.push(marker);
             var defaultMapOptions = {
                 name: 'Default Style'
             };
@@ -709,15 +709,15 @@
             };
             var defaultMapType = new google.maps.StyledMapType(defaultOpts, defaultMapOptions);
             var zoomedMapType = new google.maps.StyledMapType(zoomedOpts, zoomedMapOptions);
-            map.mapTypes.set('default', defaultMapType);
-            map.mapTypes.set('zoomed', zoomedMapType);
+            map2.mapTypes.set('default', defaultMapType);
+            map2.mapTypes.set('zoomed', zoomedMapType);
             if (googleMaps === 'logistics') {
-                map.setMapTypeId('default');
+                map2.setMapTypeId('default');
                 var input = (document.getElementById('location-input2'));
-                autocomplete = new google.maps.places.Autocomplete(input);
-                google.maps.event.addListener(autocomplete, 'place_changed', function() {
+                autocomplete2 = new google.maps.places.Autocomplete(input);
+                google.maps.event.addListener(autocomplete2, 'place_changed', function() {
                     marker.setVisible(false);
-                    var place = autocomplete.getPlace();
+                    var place = autocomplete2.getPlace();
                     if (place.geometry == 'undefined' || !place.geometry) {
                         return;
                     }
@@ -727,12 +727,12 @@
                             (place.address_components[0] && place.address_components[0].short_name || ''), (place.address_components[1] && place.address_components[1].short_name || ''), (place.address_components[2] && place.address_components[2].short_name || '')
                         ].join(' ');
                     }
-                    geocoder.geocode({
+                    geocoder2.geocode({
                         'address': address
                     }, function(results, status) {
                         if (status == google.maps.GeocoderStatus.OK) {
-                            origin = results[0].geometry.location;
-                            calcRoute(origin, 'TRANSIT');
+                            origin2 = results[0].geometry.location;
+                            calcRoute(origin2, 'TRANSIT');
                         } else {
                             alert('Geocode was not successful for the following reason: ' + status);
                         }
@@ -740,7 +740,7 @@
                 });
 
             } else {
-                map.setMapTypeId('zoomed');
+                map2.setMapTypeId('zoomed');
             }
 
             function calcRoute2(origin, selectedMode) {
@@ -749,11 +749,11 @@
                     destination: eventPlace2,
                     travelMode: google.maps.TravelMode[selectedMode]
                 };
-                directionsService.route(request, function(response, status) {
+                directionsService2.route(request, function(response, status) {
                     if (status == google.maps.DirectionsStatus.OK) {
-                        map.setMapTypeId('zoomed');
-                        directionsDisplay.setMap(map);
-                        directionsDisplay.setDirections(response);
+                        map2.setMapTypeId('zoomed');
+                        directionsDisplay2.setMap(map2);
+                        directionsDisplay2.setDirections(response);
                         var leg = response.routes[0].legs[0];
                         makeMarker2(leg.start_location);
                         makeMarker2(leg.end_location);
@@ -767,7 +767,7 @@
                     } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
                         calcRoute2(origin, 'DRIVING');
                     } else {
-                        var path = polyline.getPath();
+                        var path = polyline2.getPath();
                         path.push(origin);
                         path.push(eventPlace2);
                         makeMarker2(origin);
@@ -775,8 +775,8 @@
                         var bounds = new google.maps.LatLngBounds();
                         bounds.extend(origin);
                         bounds.extend(eventPlace2);
-                        map.fitBounds(bounds);
-                        polyline.setMap(map);
+                        map2.fitBounds(bounds);
+                        polyline2.setMap(map2);
                         var distance = Math.round(google.maps.geometry.spherical.computeDistanceBetween(origin, eventPlace2) / 1000);
                         $('#distance2').text(distance + ' km');
                         $('#estimateTime2').text('');
@@ -793,8 +793,8 @@
             function calcRoute2FromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {
-                        origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                        calcRoute2(origin, 'TRANSIT');
+                        origin2 = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                        calcRoute2(origin2, 'TRANSIT');
                     });
                 }
             }
@@ -802,42 +802,42 @@
             function makeMarker2(position) {
                 var directionMarker = new google.maps.Marker({
                     position: position,
-                    map: map,
+                    map: map2,
                     icon: icon
                 });
-                markers.push(directionMarker);
+                markers2.push(directionMarker);
             }
 
             function addMarker2(location) {
                 var marker = new google.maps.Marker({
                     position: location,
-                    map: map
+                    map: map2
                 });
-                markers.push(marker);
+                markers2.push(marker);
             }
 
             function deleteMarkers2() {
-                for (var i = 0; i < markers.length; i++) {
-                    markers[i].setMap(null);
+                for (var i = 0; i < markers2.length; i++) {
+                    markers2[i].setMap(null);
                 }
-                markers = [];
+                markers2 = [];
             }
 
             function smoothZoom2(level) {
-                var currentZoom = map.getZoom(),
+                var currentZoom = map2.getZoom(),
                     timeStep = 50;
                 var numOfSteps = Math.abs(level - currentZoom);
                 var step = (level > currentZoom) ? 1 : -1;
                 for (var i = 0; i < numOfSteps; i++) {
                     setTimeout(function() {
                         currentZoom += step;
-                        map.setZoom(currentZoom);
+                        map2.setZoom(currentZoom);
                     }, (i + 1) * timeStep);
                 }
             }
 
             function setDirectionInput2(origin) {
-                geocoder.geocode({
+                geocoder2.geocode({
                     'latLng': origin
                 }, function(results, status) {
                     if (status == google.maps.GeocoderStatus.OK && results[1]) {
@@ -854,7 +854,7 @@
 
             $('#mode-select2').change(function() {
                 var selectedMode = $(this).val();
-                calcRoute2(origin, selectedMode);
+                calcRoute2(origin2, selectedMode);
             });
 
             $("#direction-locate2").click(calcRoute2FromMyLocation);
@@ -864,14 +864,14 @@
                 $('#location-input2').val('');
                 $("#find-flight2").addClass('hidden');
                 deleteMarkers2();
-                directionsDisplay.setMap(null);
-                polyline.setMap(null);
-                map.setMapTypeId('default');
-                map.panTo(eventPlace2);
+                directionsDisplay2.setMap(null);
+                polyline2.setMap(null);
+                map2.setMapTypeId('default');
+                map2.panTo(eventPlace2);
                 if ($(window).width() < 768) {
-                    map.setCenter(mobileCenterMap);
+                    map2.setCenter(mobileCenterMap);
                 } else {
-                    map.setCenter(centerMap);
+                    map2.setCenter(centerMap);
                 }
                 makeMarker2(eventPlace2);
                 smoothZoom2(5);
