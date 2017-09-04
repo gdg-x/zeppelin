@@ -732,7 +732,7 @@
                     }, function(results, status) {
                         if (status == google.maps.GeocoderStatus.OK) {
                             origin2 = results[0].geometry.location;
-                            calcRoute(origin2, 'TRANSIT');
+                            calcRoute2(origin2, 'TRANSIT');
                         } else {
                             alert('Geocode was not successful for the following reason: ' + status);
                         }
@@ -743,9 +743,9 @@
                 map2.setMapTypeId('zoomed');
             }
 
-            function calcRoute2(origin, selectedMode) {
+            function calcRoute2(origin2, selectedMode) {
                 var request = {
-                    origin: origin,
+                    origin: origin2,
                     destination: eventPlace2,
                     travelMode: google.maps.TravelMode[selectedMode]
                 };
@@ -765,19 +765,19 @@
                         attribute = attribute.substring(0, attribute.indexOf('#') + 1) + 'icon-' + selectedMode.toLowerCase();
                         $('#mode-icon2 use').attr('xlink:href', attribute);
                     } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
-                        calcRoute2(origin, 'DRIVING');
+                        calcRoute2(origin2, 'DRIVING');
                     } else {
                         var path = polyline2.getPath();
-                        path.push(origin);
+                        path.push(origin2);
                         path.push(eventPlace2);
-                        makeMarker2(origin);
+                        makeMarker2(origin2);
                         makeMarker2(eventPlace2);
                         var bounds = new google.maps.LatLngBounds();
-                        bounds.extend(origin);
+                        bounds.extend(origin2);
                         bounds.extend(eventPlace2);
                         map2.fitBounds(bounds);
                         polyline2.setMap(map2);
-                        var distance = Math.round(google.maps.geometry.spherical.computeDistanceBetween(origin, eventPlace2) / 1000);
+                        var distance = Math.round(google.maps.geometry.spherical.computeDistanceBetween(origin2, eventPlace2) / 1000);
                         $('#distance2').text(distance + ' km');
                         $('#estimateTime2').text('');
                         $('#find-flight2').removeClass('hidden');
@@ -786,7 +786,7 @@
                 });
                 deleteMarkers2();
                 $('#find-way2').addClass('location-active');
-                setDirectionInput2(origin);
+                setDirectionInput2(origin2);
                 $('#find-way2 h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
             
@@ -836,9 +836,9 @@
                 }
             }
 
-            function setDirectionInput2(origin) {
+            function setDirectionInput2(origin2) {
                 geocoder2.geocode({
-                    'latLng': origin
+                    'latLng': origin2
                 }, function(results, status) {
                     if (status == google.maps.GeocoderStatus.OK && results[1]) {
                         var arrAddress = results[1].address_components;
