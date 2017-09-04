@@ -590,11 +590,11 @@
     //Google maps
     if (typeof googleMaps !== 'undefined') {
         var map, autocomplete, directionsDisplay, geocoder, polyline, origin;
-        var markers = [];
+        var markers2 = [];
         var directionsService = new google.maps.DirectionsService();
         var MY_MAPTYPE_ID = 'custom_style';
 
-        function initialize() {
+        function initialize2() {
             directionsDisplay = new google.maps.DirectionsRenderer({
                 suppressMarkers: true
             });
@@ -743,7 +743,7 @@
                 map.setMapTypeId('zoomed');
             }
 
-            function calcRoute(origin, selectedMode) {
+            function calcRoute2(origin, selectedMode) {
                 var request = {
                     origin: origin,
                     destination: eventPlace2,
@@ -755,8 +755,8 @@
                         directionsDisplay.setMap(map);
                         directionsDisplay.setDirections(response);
                         var leg = response.routes[0].legs[0];
-                        makeMarker(leg.start_location);
-                        makeMarker(leg.end_location);
+                        makeMarker2(leg.start_location);
+                        makeMarker2(leg.end_location);
                         $('#distance2').text(leg.distance.text);
                         $('#estimateTime2').text(leg.duration.text);
                         $('#mode-select2').val(selectedMode);
@@ -765,13 +765,13 @@
                         attribute = attribute.substring(0, attribute.indexOf('#') + 1) + 'icon-' + selectedMode.toLowerCase();
                         $('#mode-icon2 use').attr('xlink:href', attribute);
                     } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
-                        calcRoute(origin, 'DRIVING');
+                        calcRoute2(origin, 'DRIVING');
                     } else {
                         var path = polyline.getPath();
                         path.push(origin);
                         path.push(eventPlace2);
-                        makeMarker(origin);
-                        makeMarker(eventPlace2);
+                        makeMarker2(origin);
+                        makeMarker2(eventPlace2);
                         var bounds = new google.maps.LatLngBounds();
                         bounds.extend(origin);
                         bounds.extend(eventPlace2);
@@ -784,22 +784,22 @@
                         $('#mode2').addClass('hidden');
                     }
                 });
-                deleteMarkers();
+                deleteMarkers2();
                 $('#find-way2').addClass('location-active');
-                setDirectionInput(origin);
+                setDirectionInput2(origin);
                 $('#find-way2 h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
             
-            function calcRouteFromMyLocation() {
+            function calcRoute2FromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {
                         origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                        calcRoute(origin, 'TRANSIT');
+                        calcRoute2(origin, 'TRANSIT');
                     });
                 }
             }
 
-            function makeMarker(position) {
+            function makeMarker2(position) {
                 var directionMarker = new google.maps.Marker({
                     position: position,
                     map: map,
@@ -808,7 +808,7 @@
                 markers.push(directionMarker);
             }
 
-            function addMarker(location) {
+            function addMarker2(location) {
                 var marker = new google.maps.Marker({
                     position: location,
                     map: map
@@ -816,14 +816,14 @@
                 markers.push(marker);
             }
 
-            function deleteMarkers() {
+            function deleteMarkers2() {
                 for (var i = 0; i < markers.length; i++) {
                     markers[i].setMap(null);
                 }
                 markers = [];
             }
 
-            function smoothZoom(level) {
+            function smoothZoom2(level) {
                 var currentZoom = map.getZoom(),
                     timeStep = 50;
                 var numOfSteps = Math.abs(level - currentZoom);
@@ -836,7 +836,7 @@
                 }
             }
 
-            function setDirectionInput(origin) {
+            function setDirectionInput2(origin) {
                 geocoder.geocode({
                     'latLng': origin
                 }, function(results, status) {
@@ -854,7 +854,7 @@
 
             $('#mode-select2').change(function() {
                 var selectedMode = $(this).val();
-                calcRoute(origin, selectedMode);
+                calcRoute2(origin, selectedMode);
             });
 
             $("#direction-locate2").click(calcRouteFromMyLocation);
@@ -863,7 +863,7 @@
                 $('#find-way2').removeClass('location-active');
                 $('#location-input2').val('');
                 $("#find-flight2").addClass('hidden');
-                deleteMarkers();
+                deleteMarkers2();
                 directionsDisplay.setMap(null);
                 polyline.setMap(null);
                 map.setMapTypeId('default');
@@ -873,17 +873,17 @@
                 } else {
                     map.setCenter(centerMap);
                 }
-                makeMarker(eventPlace2);
-                smoothZoom(5);
+                makeMarker2(eventPlace2);
+                smoothZoom2(5);
                 $('#find-way2 h3').removeClass('fadeOutDown').addClass('fadeInUp');
             });
 
             if (typeof autoDirectionEnabled !== 'undefined' && autoDirectionEnabled == true) {
-                calcRouteFromMyLocation();
+                calcRoute2FromMyLocation();
             }
         }
 
-        google.maps.event.addDomListener(window, 'load', initialize);
+        google.maps.event.addDomListener(window, 'load', initialize2);
     }
 
 })(jQuery);
