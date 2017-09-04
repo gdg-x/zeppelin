@@ -128,7 +128,7 @@ event2AddressCountry: "France"
 event2StartTime: "2017-09-23T09:00"
 event2DoorTime: "09:00"
 event2EndTime: "2017-09-23T18:00"
-event2PlaceCoordinates: "43.445995, -1.553750"
+event2PlaceCoordinates: "43.521377, -1.523359"
 
 mapCenterCoordinates: "43.445995, -1.553750"
 mapMobileCenterCoordinates: "43.445995, -1.553750"
