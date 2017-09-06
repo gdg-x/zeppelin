@@ -124,7 +124,7 @@
         });
         $('#tickets').appear(function() {
             ga('send', 'event', 'Tickets', 'appear');
-        }
+        });
         $('.animated').appear(function() {
             var element = $(this);
             var animation = element.data('animation');
@@ -283,6 +283,9 @@
     // Google maps static
     if (typeof staticGoogleMaps !== 'undefined') {
         $('#canvas-map').addClass('image-section').css('background-image','url(https://maps.googleapis.com/maps/api/staticmap?zoom=17&center=' + mobileCenterMapCoordinates +'&size=' + $(window).width() + 'x700&scale=2&language=en&markers=icon:' + icon +'|'+ eventPlaceCoordinates +'&maptype=roadmap&style=visibility:on|lightness:40|gamma:1.1|weight:0.9&style=element:labels|visibility:off&style=feature:water|hue:0x0066ff&style=feature:road|visibility:on&style=feature:road|element:labels|saturation:-30)');
+    }
+    if (typeof staticGoogleMaps !== 'undefined') {
+        $('#canvas-map2').addClass('image-section').css('background-image','url(https://maps.googleapis.com/maps/api/staticmap?zoom=17&center=' + mobileCenterMapCoordinates +'&size=' + $(window).width() + 'x700&scale=2&language=en&markers=icon:' + icon +'|'+ event2PlaceCoordinates +'&maptype=roadmap&style=visibility:on|lightness:40|gamma:1.1|weight:0.9&style=element:labels|visibility:off&style=feature:water|hue:0x0066ff&style=feature:road|visibility:on&style=feature:road|element:labels|saturation:-30)');
     }
 
     //Google maps
@@ -582,6 +585,305 @@
         }
 
         google.maps.event.addDomListener(window, 'load', initialize);
+    }
+
+    //Google maps
+    if (typeof googleMaps !== 'undefined') {
+        var map2, autocomplete2, directionsDisplay2, geocoder2, polyline2, origin2;
+        var markers2 = [];
+        var directionsService2 = new google.maps.DirectionsService();
+        var MY_MAPTYPE_ID = 'custom_style';
+
+        function initialize2() {
+            directionsDisplay2 = new google.maps.DirectionsRenderer({
+                suppressMarkers: true
+            });
+            geocoder2 = new google.maps.Geocoder();
+
+            polyline = new google.maps.Polyline({
+                strokeColor: '#03a9f4',
+                strokeOpacity: 1,
+                strokeWeight: 2
+            });
+
+            var defaultOpts = [{
+                stylers: [{
+                    lightness: 40
+                }, {
+                    visibility: 'on'
+                }, {
+                    gamma: 0.9
+                }, {
+                    weight: 0.4
+                }]
+            }, {
+                elementType: 'labels',
+                stylers: [{
+                    visibility: 'on'
+                }]
+            }, {
+                featureType: 'water',
+                stylers: [{
+                    color: '#5dc7ff'
+                }]
+            }, {
+                featureType: 'road',
+                stylers: [{
+                    visibility: 'off'
+                }]
+            }];
+
+            var zoomedOpts = [{
+                stylers: [{
+                    lightness: 40
+                }, {
+                    visibility: 'on'
+                }, {
+                    gamma: 1.1
+                }, {
+                    weight: 0.9
+                }]
+            }, {
+                elementType: 'labels',
+                stylers: [{
+                    visibility: 'off'
+                }]
+            }, {
+                featureType: 'water',
+                stylers: [{
+                    color: '#5dc7ff'
+                }]
+            }, {
+                featureType: 'road',
+                stylers: [{
+                    visibility: 'on'
+                }]
+            }, {
+                featureType: 'road',
+                elementType: "labels",
+                stylers: [{
+                    saturation: -30
+                }]
+            }];
+
+            var mapOptions = {
+                zoom: 17,
+                minZoom: 2,
+                scrollwheel: false,
+                panControl: false,
+                draggable: true,
+                zoomControl: false,
+                zoomControlOptions: {
+                    position: google.maps.ControlPosition.RIGHT_TOP
+                },
+                scaleControl: false,
+                mapTypeControl: false,
+                streetViewControl: false,
+                center: centerMap,
+                mapTypeControlOptions: {
+                    mapTypeIds: [google.maps.MapTypeId.ROADMAP, MY_MAPTYPE_ID]
+                },
+                mapTypeId: MY_MAPTYPE_ID
+            };
+            if ($(window).width() < 768) {
+                mapOptions.center = mobileCenterMap;
+            }
+            if (googleMaps == 'logistics') {
+                mapOptions.zoom = 5;
+                mapOptions.zoomControl = true;
+            }
+
+            map2 = new google.maps.Map(document.getElementById('canvas-map2'), mapOptions);
+            var marker = new google.maps.Marker({
+                position: eventPlace2,
+                animation: google.maps.Animation.DROP,
+                icon: icon,
+                map: map2
+            });
+            markers2.push(marker);
+            var defaultMapOptions = {
+                name: 'Default Style'
+            };
+            var zoomedMapOptions = {
+                name: 'Zoomed Style'
+            };
+            var defaultMapType = new google.maps.StyledMapType(defaultOpts, defaultMapOptions);
+            var zoomedMapType = new google.maps.StyledMapType(zoomedOpts, zoomedMapOptions);
+            map2.mapTypes.set('default', defaultMapType);
+            map2.mapTypes.set('zoomed', zoomedMapType);
+            if (googleMaps === 'logistics') {
+                map2.setMapTypeId('default');
+                var input = (document.getElementById('location-input2'));
+                autocomplete2 = new google.maps.places.Autocomplete(input);
+                google.maps.event.addListener(autocomplete2, 'place_changed', function() {
+                    marker.setVisible(false);
+                    var place = autocomplete2.getPlace();
+                    if (place.geometry == 'undefined' || !place.geometry) {
+                        return;
+                    }
+                    var address = '';
+                    if (place.address_components) {
+                        address = [
+                            (place.address_components[0] && place.address_components[0].short_name || ''), (place.address_components[1] && place.address_components[1].short_name || ''), (place.address_components[2] && place.address_components[2].short_name || '')
+                        ].join(' ');
+                    }
+                    geocoder2.geocode({
+                        'address': address
+                    }, function(results, status) {
+                        if (status == google.maps.GeocoderStatus.OK) {
+                            origin2 = results[0].geometry.location;
+                            calcRoute2(origin2, 'TRANSIT');
+                        } else {
+                            alert('Geocode was not successful for the following reason: ' + status);
+                        }
+                    });
+                });
+
+            } else {
+                map2.setMapTypeId('zoomed');
+            }
+
+            function calcRoute2(origin2, selectedMode) {
+                var request = {
+                    origin: origin2,
+                    destination: eventPlace2,
+                    travelMode: google.maps.TravelMode[selectedMode]
+                };
+                directionsService2.route(request, function(response, status) {
+                    if (status == google.maps.DirectionsStatus.OK) {
+                        map2.setMapTypeId('zoomed');
+                        directionsDisplay2.setMap(map2);
+                        directionsDisplay2.setDirections(response);
+                        var leg = response.routes[0].legs[0];
+                        makeMarker2(leg.start_location);
+                        makeMarker2(leg.end_location);
+                        $('#distance2').text(leg.distance.text);
+                        $('#estimateTime2').text(leg.duration.text);
+                        $('#mode-select2').val(selectedMode);
+                        $('#mode2').removeClass('hidden');
+                        var attribute = $('#mode-icon2 use').attr('xlink:href');
+                        attribute = attribute.substring(0, attribute.indexOf('#') + 1) + 'icon-' + selectedMode.toLowerCase();
+                        $('#mode-icon2 use').attr('xlink:href', attribute);
+                    } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
+                        calcRoute2(origin2, 'DRIVING');
+                    } else {
+                        var path = polyline2.getPath();
+                        path.push(origin2);
+                        path.push(eventPlace2);
+                        makeMarker2(origin2);
+                        makeMarker2(eventPlace2);
+                        var bounds = new google.maps.LatLngBounds();
+                        bounds.extend(origin2);
+                        bounds.extend(eventPlace2);
+                        map2.fitBounds(bounds);
+                        polyline2.setMap(map2);
+                        var distance = Math.round(google.maps.geometry.spherical.computeDistanceBetween(origin2, eventPlace2) / 1000);
+                        $('#distance2').text(distance + ' km');
+                        $('#estimateTime2').text('');
+                        $('#find-flight2').removeClass('hidden');
+                        $('#mode2').addClass('hidden');
+                    }
+                });
+                deleteMarkers2();
+                $('#find-way2').addClass('location-active');
+                setDirectionInput2(origin2);
+                $('#find-way2 h3').removeClass('fadeInUp').addClass('fadeOutDown');
+            }
+            
+            function calcRoute2FromMyLocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(function(position) {
+                        origin2 = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                        calcRoute2(origin2, 'TRANSIT');
+                    });
+                }
+            }
+
+            function makeMarker2(position) {
+                var directionMarker = new google.maps.Marker({
+                    position: position,
+                    map: map2,
+                    icon: icon
+                });
+                markers2.push(directionMarker);
+            }
+
+            function addMarker2(location) {
+                var marker = new google.maps.Marker({
+                    position: location,
+                    map: map2
+                });
+                markers2.push(marker);
+            }
+
+            function deleteMarkers2() {
+                for (var i = 0; i < markers2.length; i++) {
+                    markers2[i].setMap(null);
+                }
+                markers2 = [];
+            }
+
+            function smoothZoom2(level) {
+                var currentZoom = map2.getZoom(),
+                    timeStep = 50;
+                var numOfSteps = Math.abs(level - currentZoom);
+                var step = (level > currentZoom) ? 1 : -1;
+                for (var i = 0; i < numOfSteps; i++) {
+                    setTimeout(function() {
+                        currentZoom += step;
+                        map2.setZoom(currentZoom);
+                    }, (i + 1) * timeStep);
+                }
+            }
+
+            function setDirectionInput2(origin2) {
+                geocoder2.geocode({
+                    'latLng': origin2
+                }, function(results, status) {
+                    if (status == google.maps.GeocoderStatus.OK && results[1]) {
+                        var arrAddress = results[1].address_components;
+                        $.each(arrAddress, function(i, address_component) {
+                            if (address_component.types[0] == "locality") {
+                                $('#result-name2').text(address_component.long_name);
+                                return false;
+                            }
+                        });
+                    }
+                });
+            }
+
+            $('#mode-select2').change(function() {
+                var selectedMode = $(this).val();
+                calcRoute2(origin2, selectedMode);
+            });
+
+            $("#direction-locate2").click(calcRoute2FromMyLocation);
+
+            $("#direction-cancel2").click(function() {
+                $('#find-way2').removeClass('location-active');
+                $('#location-input2').val('');
+                $("#find-flight2").addClass('hidden');
+                deleteMarkers2();
+                directionsDisplay2.setMap(null);
+                polyline2.setMap(null);
+                map2.setMapTypeId('default');
+                map2.panTo(eventPlace2);
+                if ($(window).width() < 768) {
+                    map2.setCenter(mobileCenterMap);
+                } else {
+                    map2.setCenter(centerMap);
+                }
+                makeMarker2(eventPlace2);
+                smoothZoom2(5);
+                $('#find-way2 h3').removeClass('fadeOutDown').addClass('fadeInUp');
+            });
+
+            if (typeof autoDirectionEnabled !== 'undefined' && autoDirectionEnabled == true) {
+                calcRoute2FromMyLocation();
+            }
+        }
+
+        google.maps.event.addDomListener(window, 'load', initialize2);
     }
 
 })(jQuery);

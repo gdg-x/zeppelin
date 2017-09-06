@@ -17,25 +17,7 @@
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% endfor %}
-                
-                {% for wideCard in site.directionDetailsWideCards %}
-                <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
-                    <div class="card questions">
-                        <h4>{{ wideCard.title }}</h4>
-                        {% for subCard in wideCard.subCards %}
-                        {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
-                        <div class="col-md-{{ wideCardColWidth }} col-xs-12">
-                            <h5>{{ subCard.title }}</h5>
-                            <ul>
-                                {% for linkElement in subCard.links %}
-                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% endfor %}
+
             </div>
         </div>
     </div>

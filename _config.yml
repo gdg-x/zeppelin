@@ -52,8 +52,10 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Programme"}
  - {permalink: "/speakers/", text: "Orateurs"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/team/", text: "Equipe"}
 # - {permalink: "/logistics/", text: "S'y rendre"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule2016/", text: "2016"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Acheter un billet"}
@@ -114,7 +116,7 @@ eventAddressCountry: "France"
 eventStartTime: "2017-09-22T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2017-09-22T18:00"
-eventPlaceCoordinates: "43.445995, -1.553750"
+eventPlaceCoordinates: "43.446321, -1.553914"
 
 event2LocationName: "Atlanthal"
 event2LocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
@@ -126,7 +128,7 @@ event2AddressCountry: "France"
 event2StartTime: "2017-09-23T09:00"
 event2DoorTime: "09:00"
 event2EndTime: "2017-09-23T18:00"
-event2PlaceCoordinates: "43.445995, -1.553750"
+event2PlaceCoordinates: "43.521377, -1.523359"
 
 mapCenterCoordinates: "43.445995, -1.553750"
 mapMobileCenterCoordinates: "43.445995, -1.553750"
@@ -257,11 +259,11 @@ discusShortName: "agilepaysbasque"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "Envie de participer ? "
-aboutUs: "Venez nous rencontrer. Des meetups sont organisés le long de l'année"
+teamBlockTitle: "Envie de participer ?"
+aboutUs: ""
 
 # Logistics Find Way Block
-findWayTitle: "Comment s'y rendre"
+findWayTitle: ""
 findWayDistance: "Distance"
 findWayDriving: "EN VOITURE"
 findWayWalking: "A PIED"
@@ -276,34 +278,31 @@ logisticsMapAutoDirections: true
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Autour de l'ESTIA"
 directionDetailsCards:
- - {title: "Depuis l'aéroport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Transports en commun", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Train et aéroport", information: "La gare TGV Biarritz (La Negresse) est située à 5 minutes. <p>L'aéroport Biarritz (Parme) est situé à 10 minutes.</p>"}
+ - {title: "Par bus", information: "La technopole Izarbel, et donc l'Estia, est desservie par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour. <p>La ligne C vous permet d'attendre l'ESTIA. Tous les arrêts de la ligne C sur le site web. Consultez vos trajets et vos horaires en un seul clic sur internet <a href='http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=4'>www.chronoplus.eu</a> et même depuis votre mobile sur www.chronoplus.mobi.</p>"}
+ - {title: "Par autoroute", information: "<p><b>Depuis Bordeaux</b></p><p>Autoroute A63, sortie n° 4 : Biarritz Parme à 2 minutes.</p><p><b>Depuis Toulouse</b></p><p>Autoroute A64 jusqu'à Bayonne puis A63 (direction Espagne), sortie n° 4 : Biarritz Parme à 2 minutes</p>"}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Questions ?"
   subCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.fasthotel.com/aquitaine/hotels-biarritz-pas-cher", text: "Fast Hotel"}
+     - {link: "http://www.atlanthal.com/", text: "Athlantal"}
    -
-    title: "Registration"
+    title: "Restauration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.le-spot.rest", text: "Le Spot"}
+     - {link: "http://www.fasthotel.com/aquitaine/hotels-biarritz-pas-cher", text: "Fast Hotel"}
+
+# Logistics Direction Details Block
+findWayTitle2: ""
+directionDetails2Image: "direction-details-2.jpg"
+directionDetails2Title: "Autour d'Atlanthal"
+directionDetails2Cards:
+ - {title: "Par autoroute", information: "<p><b>Depuis Bordeaux</b> Autoroute A63 en direction de Bayonne.</p><p>Prendre la sortie 6 : Bayonne-Nord. Continuer sur D810. Prendre Avenue Marcel Dassault et Avenue de l'Adour en direction de Boulevard des Plages à Anglet.</p><p><b>Depuis Toulouse</b> Autoroute A64 jusqu'à Bayonne puis Autoroute A63 (direction Bordeaux), sortie n° 6 : Bayonne-Nord. Continuer sur D810. Prendre Avenue Marcel Dassault et Avenue de l'Adour en direction de Boulevard des Plages à Anglet.</p>"}
+ - {title: "Par bus", information: "<p>Atlantal est desservi par Chronoplus le réseau de transport de l’agglomération Côte Basque Adour.</p><p>La ligne 10 vous permet d'atteindre l'hôtel. Depuis Bayonne ou Biarritz : Ligne 10 (itinéraire) : Bayonne Technocité – Gare de Biarritz (correspondances) – Anglet Chambre d'Amour – Anglet Les Cavaliers.</p><p>Tous les arrêts de la ligne 10 sur le <a href='http://www.chronoplus.eu/horaires_ligne/?rub_code=6&lign_id=1'>site web</a>.</p><p>Consultez vos trajets et vos horaires en un seul clic sur internet <a href='www.chronoplus.eu'>Chronoplus</a> et même depuis votre mobile sur <a href='www.chronoplus.mobi'>Chronoplus Mobile</a></p>"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
