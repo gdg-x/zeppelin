@@ -51,10 +51,10 @@ becomeSpeaker: "Devenir Orateur"
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Programme"}
+ - {permalink: "/logistics/", text: "S'y rendre"}
  - {permalink: "/speakers/", text: "Orateurs"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/team/", text: "Equipe"}
-# - {permalink: "/logistics/", text: "S'y rendre"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule2016/", text: "2016"}
 bottomNavigationLinks:
