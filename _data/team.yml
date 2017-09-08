@@ -1,60 +1,87 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Amaka"
+  surname: "Uzoh"
+  title: "Co-Chair"
+  thumbnailUrl: team/Amaka.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amaka-cypriana-uzoh-25302631"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Abdul-Hakeem"
+  surname: "Buhari"
+  title: "Co-Chair"
+  thumbnailUrl: team/Buhari.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/abdul-hakeem-buhari"}
+    #- {name: "twitter", link: "https://github.com/ozasadnyy"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "MaryAnn"
+  surname: "Anugo"
+  title: "VP, Marketing"
+  thumbnailUrl: team/MaryAnn.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maryann-anugo-cams-82227050"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 5
+  name: "Kevin"
+  surname: "Chukuka"
+  title: "VP, Operations"
+  thumbnailUrl: team/Chukuka.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-chukuka-87263123"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 6
+  name: "Chuka"
+  surname: "Onugo"
+  title: "VP, Social"
+  thumbnailUrl: team/Chuka.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chukaonugu"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Yolanda"
+  surname: "Walker"
+  title: "VP, Sponsorship & Careers"
+  thumbnailUrl: team/Yolee.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ykwalker"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 8
+  name: "Robel"
+  surname: "Chiappini"
+  title: "VP, Sponsorships & Careers"
+  thumbnailUrl: team/Robel.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robel-chiappini-0833b825"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Nicholas"
+  surname: "Olson"
+  title: "VP, Technology"
+  thumbnailUrl: team/Nick.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nicksolson"}
+    - {name: "twitter", link: "https://twitter.com/nickolson"}

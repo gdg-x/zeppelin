@@ -1,50 +1,162 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+-
+  date: "2017-11-03"
+  dateReadable: "November 3"
+  tracks:
+    - {title: "Track 1", color: "#90be4e"}
+    - {title: "Track 2", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [300]
     }
     - {
         startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+        endTime: "15:00",
+        sessionIds: [301]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [302]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "20:00",
+        sessionIds: [303]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "22:00",
+        sessionIds: [304, 305]
+    }
+    - {
+        startTime: "22:00",
+        endTime: "00:00",
+        sessionIds: [306]
+    }
+    #- {
+    #	startTime: "10:00",
+    #	endTime: "10:45",
+    #	sessionIds: [002, 003, 004]
+    #}
+    #- {
+    #    startTime: "11:00",
+    #    endTime: "11:45",
+    #    sessionIds: [003, 404, 004]
+    #}
+    #- {
+    #	startTime: "12:00",
+    #	endTime: "11:45",
+    #	sessionIds: [307]
+    #}
+-
+  date: "2017-11-04"
+  dateReadable: "November 4"
+  tracks:
+    - {title: "Track 1", color: "#90be4e"}
+    - {title: "Track 2", color: "#03a9f4"}
+    - {title: "Track 3", color: "#03a9f4"}
+    - {title: "Track 4", color: "#03a9f4"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "08:30",
+        sessionIds: [300]
+    }
+    - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [401]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [402]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "11:30",
+        sessionIds: [403, 405, 406, 407]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "13:30",
+        sessionIds: [408]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "15:00",
+        sessionIds: [409, 410, 411, 412]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [413]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "17:00",
+        sessionIds: [414, 415, 416, 417]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "19:00",
+        sessionIds: [418]
+    }
+    - {
+        startTime: "19:00",
+        endTime: "20:00",
+        sessionIds: [413]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "22:00",
+        sessionIds: [419]
+    }
+    - {
+        startTime: "22:00",
+        endTime: "00:00",
+        sessionIds: [420]
+    }
+#    - {
+#    	startTime: "10:00",
+#    	endTime: "10:45",
+#    	sessionIds: [404, 002]
+#    }
+#    - {
+#    	startTime: "11:00",
+#    	endTime: "11:45",
+#    	sessionIds: [002, 003]
+#    }
+#    - {
+#        startTime: "13:00",
+#        endTime: "13:45",
+#        sessionIds: [003]
+#    }
+#    - {
+#    	startTime: "14:00",
+#    	endTime: "15:00",
+#    	sessionIds: [503]
+#    }
+-
+  date: "2017-11-05"
+  dateReadable: "November 5"
+  tracks:
+    - {title: "Track 1", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [500]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [501]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "14:00",
+        sessionIds: [502]
     }
