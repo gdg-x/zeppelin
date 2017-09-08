@@ -240,7 +240,8 @@ footerBlocks:
  -
   title: "Liens"
   links:
-   - {link: "https://www.meetup.com/fr-FR/Agile-Pays-Basque", text: "Meetups"}
+   - {link: "https://www.meetup.com/fr-FR/Agile-Pays-Basque/", text: "Meetups"}
+   - {link: "https://agile-paysbasque.slack.com/", text: "Slack"}
  -
   title: "Contacts"
   links:
