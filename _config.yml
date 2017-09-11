@@ -16,16 +16,16 @@ description: "The premier and longest running student-organized business confere
 baseurl: "/wabf25"
 url: "https://nickolson.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "nickolson.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "nickolson.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Wharton Africa Business Forum"
 organizerAlternateName: "Wharton Africa Business Forum"
 organizerDescription: "A Wharton student organization"
 organizerEmail: "wabf-info@wharton.upenn.edu"
-organizerLogo: "/img/seo/organizer-logo.png"
+#organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://whartonafrica.com"
 
 # Head
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/1lL8gHN106JdFNKX2"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
@@ -48,10 +48,17 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
+ -
+   subText: "Prior Years"
+   links:
+     - {link: "http://wabf2016.whartonafrica.com", text: "WABF 2016"}
+     - {link: "http://wabf2015.whartonafrica.com", text: "WABF 2015"}
+     - {link: "http://wabf2014.whartonafrica.com", text: "WABF 2014"}
+     - {link: "http://wabf2013.whartonafrica.com", text: "WABF 2013"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,7 +67,7 @@ eventDate: "November 3 - 5, 2017"
 typeoutTextValues: '"", "25", "2017"'
  # typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -109,8 +116,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Loews Hotel Philadelphia"
+venueFeatures: ["Ample space for all our events", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -235,7 +242,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Philadelphia"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Philadelphia International Airport only 7 miles from downtown Philly and it is easily reachable by car, public transport or taxi. More information is available from the <a href="https://https://www.phl.org/">airport website</a>.'}
+ - {title: "From the Airport", information: 'Philadelphia International Airport is only 7 miles from downtown Philly and it is easily reachable by car, public transport or taxi. More information is available from the <a href="https://https://www.phl.org/">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Philly so you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Philadelphia.'}
  - {title: "Hotels", information: 'Philly has lots of great hotels and hostels. More information will be available later.'}
 #directionDetailsWideCards:

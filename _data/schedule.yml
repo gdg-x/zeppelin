@@ -2,8 +2,8 @@
   date: "2017-11-03"
   dateReadable: "November 3"
   tracks:
-    - {title: "Track 1", color: "#90be4e"}
-    - {title: "Track 2", color: "#03a9f4"}
+    - {title: "Track 1", color: "#9f172e"}
+    - {title: "Track 2", color: "#9b9a3c"}
   timeslots:
     - {
         startTime: "12:00",
@@ -35,28 +35,13 @@
         endTime: "00:00",
         sessionIds: [306]
     }
-    #- {
-    #	startTime: "10:00",
-    #	endTime: "10:45",
-    #	sessionIds: [002, 003, 004]
-    #}
-    #- {
-    #    startTime: "11:00",
-    #    endTime: "11:45",
-    #    sessionIds: [003, 404, 004]
-    #}
-    #- {
-    #	startTime: "12:00",
-    #	endTime: "11:45",
-    #	sessionIds: [307]
-    #}
 -
   date: "2017-11-04"
   dateReadable: "November 4"
   tracks:
-    - {title: "Track 1", color: "#90be4e"}
-    - {title: "Track 2", color: "#03a9f4"}
-    - {title: "Track 3", color: "#03a9f4"}
+    - {title: "Track 1", color: "#9f172e"}
+    - {title: "Track 2", color: "#9b9a3c"}
+    - {title: "Track 3", color: "#60184c"}
     - {title: "Track 4", color: "#03a9f4"}
   timeslots:
     - {
@@ -119,31 +104,11 @@
         endTime: "00:00",
         sessionIds: [420]
     }
-#    - {
-#    	startTime: "10:00",
-#    	endTime: "10:45",
-#    	sessionIds: [404, 002]
-#    }
-#    - {
-#    	startTime: "11:00",
-#    	endTime: "11:45",
-#    	sessionIds: [002, 003]
-#    }
-#    - {
-#        startTime: "13:00",
-#        endTime: "13:45",
-#        sessionIds: [003]
-#    }
-#    - {
-#    	startTime: "14:00",
-#    	endTime: "15:00",
-#    	sessionIds: [503]
-#    }
 -
   date: "2017-11-05"
   dateReadable: "November 5"
   tracks:
-    - {title: "Track 1", color: "#90be4e"}
+    - {title: "Track 1", color: "#9f172e"}
   timeslots:
     - {
         startTime: "09:00",
