@@ -131,6 +131,8 @@ mentors:
     Today I work as a front-end developer at briisk.co. I like learning coding and I believe that we should encourage
     more girls to do so, that's why I want to take part in ngGirls. In my free time I love to read books, travel and practice yoga.
   </p>"
+  social:
+      - {name: "facebook", link: "https://www.facebook.com/wakecode/"}
   rockstar: true
   thumbnailUrl: Joanna.jpg
 
