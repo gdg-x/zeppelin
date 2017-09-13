@@ -21,31 +21,210 @@ partners:
 
 
 mentors:
-
-
 - id: 1
-  name: "Robert"
-  surname: "Willemelis"
-  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
-   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
-   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
-   So it is important to support them.</p>
-   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
-   <p>There are several projects with an impressive diversity support and very good material.<p>
-   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
-   in which he shows how important and good it can be to give something back to the community and how important
-   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
-"
-  thumbnailUrl: robert.png
-  rockstar: true
+  name: "Martin"
+  surname: "Sonnenholzer"
+  title: "Software developer"
+  company: "Idealo internet gmbh"
+  bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
+         What stayed the same since the beginning was the awesome community. But we need more diversity to make it even better.
+         So now it's my part to give back to the community.</p>"
   social:
-    - {name: "twitter", link: "https://twitter.com/robertSPD"}
-
-
+    - {name: "twitter", link: "https://twitter.com/Chaos_monster"}
+  rockstar: true
+  thumbnailUrl: martin.png
 
 - id: 2
+  name: "Eliza"
+  surname: "Krajewska"
+  title: "Frontend Developer"
+  company: "SmartRecruiters"
+  bio: "<p>
+    Frontend geek who is addicted to jade, sass and Angular from 1.0.* ofc! From my experience as frontend dev for almost 5 years,
+    I'm 100% sure is good place for girls. Just as with tech universities (believe me! I graduated one of them :)).
+    In free time I do photos, snowboarding and love traveling. I'm also interested in design and trendy stuff like animations!
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/lizz_ka"}
+  rockstar: true
+  thumbnailUrl: Eliza.jpg
+
+- id: 3
+  name: "Agostina"
+  surname: "Pranzetti"
+  title: "Angular UI Developer"
+  company: "Fleetmatics (A Verizon company)"
+  bio: "<p>
+    Im Agostina Pranzetti, Argentinian, 25 years old and Angular super-fan. Im participating in NgGirls because I want to
+    inspire other woman to join the IT market and also because I want some day to became a speaker in technology events.
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/agostinaluciap"}
+  rockstar: true
+  thumbnailUrl: Agostina.jpg
+
+- id: 4
+  name: "Adrian"
+  surname: "Ferreres"
+  title: "Angular Developer"
+  company: "GFT"
+  bio: "<p>
+    I'm Adrián Ferreres and asthma, star trek and video games (I'm not clear in what order) took me, at age 11, to start programming.
+    Since then I have not stopped (from having asthma, watching star trek, playing video games and programming).
+    In 2012 I left Java to start with JavaScript and I liked it ... a lot. I liked it so much that now I just do that.
+    Since 2015, with the beta 17, I have been doing company projects in Angular. I am also the founder of ngLabs,
+    a small community that collaborates with the meetup of AngularMadrid teaching how to code in Angular with Open Software projects.
+    </p><p>
+    The reason to participate in ngGirls is because the best way to improve as software developer is to help others.
+    In this job, where everyone is, at the same time, teacher and student, the best way to be better professional
+    (and better person) is to share knowledge to learn from the others.</p>
+  <p>(Remote mentor)</p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/ardiadrianadri"}
+  rockstar: true
+  thumbnailUrl: Adrian.jpg
+
+- id: 5
+  name: "Simona"
+  surname: "Cotin"
+  title: "Cloud Developer Advocate"
+  company: "Microsoft"
+  bio: "<p>I fell in love with programming while I was being tutored to pass the programming in C++ class.
+        That was 15 years ago. Ever since I have  coded in C++, Java, C#, Delphi, Python, PHP, Lisp,
+        Javascript and hoping to learn Go this year.</p>
+
+        <p>I am a self thought Angular developer with nearly 4 years experience.
+        Angular was love at first sight giving a complete new meaning to the Javascript world,
+        thanks to Kent Dodds and <a href='http://egghead.io' target='_blank'>egghead.io</a> - that's where I got hooked on Angular.</p>
+
+        <p>Looking forward to sharing the passion and knowledge with ngGirls &hearts;!</p>
+      "
+  social:
+    - {name: "twitter", link: "https://twitter.com/simona_cotin"}
+  rockstar: true
+  thumbnailUrl: simona.jpg
+
+- id: 6
+  name: "Kacper"
+  surname: "Sokołowski"
+  title: "Front-end developer"
+  company: "Codewise"
+  bio: "<p>
+    My name is Kacper Sokołowski and I am based in the beautiful city of Kraków, Poland. I am a front-end developer for Codewise.</p>
+    <p>Apart from that I am also an organiser of one of the biggest JS communities in Poland - KrakówJS.
+    I also speak at different JS conferences around the world.
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/kaapa-s"}
+  rockstar: true
+  thumbnailUrl: Kacper.jpg
+
+- id: 7
+  name: "Joanna"
+  surname: "Bochyńska"
+  title: "Front-end developer"
+  company: "Briisk"
+  bio: "<p>
+    My name is Joanna and few years ago I graduated from Indian Studies. However, working only as Hindi language teacher
+    and translator wasn't satisfying for me. This is why I tried few more jobs e.g. I worked as an account manager in a bank,
+    then an analyst and IT consultant in international companies. About a year ago I decided to start learning programming.
+    Today I work as a front-end developer at briisk.co. I like learning coding and I believe that we should encourage
+    more girls to do so, that's why I want to take part in ngGirls. In my free time I love to read books, travel and practice yoga.
+  </p>"
+  rockstar: true
+  thumbnailUrl: Joanna.jpg
+
+- id: 11
+  name: "Thomas"
+  surname: "Horvath"
+  bio: "<p>Front-End Developer from Dublin, Ireland.
+  Thomas has been working with Angular since its alpha stages last year and never looked back.
+  While it was a bumpy road, he is excited to share his learning experience with the ng world :)</p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/CriticalPix"}
+  rockstar: true
+  thumbnailUrl: thomas.jpg
+
+- id: 9
+  name: "Robert"
+  surname: "Willemelis"
+  title: "Frontend Dev"
+  company: "STRATO"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+         (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+         impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+         So it is important to support them.</p>
+         <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+         <p>There are several projects with an impressive diversity support and very good material.<p>
+         <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+         in which he shows how important and good it can be to give something back to the community and how important
+         it is to learn from other developers. And I think I could also learn as a mentor from the participants.
+         </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+  rockstar: true
+  thumbnailUrl: robert.png
+
+
+- id: 12
+  name: "Filip"
+  surname: "Mamcarczyk"
+  title: "Frontend Developer"
+  company: "Codewise"
+  bio: "<p>
+    Frontend Developer at Codewise, Angular enthusiast, board games lover. Always happy to share some knowledge and
+    experiences.
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/FilipMam"}
+  rockstar: true
+  thumbnailUrl: Filip.jpg
+
+- id: 13
+  name: "Ignacio"
+  surname: "Anaya"
+  title: "Full Stack Developer & Tech Trainer"
+  company: "Exact | Thinkful"
+  bio: "<p>
+    I am Full Stack Developer, Tech Trainer and Speaker. Passionate about code, teach and field hockey.
+    I am mostly working with JavaScript, Vue.js & Node.js but I like to contribute to any kind of dev community or OSS project.
+    I am also Auth0 Ambassador and Organizer at @Vuenos_Aires.
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/ianaya89"}
+  rockstar: true
+  thumbnailUrl: Ignacio.jpg
+
+- id: 20
   name: "And You?"
   surname: ""
-  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/sZ3tif1fC0ea9Ku13" target="_blank"> this form</a>.</p>'
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/jT8QRtMYX6gLs0Fg2" target="_blank"> this form</a>.</p>'
   thumbnailUrl: you.png
   rockstar: true
+
+
+
+#- id: 8
+#  name: "Mirosław"
+#  surname: "Bogacz"
+#  title: "JavaScript Developer"
+#  company: "Briisk"
+#  bio: "<p>
+#    In my opinion when you teach others you can learn the most. I am also a person who learnt on his own and I know how
+#    important it is to have someone helping you at the beginning of your programming adventure.
+#  </p>"
+#  rockstar: true
+#  thumbnailUrl: Miroslaw.jpg
+
+#- id: 10
+#  name: "Vitalii"
+#  surname: "Bobrov"
+#  title: "Senior JavaScript Developer"
+#  company: "Luxoft"
+#  bio: "<p>
+#
+#  </p>"
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/bobrov1989"}
+#  rockstar: true
+#  thumbnailUrl: Vitalii.jpg
