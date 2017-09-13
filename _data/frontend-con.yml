@@ -197,26 +197,24 @@ mentors:
   rockstar: true
   thumbnailUrl: Ignacio.jpg
 
+- id: 8
+  name: "Mirosław"
+  surname: "Bogacz"
+  title: "JavaScript Developer"
+  company: "Briisk"
+  bio: "<p>
+    In my opinion when you teach others you can learn the most. I am also a person who learnt on his own and I know how
+    important it is to have someone helping you at the beginning of your programming adventure.
+  </p>"
+  rockstar: true
+  thumbnailUrl: Miroslaw.png
+
 - id: 20
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/jT8QRtMYX6gLs0Fg2" target="_blank"> this form</a>.</p>'
   thumbnailUrl: you.png
   rockstar: true
-
-
-
-#- id: 8
-#  name: "Mirosław"
-#  surname: "Bogacz"
-#  title: "JavaScript Developer"
-#  company: "Briisk"
-#  bio: "<p>
-#    In my opinion when you teach others you can learn the most. I am also a person who learnt on his own and I know how
-#    important it is to have someone helping you at the beginning of your programming adventure.
-#  </p>"
-#  rockstar: true
-#  thumbnailUrl: Miroslaw.jpg
 
 #- id: 10
 #  name: "Vitalii"
