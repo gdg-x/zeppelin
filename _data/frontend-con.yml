@@ -209,22 +209,52 @@ mentors:
   rockstar: true
   thumbnailUrl: Miroslaw.png
 
+- id: 10
+  name: "Vitalii"
+  surname: "Bobrov"
+  title: "Senior JavaScript Developer"
+  company: "Luxoft"
+  bio: "<p>Vitalii is a front-end engineer from Mykolaiv, Ukraine. But currently, he lives and works in Wroclaw, Poland.
+  As a developer, he is really excited about all new technologies and fell in love with the open source community.
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/bobrov1989"}
+  rockstar: true
+  thumbnailUrl: Vitalii.png
+
+- id: 14
+  name: "Martin"
+  surname: "Hochel"
+  title: "Senior Software Engineer"
+  company: "ngPartyCz / EmbedIT"
+  bio: "<p>Martin is a software engineer with strong passion for JavaScript and clean code. He loves contributing to
+  open source (ngMetadata, SkateJS, Preact, Angular, React) and also runs ngParty meetup group in Prague.
+  Martin loves to travel the world and meeting new people at conferences. When he’s not busy preparing the next
+  meetup or talk, you might find him outside on his skate/snow/wake boards (depends on weather conditions yo!)
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/martin_hotell"}
+  rockstar: true
+  thumbnailUrl: Martin.jpg
+
+- id: 15
+  name: "Karol"
+  surname: "Ścipniak"
+  title: "frontend-developer"
+  company: "Netguru"
+  bio: "<p>I am a developer and guitarist. I like to travel, meet new people and enjoy my life.
+  I want to take part in ngGirls, because I think it's a brilliant idea - there are still definitely too little female
+  developers in our programmer's world. It is also a good opportunity for me to check my mentoring skills and share
+  knowledge with others.
+  </p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/KarolScipniak"}
+  rockstar: true
+  thumbnailUrl: Karol.png
+
 - id: 20
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/jT8QRtMYX6gLs0Fg2" target="_blank"> this form</a>.</p>'
   thumbnailUrl: you.png
   rockstar: true
-
-#- id: 10
-#  name: "Vitalii"
-#  surname: "Bobrov"
-#  title: "Senior JavaScript Developer"
-#  company: "Luxoft"
-#  bio: "<p>
-#
-#  </p>"
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/bobrov1989"}
-#  rockstar: true
-#  thumbnailUrl: Vitalii.jpg
