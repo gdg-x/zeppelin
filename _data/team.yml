@@ -85,7 +85,16 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/juliet-zawedde/"}
 -
-  id: 9
+  id: 10
+  name: "Nayeon"
+  surname: "Lee"
+  title: "VP, Venture Competition"
+  thumbnailUrl: team/Nayeon.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nayeon-lee-b9307014/"}
+-
+  id: 11
   name: "Nicholas"
   surname: "Olson"
   title: "VP, Technology"
@@ -95,7 +104,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicksolson"}
     - {name: "twitter", link: "https://twitter.com/nickolson"}
 -
-  id: 9
+  id: 12
   name: "Ransford"
   surname: "Antwi"
   title: "Director, Technology"
