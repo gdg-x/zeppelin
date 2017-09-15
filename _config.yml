@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "WABF25"
 email: "wabf-info@wharton.upenn.edu"
 description: "The premier and longest running student-organized business conference focused on Africa."
-baseurl: "/wabf25"
+baseurl: "/zeppelin"
 url: "https://nickolson.github.io"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
