@@ -77,6 +77,15 @@
     #- {name: "twitter", link: "http://olostan.name/"}
 -
   id: 9
+  name: "Juliet"
+  surname: "Zawedde"
+  title: "VP, Venture Competition"
+  thumbnailUrl: team/Juliet.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/juliet-zawedde/"}
+-
+  id: 9
   name: "Nicholas"
   surname: "Olson"
   title: "VP, Technology"
@@ -85,3 +94,12 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicksolson"}
     - {name: "twitter", link: "https://twitter.com/nickolson"}
+-
+  id: 9
+  name: "Ransford"
+  surname: "Antwi"
+  title: "Director, Technology"
+  thumbnailUrl: team/Ransford.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ransford-antwi-04975411a/"}

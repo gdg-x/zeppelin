@@ -1,9 +1,9 @@
 <!-- About Hackathon Section -->
 <section id="about-hackathon" class="about-hackathon">
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
+        <!-- <div class="col-md-8 col-md-offset-2">
             <h3>{{ site.aboutHackathonTitle }}</h3>
-            {% for row in site.hackathonRows %}
+             {% for row in site.hackathonRows %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
                 <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
@@ -16,6 +16,21 @@
             </div>
             {% endfor %}
         </div>
+        <div> -->
+        <div class="col-md-8 col-md-offset-2">
+          <h3>{{ site.aboutHackathonTitle }}</h3>
+        </div>
+        {% for row in site.hackathonRows %}
+          <div class="hackathon-row float-left col-md-10">
+            <div class="hackathon-details animated hiding" data-animation="fadeInRight" data-delay="0">
+              <h5>{{ row.title }}</h4>
+              <p>{{ row.details }}</p>
+            </div>
+          </div>
+        {% endfor %}
+        {% for button in site.vcButton %}
+          <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+        {% endfor %}
     </div>
 </section>
 <!-- End About Hackathon Section -->

@@ -37,7 +37,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://goo.gl/forms/1lL8gHN106JdFNKX2"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:yolandak@wharton.upenn.edu?Subject=Sponsorship"
 
 # Navigation
 navigationLinks:
@@ -47,7 +48,7 @@ navigationLinks:
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- # - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/venturecomp/", text: "Venture Competition"}
  -
    subText: "Prior Years"
    links:
@@ -115,9 +116,9 @@ venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Loews Hotel Philadelphia"
-venueFeatures: ["Ample space for all our events", "Located directly in the city center"]
+#venueSmallImage3: "venue_3.jpg"
+venueTitle: "2 Amazing Venues"
+venueFeatures: ["Loews Hotel Philadelphia for the conference, banquet, and gala", "Spirit of Philadelphia for the Alumni Brunch"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -271,42 +272,46 @@ directionDetailsCards:
 #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
 #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
-# Hackathon
+# Venture Competion
 hackathonTitle: "Hackathon"
 enableHackathon: true
 
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+# Venture Competition About Block
+aboutHackathonTitle: "Pitch your startup"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "What is it?", details: "At WABF25, we aim to connect promising early-stage African entrepreneurs to a powerful network of investors, mentors, and coaches to accelerate their growth, and provide them with resources they can use to develop into regional powerhouses.<br><br>As part of this initiative, the Wharton African Student Association is pleased to announce the <strong>4th Annual Venture Competition</strong> at this year’s conference. Contestants will submit an application outlining their start-up or idea, and we will select finalists to pitch to an experienced panel of judges and the audience at the conference.<br><br>If you believe that your idea has what it takes, please read through the eligibility details below. The application deadline is October 15, 2017 11:59 EST."}
+ - {title: "What do finalists receive?", details: "Finalists gain...<ul><li>The opportunity to present in front of top Africa-focused VCs and leading minds in entrepreneurship</li><li>Access to networking opportunities with others interested in African entrepreneurship</li></us>"}
+ - {title: "What are the prizes?", details: "The grand prize winner receives $10,000 of funding for their venture as well as the title of 2017 Wharton Africa Business Forum Venture Competition champion"}
 
-# Hackathon Judges Block
+# Venture Competition button
+vcButton:
+  - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Apply for the Venture Competition"}
+
+# Venture Competition Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
 
-# Hackathon Prizes Block
+# Venture Competition Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "Grand Prize", info: "$10,000 of funding for your venture"}
+ #- {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ #- {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
-# Hackathon Location Block
+# Venture Competition Location Block
 hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonLocationName: "The Wharton School - Jon M Huntsman Hall"
+hackathonLocationLink: "https://www.wharton.upenn.edu/"
+hackathonStreetAddress: "3730 Walnut St"
+hackathonAddressLocality: "Philadelphia"
+hackathonAddressLocalityRegion: "PA"
+hackathonPostalCode: "19104"
+hackathonAddressCountry: "USA"
+hackathonTimeTitle: "Pitches from"
+hackathonStartTime: "2017-11-03T15:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2017-11-03T18:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonPlaceCoordinates: "39.953286, -75.198208"
+hackathonMapCenterCoordinates: "39.9532, -75.1982"
+hackathonMapMobileCenterCoordinates: "39.9532, -75.1982"

@@ -5,11 +5,13 @@
     	background-position: 0 -1px;
     }
     &.logo-gray {
-    	background-position: 0 -63px;
-	}
-	&.logo-light {
-	    background-position: 0 -127px;
-	}
+    	// background-position: 0 -63px;
+      background-position: 0 -1px;
+	  }
+	  &.logo-light {
+	    // background-position: 0 -127px;
+      background-position: 0 -1px;
+	  }
 }
 .icon {
     display: inline-block;
