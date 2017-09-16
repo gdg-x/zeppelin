@@ -1,16 +1,14 @@
 -
   group: "General Sponsors"
   elements:
-    - {name: "IFC", description: "IFC", link: "https://http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png"}
-    - {name: "McKinsey", description: "McKinsey", link: "https://http://www.mckinsey.com/", imageUrl: "McKinsey.svg"}
-    - {name: "BCG", description: "BCG", link: "https://https://www.bcg.com/", imageUrl: "BCG.svg"}
-    #- {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#-
-#  group: "With support of"
-#  elements:
-#    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
+    - {name: "IFC", description: "IFC", link: "https://http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png", width: "200px"}
+    - {name: "McKinsey", description: "McKinsey", link: "https://http://www.mckinsey.com/", imageUrl: "McKinsey.svg", width: "200px"}
+    - {name: "BCG", description: "BCG", link: "https://https://www.bcg.com/", imageUrl: "BCG.svg", width: "200px"}
+-
+  group: "Logistics Sponsors"
+  elements:
+    - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", width: "200px"}
+    - {name: "Amtrak", description: "Amtrak", link: "https://www.amtrak.com/home/", imageUrl: "Amtrak.jpg", width: "200px"}
 #    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 #-
 #  group: "Information partners"
