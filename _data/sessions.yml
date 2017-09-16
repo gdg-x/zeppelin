@@ -127,7 +127,7 @@
 -
   id: 502
   title: "Alumni Brunch"
-  description: "Location: Spirit of Philadelphia (401 S Christopher Columbus Blvd, Philadelphia, PA 19106)"
+  place: "Spirit of Philadelphia (401 S Christopher Columbus Blvd, Philadelphia, PA 19106)"
   service: true
 -
   id: 600

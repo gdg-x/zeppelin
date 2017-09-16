@@ -18,6 +18,9 @@
 						{% if session.complexity != null %}
 						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
 						{% endif %}
+						{% if session.place != null %}
+						<span class="theme-metadata"><span class="caption">Location: </span>{{ session.place }}</span>
+						{% endif %}
 						{% if session.video %}
 						<div class="theme-video embed-responsive embed-responsive-16by9">
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
@@ -43,7 +46,7 @@
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
 					                            {% for ribbon in speaker.ribbon %}
-					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}
