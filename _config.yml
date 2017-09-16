@@ -69,7 +69,7 @@ typeoutTextValues: '"", "25", "2017"'
  # typeoutFallback: "Season"
 heroButtons:
  - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About WABF"
