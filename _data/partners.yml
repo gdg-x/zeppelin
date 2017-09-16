@@ -1,14 +1,14 @@
 -
   group: "General Sponsors"
   elements:
-    - {name: "IFC", description: "IFC", link: "https://http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png", height: "150px"}
-    - {name: "McKinsey", description: "McKinsey", link: "https://http://www.mckinsey.com/", imageUrl: "McKinsey.svg", height: "150px"}
-    - {name: "BCG", description: "BCG", link: "https://https://www.bcg.com/", imageUrl: "BCG.svg", height: "150px"}
+    - {name: "IFC", description: "IFC", link: "https://http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png", width: "200px"}
+    - {name: "McKinsey", description: "McKinsey", link: "https://http://www.mckinsey.com/", imageUrl: "McKinsey.svg", width: "200px"}
+    - {name: "BCG", description: "BCG", link: "https://https://www.bcg.com/", imageUrl: "BCG.svg", width: "150px"}
 -
   group: "Logistics Sponsors"
   elements:
-    - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", height: "150px"}
-    - {name: "Amtrak", description: "Amtrak", link: "https://www.amtrak.com/home/", imageUrl: "Amtrak.jpg", height: "150px"}
+    - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", width: "250px"}
+    - {name: "Amtrak", description: "Amtrak", link: "https://www.amtrak.com/home/", imageUrl: "Amtrak.jpg", width: "150px"}
 #    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 #-
 #  group: "Information partners"
