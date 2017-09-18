@@ -280,7 +280,7 @@ aboutHackathonTitle: "Pitch your startup"
 hackathonRows:
  - {title: "What is it?", details: "At WABF25, we aim to connect promising early-stage African entrepreneurs to a powerful network of investors, mentors, and coaches to accelerate their growth, and provide them with resources they can use to develop into regional powerhouses.<br><br>As part of this initiative, the Wharton African Student Association is pleased to announce <strong>the 4th Annual Venture Competition</strong> at this year’s conference. Contestants will submit an application outlining their start-up or idea, and we will select finalists to pitch to an experienced panel of judges and the audience at the conference.<br><br>If you believe that your idea has what it takes, please read through the eligibility details below. The application deadline is October 13, 2017 11:59 EST."}
  - {title: "Eligibility Criteria?", details: "<ul><li>Must be Africa-focused<li>Can be for-profit, non-profit, or social enterprise<li>Less than 5 years of operations<li>Less than $750,000 raised to date in external funding</li></us>"}
- - {title: "What are the prizes?", details: "Finalists gain...<ul><li>An opportunity to present in front of top Africa-focused VCs and leading minds in entrepreneurship<li>Invaluable feedback from a panel of experienced judges<li>An opportunity to participate in the Startup Fair<li>An opportunity to network with others interested in African entrepreneurship</li></us><strong>...and the grand prize winner will receive $10,000 in no-equity cash for their venture"}
+ - {title: "What are the prizes?", details: "Finalists gain...<ul><li>An opportunity to present in front of top Africa-focused VCs and leading minds in entrepreneurship<li>Invaluable feedback from a panel of experienced judges<li>An opportunity to participate in the Startup Fair<li>An opportunity to network with others interested in African entrepreneurship</li></us><strong>...and the grand prize winner will receive $10,000 in no-equity cash for their venture</strong>"}
  - {title: "What is the Startup Fair?", details: "The Startup Fair is an exclusive event for the top businesses that applied for the 2017 Wharton Africa Business Forum Venture Competition. Each participant will be given a booth to showcase their business. This event will serve as an opportunity to market your business, recruit talent, and connect with potential investors."}
  - {title: "Submission Instructions", details: "<ul><li>Deadline of Friday, October 13th, 11:59PM EST<li>5 page (maximum) PowerPoint presentation. This must include 1 page on the leadership team. There is no limit for the appendix which can be referred to during Q&A<li>PowerPoint presentation must highlight problem and solution proposed, and must demonstrate unique competitive advantage and potential for significant growth in the next five years</li></ul>"}
  - {title: "Competition Logistics", details: "<ul><li>Finalists will be notified by October 18th<li>At the conference, each contestant will present for 5 minutes, followed by 5 minutes for Question + Answer from the judges<li>Judges will select one winner for the grand prize</li></ul>"}
@@ -317,3 +317,14 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "39.9518, -75.1603"
 hackathonMapCenterCoordinates: "39.952497, -75.163725"
 hackathonMapMobileCenterCoordinates: "39.952497, -75.163725"
+
+# Venture Competition FAQs
+aboutVentureCompFAQsTitle: "FAQ"
+faqRows:
+ - {question: "What are the judging criteria?", answer: "<ul><li>Product/Service<li>Management Team<li>Market Opportunity<li>Competitive Edge<li>Risk/Reward<li>Financial/Feasibility<li>Impact</li></ul>"}
+ - {question: "Can I include a video?", answer: "Sure, absolutely!"}
+ - {question: "When will you notify finalists?", answer: "Finalists will be notified within a week of the application deadline"}
+ - {question: "Will the WABF Team help prepare startus for the pitch?", answer: "Yes, we will have another conference call session for each contestant before the competition"}
+ - {question: "Does it cost money to participate?", answer: "WABF Team will not charge anything from contestants, but you will be responsible for travel to the competition"}
+ - {question: "Any other questions?", answer: "Please contact us here", contactus: "mailto:wabfventurecompetition@gmail.com?Subject=WABF%20Venture%20Competition%20Question"}
+ - {answer: "We reserve the right to disqualify any team that misrepresents any internal or external data in its application"}

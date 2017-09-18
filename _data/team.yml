@@ -43,7 +43,7 @@
   thumbnailUrl: team/Halle.jpg
   subTeam: true
   social:
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/maryann-anugo-cams-82227050"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
     #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
