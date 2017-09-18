@@ -25,6 +25,28 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/abdul-hakeem-buhari"}
     #- {name: "twitter", link: "https://github.com/ozasadnyy"}
 -
+  id: 2
+  name: "Maryam"
+  surname: "Alausa"
+  title: "Chief of Staff"
+  thumbnailUrl: team/Maryam.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maryam-alausa-387111a7/"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 3
+  name: "Halle"
+  surname: "Aberhm"
+  title: "Chief of Staff"
+  thumbnailUrl: team/Halle.jpg
+  subTeam: true
+  social:
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/maryann-anugo-cams-82227050"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
   id: 4
   name: "MaryAnn"
   surname: "Anugo"

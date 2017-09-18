@@ -15,13 +15,13 @@
   service: true
 -
   id: 303
-  title: "Keynote"
-  place: "TBD"
+  title: "Keynote 1"
+  place: "Commonwealth Ballroom"
   service: true
 -
   id: 304
-  title: "VIP Reception"
-  place: "TBD"
+  title: "VIP Cocktail Reception"
+  place: "33rd Floor"
 -
   id: 305
   title: "Small Group Dinners"
@@ -34,12 +34,12 @@
 -
   id: 401
   title: "Welcome Address"
-  place: "TBD"
+  place: "Millennium Ballroom"
   service: true
 -
   id: 402
-  title: "Keynote"
-  place: "TBD"
+  title: "Keynote 2"
+  place: "Millennium Ballroom"
   service: true
 -
   id: 403
@@ -60,7 +60,7 @@
 -
   id: 408
   title: "Lunch and Keynote 3"
-  place: "TBD"
+  place: "Millennium Ballroom"
   service: true
 -
   id: 409
@@ -102,17 +102,17 @@
 -
   id: 418
   title: "Career Fair"
-  place: "TBD"
+  place: "Millennium Ballroom"
   service: true
 -
   id: 419
   title: "Gala & Awards Ceremony"
-  place: "TBD"
+  place: "Regency Ballroom"
   service: true
 -
   id: 420
   title: "After-Party"
-  place: "TBD"
+  place: "Millennium Ballroom"
   service: true
 -
   id: 500
@@ -127,7 +127,7 @@
 -
   id: 502
   title: "Alumni Brunch"
-  description: "Location: Spirit of Philadelphia (401 S Christopher Columbus Blvd, Philadelphia, PA 19106)"
+  place: "Spirit of Philadelphia (401 S Christopher Columbus Blvd, Philadelphia, PA 19106)"
   service: true
 -
   id: 600

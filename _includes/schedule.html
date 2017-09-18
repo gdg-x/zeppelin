@@ -52,7 +52,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
@@ -62,6 +62,9 @@
                                     <div class="color-line"></div>
                                     <div class="slot-content">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        {% if session.place != null %}
+                                        <p class="service-location">Location: {{ session.place }}</p>
+                                        {% endif %}
                                         {% if session.description != null %}
                                         <p class="service-description">{{ session.description }}</p>
                                         {% endif %}
