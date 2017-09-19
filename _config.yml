@@ -12,24 +12,24 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "API Addicts Day 2017"
 email: "jorge.baumann@apiaddicts.org"
-description: "El evento de APIs más grande"
+description: "Tu evento de APIs con un enfoque 360"
 baseurl: "/apiaddictsday17"
 url: "https://apiaddicts.github.io"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-43643469-5"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
-#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "API Addicts"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerAlternateName: "API Addicts"
+organizerDescription: "Comunidad abierta en la que tratamos con pasión todos los aspectos de una API con un enfoque 360º"
+organizerEmail: "jorge.baumann@apiaddicts.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.apiaddicts.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, meetup, developers, madrid"
 twitterAccount: "@apiaddicts"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -47,8 +47,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programación"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logistica"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/logistics/", text: "Logistica"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -58,26 +58,26 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "API Addicts Day <typeout> 2017"
 eventDate: "11 Octubre de 2017"
-#typeoutTextValues: '"", "(Definición)", "(Seguridad)", "(Negocio)", "USA"'
-#typeoutFallback: "Season"
+typeoutTextValues: '"", "(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
+typeoutFallback: "Definición"
 heroButtons:
- - {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Dar conferencia"}
- #- {permalink: "/#tickets", text: "Buy tickets"}
+ #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
+ - {permalink: "/#tickets", text: "Comprar entradas"}
 
 # About Block
 aboutTitle: "API Addicts Day"
 aboutBlock:
  - {title: "Conferencias", image: "conference.jpg", text: "Charlas diversas, por expertos de las APIs de empresas de todo el mundo!" }
  - {title: "Mesa Redonda", image: "workshop.jpg", text: "Debate, opina, pregunta. Mesa redonda con las APIs como parte del negocio" }
- - {title: "Taller", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
+ - {title: "TallerES", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "asistentes", detail: ""}
+ - {count: "150", specialCharacter: "+", info: "asistentes", detail: "de todos los perfiles"}
  - {count: "10", specialCharacter: "+", info: "horas", detail: "hablando de API's"}
  - {count: "9", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
- - {count: "3", specialCharacter: "", info: "tracks simultáneos", detail: "API 360º"}
+ - {count: "2", specialCharacter: "", info: "tracks simultáneos", detail: "Taller / Charla"}
 
 # Latest News Block
 latestNewsTitle: "Últimas Noticias"
@@ -85,7 +85,7 @@ latestNewsTitle: "Últimas Noticias"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 6
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
@@ -105,24 +105,24 @@ mapCenterCoordinates: "40.4125986, -3.7182459000000563"
 mapMobileCenterCoordinates: "40.4125986, -3.7182459000000563"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Dónde"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Campus Madrid"
+venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el centro de Madrid"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Sigue el evento"
+twitterHashTag: "apiaddictsday17"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Patrocinar"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -174,7 +174,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://facebook.com/apiaddicts", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -197,7 +197,7 @@ footerBlocks:
 # Blog
 blogTitle: "Últimas Noticias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "apiaddicts"
 
 # Speakers List Block
 showSessions: true
