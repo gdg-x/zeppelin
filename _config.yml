@@ -188,14 +188,14 @@ footerBlocks:
   title: "Contacto"
   links:
    - {link: "mailto:jorge.baumann@apiaddicts.org", text: "jorge.baumann@apiaddicts.org"}
-   - {link: "mailto:jorge.baumann@apiaddicts.org", text: "jorge.baumann@apiaddicts.org"}
+   - {link: "mailto:marcoantonio.sanz@apiaddicts.org", text: "marcoantonio.sanz@apiaddicts.org"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conducta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas Noticias"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
@@ -203,8 +203,15 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre Nosotros"
+aboutUs: "En los últimos años, las APIs se han convertido en una forma revolucionaria de negocio para las empresas.
+  El número de innovaciones tecnológicas y de industrias que están creciendo gracias al poder de las APIs es enorme.
+  Cada vez se abren más puertas de negocio gracias a las APIs.
+  Por eso que en API Addicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
+  formatos. Somos amantes y expertos de las APIs. Así se creó el grupo, por el interés de crear una comunidad abierta
+  donde todos puedan participar y aprender acerca de las APIs. Actualmente somos el mayor grupo hispano hablante a nivel nacional,
+  y pronto lo seremos a nivel mundial. Si no nos conoces, puedes saber más sobre nosotros en nuestra y ver lo que hacemos
+  en nuestro canal de youtube"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -253,7 +260,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
