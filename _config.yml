@@ -326,5 +326,5 @@ faqRows:
  - {question: "When will you notify finalists?", answer: "Finalists will be notified within a week of the application deadline"}
  - {question: "Will the WABF Team help prepare contestants for the pitch?", answer: "Yes, we will have another conference call session for each contestant before the competition"}
  - {question: "Does it cost money to participate?", answer: "WABF Team will not charge anything from contestants, but you will be responsible for travel to the competition"}
- - {question: "Any other questions?", answer: "Please contact us here", contactus: "mailto:wabfventurecompetition@gmail.com?Subject=WABF%20Venture%20Competition%20Question"}
+ - {question: "Any other questions?", answer: "Please contact us here (wabfventurecompetition@gmail.com)", contactus: "mailto:wabfventurecompetition@gmail.com?Subject=WABF%20Venture%20Competition%20Question"}
  - {answer: "We reserve the right to disqualify any team that misrepresents any internal or external data in its application"}
