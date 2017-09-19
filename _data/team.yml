@@ -1,29 +1,29 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  name: "Jorge"
+  surname: "Baumann"
+  title: "Desarrollo Web"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/baumannzone"}
+    - {name: "github", link: "https://github.com/baumannzone"}
+    - {name: "site", link: "http://baumannzone.com/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
+  name: "Marco Antonio"
+  surname: "Sanz"
+  title: "CEO"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/marantonio82"}
+    - {name: "site", link: "https://cloudappi.net"}
 - 
   id: 2
   name: "Ostap"
