@@ -13,12 +13,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "API Addicts Day 2017"
 email: "jorge.baumann@apiaddicts.org"
 description: "El evento de APIs más grande"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+baseurl: "/apiaddictsday17"
+url: "https://apiaddicts.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "gdg-x.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "API Addicts"
