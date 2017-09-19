@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Compórtate
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__En pocas palabras: respeta a los demás. [Leer versión completa](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
 
+En API Addicts podemos decir bien alto que somos una comunidad abierta y respetuosa. Por eso, los comportamientos groseros,
+abusivos, de escándalo público o que puedan faltar el respeto a otras personas, no están permitidos.  
+En realidad, sabemos que es obvio y nos parece absurdo tener que explicar esto aquí. Pero si no te comportas, 
+tomaremos las medidas necesarias.  
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+En cualquier caso, alguien te ha molestado o crees que está molestando a alguien, avísanos y nosotros nos ocuparemos.  
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
-
-
-######Contacts:
-
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+###### Contacto
+- Jorge Baumann, 658 812 217 [jorge.baumann@apiaddicts.org](mailto:jorge.baumann@apiaddicts.org)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

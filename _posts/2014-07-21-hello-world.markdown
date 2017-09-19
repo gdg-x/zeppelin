@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "{response: 'Hello World!'}"
 date:   2014-07-21 08:00:00
 isStaticPost: false
 ---
 
-We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+Hola! Estamos muy contentos de anunciar el mayor evento de APIs, en Madrid, el 11 de Ocubre de 2017.
+Ya falta muy poco y estmaos terminando de encajar las piezas que falta.
 
 This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
 
