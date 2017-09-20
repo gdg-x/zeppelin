@@ -1,5 +1,17 @@
 -
   id: 0
+  name: "Abdul-Hakeem"
+  surname: "Buhari"
+  title: "Co-Chair"
+  thumbnailUrl: team/Buhari.jpg
+  team: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/abdul-hakeem-buhari"}
+    #- {name: "twitter", link: "https://github.com/ozasadnyy"}
+-
+  id: 1
   name: "Amaka"
   surname: "Uzoh"
   title: "Co-Chair"
@@ -13,60 +25,27 @@
     #- {name: "github", link: "https://github.com/zasadnyy"}
     #- {name: "site", link: "http://zasadnyy.com/"}
 -
-  id: 1
-  name: "Abdul-Hakeem"
-  surname: "Buhari"
-  title: "Co-Chair"
-  thumbnailUrl: team/Buhari.jpg
-  team: true
-  #ribbon:
-  #  - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/abdul-hakeem-buhari"}
-    #- {name: "twitter", link: "https://github.com/ozasadnyy"}
--
   id: 2
-  name: "Maryam"
-  surname: "Alausa"
-  title: "Chief of Staff"
-  thumbnailUrl: team/Maryam.jpg
-  subTeam: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/maryam-alausa-387111a7/"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 3
   name: "Halle"
   surname: "Aberhm"
   title: "Chief of Staff"
   thumbnailUrl: team/Halle.jpg
-  subTeam: true
+  orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
     #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
-  id: 4
-  name: "MaryAnn"
-  surname: "Anugo"
-  title: "VP, Marketing"
-  thumbnailUrl: team/MaryAnn.jpg
-  subTeam: true
+  id: 3
+  name: "Maryam"
+  surname: "Alausa"
+  title: "Chief of Staff"
+  thumbnailUrl: team/Maryam.jpg
+  orgTeam: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/maryann-anugo-cams-82227050"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maryam-alausa-387111a7/"}
     #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 5
-  name: "Kevin"
-  surname: "Chukuka"
-  title: "VP, Operations"
-  thumbnailUrl: team/Chukuka.jpg
-  subTeam: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-chukuka-87263123"}
-    #- {name: "twitter", link: "http://olostan.name/"}
 -
   id: 6
   name: "Chuka"
@@ -78,24 +57,14 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/chukaonugu"}
     #- {name: "twitter", link: "http://olostan.name/"}
 -
-  id: 7
-  name: "Yolanda"
-  surname: "Walker"
-  title: "VP, Sponsorship & Careers"
-  thumbnailUrl: team/Yolee.jpg
+  id: 5
+  name: "Kevin"
+  surname: "Chukuka"
+  title: "VP, Operations"
+  thumbnailUrl: team/Chukuka.jpg
   subTeam: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ykwalker"}
-    #- {name: "twitter", link: "http://olostan.name/"}
--
-  id: 8
-  name: "Robel"
-  surname: "Chiappini"
-  title: "VP, Sponsorships & Careers"
-  thumbnailUrl: team/Robel.jpg
-  subTeam: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/robel-chiappini-0833b825"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-chukuka-87263123"}
     #- {name: "twitter", link: "http://olostan.name/"}
 -
   id: 9
@@ -106,6 +75,17 @@
   subTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/juliet-zawedde/"}
+-
+  id: 4
+  name: "MaryAnn"
+  surname: "Anugo"
+  title: "VP, Marketing"
+  thumbnailUrl: team/MaryAnn.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maryann-anugo-cams-82227050"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 10
   name: "Nayeon"
@@ -126,11 +106,31 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicksolson"}
     - {name: "twitter", link: "https://twitter.com/nickolson"}
 -
+  id: 8
+  name: "Robel"
+  surname: "Chiappini"
+  title: "VP, Sponsorships & Careers"
+  thumbnailUrl: team/Robel.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robel-chiappini-0833b825"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 7
+  name: "Yolanda"
+  surname: "Walker"
+  title: "VP, Sponsorship & Careers"
+  thumbnailUrl: team/Yolee.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ykwalker"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
   id: 12
   name: "Ransford"
   surname: "Antwi"
   title: "Director, Technology"
   thumbnailUrl: team/Ransford.jpg
-  subTeam: true
+  orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/ransford-antwi-04975411a/"}
