@@ -11,3 +11,9 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
+## Editor ##
+.idea/
+
+### MacOS ###
+.DS_Store

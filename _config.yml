@@ -10,45 +10,45 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "API Addicts Day 2017"
+email: "jorge.baumann@apiaddicts.org"
+description: "Tu evento de APIs con un enfoque 360"
+baseurl: "/apiaddictsday17"
+url: "https://apiaddicts.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "API Addicts"
+organizerAlternateName: "API Addicts"
+organizerDescription: "Comunidad abierta en la que tratamos con pasión todos los aspectos de una API con un enfoque 360º"
+organizerEmail: "jorge.baumann@apiaddicts.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.apiaddicts.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, meetup, developers, madrid"
+twitterAccount: "@apiaddicts"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/schedule/", text: "Programación"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
+ #- {permalink: "/logistics/", text: "Logistica"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,73 +56,73 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "API Addicts Day <typeout> 2017"
+eventDate: "11 Octubre de 2017"
+typeoutTextValues: '"", "(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
+typeoutFallback: "Definición"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
+ - {permalink: "/#tickets", text: "Comprar entradas"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "API Addicts Day"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferencias", image: "conference.jpg", text: "Charlas diversas, por expertos de las APIs de empresas de todo el mundo!" }
+ - {title: "Mesa Redonda", image: "workshop.jpg", text: "Debate, opina, pregunta. Mesa redonda con las APIs como parte del negocio" }
+ - {title: "TallerES", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "150", specialCharacter: "+", info: "asistentes", detail: "de todos los perfiles"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "hablando de API's"}
+ - {count: "9", specialCharacter: "+", info: "ponentes", detail: "de todo el mundo"}
+ - {count: "2", specialCharacter: "", info: "tracks simultáneos", detail: "Taller / Charla"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas Noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 6
+rockstarSpeakersTitle: "Ponentes"
+rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+locationBlockTitle: "Ubicación"
+eventLocationName: "Campus Madrid"
+eventLocationLink: "https://www.campus.co/madrid/es"
+eventStreetAddress: "Calle Moreno Nieto, 2"
+eventAddressLocality: "Madrid"
+eventAddressLocalityRegion: "Madrid"
+eventPostalCode: "28005"
+eventAddressCountry: "España"
+eventStartTime: "2017-10-11T10:00"
+eventDoorTime: "09:30"
+eventEndTime: "2017-10-11T21:00"
+eventPlaceCoordinates: "40.4125986, -3.7182459000000563"
+mapCenterCoordinates: "40.4125986, -3.7182459000000563"
+mapMobileCenterCoordinates: "40.4125986, -3.7182459000000563"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Dónde"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Campus Madrid"
+venueFeatures: ["Sala de conferencias", "Espacio para emprendedores", "En el centro de Madrid"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Sigue el evento"
+twitterHashTag: "apiaddictsday17"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Patrocinar"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -174,36 +174,45 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos", icon: "youtube"}
+ - {link: "https://facebook.com/apiaddicts", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://apiaddicts.org", text: "API Addicts"}
+   - {link: "https://www.meetup.com/es-ES/preview/ApiAddicts", text: "Grupo de Meetup"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:jorge.baumann@apiaddicts.org", text: "jorge.baumann@apiaddicts.org"}
+   - {link: "mailto:marcoantonio.sanz@apiaddicts.org", text: "marcoantonio.sanz@apiaddicts.org"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conducta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas Noticias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "apiaddicts"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre Nosotros"
+aboutUs: "En los últimos años, las APIs se han convertido en una forma revolucionaria de negocio para las empresas.
+  El número de innovaciones tecnológicas y de industrias que están creciendo gracias al poder de las APIs es enorme.
+  Cada vez se abren más puertas de negocio gracias a las APIs.
+  Por eso que en API Addicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
+  formatos. Somos amantes y expertos de las APIs. Así se creó el grupo, por el interés de crear una comunidad abierta
+  donde todos puedan participar y aprender acerca de las APIs. Actualmente somos el mayor grupo hispano hablante a nivel nacional,
+  y pronto lo seremos a nivel mundial. Si no nos conoces, puedes saber más sobre nosotros en nuestra y ver lo que hacemos
+  en nuestro canal de youtube"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -252,7 +261,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
