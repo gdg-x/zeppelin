@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Actinuum"
+title:  "Actinuum un cabinet de formation agile référencé par le Fafiec"
 date:   2017-09-08 09:00:00
 isStaticPost: false
 category: sponsor
-image: actinuum-header.png
+image: actinuum-header.jpg
 ---
 
 **Pourriez-vous vous présenter et expliquer aux participants d'Agile pays Basque qui vous êtes et pourquoi vous soutenez la communauté Agile ?**

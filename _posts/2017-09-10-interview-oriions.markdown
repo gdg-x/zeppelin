@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oriions"
+title:  "Oriions sponsorise Agile Pays Basque"
 date:   2017-09-08 09:00:00
 isStaticPost: false
 category: sponsor
