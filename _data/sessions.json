@@ -5,8 +5,13 @@
     "subtype": "presentation",
     "speakers": [0]
 }, {
-    "id": 3,
-    "title": "Accueil",
+    "id": 8001,
+    "title": "Accueil (ESTIA 1)",
+    "service": "true"
+}, {
+    "id": 8201,
+    "title": "Mot de l'orga - Présentation des sponsors",
+    "description": "Pitch des sessions du matin",
     "service": "true"
 }, {
     "id": 9001,
@@ -36,7 +41,7 @@
     // "presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
     "speakers": [40]
 }, {
-    "id": 10153,
+    "id": 10154,
     "title": "Il était une fois la vie d'un Product Owner",
     "description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
     "complexity": "Débutant",
@@ -44,7 +49,7 @@
     // "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
     "speakers": [17]
 }, {
-    "id": 10154,
+    "id": 10153,
     "title": "Coaching Dojo",
     "description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui désirent découvrir, apprendre, développer, … des techniques de coaching qui les aideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching Dojo sur Bordeaux.",
     "complexity": "Débutant",
@@ -67,7 +72,7 @@
     "subtype": "presentation",
     "speakers": [28]
 }, {
-    "id": 11153,
+    "id": 11154,
     "title": "Le Design Sprint du Géant agile ! ",
     "description": "Retour d'expérience sur la mise en oeuvre du Design Sprint au sein d'une grande DSI : UX et agilité à l'échelle ça fonctionne ? ",
     "complexity": "Débutant",
@@ -80,7 +85,7 @@
     "subtype": "presentation",
     "speakers": [13]
 }, {
-    "id": 13,
+    "id": 18451,
     "title": "Clôture",
     "service": "true"
 }, {
@@ -113,6 +118,13 @@
     "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [5]
+}, {
+    "id": 14301,
+    "title": "Coaching à tous les étages",
+    "description": "Cette présentation traitera des questions essentielles : de l’intégration d’un nouvel arrivant dans une entreprise, à l’encouragement de la progression individuelle, en passant par le bien-être au travail de tous. La solution miracle (ou une partie du miracle) ? Le pair coaching maison !\nNous vous expliquerons tout de ce système que nous avons mis en place l’an dernier et continuons à améliorer depuis.\nUn coach (coaché) et une coachée viennent vous présenter la méthode (“du bonheur”).",
+    "complexity": "Débutant",
+    "subtype": "presentation",
+    "speakers": [79, 80]
 }, {
     "id": 14302,
     "title": "Entropie du logiciel",
@@ -161,7 +173,7 @@
     "subtype": "workshop",
     "speakers": [85]
 }, {
-    "id": 16452,
+    "id": 16453,
     "title": "The NoEstimates Game",
     "subtitle": "(En Francais!)",
     "description": "Vous vous demandez ce que NoEstimates veut dire en pratique, ou pourquoi vous devriez l'utiliser ? Peut être vous avez entendu parler du buzz, vous avez lu l'excellent livre de Vasco Duarte ou vous voulez simplement comprendre comment mieux planifier et réduire les risques. Si c'est le cas, vous devriez participer à ce jeu multi-joueurs, il vous aidera à :* Apprendre les bases du NoEstimates et pourquoi le concept peut aider* Savoir comment créer une manière risquée de planifier* Comprendre comment réduire la variation qui affecte la livraison",
@@ -170,7 +182,7 @@
     // "presentation": "https://mattphilip.wordpress.com/noestimates-game/",
     "speakers": [46]
 }, {
-    "id": 16453,
+    "id": 16454,
     "title": "Job Story",
     "subtitle": "Penser autrement l'expression du besoin agile",
     "description": "Si vous avez déjà travaillé sur un projet agile, vous avez sans doute rencontré la User Story. Vous avez même peut-être utilisé des \"persona\", ces fiches de personnage qui représentent un de vos utilisateurs type. Ces formats ont marqué une vraie étape dans l'évolution de la spécification agile et sont le support actuellement le plus largement utilisé pour la formalisation du besoin en mode agile. Mais est-ce suffisant ? Est-ce que cela permet de capter l'essence du besoin ? Pas forcément ! La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !",
@@ -178,7 +190,7 @@
     "subtype": "presentation",
     "speakers": [30]
 }, {
-    "id": 16454,
+    "id": 16452,
     "title": "Mob Programming 101",
     "subtitle": "(et en pratique)",
     "description": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur ! \nL'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
@@ -194,7 +206,7 @@
     "subtype": "presentation",
     "speakers": [18, 78]
 }, {
-    "id": 17453,
+    "id": 17454,
     "title": "Lean Takeoff",
     "subtitle": "Plongez dans un monde incertain",
     "description": "Découvrez la posture entrepreneuriale du Lean Startup pour mitiger le risque marché avant le risque produit",
@@ -203,28 +215,29 @@
     "presentation": "http://leantakeoff.com/",
     "speakers": [3]
 }, {
-    "id": 53,
-    "title": "Pause (Salles des assos)",
+    "id": 16301,
+    "title": "Pause (Salle des assos)",
     "service": "true"
 }, {
-    "id": 54,
+    "id": 14151,
     "title": "Pitch d'ouverture",
+    "description": "Pitch des sessions de l'après midi",
     "service": "true"
 }, {
-    "id": 58,
-    "title": "Repas 1er service",
+    "id": 12153,
+    "title": "Repas Spot' Izarbel - 1er service",
+    "description": "à partir de 12h30",
     "service": "true"
 }, {
-    "id": 59,
-    "title": "Repas 2e service",
+    "id": 13153,
+    "title": "Repas Spot' Izarbel - 2e service",
+    "description": "à partir de 13h15",
     "service": "true"
 }, {
-    "id": 14301,
-    "title": "Coaching à tous les étages",
-    "description": "Cette présentation traitera des questions essentielles : de l’intégration d’un nouvel arrivant dans une entreprise, à l’encouragement de la progression individuelle, en passant par le bien-être au travail de tous. La solution miracle (ou une partie du miracle) ? Le pair coaching maison !\nNous vous expliquerons tout de ce système que nous avons mis en place l’an dernier et continuons à améliorer depuis.\nUn coach (coaché) et une coachée viennent vous présenter la méthode (“du bonheur”).",
-    "complexity": "Débutant",
-    "subtype": "presentation",
-    "speakers": [79, 80]
+    "id": 19001,
+    "title": "AFTER - Apéro + repas avec les orateurs au Bleu Blanc Jaune",
+    "description": "Ouvert à tous - Fêtes de Bidart",
+    "service": "true"
 }, {
     "id": 140,
     "title": "Forum Ouvert : Ordre du Jour",
