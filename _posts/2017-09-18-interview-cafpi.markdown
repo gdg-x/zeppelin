@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cafpi un courtier des crédits immobiliers dans l'agilité"
+title:  "Cafpi soutien la communauté agile"
 date:   2017-09-08 09:00:00
 isStaticPost: false
 category: sponsor
