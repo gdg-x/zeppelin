@@ -1,12 +1,19 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
-    <a href="{{ site.baseurl }}/assets/agilepb-programme-2017.pdf" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Télécharger le programme</a>
+    
+    <div class="col-lg-8 col-md-10 col-md-offset-1">
+        <img alt="Plan estia" src="{{ site.baseurl }}/assets/plan-estia.jpg" width="80%" />
+        <br>
+        <br>
+        <a href="{{ site.baseurl }}/assets/agilepb-programme-2017-final.pdf" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Télécharger le programme</a>
+    </div>
+    
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Jour {{ forloop.index }}</div>
+                <div class="track-header-label"></div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}

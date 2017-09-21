@@ -1,15 +1,19 @@
 - 
   date: "2017-09-22"
-  dateReadable: "22 Septembre"
+  dateReadable: "22 Septembre - MATIN"
   tracks: 
-    - {title: "Amphi", color: "#00C853"}
-    - {title: "Salle 1", color: "#0091EA"}
-    - {title: "Salle 2", color: "#D50000"}
-    - {title: "Salle 3", color: "#FFD600"}
+    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
+    - {title: "Estia 2 - Amphi 21", color: "#0091EA"}
+    - {title: "Estia 2 - Réunion 1 et 2", color: "#D50000"}
+    - {title: "Estia 2 - Amphi 22", color: "#FFD600"}
   timeslots:
     - {
         startTime: "8:00",
-        sessionIds: [3]
+        sessionIds: [8001]
+    }
+    - {
+        startTime: "8:20",
+        sessionIds: [8201]
     }
     - {
         startTime: "9:00",
@@ -17,7 +21,7 @@
     }
     - {
         startTime: "10:00",
-        sessionIds: [53]
+        sessionIds: [10001]
     }
     - {
         startTime: "10:15",
@@ -25,11 +29,11 @@
     }
     - {
         startTime: "11:15",
-        sessionIds: [11151,11152, 11153, 404]
+        sessionIds: [11151,11152, 404, 11154]
     }
     - {
         startTime: "12:15",
-        sessionIds: [12151, 58]
+        sessionIds: [12151, 12153]
     }
     - {
         startTime: "12:45",
@@ -37,15 +41,24 @@
     }
     - {
         startTime: "13:15",
-        sessionIds: [13151, 59]
+        sessionIds: [13151, 13153]
     }
     - {
         startTime: "13:45",
         sessionIds: [13451, 404]
     }
+- 
+  date: "2017-09-22"
+  dateReadable: "22 Septembre - APRES-MIDI"
+  tracks: 
+    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
+    - {title: "Estia 2 - Amphi 21", color: "#0091EA"}
+    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
+    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
+  timeslots:
     - {
         startTime: "14:15",
-        sessionIds: [54]
+        sessionIds: [14151]
     }
     - {
         startTime: "14:30",
@@ -55,9 +68,18 @@
         startTime: "15:30",
         sessionIds: [15301, 15302, 404, 404]
     }
+- 
+  date: "2017-09-22"
+  dateReadable: "22 Septembre - APRES-MIDI"
+  tracks: 
+    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
+    - {title: "Estia 2 - Salles des assos", color: "#AA00FF"}
+    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
+    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
+  timeslots:
     - {
         startTime: "16:30",
-        sessionIds: [53]
+        sessionIds: [16301]
     }
     - {
         startTime: "16:45",
@@ -65,12 +87,15 @@
     }
     - {
         startTime: "17:45",
-        sessionIds: [17451, 404, 17453, 404]
+        sessionIds: [17451, 404, 404, 17454]
     }
     - {
         startTime: "18:45",
-        endTime: "19:00",
-        sessionIds: [13]
+        sessionIds: [18451]
+    }
+    - {
+        startTime: "19:00",
+        sessionIds: [19001]
     }
 - 
   date: "2017-09-23"
