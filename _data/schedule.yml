@@ -2,10 +2,10 @@
   date: "2017-09-22"
   dateReadable: "22 Septembre - MATIN"
   tracks: 
-    - {title: "ESTIA 1 - Amphi MARI", color: "#00C853"}
-    - {title: "ESTIA 2 - Amphi 21", color: "#0091EA"}
-    - {title: "ESTIA 2 - Réunion 1 et 2", color: "#D50000"}
-    - {title: "ESTIA 2 - Amphi 22", color: "#FFD600"}
+    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
+    - {title: "Estia 2 - Amphi 21", color: "#0091EA"}
+    - {title: "Estia 2 - Réunion 1 et 2", color: "#D50000"}
+    - {title: "Estia 2 - Amphi 22", color: "#FFD600"}
   timeslots:
     - {
         startTime: "8:00",
@@ -51,10 +51,10 @@
   date: "2017-09-22"
   dateReadable: "22 Septembre - APRES-MIDI"
   tracks: 
-    - {title: "ESTIA 1 - Amphi MARI", color: "#00C853"}
-    - {title: "ESTIA 2 - Amphi 21", color: "#0091EA"}
-    - {title: "ESTIA 2 - Réunion 1", color: "#D50000"}
-    - {title: "ESTIA 2 - Réunion 2", color: "#FF6D00"}
+    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
+    - {title: "Estia 2 - Amphi 21", color: "#0091EA"}
+    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
+    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
   timeslots:
     - {
         startTime: "14:15",
@@ -72,10 +72,10 @@
   date: "2017-09-22"
   dateReadable: "22 Septembre - APRES-MIDI"
   tracks: 
-    - {title: "ESTIA 1 - Amphi MARI", color: "#00C853"}
-    - {title: "ESTIA 2 - Salles des assos", color: "#AA00FF"}
-    - {title: "ESTIA 2 - Réunion 1", color: "#D50000"}
-    - {title: "ESTIA 2 - Réunion 2", color: "#FF6D00"}
+    - {title: "Estia 1 - Amphi MARI", color: "#00C853"}
+    - {title: "Estia 2 - Salles des assos", color: "#AA00FF"}
+    - {title: "Estia 2 - Réunion 1", color: "#D50000"}
+    - {title: "Estia 2 - Réunion 2", color: "#FF6D00"}
   timeslots:
     - {
         startTime: "16:30",
