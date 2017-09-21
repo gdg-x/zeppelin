@@ -22,6 +22,10 @@
     // "presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
     "speakers": [43]
 }, {
+    "id": 10001,
+    "title": "Pause",
+    "service": "true"
+}, {
     "id": 10151,
     "title": "Carte, boussole et territoire",
     "subtitle": "Le voyage du Manager agile",
@@ -41,14 +45,6 @@
     // "presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
     "speakers": [40]
 }, {
-    "id": 10154,
-    "title": "Il était une fois la vie d'un Product Owner",
-    "description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
-    "complexity": "Débutant",
-    "subtype": "presentation",
-    // "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
-    "speakers": [17]
-}, {
     "id": 10153,
     "title": "Coaching Dojo",
     "description": "Christophe Deniaud et Fabrice Aimetti souhaitent réunir des personnes qui désirent découvrir, apprendre, développer, … des techniques de coaching qui les aideront dans leur quotidien. Ils co-facilitent depuis janvier 2016 des Coaching Dojo sur Bordeaux.",
@@ -56,6 +52,14 @@
     "subtype": "workshop",
     "presentation": "https://www.meetup.com/fr-FR/Agile-Bordeaux/events/235134649/",
     "speakers": [2, 23]
+}, {
+    "id": 10154,
+    "title": "Il était une fois la vie d'un Product Owner",
+    "description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
+    "complexity": "Débutant",
+    "subtype": "presentation",
+    // "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
+    "speakers": [17]
 }, {
     "id": 11151,
     "title": "Où en est le contrat Agile en 2017 ?",
@@ -85,16 +89,17 @@
     "subtype": "presentation",
     "speakers": [13]
 }, {
-    "id": 18451,
-    "title": "Clôture",
-    "service": "true"
-}, {
     "id": 12151,
     "title": "Le work hackisme est un humanisme",
     "description": "Selon wikipedia, l'existentialisme considère chaque personne comme un être unique maître de ses actes, de son destin et des valeurs qu'il décide d'adopter. Peut-on être existentialiste au travail? Je pense que oui, en pratiquant le \"work hackisme\"! C'est ce que j'essaie de faire depuis quelques années via un certain nombre de pratiques, de postures. Dans cette session, je vous présenterez tous ces petits trucs du quotidien qui me permettent d'arriver au boulot le matin avec le sourire et de pouvoir me regarder dans la glace le soir en rentrant.",
     "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [29]
+}, {
+    "id": 12153,
+    "title": "Repas Spot' Izarbel - 1er service",
+    "description": "à partir de 12h30",
+    "service": "true"
 }, {
     "id": 12451,
     "title": "Libérée Délivrée ",
@@ -112,12 +117,22 @@
     // "presentation": "https://www.slideshare.net/christopheheral/agile-tour-toulouse-2016-dveloppeur-aprs-30-ans-nastu-donc-aucune-ambition",
     "speakers": [33]
 }, {
+    "id": 13153,
+    "title": "Repas Spot' Izarbel - 2e service",
+    "description": "à partir de 13h15",
+    "service": "true"
+}, {
     "id": 13451,
     "title": "L'Agilité ? Oui ! Mais pas seulement pour les geeks",
     "description": "Vous n’êtes pas informaticien mais l’agilité vous intéresse ! Transformez ce concept en action. Mon atelier a pour objectif de faire rentrer les débutants dans le monde de l’agilité en accompagnant sur les termes barba... euh spécifiques à l’agilité. Nous traiterons de l’animation de réunion, de créativité des équipes… En résumé, faire en sorte d’appliquer le fameux « thinking out of de box ».",
     "complexity": "Débutant",
     "subtype": "presentation",
     "speakers": [5]
+}, {
+    "id": 14151,
+    "title": "Pitch d'ouverture",
+    "description": "Pitch des sessions de l'après midi",
+    "service": "true"
 }, {
     "id": 14301,
     "title": "Coaching à tous les étages",
@@ -165,6 +180,10 @@
     // "presentation": "https://krilivye.github.io/TTT/",
     "speakers": [15]
 }, {
+    "id": 16301,
+    "title": "Pause (Salle des assos)",
+    "service": "true"
+}, {
     "id": 16451,
     "title": "Parce-qu'on ne change pas une culture",
     "subtitle": "Comme on change une roue de voiture",
@@ -172,6 +191,14 @@
     "complexity": "Débutant",
     "subtype": "workshop",
     "speakers": [85]
+}, {
+    "id": 16452,
+    "title": "Mob Programming 101",
+    "subtitle": "(et en pratique)",
+    "description": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur ! \nL'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
+    "complexity": "Débutant",
+    "subtype": "workshop",
+    "speakers": [86]
 }, {
     "id": 16453,
     "title": "The NoEstimates Game",
@@ -190,14 +217,6 @@
     "subtype": "presentation",
     "speakers": [30]
 }, {
-    "id": 16452,
-    "title": "Mob Programming 101",
-    "subtitle": "(et en pratique)",
-    "description": "Le Mob Programming est cette pratique de développement étrange où toutes les personnes travaillent en même temps, en un même lieu sur une même fonctionnalité et sur un seul ordinateur ! \nL'objectif de cet atelier est de faire découvrir le Mob Programming par la pratique en réalisant quelques kata classiques (FizzBuzz, Bowling Counter) dans un langage à déterminer ensemble (Python, C#, Java, JavaScript, Zombie...)",
-    "complexity": "Débutant",
-    "subtype": "workshop",
-    "speakers": [86]
-}, {
     "id": 17451,
     "title": "Agile Exprès",
     "subtitle": "Comment réussir sa transformation agile en le faisant exprès",
@@ -215,23 +234,8 @@
     "presentation": "http://leantakeoff.com/",
     "speakers": [3]
 }, {
-    "id": 16301,
-    "title": "Pause (Salle des assos)",
-    "service": "true"
-}, {
-    "id": 14151,
-    "title": "Pitch d'ouverture",
-    "description": "Pitch des sessions de l'après midi",
-    "service": "true"
-}, {
-    "id": 12153,
-    "title": "Repas Spot' Izarbel - 1er service",
-    "description": "à partir de 12h30",
-    "service": "true"
-}, {
-    "id": 13153,
-    "title": "Repas Spot' Izarbel - 2e service",
-    "description": "à partir de 13h15",
+    "id": 18451,
+    "title": "Clôture",
     "service": "true"
 }, {
     "id": 19001,
