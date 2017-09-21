@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Actinuum un cabinet de formation agile référencé par le Fafiec"
+title:  "Actinuum un cabinet de formation agile"
 date:   2017-09-08 09:00:00
 isStaticPost: false
 category: sponsor
