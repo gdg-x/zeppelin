@@ -64,7 +64,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Wharton Africa Business Forum <typeout>"
 eventDate: "November 3 - 5, 2017"
-typeoutTextValues: '"", "25", "2017"'
+typeoutTextValues: '"", "25", "2017", "#WABF25"'
  # typeoutFallback: "Season"
 heroButtons:
  #- {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
