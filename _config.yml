@@ -56,9 +56,9 @@ navigationLinks:
      - {link: "http://wabf2014.whartonafrica.com", text: "WABF 2014"}
      - {link: "http://wabf2013.whartonafrica.com", text: "WABF 2013"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register to Attend"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register to Attend"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -67,8 +67,8 @@ eventDate: "November 3 - 5, 2017"
 typeoutTextValues: '"", "25", "2017"'
  # typeoutFallback: "Season"
 heroButtons:
- - {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
- #- {permalink: "/#tickets", text: "Buy tickets"}
+ #- {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About WABF"
@@ -86,7 +86,7 @@ statisticBlock:
  - {count: "4", specialCharacter: "", info: "keynotes", detail: "by prominent speakers"}
 
 # Latest News Block
- # latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -116,14 +116,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
-venueTitle: "2 Amazing Venues"
-venueFeatures: ["Loews Hotel Philadelphia for the conference, banquet, and gala", "Spirit of Philadelphia for the Alumni Brunch"]
+venueTitle: "3 Amazing Venues"
+venueFeatures: ["Loews Hotel Philadelphia", "Spirit of Philadelphia", "Marriott Hotel Philadelphia"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "wabf25"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
  # organizersTitle: "Organizers"
@@ -261,7 +261,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block

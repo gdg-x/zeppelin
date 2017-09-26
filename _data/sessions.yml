@@ -6,30 +6,37 @@
 -
   id: 301
   title: "Prospective Student Sessions"
-  place: "TBD"
+  place: "Commonwealth Ballroom"
   service: true
 -
   id: 302
   title: "Venture Competition"
-  place: "TBD"
+  place: "Commonwealth Ballroom"
   service: true
 -
   id: 303
-  title: "Keynote 1"
+  title: "Keynote Panel"
   place: "Commonwealth Ballroom"
   service: true
 -
   id: 304
   title: "VIP Cocktail Reception"
-  place: "33rd Floor"
+  place: "By invitation only"
+  service: true
 -
   id: 305
   title: "Small Group Dinners"
   place: "Various"
+  service: true
 -
   id: 306
   title: "Late Night Mixer"
-  place: "TBD"
+  place: "1925 Lounge"
+  service: true
+-
+  id: 399
+  title: "Registration & Breakfast"
+  place: "Millenium Foyer"
   service: true
 -
   id: 401
@@ -38,54 +45,69 @@
   service: true
 -
   id: 402
-  title: "Keynote 2"
+  title: "Breakfast Keynote Panel"
   place: "Millennium Ballroom"
   service: true
 -
   id: 403
-  title: "Panel"
+  title: "Grand Panel"
   place: "TBD"
 -
   id: 405
-  title: "Panel"
+  title: "Grand Panel"
   place: "TBD"
 -
   id: 406
-  title: "Panel"
+  title: "Grand Panel"
   place: "TBD"
 -
   id: 407
-  title: "Panel"
+  title: "Fireside Chat"
+  place: "TBD"
+-
+  id: 427
+  title: "Fireside Chat"
+  place: "TBD"
+-
+  id: 428
+  title: "Fireside Chat"
   place: "TBD"
 -
   id: 408
-  title: "Lunch and Keynote 3"
+  title: "Lunch Keynote Panel"
   place: "Millennium Ballroom"
   service: true
 -
   id: 409
-  title: "Panel"
+  title: "Grand Panel"
   place: "TBD"
 -
   id: 410
-  title: "Panel"
+  title: "Grand Panel"
   place: "TBD"
 -
   id: 411
-  title: "Panel"
+  title: "Grand Panel"
   place: "TBD"
 -
   id: 412
-  title: "Panel"
+  title: "Fireside Chat"
+  place: "TBD"
+-
+  id: 429
+  title: "Fireside Chat"
+  place: "TBD"
+-
+  id: 430
+  title: "Fireside Chat"
   place: "TBD"
 -
   id: 413
-  title: "Break"
+  title: "Masterclasses"
   place: "TBD"
-  service: true
 -
   id: 414
-  title: "Panel"
+  title: "State of the Continent Sessions"
   place: "TBD"
 -
   id: 415
@@ -93,12 +115,12 @@
   place: "TBD"
 -
   id: 416
-  title: "Panel"
+  title: "Pre-Banquet Cocktail Reception"
   place: "TBD"
 -
   id: 417
-  title: "Panel"
-  place: "TBD"
+  title: "Break"
+  service: true
 -
   id: 418
   title: "Career Fair"
@@ -106,7 +128,7 @@
   service: true
 -
   id: 419
-  title: "Gala & Awards Ceremony"
+  title: "Gala & Awards Ceremony with Dinner Keynote"
   place: "Regency Ballroom"
   service: true
 -

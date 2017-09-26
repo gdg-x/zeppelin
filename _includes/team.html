@@ -1,10 +1,10 @@
 <!-- Begin Team List-->
 <section id="team" class="team">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
+        <!-- <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.teamBlockTitle }}</h3>
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
-        </div>
+        </div> -->
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Co-Chairs</h4>
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
@@ -14,7 +14,7 @@
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
-                                <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
+                                <h2 class="name" {% if teamMember.darkText != null %}style="color:#3c4a50"{% endif %}>{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
                                 <div class="clearfix"></div>
                                 <span class="position">{{ teamMember.title }}</span>
                             </div>
@@ -40,7 +40,7 @@
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
-                                <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
+                                <h2 class="name" {% if teamMember.darkText != null %}style="color:#3c4a50"{% endif %}>{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
                                 <div class="clearfix"></div>
                                 <span class="position">{{ teamMember.title }}</span>
                             </div>
@@ -66,7 +66,7 @@
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
-                                <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
+                                <h2 class="name" {% if teamMember.darkText != null %}style="color:#3c4a50"{% endif %}>{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
                                 <div class="clearfix"></div>
                                 <span class="position">{{ teamMember.title }}</span>
                             </div>

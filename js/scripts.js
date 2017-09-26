@@ -34,16 +34,18 @@
             if (scroll >= 100) {
                 header.addClass('after-scroll');
                 logo.removeClass('logo-light').addClass('logo-dark');
+                buyButton.removeClass('right-nav-button-hidden');
             } else {
                 header.removeClass('after-scroll');
                 logo.removeClass('logo-dark').addClass('logo-light');
+                buyButton.addClass('right-nav-button-hidden');
             }
 
-            if (scroll >= $('.top-section').height() && $(window).width() > 767) {
+            /* if (scroll >= $('.top-section').height() && $(window).width() > 767) {
                 buyButton.removeClass('right-nav-button-hidden');
             } else if (scroll < $('.top-section').height() && $(window).width() > 767){
                 buyButton.addClass('right-nav-button-hidden');
-            }
+            } */
 
             $('.slot').each(function() {
                 var currentPosition = $(this).offset().top - scroll;
