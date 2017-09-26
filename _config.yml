@@ -134,64 +134,109 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://whartonafrica.us7.list-manage.com/subscribe/post?u=a7c01efb918a8f43dfa398611&amp;id=9135c1b93f"
-subscribeInfo: "Registration will open in late September. Tickets are limited. Stay tuned!"
+subscribeInfo: "Sign up to stay in the loop with all our updates."
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "A limited number of discounted tickets will be available for select groups (e.g., students, alumni, YAM)."
+ticketsTitle: "Ticket Options"
+#ticketsInfo: "A limited number of discounted tickets will be available for select groups (e.g., students, alumni, YAM)."
 ticketsOffers:
  -
-  name: "All Inclusive"
+  name: "The Classic Package"
   price: "250"
   priceCurrency: "USD"
-  ticketsNumber: "300"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #ticketsNumber: "300"
+  ribbon: "-25%"
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-15T10:00"
   validThrough: "2017-11-03T12:00"
-  disabled: true
+  disabled: false
  -
-  name: "Conference Only"
+  name: "The Conference"
   price: "150"
   priceCurrency: "USD"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #ticketsNumber: "100"
+  ribbon: "-25%"
+  #featured: true
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  additionalInfo: "Provides access to Friday and Saturday keynotes, industry breakout panels and prospective student events, New Venture Competition, and flagship Career Fair."
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-15T10:00"
   validThrough: "2017-11-03T12:00"
-  disabled: true
+  disabled: false
  -
-  name: "Gala Only"
+  name: "The Gala"
   price: "100"
   priceCurrency: "USD"
-  ticketsNumber: "100"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #ticketsNumber: "100"
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
   buyButtonText: "Buy Now"
-  #additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  additionalInfo: "Landmark black-tie cocktails, seated dinner, and Closing Keynote."
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-15T10:00"
   validThrough: "2017-11-03T12:00"
   #soldOut: true
   #soldOutText: "Sold Out"
-  disabled: true
+  disabled: false
  -
-  name: "After-Party Only"
+  name: "The Afterparty"
   price: "75"
   priceCurrency: "USD"
-  ticketsNumber: "250"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  #ticketsNumber: "250"
+  ribbon: "-25%"
+  #featured: true
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  additionalInfo: "Saturday Conference Afterparty headlined by private concert by top-billing performing artist."
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-15T10:00"
   validThrough: "2017-11-03T12:00"
-  disabled: true
+  disabled: false
+ -
+  name: "Friday Mixer"
+  price: "15"
+  priceCurrency: "USD"
+  #ticketsNumber: "250"
+  ribbon: "-25%"
+  #featured: true
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+  buyButtonText: "Buy Now"
+  additionalInfo: "The 1925 Lounge - tickets valid until 11:30pm."
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-09-15T10:00"
+  validThrough: "2017-11-03T12:00"
+  disabled: false
+ -
+  name: "Sunday Young African MBA (YAM) Brunch"
+  price: "30"
+  priceCurrency: "USD"
+  #ticketsNumber: "250"
+  ribbon: "-25%"
+  #featured: true
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Join Young African MBAs for their annual brunch to bookend the WABF weekend."
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-09-15T10:00"
+  validThrough: "2017-11-03T12:00"
+  disabled: false
+ -
+  name: "Sunday Wharton Alumni Brunch"
+  price: "20"
+  priceCurrency: "USD"
+  #ticketsNumber: "250"
+  ribbon: "-25%"
+  #featured: true
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+  buyButtonText: "Buy Now"
+  additionalInfo: "This event is open to Wharton Alumni. Registration required."
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-09-15T10:00"
+  validThrough: "2017-11-03T12:00"
+  disabled: false
 
 # Footer
 socialLinks:
