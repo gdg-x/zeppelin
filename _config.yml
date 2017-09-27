@@ -67,7 +67,7 @@ heroTitle: "Wharton Africa Business Forum <typeout>"
 eventLocation: "Philadelphia, PA"
 eventDate: "November 3 - 5, 2017"
 typeoutTextValues: '"", "25", "2017", "#WABF25"'
- # typeoutFallback: "Season"
+typeoutFallback: "25"
 heroButtons:
  #- {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
  - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Buy tickets"}
