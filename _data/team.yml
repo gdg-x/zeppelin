@@ -73,7 +73,6 @@
   title: "VP, Venture Competition"
   thumbnailUrl: team/Juliet.jpg
   subTeam: true
-  darkText: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/juliet-zawedde/"}
 -
@@ -94,7 +93,6 @@
   title: "VP, Venture Competition"
   thumbnailUrl: team/Nayeon.jpg
   subTeam: true
-  darkText: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/nayeon-lee-b9307014/"}
 -
@@ -114,7 +112,6 @@
   title: "VP, Sponsorships & Careers"
   thumbnailUrl: team/Robel.jpg
   subTeam: true
-  darkText: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/robel-chiappini-0833b825"}
     #- {name: "twitter", link: "http://olostan.name/"}
