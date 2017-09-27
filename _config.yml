@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/venturecomp/", text: "Venture Competition"}
@@ -267,7 +267,7 @@ blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"

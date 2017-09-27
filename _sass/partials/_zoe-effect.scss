@@ -12,7 +12,7 @@ $figcaption-color: #3c4a50;
             -webkit-background-size: 105%;
             background-size: 105%;
             .overlay {
-                background: rgba(0, 0, 0, .3);
+                background: rgba(0, 0, 0, 0.3);
                 @media (max-width: 767px) {
                    background: rgba(0, 0, 0, 0);
                 }
@@ -34,7 +34,7 @@ $figcaption-color: #3c4a50;
             }
             &:nth-child(2) {
                 transition-delay: .25s;
-            }    
+            }
         }
         .bio {
             transform: translateY(-70%);
@@ -55,8 +55,8 @@ $figcaption-color: #3c4a50;
         background-size: 115%;
         @media (max-width: 767px) {
             background-position: center left;
-            -webkit-background-size: 105%;   
-            background-size: 105%;   
+            -webkit-background-size: 105%;
+            background-size: 105%;
         }
         .overlay {
             transition: $base-transition;
@@ -71,11 +71,11 @@ $figcaption-color: #3c4a50;
         padding: 13px;
         z-index: 2;
         transition: $base-transition;
-        transform: translateY(100%);
+        transform: translateY(0);
         color: $figcaption-color;
         background: #fff;
         @media (max-width: 767px) {
-            transform: translateY(0);         
+            transform: translateY(0);
         }
         h2 {
             font-size: 16px;
@@ -84,11 +84,11 @@ $figcaption-color: #3c4a50;
             word-spacing: -2px;
             text-transform: uppercase;
             transition: $base-transition;
-            transform: translateY(-250%);
+            transform: translateY(0);
             transition-delay: .05s;
-            color: #fff;
+            color: $figcaption-color;
             @media (max-width: 767px) {
-                transform: translateY(0); 
+                transform: translateY(0);
                 color: #3c4a50;
             }
             span {
@@ -105,11 +105,12 @@ $figcaption-color: #3c4a50;
             transition: $base-transition;
             transform: translateY(200%);
             @media (max-width: 767px) {
-                transform: translateY(0);     
+                transform: translateY(0);
             }
         }
         .position {
             font-size: 12px;
+            line-height: normal;
             @include trimText(12px, 1, 1);
         }
     }

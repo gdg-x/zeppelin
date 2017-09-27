@@ -1,67 +1,99 @@
-- 
+-
+  id: 1
+  name: "Hon. Enyinnaya Okechukwu"
+  surname: "Enelamah"
+  company: "Federal Republic of Nigeria"
+  title: "Honourable Minister of Industry, Trade and Investment"
+  bio: "As Nigeria’s Minister of Industry, Trade and Investment (MITI), Mr. Okechukwu Enelamah oversees policy-making and implementation relating to industrialization of the economy, development of small and medium-scale enterprises (SMEs), promotion of exports and foreign direct investment, and the expansion of trade. The overall objective of the ministry is to ensure that policies and actions lead to inclusive growth, wealth and job creation, poverty reduction and ensure enhanced service delivery in a manner that will stimulate the growth of the domestic economy for self-reliance and export.<br><br>Prior to taking office on November 11, 2015, Mr. Enelamah worked as the Chief Executive Officer (CEO) of Africa Capital Alliance (ACA), an investment and financial advisory firm which he co-founded in 1998. ACA has now grown to be recognized as a leading private equity firm in West Africa.<br><br>Mr. Enelamah has 27 years of private sector experience spanning finance, consulting and auditing (Arthur Andersen & Co.), and private equity. Before co-founding ACA he gained private equity experience working at Zephyr Management L.P. in New York, and South Africa Capital Growth Fund in Johannesburg. ACA’s five funds – Capital Alliance Private Equity Funds I, II, III & IV, and Capital Alliance Property Investment Company (CAPIC) – have raised more than $1 Billion for investment in companies based in Nigeria and across West Africa.<br><br>Mr. Enelamah holds a Bachelor of Medicine, Bachelor of Surgery (MBBS) degree from the University of Nigeria (1985), and a Master’s in Business Administration (MBA) from the Harvard University Graduate School of Business (1994). He is also a Chartered Accountant (1992), and a Chartered Financial Analyst (CFA) (1997). He earned Dean’s List honours in his MBBS graduating class at the University of Nigeria, and was awarded national prizes in the Institute of Chartered Accountants of Nigeria (ICAN) examinations. At the Harvard Business School, he was elected a George F. Baker Scholar, and also named a Loeb Fellow."
+  thumbnailUrl: speakers/Enelamah.jpeg
+  keynote: true
+-
+  id: 2
+  name: "Hon. Kemi"
+  surname: "Adeosun"
+  company: "Federal Republic of Nigeria"
+  title: "Honourable Minister of Finance"
+  bio: "Minister Kemi Adeosun earned a Bachelor of Science degree in Economics from the University of East London and a Postgraduate Diploma in Public Financial Management from the University of London. She qualified as a Chartered Accountant with the Institute of Chartered Accountants England and Wales in 1994.<br><br>She commenced her career as an Accounting assistant at British Telecom Company, London, from 1989 till 1990, after which she moved to Goodman Jones, London, working as a Senior Audit Officer from 1990 till 1993. She became Manager of Internal Audit at London Underground Limited, London and Prism Consulting from 1994 till 2000 before joining Price Waterhouse Coopers, London as Senior Manager from 2000 till 2002. In 2002, Kemi became financial controller at Chapel Hill Denham Management and subsequently, Managing Director in 2010. After working with Quo Vadis Partnership as Managing Director in 2010 and 2011, she was appointed the Commissioner of Finance in Ogun State, from 2011 till 2015.<br><br>She has a global certification of expertise in Financial Management, Revenue Generation Strategy, Engagement with International investors and Capital Providers, among others."
+  thumbnailUrl: speakers/Adeosun.jpeg
+  keynote: true
+-
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
+  name: "Tewolde"
+  surname: "GebreMariam"
+  company: "Ethiopian Airlines"
+  title: "Chief Executive Officer"
+  bio: "Mr. Tewolde GebreMariam is a titan of the aviation industry. As Group CEO of Ethiopian Airlines, he presides over the fastest growing and most profitable airline in Africa. He began his career in the cargo traffic handling department at the company when he joined thirty years ago and rose up the ranks through overseas management, Marketing and Sales to Chief Operating Officer before his appointment as CEO.<br><br>Mr. Tewolde is on the board of many of the major Ethiopian state-owned enterprises. He leads Pan-African aviation initiatives and sits, with UN Secretary-General on the High-Level Advisory Group on Sustainable Transport. His airline won 20 awards in 2015 and is recognized as one of the most dependable airlines in the world. His sense of corporate responsibility to society and the environment is impeccable. As part of EA’s CSR programme, the airline is working with Greener Ethiopia to repopulate the country with trees.<br><br>Along with the plethora of awards Ethiopian has won, Mr. Tewolde himself has won African CEO of the Year, Best African Business Leader, The Airline Strategy Award for Regional Leadership the 2015 International Grand Prix Special Award in Milan and the Most Gender Focused CEO Award 2015 by the Leading Women of Africa group.<br><br>He earned his B.A. Degree in Economics from the Addis Ababa University in Ethiopia and his Masters Degree in Business Administration from the Open University in the United Kingdom."
+  thumbnailUrl: speakers/GebreMariam.jpeg
+  keynote: true
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "Dr. Abdu"
+  surname: "Mukhtar"
+  company: "African Development Bank"
+  title: "Director of Trade and Investment"
+  bio: "Dr. Mukhtar joined the African Development Bank from the Dangote Group of Industries, Nigeria, where he has been the Group Chief Strategy Officer since 2014.  In that role, he has assisted the Group President, Alhaji Alimi Dangote, in setting overall strategic direction for the Company and overseeing key aspects of the strategic planning processes for the group, business units, subsidiaries and associated companies. He has also played a key role in driving major activities, projects and initiatives of the Company, including expansion of cement manufacturing into 18 African countries, a multi-billion dollar Oil Refinery and Petrochemical Plant, plus key joint ventures in Power, Oil & Gas as well as Agriculture Sectors.<br><br>Commenting on Dr. Mukhtar’s appointment, African Development Bank President Dr. Akinwumi Adesina said: 'Abdu Mukhtar is a world-class and consummate professional, with strong entrepreneurial skills and a well demonstrated track record of delivering outstanding results in developing trade and industrialization in Africa. Abdu’s expertise and experience in structuring successful public-private partnerships will support the Bank as it rolls out its work to support the industrialization agenda of African countries.'<br><br>Dr. Mukhtar holds a Doctor of Medicine degree from the Ahmadu Bello University School of Medicine, Zaria, Nigeria; a Doctor of Philosophy Degree in Pathology and Laboratory Medicine from the Boston University School of Medicine, USA; a Master in Business Administration from the Harvard Business School, Cambridge, Massachusetts, USA; and a Master in Public Administration degree from Harvard Kennedy School, Cambridge, Massachusetts, USA. He was an Archbishop Tutu Leadership Fellow and the recipient of several international awards."
+  thumbnailUrl: speakers/Mukhtar.jpeg
+  keynote: true
+-
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
+  name: "Yemi"
+  surname: "Cardoso"
+  company: "Citibank Nigeria"
+  title: "Chairman"
+  bio: "Mr. Olayemi Cardoso, Chairman of Citibank Nigeria Limited, is a career banker and development policy expert. He started out in banking with Citibank in London. He trained in Greece and had several international assignments before returning to his native country Nigeria to work with Chase Manhattan Bank. He was subsequently invited by Citibank and became a member of the founding team of Citibank Nigeria in 1984 rising to a senior position within the bank. He left Citibank in 1990 to Co-found Citizens International bank as executive director.<br><br>Following an exemplary career in business, the government requested Mr. Cardoso's expertise in public service as the pioneer Commissioner for Economic Planning and Budget for Lagos State, in 1999 when the country returned to a democratically elected government. A highly unusual career move for a business person at the time, Yemi felt it was essential to encourage others to contribute their knowledge and experience to bring about reforms that were needed and other notable professionals have since followed his lead.<br><br>After public service, Mr. Cardoso attended the Masons Fellow Program at Harvard University where he earned a Masters degree in Public Policy and Management . He returned to Nigeria to assume responsibility on the board of of Chevron Oil Nigeria PLC as well as Chairman of the Audit committee of Citibank Nigeria and was appointed Chairman of the Board of the latter in 2010. Mr Cardoso also chaired the World Bank’s LMDGP project as well as the Bill and Media Gates Foundation and DFID- funded, EFInA, the leading financial inclusion organisation.<br><br>Mr. Cardoso, is an influential advisor and has worked on key initiatives with donors and development finance institutions including Ford Foundation, DFID and the World Bank. He is a member of the Belgium- based Cities Alliance think tank, a global partnership formed by the World Bank and UN habitat to tackle urban issues.<br><br>Mr. Cardoso is regular speaker at institutions including University of Oxford’s Saïd Business School and Harvard Kennedy School. He was awarded an Honorary Doctorate in Business Administration in 2017 for outstanding contributions to business and public service by his alma mater, Aston University, UK."
+  thumbnailUrl: speakers/Cardoso.jpeg
+  keynote: true
+-
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
+  name: "Farayi"
+  surname: "Chipungu"
+  company: "Harvard Kennedy School of Government"
+  title: "Adjunct Lecturer in Public Policy"
+  bio: "Farayi Chipungu is an Adjunct Lecturer in Public Policy at the Harvard Kennedy School of Government where she teaches Exercising Leadership: The Politics of Change. She also serves as faculty for the executive education program: The Art and Practice of Leadership Development which is a masterclass for professional trainers, educators and consultants working in leadership development.<br><br>Before joining the Kennedy School faculty, Farayi worked as a strategy consultant with global management consulting firm McKinsey & Company and for 5 years as a corporate lawyer. She has also worked with Cambridge Leadership Associates which specialises in training and coaching programs centred around the adaptive leadership framework.<br><br>Farayi’s experience is global and she has worked closely with both public and private sector clients across Africa, Australia, Europe, the United States and most recently the Middle East. Her primary focus has been on helping individuals, communities and organisations diagnose and execute  transformations from the micro, individual or team-based level to larger scale organisation-wide transformations.<br><br>Farayi has degrees in Arts and Law from Monash University in Australia and is also a graduate of the Kennedy School where she completed her MPA in 2012."
+  thumbnailUrl: speakers/Chipungu.jpeg
+  keynote: true
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Mark"
+  surname: "Edge"
+  company: "Monsanto"
+  title: "Director of Collaborations for Developing Countries"
+  bio: "Mark leads Monsanto’s collaborations with public-private partnership projects to improve food security and rural livelihood among smallholder maize producers in Sub-Saharan Africa. The WEMA (Water Efficient Maize for Africa) project is the signature project he leads. The WEMA project develops new drought-tolerant and insect pest-protected maize hybrids and provides the technology royalty-free. It helps build technical capacity in Africa to use conventional and molecular breeding as well as biotechnology.<br><br>He has also held the roles as:<ul><li>Product Launch Marketing Lead<li>Europe & Africa Marketing<li>Global Cotton Product Manager<li>Director of Trait Marketing at Corn States</li></ul><br><br>Mark grew up on a corn, soybean and livestock farm in Iowa. His background before joining Monsanto includes experience in biotech research; many aspects of managing seed business development as well as the grain export business. He has a B.S. from Iowa State University, a M.S. in Genetics from the University of California at Davis, and an MBA from Drake University."
+  thumbnailUrl: speakers/Edge.jpg
+  panelist: true
+-
+  id: 8
+  name: "Alan"
+  surname: "Kessler"
+  company: "African Discovery Group"
+  title: "Founder & CEO"
+  bio: "Alan Kessler is the Founder and CEO of African Discovery Group, an African-focused Principal, Advisory and Commodity Trading firm based in New York, USA. The firm is focused in the power, oil, gas, real estate and natural resource sectors. The goal of the firm is to attract private capital from the United States into Africa to enhance the Continent's development.<br><br>Mr. Kessler has over 20 years of experience on Wall Street, where he worked on the agency side at Goldman Sachs, Morgan Stanley and Ladenburg Thalmann and on the principal side at Oracle Partners, Frontpoint Partners, and Argenis Capital. With a primary focus on African Oil & Gas Exploration, Mr. Kessler has been responsible for raising over $1 Billion of capital into Africa. Prior to starting ADG, he served as Managing Director at Ladenburg Thalmann, creating a group targeted on African development, focused on private wealth, private placements and institutional trading. He built an annual African Oil, Gas and Power conference in New York.<br><br>Amongst other deals on the Continent, Mr. Kessler raised, marketed, capitalized, closed private placements and ultimately completed an initial public offering (IPO) for Lekoil, a Nigerian Exploration and Production company. The company would go on to make the 3rd largest oil discovery in the world in 2013; a deal that was nominated as IPO of the Year on London's AIM exchange. Amongst other notable transactions, Mr. Kessler also took public Savannah Petroleum on London's AIM exchange, proving a Landmark transaction as the first ever publicly-traded company in Niger, capitalizing an oil field that was a former divestiture of the Chinese National Petroleum Company. Mr. Kessler is a board member of TG Senergy, a Senegal-based Oil & Gas exploration company.<br><br>Mr. Kessler holds a Bachelor of Arts in Economics from the University of Pennsylvania (Cum Laude) and an MBA from Columbia Business School. Mr. Kessler was born and raised in South Africa."
+  thumbnailUrl: speakers/Kessler.jpg
+  panelist: true
+-
+  id: 9
+  name: "Richard"
+  surname: "Greenberg"
+  company: "Overseas Private Investment Corporation"
+  title: "Managing Director, Social Enterprise Finance"
+  bio: "Mr. Greenberg is a Managing Director at OPIC, the U.S. Government’s development finance institution, with responsibility for co-leading the organization’s efforts to expand its contribution in the area of social enterprise and impact finance. The unit he leads has significantly grown OPIC’s social enterprise finance activity, having closed over $1 billion in OPIC financing to the microfinance sector and expanded OPIC’s activity in sectors such as health, water, agribusiness, and energy, with considerable focus on Africa. Recently, he has played a key role in developing two OPIC initiatives, one focused on financing for impact investment funds and the other on providing debt to early stage social enterprises. Previously, Mr. Greenberg led project financings in markets around the world involving both small businesses and major infrastructure projects.<br><br>Mr. Greenberg has been a frequent speaker at conferences on project financing in emerging markets and has lectured at graduate level courses in microfinance and impact investing. He holds a B.S. from the Wharton School at the University of Pennsylvania, an M.A. from the Johns Hopkins School of Advanced International Studies (SAIS), and an M.B.A. from George Washington University."
+  thumbnailUrl: speakers/Greenberg.jpg
+  panelist: true
+-
+  id: 10
+  name: "Amee"
+  surname: "Parbhoo"
+  company: "Accion Venture Lab"
+  title: "Director of Investments"
+  bio: "Amee Parbhoo is the Director of Investments with Venture Lab, leading the team’s deal activity and portfolio engagement in Africa. She also supports Venture Lab's investments globally and manAges new projects, including the Company Builder initiative. Amee was most recently an Engagement Manager at McKinsey & Company, serving public, private, and social sector clients focused on financial services and international development. Previously, she worked in business development at SKS Microfinance, India’s largest microfinance institution. In that role, she designed new product lines in credit and microsavings, tested new technologies and platforms, and worked on the company’s initial public offering. Amee has consulted a number of financial inclusion enterprises, including Root Capital, Jipange Kusave and Grameen Bank, and co-founded a web-based platform that empowered students in the U.S. to manage and repay their student loans. Amee has a bachelor of arts in Political Science and Economics from Davidson College and an MBA from The Wharton School at University of Pennsylvania."
+  thumbnailUrl: speakers/Parbhoo.jpg
+  panelist: true
+-
+  id: 11
+  name: "Ebele"
+  surname: "Kemery"
+  company: "JPMorgan Asset Management"
+  title: "Portfolio Manager & Head of Energy Investing – Global Fixed Income, Currencies and Commodities"
+  bio: "Ebele Kemery is Head of Energy Investing in JPMorgan Asset Management’s Global Fixed Income, Currency & Commodities (GFICC) group. Based in New York, Ebele is a portfolio manager on several JPMorgan Commodities Funds. Ebele focuses on commodities and their macro-economic implications on the global markets. Prior to this role, she provided institutional natural resources clients with tailored risk management solutions in the Investment Bank's Global Commodities Group. An employee since 2007, she previously held roles in London, New York and Houston as a physical and derivatives oil trader specializing in the North American and Transatlantic energy markets. Ebele is a frequent contributor to publications and media outlets, including the Wall Street Journal and Bloomberg TV, providing insight on energy and broad commodity markets. She earned a B.E. in electrical engineering from The Cooper Union for the Advancement of Science and Art, and is a member of the Wall Street Blockchain Alliance."
+  thumbnailUrl: speakers/Kemery.jpg
+  panelist: true
