@@ -74,7 +74,7 @@ heroButtons:
 
 # About Block
 aboutTitle: "25 Years of WABF"
-aboutText: "Since the inaugural Wharton Africa Business Forum  (WABF), we have welcomed thought leaders, dignitaries, CEOs, captains of industry and young professionals from around the world to contemplate career leadership and champion Africa as a business destination. <strong>In this historic 25th Anniversary year, we are honored to be able to continue in this tradition.</strong><br><br>This year we have selected the theme <strong>“Continental Conversations: Choices for a New Africa</strong> the complexity of investment and managerial decision-making by leaders in the midst of uncertainty, yet at the cusp of an unprecedented age of information, urbanization, technological connectivity, and its promises.  WABF25 hopes to distill the influences that have driven change in the past and that will drive change in the future.<br><br>Our goals for the 25th Forum are simple but bold: to provide unparalleled insights into the opportunities and challenges of operating in Africa; to connect young professionals with leaders in Africa’s public, private and social sectors; and to inspire educated talent in the Diaspora to get involved in the development of the continent.<br><br>We look forward to hosting you this November in Philadelphia.<br><br>Sincerely,<br><br>Your WABF25 Leadership Team"
+aboutText: "Welcome!<br><br>Since the inaugural Wharton Africa Business Forum  (WABF), we have welcomed thought leaders, dignitaries, CEOs, captains of industry and young professionals from around the world to contemplate career leadership and champion Africa as a business destination. <strong>In this historic 25th Anniversary year, we are honored to be able to continue in this tradition.</strong><br><br>This year we have selected the theme <strong>“Continental Conversations: Choices for a New Africa</strong> to facilitate dialogue about the complexity of investment and managerial decision-making by leaders in the midst of uncertainty, yet at the cusp of an unprecedented age of information, urbanization, technological connectivity, and its promises.  WABF25 hopes to distill the influences that have driven change in the past and that will drive change in the future.<br><br>Our goals for the 25th Forum are simple but bold: to provide unparalleled insights into the opportunities and challenges of operating in Africa; to connect young professionals with leaders in Africa’s public, private and social sectors; and to inspire educated talent in the Diaspora to get involved in the development of the continent.<br><br>We look forward to hosting you this November in Philadelphia.<br><br>Sincerely,<br><br>Your WABF25 Leadership Team"
 aboutBlock:
 # - {title: "Conference", image: "panels.jpg", text: "A full day of engaging panels with interesting speakers." }
 # - {title: "Networking", image: "networking.jpg", text: "Multiple opportunities to network and meet others with an interest in business in Africa." }
@@ -83,9 +83,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "550", specialCharacter: "+", info: "attendees", detail: "from Africa and beyond"}
+ - {count: "550", specialCharacter: "+", info: "attendees", detail: "from around the world"}
  - {count: "5", specialCharacter: "", info: "Keynotes", detail: "by global trailblazers"}
- - {count: "15", specialCharacter: "", info: "panels and Master Classes", detail: "covering a variety of subjects"}
+ - {count: "15", specialCharacter: "", info: "Breakout Panels and Master Classes", detail: "across industries and disciplines"}
  - {count: "50", specialCharacter: "", info: "hours", detail: "of an unforgettable weekend"}
 
 # Latest News Block
@@ -94,7 +94,7 @@ latestNewsTitle: "Latest News"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Impressive Speakers"
+rockstarSpeakersTitle: "Distinguished Keynote Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -119,8 +119,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
-venueTitle: "3 Amazing Venues"
-venueFeatures: ["Loews Hotel Philadelphia", "Spirit of Philadelphia", "Marriott Hotel Philadelphia"]
+venueTitle: "3 brilliant backdrops for meaningful dialogue and strong connections. WABF25 will be hosted at the adjacent Loews and Marriott hotels in downtown Philadelphia, and capped with a farewell brunch on the Spirit of Philadelphia. "
+#venueFeatures: ["Loews Hotel Philadelphia", "Spirit of Philadelphia", "Marriott Hotel Philadelphia"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -306,7 +306,7 @@ directionDetailsTitle: "Get around Philadelphia"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Philadelphia International Airport is only 7 miles from downtown Philly and it is easily reachable by car, public transport or taxi. More information is available from the <a href="https://https://www.phl.org/">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Philly so you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Philadelphia.'}
- - {title: "Hotels", information: '<em>Courtyard Philadelphia City Avenue</em><br><p style="font-size:11px;line-height:normal">Make reservations by calling 1-866-877-1206. Identify yourself as being with Wharton African Business Forum to receive the Special Group Rate of $139.00, plus tax, per room, per night. Reservations must be made by October 18, 2017, in order to receive this rate. After October 18, 2017, all rates and reservations are based upon availability at the hotel’s prevailing rate.</p>'}
+ - {title: "Hotels", information: '<a style="font-style:italic;font-size:14px;line-height:normal" href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Wharton%20African%20Business%20Forum%5Ephlav%60WHAWHAA%7CWHAWHAB%60139.00%60USD%60false%604%6011/3/17%6011/5/17%6010/18/17&app=resvlink&stop_mobi=yes">Courtyard Philadelphia City Avenue</a><br><p style="font-size:11px;line-height:normal">Make reservations by calling 1-866-877-1206. Identify yourself as being with Wharton African Business Forum to receive the Special Group Rate of $139.00, plus tax, per room, per night. Reservations must be made by October 18, 2017, in order to receive this rate. After October 18, 2017, all rates and reservations are based upon availability at the hotel’s prevailing rate.</p>'}
 #directionDetailsWideCards:
 # -
 #  title: "Questions?"
