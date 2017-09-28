@@ -12,7 +12,7 @@ $figcaption-color: #3c4a50;
             -webkit-background-size: 105%;
             background-size: 105%;
             .overlay {
-                background: rgba(0, 0, 0, 0.3);
+                background: rgba(0, 0, 0, .3);
                 @media (max-width: 767px) {
                    background: rgba(0, 0, 0, 0);
                 }
@@ -71,7 +71,7 @@ $figcaption-color: #3c4a50;
         padding: 13px;
         z-index: 2;
         transition: $base-transition;
-        transform: translateY(0);
+        transform: translateY(100%);
         color: $figcaption-color;
         background: #fff;
         @media (max-width: 767px) {
@@ -84,9 +84,9 @@ $figcaption-color: #3c4a50;
             word-spacing: -2px;
             text-transform: uppercase;
             transition: $base-transition;
-            transform: translateY(0);
+            transform: translateY(-250%);
             transition-delay: .05s;
-            color: $figcaption-color;
+            color: #fff;
             @media (max-width: 767px) {
                 transform: translateY(0);
                 color: #3c4a50;
@@ -110,7 +110,6 @@ $figcaption-color: #3c4a50;
         }
         .position {
             font-size: 12px;
-            line-height: normal;
             @include trimText(12px, 1, 1);
         }
     }
