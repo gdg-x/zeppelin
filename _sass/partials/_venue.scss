@@ -35,19 +35,19 @@
 .venue-big-elem {
     height: 610px;
     @media (min-width: 768px) and (max-width: 991px) {
-        height: 580px;    
+        height: 580px;
     }
     @media (max-width: 767px) {
-        height: 340px;    
+        height: 340px;
     }
 }
 .venue-small-elem {
     height: 200px;
     @media (min-width: 768px) and (max-width: 991px) {
-        height: 190px;    
+        height: 190px;
     }
     @media (max-width: 767px) {
-        height: 200px;    
+        height: 200px;
     }
 }
 .venue-text {
@@ -55,26 +55,26 @@
     color: #fff;
     background: $main-color;
     @media (max-width: 767px) {
-        padding: 20px 15px;    
+        padding: 20px 15px;
     }
     h5 {
         margin-top: 0;
         @media (min-width: 768px) and (max-width: 991px) {
-            font-size: 26px;    
+            font-size: 26px;
         }
         @media (max-width: 767px) {
-            font-size: 21px;    
+            font-size: 21px;
         }
     }
     p {
         font-size: 17px;
         @media (min-width: 768px) and (max-width: 991px) {
             font-size: 16px;
-            line-height: 19px;    
+            line-height: 19px;
         }
         @media (max-width: 767px) {
             font-size: 14px;
-            line-height: 16px;    
+            line-height: 16px;
         }
     }
 }
