@@ -104,7 +104,7 @@ $figcaption-color: #3c4a50;
             float: right;
             margin-left: 4px;
             transition: $base-transition;
-            transform: translateY(200%);
+            transform: translateY(250%);
             @media (max-width: 767px) {
                 transform: translateY(0);
             }

@@ -9,9 +9,8 @@ permalink: /
 
  {% include statistic.html %}
 
-{% comment %}
  {% include rockstar-speakers.html %}
-{% endcomment %}
+
  {% include location-map.html %}
 
  {% include venue.html %}
@@ -23,5 +22,8 @@ permalink: /
  {% include latest-news.html %}
 
  {% include subscribe.html %}
-
+{% if site.earlyBird %}
+ {% include tickets.html %}
+{% else %}
  {% include tickets-2.html %}
+{% endif %}

@@ -44,7 +44,7 @@ c4sponsorsUrl: "mailto:yolandak@wharton.upenn.edu?Subject=WABF Sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
@@ -57,9 +57,9 @@ navigationLinks:
      - {link: "http://wabf2014.whartonafrica.com", text: "WABF 2014"}
      - {link: "http://wabf2013.whartonafrica.com", text: "WABF 2013"}
 bottomNavigationLinks:
- - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register to Attend"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now for Early Bird Pricing"}
 rightNavigationButtons:
- - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register to Attend"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now for Early Bird Pricing"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -70,30 +70,31 @@ typeoutTextValues: '"", "25", "2017", "#WABF25"'
 typeoutFallback: "25"
 heroButtons:
  #- {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
- - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Buy tickets"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now for Early Bird Pricing"}
 
 # About Block
-aboutTitle: "About WABF"
+aboutTitle: "25 Years of WABF"
+aboutText: "Since the inaugural Wharton Africa Business Forum  (WABF), we have welcomed thought leaders, dignitaries, CEOs, captains of industry and young professionals from around the world to contemplate career leadership and champion Africa as a business destination. <strong>In this historic 25th Anniversary year, we are honored to be able to continue in this tradition.</strong><br><br>This year we have selected the theme <strong>“Continental Conversations: Choices for a New Africa</strong> the complexity of investment and managerial decision-making by leaders in the midst of uncertainty, yet at the cusp of an unprecedented age of information, urbanization, technological connectivity, and its promises.  WABF25 hopes to distill the influences that have driven change in the past and that will drive change in the future.<br><br>Our goals for the 25th Forum are simple but bold: to provide unparalleled insights into the opportunities and challenges of operating in Africa; to connect young professionals with leaders in Africa’s public, private and social sectors; and to inspire educated talent in the Diaspora to get involved in the development of the continent.<br><br>We look forward to hosting you this November in Philadelphia.<br><br>Sincerely,<br><br>Your WABF25 Leadership Team"
 aboutBlock:
- - {title: "Conference", image: "panels.jpg", text: "A full day of engaging panels with interesting speakers." }
- - {title: "Networking", image: "networking.jpg", text: "Multiple opportunities to network and meet others with an interest in business in Africa." }
- - {title: "Venture Competition", image: "venturecomp.jpg", text: "Come join the WABF Venture Competition and see the next generation of entrepreneurs pitch their ideas." }
+# - {title: "Conference", image: "panels.jpg", text: "A full day of engaging panels with interesting speakers." }
+# - {title: "Networking", image: "networking.jpg", text: "Multiple opportunities to network and meet others with an interest in business in Africa." }
+# - {title: "Venture Competition", image: "venturecomp.jpg", text: "Come join the WABF Venture Competition and see the next generation of entrepreneurs pitch their ideas." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "500", specialCharacter: "+", info: "attendees", detail: "from Africa and beyond"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of engaging programming"}
- - {count: "12", specialCharacter: "+", info: "panels", detail: "covering a variety of subjects"}
- - {count: "4", specialCharacter: "", info: "keynotes", detail: "by prominent speakers"}
+ - {count: "550", specialCharacter: "+", info: "attendees", detail: "from Africa and beyond"}
+ - {count: "5", specialCharacter: "", info: "Keynotes", detail: "by global trailblazers"}
+ - {count: "15", specialCharacter: "", info: "panels and Master Classes", detail: "covering a variety of subjects"}
+ - {count: "50", specialCharacter: "", info: "hours", detail: "of an unforgettable weekend"}
 
 # Latest News Block
 latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Impressive Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -141,104 +142,118 @@ subscribeInfo: "Sign up to stay in the loop with all our updates."
 # Tickets Block
 ticketsTitle: "Ticket Options"
 #ticketsInfo: "A limited number of discounted tickets will be available for select groups (e.g., students, alumni, YAM)."
+earlyBird: true
 ticketsOffers:
  -
-  name: "The Classic Package"
-  price: "250"
-  priceCurrency: "USD"
+  name: "Early Bird Registration"
+  #price: "250"
+  #priceCurrency: "USD"
   #ticketsNumber: "300"
   ribbon: "-25%"
   buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonText: "Register Now for Early Bird Pricing"
+  #additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
+  ticketContentList: ["Multiple registration options", "Get an Early Bird 25% discount on full price tickets"]
   validFrom: "2017-09-15T10:00"
-  validThrough: "2017-11-03T12:00"
+  validThrough: "2017-10-13T23:59"
   disabled: false
- -
-  name: "The Conference"
-  price: "150"
-  priceCurrency: "USD"
-  #ticketsNumber: "100"
-  ribbon: "-25%"
-  #featured: true
-  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Provides access to Friday and Saturday keynotes, industry breakout panels and prospective student events, New Venture Competition, and flagship Career Fair."
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-09-15T10:00"
-  validThrough: "2017-11-03T12:00"
-  disabled: false
- -
-  name: "The Gala"
-  price: "100"
-  priceCurrency: "USD"
-  #ticketsNumber: "100"
-  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Landmark black-tie cocktails, seated dinner, and Closing Keynote."
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-09-15T10:00"
-  validThrough: "2017-11-03T12:00"
-  #soldOut: true
-  #soldOutText: "Sold Out"
-  disabled: false
- -
-  name: "The Afterparty"
-  price: "75"
-  priceCurrency: "USD"
-  #ticketsNumber: "250"
-  ribbon: "-25%"
-  #featured: true
-  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Saturday Conference Afterparty headlined by private concert by top-billing performing artist."
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-09-15T10:00"
-  validThrough: "2017-11-03T12:00"
-  disabled: false
- -
-  name: "Friday Mixer"
-  price: "15"
-  priceCurrency: "USD"
-  #ticketsNumber: "250"
-  ribbon: "-25%"
-  #featured: true
-  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Buy Now"
-  additionalInfo: "The 1925 Lounge - tickets valid until 11:30pm."
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-09-15T10:00"
-  validThrough: "2017-11-03T12:00"
-  disabled: false
- -
-  name: "Sunday Young African MBA (YAM) Brunch"
-  price: "30"
-  priceCurrency: "USD"
-  #ticketsNumber: "250"
-  ribbon: "-25%"
-  #featured: true
-  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Join Young African MBAs for their annual brunch to bookend the WABF weekend."
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-09-15T10:00"
-  validThrough: "2017-11-03T12:00"
-  disabled: false
- -
-  name: "Sunday Wharton Alumni Brunch"
-  price: "20"
-  priceCurrency: "USD"
-  #ticketsNumber: "250"
-  ribbon: "-25%"
-  #featured: true
-  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Buy Now"
-  additionalInfo: "This event is open to Wharton Alumni. Registration required."
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-09-15T10:00"
-  validThrough: "2017-11-03T12:00"
-  disabled: false
+# -
+#  name: "The Classic Package"
+#  price: "250"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "300"
+#  ribbon: "-25%"
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "The Conference"
+#  price: "150"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "100"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Provides access to Friday and Saturday keynotes, industry breakout panels and prospective student events, New Venture Competition, and flagship Career Fair."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "The Gala"
+#  price: "100"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "100"
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Landmark black-tie cocktails, seated dinner, and Closing Keynote."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  #soldOut: true
+#  #soldOutText: "Sold Out"
+#  disabled: false
+# -
+#  name: "The Afterparty"
+#  price: "75"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Saturday Conference Afterparty headlined by private concert by top-billing performing artist."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "Friday Mixer"
+#  price: "15"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "The 1925 Lounge - tickets valid until 11:30pm."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "Sunday Young African MBA (YAM) Brunch"
+#  price: "30"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Join Young African MBAs for their annual brunch to bookend the WABF weekend."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "Sunday Wharton Alumni Brunch"
+#  price: "20"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "This event is open to Wharton Alumni. Registration required."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
 
 # Footer
 socialLinks:
