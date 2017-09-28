@@ -67,11 +67,11 @@ $figcaption-color: #3c4a50;
         position: absolute;
         bottom: 0;
         width: 100%;
-        height: 50px;
+        height: 60px;
         padding: 13px;
         z-index: 2;
         transition: $base-transition;
-        transform: translateY(100%);
+        transform: translateY(0);
         color: $figcaption-color;
         background: #fff;
         @media (max-width: 767px) {
@@ -79,14 +79,15 @@ $figcaption-color: #3c4a50;
         }
         h2 {
             font-size: 16px;
+            line-height: 1.3;
             font-weight: $regular;
             margin: 0;
             word-spacing: -2px;
             text-transform: uppercase;
             transition: $base-transition;
-            transform: translateY(-250%);
+            transform: translateY(0);
             transition-delay: .05s;
-            color: #fff;
+            color: #3c4a50;
             @media (max-width: 767px) {
                 transform: translateY(0);
                 color: #3c4a50;
@@ -109,7 +110,16 @@ $figcaption-color: #3c4a50;
             }
         }
         .position {
-            font-size: 12px;
+            font-size: 10px;
+            line-height: normal;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            @include trimText(12px, 1, 1);
+        }
+        .company {
+            font-size: 10px;
+            line-height: normal;
+            font-style: italic;
             @include trimText(12px, 1, 1);
         }
     }
