@@ -116,6 +116,12 @@ $figcaption-color: #3c4a50;
             white-space: nowrap;
             @include trimText(12px, 1, 1);
         }
+        .teamPosition {
+          font-size: 12px;
+          line-height: normal;
+          margin-top: 2px;
+          @include trimText(12px, 1, 1);
+        }
         .company {
             font-size: 10px;
             line-height: normal;

@@ -25,28 +25,6 @@
     #- {name: "github", link: "https://github.com/zasadnyy"}
     #- {name: "site", link: "http://zasadnyy.com/"}
 -
-  id: 2
-  name: "Halle"
-  surname: "Aberhm"
-  title: "Chief of Staff"
-  thumbnailUrl: team/Halle.jpg
-  orgTeam: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 3
-  name: "Maryam"
-  surname: "Alausa"
-  title: "Chief of Staff"
-  thumbnailUrl: team/Maryam.jpg
-  orgTeam: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/maryam-alausa-387111a7/"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
--
   id: 6
   name: "Chuka"
   surname: "Onugu"
@@ -56,6 +34,15 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/chukaonugu"}
     #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 17
+  name: "Daniel"
+  surname: "Kimani"
+  title: "VP, Marketing"
+  thumbnailUrl: team/Kimani.png
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dankimani/"}
 -
   id: 5
   name: "Kevin"
@@ -126,11 +113,114 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/ykwalker"}
     #- {name: "twitter", link: "http://olostan.name/"}
 -
-  id: 12
-  name: "Ransford"
-  surname: "Antwi"
-  title: "Director, Technology"
-  thumbnailUrl: team/Ransford.jpg
+  id: 13
+  name: "Angela"
+  surname: "Udemba"
+  title: "Director, Operations"
+  thumbnailUrl: team/Udemba.jpg
   orgTeam: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ransford-antwi-04975411a/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/angela-udemba-phd-31841a36/"}
+-
+  id: 22
+  name: "Damaris"
+  surname: "Kinyua"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Kinyua.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/damaris-kinyua-602b86103/"}
+-
+  id: 16
+  name: "Falgu"
+  surname: "Shah"
+  title: "Director, Content"
+  thumbnailUrl: team/Shah.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/falgu-shah-b6219544/"}
+-
+  id: 2
+  name: "Halle"
+  surname: "Aberhm"
+  title: "Chief of Staff"
+  thumbnailUrl: team/Halle.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 19
+  name: "Justin"
+  surname: "Karfo"
+  title: "Director, Content"
+  thumbnailUrl: team/Karfo.png
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wendboma/"}
+-
+  id: 18
+  name: "Kristina"
+  surname: "Sowah"
+  title: "Director, Sponsorships"
+  thumbnailUrl: team/Sowah.png
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kristina-sowah-8a054a36/"}
+-
+  id: 21
+  name: "Kofoworola"
+  surname: "Agbaje"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Agbaje.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kofoworola-agbaje-9b096432/"}
+-
+  id: 14
+  name: "Lisette"
+  surname: "Enumah"
+  title: ""
+  thumbnailUrl: team/Enumah.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lenumah/"}
+-
+  id: 3
+  name: "Maryam"
+  surname: "Alausa"
+  title: "Chief of Staff"
+  thumbnailUrl: team/Maryam.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maryam-alausa-387111a7/"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 23
+  name: "Naomi"
+  surname: "Senbet"
+  title: "Director, Careers"
+  thumbnailUrl: team/Senbet.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/naomisenbet/"}
+-
+  id: 15
+  name: "Nduka"
+  surname: "Nwankwo"
+  title: "Director, Prospective Students"
+  thumbnailUrl: team/Nwankwo.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ndukanwankwo"}
+-
+  id: 20
+  name: "Yusuf"
+  surname: "Kosoko"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Kosoko.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.instagram.com/djyoossouph/"}
