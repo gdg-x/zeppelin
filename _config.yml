@@ -1,6 +1,7 @@
 # Plugins
 plugins:
 - jekyll-sitemap
+- jekyll-seo-tag
 safe: false
 
 # Build Settings
@@ -10,12 +11,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "WABF25"
+title: "WABF 25"
 email: "wabf-info@wharton.upenn.edu"
 description: "The premier and longest running student-organized business conference focused on Africa."
 #baseurl: "/wabf25"
 baseurl: ""
-url: "https://nickolson.github.io"
+url: "http://wabf2017.whartonafrica.com"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "nickolson.github.io"
@@ -30,7 +31,7 @@ organizerEmail: "wabf-info@wharton.upenn.edu"
 organizerLink: "http://whartonafrica.com"
 
 # Head
-metaKeywords: "Wharton, conference, Africa, business, Philadelphia, student"
+metaKeywords: "Wharton, conference, Africa, business, Philadelphia, student, Wharton Africa Business Forum 2017, Wharton Africa Business Forum, WABF 2017, WABF 25, Wharton Africa Business Forum 25, #WABF25, #WABF2017"
 twitterAccount: "@wabf25"
  # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"

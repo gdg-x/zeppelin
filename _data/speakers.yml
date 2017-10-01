@@ -1,13 +1,13 @@
--
-  id: 1
-  name: "Hon. Okechukwu"
-  surname: "Enelamah"
-  company: "Federal Republic of Nigeria"
-  title: "Honourable Minister of Industry, Trade and Investment"
-  bio: "As Nigeria’s Minister of Industry, Trade and Investment (MITI), Mr. Okechukwu Enelamah oversees policy-making and implementation relating to industrialization of the economy, development of small and medium-scale enterprises (SMEs), promotion of exports and foreign direct investment, and the expansion of trade. The overall objective of the ministry is to ensure that policies and actions lead to inclusive growth, wealth and job creation, poverty reduction and ensure enhanced service delivery in a manner that will stimulate the growth of the domestic economy for self-reliance and export.<br><br>Prior to taking office on November 11, 2015, Mr. Enelamah worked as the Chief Executive Officer (CEO) of Africa Capital Alliance (ACA), an investment and financial advisory firm which he co-founded in 1998. ACA has now grown to be recognized as a leading private equity firm in West Africa.<br><br>Mr. Enelamah has 27 years of private sector experience spanning finance, consulting and auditing (Arthur Andersen & Co.), and private equity. Before co-founding ACA he gained private equity experience working at Zephyr Management L.P. in New York, and South Africa Capital Growth Fund in Johannesburg. ACA’s five funds – Capital Alliance Private Equity Funds I, II, III & IV, and Capital Alliance Property Investment Company (CAPIC) – have raised more than $1 Billion for investment in companies based in Nigeria and across West Africa.<br><br>Mr. Enelamah holds a Bachelor of Medicine, Bachelor of Surgery (MBBS) degree from the University of Nigeria (1985), and a Master’s in Business Administration (MBA) from the Harvard University Graduate School of Business (1994). He is also a Chartered Accountant (1992), and a Chartered Financial Analyst (CFA) (1997). He earned Dean’s List honours in his MBBS graduating class at the University of Nigeria, and was awarded national prizes in the Institute of Chartered Accountants of Nigeria (ICAN) examinations. At the Harvard Business School, he was elected a George F. Baker Scholar, and also named a Loeb Fellow."
-  thumbnailUrl: speakers/Enelamah.jpeg
-  keynote: true
-  rockstar: true
+#-
+#  id: 1
+#  name: "Hon. Okechukwu"
+#  surname: "Enelamah"
+#  company: "Federal Republic of Nigeria"
+#  title: "Honourable Minister of Industry, Trade and Investment"
+#  bio: "As Nigeria’s Minister of Industry, Trade and Investment (MITI), Mr. Okechukwu Enelamah oversees policy-making and implementation relating to industrialization of the economy, development of small and medium-scale enterprises (SMEs), promotion of exports and foreign direct investment, and the expansion of trade. The overall objective of the ministry is to ensure that policies and actions lead to inclusive growth, wealth and job creation, poverty reduction and ensure enhanced service delivery in a manner that will stimulate the growth of the domestic economy for self-reliance and export.<br><br>Prior to taking office on November 11, 2015, Mr. Enelamah worked as the Chief Executive Officer (CEO) of Africa Capital Alliance (ACA), an investment and financial advisory firm which he co-founded in 1998. ACA has now grown to be recognized as a leading private equity firm in West Africa.<br><br>Mr. Enelamah has 27 years of private sector experience spanning finance, consulting and auditing (Arthur Andersen & Co.), and private equity. Before co-founding ACA he gained private equity experience working at Zephyr Management L.P. in New York, and South Africa Capital Growth Fund in Johannesburg. ACA’s five funds – Capital Alliance Private Equity Funds I, II, III & IV, and Capital Alliance Property Investment Company (CAPIC) – have raised more than $1 Billion for investment in companies based in Nigeria and across West Africa.<br><br>Mr. Enelamah holds a Bachelor of Medicine, Bachelor of Surgery (MBBS) degree from the University of Nigeria (1985), and a Master’s in Business Administration (MBA) from the Harvard University Graduate School of Business (1994). He is also a Chartered Accountant (1992), and a Chartered Financial Analyst (CFA) (1997). He earned Dean’s List honours in his MBBS graduating class at the University of Nigeria, and was awarded national prizes in the Institute of Chartered Accountants of Nigeria (ICAN) examinations. At the Harvard Business School, he was elected a George F. Baker Scholar, and also named a Loeb Fellow."
+#  thumbnailUrl: speakers/Enelamah.jpeg
+#  keynote: true
+#  rockstar: true
 -
   id: 2
   name: "Hon. Kemi"
@@ -100,4 +100,94 @@
   title: "Portfolio Manager & Head of Energy Investing – Global Fixed Income, Currencies and Commodities"
   bio: "Ebele Kemery is Head of Energy Investing in JPMorgan Asset Management’s Global Fixed Income, Currency & Commodities (GFICC) group. Based in New York, Ebele is a portfolio manager on several JPMorgan Commodities Funds. Ebele focuses on commodities and their macro-economic implications on the global markets. Prior to this role, she provided institutional natural resources clients with tailored risk management solutions in the Investment Bank's Global Commodities Group. An employee since 2007, she previously held roles in London, New York and Houston as a physical and derivatives oil trader specializing in the North American and Transatlantic energy markets. Ebele is a frequent contributor to publications and media outlets, including the Wall Street Journal and Bloomberg TV, providing insight on energy and broad commodity markets. She earned a B.E. in electrical engineering from The Cooper Union for the Advancement of Science and Art, and is a member of the Wall Street Blockchain Alliance."
   thumbnailUrl: speakers/Kemery.jpg
+  panelist: true
+-
+  id: 12
+  name: "Obinwanne"
+  surname: "Okeke"
+  company: "Invictus Group"
+  title: "Chairman & CEO"
+  bio: "Obinwanne Okeke is the CEO of Invictus Group of Companies Ltd. He was named one of the most promising African entrepreneurs under 30 by Forbes, and covered the June 2016 Edition of the Forbes (Africa) Magazine. The 29 year old Nigerian has diverse business interests, which include Real Estate Development, Construction and Energy. Invictus Group of Companies operates in three African countries: Nigeria, South Africa and Zambia. His most recent business focus has been on building energy-efficient houses that rely exclusively on solar energy. In May 2017, The African Brand Congress awarded the Invictus Group of Companies Ltd the Africa’s Most Innovative Investment Company of the Year 2017 Award.<br><br>Mr. Okeke is one of Africa’s youngest and most sought after public speakers in matters of entrepreneurship and investment in the continent. Recently, he was nominated for the All African Business Leaders Award (AABLA) in the category of Young African Business Leader. The AABLA is the most prestigious award for businessmen in Africa. He is an alumnus of Monash University, Australia and Monash University, South Africa."
+  thumbnailUrl: speakers/Okeke.png
+  panelist: true
+-
+  id: 13
+  name: "Vincent"
+  surname: "Egbe"
+  company: "The Kraft Heinz Company"
+  title: "Country Manager, West and Central Africa"
+  bio: "Vincent Egbe is recognized as one of Africa’s emerging young business leaders and “Go to Market” innovators.  Over the last decade, Vincent pioneered and built some of the deepest consumer goods distribution networks across Africa, reaching and influencing over half a million retailers across Sub Sahara. He has also built some of Africa’s most successful FMCG brands and has been globally recognized for also building some of the most successful FMCG teams in Africa. Vincent’s distribution networks, category innovations and teams have played a key role in defining new market leaders in categories, channels and countries in Africa, disrupting incumbent market leaders who have been entrenched in Africa for decades.<br><br>Today, as a business leader, Vincent uses his “Africa as a startup” framework to enable companies build capabilities to forward and or backwards integrate and maps out the milestones and actions that will define the category journey from startup to market leader. Vincent believes that for companies to be sustainable, they must drive both superior value and profitability vs peers as well as a greater sense of prosperity in the communities they operate in. Vincent is a graduate of Geology and Mining from the University of Jos as well as P&Gs prestigious Global Innovation College. He is currently enrolled in Executive education at the Stanford GSB as part of the Catalyst Cohort of the Lead Program.  Vincent is an investor and mentor in a few African startups."
+  thumbnailUrl: speakers/Egbe.png
+  panelist: true
+-
+  id: 14
+  name: "Lance"
+  surname: "Christ"
+  company: "International Finance Corporation"
+  title: "Global Head, Natural Resources, Infrastructure & Natural Resources"
+  bio: "Lance Crist is Global Head of Natural Resources for IFC, the private sector arm of the World Bank Group.  Mr. Crist leads IFC’s financing and advisory services teams responsible for supporting the oil, gas & mining sectors.  IFC’s $2.5+ billion investment portfolio in these sectors includes more than 80 natural resource companies in over 35 countries across the emerging markets.  IFC’s financing includes investments in equity, mezzanine and senior debt; and the advisory services team provides support across a range of areas to assist clients in enhancing their sustainability.  Mr. Crist joined IFC in 1992 and has managed advisory mandates, project and corporate finance, and private equity transactions in the areas of general manufacturing and telecommunications, and prior to his current role he was IFC’s global head of oil & gas.  He earned a B.A. from Cornell University, and an MBA from the Wharton School."
+  thumbnailUrl: speakers/Christ.png
+  panelist: true
+-
+  id: 15
+  name: "Ike"
+  surname: "Eze"
+  company: "Centrro, Inc."
+  title: "Founder and CEO"
+  bio: "Mr. Ike Eze is a Founder of Centrro, Inc. and serves as its Chief Executive Officer. He served as the Chief Executive Officer of GPlay, a company best described as Netflix-for-video-games; became the CEO and built it into the #2 player before selling to Gamefly (#1). He also built QSpace, the first company to deliver credit reports on the Internet. QSpace built, raised angel and venture funds, and went on to be acquired ($130+ million) by Experian, a global credit bureau, and deliver over $1Billion in sales. Mr. Eze also worked for The Boston Consulting Group and Bechtel Inc. He serves as an Executive Director of E - Tranzact International Plc. Mr. Eze holds an M.B.A. from The Wharton School and is a graduate (Osberg Scholar) of San Francisco State University with a degree in Mechanical Engineering."
+  thumbnailUrl: speakers/Eze.png
+  panelist: true
+-
+  id: 16
+  name: "Patricia"
+  surname: "Chin-Sweeney"
+  company: "I-Dev International"
+  title: "Senior Partner"
+  bio: "Patricia is Co-Founder of I-DEV and has led many of I-DEV’s global engagements in agriculture, clean energy, tech and sustainable brands. She has over 13 years of experience advising SMEs and larger corporations on innovation, investment and impact strategies. Patricia led I-DEV’s launch and expansion into East Africa, and overseas global operations. Prior to joining I-DEV, Patricia worked at the Environmental Financial Consulting Group (EFCG), a boutique advisory firm to the engineering, environmental consulting and infrastructure sector, where she focused on M&A, operations and corporate strategy. She has an MBA from NYU’s Stern School of Business, and a B.A. in Environmental Science from Barnard College/Columbia University."
+  thumbnailUrl: speakers/ChinSweeney.png
+  panelist: true
+-
+  id: 17
+  name: "Edward"
+  surname: "Stokes"
+  company: "Intrepid HR"
+  title: "Managing Director"
+  bio: "Edward is the founder and Managing Director of Intrepid HR, a successful pan-African Leadership, Careers and Talent Management / Development advisory business. Our clients are the leading Investment Banks, Private Equity Firms and Fund Managers. We also assist our financial markets clients develop and optimize businesses they have invested in, through providing the leadership and talent required for these businesses in industry to reach their investment objectives. Following a career in finance and investment advisory, in 1990, Ed joined a global financial markets recruitment business in London where he worked with leading investment banks to build their capability. In 1996, recognizing the Africa opportunity, Ed set up a business in South Africa to understand and service the African market. Following 20 years experience across Africa, Ed and his team at Intrepid HR have deep understanding and sight of leadership and accelerated post MBA career opportunities across Africa."
+  thumbnailUrl: speakers/Stokes.png
+  panelist: true
+-
+  id: 18
+  name: "Jasmine"
+  surname: "Blanks Jones"
+  company: "B4 Youth Theatre"
+  title: "Executive Director"
+  bio: "Jasmine L. Blanks Jones is a Robert Wood Johnson Health Policy Research Scholar and a Dr. William Fontaine Fellow in Africana Studies.  As a dual PhD student in Education, Culture and Society, she is also a George and Alice S. Hill Fellow.  She graduated from Florida A&M University with a B.S. in Music Education and taught middle school music history and performance in Maryland.  Holding a Master of Public Policy degree from the Humphrey School of Public Affairs at the University of Minnesota, Blanks Jones founded and served as Executive Director for B4 Youth Theatre, a Liberian NGO that grew out of a pilot of her Master’s thesis which was a prospectus on arts education.  Her research interests include global public health, arts education, youth civic engagement in education, African post-colonialism and diaspora migrations, African American colonialism and antebellum history. Liberia is her primary research site where she engages in Participatory Action Research, Practitioner Inquiry, and critical ethnography."
+  thumbnailUrl: speakers/BlanksJones.png
+  panelist: true
+-
+  id: 19
+  name: "Kelvin"
+  surname: "Doe"
+  company: "Kelvin Doe Foundation"
+  title: "Engineer and Founder"
+  bio: "Kelvin Doe, also known as DJ Focus, is a Sierra Leonean engineer. He is known for teaching himself engineering at the age of 13 and building his own radio station in Sierra Leone, where he plays music and broadcasts news under the name 'DJ Focus.' He was one of the finalists in GMin's Innovate Salone idea competition, in which Doe built a generator from scrap metals. Doe would constantly use discarded pieces of scrap to build transmitters, generators, and batteries, as well. As a result of his accomplishment, he received an invitation to the United States and subsequently became the youngest person to participate in the 'Visiting Practitioner's Program' at MIT.<br><br>His accomplishments were documented by @radical.media and presented on their corporate YouTube channel. When the video went viral, the story was picked up by CNN, NBC News, and The Huffington Post. Doe subsequently was a speaker at TEDxTeen and lectured to undergraduate engineering students at Harvard College. In May 2013, Doe signed a $100,000 solar project pact with Canadian High Speed Service Provider Sierra WiFi. Today, Kevin Doe is one of the most respected among other young African inventors."
+  thumbnailUrl: speakers/Doe.png
+  panelist: true
+-
+  id: 20
+  name: "Dr. Francis"
+  surname: "Ukwuije"
+  company: "HealthCare"
+  title: "Senior Health Economist and Head"
+  bio: "Francis Ukwuije is a Medical Doctor, Public Health Specialist, and a Senior Health Economist, with over 13 years progressive Government, Private Sector, and NGOs experience. He gained automatic entry into the Federal Ministry of Health (FMOH) in 2007 having earned the prestigious Nigerian President’s Honours Award as the Best and Most Outstanding Corps Member in Nigeria for 2005 and 2006. As an exceptional Change Agent, he has catalyzed high impact interventions for health in Nigeria including leading a high-level advocacy that immediately resulted in the creation of the Nigerian National Hepatitis Control Program in 2013.<br><br>Having built a credible and successful public service career in strategic management and health financing, he was seconded to the Population Council Nigeria from 2012 to 2014 to lead Health Economics Research within which period he significantly expanded Council’s portfolio. Dr. Ukwuije successfully reviewed Enhancing Nigeria’s Response to HIV/AIDS (ENR) Value for Money (VFM) Framework and conducted VFM Analysis on the ENR Project for 2 years."
+  thumbnailUrl: speakers/Ukwuije.png
+  panelist: true
+-
+  id: 21
+  name: "Frederick"
+  surname: "Cooper"
+  company: "Toll Brothers, Inc."
+  title: "SVP - Finance, International Development & Investor Relations"
+  bio: "Fred Cooper joined Toll Brothers in 1993 to establish its Finance and Investor Relations Departments. Since formation, his team has raised over $15 billion from banks, the public markets, institutional lenders and partners.  In addition, the group advises on complex project structuring, joint ventures, corporate mergers and acquisitions and major property acquisitions. Fred has overseen Toll Brothers’ exploration of international development opportunities in Asian, Latin American, and Middle Eastern markets. He has been financial point for Toll’s expansion into the urban high-rise condo business, which has grown into an operation of over 40 buildings and 5,000 units, and into the rental apartment business, which now involves $2 billion in assets in a pipeline of completed and in-development projects totaling over 7,000 units.<br><br>From 1989-1993, Fred was Director of Finance and Planning at DKM Properties. From 1984-1989, he was Senior Vice President of New York City’s economic development bank.  From 1980-1983 he worked in community-based affordable housing and economic development in the South Bronx and Brooklyn, New York. He holds an A.B. from Brown University and a Master of Public Policy focused on finance/international development from Harvard’s Kennedy School of Government."
+  thumbnailUrl: speakers/Cooper.png
   panelist: true
