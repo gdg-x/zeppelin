@@ -19,7 +19,7 @@
     "description": "La semaine je suis facilitateur, animateur, accompagnateur sur différents sujets dont l'agilité. Le week-end je suis moniteur de saut à l’élastique ... une sorte de coaching. Jusqu’ici aucun rapport me direz vous La semaine je suis payé pour faire quelque chose qui est ma passion : aider des êtres humains à être plus à l’aise avec le tumulte du monde du travail. Le week-end, je suis bénévole : je garde les gens en vie. Jusqu’ici aucun rapport ! Oui ! Et voilà ... en fait il y a énormément de parallèles ! Je vous propose de parcourir la vie d'une entreprise qui tend à évoluer avec son environnement et la vie d'une personne, de personnes, qui va (vont) réaliser un changement très perturbant personnel nous regarderons les ponts qui existent entre ces différents contextes et envisagerons quelques clés pour la transformation d'une entreprise.",
     "complexity": "Débutant",
     "subtype": "presentation",
-    // "presentation": "http://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut",
+    "presentation": "https://www.slideshare.net/AurlienMorvant/transformations-tes-vos-prt-pour-le-grand-saut",
     "speakers": [43]
 }, {
     "id": 10001,
@@ -32,7 +32,7 @@
     "description": "Des clés pour comprendre l'enjeu du Management agile et sa posture de soutien",
     "complexity": "Débutant",
     "subtype": "presentation",
-    // "presentation": "https://fr.slideshare.net/ThierryGabrielCros/managez-agile-cara-lyon-2-mai-2017",
+    "presentation": "https://www.slideshare.net/ThierryGabrielCros/manager-agile-carte-boussole-et-territoire/1",
     "speakers": [19],
     "place": "Amphi"
 }, {
@@ -42,7 +42,7 @@
     "description": "Si quand on vous dit \"software craftsmanship\", vous répondez \"à vos souhaits\" ; si quand vous entendez \"TDD, BDD, DDD\" vous pensez \"encore des acronymes à la mode\" ; si quand on vous dit \"clean code\" vous vous dites \"ça n'existe pas\"... alors venez voir ce qui se cache derrière tout ça et comment gravir une à une les marches qui mènent au paradis des développeurs.",
     "complexity": "Intermédiaire",
     "subtype": "presentation",
-    // "presentation": "https://www.slideshare.net/niiils?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview",
+    "presentation": "https://www.slideshare.net/niiils/software-craftsmanship-je-commence-par-o",
     "speakers": [40]
 }, {
     "id": 10153,
@@ -58,7 +58,7 @@
     "description": "« Il était une fois la vie d’un Product Owner (PO) » est un retour d’expérience de 9 mois, une immersion dans la peau d’un Product Owner qui découvre son rôle et qui doit livrer son premier produit. Entre les visionnaires, les utilisateurs, l’équipe de développement et les investisseurs, il évolue dans un environnement exigeant, sans filet. De l’initiation à la maturité, ce Product Owner va vivre des échecs, des réussites et construire pas à pas son produit en utilisant des techniques d’expression de besoins dans le seul et unique but de valider ses hypothèses.  Entre fiction et réalité, « Il était une fois la vie d’un Product Owner » est une illustration concrète et fantastique du quotidien et de l’apprentissage d’un Product Owner fraîchement débarqué qui va gérer son produit en mode startup. ",
     "complexity": "Débutant",
     "subtype": "presentation",
-    // "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
+    "presentation": "http://talondagile.fr/2013/10/conference-il-etait-une-fois-la-vie-dun-product-owner/",
     "speakers": [17]
 }, {
     "id": 11151,
@@ -81,6 +81,7 @@
     "description": "Retour d'expérience sur la mise en oeuvre du Design Sprint au sein d'une grande DSI : UX et agilité à l'échelle ça fonctionne ? ",
     "complexity": "Débutant",
     "subtype": "presentation",
+    "presentation": "https://fr.slideshare.net/racheldubois/le-design-sprint-du-gant-agile",
     "speakers": [37, 6]
 }, {
     "id": 8,
@@ -106,6 +107,7 @@
     "description": "Retour d'expérience sur la \"libération\" de notre groupe et sur notre gouvernance collective et modes de travail dans le Sud-Ouest",
     "complexity": "Débutant",
     "subtype": "keynote",
+    "presentation": "https://www.slideshare.net/VanessaHumphreys1/librs-dlivrs",
     "speakers": [36]
 }, {
     "id": 13151,
@@ -114,7 +116,7 @@
     "description": "Dans l'univers informatique français, le métier de développeur est très peu valorisé.Il est considéré comme une basse tâche de réalisation réservée aux débutants et voué à disparaître avec l'avènement de la robotisation.Pour évoluer dans sa carrière, il faut ensuite s'orienter vers des \"vrais\" métiers comme le management ou l'expertise.A cette vision purement française des choses s'oppose une autre vision issue du Software Craftsmanship. Le développement est alors considéré comme un métier aux multiples facettes, en éternelle évolution et porteur d'avenir !",
     "complexity": "Débutant",
     "subtype": "keynote",
-    // "presentation": "https://www.slideshare.net/christopheheral/agile-tour-toulouse-2016-dveloppeur-aprs-30-ans-nastu-donc-aucune-ambition",
+    "presentation": "https://www.slideshare.net/christopheheral/agile-tour-toulouse-2016-dveloppeur-aprs-30-ans-nastu-donc-aucune-ambition",
     "speakers": [33]
 }, {
     "id": 13153,
@@ -147,6 +149,7 @@
     "description": "Souvent mal comprise et confondue avec l’érosion du logiciel, la dette technique a mauvaise presse. Elle reste pourtant un processus essentiel (si maitrisé correctement) lors des développements.A contrario, l’entropie logicielle est un phénomène naturel conduisant progressivement le logiciel à perdre en maintenabilité et évolutivité. Nous étudierons les causes d’accélération de cette entropie, mais surtout, comment combattre ce processus qui finit par bloquer l’évolution du logiciel (et au passage sa rentabilité) ?Une conférence ouverte à tous (y compris non développeurs), pour s’intéresser à pourquoi et comment le code source d’un logiciel finit par être immaintenable.",
     "complexity": "Débutant",
     "subtype": "presentation",
+    "presentation": "https://speakerdeck.com/lilobase/entropie-du-logiciel-dette-technique-and-complexite-accidentelle-agile-pays-basque-2017",
     "speakers": [39]
 }, {
     "id": 14303,
@@ -154,6 +157,7 @@
     "description": "Dans une démarche de Design thinking, la phase de conception se fait avec l’ensemble des participants du projet sous la forme d’ateliers. C’est souvent un moment clef où l’avenir du projet prend forme. Alors comment concevoir un atelier de co-conception pour qu’il fonctionne bien auprès des personnes qui vont participer et atteindre les objectifs fixés ? À partir d’un cas pratique, nous nous mettrons dans les conditions pour créer ensemble un atelier de co-conception. Nous appliquerons les mêmes techniques de facilitation que lors d’un atelier avec les clients afin de créer une belle dynamique dans les groupes. Le but est de découvrir les astuces et les principes qui permettent de faciliter efficacement un atelier de co-conception.",
     "complexity": "Intermédiaire",
     "subtype": "workshop",
+    "presentation": "http://blocnotes.iergo.fr/wp-content/uploads/2017/06/Co-concevoir-un-atelier-de-Co-conception.pdf",
     "speakers": [56]
 }, {
     "id": 14304,
@@ -169,6 +173,7 @@
     "description": "\"Il n’y a rien de plus inutile que de faire avec efficacité quelque chose qui ne doit pas du tout être fait.\" -Peter Drucker \nCette phrase vous parle ? Et bien venez ! \nNous parlerons de la vie du produit, de son idée à sa mise sur le marché en se concentrant sur la VALEUR. \n#LeanEntreprise #StoryMapping",
     "complexity": "Débutant",
     "subtype": "presentation",
+    "presentation": "https://fr.slideshare.net/alicebarralon9",
     "speakers": [8]
 }, {
     "id": 15302,
@@ -177,7 +182,7 @@
     "description": "# Tests Tout-Terrain Je fais des tests, mais: - Stubs, mock, fake, spy, property? je suis un peu paumé... - les tests unitaire, fonctionnels, techniques, de perfs, d'intégration c'est cher.- ca met 40 plombes! - Je débute, et franchement je ne sais pas par ou commencer. - legacy! FONCTION test_la_conf_TTT():    #Arrange    participants = genere_des_participants(2,MAX_DE_LA_SALLE) #au moins 2 orgas!    #Act    participants.viens_a_la_conf_TTT()     #Assert     POUR participant DANS participants:         ASSERT participant.a_appris_un_truc_sur_les_tests",
     "complexity": "Débutant",
     "subtype": "presentation",
-    // "presentation": "https://krilivye.github.io/TTT/",
+    "presentation": "https://krilivye.github.io/TTT/",
     "speakers": [15]
 }, {
     "id": 16301,
@@ -190,6 +195,7 @@
     "description": "Les \"méthodes\" de conduite du changement fonctionnent très mal lorsque l'on cherche à faire bouger les mentalités. Expériences et théories sur la nature profonde du changement dans les groupes humains",
     "complexity": "Débutant",
     "subtype": "workshop",
+    "presentation": "https://www.slideshare.net/francois_salazar/agile-pays-basque-2017-parcequon-ne-change-pas-une-culture-comme-on-change-une-roue-de-voiture/1"
     "speakers": [85]
 }, {
     "id": 16452,
@@ -206,7 +212,7 @@
     "description": "Vous vous demandez ce que NoEstimates veut dire en pratique, ou pourquoi vous devriez l'utiliser ? Peut être vous avez entendu parler du buzz, vous avez lu l'excellent livre de Vasco Duarte ou vous voulez simplement comprendre comment mieux planifier et réduire les risques. Si c'est le cas, vous devriez participer à ce jeu multi-joueurs, il vous aidera à :* Apprendre les bases du NoEstimates et pourquoi le concept peut aider* Savoir comment créer une manière risquée de planifier* Comprendre comment réduire la variation qui affecte la livraison",
     "complexity": "Débutant",
     "subtype": "workshop",
-    // "presentation": "https://mattphilip.wordpress.com/noestimates-game/",
+    "presentation": "https://mattphilip.wordpress.com/noestimates-game/",
     "speakers": [46]
 }, {
     "id": 16454,
@@ -215,6 +221,7 @@
     "description": "Si vous avez déjà travaillé sur un projet agile, vous avez sans doute rencontré la User Story. Vous avez même peut-être utilisé des \"persona\", ces fiches de personnage qui représentent un de vos utilisateurs type. Ces formats ont marqué une vraie étape dans l'évolution de la spécification agile et sont le support actuellement le plus largement utilisé pour la formalisation du besoin en mode agile. Mais est-ce suffisant ? Est-ce que cela permet de capter l'essence du besoin ? Pas forcément ! La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !",
     "complexity": "Intermediate",
     "subtype": "presentation",
+    "presentation": "https://speakerdeck.com/agabrillagues/agile-pays-basque-2017-job-story-penser-autrement-lexpression-du-besoin-agile",
     "speakers": [30]
 }, {
     "id": 17451,
