@@ -140,6 +140,15 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/falgu-shah-b6219544/"}
 -
+  id: 21
+  name: "Gbenga"
+  surname: "Alabi"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Alabi.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.instagram.com/gbenga-alabi-05a837128/"}
+-
   id: 2
   name: "Halle"
   surname: "Aberhm"
