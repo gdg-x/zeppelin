@@ -33,9 +33,43 @@ mentors:
   social:
     - {name: "twitter", link: "https://twitter.com/r_pourashraf"}
 
-
-
 - id: 2
+  name: "Stefanie"
+  surname: "Knoth"
+  bio: "<p>I'm a web developer who is enthusiastic about the possibilities of the internet to bring people together and make the world a better place. I am participating in ngGirls because I want to use my skills to help empowering women and give something back to the community.</p>
+"
+  thumbnailUrl: stefanie.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/sknoth"}
+
+- id: 3
+  name: "Betül"
+  surname: "Stewart"
+  bio: "<p>I am a developer working as a product developer/project manager that loves teaching others.</p>
+"
+  thumbnailUrl: betuel.png
+  rockstar: true
+  social:
+
+
+
+-
+  id: 4
+  name: "Shmuela"
+  surname: "Jacobs"
+  company: "ngGirls"
+  title: "Web Developer and Consultant, Founder"
+  description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
+  bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
+  thumbnailUrl: Shmuela_AC.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/shmool"}
+    - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
+    - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+
+- id: 5
   name: "Robert"
   surname: "Willemelis"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
@@ -53,23 +87,8 @@ mentors:
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
--
-  id: 3
-  name: "Shmuela"
-  surname: "Jacobs"
-  company: "ngGirls"
-  title: "Web Developer and Consultant, Founder"
-  description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
-  bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
-  thumbnailUrl: Shmuela_AC.png
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/shmool"}
-    - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
-    - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
 
-
-- id: 4
+- id: 6
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
