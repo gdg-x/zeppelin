@@ -53,7 +53,7 @@ navigationLinks:
 bottomNavigationLinks:
 # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
- - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
+# - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
  - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
  - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
@@ -69,14 +69,13 @@ rightNavigationButtons:
 heroImage: "eclipse.png"
 heroTitle: "ngGirls"
 eventDate: "Upcoming workshops:
- <br/>September 24th, 2017, Warsaw
  <br/>October 15h, 2017, Lviv
  <br/>November 2nd, 2017, Freiburg
  <br/>November 6th, 2017, London"
 heroButtons:
 # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
- - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
+# - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
  - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
  - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
