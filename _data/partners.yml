@@ -7,15 +7,21 @@
   group: "Silver Sponsors"
   elements:
     - {name: "IFC", description: "IFC", link: "http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png", width: "350px"}
+    - {name: "Bain & Company", description: "Bain & Company", link: "http://bain.com/", imageUrl: "bain.svg", width: "350px"}
 -
   group: "Ruby Sponsors"
   elements:
     - {name: "Swiss Re", description: "Swiss Re", link: "http://www.swissre.com/", imageUrl: "SwissRe.svg", width: "175px"}
 -
-  group: "Partners"
+  group: "Corporate Partners"
   elements:
     - {name: "Dalberg", description: "Dalberg", link: "http://www.dalberg.com/", imageUrl: "Dalberg.svg", width: "125px"}
     - {name: "Intrepid HR", description: "Intrepid HR", link: "http://www.intrepidhr.co.za/", imageUrl: "IntrepidHR.jpg", width: "140px"}
+    - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", width: "350px"}
+-
+  group: "Event Partners"
+  elements:
+    - {name: "Oxford Business Group", description: "Oxford Business Group", link: "http://www.oxfordbusinessgroup.com/", imageUrl: "oxford.png", width: "125px"}
 -
   group: "Travel Partners"
   elements:
