@@ -1,0 +1,19 @@
+<!-- Begin Latest News Section -->
+<section id="latest-news" class="latest-news">
+  <div class="content-wrapper">
+    <div class="col-lg-10 col-lg-offset-1">
+      <article class="row">
+        <div class="col-sm-2">
+          <h4 class="latest-news-title">{{ site.latestNewsTitle }}</h4>
+        </div>
+        {% for post in site.data.colombia.posts limit:2 %}
+        <div class="col-sm-10 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+          <h6>{{ post.title }}</h6>
+          {{ post.content }}
+        </div>
+        {% endfor %}
+      </article>
+    </div>
+  </div>
+</section>
+<!-- End Latest News Section -->
