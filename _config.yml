@@ -51,16 +51,16 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/venturecomp/", text: "Venture Competition"}
  -
-   subText: "Prior Years"
+   subText: "Archive"
    links:
      - {link: "http://wabf2016.whartonafrica.com", text: "WABF 2016"}
      - {link: "http://wabf2015.whartonafrica.com", text: "WABF 2015"}
      - {link: "http://wabf2014.whartonafrica.com", text: "WABF 2014"}
      - {link: "http://wabf2013.whartonafrica.com", text: "WABF 2013"}
 bottomNavigationLinks:
- - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now for Early Bird Pricing"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register for Early Bird Pricing"}
 rightNavigationButtons:
- - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now for Early Bird Pricing"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register for<br>Early Bird Pricing"}
 
 # Hero Block
 heroImage: "hero.jpg"

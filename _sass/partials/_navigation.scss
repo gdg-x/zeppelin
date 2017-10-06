@@ -8,7 +8,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     z-index: 500;
     width: 100%;
     padding: 0 45px;
-    @media (min-width: 768px) and (max-width: 991px) {
+    @media (min-width: $screen-sm-min) and (max-width: $screen-md-max) {
         padding: 13px 0 0 34px;
     }
     &.after-scroll {
@@ -39,9 +39,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .logo {
         display: inline-block;
         float: left;
-        width: 185px;
+        width: 130px;
         height: 60px;
-        margin-right: 20px;
+        margin-right: 0px;
         transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
@@ -50,9 +50,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     }
 }
 .logo-navbar {
-    width: 185px;
+    width: 130px;
     height: 60px;
-    margin: 8px 20px 0 -10px;
+    margin: 8px 0 0 -20px;
     transform: scale(.6);
     vertical-align: middle;
 }
@@ -157,12 +157,13 @@ nav {
     }
 }
 .right-nav-button {
-    margin: 11px 11px 0 0;
+    // margin: 11px 11px 0 0;
+    margin: 5px 6px 0 0;
     transition: $base-transition;
     opacity: 1;
     display: block;
     &:nth-of-type(1) {
-        margin-right: 65px;
+        margin-right: 20px;
     }
     a {
         font-size: $base-font-size * 90 / 100;
