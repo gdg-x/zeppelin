@@ -7,7 +7,7 @@
   group: "Silver Sponsors"
   elements:
     - {name: "IFC", description: "IFC", link: "http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png", width: "350px"}
-    - {name: "Bain & Company", description: "Bain & Company", link: "http://bain.com/", imageUrl: "bain.svg", width: "350px"}
+    - {name: "Bain & Company", description: "Bain & Company", link: "http://bain.com/", imageUrl: "bain.svg", width: "150px"}
 -
   group: "Ruby Sponsors"
   elements:
