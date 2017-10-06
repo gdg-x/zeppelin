@@ -16,6 +16,8 @@ partners:
    elements:
      - {name: "AngularConnect", description: "AngularConnect 2017 conference",
         link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops", imageUrl: "angular-connect.png"}
+     - {name: "ngArhus", description: "ngArhus - Angular Meetup group in Århus, Denmark",
+        link: "https://www.meetup.com/ngAarhus/", imageUrl: "ngAarhus.png", width: '100px'}
 
 
 mentors:
