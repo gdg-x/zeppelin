@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "Premios de Datos Abiertos de Madrid 2017"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "En colaboración con Medialab-Prado y el Laboratorio de Datos DataLab, el Ayuntamiento de Madrid lanza la segunda convocatoria de los concursos de Periodismo de Datos y Datatón Ciudad de Madrid con el objetivo de fomentar el uso de la información del sector público del Portal de Datos Abiertos"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
