@@ -1,25 +1,25 @@
-eventDate: "November 18th, 2017, Medellín"
-applicationForm: "https://goo.gl/forms/ZdQPvsg4sRZ7KJEZ2"
-mentorsForm: "https://goo.gl/forms/jdizK79iQg8YDlh32"
+eventDate: "Noviembre 11, 2017, Medellín"
+applicationForm: "https://goo.gl/oLL7SV"
+mentorsForm: ""
 descriptionTitle: "ngGirls Colombia"
 descriptionBlock:
- - {title: "Who is it for?", template: "colombia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
-# - {title: "Schedule", template: "colombia/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "colombia/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
-                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
-                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+ - {title: "¿Para quién es?", template: "colombia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
+ - {title: "Agenda", template: "colombia/description-schedule.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
+#- {title: "Can I help?", template: "colombia/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+#                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+#                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
 
 partners:
 
 -
-   group: "With support of"
+   group: "Con apoyo de"
    elements:
-     - {name: "GDG DevFest Ukraine", description: "The biggest Google tech conference in CEE",
-        link: "https://devfest.gdg.org.ua/", imageUrl: "DevFest-Ukraine.svg"}
-     - {name: "Angular Lviv", description: "Angular Lviv Meetup Group",
-        link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "AngularLviv.png", style: "transform: scale(0.7)"}
-     - {name: "TechMagic", description: "The Best Mobile & JavaScript Stack Ninjas In One Place",
-        link: "http://www.techmagic.co/", imageUrl: "logo-techmagic.svg", style: "transform: scale(1.2)"}
+     - {name: "Ng Colombia", description: "",
+        link: "http://ng-colombia.org/", imageUrl: "DevFest-Ukraine.svg"}
+     - {name: "Yuxi Global", description: "",
+        link: "http://yuxiglobal.com/", imageUrl: "AngularLviv.png", style: "transform: scale(0.7)"}
+     - {name: "Angular Medelín", description: "",
+        link: "http://angularmedellin.com/", imageUrl: "logo-techmagic.svg", style: "transform: scale(1.2)"}
 
 
 mentors:
