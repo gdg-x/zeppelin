@@ -93,6 +93,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicksolson"}
     - {name: "twitter", link: "https://twitter.com/nickolson"}
 -
+  id: 25
+  name: "Steve"
+  surname: "Rizoli"
+  title: "VP, Content"
+  thumbnailUrl: team/Rizoli.png
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/steve-rizoli-6b918612/"}
+-
   id: 8
   name: "Robel"
   surname: "Chiappini"
@@ -122,6 +131,33 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/angela-udemba-phd-31841a36/"}
 -
+  id: 27
+  name: "Buki"
+  surname: "Samuel"
+  title: "Director, Social"
+  thumbnailUrl: team/Buki.jpg
+  orgTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/adebunkola.samuel"}
+-
+  id: 26
+  name: "Chika"
+  surname: "Ofili"
+  title: "Director, Operations"
+  thumbnailUrl: team/Ofili.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chika-ofili-32597345/"}
+-
+  id: 29
+  name: "Christiana"
+  surname: "Kallon"
+  title: "Director, Content"
+  thumbnailUrl: team/Kallon.jpg
+  orgTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/CSKallon"}
+-
   id: 22
   name: "Damaris"
   surname: "Kinyua"
@@ -139,6 +175,15 @@
   orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/falgu-shah-b6219544/"}
+-
+  id: 28
+  name: "Fanta"
+  surname: "Conde"
+  title: "Director, Content"
+  thumbnailUrl: team/Fanta.JPG
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "www.linkedin.com/in/fanta-conde-b914a029"}
 -
   id: 21
   name: "Gbenga"
