@@ -23,6 +23,10 @@
   elements:
     - {name: "Oxford Business Group", description: "Oxford Business Group", link: "http://www.oxfordbusinessgroup.com/", imageUrl: "oxford.png", width: "125px"}
 -
+  group: "Media Partners"
+  elements:
+    - {name: "Z News Media", description: "Z News Media", link: "http://znewsafrica.com/", imageUrl: "ZNEWS.jpg", width: "125px"}
+-
   group: "Travel Partners"
   elements:
     - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", width: "350px"}
