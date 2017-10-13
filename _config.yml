@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "#WABF25"
+title: "WABF25 | Wharton Africa Business Forum 2017"
 email: "wabf-info@wharton.upenn.edu"
 description: "The premier and longest running student-organized business conference focused on Africa."
 #baseurl: "/wabf25"
