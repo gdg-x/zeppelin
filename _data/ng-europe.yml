@@ -1,0 +1,79 @@
+eventDate: "February 3rd, 2018, Paris<br />"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSdTFH-ZW0o7l0Gx_RSNBJf1k01Tm9uP5pYyiefQFOO9ee8Qyg/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSfh0JoHh-VxRGoAFNH14w4Z3xZSDNAMX74JkayajEjSb4zfrw/viewform"
+jsunconfSite: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/"
+descriptionTitle: "ngGirls @ ngEurope"
+descriptionBlock:
+ - {title: "Who is it for?", template: "ng-europe/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "ng-europe/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ng-europe/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "ng-europe", description: "ng-europe 2018", link: "https://www.ngeurope.org", imageUrl: "ng-europe.png"}
+
+
+mentors:
+
+- id: 1
+  name: "Ashnita"
+  surname: "Bali"
+  bio: "<p> I hope to meet and support girls in technology, to help make learning a fun and exciting experience and through mentoring continue my own learning. I love coding and am a fan of Angular and JavaScript. I am really excited about being part of ngGirls.
+  </p><p>
+I would like to help girls build their skills and confidence in becoming an IT professional.</p>
+"
+  thumbnailUrl: ashnita.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ashnita01"}
+
+
+- id: 2
+  name: "Douglas"
+  surname: "Duteil"
+  bio: "<p>
+First time participating as a mentor for an Angular workshop, thanks a lot Robert Willemelis. </p><p>
+Female, male, white, black, blue, green or purple, I don't care. For me anyone who shares the same passion as me is welcome.</p><p>
+I have grown up contributing to open source not knowing who is contributing, never caring about the person, but caring about the contribution.</p><p>
+Anyway I learnt a lot at from @sarahd0ran, at the AngularConnect (2015 unconf), how important it is to make girls-only events.</p><p>
+So I want to be part of the ng-girls to contribute to it   
+As a close friend of mine says  : 'We really are all Same Same but Different'. 
+Let's have fun :)</p>
+"
+  thumbnailUrl: douglas.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/douglasduteil"}
+
+
+- id: 3
+  name: "Robert"
+  surname: "Willemelis"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+
+
+- id: 4
+  name: "And You?"
+  surname: ""
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
