@@ -20,6 +20,8 @@ partners:
         link: "http://ng-colombia.org/", imageUrl: "ngcolombia.svg", style: "transform: scale(0.8)"}
      - {name: "Angular Medelín", description: "Colombia's largest Angular Meetup",
         link: "http://angularmedellin.com/", imageUrl: "AngularMed.jpg", style: "transform: scale(1.2)"}
+     - {name: "Pioneras Developers", description: "",
+        link: "https://www.meetup.com/es-ES/PionerasDevelopers/", imageUrl: "pioneras_dev.png", style: "transform: scale(0.8)"}
      
      
 
@@ -29,39 +31,31 @@ mentors:
 - id: 1
   name: "Juan"
   surname: "Villa"
-  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
-   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
-   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
-   So it is important to support them.</p>
-   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
-   <p>There are several projects with an impressive diversity support and very good material.<p>
-   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
-   in which he shows how important and good it can be to give something back to the community and how important
-   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>"
-  thumbnailUrl: robert.png
+  bio: "<p>Systems Engineer: Organizador de diferentes talleres en Angular Medellín</p>"
+  thumbnailUrl: juanVilla.png
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+    - {name: "github", link: "https://github.com/jevvilla"}
 
 - id: 2
   name: "Laura"
   surname: "Ciro"
-  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
-   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
-   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
-   So it is important to support them.</p>
-   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
-   <p>There are several projects with an impressive diversity support and very good material.<p>
-   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
-   in which he shows how important and good it can be to give something back to the community and how important
-   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>"
+  bio: "<p>Full-Stack developer: Amo programar y la comunidad entorno a la programación y el OSS, organizadora de Pioneras Dev y Rails Girls Medellin y Pereira </p>"
   thumbnailUrl: laura.jpeg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ltciro"}
     - {name: "github", link: "https://github.com/ltciro"}
 
-
+- id: 3
+  name: "Juan"
+  surname: "Herrera"
+  bio: "<p>Front-end developer: I ❤️ social web apps and OSS, 🎤 in a choir, and  dance, Angular Medellin & Ng Colombia organizer </p>"
+  thumbnailUrl: JuanHerrera.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jdjuan"}
+    - {name: "github", link: "https://github.com/jdjuan"}
 #- id: 2
 #  name: "And You?"
 #  surname: ""
