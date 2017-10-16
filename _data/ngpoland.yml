@@ -4,8 +4,8 @@ mentorsForm: "https://goo.gl/forms/dIIKJiSqO0e7cDe02"
 ngpolandSite: "http://ng-poland.pl/"
 descriptionTitle: "ngGirls @ ngPoland"
 descriptionBlock:
- - {title: "Who is it for?", template: "ngpoland/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "ngpoland/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+ - {title: "Who is it for?", template: "ngPoland/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ngPoland/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
 partners:
