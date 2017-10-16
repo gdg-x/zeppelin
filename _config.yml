@@ -143,21 +143,33 @@ subscribeInfo: "Sign up to stay in the loop with all our updates."
 # Tickets Block
 ticketsTitle: "Ticket Options"
 #ticketsInfo: "A limited number of discounted tickets will be available for select groups (e.g., students, alumni, YAM)."
-earlyBird: true
+#earlyBird: true
 ticketsOffers:
  -
-  name: "Early Bird Registration"
+  name: "Regular Registration"
   #price: "250"
   #priceCurrency: "USD"
   #ticketsNumber: "300"
-  ribbon: "-25%"
   buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
-  buyButtonText: "Register Now for Early Bird Pricing"
+  buyButtonText: "Register Now"
   #additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
-  ticketContentList: ["Multiple registration options", "Get an Early Bird 25% discount on full price tickets"]
+  ticketContentList: ["Multiple registration options"]
   validFrom: "2017-09-15T10:00"
-  validThrough: "2017-10-13T23:59"
+  validThrough: "2017-11-02T23:59"
   disabled: false
+# -
+#  name: "Early Bird Registration"
+#  #price: "250"
+#  #priceCurrency: "USD"
+#  #ticketsNumber: "300"
+#  ribbon: "-25%"
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Register Now for Early Bird Pricing"
+#  #additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
+#  ticketContentList: ["Multiple registration options", "Get an Early Bird 25% discount on full price tickets"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-10-13T23:59"
+#  disabled: false
 # -
 #  name: "The Classic Package"
 #  price: "250"

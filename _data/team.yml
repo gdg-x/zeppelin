@@ -205,6 +205,15 @@
     #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
+  id: 30
+  name: "John"
+  surname: "Okenwa"
+  title: "Director, Prospective Students"
+  thumbnailUrl: team/Okenwa.jpg
+  orgTeam: true
+  social:
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/wendboma/"}
+-
   id: 19
   name: "Justin"
   surname: "Karfo"

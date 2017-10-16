@@ -132,9 +132,9 @@
   id: 15
   name: "Ike"
   surname: "Eze"
-  company: "Centrro, Inc."
-  title: "Founder and CEO"
-  bio: "Mr. Ike Eze is a Founder of Centrro, Inc. and serves as its Chief Executive Officer. He served as the Chief Executive Officer of GPlay, a company best described as Netflix-for-video-games; became the CEO and built it into the #2 player before selling to Gamefly (#1). He also built QSpace, the first company to deliver credit reports on the Internet. QSpace built, raised angel and venture funds, and went on to be acquired ($130+ million) by Experian, a global credit bureau, and deliver over $1Billion in sales. Mr. Eze also worked for The Boston Consulting Group and Bechtel Inc. He serves as an Executive Director of E - Tranzact International Plc. Mr. Eze holds an M.B.A. from The Wharton School and is a graduate (Osberg Scholar) of San Francisco State University with a degree in Mechanical Engineering."
+  company: "Beta.Ventures"
+  title: "Managing Partner"
+  bio: "Ike Eze is a Nigeria-based Managing Partner of Beta.Ventures (<a href="www.beta.ventures">www.beta.ventures</a>), a US venture capital fund focused on early stage investments in disruptive technology and technology-enabled startups in Africa. Previously he worked at Boston Consulting Group, Bechtel and AT&T; he founded QSpace, a fintech startup which was acquired by Experian; was the primary investor in GPlay, an online gaming firm; and, led Centrro, a fintech company that completed a buyout of an automotive marketing services company from a Fortune 500 Company, before being acquired. He currently serves on the boards of eTranzact, Yuzah, HelpPay and Elephab, and the advisory board of InvestmentOne VenCap. Ike holds an MBA from The Wharton School at the University of Pennsylvania and a Bachelors (Oseberg Scholar) in Mechanical Engineering from San Francisco State University.
   thumbnailUrl: speakers/Eze.png
   panelist: true
 -
@@ -208,4 +208,22 @@
   title: "ExxonMobil Chemicals"
   bio: "Shawn Emerson Simmons, PhD is currently the Environmental & Permitting Manager for the Gulf Coast Growth Venture for ExxonMobil Chemicals.  Prior to this assignment she was the Water, Waste and State Regulatory Manager for the Central Safety, Security, Health, and Environment (SSH&E) Organization of Exxon Mobil Corporation. Simmons has led global teams as a supervisor, responsible for environmental & regulatory issues in Africa, Asia Pacific, Australia, and Europe. From 2007-2012, Simmons worked and lived in Lagos, Nigeria with her family.  Simmons is a 1989 graduate of Booker T. Washington’s High School for the Engineering Professions in Houston, Texas.  She has been with ExxonMobil for 17 years, primarily in the Safety, Security, Health, and Environment (SSHE) job family in the Upstream, Chemicals and Downstream sectors. Simmons earned a B.S. in Petroleum Engineering from the University of Oklahoma, a M.S. in Environmental Engineering from Rice University, and a PhD in Environmental Toxicology from Texas Southern University. She and her husband, Philip have been married for 22 years and have 2 children, Jonathan and Jacquelyn.  Simmons is passionate about volunteer service and leadership development. "
   thumbnailUrl: speakers/Simmons.jpg
-  keynote: true
+  panelist: true
+-
+  id: 24
+  name: "Idris"
+  surname: "Mohammed"
+  company: "The Carlyle Group"
+  title: "Managing Director"
+  bio: "Idris Mohammed is a Managing Director of The Carlyle Group focused on buyout and growth opportunities in Sub-Saharan Africa. He is based in Lagos, Nigeria.<br><br>Mr. Mohammed has more than 15 years of private equity experience spanning the U.S. and Africa across a variety of sectors.<br><br>Prior to joining Carlyle in 2017, Mr. Mohammed was at leading Africa-focused private equity firm DPI.  He was based in London and headed the Lagos office.  He helped raise 2 funds at DPI and led a number of acquisitions across Africa, including in Botswana, Nigeria, and Egypt.  Mr Mohammed began his private equity career at Goldman Sachs in New York where he was a member of the Special Situations Group and helped build the clean energy investing business before deciding to return home to invest in Africa.<br><br>Mr. Mohammed received his BS in Industrial Engineering from Lehigh University and his MBA from the Wharton School of the University of Pennsylvania."
+  thumbnailUrl: speakers/Mohammed.tiff
+  panelist: true
+-
+  id: 24
+  name: "Yaw"
+  surname: "Agyenim-Boateng"
+  company: "McKinsey & Company"
+  title: "Partner"
+  bio: "Yaw Agyenim-Boateng joined the firm in 2005. He co-leads McKinsey’s Consumer Packaged Goods, High Tech, Media & Entertainment, and Telecommunications Practices.<br><br>Yaw serves multinationals and private-sector institutions across Africa on issues of strategic market entry, route to market, and sales and distribution topics. He focuses on reaching the African consumer through fragmented trade. He has worked in both Africa and the Americas.<br><br>Prior to joining McKinsey, Yaw worked as an investment-banking analyst focusing on media and telecommunications companies at Merrill Lynch in New York. He also cofounded a Ghana-based consumer-lending company and led finance and healthcare initiatives in rural Sierra Leone and Tanzania."
+  thumbnailUrl: speakers/Boateng.png
+  moderator: true
