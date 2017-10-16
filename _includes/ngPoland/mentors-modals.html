@@ -1,0 +1,49 @@
+<!-- Begin Team Member Modals -->
+<div class="modals" class="modals">
+	{% for speaker in site.data.ngpoland.mentors %}
+	{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
+	<div class="modal fade text-left people-modal" id="mentorDetailFrontendCon-{{ speaker.id }}" tabindex="-1" role="dialog"
+			 aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="close">
+						<svg class="icon icon-cross" viewBox="0 0 32 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+						</svg>
+						<div class="close-mask" data-dismiss="modal"></div>
+					</div>
+
+					<h4>{{ speaker.name }} {{ speaker.surname }}</h4>
+					<h5>{{ speaker.title }}</h5>
+					<hr>
+					<div class="people-details">
+						<div class="row">
+							<div class="col-md-2 col-sm-2">
+								<div class="flow-img img-circle people-img"
+										 style="background-image: url({{ site.baseurl | append: '/img/ngpoland-mentors/' | append: speaker.thumbnailUrl }})"></div>
+							</div>
+							<div class="col-md-10 col-sm-10 details">
+								<p class="about">{{ speaker.bio }}</p>
+								<ul class="social">
+									{% for social in speaker.social %}
+									<li>
+										<a href="{{ social["link"] }}" target="_blank">
+										<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+										<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+										</svg>
+										</a>
+									</li>
+									{% endfor %}
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	{% endif %}
+	{% endfor %}
+</div>
+<!-- End Team Member Modals -->

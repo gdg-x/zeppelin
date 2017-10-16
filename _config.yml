@@ -55,8 +55,9 @@ bottomNavigationLinks:
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
 # - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
 # - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
+ - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
  - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
- - {permalink: "/freiburg/", text: "ngGirls Freiburg"}
+ - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
 rightNavigationButtons:
@@ -74,7 +75,7 @@ upcomingEvents:
  - {permalink: "/freiburg/", date: "November 2nd, 2017", location: "Freiburg", name: "ngGirls @ Freiburg"}
  - {permalink: "/angular-connect/", date: "November 6th, 2017", location: "London", name: "ngGirls @ AngularConnect"}
 # - {permalink: "/NgColombia/", date: "November 18th, 2017", location: "Medellín", name: "ngGirls @ NgColombia"}
-# - {permalink: "/ngPoland/", date: "November 19th, 2017", location: "Warsaw", name: "ngGirls @ ngPoland"}
+ - {permalink: "/ngPoland/", date: "November 19th, 2017", location: "Warsaw", name: "ngGirls @ ngPoland"}
 # - {permalink: "/poznan/", date: "December 9th, 2017", location: "Poznań", name: "ngGirls @ Poznań"}
  - {permalink: "/ng-europe/", date: "February 3rd, 2018", location: "Paris", name: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", date: "February 28th, 2018", location: "Helsinki", name: "ngGirls @ ngVikings"}
@@ -83,8 +84,9 @@ heroButtons:
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
 # - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
 # - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
+ - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
  - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
- - {permalink: "/freiburg/", text: "ngGirls Freiburg"}
+ - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
 # - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
