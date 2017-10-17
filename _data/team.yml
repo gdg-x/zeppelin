@@ -212,7 +212,7 @@
   thumbnailUrl: team/Okenwa.jpg
   orgTeam: true
   social:
-    #- {name: "linkedin", link: "https://www.linkedin.com/in/wendboma/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/johnokenwa/"}
 -
   id: 19
   name: "Justin"
