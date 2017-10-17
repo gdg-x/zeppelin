@@ -153,7 +153,7 @@ ticketsOffers:
   buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
   buyButtonText: "Register Now"
   #additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
-  ticketContentList: ["Multiple registration options"]
+  ticketContentList: ["Multiple registration options available"]
   validFrom: "2017-09-15T10:00"
   validThrough: "2017-11-02T23:59"
   disabled: false

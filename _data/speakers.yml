@@ -132,9 +132,9 @@
   id: 15
   name: "Ike"
   surname: "Eze"
-  company: "Beta.Ventures"
-  title: "Managing Partner"
-  bio: "Ike Eze is a Nigeria-based Managing Partner of Beta.Ventures (www.beta.ventures), a US venture capital fund focused on early stage investments in disruptive technology and technology-enabled startups in Africa. Previously he worked at Boston Consulting Group, Bechtel and AT&T; he founded QSpace, a fintech startup which was acquired by Experian; was the primary investor in GPlay, an online gaming firm; and, led Centrro, a fintech company that completed a buyout of an automotive marketing services company from a Fortune 500 Company, before being acquired. He currently serves on the boards of eTranzact, Yuzah, HelpPay and Elephab, and the advisory board of InvestmentOne VenCap. Ike holds an MBA from The Wharton School at the University of Pennsylvania and a Bachelors (Oseberg Scholar) in Mechanical Engineering from San Francisco State University."
+  company: ""
+  title: "Tech Investor"
+  bio: "Ike Eze is Nigeria-based and focuses on early stage investments in technology startups in Africa. Previously he worked at Boston Consulting Group, Bechtel and AT&T; he founded QSpace, a fintech startup which was acquired by Experian; was the primary investor in GPlay, an online gaming firm; and, led Centrro, a fintech company that completed a buyout of an automotive marketing services company from a Fortune 500 Company, before being acquired. He currently serves on the boards of eTranzact, Yuzah, HelpPay and Elephab, and the advisory boards of InvestmentOne VenCap and The African Network. Ike holds an MBA from The Wharton School at the University of Pennsylvania and a Bachelors in Mechanical Engineering (Oseberg Scholar) from San Francisco State University."
   thumbnailUrl: speakers/Eze.png
   panelist: true
 -
@@ -227,3 +227,12 @@
   bio: "Yaw Agyenim-Boateng joined the firm in 2005. He co-leads McKinsey’s Consumer Packaged Goods, High Tech, Media & Entertainment, and Telecommunications Practices.<br><br>Yaw serves multinationals and private-sector institutions across Africa on issues of strategic market entry, route to market, and sales and distribution topics. He focuses on reaching the African consumer through fragmented trade. He has worked in both Africa and the Americas.<br><br>Prior to joining McKinsey, Yaw worked as an investment-banking analyst focusing on media and telecommunications companies at Merrill Lynch in New York. He also cofounded a Ghana-based consumer-lending company and led finance and healthcare initiatives in rural Sierra Leone and Tanzania."
   thumbnailUrl: speakers/Boateng.png
   moderator: true
+-
+  id: 25
+  name: "Jalil"
+  surname: "Bensouda"
+  company: "McKinsey & Company"
+  title: "Managing Partner, Casablanca"
+  bio: "Jalil Bensouda is a partner in McKinsey’s Casablanca office and supports clients in our Financial services, Private Equity and Digital practices among others.<br><br>He coordinates the work in the private sector in Francophone Africa, on issues of holistic transformations, growth strategies, and investment decisions.  He also works very closely with our clients, especially in the industrial and mining sector, on operational transformations including resource optimization and systems of production’s performance.<br><br>Jalil is also one of the founders of a McKinsey Digital Studio in Casablanca, dedicated to our Francophone clients. He has a special focus on the digital transformation of our clients in the financial services, serving many leading institutions across Africa.<br><br>Jalil started at McKinsey as a senior consultant in 2006, after an initial experience as Corporate Director and Advisor to the CEO, at AttijarWafaBank, one of the leading banking institution in Morocco and West Africa. He left McKinsey in 2011 to create Moongypse, an industrial company producing gypsum. The company was acquired by Saint Gobain, the global leader, two years later. Jalil decided to join again the Casablanca Office in 2015 and is now the Managing partner of the Office."
+  thumbnailUrl: speakers/Jalil.JPG
+  panelist: true
