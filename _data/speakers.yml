@@ -37,16 +37,16 @@
   bio: "Dr. Mukhtar joined the African Development Bank from the Dangote Group of Industries, Nigeria, where he had been the Group Chief Strategy Officer since 2014.  In that role, he assisted the Group President, Alhaji Aliko Dangote, in setting overall strategic direction for the Company and overseeing key aspects of the strategic planning processes for the group, business units, subsidiaries and associated companies. He has also played a key role in driving major activities, projects and initiatives of the Company, including expansion of cement manufacturing into 18 African countries, a multi-billion dollar Oil Refinery and Petrochemical Plant, plus key joint ventures in Power, Oil & Gas as well as Agriculture Sectors.<br><br>Commenting on Dr. Mukhtar’s appointment, African Development Bank President Dr. Akinwumi Adesina said: “Abdu Mukhtar is a world-class and consummate professional, with strong entrepreneurial skills and a well demonstrated track record of delivering outstanding results in developing trade and industrialization in Africa. Abdu’s expertise and experience in structuring successful public-private partnerships will support the Bank as it rolls out its work to support the industrialization agenda of African countries.”<br><br>Dr. Mukhtar holds a Doctor of Medicine degree from the Ahmadu Bello University School of Medicine, Zaria, Nigeria; a Doctor of Philosophy Degree in Pathology and Laboratory Medicine from the Boston University School of Medicine, USA; a Master in Business Administration from the Harvard Business School, Cambridge, Massachusetts, USA; and a Master in Public Administration degree from Harvard Kennedy School, Cambridge, Massachusetts, USA. He was an Archbishop Tutu Leadership Fellow and the recipient of several international awards."
   thumbnailUrl: speakers/Mukhtar.jpeg
   keynote: true
--
-  id: 5
-  name: "Yemi"
-  surname: "Cardoso"
-  company: "Citibank Nigeria"
-  title: "Chairman"
-  bio: "Mr. Olayemi Cardoso, Chairman of Citibank Nigeria Limited, is a career banker and development policy expert. He started out in banking with Citibank in London. He trained in Greece and had several international assignments before returning to his native country Nigeria to work with Chase Manhattan Bank. He was subsequently invited by Citibank and became a member of the founding team of Citibank Nigeria in 1984 rising to a senior position within the bank. He left Citibank in 1990 to Co-found Citizens International bank as executive director.<br><br>Following an exemplary career in business, the government requested Mr. Cardoso's expertise in public service as the pioneer Commissioner for Economic Planning and Budget for Lagos State, in 1999 when the country returned to a democratically elected government. A highly unusual career move for a business person at the time, Yemi felt it was essential to encourage others to contribute their knowledge and experience to bring about reforms that were needed and other notable professionals have since followed his lead.<br><br>After public service, Mr. Cardoso attended the Masons Fellow Program at Harvard University where he earned a Masters degree in Public Policy and Management . He returned to Nigeria to assume responsibility on the board of of Chevron Oil Nigeria PLC as well as Chairman of the Audit committee of Citibank Nigeria and was appointed Chairman of the Board of the latter in 2010. Mr Cardoso also chaired the World Bank’s LMDGP project as well as the Bill and Media Gates Foundation and DFID- funded, EFInA, the leading financial inclusion organisation.<br><br>Mr. Cardoso, is an influential advisor and has worked on key initiatives with donors and development finance institutions including Ford Foundation, DFID and the World Bank. He is a member of the Belgium- based Cities Alliance think tank, a global partnership formed by the World Bank and UN habitat to tackle urban issues.<br><br>Mr. Cardoso is regular speaker at institutions including University of Oxford’s Saïd Business School and Harvard Kennedy School. He was awarded an Honorary Doctorate in Business Administration in 2017 for outstanding contributions to business and public service by his alma mater, Aston University, UK."
-  thumbnailUrl: speakers/Cardoso.jpeg
-  keynote: true
-  rockstar: true
+#-
+#  id: 5
+#  name: "Yemi"
+#  surname: "Cardoso"
+#  company: "Citibank Nigeria"
+#  title: "Chairman"
+#  bio: "Mr. Olayemi Cardoso, Chairman of Citibank Nigeria Limited, is a career banker and development policy expert. He started out in banking with Citibank in London. He trained in Greece and had several international assignments before returning to his native country Nigeria to work with Chase Manhattan Bank. He was subsequently invited by Citibank and became a member of the founding team of Citibank Nigeria in 1984 rising to a senior position within the bank. He left Citibank in 1990 to Co-found Citizens International bank as executive director.<br><br>Following an exemplary career in business, the government requested Mr. Cardoso's expertise in public service as the pioneer Commissioner for Economic Planning and Budget for Lagos State, in 1999 when the country returned to a democratically elected government. A highly unusual career move for a business person at the time, Yemi felt it was essential to encourage others to contribute their knowledge and experience to bring about reforms that were needed and other notable professionals have since followed his lead.<br><br>After public service, Mr. Cardoso attended the Masons Fellow Program at Harvard University where he earned a Masters degree in Public Policy and Management . He returned to Nigeria to assume responsibility on the board of of Chevron Oil Nigeria PLC as well as Chairman of the Audit committee of Citibank Nigeria and was appointed Chairman of the Board of the latter in 2010. Mr Cardoso also chaired the World Bank’s LMDGP project as well as the Bill and Media Gates Foundation and DFID- funded, EFInA, the leading financial inclusion organisation.<br><br>Mr. Cardoso, is an influential advisor and has worked on key initiatives with donors and development finance institutions including Ford Foundation, DFID and the World Bank. He is a member of the Belgium- based Cities Alliance think tank, a global partnership formed by the World Bank and UN habitat to tackle urban issues.<br><br>Mr. Cardoso is regular speaker at institutions including University of Oxford’s Saïd Business School and Harvard Kennedy School. He was awarded an Honorary Doctorate in Business Administration in 2017 for outstanding contributions to business and public service by his alma mater, Aston University, UK."
+#  thumbnailUrl: speakers/Cardoso.jpeg
+#  keynote: true
+#  rockstar: true
 -
   id: 6
   name: "Farayi"
@@ -119,15 +119,15 @@
   bio: "Vincent Egbe is recognized as one of Africa’s emerging young business leaders and “Go to Market” innovators.  Over the last decade, Vincent pioneered and built some of the deepest consumer goods distribution networks across Africa, reaching and influencing over half a million retailers across Sub Sahara. He has also built some of Africa’s most successful FMCG brands and has been globally recognized for also building some of the most successful FMCG teams in Africa. Vincent’s distribution networks, category innovations and teams have played a key role in defining new market leaders in categories, channels and countries in Africa, disrupting incumbent market leaders who have been entrenched in Africa for decades.<br><br>Today, as a business leader, Vincent uses his “Africa as a startup” framework to enable companies build capabilities to forward and or backwards integrate and maps out the milestones and actions that will define the category journey from startup to market leader. Vincent believes that for companies to be sustainable, they must drive both superior value and profitability vs peers as well as a greater sense of prosperity in the communities they operate in. Vincent is a graduate of Geology and Mining from the University of Jos as well as P&Gs prestigious Global Innovation College. He is currently enrolled in Executive education at the Stanford GSB as part of the Catalyst Cohort of the Lead Program.  Vincent is an investor and mentor in a few African startups."
   thumbnailUrl: speakers/Egbe.png
   panelist: true
--
-  id: 14
-  name: "Lance"
-  surname: "Christ"
-  company: "International Finance Corporation"
-  title: "Global Head, Natural Resources, Infrastructure & Natural Resources"
-  bio: "Lance Crist is Global Head of Natural Resources for IFC, the private sector arm of the World Bank Group.  Mr. Crist leads IFC’s financing and advisory services teams responsible for supporting the oil, gas & mining sectors.  IFC’s $2.5+ billion investment portfolio in these sectors includes more than 80 natural resource companies in over 35 countries across the emerging markets.  IFC’s financing includes investments in equity, mezzanine and senior debt; and the advisory services team provides support across a range of areas to assist clients in enhancing their sustainability.  Mr. Crist joined IFC in 1992 and has managed advisory mandates, project and corporate finance, and private equity transactions in the areas of general manufacturing and telecommunications, and prior to his current role he was IFC’s global head of oil & gas.  He earned a B.A. from Cornell University, and an MBA from the Wharton School."
-  thumbnailUrl: speakers/Christ.png
-  panelist: true
+#-
+#  id: 14
+#  name: "Lance"
+#  surname: "Christ"
+#  company: "International Finance Corporation"
+#  title: "Global Head, Natural Resources, Infrastructure & Natural Resources"
+#  bio: "Lance Crist is Global Head of Natural Resources for IFC, the private sector arm of the World Bank Group.  Mr. Crist leads IFC’s financing and advisory services teams responsible for supporting the oil, gas & mining sectors.  IFC’s $2.5+ billion investment portfolio in these sectors includes more than 80 natural resource companies in over 35 countries across the emerging markets.  IFC’s financing includes investments in equity, mezzanine and senior debt; and the advisory services team provides support across a range of areas to assist clients in enhancing their sustainability.  Mr. Crist joined IFC in 1992 and has managed advisory mandates, project and corporate finance, and private equity transactions in the areas of general manufacturing and telecommunications, and prior to his current role he was IFC’s global head of oil & gas.  He earned a B.A. from Cornell University, and an MBA from the Wharton School."
+#  thumbnailUrl: speakers/Christ.png
+#  panelist: true
 -
   id: 15
   name: "Ike"
@@ -173,15 +173,15 @@
   bio: "Kelvin Doe, also known as DJ Focus, is a Sierra Leonean engineer. He is known for teaching himself engineering at the age of 13 and building his own radio station in Sierra Leone, where he plays music and broadcasts news under the name “DJ Focus.” He was one of the finalists in GMin's Innovate Salone idea competition, in which Doe built a generator from scrap metals. Doe would constantly use discarded pieces of scrap to build transmitters, generators, and batteries, as well. As a result of his accomplishment, he received an invitation to the United States and subsequently became the youngest person to participate in the “Visiting Practitioner's Program” at MIT.<br><br>His accomplishments were documented by @radical.media and presented on their corporate YouTube channel. When the video went viral, the story was picked up by CNN, NBC News, and The Huffington Post. Doe subsequently was a speaker at TEDxTeen and lectured to undergraduate engineering students at Harvard College. In May 2013, Doe signed a $100,000 solar project pact with Canadian High Speed Service Provider Sierra WiFi. Today, Kevin Doe is one of the most respected among other young African inventors."
   thumbnailUrl: speakers/Doe.png
   panelist: true
--
-  id: 20
-  name: "Dr. Francis"
-  surname: "Ukwuije"
-  company: "HealthCare"
-  title: "Senior Health Economist and Head"
-  bio: "Francis Ukwuije is a Medical Doctor, Public Health Specialist, and a Senior Health Economist, with over 13 years progressive Government, Private Sector, and NGOs experience. He gained automatic entry into the Federal Ministry of Health (FMOH) in 2007 having earned the prestigious Nigerian President’s Honours Award as the Best and Most Outstanding Corps Member in Nigeria for 2005 and 2006. As an exceptional Change Agent, he has catalyzed high impact interventions for health in Nigeria including leading a high-level advocacy that immediately resulted in the creation of the Nigerian National Hepatitis Control Program in 2013.<br><br>Having built a credible and successful public service career in strategic management and health financing, he was seconded to the Population Council Nigeria from 2012 to 2014 to lead Health Economics Research within which period he significantly expanded Council’s portfolio. Dr. Ukwuije successfully reviewed Enhancing Nigeria’s Response to HIV/AIDS (ENR) Value for Money (VFM) Framework and conducted VFM Analysis on the ENR Project for 2 years."
-  thumbnailUrl: speakers/Ukwuije.png
-  panelist: true
+#-
+#  id: 20
+#  name: "Dr. Francis"
+#  surname: "Ukwuije"
+#  company: "HealthCare"
+#  title: "Senior Health Economist and Head"
+#  bio: "Francis Ukwuije is a Medical Doctor, Public Health Specialist, and a Senior Health Economist, with over 13 years progressive Government, Private Sector, and NGOs experience. He gained automatic entry into the Federal Ministry of Health (FMOH) in 2007 having earned the prestigious Nigerian President’s Honours Award as the Best and Most Outstanding Corps Member in Nigeria for 2005 and 2006. As an exceptional Change Agent, he has catalyzed high impact interventions for health in Nigeria including leading a high-level advocacy that immediately resulted in the creation of the Nigerian National Hepatitis Control Program in 2013.<br><br>Having built a credible and successful public service career in strategic management and health financing, he was seconded to the Population Council Nigeria from 2012 to 2014 to lead Health Economics Research within which period he significantly expanded Council’s portfolio. Dr. Ukwuije successfully reviewed Enhancing Nigeria’s Response to HIV/AIDS (ENR) Value for Money (VFM) Framework and conducted VFM Analysis on the ENR Project for 2 years."
+#  thumbnailUrl: speakers/Ukwuije.png
+#  panelist: true
 -
   id: 21
   name: "Frederick"
@@ -200,6 +200,7 @@
   bio: "Asiwaju Bola Ahmed Tinubu is most famously known as the former Governor of Lagos State, the most populous State in Africa! Born and raised in Lagos, Nigeria, Tinunbu graduated Summa Cum Laude with First Class Honors in Business Administration from Chicago State University, IL. During this time, he served as the President of the Accounting Society. Upon graduating, he worked for for Arthur Andersen, Deloitte, and Mobil Nigeria - where he rose to become the Company Treasurer. He entered the political realm in 1989. He was elected Senator in 1992 and seven years later, was elected Governor of Lagos State, where he served two terms until 2007. He is currently the National Leader of All Progressives Congress (APC), the ruling Party in Nigeria.<br><br>During his tenure as Governor of Lagos state, he enhanced revenue collection, quintupling the State's annual Internally Generated Revenue (IGR) from $100m in 1999  to over $500m in 2007. His innovations laid the groundwork necessary for Lagos to modernize living conditions of all of its inhabitants. As Governor, he also carried out educational reforms in which mission schools were returned to their original owners.<br><br>Asiwaju Bola Ahmed Tinubu remains one of Nigeria’s most relentless fighters for democracy, justice and the rule of law. Today, he is the most vociferous voice in the call for Nigeria to return to the path of true federalism that will give Governors and Chairmen fully funded mandates and accelerate grassroots development. Bola Tinunbu is known as the chief architect of the political merger that produced the All Progressives Congress, one of the two major political parties of Nigeria. He is passionate about civil service and has worked with highly strategic foresight, operational efficiency, and innovative partnerships."
   thumbnailUrl: speakers/Tinubu.jpg
   keynote: true
+  rockstar: true
 -
   id: 23
   name: "Shawn"
