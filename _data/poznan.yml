@@ -1,0 +1,34 @@
+eventDate: "December 9th, 2017, Poznań, Poland"
+applicationForm: "https://goo.gl/forms/7U4Q2TbR6pksvfID3"
+mentorsForm: "https://goo.gl/forms/x53KFTNevko4RuIW2"
+descriptionTitle: "ngGirls @ Poznań"
+descriptionBlock:
+ - {title: "Who is it for?", template: "ngPoland/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ngPoland/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Briisk", description: "Briisk", link: "http://www.briisk.co/", imageUrl: "briisk-poznan.png"}
+#     - {name: "Angular Nights", description: "Angular Nights meetup group - learn Angular by coding", link: "http://www.meetup.com/Angular-Nights/", imageUrl: "ngNights.png"}
+#     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
+
+organizingTeamTitle: "ngGirls @ Poznań Team"
+team:
+  -
+    id: 1
+    name: "Shmuela"
+    surname: "Jacobs"
+    company: "ngGirls"
+    title: "Web Developer and Consultant, Founder"
+    description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
+    bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
+    thumbnailUrl: Shmuela_AC.png
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/shmool"}
+      - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
+      - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}

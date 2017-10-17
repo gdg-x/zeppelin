@@ -58,6 +58,7 @@ bottomNavigationLinks:
  - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
  - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
+# - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
 rightNavigationButtons:
@@ -87,6 +88,7 @@ heroButtons:
  - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
  - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
+# - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
 # - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
