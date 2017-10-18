@@ -217,7 +217,7 @@
   company: "The Carlyle Group"
   title: "Managing Director"
   bio: "Idris Mohammed is a Managing Director of The Carlyle Group focused on buyout and growth opportunities in Sub-Saharan Africa. He is based in Lagos, Nigeria.<br><br>Mr. Mohammed has more than 15 years of private equity experience spanning the U.S. and Africa across a variety of sectors.<br><br>Prior to joining Carlyle in 2017, Mr. Mohammed was at leading Africa-focused private equity firm DPI.  He was based in London and headed the Lagos office.  He helped raise 2 funds at DPI and led a number of acquisitions across Africa, including in Botswana, Nigeria, and Egypt.  Mr Mohammed began his private equity career at Goldman Sachs in New York where he was a member of the Special Situations Group and helped build the clean energy investing business before deciding to return home to invest in Africa.<br><br>Mr. Mohammed received his BS in Industrial Engineering from Lehigh University and his MBA from the Wharton School of the University of Pennsylvania."
-  thumbnailUrl: speakers/Mohammed.tiff
+  thumbnailUrl: speakers/Mohammed.jpg
   panelist: true
 -
   id: 24
@@ -237,3 +237,21 @@
   bio: "Jalil Bensouda is a partner in McKinsey’s Casablanca office and supports clients in our Financial services, Private Equity and Digital practices among others.<br><br>He coordinates the work in the private sector in Francophone Africa, on issues of holistic transformations, growth strategies, and investment decisions.  He also works very closely with our clients, especially in the industrial and mining sector, on operational transformations including resource optimization and systems of production’s performance.<br><br>Jalil is also one of the founders of a McKinsey Digital Studio in Casablanca, dedicated to our Francophone clients. He has a special focus on the digital transformation of our clients in the financial services, serving many leading institutions across Africa.<br><br>Jalil started at McKinsey as a senior consultant in 2006, after an initial experience as Corporate Director and Advisor to the CEO, at AttijarWafaBank, one of the leading banking institution in Morocco and West Africa. He left McKinsey in 2011 to create Moongypse, an industrial company producing gypsum. The company was acquired by Saint Gobain, the global leader, two years later. Jalil decided to join again the Casablanca Office in 2015 and is now the Managing partner of the Office."
   thumbnailUrl: speakers/Jalil.JPG
   panelist: true
+-
+  id: 50
+  name: "Michele"
+  surname: "Rivard"
+  company: "Village Capital"
+  title: "Fellow"
+  thumbnailUrl: judges/Rivard.jpg
+  bio: "Michele Rivard is a Fellow with Village Capital, the investment firm that finds, trains and invests in early stage entrepreneurs solving real world problems.  She is focused on strategy, clean water innovations, and access to affordable debt finance.  Previously, she established the U.S. African Development Foundation’s entrepreneurship program, as part of YALI, the U.S. Government’s public-private partnership to catalyze young African leaders.  Michele awarded over $3 million in grant funding to entrepreneurs building companies, creating jobs, and impacting their communities.  Her background includes management consulting in New England, merchant banking in Ukraine, and foreign direct investment promotion in Central Europe, Russia and Kazakhstan.  She advises Shea Yeleen and Mother’s Delivery Kits, and is keyed up about increasing access to opportunity - for girls in higher education and young people in technology.  Michele is from the great state of Maine and holds degrees from Dartmouth College and Harvard’s Kennedy School."
+  judge: true
+-
+  id: 51
+  name: "Pardon"
+  surname: "Makumbe"
+  company: "CRE Venture Capital"
+  title: "Founding Partner"
+  thumbnailUrl: judges/Makumbe.jpg
+  bio: "Pardon is a Founding Partner at CRE Venture Capital, a leading early stage investor in category-defining tech companies in Africa. Pardon holds Board Member and Observer roles at some of Africa's leading tech companies including Flutterwave, Asoko Insight, Rensource, and Smile Identity. He is Chairman of the Technology Directorate of the US Nigeria Council, and sits on the Board of Wharton Africa Growth Partners.<br><br>Prior to co-founding CRE Venture Capital, Pardon worked at EL Rothschild in New York and London, overseeing investments and holdings in Asia, Europe and Africa including IHS Towers, The Economist Group and Impala Energy. Earlier on, he worked at Bain & Company in New York, at Temasek Holdings in Singapore, and at Emerging Capital Partners in Johannesburg.<br><br>Pardon holds a BSE in Electrical Engineering from Princeton University, and graduated as a Palmer Scholar from the Wharton School of Business."
+  judge: true

@@ -1,44 +1,25 @@
-- 
-  id: 0
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "Nravo, GDG Lviv"
-  title: "Team Lead, Unity 3D Developer"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  company: "ELEKS, GDG Lviv"
-  title: "R&D Engineer"
-  thumbnailUrl: OstapAndrusiv.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 3
-  name: "Oleh"
-  surname: "Zasadnyy"
-  company: "EPAM Systems, GDG Lviv"
-  title: "Junior Software Engineer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+-
+  id: 50
+  name: "Michele"
+  surname: "Rivard"
+  company: "Village Capital"
+  title: "Fellow"
+  thumbnailUrl: judges/Rivard.jpg
+  bio: "Michele Rivard is a Fellow with Village Capital, the investment firm that finds, trains and invests in early stage entrepreneurs solving real world problems.  She is focused on strategy, clean water innovations, and access to affordable debt finance.  Previously, she established the U.S. African Development Foundation’s entrepreneurship program, as part of YALI, the U.S. Government’s public-private partnership to catalyze young African leaders.  Michele awarded over $3 million in grant funding to entrepreneurs building companies, creating jobs, and impacting their communities.  Her background includes management consulting in New England, merchant banking in Ukraine, and foreign direct investment promotion in Central Europe, Russia and Kazakhstan.  She advises Shea Yeleen and Mother’s Delivery Kits, and is keyed up about increasing access to opportunity - for girls in higher education and young people in technology.  Michele is from the great state of Maine and holds degrees from Dartmouth College and Harvard’s Kennedy School."
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 51
+  name: "Pardon"
+  surname: "Makumbe"
+  company: "CRE Venture Capital"
+  title: "Founding Partner"
+  thumbnailUrl: judges/Makumbe.jpg
+  bio: "Pardon is a Founding Partner at CRE Venture Capital, a leading early stage investor in category-defining tech companies in Africa. Pardon holds Board Member and Observer roles at some of Africa's leading tech companies including Flutterwave, Asoko Insight, Rensource, and Smile Identity. He is Chairman of the Technology Directorate of the US Nigeria Council, and sits on the Board of Wharton Africa Growth Partners.<br><br>Prior to co-founding CRE Venture Capital, Pardon worked at EL Rothschild in New York and London, overseeing investments and holdings in Asia, Europe and Africa including IHS Towers, The Economist Group and Impala Energy. Earlier on, he worked at Bain & Company in New York, at Temasek Holdings in Singapore, and at Emerging Capital Partners in Johannesburg.<br><br>Pardon holds a BSE in Electrical Engineering from Princeton University, and graduated as a Palmer Scholar from the Wharton School of Business."
+#  social:
+#    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#    - {name: "github", link: "https://github.com/zasadnyy"}
+#    - {name: "site", link: "http://zasadnyy.com/"}
