@@ -1,6 +1,6 @@
 eventDate: "Noviembre 11, 2017, Medellín"
 applicationForm: "https://goo.gl/oLL7SV"
-mentorsForm: ""
+mentorsForm: "https://goo.gl/PWZ9Zj"
 descriptionTitle: "ngGirls Colombia"
 descriptionBlock:
  - {title: "¿Para quién es?", template: "colombia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
