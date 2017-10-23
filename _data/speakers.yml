@@ -167,15 +167,15 @@
   bio: "Jasmine L. Blanks Jones is a Robert Wood Johnson Health Policy Research Scholar and a Dr. William Fontaine Fellow in Africana Studies.  As a dual PhD student in Education, Culture and Society, she is also a George and Alice S. Hill Fellow.  She graduated from Florida A&M University with a B.S. in Music Education and taught middle school music history and performance in Maryland.  Holding a Master of Public Policy degree from the Humphrey School of Public Affairs at the University of Minnesota, Blanks Jones founded and served as Executive Director for B4 Youth Theatre, a Liberian NGO that grew out of a pilot of her Master’s thesis which was a prospectus on arts education.  Her research interests include global public health, arts education, youth civic engagement in education, African post-colonialism and diaspora migrations, African American colonialism and antebellum history. Liberia is her primary research site where she engages in Participatory Action Research, Practitioner Inquiry, and critical ethnography."
   thumbnailUrl: speakers/BlanksJones.png
   panelist: true
--
-  id: 19
-  name: "Kelvin"
-  surname: "Doe"
-  company: "Kelvin Doe Foundation"
-  title: "Engineer and Founder"
-  bio: "Kelvin Doe, also known as DJ Focus, is a Sierra Leonean engineer. He is known for teaching himself engineering at the age of 13 and building his own radio station in Sierra Leone, where he plays music and broadcasts news under the name “DJ Focus.” He was one of the finalists in GMin's Innovate Salone idea competition, in which Doe built a generator from scrap metals. Doe would constantly use discarded pieces of scrap to build transmitters, generators, and batteries, as well. As a result of his accomplishment, he received an invitation to the United States and subsequently became the youngest person to participate in the “Visiting Practitioner's Program” at MIT.<br><br>His accomplishments were documented by @radical.media and presented on their corporate YouTube channel. When the video went viral, the story was picked up by CNN, NBC News, and The Huffington Post. Doe subsequently was a speaker at TEDxTeen and lectured to undergraduate engineering students at Harvard College. In May 2013, Doe signed a $100,000 solar project pact with Canadian High Speed Service Provider Sierra WiFi. Today, Kevin Doe is one of the most respected among other young African inventors."
-  thumbnailUrl: speakers/Doe.png
-  panelist: true
+#-
+#  id: 19
+#  name: "Kelvin"
+#  surname: "Doe"
+#  company: "Kelvin Doe Foundation"
+#  title: "Engineer and Founder"
+#  bio: "Kelvin Doe, also known as DJ Focus, is a Sierra Leonean engineer. He is known for teaching himself engineering at the age of 13 and building his own radio station in Sierra Leone, where he plays music and broadcasts news under the name “DJ Focus.” He was one of the finalists in GMin's Innovate Salone idea competition, in which Doe built a generator from scrap metals. Doe would constantly use discarded pieces of scrap to build transmitters, generators, and batteries, as well. As a result of his accomplishment, he received an invitation to the United States and subsequently became the youngest person to participate in the “Visiting Practitioner's Program” at MIT.<br><br>His accomplishments were documented by @radical.media and presented on their corporate YouTube channel. When the video went viral, the story was picked up by CNN, NBC News, and The Huffington Post. Doe subsequently was a speaker at TEDxTeen and lectured to undergraduate engineering students at Harvard College. In May 2013, Doe signed a $100,000 solar project pact with Canadian High Speed Service Provider Sierra WiFi. Today, Kevin Doe is one of the most respected among other young African inventors."
+#  thumbnailUrl: speakers/Doe.png
+#  panelist: true
 #-
 #  id: 20
 #  name: "Dr. Francis"
@@ -320,4 +320,13 @@
   title: "Founder & CEO"
   thumbnailUrl: speakers/McCormick.jpg
   bio: "Meghan McCormick is a systems thinker and strategist passionate about designing solutions that deliver value to corporations, customers, and communities.<br><br>She is a Founder and CEO of Dare to Innovate, a youth-led movement to end unemployment in West Africa through investments in the entrepreneurial ecosystem. She also leads, OZÉ, a mobile app designed to empower every small business owners to make data-driven decisions to improve performance.<br><br>Meghan is a Returned Peace Corps volunteer from Guinea. During her service, in partnership with the Guinean Association for the Development of Private Enterprise, she focused on social entrepreneurship in the town of Kindia and launched the world’s second e-reader library, BiblioTech. After the Peace Corps, she worked as an Innovation Strategist at Doblin, the Innovation unit of Monitor Deloitte focused on transformational innovation for Fortune 100 B2B companies.<br><br>She is currently pursuing an MBA at MIT Sloan School of Management where she is a Legatum Fellow and an MPA from the Harvard Kennedy School of Government."
+  panelist: true
+-
+  id: 34
+  name: "Shadrack"
+  surname: "Frimpong"
+  company: "Cocoa360"
+  title: "Founder & CEO"
+  thumbnailUrl: speakers/Frimpong.jpg
+  bio: "Described by former United Nations Secretary General, Mr. Kofi Annan as “…an embodiment of youth leadership”, Shadrack is a passionate leader who is driven by his background in abject poverty. A proud son of a peasant farmer and charcoal seller, Shadrack was born on a farm, and grew up without running water and electricity in rural Ghana. Frimpong founded the non-profit, Cocoa360 and pioneered the “sweat-for-impact” health equity model; Ghana's first and only tuition-free elementary girls school and free clinic which are self-sustained by proceeds from a cocoa farm. With a school curriculum focused on health literacy, and a health facility that treats diseases, Cocoa360 has developed a robust health system for over 120,000 cocoa farmers in rural Western Ghana.<br><br>Shadrack is a recipient of many awards including the prestigious Samuel Huntington Public Service Award, Future of Ghana’s Top 30 Under 30 and the Cordes Fellowship. In 2017, he was awarded the Ghana Legacy Honors, becoming the youngest recipient ever of one of Ghana’s highest honors. President Bill Clinton named Shadrack to the Clinton Global Initiative’s Honor Roll in September 2017. He graduated from the University of Pennsylvania in 2015 as Flagbearer, a University Scholar and a recipient of the $150,000 President’s Engagement Prize, Penn’s highest honor."
   panelist: true
