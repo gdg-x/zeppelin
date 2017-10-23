@@ -1,17 +1,17 @@
 -
   id: 300
   title: "Arrival & Registration"
-  place: "TBD"
+  place: "Millenium Foyer (2nd Floor)"
   service: true
 -
   id: 301
   title: "Wharton MBA Admissions Information Session"
-  place: "Commonwealth Ballroom"
+  place: "Commonwealth AB (2nd Floor)"
   service: true
 -
   id: 302
   title: "Venture Competition"
-  place: "Commonwealth Ballroom"
+  place: "Commonwealth AB (2nd Floor)"
   service: true
 -
   id: 303
@@ -36,12 +36,12 @@
 -
   id: 399
   title: "Registration & Breakfast"
-  place: "Millenium Foyer"
+  place: "Millenium Foyer (2nd Floor)"
   service: true
 -
   id: 401
   title: "Welcome Address"
-  place: "Millennium Ballroom"
+  place: "Millennium (2nd Floor)"
   service: true
 -
   id: 402
@@ -51,84 +51,97 @@
 -
   id: 403
   title: "Grand Panel: Energy"
-  place: "TBD"
+  place: "Howe"
+  speakers: [8, 23, 11]
 -
   id: 405
-  title: "Grand Panel: Entrepren-<br>eurship"
-  place: "TBD"
+  title: "Grand Panel: Entrepreneurship"
+  place: "Terrace"
+  speakers: [15, 12, 32, 33]
 -
   id: 406
   title: "Grand Panel: Women in Business"
-  place: "TBD"
+  place: "Lescaze"
+  speakers: [29, 31]
 -
   id: 407
   title: "Fireside Chat: Consumer Goods"
-  place: "TBD"
+  place: "Anthony"
+  speakers: [13, 30]
 -
   id: 427
   title: "Fireside Chat: Education"
-  place: "TBD"
+  place: "Adams"
+  speakers: [18, 19]
 -
   id: 428
   title: "Fireside Chat: Urbanization"
-  place: "TBD"
+  place: "Franklin"
+  speakers: [21]
 -
   id: 408
   title: "Lunch Keynote Panel"
-  place: "Millennium Ballroom"
+  place: "Millennium (2nd Floor)"
   service: true
 -
   id: 409
   title: "Grand Panel: Agriculture"
-  place: "TBD"
+  place: "Howe"
+  speakers: [7, 27]
 -
   id: 410
   title: "Grand Panel: Digital Finance"
-  place: "TBD"
+  place: "Terrace"
+  speakers: [26]
 -
   id: 411
   title: "Grand Panel: Private Equity"
-  place: "TBD"
+  place: "Lescaze"
+  speakers: [28, 24]
 -
   id: 412
   title: "Fireside Chat: Data Revolution"
-  place: "TBD"
+  place: "Anthony"
+  speakers: [16, 17]
 -
   id: 429
   title: "Fireside Chat: Healthcare"
-  place: "TBD"
+  place: "Adams"
 -
   id: 430
   title: "Fireside Chat: Impact Investing"
-  place: "TBD"
+  place: "Franklin"
+  speakers: [10]
 -
   id: 413
-  title: "Techpreneurship Masterclass"
+  title: "Masterclass: Entrepreneurship Deep Dive"
   place: "TBD"
 -
   id: 422
-  title: "Kelechi Masterclass"
+  title: "Masterclass: How I Built This"
   place: "TBD"
 -
   id: 423
-  title: "VC Masterclass"
+  title: "Masterclass: Insider Look at Largest African Venture Funding to Date"
   place: "TBD"
+  speakers: [51]
 -
   id: 414
   title: "McKinsey State of the Continent Session"
-  place: "TBD"
+  place: "Millenium (2nd Floor)"
 -
   id: 421
   title: "BCG State of the Continent Session"
-  place: "TBD"
+  place: "Millenium (2nd Floor)"
 -
   id: 415
   title: "Panel"
   place: "TBD"
 -
   id: 416
-  title: "Pre-Banquet Cocktail Reception"
-  place: "TBD"
+  title: "Pre-Gala Cocktail Reception"
+  place: "Regency Foyer"
+  service: true
 -
   id: 417
   title: "Break"
@@ -146,7 +159,7 @@
 -
   id: 420
   title: "After-Party"
-  place: "Millennium Ballroom"
+  place: "Millennium (2nd Floor)"
   service: true
 -
   id: 500

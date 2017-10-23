@@ -134,7 +134,7 @@
   id: 15
   name: "Ike"
   surname: "Eze"
-  company: ""
+  company: "Tech Investor"
   title: "Tech Investor"
   bio: "Ike Eze is Nigeria-based and focuses on early stage investments in technology startups in Africa. Previously he worked at Boston Consulting Group, Bechtel and AT&T; he founded QSpace, a fintech startup which was acquired by Experian; was the primary investor in GPlay, an online gaming firm; and, led Centrro, a fintech company that completed a buyout of an automotive marketing services company from a Fortune 500 Company, before being acquired. He currently serves on the boards of eTranzact, Yuzah, HelpPay and Elephab, and the advisory boards of InvestmentOne VenCap and The African Network. Ike holds an MBA from The Wharton School at the University of Pennsylvania and a Bachelors in Mechanical Engineering (Oseberg Scholar) from San Francisco State University."
   thumbnailUrl: speakers/Eze.png
@@ -223,7 +223,7 @@
   thumbnailUrl: speakers/Mohammed.jpg
   panelist: true
 -
-  id: 24
+  id: 25
   name: "Yaw"
   surname: "Agyenim-Boateng"
   company: "McKinsey & Company"
@@ -232,7 +232,7 @@
   thumbnailUrl: speakers/Boateng.png
   moderator: true
 -
-  id: 25
+  id: 26
   name: "Jalil"
   surname: "Bensouda"
   company: "McKinsey & Company"
@@ -258,3 +258,66 @@
   thumbnailUrl: judges/Makumbe.jpg
   bio: "Pardon is a Founding Partner at CRE Venture Capital, a leading early stage investor in category-defining tech companies in Africa. Pardon holds Board Member and Observer roles at some of Africa's leading tech companies including Flutterwave, Asoko Insight, Rensource, and Smile Identity. He is Chairman of the Technology Directorate of the US Nigeria Council, and sits on the Board of Wharton Africa Growth Partners.<br><br>Prior to co-founding CRE Venture Capital, Pardon worked at EL Rothschild in New York and London, overseeing investments and holdings in Asia, Europe and Africa including IHS Towers, The Economist Group and Impala Energy. Earlier on, he worked at Bain & Company in New York, at Temasek Holdings in Singapore, and at Emerging Capital Partners in Johannesburg.<br><br>Pardon holds a BSE in Electrical Engineering from Princeton University, and graduated as a Palmer Scholar from the Wharton School of Business."
   judge: true
+-
+  id: 27
+  name: "Matt"
+  surname: "Forti"
+  company: "One Acre Fund"
+  title: "Managing Director"
+  thumbnailUrl: speakers/Forti.JPG
+  bio: "Matthew Forti is the U.S. Managing Director of One Acre Fund, a nonprofit social enterprise working exclusively to improve the yields and incomes of Africa’s smallholder farmers.  One Acre Fund delivers farm inputs, finance, training, and market facilitation to over 500,000 farm families across six countries in East and Southern Africa, ending chronic hunger for over 2 million children and enabling productive investments in education, health, and new business activities.  One Acre Fund has twice been named to Fast Company Magazine’s Top 10 Most Innovative Companies In Africa and was ranked 15th in the latest Global Journal Top 500 NGOs edition.<br><br>Matt played an instrumental role in One Acre Fund’s founding, helping to raise the seed capital to launch the organization at the Kellogg School of Management, and thereafter becoming the organization’s inaugural Board Chair. He is now Vice Chair of the governing board and helps coordinate the organization’s global operations, including partnership and business development, corporate finance, and monitoring & evaluation.  Matt writes extensively on the topic of performance measurement, including through a blog series for Stanford Social Innovation Review.<br><br>Prior to joining One Acre Fund’s staff, Matt was a Manager and Co-head of the Performance Measurement Practice at the Bridgespan Group, a strategic advisory firm to mission-driven leaders and organizations. Matt also spent four years with Marakon Associates, a private-sector consulting firm that advises Fortune 500 executives and their global equivalents on strategies to increase shareholder value.<br><br>Matt received an MBA with distinction from the Kellogg School of Management and graduated summa cum laude from Northwestern University with a BA in economics and sociology."
+  panelist: true
+-
+  id: 28
+  name: "Shireen"
+  surname: "Ali"
+  company: "The Abraaj Group"
+  title: "Associate Director - Credit"
+  thumbnailUrl: speakers/Ali.jpg
+  bio: "Shireen covers Africa for the Abraaj Credit Fund, focusing on mezzanine and direct lending opportunities across the continent. The Abraaj Group is a private investment firm with c. $11bn under management, and 22 offices spread across Africa, Asia, the Middle East and Latin America. Prior to Abraaj, Shireen worked in both private equity and private credit at Helios Investment Partners, an Africa-focused private investment firm with c. $3bn under management. Previously, she worked at Eos Partners, a distressed credit fund, as well as in the M&A and Leveraged Finance teams for Merrill Lynch in London.<br><br>Shireen completed her undergraduate degree in Accounting and Finance at the London School of Economics, and her MBA at Wharton."
+  panelist: true
+-
+  id: 29
+  name: "Shruti"
+  surname: "Chandrasekhar"
+  company: "IFC Venture Capital"
+  title: "Senior Investment Officer"
+  thumbnailUrl: speakers/Shruti.jpg
+  bio: "Shruti Chandrasekhar has over a decade of private equity & venture capital experience identifying and evaluating businesses across multiple industries and geographies. She is currently a Senior Investment Officer covering venture capital investments for the IFC with a focus on digital health and transportation/logistics.  She also leads the gender-centric initiatives across venture capital & private equity at the IFC.  Prior to the IFC, she was responsible for private equity and venture capital investments (direct & indirect) for Premji Invest, a large Indian multi-strategy growth investor where she worked on private equity transactions in India as well as helped Premji Invest establish its California venture investment program.   She has an undergraduate degree from MIT and an MBA from the Wharton School with some additional experience in consulting and investment banking.  She loves travel and has moved her home-base every few years since 2000!"
+  panelist: true
+-
+  id: 30
+  name: "Robert"
+  surname: "Tashima"
+  company: "Oxford Business Group"
+  title: "Managing Editor, Africa"
+  thumbnailUrl: speakers/Tashima.jpg
+  bio: "As Oxford Business Group’s (OBG) Managing Editor for Africa, Robert Tashima is now in charge of OBG’s field research across the continent, and is responsible for directing the company’s Africa-focused digital and print editorial content.<br><br>He has helped oversee an expansion of OBG’s research to many of the continent’s largest emerging markets and has also initiated field studies on sub-national and local economies and worked alongside key domestic stakeholders to identify new opportunities for potential foreign investors. In all, Robert has led primary source research and data gathering initiatives for OBG projects in more than a dozen countries across the Middle East and Africa.<br><br>Robert is a regular commentator in local media throughout the continent, as well as international outlets including the BBC, France 24 and Reuters. He frequently speaks at conferences in Africa, Europe and the US, and has delivered talks at a number of universities.<br><br>Robert is a Truman Security Fellow and a former Jesse M Unruh Fellow. He is an advisor to Asoko Insight, an Africa data analytics firm, and to OE54, an Africa-focused project management firm. He has studied at the Institut d’Etudes Politiques in Bordeaux, France, and has received his BA in Political Science and French from the University of California at Berkeley and his MSc in International Relations from the London School of Economics. Robert is fluent in French."
+  panelist: true
+-
+  id: 31
+  name: "Elizabeth"
+  surname: "Ngonzi"
+  company: "Afrika Tikkun USA, Inc."
+  title: "Chief Executive Officer"
+  thumbnailUrl: speakers/Ngonzi.jpg
+  bio: "Elizabeth Ngonzi, social entrepreneur and global public speaker, is the CEO of Afrika Tikkun USA, the North American representative of Afrika Tikkun---- an award-winning organization in South Africa, for which the-then President Nelson Mandela volunteered to serve as Chief Patron. Since 2014, she has led the organization’s mission to develop into a next-generation nonprofit-- building strategic partnerships with individuals, corporations, nonprofits, and academia.<br><br>Ms. Ngonzi, an expert on entrepreneurship, leadership, and technological innovations advancing international development, has been quoted and/or featured in media outlets worldwide. From 2011 to 2013 she served as an Entrepreneur-in-Residence at Cornell University-- advising budding entrepreneurs on developing compelling value propositions for investors. Formerly, she had a boutique consulting firm through which her team created partnerships between nonprofits, corporations and high-net-worth individuals worldwide, to meet their mutually beneficial strategic objectives. She spent the first half of her career as a management consultant at Arthur Andersen, in marketing at Digital Equipment Corporation and in B2B sales at MICROS Systems.<br><br>Ms. Ngonzi earned an MMH degree in Services Marketing from Cornell University."
+  panelist: true
+-
+  id: 32
+  name: "Anie"
+  surname: "Akpe"
+  company: "IBOM LLC"
+  title: "Founder"
+  thumbnailUrl: speakers/Akpe.jpg
+  bio: "Anie Akpe-, Serial Entrepreneur-- Founder IBOM LLC Founder/Innov8tiv magazine publisher and African Women In Technology (AWIT), is a business professional and entrepreneur with more than 15 years’ experience in the banking industry.<br><br>As founder of IBOM LLC, Akpe aids small businesses around the world, particularly those owned by African entrepreneurs in the Diaspora, guiding business development and strategy and leading sound results in the completion of their business goals. A native of Nigeria, she meshes her global experience and culture with skills from stellar Corporate America leadership to provide unique and results-driven services to her clients.<br><br>Innov8tiv.com is a technology news site that highlights Blacks in Tech in USA, UK, Caribbean Islands and Africa. Innov8tiv is a subsidiary of IBOM LLC, which adds to the company’s mission to not only advocate entrepreneurship among global professionals of color, but dynamic tech information, resources, events and media.<br><br>Akpe, recently launched African Women In Technology (AWIT). The AWIT initiative is the only of its kind to provide attendees a unique combination of deep-dive, hands-on tech workshops, information and discussions about careers in tech and how to pursue them. The conference allows participants to make connections through networking opportunities with other women in various aspects and careers in technology."
+  panelist: true
+-
+  id: 33
+  name: "Meghan"
+  surname: "McCormick"
+  company: "OZÉ & Dare to Innovate"
+  title: "Founder & CEO"
+  thumbnailUrl: speakers/McCormick.jpg
+  bio: "Meghan McCormick is a systems thinker and strategist passionate about designing solutions that deliver value to corporations, customers, and communities.<br><br>She is a Founder and CEO of Dare to Innovate, a youth-led movement to end unemployment in West Africa through investments in the entrepreneurial ecosystem. She also leads, OZÉ, a mobile app designed to empower every small business owners to make data-driven decisions to improve performance.<br><br>Meghan is a Returned Peace Corps volunteer from Guinea. During her service, in partnership with the Guinean Association for the Development of Private Enterprise, she focused on social entrepreneurship in the town of Kindia and launched the world’s second e-reader library, BiblioTech. After the Peace Corps, she worked as an Innovation Strategist at Doblin, the Innovation unit of Monitor Deloitte focused on transformational innovation for Fortune 100 B2B companies.<br><br>She is currently pursuing an MBA at MIT Sloan School of Management where she is a Legatum Fellow and an MPA from the Harvard Kennedy School of Government."
+  panelist: true
