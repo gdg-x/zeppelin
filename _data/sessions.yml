@@ -13,6 +13,7 @@
   title: "Venture Competition"
   place: "Commonwealth AB (2nd Floor)"
   service: true
+  #speakers: [50, 51, 15, 13, 10]
 -
   id: 303
   title: "Keynote Panel"
@@ -72,7 +73,7 @@
   id: 427
   title: "Fireside Chat: Education"
   place: "Adams"
-  speakers: [18, 34]
+  speakers: [18, 34, 35]
 -
   id: 428
   title: "Fireside Chat: Urbanization"
@@ -122,7 +123,7 @@
   place: "TBD"
 -
   id: 423
-  title: "Masterclass: Insider Look at Largest African Venture Funding to Date"
+  title: "Masterclass: Insider Look at the Largest African Venture Funding to Date"
   place: "TBD"
   speakers: [51]
 -
