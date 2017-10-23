@@ -50,27 +50,27 @@
   service: true
 -
   id: 403
-  title: "Grand Panel"
+  title: "Grand Panel: Energy"
   place: "TBD"
 -
   id: 405
-  title: "Grand Panel"
+  title: "Grand Panel: Entrepren-<br>eurship"
   place: "TBD"
 -
   id: 406
-  title: "Grand Panel"
+  title: "Grand Panel: Women in Business"
   place: "TBD"
 -
   id: 407
-  title: "Fireside Chat"
+  title: "Fireside Chat: Consumer Goods"
   place: "TBD"
 -
   id: 427
-  title: "Fireside Chat"
+  title: "Fireside Chat: Education"
   place: "TBD"
 -
   id: 428
-  title: "Fireside Chat"
+  title: "Fireside Chat: Urbanization"
   place: "TBD"
 -
   id: 408
@@ -79,35 +79,47 @@
   service: true
 -
   id: 409
-  title: "Grand Panel"
+  title: "Grand Panel: Agriculture"
   place: "TBD"
 -
   id: 410
-  title: "Grand Panel"
+  title: "Grand Panel: Digital Finance"
   place: "TBD"
 -
   id: 411
-  title: "Grand Panel"
+  title: "Grand Panel: Private Equity"
   place: "TBD"
 -
   id: 412
-  title: "Fireside Chat"
+  title: "Fireside Chat: Data Revolution"
   place: "TBD"
 -
   id: 429
-  title: "Fireside Chat"
+  title: "Fireside Chat: Healthcare"
   place: "TBD"
 -
   id: 430
-  title: "Fireside Chat"
+  title: "Fireside Chat: Impact Investing"
   place: "TBD"
 -
   id: 413
-  title: "Masterclasses"
+  title: "Techpreneurship Masterclass"
+  place: "TBD"
+-
+  id: 422
+  title: "Kelechi Masterclass"
+  place: "TBD"
+-
+  id: 423
+  title: "VC Masterclass"
   place: "TBD"
 -
   id: 414
-  title: "State of the Continent Sessions"
+  title: "McKinsey State of the Continent Session"
+  place: "TBD"
+-
+  id: 421
+  title: "BCG State of the Continent Session"
   place: "TBD"
 -
   id: 415
