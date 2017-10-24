@@ -49,9 +49,6 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 "
   thumbnailUrl: betuel.png
   rockstar: true
-  social:
-
-
 
 -
   id: 4
@@ -86,25 +83,46 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
+
 - id: 6
   name: "David"
   surname: "Losert"
   bio: "<p>I'm 29 years old web developer living in Munich - but my roots and my heart still lie somewhere in the Black Forest near Freiburg. I am working at Virtual Identity since 2013 mostly with JavaScript and Typescript. I have worked a lot with Angular & Angular2 in the past - these days I mostly work with react & redux.</p>  
-<p>
-When I moved to Munich 2 years ago, I soon discovered the power of developer communities in meetups and conferences. I was stunned on how much I could learn and grow by so many people who were willing to share their knowledge, opinions, wisdom and, most importantly, their perspectives. I soon wanted to give back to those communities and enable others to experience the same, and so I started to host meetups myself as well as helping organize an annual unconference: the JSCraftCamp (http://jscraftcamp.org)</p>
-
-<p>
-As organizer of those events I realized fast that  a lot of times, the audience is not very diverse. I think this is very sad as the real power and potential of those events is - as I mentioned - the different perspectives which you only get WITH diversity.</p>
-<p>
-Therefore my motivation on being a Mentor to ngGirls is to hopefully help growing a more diverse developers community in which everybody can learn and grow by sharing my experience and giving the participants a save and easy access to web development. And I am sure that I will have the opportunity to learn so much FROM the participants as well.</p>
-"
+<p>When I moved to Munich 2 years ago, I soon discovered the power of developer communities in meetups and conferences. I was stunned on how much I could learn and grow by so many people who were willing to share their knowledge, opinions, wisdom and, most importantly, their perspectives. I soon wanted to give back to those communities and enable others to experience the same, and so I started to host meetups myself as well as helping organize an annual unconference: the JSCraftCamp (http://jscraftcamp.org)</p>
+<p>As organizer of those events I realized fast that  a lot of times, the audience is not very diverse. I think this is very sad as the real power and potential of those events is - as I mentioned - the different perspectives which you only get WITH diversity.</p>
+<p>Therefore my motivation on being a Mentor to ngGirls is to hopefully help growing a more diverse developers community in which everybody can learn and grow by sharing my experience and giving the participants a save and easy access to web development. And I am sure that I will have the opportunity to learn so much FROM the participants as well.</p>"
   thumbnailUrl: david.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/david_losert"}
 
-
 - id: 7
+  name: "Martina"
+  surname: "Kraus"
+  bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
+"
+  thumbnailUrl: martina.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/wing121"}
+
+- id: 8
+  name: "Michael"
+  surname: "Pereira"
+  bio: "<p>&nbsp;</p>"
+  thumbnailUrl: michael.png
+  rockstar: true
+
+- id: 9
+  name: "Christian"
+  surname: "Nielebock"
+  bio: "<p>I'm an enthusiastic web and PHP developer who's always curious about learning new technologies in web development. I'm participating to help others getting knowledge in web development technologies because I think the web is the present and future of user <-> computer interaction. Also I like and force to share knowledge between every kind of developer from beginners to experts.</p>
+"
+  thumbnailUrl: christian.png
+  rockstar: true
+
+
+- id: 10
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
