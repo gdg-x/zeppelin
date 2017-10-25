@@ -53,10 +53,10 @@
   id: 403
   title: "Grand Panel: Energy"
   place: "Howe"
-  speakers: [8, 23, 11]
+  speakers: [8, 23, 11, 41]
 -
   id: 405
-  title: "Grand Panel: Entrepreneurship"
+  title: "Grand Panel: Entrepreneur&shy;ship"
   place: "Terrace"
   speakers: [15, 12, 32, 33]
 -
@@ -78,7 +78,7 @@
   id: 428
   title: "Fireside Chat: Urbanization"
   place: "Franklin"
-  speakers: [21]
+  speakers: [21, 36]
 -
   id: 408
   title: "Lunch Keynote Panel"
@@ -108,6 +108,7 @@
   id: 429
   title: "Fireside Chat: Healthcare"
   place: "Adams"
+  speakers: [37]
 -
   id: 430
   title: "Fireside Chat: Impact Investing"
