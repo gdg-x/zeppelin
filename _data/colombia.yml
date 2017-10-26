@@ -57,6 +57,26 @@ mentors:
   social:
     - {name: "twitter", link: "https://twitter.com/jdjuan"}
     - {name: "github", link: "https://github.com/jdjuan"}
+
+- id: 4
+  name: "Manuela"
+  surname: "Castrillón"
+  bio: "<p>Estudiante de Ingeniería de Sistemas de la Universidad de Antioquia 💚, amo el desarrollo web, especialmente frontend. Fan de la pizza, la música y los algoritmos 🤘 </p>"
+  thumbnailUrl: manuelacastrillon.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ManuCastrillonM"}
+    - {name: "github", link: "https://github.com/ManuCastrillonM"}
+
+- id: 5
+  name: "Marian"
+  surname: "Villa"
+  bio: "<p>En continuo aprendizaje. Sueño con crear productos digitales y por eso hago parte de comunidades de programación. Core Team Member de @pionerasdev , apoyo organización en RailsGirls Medellín y sigo #creandored en @eversocialco</p>"
+  thumbnailUrl: marianvilla.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Marianvilla"}
+    - {name: "github", link: "https://github.com/Marianvilla"}
 #- id: 2
 #  name: "And You?"
 #  surname: ""
