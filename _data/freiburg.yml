@@ -23,6 +23,7 @@ mentors:
 - id: 1
   name: "Rozita"
   surname: "Pourashraf"
+  company: "&nbsp;"
   bio: "<p>I'm a passionate front-end engineer, love continuously learning, learning by doing and following the brand new web technologies.</p><p>
 
 I'd love to be more involved in Angular community for my interest's sake, and share my web knowledge through other Front-End communities which I'm a member of, such as Front-End meetup in Freiburg, where many young women participate in to exchange Talks about neubee Tech.</p>
@@ -35,6 +36,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 2
   name: "Stefanie"
   surname: "Knoth"
+  company: "&nbsp;"
   bio: "<p>I'm a web developer who is enthusiastic about the possibilities of the internet to bring people together and make the world a better place. I am participating in ngGirls because I want to use my skills to help empowering women and give something back to the community.</p>
 "
   thumbnailUrl: stefanie.png
@@ -45,6 +47,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 3
   name: "Betül"
   surname: "Stewart"
+  company: "&nbsp;"
   bio: "<p>I am a developer working as a product developer/project manager that loves teaching others.</p>
 "
   thumbnailUrl: betuel.png
@@ -68,6 +71,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 5
   name: "Robert"
   surname: "Willemelis"
+  company: "&nbsp;"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
    (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
    impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
@@ -87,6 +91,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 6
   name: "David"
   surname: "Losert"
+  company: "&nbsp;"
   bio: "<p>I'm 29 years old web developer living in Munich - but my roots and my heart still lie somewhere in the Black Forest near Freiburg. I am working at Virtual Identity since 2013 mostly with JavaScript and Typescript. I have worked a lot with Angular & Angular2 in the past - these days I mostly work with react & redux.</p>  
 <p>When I moved to Munich 2 years ago, I soon discovered the power of developer communities in meetups and conferences. I was stunned on how much I could learn and grow by so many people who were willing to share their knowledge, opinions, wisdom and, most importantly, their perspectives. I soon wanted to give back to those communities and enable others to experience the same, and so I started to host meetups myself as well as helping organize an annual unconference: the JSCraftCamp (http://jscraftcamp.org)</p>
 <p>As organizer of those events I realized fast that  a lot of times, the audience is not very diverse. I think this is very sad as the real power and potential of those events is - as I mentioned - the different perspectives which you only get WITH diversity.</p>
@@ -99,6 +104,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 7
   name: "Martina"
   surname: "Kraus"
+  company: "&nbsp;"
   bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
 "
   thumbnailUrl: martina.png
@@ -109,6 +115,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 8
   name: "Michael"
   surname: "Pereira"
+  company: "&nbsp;"
   bio: "<p>&nbsp;</p>"
   thumbnailUrl: michael.png
   rockstar: true
@@ -116,6 +123,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 9
   name: "Christian"
   surname: "Nielebock"
+  company: "&nbsp;"
   bio: "<p>I'm an enthusiastic web and PHP developer who's always curious about learning new technologies in web development. I'm participating to help others getting knowledge in web development technologies because I think the web is the present and future of user <-> computer interaction. Also I like and force to share knowledge between every kind of developer from beginners to experts.</p>
 "
   thumbnailUrl: christian.png
@@ -125,6 +133,7 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
 - id: 10
   name: "And You?"
   surname: ""
+  company: "&nbsp;"
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
   thumbnailUrl: you.png
   rockstar: true

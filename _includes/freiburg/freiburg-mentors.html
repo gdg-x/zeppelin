@@ -29,7 +29,7 @@
       </div>
 
       {% assign animationDelay = animationDelay | plus:500 %}
-      {% assign check = forloop.index | modulo:3 %}
+      {% assign check = forloop.index | modulo:10 %}
       {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
       {% endfor %}
 
