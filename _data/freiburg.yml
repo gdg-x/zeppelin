@@ -129,8 +129,18 @@ I'd love to be more involved in Angular community for my interest's sake, and sh
   thumbnailUrl: christian.png
   rockstar: true
 
-
 - id: 10
+  name: "Ralf"
+  surname: "Hafner"
+  company: "&nbsp;"
+  bio: "<p>I am a front end developer currently working with Angular most of my time. I love meeting like-minded people and share my experience and knowledge about everything related to web development.</p>
+"
+  thumbnailUrl: ralf.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ralfhafner"}
+
+- id: 11
   name: "And You?"
   surname: ""
   company: "&nbsp;"
