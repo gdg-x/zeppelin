@@ -1,13 +1,14 @@
 eventDate: "Noviembre 11, 2017, Medellín"
 applicationForm: "https://goo.gl/oLL7SV"
-mentorsForm: ""
+mentorsForm: "https://goo.gl/PWZ9Zj"
 descriptionTitle: "ngGirls Colombia"
 descriptionBlock:
  - {title: "¿Para quién es?", template: "colombia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
  - {title: "Agenda", template: "colombia/description-schedule.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
-#- {title: "Can I help?", template: "colombia/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
-#                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
-#                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+ - {title: "¿Puedo ayudar?", template: "colombia/description-can-i-help.html", link: "/#help", linkTitle: "contáctanos", text: "¡Por supuesto! Hay varias maneras en que puedes ayudar
+: <br/>
+                  <ul><li><b>Sponsors</b> -¡Con tu ayuda podemos hacer que nuestros eventos sean verdaderamente increíbles!
+                  Desde las oportunidades de entradas a las Conferencias de Angular, hasta el suministro de grandiosas sorpresas para las chicas, muchas oportunidades para ayudar. "}
 
 partners:
 
@@ -56,6 +57,26 @@ mentors:
   social:
     - {name: "twitter", link: "https://twitter.com/jdjuan"}
     - {name: "github", link: "https://github.com/jdjuan"}
+
+- id: 4
+  name: "Manuela"
+  surname: "Castrillón"
+  bio: "<p>Estudiante de Ingeniería de Sistemas de la Universidad de Antioquia 💚, amo el desarrollo web, especialmente frontend. Fan de la pizza, la música y los algoritmos 🤘 </p>"
+  thumbnailUrl: manuelacastrillon.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ManuCastrillonM"}
+    - {name: "github", link: "https://github.com/ManuCastrillonM"}
+
+- id: 5
+  name: "Marian"
+  surname: "Villa"
+  bio: "<p>En continuo aprendizaje. Sueño con crear productos digitales y por eso hago parte de comunidades de programación. Core Team Member de @pionerasdev , apoyo organización en RailsGirls Medellín y sigo #creandored en @eversocialco</p>"
+  thumbnailUrl: marianvilla.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Marianvilla"}
+    - {name: "github", link: "https://github.com/Marianvilla"}
 #- id: 2
 #  name: "And You?"
 #  surname: ""
