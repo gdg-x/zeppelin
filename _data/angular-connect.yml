@@ -14,11 +14,44 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "AngularConnect", description: "AngularConnect 2017 conference",
-        link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops", imageUrl: "angular-connect.png"}
      - {name: "ngArhus", description: "ngArhus - Angular Meetup group in Århus, Denmark",
-        link: "https://www.meetup.com/ngAarhus/", imageUrl: "ngAarhus.png", width: '100px'}
+        link: "https://www.meetup.com/ngAarhus/", imageUrl: "ngAarhus.png", width: '70px'}
+     - {name: "AngularConnect", description: "AngularConnect 2017 conference",
+        link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops",
+        imageUrl: "angular-connect.png"}
+     - {name: "futureCodersSE", description: "futureCodersSE - non-profit aiming to help to build a
+     community of young software developers",
+        link: "http://www.futurecoders.org.uk/", imageUrl: "fcLogo.png"}
 
+
+posts:
+  - {title: "ngGirls is teaming up with futureCodersSE!",
+     content: "<p>
+     ngGirls @ AngularConnect is happy to welcome a group of young students from the futureCodersSE program.
+     Attending the ngGirls workshop will give the girls from futureCodersSE an opportunity to work in a learning space with adults,
+      to network and to develop their skills.
+     </p>
+     <p><a href='http://www.futurecoders.org.uk/' target='_blank'>
+     <img src='/img/partners/fcLogo.png' title='futureCodersSE' alt='futureCodersSE' width='140px'>
+     </a></p>
+     <p><b><a href='http://www.futurecoders.org.uk/' target='_blank'>futureCodersSE</a>
+      is a non-profit aiming to help to build a community of young software developers.</b>
+      They do this through an end-to-end process –
+      <ul>
+          <li>inspire young people to want to prepare for a career in development by organising careers
+          events, hackathons, visits to businesses and to industry events</li>
+
+          <li>run coding workshops where young people can learn from scratch and can build their skills</li>
+
+          <li>run a work-experience programme where young people work in development teams 2 days per week for
+          3 months or more, guided by volunteers and professional tech leads, practice Agile and Scrum,
+           and deliver projects for charities,
+          non-profits and social startups</li>
+          <li>certificate participants from their work experience programme and work closely with employers
+          to recommend young people for apprenticeships or junior positions.</li>
+      </ul>
+      <a href='http://www.futurecoders.org.uk/' target='_blank'>Learn more about futureCodersSE</a>
+                </p>"}
 
 mentors:
 
