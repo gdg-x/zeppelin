@@ -99,7 +99,7 @@
   surname: "Kemery"
   company: "JPMorgan Asset Management"
   title: "Portfolio Manager & Head of Energy Investing – Global Fixed Income, Currencies and Commodities"
-  bio: "Ebele Kemery is Head of Energy Investing in JPMorgan Asset Management’s Global Fixed Income, Currency & Commodities (GFICC) group. Based in New York, Ebele is a portfolio manager on several JPMorgan Commodities Funds. Ebele focuses on commodities and their macro-economic implications on the global markets. Prior to this role, she provided institutional natural resources clients with tailored risk management solutions in the Investment Bank's Global Commodities Group. An employee since 2007, she previously held roles in London, New York and Houston as a physical and derivatives oil trader specializing in the North American and Transatlantic energy markets. Ebele is a frequent contributor to publications and media outlets, including the Wall Street Journal and Bloomberg TV, providing insight on energy and broad commodity markets. She earned a B.E. in electrical engineering from The Cooper Union for the Advancement of Science and Art, and is a member of the Wall Street Blockchain Alliance."
+  bio: "Ebele Kemery is Head of Energy Investing in JPMorgan Asset Management’s Global Fixed Income, Currency & Commodities (GFICC) group. Based in New York, Ebele is a portfolio manager on several JPMorgan Commodities Funds. Ebele focuses on commodities and their macro-economic implications on the global markets. Prior to this role, she provided institutional natural resources clients with tailored risk management solutions in the Investment Bank's Global Commodities Group. An employee since 2007, she previously held roles in London, New York and Houston as a physical and derivatives oil trader specializing in the North American and Transatlantic energy markets. Ebele is a frequent contributor to publications and media outlets, including the Wall Street Journal and Bloomberg TV, providing insight on energy and broad commodity markets. She serves as a member on the board of directors of SociaLite Lighting Systems, a non for profit organization which creates solar-powered lanterns from everyday plastic and glass waste, providing sustainable light to impoverished communities in developing nations. Ebele earned a B.E. in electrical engineering from The Cooper Union for the Advancement of Science and Art, and is a member of the Wall Street Blockchain Alliance."
   thumbnailUrl: speakers/Kemery.jpg
   panelist: true
 -
@@ -392,4 +392,40 @@
   title: "Director of Power & Gas Projects"
   thumbnailUrl: speakers/Soleye.jpg
   bio: "Timi Soleye is the Director Power Projects at Raven Energy and President and Co-founder of CRYO Gas & Power. He founded CRYO Gas in 2013 and has led it through several fundraising rounds and its strategic partnership and acquisition by Raven, a EMEA focused energy company based in Dubai. He has also published pieces on Nigerian electricity in the Huffington Post and on the Financial Times' beyondbrics, as well as numerous pieces on energy and economics in the Nigerian press.<br><br>Timi grew up in Nigeria and England. He and holds a Bachelor's degree in History from Harvard University. Timi lives and works in Lagos, Nigeria."
+  panelist: true
+-
+  id: 42
+  name: "Elias"
+  surname: "Berger"
+  company: "Africa Matters Limited"
+  title: "Senior Consultant"
+  thumbnailUrl: speakers/Berger.jpg
+  bio: "Eli Berger is a Senior Consultant at Africa Matters Limited (AML), an African risk advisory firm, where he is responsible for both the Anglophone West Africa practice and building out the firm’s US operation. Based in New York, Eli joined AML from Kroll, where he conducted pre-transactional due diligence investigations for many of the largest US corporate clients. Prior to Kroll, Eli worked for a boutique Nigeria-focused private equity firm in New York, where he was responsible for sourcing and analyzing investment opportunities in Nigeria’s real estate, hospitality, telecommunications and financial services sectors, as well as managing regulatory compliance and marketing for the firm’s portfolio companies, all Lagos-based start-ups. Eli holds an MSc in Development Management from the London School of Economics, as well as a Bachelor of Arts in Near and Middle Eastern Studies from Harvard University."
+  moderator: true
+-
+  id: 43
+  name: "Efayomi"
+  surname: "Carr"
+  company: "Quona Capital"
+  title: "Associate"
+  thumbnailUrl: speakers/Carr.jpg
+  bio: "Efayomi is an Associate with Quona Capital, supporting Quona’s investment activities and portfolio strategy in Africa.<br><br>Prior to joining Quona, he worked with 8 Miles, a London-based private equity firm that makes investments in Africa. Before this, Efayomi worked with the Sierra Leonean government during the Ebola response as the Head of the Information Management and Analysis team. He also has worked as the Head of Marketplace at Jumia Nigeria where he managed the company’s second biggest sales segment, and as a Consultant with the Boston Consulting Group where he focused primarily on financial services. Efayomi holds a BA in Philosophy, Politics, and Economics from the University of Pennsylvania and an MBA from Harvard Business School."
+  panelist: true
+-
+  id: 44
+  name: "Patrick"
+  surname: "Dupoux"
+  company: "Boston Consulting Group"
+  title: "Senior Partner & Managing Director, Casablanca"
+  thumbnailUrl: speakers/Dupoux.jpg
+  bio: "Patrick Dupoux leads BCG Africa operations. He also leads the firm’s globalization topic in BCG’s Western Europe, South America, and Africa region. He founded and is the current Chairman of the Casablanca office. Patrick joined BCG in 2001 and has supported many African and multinational companies in Africa across a range of industries, including industrial goods, consumer goods, energy, and agriculture. He authored several BCG's reports on the Africa Region, “The African Challengers” in 2010, “Winning in Africa” in 2013, “Dueling with Lions” in 2015 and “Why Africa remains ripe for Private Equity” in 2016. He continues to lead research on the emergence of Africa and the ways in which companies can succeed in the context of Africa’s broader plans for expansion.  He holds a master in civil engineering from the Ecole Nationale des Ponts et Chaussées (1996) in France and a MBA from INSEAD (2000)."
+  keynote: true
+-
+  id: 45
+  name: "Osagie"
+  surname: "Imasogie"
+  company: "PIPV Capital"
+  title: "Senior Managing Partner"
+#  thumbnailUrl: speakers/Imasogie.jpg
+  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
   panelist: true

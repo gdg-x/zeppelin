@@ -98,7 +98,7 @@
   id: 411
   title: "Grand Panel: Private Equity"
   place: "Lescaze"
-  speakers: [28, 24]
+  speakers: [42, 28, 24]
 -
   id: 412
   title: "Fireside Chat: Data Revolution"
@@ -113,7 +113,7 @@
   id: 430
   title: "Fireside Chat: Impact Investing"
   place: "Franklin"
-  speakers: [10]
+  speakers: [10, 43]
 -
   id: 413
   title: "Masterclass: Entrepreneurship Deep Dive"

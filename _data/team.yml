@@ -296,3 +296,12 @@
   orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.instagram.com/djyoossouph/"}
+-
+  id: 40
+  name: "Kwesi"
+  surname: "Sey"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Kwesi.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kwesisey/"}

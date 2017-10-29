@@ -123,6 +123,11 @@ venueSmallImage2: "venue_2.jpg"
 venueTitle: "3 brilliant backdrops for meaningful dialogue and strong connections. WABF25 will be hosted at the adjacent Loews and Marriott hotels in downtown Philadelphia, and capped with a farewell brunch on the Spirit of Philadelphia. "
 #venueFeatures: ["Loews Hotel Philadelphia", "Spirit of Philadelphia", "Marriott Hotel Philadelphia"]
 
+# Entertainment Block
+entertainmentBlockTitle: "Entertainment"
+entertainmentImage1: "friday.jpg"
+entertainmentImage2: "runtown.jpg"
+
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
