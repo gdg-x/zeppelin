@@ -42,6 +42,18 @@
           </div>
 
           <div class="col-lg-10 col-lg-offset-1 text-center">
+              <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Entertainers</h4>
+              {% for speaker in site.data.speakers %} {% if speaker.entertainment != null %}
+              <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                  <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                      <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                      </figure>
+                  </div>
+              </div>
+            {% endif %} {% endfor %}
+          </div>
+
+          <div class="col-lg-10 col-lg-offset-1 text-center">
               <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Panelists</h4>
               {% for speaker in site.data.speakers %} {% if speaker.panelist != null %}
               <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
