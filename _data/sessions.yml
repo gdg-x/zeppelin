@@ -31,8 +31,9 @@
   service: true
 -
   id: 306
-  title: "Friday Night Mixer"
-  place: "1925 Lounge"
+  title: "Friday Night Mixer | Official Pre-Conference Soirée"
+  place: "1925 Lounge (111 S 17th St., Philadelphia)"
+  description: "Tickets available <a href=https://wabf.ticketspice.com/wharton-africa-business-forum>here</a>"
   service: true
 -
   id: 399
@@ -93,12 +94,12 @@
   id: 410
   title: "Grand Panel: Digital Finance"
   place: "Terrace"
-  speakers: [26]
+  speakers: [26, 54, 55]
 -
   id: 411
   title: "Grand Panel: Private Equity"
   place: "Lescaze"
-  speakers: [42, 28, 24]
+  speakers: [42, 28, 24, 53]
 -
   id: 412
   title: "Fireside Chat: Data Revolution"
@@ -167,6 +168,8 @@
   id: 420
   title: "After-Party"
   place: "Millennium (2nd Floor)"
+  description: "Tickets available <a href=https://wabf.ticketspice.com/wharton-africa-business-forum>here</a>"
+  speakers: [46]
   service: true
 -
   id: 500

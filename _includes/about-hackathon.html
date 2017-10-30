@@ -31,6 +31,16 @@
         {% for button in site.vcButton %}
           <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
         {% endfor %}
+        <div class="hackathon-row float-left col-md-10">
+          <div class="hackathon-details animated hiding" data-animation="fadeInRight" data-delay="0">
+            <h5>Announcing our finalists!</h5>
+            <ul>
+              {% for venture in site.data.ventures %}
+                  <li><strong>{{ venture.name }}</strong> <em>{{ venture.description }}</em> <a href={{ venture.url }}>{{ venture.url }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
     </div>
 </section>
 <!-- End About Hackathon Section -->

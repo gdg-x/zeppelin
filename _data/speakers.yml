@@ -465,3 +465,39 @@
   thumbnailUrl: speakers/Abii.jpg
 #  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
   panelist: true
+-
+  id: 52
+  name: "Paul"
+  surname: "Trustfull"
+  company: "Forbes Afrique"
+  title: "Founding Editor"
+  thumbnailUrl: speakers/Trustfull.jpg
+  bio: "Paul Trustfull’s many roles with Forbes Media include serving as the founding editor of Forbes Afrique, the French edition of Forbes that is distributed in 23 francophone countries in Africa and founding writer of Forbes’s Emerging Markets custom content category. He has fostered important international business relationships with CEOs and heads of states that have proven invaluable in developing new business––specifically the African business sector––for Forbes magazine. He has travelled extensively to meet and interview some of the world’s most intriguing leaders such as the late Nelson Mandela, Secretary of State Hillary Clinton, President Lula da Silva of Brazil, Prime Minister Matata Ponyo Mapon, of the Democratic Republic of the Congo and Lamido Sanusi, former Nigerian Central Bank Governor. Paul has also interviewed and featured personalities in the entertainment industry including Quincy Jones and Harry Belafonte."
+  moderator: true
+-
+  id: 53
+  name: "Patrice"
+  surname: "Backer"
+  company: "AFIG Funds"
+  title: "Partner and Chief Investment Officer"
+  thumbnailUrl: speakers/Backer.jpg
+  bio: "Patrice Backer is a Partner and Chief Investment Officer of AFIG Funds, a growth equity fund manager based in Dakar, Senegal. He is responsible for managing all aspects of the investment process including deal sourcing and execution, pipeline evaluation, portfolio monitoring and portfolio company engagement. Mr. Backer has more than 12 years of PE experience in sub-Saharan Africa.<br><br>Prior to AFIG Funds, Mr. Backer led PromoCapital Haiti S.A., a transnational investment firm with offices in Haiti and the U.S and provided financial advisory and management consulting services to clients that included financial institutions and transportation companies. Mr. Backer started his career at JP Morgan in the Latin America Mergers & Acquisitions Group before joining Morgan’s Emerging Markets Derivatives team and concurrently managing its Emerging Markets Finance Desk.<br><br>Mr. Backer is a graduate of the University of Pennsylvania, where he obtained a joint MBA from the Wharton School and an MA from the School of Arts and Sciences. He is a Fellow of the Lauder Institute Global MBA program. Mr. Backer graduated from Harvard College with a Bachelor’s degree in Engineering Sciences."
+  panelist: true
+-
+  id: 54
+  name: "Evans"
+  surname: "Munyuki"
+  company: "MyBucks"
+  title: "Chief Digital and Information Officer"
+  thumbnailUrl: speakers/Munyuki.png
+  bio: "Before working at MyBucks, Evan Munyuki was the Head of Alternative Business Models at Barclay Africa.<br><br>Munyuki has over 23-years business leadership, IT portfolio and digital experience to MyBucks, Munyuki will be heading up the digital division of the company in Africa to make use of credit technology.<br><br>Evans Munyuki joined Barclays Africa in December 2010. Evans brings a varied mix of international and emerging-markets leadership and management experience. He was the Head of Alternative Business Models for the Group’s Retail & Business Bank. Prior to this, his Barclays Africa Group roles were: Head of Digital for Retail & Business Bank, Head of Digital for Business Bank, CIO for the Retail & Business Bank, CIO for Core Banking, Architecture and Innovation, and CIO for Business Bank.<br><br>Prior to these roles, Evans was the Group CIO for The Kelly Group. Evans worked for IBM for 15 years (in the USA and in South Africa) where he held many leadership and execution roles."
+  panelist: true
+-
+  id: 55
+  name: "Barbara"
+  surname: "Span"
+  company: "Western Union"
+  title: "Vice President, Global Public Affairs"
+  thumbnailUrl: speakers/Span.jpg
+  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+  panelist: true
