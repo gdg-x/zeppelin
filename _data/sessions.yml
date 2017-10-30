@@ -44,14 +44,10 @@
   service: true
 -
   id: 401
-  title: "Welcome Address"
+  title: "Welcome & Keynote"
   place: "Millennium (2nd Floor)"
-  service: true
--
-  id: 402
-  title: "Breakfast Keynote Panel"
-  place: "Millennium Ballroom"
-  service: true
+  #service: true
+  speakers: [52, 4, 44]
 -
   id: 403
   title: "Grand Panel: Energy"
@@ -66,7 +62,7 @@
   id: 406
   title: "Grand Panel: Women in Business"
   place: "Lescaze"
-  speakers: [29, 31, 58]
+  speakers: [29, 31, 58, 59]
 -
   id: 407
   title: "Fireside Chat: Consumer Goods"
@@ -84,7 +80,7 @@
   speakers: [21, 36, 40]
 -
   id: 408
-  title: "Lunch Keynote Panel"
+  title: "Lunch & Keynote"
   place: "Millennium (2nd Floor)"
   service: true
 -
@@ -146,7 +142,7 @@
   place: "TBD"
 -
   id: 416
-  title: "Pre-Gala Cocktail Reception"
+  title: "Pre-Gala Reception"
   place: "Regency Foyer"
   service: true
 -
@@ -160,7 +156,7 @@
   service: true
 -
   id: 419
-  title: "Gala & Awards Ceremony with Dinner Keynote"
+  title: "Gala"
   place: "Regency Ballroom"
   service: true
 -

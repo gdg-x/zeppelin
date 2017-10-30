@@ -16,18 +16,8 @@
     }
     - {
         startTime: "16:00",
-        endTime: "17:00",
-        sessionIds: [302]
-    }
-    - {
-        startTime: "17:00",
         endTime: "18:00",
-        sessionIds: [303]
-    }
-    - {
-        startTime: "18:00",
-        endTime: "20:00",
-        sessionIds: [304]
+        sessionIds: [302]
     }
     - {
         startTime: "20:00",
@@ -51,19 +41,19 @@
     - {title: "Track 6", color: "#9b9a3c"}
   timeslots:
     - {
-        startTime: "08:00",
-        endTime: "08:45",
+        startTime: "07:30",
+        endTime: "08:30",
         sessionIds: [399]
     }
     - {
-        startTime: "08:45",
-        endTime: "09:00",
-        sessionIds: [401]
+        startTime: "08:15",
+        endTime: "08:30",
+        sessionIds: [417]
     }
     - {
-        startTime: "09:00",
+        startTime: "08:45",
         endTime: "10:00",
-        sessionIds: [402]
+        sessionIds: [401]
     }
     - {
         startTime: "10:00",
@@ -82,21 +72,16 @@
     }
     - {
         startTime: "15:00",
-        endTime: "16:30",
-        sessionIds: [414, 429]
+        endTime: "16:00",
+        sessionIds: [414]
     }
     - {
-        startTime: "16:30",
+        startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [417]
+        sessionIds: [421]
     }
     - {
         startTime: "17:00",
-        endTime: "18:30",
-        sessionIds: [423, 421, 425]
-    }
-    - {
-        startTime: "18:30",
         endTime: "20:00",
         sessionIds: [417]
     }
@@ -107,12 +92,12 @@
     }
     - {
         startTime: "21:00",
-        endTime: "22:00",
+        endTime: "23:00",
         sessionIds: [419]
     }
     - {
-        startTime: "22:00",
-        endTime: "00:00",
+        startTime: "23:00",
+        endTime: "02:00",
         sessionIds: [420]
     }
 -
@@ -127,7 +112,7 @@
         sessionIds: [500]
     }
     - {
-        startTime: "11:00",
-        endTime: "14:00",
+        startTime: "10:00",
+        endTime: "12:00",
         sessionIds: [502]
     }

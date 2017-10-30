@@ -507,7 +507,7 @@
   surname: "Guerrero"
   company: "The Wharton School"
   title: "Senior Associate Director for Diversity"
-#  thumbnailUrl: speakers/Span.jpeg
+  thumbnailUrl: speakers/Guerrero.jpeg
 #  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
   panelist: true
 -
@@ -527,4 +527,13 @@
   title: "Tech Consultant and Social Entrepreneur"
   thumbnailUrl: speakers/Dada.jpg
   bio: "Jumoke K. Dada is a Nigerian-American visionary and techie whose sweet spot lives at the intersection of innovation, entrepreneurship, goodwill and girl power. As the principal of Signature RED, she offers tech consulting services and provides tools and resources to women interested in advancing their careers in technology. Dada is known for her ideation ability and innovative approach to assessing and solving problems. In addition to working in corporate I.T. roles, she also has experience with marketing and event planning. In March of 2017, she combined utilized her skills to launch the TechWomenNetwork.com, a searchable, online platform for tech-savvy women. Dada also has a track record for advocating for the education and advancement of girls. Through her Project ALOE program, every summer she ensures that high school graduates receive toiletries and advice before starting their freshmen year of college. She is becoming a strong voice for women technologists and entrepreneurs. Over the years she has spoken at global and local conferences including Social Media Week Lagos and the Pennsylvania Conference for Women. In January 2017, she had the honor of giving the keynote speech for kickoff of the First Robotics Competition at Columbia University in New York. Dada has received press coverage for her work and currently contributes diversity in tech articles to Women@FORBES. She holds a B.S. in Computer and Information Sciences in addition to real estate sales and SCRUM certifications. She is currently focused on the development and expansion of the Tech Women Network. Learn more at dadaverse.org or follow her at @jumokedada on Twitter."
+  panelist: true
+-
+  id: 59
+  name: "Amuche"
+  surname: "Okeke-Agba"
+  company: "McKinsey & Company"
+  title: "Associate Partner"
+  thumbnailUrl: speakers/Amuche.jpg
+  bio: "Amuche Okeke-Agba is an Associate Partner in McKinsey’s Lagos office. She co-leads the Recovery & Transformation Services practice for McKinsey in West Africa.<br><br>Since joining McKinsey in 2012, she has provided strategy and implementation advice to clients across the public sector and the private sector (including electric/power, oil & gas, banking, and ICT industries) in Africa. Her expertise is in transformation and capability building in large organisations.<br><br>Prior to joining McKinsey, Amuche worked as a Product Manager at Microsoft in Seattle, Washington. Amuche earned a B.Sc. in Electrical Engineering from the University of Arizona and a M.Sc. in Management Science and Engineering from Stanford University. She and her husband, Chike have been married for 6 years and have 2 children, Kasiemobi and Chizulu."
   panelist: true
