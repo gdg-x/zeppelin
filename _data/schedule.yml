@@ -78,22 +78,22 @@
     - {
         startTime: "13:30",
         endTime: "15:00",
-        sessionIds: [409, 410, 411, 412, 429, 430]
+        sessionIds: [409, 410, 411, 412, 430, 422]
     }
     - {
         startTime: "15:00",
-        endTime: "16:00",
-        sessionIds: [414, 413, 422]
+        endTime: "16:30",
+        sessionIds: [414, 429]
     }
     - {
-        startTime: "16:00",
+        startTime: "16:30",
         endTime: "17:00",
-        sessionIds: [421, 423]
+        sessionIds: [417]
     }
     - {
         startTime: "17:00",
         endTime: "18:30",
-        sessionIds: [418]
+        sessionIds: [423, 421, 425]
     }
     - {
         startTime: "18:30",

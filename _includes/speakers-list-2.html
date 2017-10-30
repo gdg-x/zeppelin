@@ -47,6 +47,14 @@
               <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                   <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                       <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                          <figcaption>
+                              <div class="col-md-12 col-xs-12 text-left">
+                                  <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                  <div class="clearfix"></div>
+                                  <span class="position">{{ speaker.title }}</span>
+                                  <span class="company">{{ speaker.company }}</span>
+                              </div>
+                          </figcaption>
                       </figure>
                   </div>
               </div>
