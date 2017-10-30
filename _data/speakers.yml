@@ -74,15 +74,15 @@
   bio: "Alan Kessler is the Founder and CEO of African Discovery Group, an African-focused Principal, Advisory and Commodity Trading firm based in New York, USA. The firm is focused in the power, oil, gas, real estate and natural resource sectors. The goal of the firm is to attract private capital from the United States into Africa to enhance the Continent's development.<br><br>Mr. Kessler has over 20 years of experience on Wall Street, where he worked on the agency side at Goldman Sachs, Morgan Stanley and Ladenburg Thalmann and on the principal side at Oracle Partners, Frontpoint Partners, and Argenis Capital. With a primary focus on African Oil & Gas Exploration, Mr. Kessler has been responsible for raising over $1 Billion of capital into Africa. Prior to starting ADG, he served as Managing Director at Ladenburg Thalmann, creating a group targeted on African development, focused on private wealth, private placements and institutional trading. He built an annual African Oil, Gas and Power conference in New York.<br><br>Amongst other deals on the Continent, Mr. Kessler raised, marketed, capitalized, closed private placements and ultimately completed an initial public offering (IPO) for Lekoil, a Nigerian Exploration and Production company. The company would go on to make the 3rd largest oil discovery in the world in 2013; a deal that was nominated as IPO of the Year on London's AIM exchange. Amongst other notable transactions, Mr. Kessler also took public Savannah Petroleum on London's AIM exchange, proving a Landmark transaction as the first ever publicly-traded company in Niger, capitalizing an oil field that was a former divestiture of the Chinese National Petroleum Company. Mr. Kessler is a board member of TG Senergy, a Senegal-based Oil & Gas exploration company.<br><br>Mr. Kessler holds a Bachelor of Arts in Economics from the University of Pennsylvania (Cum Laude) and an MBA from Columbia Business School. Mr. Kessler was born and raised in South Africa."
   thumbnailUrl: speakers/Kessler.jpg
   panelist: true
-#-
-#  id: 9
-#  name: "Richard"
-#  surname: "Greenberg"
-#  company: "Overseas Private Investment Corporation"
-#  title: "Managing Director, Social Enterprise Finance"
-#  bio: "Mr. Greenberg is a Managing Director at OPIC, the U.S. Government’s development finance institution, with responsibility for co-leading the organization’s efforts to expand its contribution in the area of social enterprise and impact finance. The unit he leads has significantly grown OPIC’s social enterprise finance activity, having closed over $1 billion in OPIC financing to the microfinance sector and expanded OPIC’s activity in sectors such as health, water, agribusiness, and energy, with considerable focus on Africa. Recently, he has played a key role in developing two OPIC initiatives, one focused on financing for impact investment funds and the other on providing debt to early stage social enterprises. Previously, Mr. Greenberg led project financings in markets around the world involving both small businesses and major infrastructure projects.<br><br>Mr. Greenberg has been a frequent speaker at conferences on project financing in emerging markets and has lectured at graduate level courses in microfinance and impact investing. He holds a B.S. from the Wharton School at the University of Pennsylvania, an M.A. from the Johns Hopkins School of Advanced International Studies (SAIS), and an M.B.A. from George Washington University."
-#  thumbnailUrl: speakers/Greenberg.jpg
-#  panelist: true
+-
+  id: 9
+  name: "Richard"
+  surname: "Greenberg"
+  company: "Overseas Private Investment Corporation"
+  title: "Managing Director, Social Enterprise Finance"
+  bio: "Mr. Greenberg is a Managing Director at OPIC, the U.S. Government’s development finance institution, with responsibility for co-leading the organization’s efforts to expand its contribution in the area of social enterprise and impact finance. The unit he leads has significantly grown OPIC’s social enterprise finance activity, having closed over $1 billion in OPIC financing to the microfinance sector and expanded OPIC’s activity in sectors such as health, water, agribusiness, and energy, with considerable focus on Africa. Recently, he has played a key role in developing two OPIC initiatives, one focused on financing for impact investment funds and the other on providing debt to early stage social enterprises. Previously, Mr. Greenberg led project financings in markets around the world involving both small businesses and major infrastructure projects.<br><br>Mr. Greenberg has been a frequent speaker at conferences on project financing in emerging markets and has lectured at graduate level courses in microfinance and impact investing. He holds a B.S. from the Wharton School at the University of Pennsylvania, an M.A. from the Johns Hopkins School of Advanced International Studies (SAIS), and an M.B.A. from George Washington University."
+  thumbnailUrl: speakers/Greenberg.jpg
+  panelist: true
 -
   id: 10
   name: "Amee"
@@ -500,4 +500,31 @@
   title: "Vice President, Global Public Affairs"
   thumbnailUrl: speakers/Span.jpeg
   bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+  panelist: true
+-
+  id: 56
+  name: "Jessica"
+  surname: "Guerrero"
+  company: "The Wharton School"
+  title: "Senior Associate Director for Diversity"
+#  thumbnailUrl: speakers/Span.jpeg
+#  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+  panelist: true
+-
+  id: 57
+  name: "Yomi"
+  surname: "Adedeji"
+  company: "<br>"
+  title: "<br>"
+  thumbnailUrl: speakers/Adedeji.jpg
+#  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+  panelist: true
+-
+  id: 58
+  name: "Jumoke"
+  surname: "Dada"
+  company: "Signature RED & Tech Women Network"
+  title: "Tech Consultant and Social Entrepreneur"
+  thumbnailUrl: speakers/Dada.jpg
+  bio: "Jumoke K. Dada is a Nigerian-American visionary and techie whose sweet spot lives at the intersection of innovation, entrepreneurship, goodwill and girl power. As the principal of Signature RED, she offers tech consulting services and provides tools and resources to women interested in advancing their careers in technology. Dada is known for her ideation ability and innovative approach to assessing and solving problems. In addition to working in corporate I.T. roles, she also has experience with marketing and event planning. In March of 2017, she combined utilized her skills to launch the TechWomenNetwork.com, a searchable, online platform for tech-savvy women. Dada also has a track record for advocating for the education and advancement of girls. Through her Project ALOE program, every summer she ensures that high school graduates receive toiletries and advice before starting their freshmen year of college. She is becoming a strong voice for women technologists and entrepreneurs. Over the years she has spoken at global and local conferences including Social Media Week Lagos and the Pennsylvania Conference for Women. In January 2017, she had the honor of giving the keynote speech for kickoff of the First Robotics Competition at Columbia University in New York. Dada has received press coverage for her work and currently contributes diversity in tech articles to Women@FORBES. She holds a B.S. in Computer and Information Sciences in addition to real estate sales and SCRUM certifications. She is currently focused on the development and expansion of the Tech Women Network. Learn more at dadaverse.org or follow her at @jumokedada on Twitter."
   panelist: true

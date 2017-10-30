@@ -1,19 +1,21 @@
 -
   id: 300
-  title: "Arrival & Registration"
+  title: "Registration"
   place: "Millenium Foyer (2nd Floor)"
   service: true
 -
   id: 301
-  title: "Wharton MBA Admissions Information Session"
+  title: "Wharton MBA and Lauder Admissions Session & Student Panel"
   place: "Commonwealth AB (2nd Floor)"
   service: true
+  speakers: [56]
 -
   id: 302
   title: "Venture Competition"
   place: "Commonwealth AB (2nd Floor)"
   #service: true
   speakers: [50, 51, 15, 13, 10]
+  description: "Companies pitching: ScholarX, Loystar, MWAYI, Redbird Health Tech, MDaaS, Bright Future, Accounteer, OZE, Solar Freeze, SolarLuv"
 -
   id: 303
   title: "Keynote Panel"
@@ -64,7 +66,7 @@
   id: 406
   title: "Grand Panel: Women in Business"
   place: "Lescaze"
-  speakers: [29, 31]
+  speakers: [29, 31, 58]
 -
   id: 407
   title: "Fireside Chat: Consumer Goods"
@@ -77,9 +79,9 @@
   speakers: [18, 34, 35]
 -
   id: 428
-  title: "Fireside Chat: Urbanization"
+  title: "Fireside Chat: Real Estate & Urbanization"
   place: "Franklin"
-  speakers: [21, 36]
+  speakers: [21, 36, 40]
 -
   id: 408
   title: "Lunch Keynote Panel"
@@ -94,7 +96,7 @@
   id: 410
   title: "Grand Panel: Digital Finance"
   place: "Terrace"
-  speakers: [26, 54, 55]
+  speakers: [9, 26, 54, 55]
 -
   id: 411
   title: "Grand Panel: Private Equity"
@@ -109,20 +111,17 @@
   id: 429
   title: "Fireside Chat: Healthcare"
   place: "Adams"
-  speakers: [37]
+  speakers: [37, 45]
 -
   id: 430
   title: "Fireside Chat: Impact Investing"
   place: "Franklin"
   speakers: [10, 43]
 -
-  id: 413
-  title: "Masterclass: Entrepreneurship Deep Dive"
-  place: "TBD"
--
   id: 422
-  title: "Masterclass: How I Built This"
+  title: "Masterclass: How I Built This | My Technopreneurship Journey"
   place: "TBD"
+  speakers: [57]
 -
   id: 425
   title: "Investing in African Art as an Asset Class"
