@@ -96,7 +96,7 @@
   id: 410
   title: "Grand Panel: Digital Finance"
   place: "Terrace"
-  speakers: [9, 26, 54, 55]
+  speakers: [9, 26, 55]
 -
   id: 411
   title: "Grand Panel: Private Equity"
@@ -106,7 +106,7 @@
   id: 412
   title: "Fireside Chat: Data Revolution"
   place: "Anthony"
-  speakers: [16, 17]
+  speakers: [16, 17, 22]
 -
   id: 429
   title: "Fireside Chat: Healthcare"
