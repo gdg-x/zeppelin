@@ -195,16 +195,6 @@
   thumbnailUrl: speakers/Cooper.jpg
   panelist: true
 -
-  id: 22
-  name: "Asiwaju Bola"
-  surname: "Ahmed Tinubu"
-  company: "Former Governor"
-  title: "Lagos State"
-  bio: "Asiwaju Bola Ahmed Tinubu is most famously known as the former Governor of Lagos State, the most populous State in Africa! Born and raised in Lagos, Nigeria, Tinunbu graduated Summa Cum Laude with First Class Honors in Business Administration from Chicago State University, IL. During this time, he served as the President of the Accounting Society. Upon graduating, he worked for for Arthur Andersen, Deloitte, and Mobil Nigeria - where he rose to become the Company Treasurer. He entered the political realm in 1989. He was elected Senator in 1992 and seven years later, was elected Governor of Lagos State, where he served two terms until 2007. He is currently the National Leader of All Progressives Congress (APC), the ruling Party in Nigeria.<br><br>During his tenure as Governor of Lagos state, he enhanced revenue collection, quintupling the State's annual Internally Generated Revenue (IGR) from $100m in 1999  to over $500m in 2007. His innovations laid the groundwork necessary for Lagos to modernize living conditions of all of its inhabitants. As Governor, he also carried out educational reforms in which mission schools were returned to their original owners.<br><br>Asiwaju Bola Ahmed Tinubu remains one of Nigeria’s most relentless fighters for democracy, justice and the rule of law. Today, he is the most vociferous voice in the call for Nigeria to return to the path of true federalism that will give Governors and Chairmen fully funded mandates and accelerate grassroots development. Bola Tinunbu is known as the chief architect of the political merger that produced the All Progressives Congress, one of the two major political parties of Nigeria. He is passionate about civil service and has worked with highly strategic foresight, operational efficiency, and innovative partnerships."
-  thumbnailUrl: speakers/Tinubu.jpg
-  keynote: true
-  rockstar: true
--
   id: 23
   name: "Shawn"
   surname: "Simmons, PhD"
@@ -482,15 +472,6 @@
   title: "Partner and Chief Investment Officer"
   thumbnailUrl: speakers/Backer.jpg
   bio: "Patrice Backer is a Partner and Chief Investment Officer of AFIG Funds, a growth equity fund manager based in Dakar, Senegal. He is responsible for managing all aspects of the investment process including deal sourcing and execution, pipeline evaluation, portfolio monitoring and portfolio company engagement. Mr. Backer has more than 12 years of PE experience in sub-Saharan Africa.<br><br>Prior to AFIG Funds, Mr. Backer led PromoCapital Haiti S.A., a transnational investment firm with offices in Haiti and the U.S and provided financial advisory and management consulting services to clients that included financial institutions and transportation companies. Mr. Backer started his career at JP Morgan in the Latin America Mergers & Acquisitions Group before joining Morgan’s Emerging Markets Derivatives team and concurrently managing its Emerging Markets Finance Desk.<br><br>Mr. Backer is a graduate of the University of Pennsylvania, where he obtained a joint MBA from the Wharton School and an MA from the School of Arts and Sciences. He is a Fellow of the Lauder Institute Global MBA program. Mr. Backer graduated from Harvard College with a Bachelor’s degree in Engineering Sciences."
-  panelist: true
--
-  id: 54
-  name: "Evans"
-  surname: "Munyuki"
-  company: "MyBucks"
-  title: "Chief Digital and Information Officer"
-  thumbnailUrl: speakers/Munyuki.png
-  bio: "Before working at MyBucks, Evan Munyuki was the Head of Alternative Business Models at Barclay Africa.<br><br>Munyuki has over 23-years business leadership, IT portfolio and digital experience to MyBucks, Munyuki will be heading up the digital division of the company in Africa to make use of credit technology.<br><br>Evans Munyuki joined Barclays Africa in December 2010. Evans brings a varied mix of international and emerging-markets leadership and management experience. He was the Head of Alternative Business Models for the Group’s Retail & Business Bank. Prior to this, his Barclays Africa Group roles were: Head of Digital for Retail & Business Bank, Head of Digital for Business Bank, CIO for the Retail & Business Bank, CIO for Core Banking, Architecture and Innovation, and CIO for Business Bank.<br><br>Prior to these roles, Evans was the Group CIO for The Kelly Group. Evans worked for IBM for 15 years (in the USA and in South Africa) where he held many leadership and execution roles."
   panelist: true
 -
   id: 55
