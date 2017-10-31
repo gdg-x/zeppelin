@@ -11,3 +11,19 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
+### Mac ###
+# Mac DS Store
+*.DS_Store
+
+### WABF Logos ###
+img/WABFlogos
+
+### Automation ###
+automation/images/
+
+### Assets ###
+assets/
+
+### Old Images ###
+img/sections-background/old-hero.jpg

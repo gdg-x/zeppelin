@@ -1,6 +1,7 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
+- jekyll-seo-tag
 safe: false
 
 # Build Settings
@@ -10,200 +11,300 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "WABF25 | Wharton Africa Business Forum 2017"
+email: "wabf-info@wharton.upenn.edu"
+description: "The premier and longest running student-organized business conference focused on Africa."
+#baseurl: "/wabf25"
+baseurl: ""
+url: "http://wabf2017.whartonafrica.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-107516630-1"
+googleAnalyticsSiteUrl: "wabf2017.whartonafrica.com"
+siteVerification: "S8cRhwgRCzgyPplK9Dk2L7gxCnguWau2UGGlP-xSVL8"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "Wharton Africa Business Forum"
+organizerAlternateName: "Wharton Africa Business Forum"
+organizerDescription: "A Wharton student organization"
+organizerEmail: "wabf-info@wharton.upenn.edu"
+#organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://whartonafrica.com"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "Wharton, conference, Africa, business, Philadelphia, student, Wharton Africa Business Forum 2017, Wharton Africa Business Forum, WABF 2017, WABF 25, Wharton Africa Business Forum 25, #WABF25, #WABF2017"
+twitterAccount: "@wabf25"
+ # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+c4pUrl: "https://goo.gl/forms/1lL8gHN106JdFNKX2"
+c4sponsorsUrl: "mailto:yolandak@wharton.upenn.edu?Subject=WABF Sponsorship"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/venturecomp/", text: "Venture Competition"}
+ -
+   subText: "Archive"
+   links:
+     - {link: "http://wabf2016.whartonafrica.com", text: "WABF 2016"}
+     - {link: "http://wabf2015.whartonafrica.com", text: "WABF 2015"}
+     - {link: "http://wabf2014.whartonafrica.com", text: "WABF 2014"}
+     - {link: "http://wabf2013.whartonafrica.com", text: "WABF 2013"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now!"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now!"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Wharton Africa Business Forum <typeout>"
+eventLocation: "Philadelphia, PA"
+eventDate: "November 3 - 5, 2017"
+typeoutTextValues: '"", "25", "2017", "#WABF25"'
+typeoutFallback: "25"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ #- {link: "https://goo.gl/forms/1lL8gHN106JdFNKX2", text: "Become a speaker"}
+ - {link: "https://wabf.ticketspice.com/wharton-africa-business-forum", text: "Register Now!"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "25 Years of WABF"
+aboutText: "Welcome!<br><br>Since the inaugural Wharton Africa Business Forum  (WABF), we have welcomed thought leaders, dignitaries, CEOs, captains of industry and young professionals from around the world to contemplate career leadership and champion Africa as a business destination. <strong>In this historic 25th Anniversary year, we are honored to be able to continue in this tradition.</strong><br><br>This year we have selected the theme <strong>“Continental Conversations: Choices for a New Africa”</strong> to facilitate dialogue about the complexity of investment and managerial decision-making by leaders in the midst of uncertainty, yet at the cusp of an unprecedented age of information, urbanization, technological connectivity, and its promises.  WABF25 hopes to distill the influences that have driven change in the past and that will drive change in the future.<br><br>Our goals for the 25th Forum are simple but bold: to provide unparalleled insights into the opportunities and challenges of operating in Africa; to connect young professionals with leaders in Africa’s public, private and social sectors; and to inspire educated talent in the Diaspora to get involved in the development of the continent.<br><br>We look forward to hosting you this November in Philadelphia.<br><br>Sincerely,<br><br>Your WABF25 Leadership Team"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+# - {title: "Conference", image: "panels.jpg", text: "A full day of engaging panels with interesting speakers." }
+# - {title: "Networking", image: "networking.jpg", text: "Multiple opportunities to network and meet others with an interest in business in Africa." }
+# - {title: "Venture Competition", image: "venturecomp.jpg", text: "Come join the WABF Venture Competition and see the next generation of entrepreneurs pitch their ideas." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "550", specialCharacter: "+", info: "attendees", detail: "from around the world"}
+ - {count: "5", specialCharacter: "", info: "Keynotes", detail: "by global trailblazers"}
+ - {count: "15", specialCharacter: "", info: "Breakout Panels and Master Classes", detail: "across industries and disciplines"}
+ - {count: "50", specialCharacter: "", info: "hours", detail: "of an unforgettable weekend"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Distinguished Keynote Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "Loews Hotel Philadelphia"
+eventLocationLink: "https://www.loewshotels.com/philadelphia-hotel"
+eventStreetAddress: "1200 Market St."
+eventAddressLocality: "Philadelphia"
+eventAddressLocalityRegion: "Pennsylvania"
+eventPostalCode: "19107"
+eventAddressCountry: "USA"
+eventStartTime: "2017-11-03T14:00"
+eventDoorTime: "14:00"
+eventEndTime: "2017-11-05T14:00"
+eventPlaceCoordinates: "39.9518, -75.1603"
+mapCenterCoordinates: "39.952497, -75.163725"
+mapMobileCenterCoordinates: "39.950049, -75.160431"
 
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+#venueSmallImage3: "venue_3.jpg"
+venueTitle: "3 brilliant backdrops for meaningful dialogue and strong connections. WABF25 will be hosted at the adjacent Loews and Marriott hotels in downtown Philadelphia, and capped with a farewell brunch on the Spirit of Philadelphia. "
+#venueFeatures: ["Loews Hotel Philadelphia", "Spirit of Philadelphia", "Marriott Hotel Philadelphia"]
+
+# Entertainment Block
+entertainmentBlockTitle: "Entertainment"
+entertainmentImage1: "friday.jpg"
+entertainmentImage2: "runtown.jpg"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "wabf25"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+ # organizersTitle: "Organizers"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeAction: "https://whartonafrica.us7.list-manage.com/subscribe/post?u=a7c01efb918a8f43dfa398611&amp;id=9135c1b93f"
+subscribeInfo: "Sign up to stay in the loop with all our updates."
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Ticket Options"
+#ticketsInfo: "A limited number of discounted tickets will be available for select groups (e.g., students, alumni, YAM)."
+#earlyBird: true
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  name: "Regular Registration"
+  #price: "250"
+  #priceCurrency: "USD"
+  #ticketsNumber: "300"
+  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+  buyButtonText: "Register Now"
+  #additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
+  ticketContentList: ["Multiple registration options available"]
+  validFrom: "2017-09-15T10:00"
+  validThrough: "2017-11-02T23:59"
+  disabled: false
+# -
+#  name: "Early Bird Registration"
+#  #price: "250"
+#  #priceCurrency: "USD"
+#  #ticketsNumber: "300"
+#  ribbon: "-25%"
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Register Now for Early Bird Pricing"
+#  #additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
+#  ticketContentList: ["Multiple registration options", "Get an Early Bird 25% discount on full price tickets"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-10-13T23:59"
+#  disabled: false
+# -
+#  name: "The Classic Package"
+#  price: "250"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "300"
+#  ribbon: "-25%"
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Conference + Career Fair + Gala + Conference Afterparty"
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "The Conference"
+#  price: "150"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "100"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Provides access to Friday and Saturday keynotes, industry breakout panels and prospective student events, New Venture Competition, and flagship Career Fair."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "The Gala"
+#  price: "100"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "100"
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Landmark black-tie cocktails, seated dinner, and Closing Keynote."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  #soldOut: true
+#  #soldOutText: "Sold Out"
+#  disabled: false
+# -
+#  name: "The Afterparty"
+#  price: "75"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Saturday Conference Afterparty headlined by private concert by top-billing performing artist."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "Friday Mixer"
+#  price: "15"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "The 1925 Lounge - tickets valid until 11:30pm."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "Sunday Young African MBA (YAM) Brunch"
+#  price: "30"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Join Young African MBAs for their annual brunch to bookend the WABF weekend."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
+# -
+#  name: "Sunday Wharton Alumni Brunch"
+#  price: "20"
+#  priceCurrency: "USD"
+#  #ticketsNumber: "250"
+#  ribbon: "-25%"
+#  #featured: true
+#  buyButtonLink: "https://wabf.ticketspice.com/wharton-africa-business-forum"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "This event is open to Wharton Alumni. Registration required."
+#  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2017-09-15T10:00"
+#  validThrough: "2017-11-03T12:00"
+#  disabled: false
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/wabf__25", icon: "twitter"}
+ #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://whartonafrica.com", text: "Wharton Africa Students Association"}
+   # - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:wabf-info@wharton.upenn.edu", text: "wabf-info@wharton.upenn.edu"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+  # title: "FAQ"
+  # links:
+  # - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "We are a team of Wharton and UPenn students who hail from across the continent. We're interested in all things business in Africa."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -213,79 +314,98 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "39.9524, -75.1637"
+logisticsMapMobileCenterCoordinates: "39.9524, -75.1637"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Travel and Lodging"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ - {title: "American Airlines", information: 'We are excited to announce a historic partnership with American Airlines!<br><br>All WABF attendees can take advantage of an 8% discount on any AA flights to and from Philadelphia between October 20th and November 5th, 2017.<br><br>Simply send an email to <a href="mailto:wabf-info@wharton.upenn.edu?Subject=American Airlines Discount">wabf-info@wharton.upenn.edu</a> after purchasing your WABF ticket to take advantage of this discount code.'}
+ - {title: "Amtrak", information: 'Amtrak offers a 10% discount off the best available rail fare to Philadelphia, PA between October 31, 2017 – November 8, 2018. To book your reservation call Amtrak at <a href="tel:+18008727245">+1 (800) 872-7245</a> or contact your local travel agent.<br><br>This ticket cannot be booked via Internet. Please be sure to refer to Convention Fare Code when making your reservation. Simply send an email to <a href="mailto:wabf-info@wharton.upenn.edu?Subject=Amtrak Discount">wabf-info@wharton.upenn.edu</a> after purchasing your WABF ticket to obtain the Convention Fare code. This offer is not valid on the Auto Train and Acela Service. Fare is valid on Amtrak Regional for all departures seven days a week, except for holiday blackouts. Offer valid with Sleepers, Business Class or First Class seats with payment of the full applicable accommodation charges.'}
+ - {title: '<a href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Wharton%20African%20Business%20Forum%5Ephlav%60WHAWHAA%7CWHAWHAB%60139.00%60USD%60false%604%6011/3/17%6011/5/17%6010/18/17&app=resvlink&stop_mobi=yes">Courtyard Marriott</a>', information: 'Make reservations through the link above or by calling <a href="tel:+18668771206">+1 866-877-1206</a>.<br><br>Identify yourself as being with Wharton African Business Forum to receive the Special Group Rate of $139.00, plus tax, per room, per night. Reservations must be made by October 18, 2017, in order to receive this rate.<br><br>After October 18, 2017, all rates and reservations are based upon availability at the hotel’s prevailing rate.</p>'}
+ - {title: '<a href="https://www.starwoodmeeting.com/Book/WABF">Le Meridien</a>', information: 'Book rooms at Le Meridien through the link above or by calling at <a href="tel:+12154228235">+1 215-422-8235</a>. Reservations must be made by October 9, 2017, in order to receive this rate. <br><br>After October 18, 2017, all rates and reservations are based upon availability at the hotel’s prevailing rate.</p>'}
+#directionDetailsWideCards:
+# -
+#  title: "Questions?"
+#  subCards:
+#   -
+#    title: "Hotels"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Registration"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Attendance Details"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
-# Hackathon
+# Venture Competion
 hackathonTitle: "Hackathon"
 enableHackathon: true
 
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+# Venture Competition About Block
+aboutHackathonTitle: "Pitch your startup"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "What is it?", details: "At WABF25, we aim to connect promising early-stage African entrepreneurs to a powerful network of investors, mentors, and coaches to accelerate their growth, and provide them with resources they can use to develop into regional powerhouses.<br><br>As part of this initiative, the Wharton African Student Association is pleased to announce <strong>the 4th Annual Venture Competition</strong> at this year’s conference. Contestants will submit an application outlining their start-up or idea, and we will select finalists to pitch to an experienced panel of judges and the audience at the conference.<br><br>If you believe that your idea has what it takes, please read through the eligibility details below. The application deadline is <strong>October 15, 2017 11:59 EST</strong>"}
+# - {title: "Eligibility Criteria?", details: "<ul><li>Must be Africa-focused<li>Can be for-profit, non-profit, or social enterprise<li>Less than 5 years of operations<li>Less than $750,000 raised to date in external funding</li></us>"}
+# - {title: "What are the prizes?", details: "Finalists gain...<ul><li>An opportunity to present in front of top Africa-focused VCs and leading minds in entrepreneurship<li>Invaluable feedback from a panel of experienced judges<li>An opportunity to participate in the Startup Fair<li>An opportunity to network with others interested in African entrepreneurship</li></us><br><p><strong>...and the grand prize winner will receive $10,000 in no-equity cash for their venture</strong></p>"}
+# - {title: "What is the Startup Fair?", details: "The Startup Fair is an exclusive event for the top businesses that applied for the 2017 Wharton Africa Business Forum Venture Competition. Each participant will be given a booth to showcase their business. This event will serve as an opportunity to market your business, recruit talent, and connect with potential investors."}
+# - {title: "Submission Instructions", details: "<ul><li>Deadline of Friday, October 15th, 11:59PM EST<li>5 page (maximum) PowerPoint presentation. This must include 1 page on the leadership team. There is no limit for the appendix which can be referred to during Q&A<li>PowerPoint presentation must highlight problem and solution proposed, and must demonstrate unique competitive advantage and potential for significant growth in the next five years</li></ul>"}
+# - {title: "Competition Logistics", details: "<ul><li>Finalists will be notified by October 18th<li>At the conference, each contestant will present for 5 minutes, followed by 5 minutes for Question + Answer from the judges<li>Judges will select one winner for the grand prize</li></ul>"}
 
-# Hackathon Judges Block
+# Venture Competition button
+vcButton:
+#  - {link: "https://goo.gl/forms/M07G93qI8gYtecfA3", text: "Apply for the Venture Competition"}
+
+# Venture Competition Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
 
-# Hackathon Prizes Block
+# Venture Competition Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "Grand Prize", info: "$10,000 of funding for your venture"}
+ #- {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ #- {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
-# Hackathon Location Block
+# Venture Competition Location Block
 hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonLocationName: "Loews Hotel Philadelphia"
+hackathonLocationLink: "https://www.loewshotels.com/philadelphia-hotel"
+hackathonStreetAddress: "1200 Market St"
+hackathonAddressLocality: "Philadelphia"
+hackathonAddressLocalityRegion: "PA"
+hackathonPostalCode: "19107"
+hackathonAddressCountry: "USA"
+hackathonTimeTitle: "Pitches from"
+hackathonStartTime: "2017-11-03T15:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2017-11-03T18:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonPlaceCoordinates: "39.9518, -75.1603"
+hackathonMapCenterCoordinates: "39.952497, -75.163725"
+hackathonMapMobileCenterCoordinates: "39.952497, -75.163725"
+
+# Venture Competition FAQs
+aboutVentureCompFAQsTitle: "FAQ"
+faqRows:
+ - {question: "What are the judging criteria?", answer: "<ul><li>Product/Service<li>Management Team<li>Market Opportunity<li>Competitive Edge<li>Risk/Reward<li>Financial/Feasibility<li>Impact</li></ul>"}
+ - {question: "Can I include a video?", answer: "Sure, absolutely!"}
+ - {question: "When will you notify finalists?", answer: "Finalists will be notified within a week of the application deadline"}
+ - {question: "Will the WABF Team help prepare contestants for the pitch?", answer: "Yes, we will have another conference call session for each contestant before the competition"}
+ - {question: "Does it cost money to participate?", answer: "WABF Team will not charge anything from contestants, but you will be responsible for travel to the competition"}
+ - {question: "Any other questions?", answer: "Please contact us here (wabfventurecompetition@gmail.com)", contactus: "mailto:wabfventurecompetition@gmail.com?Subject=WABF%20Venture%20Competition%20Question"}
+ - {answer: "We reserve the right to disqualify any team that misrepresents any internal or external data in its application"}

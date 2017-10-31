@@ -1,0 +1,34 @@
+.entertainment-col {
+    height: 100%;
+    padding: 0;
+    padding-right: 5px;
+    &:last-child {
+        padding: 0;
+    }
+    @media (max-width: 767px) {
+        padding: 0;
+    }
+}
+.entertainment-elem-wrapper {
+    padding: 0;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.entertainment-elem {
+    overflow: hidden;
+    text-align: left;
+    transition: $base-transition;
+}
+.entertainment-big-elem {
+    height: 500px;
+    width: 500px;
+    @media (min-width: 768px) and (max-width: 991px) {
+        height: 400px;
+        width: 400px;
+    }
+    @media (max-width: 767px) {
+        height: 250px;
+        width: 250px;
+    }
+}

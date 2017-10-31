@@ -1,23 +1,48 @@
-- 
-  group: "General sponsor"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-- 
-  group: "Information partners"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+-
+  group: "Platinum Sponsors"
+  elements:
+    - {name: "BCG", description: "BCG", link: "https://www.bcg.com/", imageUrl: "BCG.svg", width: "250px"}
+    - {name: "McKinsey", description: "McKinsey", link: "http://www.mckinsey.com/", imageUrl: "McKinsey.svg", width: "500px"}
+-
+  group: "Silver Sponsors"
+  elements:
+    - {name: "IFC", description: "IFC", link: "http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png", width: "350px"}
+    - {name: "Bain & Company", description: "Bain & Company", link: "http://bain.com/", imageUrl: "bain.svg", width: "150px"}
+-
+  group: "Ruby Sponsors"
+  elements:
+    - {name: "Swiss Re", description: "Swiss Re", link: "http://www.swissre.com/", imageUrl: "SwissRe.svg", width: "175px"}
+-
+  group: "Corporate Partners"
+  elements:
+    - {name: "Dalberg", description: "Dalberg", link: "http://www.dalberg.com/", imageUrl: "Dalberg.svg", width: "125px"}
+    - {name: "Intrepid HR", description: "Intrepid HR", link: "http://www.intrepidhr.co.za/", imageUrl: "IntrepidHR.jpg", width: "140px"}
+    - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", width: "350px"}
+    - {name: "Ethiopian Airlines", description: "Ethiopian Airlines", link: "https://www.ethiopianairlines.com/AA/EN/", imageUrl: "ethiopian.png", width: "150px"}
+-
+  group: "Event Partners"
+  elements:
+    - {name: "Oxford Business Group", description: "Oxford Business Group", link: "http://www.oxfordbusinessgroup.com/", imageUrl: "oxford.png", width: "125px"}
+#    - {name: "Lauder Institute", description: "Lauder Institute", link: "https://lauder.wharton.upenn.edu/", imageUrl: "lauder.jpg", width: "125px"}
+#-
+#  group: "Media Partners"
+#  elements:
+#    - {name: "Z News Media", description: "Z News Media", link: "http://znewsafrica.com/", imageUrl: "ZNEWS.jpg", width: "125px"}
+-
+  group: "Travel Partners"
+  elements:
+    - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", width: "350px"}
+    - {name: "Amtrak", description: "Amtrak", link: "https://www.amtrak.com/home/", imageUrl: "Amtrak.jpg", width: "115px"}
+-
+  group: "Career Fair Participants"
+  elements:
+    - {name: "American Airlines", description: "American Airlines", link: "https://www.aa.com/homePage.do", imageUrl: "AA.jpg", width: "120px"}
+    - {name: "Bain & Company", description: "Bain & Company", link: "http://bain.com/", imageUrl: "bain.svg", width: "60px"}
+    - {name: "BCG", description: "BCG", link: "https://www.bcg.com/", imageUrl: "BCG.svg", width: "100px"}
+    - {name: "McKinsey", description: "McKinsey", link: "http://www.mckinsey.com/", imageUrl: "McKinsey.svg", width: "120px"}
+    - {name: "IFC", description: "IFC", link: "http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home", imageUrl: "IFC.png", width: "130px"}
+    - {name: "Dalberg", description: "Dalberg", link: "http://www.dalberg.com/", imageUrl: "Dalberg.svg", width: "100px"}
+    - {name: "Swiss Re", description: "Swiss Re", link: "http://www.swissre.com/", imageUrl: "SwissRe.svg", width: "100px"}
+    - {name: "Intrepid HR", description: "Intrepid HR", link: "http://www.intrepidhr.co.za/", imageUrl: "IntrepidHR.jpg", width: "100px"}
+    - {name: "World Bank", description: "World Bank", link: "http://www.worldbank.org/", imageUrl: "worldbank.svg", width: "120px"}
+    - {name: "African Development Bank", description: "African Development Bank", link: "https://www.afdb.org/en/", imageUrl: "adb.jpg", width: "130px"}

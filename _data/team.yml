@@ -1,60 +1,307 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Abdul-Hakeem"
+  surname: "Buhari"
+  title: "Co-Chair"
+  thumbnailUrl: team/Buhari.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/abdul-hakeem-buhari"}
+    #- {name: "twitter", link: "https://github.com/ozasadnyy"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Amaka Cypriana"
+  surname: "Uzoh"
+  title: "Co-Chair"
+  thumbnailUrl: team/Amaka.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  #ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amaka-cypriana-uzoh-25302631"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
+-
+  id: 6
+  name: "Chuka"
+  surname: "Onugu"
+  title: "VP, Social"
+  thumbnailUrl: team/Chuka.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chukaonugu"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 17
+  name: "Daniel"
+  surname: "Kimani"
+  title: "VP, Marketing"
+  thumbnailUrl: team/Kimani.png
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dankimani/"}
+-
+  id: 5
+  name: "Kevin"
+  surname: "Chukuka"
+  title: "VP, Operations"
+  thumbnailUrl: team/Chukuka.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-chukuka-87263123"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Juliet"
+  surname: "Zawedde"
+  title: "VP, Venture Competition"
+  thumbnailUrl: team/Juliet.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/juliet-zawedde/"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "MaryAnn"
+  surname: "Anugo"
+  title: "VP, Marketing"
+  thumbnailUrl: team/MaryAnn.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maryann-anugo-cams-82227050"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 10
+  name: "Nayeon"
+  surname: "Lee"
+  title: "VP, Venture Competition"
+  thumbnailUrl: team/Nayeon.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nayeon-lee-b9307014/"}
+-
+  id: 11
+  name: "Nicholas"
+  surname: "Olson"
+  title: "VP, Technology"
+  thumbnailUrl: team/Nick.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nicksolson"}
+    - {name: "twitter", link: "https://twitter.com/nickolson"}
+-
+  id: 25
+  name: "Steve"
+  surname: "Rizoli"
+  title: "VP, Content"
+  thumbnailUrl: team/Rizoli.png
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/steve-rizoli-6b918612/"}
+-
+  id: 8
+  name: "Robel"
+  surname: "Chiappini"
+  title: "VP, Sponsorships & Careers"
+  thumbnailUrl: team/Robel.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robel-chiappini-0833b825"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Yolanda"
+  surname: "Walker"
+  title: "VP, Sponsorship & Careers"
+  thumbnailUrl: team/Yolee.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ykwalker"}
+    #- {name: "twitter", link: "http://olostan.name/"}
+-
+  id: 13
+  name: "Angela"
+  surname: "Udemba"
+  title: "Director, Operations"
+  thumbnailUrl: team/Udemba.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/angela-udemba-phd-31841a36/"}
+-
+  id: 27
+  name: "Buki"
+  surname: "Samuel"
+  title: "Director, Social"
+  thumbnailUrl: team/Buki.jpg
+  orgTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/adebunkola.samuel"}
+-
+  id: 26
+  name: "Chika"
+  surname: "Ofili"
+  title: "Director, Operations"
+  thumbnailUrl: team/Ofili.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chika-ofili-32597345/"}
+-
+  id: 29
+  name: "Christiana"
+  surname: "Kallon"
+  title: "Director, Content"
+  thumbnailUrl: team/Kallon.jpg
+  orgTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/CSKallon"}
+-
+  id: 22
+  name: "Damaris"
+  surname: "Kinyua"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Kinyua.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/damaris-kinyua-602b86103/"}
+-
+  id: 16
+  name: "Falgu"
+  surname: "Shah"
+  title: "Director, Content"
+  thumbnailUrl: team/Shah.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/falgu-shah-b6219544/"}
+-
+  id: 28
+  name: "Fanta"
+  surname: "Conde"
+  title: "Director, Content"
+  thumbnailUrl: team/Fanta.JPG
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "www.linkedin.com/in/fanta-conde-b914a029"}
+-
+  id: 21
+  name: "Gbenga"
+  surname: "Alabi"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Alabi.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.instagram.com/gbenga-alabi-05a837128/"}
+-
+  id: 2
+  name: "Halle"
+  surname: "Aberhm"
+  title: "Chief of Staff"
+  thumbnailUrl: team/Halle.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 30
+  name: "John"
+  surname: "Okenwa"
+  title: "Director, Prospective Students"
+  thumbnailUrl: team/Okenwa.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/johnokenwa/"}
+-
+  id: 19
+  name: "Justin"
+  surname: "Karfo"
+  title: "Director, Content"
+  thumbnailUrl: team/Karfo.png
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wendboma/"}
+-
+  id: 18
+  name: "Kristina"
+  surname: "Sowah"
+  title: "Director, Sponsorships"
+  thumbnailUrl: team/Sowah.png
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kristina-sowah-8a054a36/"}
+-
+  id: 21
+  name: "Kofoworola"
+  surname: "Agbaje"
+  title: "Director, Technology"
+  thumbnailUrl: team/Agbaje.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kofoworola-agbaje-9b096432/"}
+-
+  id: 14
+  name: "Lisette"
+  surname: "Enumah"
+  title: ""
+  thumbnailUrl: team/Enumah.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lenumah/"}
+-
+  id: 3
+  name: "Maryam"
+  surname: "Alausa"
+  title: "Chief of Staff"
+  thumbnailUrl: team/Maryam.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/maryam-alausa-387111a7/"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 23
+  name: "Naomi"
+  surname: "Senbet"
+  title: "Director, Careers"
+  thumbnailUrl: team/Senbet.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/naomisenbet/"}
+-
+  id: 15
+  name: "Nduka"
+  surname: "Nwankwo"
+  title: "Director, Prospective Students"
+  thumbnailUrl: team/Nwankwo.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ndukanwankwo"}
+-
+  id: 24
+  name: "Ransford"
+  surname: "Antwi"
+  title: "Director, Technology"
+  thumbnailUrl: team/Ransford.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ransford-antwi-04975411a/"}
+-
+  id: 20
+  name: "Yusuf"
+  surname: "Kosoko"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Kosoko.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.instagram.com/djyoossouph/"}
+-
+  id: 40
+  name: "Kwesi"
+  surname: "Sey"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Kwesi.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kwesisey/"}
