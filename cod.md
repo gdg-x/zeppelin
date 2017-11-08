@@ -5,9 +5,9 @@ permalink: /cod/
 isStaticPost: true
 ---
 
-All attendees, speakers, sponsors and volunteers at Women Techmakers Vienna 2017 are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We rely on your help ensuring a safe and comfortable environment for everybody. 
+All attendees, speakers, sponsors and volunteers at Women Techmakers Vienna 2018 are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We rely on your help ensuring a safe and comfortable environment for everybody. 
 
-Women Techmakers Vienna 2017 is an event dedicated to providing a **harassment-free conference experience** for everyone, regardless of gender, sexual orientation, disability, physical appearance, race or religion. We do not tolerate harassment of conference participants in any form. 
+Women Techmakers Vienna 2018 is an event dedicated to providing a **harassment-free conference experience** for everyone, regardless of gender, sexual orientation, disability, physical appearance, race or religion. We do not tolerate harassment of conference participants in any form. 
 We kindly ask all participants, sponsors and volunteers to **refrain from inappropriate behaviour.** Examples of inappropriate behaviour which are not tolerated under any circumstance include, but are not limited to: sexual language and imagery, verbal or physical harassment, theft. Any participant exhibiting any of the aforementioned behaviour will be sanctioned or expelled from the event at the discretion of the organisers. 
 Sponsors also must abide to this code of conduct. In particular we ask them not to use sexualized images, activities or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. 
 

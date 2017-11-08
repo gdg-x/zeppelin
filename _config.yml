@@ -53,10 +53,10 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- # - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
+ # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
  - {permalink: "/call/", text: "Call for Speakers"}
 rightNavigationButtons:
- # - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
+ # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
  - {permalink: "/call/", text: "Call for Speakers"}
 
 # Hero Block
@@ -68,12 +68,12 @@ eventDateISO: "2018-03-10T09:30+01:00"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
-# - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
+# - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
  - {permalink: "/call/", text: "Call for Speakers"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
-aboutInfo: "People of all genders are welcome to attend our event.<br>The theme for this year is <b>&quot;Telling Our Story&quot;</b>.<br>As always, we try to focus on the accomplishments of technologists that also happen to be women, rather than just focusing on the story of doing something as a woman. This helps the focus be more of the work rather than our gender.<br>We aim to keep things positive when selecting panels, talks, keynotes, etc. We know that we need more women in tech and there are issues we face in the industry, but one of the most powerful things we can do to counter act that is to show the women doing great things and what we are achieving.<br>"
+aboutInfo: "People of all genders are welcome to attend our event.<br>As always, we try to focus on the accomplishments of technologists that also happen to be women, rather than just focusing on the story of doing something as a woman. This helps the focus be more of the work rather than our gender.<br>We aim to keep things positive when selecting panels, talks, keynotes, etc. We know that we need more women in tech and there are issues we face in the industry, but one of the most powerful things we can do to counter act that is to show the women doing great things and what we are achieving.<br>"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Supporting women in tech through the power of example." }
  - {title: "Workshops", image: "workshop.jpg", text: "High-tech workshops, hands-on experience, hacking and debugging. Delivered by top women in tech!" }
@@ -82,9 +82,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere - men &amp; women"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere - men &amp; women"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "sessions, workshops &amp; discussion"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "local professionals"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "local professionals"}
  # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -108,9 +108,9 @@ eventAddressLocality: "Vienna"
 eventAddressLocalityRegion: "Vienna"
 eventPostalCode: "1120"
 eventAddressCountry: "Austria"
-eventStartTime: "2017-03-11T10:00"
+eventStartTime: "2018-03-10T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2017-03-11T19:00"
+eventEndTime: "2018-03-10T19:00"
 eventPlaceCoordinates: "48.1961733,16.369386"
 mapCenterCoordinates: "48.1961733,16.369386"
 mapMobileCenterCoordinates: "48.1961733,16.369386"
@@ -221,7 +221,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The core team of Women Techmakers Vienna 2017 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2017 an event where everyone is welcome and we can reach fruitful outcomes together."
+aboutUs: "The core team of Women Techmakers Vienna 2018 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2018 an event where everyone is welcome and we can reach fruitful outcomes together."
 
 #Workshop for kids Block
 kidsWStitel: "Learn Game programming by using Scratch"
