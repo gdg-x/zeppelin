@@ -2,7 +2,7 @@ $hackathon-img-width: 250px;
 $small-hackathon-img-width: 150px;
 
 .hackathon-row {
-	margin-bottom: 90px;
+	margin-bottom: 60px;
     @media (max-width: 767px) {
         margin-bottom: 50px;
     }
@@ -43,4 +43,8 @@ $small-hackathon-img-width: 150px;
     p {
     	font-size: 16px;
     }
+		ul li {
+			font-size: 16px;
+			margin: 10px;
+		}
 }

@@ -1,59 +1,181 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 300
+  title: "Registration"
+  place: "Millenium Foyer (2nd Floor)"
   service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 301
+  title: "Wharton MBA and Lauder Admissions Session & Student Panel"
+  place: "Commonwealth Ballroom"
+  service: true
+  speakers: [56]
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 302
+  title: "Venture Competition"
+  place: "Commonwealth Ballroom"
+  #service: true
+  speakers: [50, 51, 15, 13, 10]
+  description: "Companies pitching: ScholarX, Loystar, MWAYI, Redbird Health Tech, MDaaS, Bright Future, Accounteer, OZE, Solar Freeze, SolarLuv"
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  id: 304
+  title: "VIP Cocktail Reception"
+  place: "By invitation only"
+  service: true
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 305
+  title: "Small Group Dinners"
+  place: "Various"
+  service: true
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 306
+  title: "Friday Night Mixer | Official Pre-Conference Soirée"
+  place: "1925 Lounge (111 S 17th St., Philadelphia)"
+  description: "Tickets available <a href=https://wabf.ticketspice.com/wharton-africa-business-forum>here</a>"
+  service: true
+-
+  id: 399
+  title: "Registration & Breakfast"
+  place: "Millenium Foyer (2nd Floor)"
+  service: true
+-
+  id: 401
+  title: "Welcome Address & Breakfast Keynote Panel"
+  place: "Millennium Ballroom"
+  #service: true
+  speakers: [52, 4, 44]
+-
+  id: 403
+  title: "Grand Panel: Energy"
+  place: "Howe"
+  speakers: [8, 23, 11, 41]
+-
+  id: 405
+  title: "Grand Panel: Entrepreneur&shy;ship"
+  place: "Terrace"
+  speakers: [15, 12, 32, 33]
+-
+  id: 406
+  title: "Grand Panel: Women in Business"
+  place: "Lescaze"
+  speakers: [29, 31, 58, 59]
+-
+  id: 407
+  title: "Fireside Chat: Consumer Goods"
+  place: "Anthony"
+  speakers: [13, 30]
+-
+  id: 427
+  title: "Fireside Chat: Education"
+  place: "Adams"
+  speakers: [18, 34, 35]
+-
+  id: 428
+  title: "Fireside Chat: Real Estate & Urbanization"
+  place: "Franklin"
+  speakers: [21, 36, 40]
+-
+  id: 408
+  title: "Lunch Keynote Panel"
+  place: "Millennium Ballroom (2nd Floor)"
+  service: true
+-
+  id: 409
+  title: "Grand Panel: Agriculture"
+  place: "Howe"
+  speakers: [7, 27]
+-
+  id: 410
+  title: "Grand Panel: Digital Finance"
+  place: "Terrace"
+  speakers: [9, 26, 55]
+-
+  id: 411
+  title: "Grand Panel: Private Equity"
+  place: "Lescaze"
+  speakers: [42, 28, 24, 53]
+-
+  id: 412
+  title: "Fireside Chat: Data Revolution"
+  place: "Anthony"
+  speakers: [16, 17, 22]
+-
+  id: 429
+  title: "Fireside Chat: Healthcare"
+  place: "Adams"
+  speakers: [37, 45]
+-
+  id: 430
+  title: "Fireside Chat: Impact Investing"
+  place: "Franklin"
+  speakers: [10, 43]
+-
+  id: 422
+  title: "Masterclass: How I Built This | My Techpreneurship Journey"
+  place: "TBD"
+  speakers: [57]
+-
+  id: 425
+  title: "Investing in African Art as an Asset Class"
+  place: "TBD"
+  speakers: [47, 48, 49]
+-
+  id: 423
+  title: "Masterclass: Insider Look at the Largest African Venture Funding to Date"
+  place: "TBD"
+  speakers: [51]
+-
+  id: 414
+  title: "McKinsey State of the Continent Session"
+  place: "Millenium Ballroom (2nd Floor)"
+  speakers: [25]
+-
+  id: 421
+  title: "BCG State of the Continent Session"
+  place: "Millenium Ballroom (2nd Floor)"
+  speakers: [44]
+-
+  id: 416
+  title: "Pre-Gala Reception"
+  place: "Regency Foyer"
+  service: true
+-
+  id: 417
+  title: "Break"
+  service: true
+-
+  id: 418
+  title: "Career Fair"
+  place: "Marriott Hotel (Ballroom H)"
+  service: true
+-
+  id: 419
+  title: "Gala & Evening Keynote"
+  place: "Regency Ballroom (2nd Floor)"
+  #service: true
+  speakers: [3]
+-
+  id: 420
+  title: "After-Party"
+  place: "Millennium (2nd Floor)"
+  description: "Tickets available <a href=https://wabf.ticketspice.com/wharton-africa-business-forum>here</a>"
+  speakers: [46]
+  service: true
+-
+  id: 500
+  title: "Group Jog by the Schuylkill"
+  place: "TBD"
+  service: true
+-
+  id: 501
+  title: "Masterclass"
+  place: "TBD"
+  service: true
+-
+  id: 502
+  title: "Wharton Alumni and YAM Brunch"
+  place: "Spirit of Philadelphia (401 S Christopher Columbus Blvd, Philadelphia, PA 19106)"
+  service: true
+-
+  id: 600
+  title: "Media Interviews"
+  place: "TBD"

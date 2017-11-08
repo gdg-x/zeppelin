@@ -5,15 +5,17 @@ $small-rockstar-image-size: 120px;
     .name {
         font-size: 26px;
         line-height: 1.1;
-        margin: 10px 0 2px;
+        margin: 10px 0 7px;
+        font-weight: 300;
         @media (max-width: 767px) {
             font-size: 20px;
         }
     }
     .sub {
-        font-size: $base-font-size * 1.4;
-        margin: 0 0 15px;
-        color: $link-color;
+        font-size: $base-font-size * 1.2;
+        margin: 0 0 3px;
+        line-height: normal;
+        // color: $link-color;
         @media (max-width: 767px) {
             font-size: 16px;
         }

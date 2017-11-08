@@ -25,7 +25,7 @@ $direction-details-color: #757575;
         }
     }
     h4, h5 {
-        font-size: 31px;
+        font-size: 22px;
         font-weight: $regular;
         color: initial;
     }
@@ -33,7 +33,8 @@ $direction-details-color: #757575;
         font-size: 20px;
     }
     p {
-        font-size: 17px;
+        font-size: 10px;
+        line-height: 1.5;
     }
 }
 .list-with-description {

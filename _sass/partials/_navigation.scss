@@ -8,7 +8,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     z-index: 500;
     width: 100%;
     padding: 0 45px;
-    @media (min-width: 768px) and (max-width: 991px) {
+    @media (min-width: $screen-sm-min) and (max-width: $screen-md-max) {
         padding: 13px 0 0 34px;
     }
     &.after-scroll {
@@ -34,14 +34,14 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         transform: translateY(1px);
         @media (max-width: 767px) {
             transform: translateX(-45px);
-        }    
+        }
     }
     .logo {
         display: inline-block;
         float: left;
-        width: 185px;
+        width: 150px;
         height: 60px;
-        margin-right: 20px;
+        margin-right: 0px;
         transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
@@ -50,9 +50,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     }
 }
 .logo-navbar {
-    width: 185px;
+    width: 150px;
     height: 60px;
-    margin: 8px 20px 0 -10px;
+    margin: 8px 0 0 -20px;
     transform: scale(.6);
     vertical-align: middle;
 }
@@ -85,12 +85,12 @@ nav {
             line-height: 20px;
             width: 95%;
             margin: 20px 0 0 5px;
-            transform: translateY(0);  
+            transform: translateY(0);
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(20px);
             @media (max-width: 767px) {
-                transform: translateY(0);  
+                transform: translateY(0);
             }
         }
     }
@@ -137,14 +137,33 @@ nav {
             }
         }
     }
+    .dropdown-menu {
+        top: 0;
+        border-radius: 0.2em;
+        li {
+            width: 100%;
+            padding: 0;
+        }
+        a {
+            padding: 10px 20px;
+            outline: 0;
+            @media (max-width: 767px) {
+                white-space: initial;
+            }
+        }
+    }
+    .caret {
+        margin-top: -2px;
+    }
 }
 .right-nav-button {
-    margin: 11px 11px 0 0;
+    // margin: 11px 11px 0 0;
+    margin: 5px 6px 0 0;
     transition: $base-transition;
     opacity: 1;
     display: block;
     &:nth-of-type(1) {
-        margin-right: 65px;
+        margin-right: 20px;
     }
     a {
         font-size: $base-font-size * 90 / 100;

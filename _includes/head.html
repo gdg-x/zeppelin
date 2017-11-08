@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
-    <meta name="author" content="Oleh Zasadnyy, GDG Lviv">
+    <meta name="author" content="Nicholas Olson, Wharton Africa Students Assocation">
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="{{ site.metaKeywords }}">
     <meta name="google-site-verification" content="{{ site.siteVerification }}" />
@@ -15,13 +15,13 @@
     <meta name="twitter:description" content="{{ site.description }}">
     <meta name="twitter:image:src" content="{{ site.socialImageSrcTwitter | prepend: site.baseurl | prepend: site.url }}">
     <!-- Social: Facebook / Open Graph -->
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
-    <meta property="og:site_name" content="{{ site.title }}" /> 
-    <meta property="og:type" content="website" /> 
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:image" content="{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:description" content="{{ site.description }}" /> 
-    
+    <meta property="og:description" content="{{ site.description }}" />
+
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl }}">
     <link rel="apple-touch-icon" sizes="152x152" href="{{ "/img/favicons/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">
@@ -40,10 +40,10 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="{{ "/img/favicons/mstile-144x144.png" | prepend: site.baseurl }}">
     <meta name="msapplication-config" content="{{ "/img/favicons/browserconfig.xml" | prepend: site.baseurl }}">
-    
+
     <meta name="theme-color" content="#2b5797">
-    
-    <link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="stylesheet"> 
+
+    <link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -51,4 +51,5 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
       <![endif]-->
+    {% seo %}
   </head>

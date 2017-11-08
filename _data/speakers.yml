@@ -1,67 +1,521 @@
-- 
+-
+  id: 1
+  name: "Hon. Okechukwu"
+  surname: "Enelamah"
+  company: "Federal Republic of Nigeria"
+  title: "Honourable Minister of Industry, Trade and Investment"
+  bio: "As Nigeria’s Minister of Industry, Trade and Investment (MITI), Mr. Okechukwu Enelamah oversees policy-making and implementation relating to industrialization of the economy, development of small and medium-scale enterprises (SMEs), promotion of exports and foreign direct investment, and the expansion of trade. The overall objective of the ministry is to ensure that policies and actions lead to inclusive growth, wealth and job creation, poverty reduction and ensure enhanced service delivery in a manner that will stimulate the growth of the domestic economy for self-reliance and export.<br><br>Prior to taking office on November 11, 2015, Mr. Enelamah worked as the Chief Executive Officer (CEO) of Africa Capital Alliance (ACA), an investment and financial advisory firm which he co-founded in 1998. ACA has now grown to be recognized as a leading private equity firm in West Africa.<br><br>Mr. Enelamah has 27 years of private sector experience spanning finance, consulting and auditing (Arthur Andersen & Co.), and private equity. Before co-founding ACA he gained private equity experience working at Zephyr Management L.P. in New York, and South Africa Capital Growth Fund in Johannesburg. ACA’s five funds – Capital Alliance Private Equity Funds I, II, III & IV, and Capital Alliance Property Investment Company (CAPIC) – have raised more than $1 Billion for investment in companies based in Nigeria and across West Africa.<br><br>Mr. Enelamah holds a Bachelor of Medicine, Bachelor of Surgery (MBBS) degree from the University of Nigeria (1985), and a Master’s in Business Administration (MBA) from the Harvard University Graduate School of Business (1994). He is also a Chartered Accountant (1992), and a Chartered Financial Analyst (CFA) (1997). He earned Dean’s List honours in his MBBS graduating class at the University of Nigeria, and was awarded national prizes in the Institute of Chartered Accountants of Nigeria (ICAN) examinations. At the Harvard Business School, he was elected a George F. Baker Scholar, and also named a Loeb Fellow."
+  thumbnailUrl: speakers/Enelamah.jpeg
+  keynote: true
+  rockstar: true
+-
+  id: 2
+  name: "Hon. Kemi"
+  surname: "Adeosun"
+  company: "Federal Republic of Nigeria"
+  title: "Honourable Minister of Finance"
+  bio: "Kemi Adeosun was appointed the Honourable Minister of Finance (FMoF), Nigeria in November, 2015. Kemi holds a Postgraduate Diploma in Public Sector Financial Management from the University of London (School of Oriental And African Studies) and a BSc Hons Degree in Applied Economics from University of East London. She qualified as a Chartered Accountant with the Institute of Chartered Accountants England and Wales (ICAEW) and has twenty-two (22) years post qualification experience. She is also a Fellow of the Institute of Chartered Accountants Nigeria (ICAN). She attended various Executive Management Programmes including courses in Strategic Leadership at the prestigious Wharton Business School.<br><br>Kemi was born and brought up in London, where she spent thirty-six (36) years of her life. She is a seasoned finance professional with over twenty-five (25) years of experience gained in the United Kingdom and Nigeria. Her expertise spans through Audit, Risk, Management Consultancy, Investment Banking Pensions Administration and Public Sector Financial Management. She has held senior roles in various institutions including British Telecom Plc and Pricewaterhouse Coopers in the UK. In Nigeria she joined the Chapel Hill Denham Groupin 2002 as Financial Controller and rose to become Managing Director until her resignation in 2010 to start her own consultancy - The Quo Vadis Partnership.<br><br>Prior to her appointment as the Honourable Minister of Finance,she was the Honourable Commissioner for Finance, Ogun State, one of Nigeria’s fastest growing states and the first woman to hold that position. She was very key to Governor Ibikunle Amosun’s Mission in rebuilding the State which led to the economic turnaround of the fortunes of the State. Kemi is credited with aggressive growth of Internally Generated Revenue (IGR) by over 500% usinga range of innovative structures. Among her many professional attainments was pioneering the introduction of the Centralized Treasury System (Treasury Single Account) in 2011,culminating in significant fund recovery and reduced borrowing costs in the State. She also spearheaded the Residency Rule campaign which resulted in over 100,000 additional taxpayers who worked outside the State remitting their taxes to Ogun State rather than the State of their employment and was also a keypart of the Homeowner’s Charter Project which attracted over 200,000 applicants, increased IGR and supported the State’s Urban Renewal Initiatives.<br><br>Kemi is passionate about financial empowerment for women and it is a subject on which she writes and speaks extensively. In 2009 she was invited to speak at the Global Summit for Women in Chile. Prior to her foray into the public service, Kemi authored a popular weekly personal finance column aimed at women published in This Day Style Magazine."
+  thumbnailUrl: speakers/Adeosun.jpeg
+  keynote: true
+  rockstar: true
+-
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Tewolde"
+  surname: "GebreMariam"
+  company: "Ethiopian Airlines"
+  title: "Chief Executive Officer"
+  bio: "Tewolde GebreMariam was appointed Group Chief Executive Officer, the position that he is currently holding, of Ethiopian on January 2011. He began his career with Ethiopian in 1985 as Transportation Agent and has held a number of senior leadership positions in a number of divisions in the Airline including; Ethiopian Cargo, Area Offices and Sales & Marketing.<br><br>Mr. Tewolde is on the board of many of the major Ethiopian state-owned enterprises, he leads Pan-African aviation initiatives and sits, with UN Secretary-General on the High-Level Advisory Group on Sustainable Transport with United Nations Secretary – General Ban Ki-moon.<br><br>In July 2013, he became the first CEO of an African airline to receive “The Airline Strategy Award for Regional Leadership” in the award’s 12 year history.<br><br>Mr. Tewolde graduated from Addis Ababa University with a B.A. Degree in Economics. He earned his Master’s Degree in Business Administration from the Open University in the United Kingdom."
+  thumbnailUrl: speakers/GebreMariam.jpeg
+  keynote: true
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
+  name: "Dr. Abdu"
+  surname: "Mukhtar"
+  company: "African Development Bank"
+  title: "Director, Industrial and Trade Development"
+  bio: "Dr. Mukhtar joined the African Development Bank from the Dangote Group of Industries, Nigeria, where he had been the Group Chief Strategy Officer since 2014.  In that role, he assisted the Group President, Alhaji Aliko Dangote, in setting overall strategic direction for the Company and overseeing key aspects of the strategic planning processes for the group, business units, subsidiaries and associated companies. He has also played a key role in driving major activities, projects and initiatives of the Company, including expansion of cement manufacturing into 18 African countries, a multi-billion dollar Oil Refinery and Petrochemical Plant, plus key joint ventures in Power, Oil & Gas as well as Agriculture Sectors.<br><br>Commenting on Dr. Mukhtar’s appointment, African Development Bank President Dr. Akinwumi Adesina said: “Abdu Mukhtar is a world-class and consummate professional, with strong entrepreneurial skills and a well demonstrated track record of delivering outstanding results in developing trade and industrialization in Africa. Abdu’s expertise and experience in structuring successful public-private partnerships will support the Bank as it rolls out its work to support the industrialization agenda of African countries.”<br><br>Dr. Mukhtar holds a Doctor of Medicine degree from the Ahmadu Bello University School of Medicine, Zaria, Nigeria; a Doctor of Philosophy Degree in Pathology and Laboratory Medicine from the Boston University School of Medicine, USA; a Master in Business Administration from the Harvard Business School, Cambridge, Massachusetts, USA; and a Master in Public Administration degree from Harvard Kennedy School, Cambridge, Massachusetts, USA. He was an Archbishop Tutu Leadership Fellow and the recipient of several international awards."
+  thumbnailUrl: speakers/Mukhtar.jpeg
+  keynote: true
+#-
+#  id: 5
+#  name: "Yemi"
+#  surname: "Cardoso"
+#  company: "Citibank Nigeria"
+#  title: "Chairman"
+#  bio: "Mr. Olayemi Cardoso, Chairman of Citibank Nigeria Limited, is a career banker and development policy expert. He started out in banking with Citibank in London. He trained in Greece and had several international assignments before returning to his native country Nigeria to work with Chase Manhattan Bank. He was subsequently invited by Citibank and became a member of the founding team of Citibank Nigeria in 1984 rising to a senior position within the bank. He left Citibank in 1990 to Co-found Citizens International bank as executive director.<br><br>Following an exemplary career in business, the government requested Mr. Cardoso's expertise in public service as the pioneer Commissioner for Economic Planning and Budget for Lagos State, in 1999 when the country returned to a democratically elected government. A highly unusual career move for a business person at the time, Yemi felt it was essential to encourage others to contribute their knowledge and experience to bring about reforms that were needed and other notable professionals have since followed his lead.<br><br>After public service, Mr. Cardoso attended the Masons Fellow Program at Harvard University where he earned a Masters degree in Public Policy and Management . He returned to Nigeria to assume responsibility on the board of of Chevron Oil Nigeria PLC as well as Chairman of the Audit committee of Citibank Nigeria and was appointed Chairman of the Board of the latter in 2010. Mr Cardoso also chaired the World Bank’s LMDGP project as well as the Bill and Media Gates Foundation and DFID- funded, EFInA, the leading financial inclusion organisation.<br><br>Mr. Cardoso, is an influential advisor and has worked on key initiatives with donors and development finance institutions including Ford Foundation, DFID and the World Bank. He is a member of the Belgium- based Cities Alliance think tank, a global partnership formed by the World Bank and UN habitat to tackle urban issues.<br><br>Mr. Cardoso is regular speaker at institutions including University of Oxford’s Saïd Business School and Harvard Kennedy School. He was awarded an Honorary Doctorate in Business Administration in 2017 for outstanding contributions to business and public service by his alma mater, Aston University, UK."
+#  thumbnailUrl: speakers/Cardoso.jpeg
+#  keynote: true
+#  rockstar: true
+-
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
+  name: "Farayi"
+  surname: "Chipungu"
+  company: "Harvard Kennedy School of Government"
+  title: "Adjunct Lecturer in Public Policy"
+  bio: "Farayi Chipungu is an Adjunct Lecturer in Public Policy at the Harvard Kennedy School of Government where she teaches Exercising Leadership: The Politics of Change. She also serves as faculty for the executive education program: The Art and Practice of Leadership Development which is a masterclass for professional trainers, educators and consultants working in leadership development.<br><br>Before joining the Kennedy School faculty, Farayi worked as a strategy consultant with global management consulting firm McKinsey & Company and for 5 years as a corporate lawyer. She has also worked with Cambridge Leadership Associates which specialises in training and coaching programs centred around the adaptive leadership framework.<br><br>Farayi’s experience is global and she has worked closely with both public and private sector clients across Africa, Australia, Europe, the United States and most recently the Middle East. Her primary focus has been on helping individuals, communities and organisations diagnose and execute  transformations from the micro, individual or team-based level to larger scale organisation-wide transformations.<br><br>Farayi has degrees in Arts and Law from Monash University in Australia and is also a graduate of the Kennedy School where she completed her MPA in 2012."
+  thumbnailUrl: speakers/Chipungu.jpeg
+  moderator: true
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Mark"
+  surname: "Edge"
+  company: "Monsanto"
+  title: "Director of Collaborations for Developing Countries"
+  bio: "Mark leads Monsanto’s collaborations with public-private partnership projects to improve food security and rural livelihood among smallholder maize producers in Sub-Saharan Africa. The WEMA (Water Efficient Maize for Africa) project is the signature project he leads. The WEMA project develops new drought-tolerant and insect pest-protected maize hybrids and provides the technology royalty-free. It helps build technical capacity in Africa to use conventional and molecular breeding as well as biotechnology.<br><br>He has also held the roles as:<ul><li>Product Launch Marketing Lead<li>Europe & Africa Marketing<li>Global Cotton Product Manager<li>Director of Trait Marketing at Corn States</li></ul><br><br>Mark grew up on a corn, soybean and livestock farm in Iowa. His background before joining Monsanto includes experience in biotech research; many aspects of managing seed business development as well as the grain export business. He has a B.S. from Iowa State University, a M.S. in Genetics from the University of California at Davis, and an MBA from Drake University."
+  thumbnailUrl: speakers/Edge.jpg
+  panelist: true
+-
+  id: 8
+  name: "Alan"
+  surname: "Kessler"
+  company: "African Discovery Group"
+  title: "Founder & CEO"
+  bio: "Alan Kessler is the Founder and CEO of African Discovery Group, an African-focused Principal, Advisory and Commodity Trading firm based in New York, USA. The firm is focused in the power, oil, gas, real estate and natural resource sectors. The goal of the firm is to attract private capital from the United States into Africa to enhance the Continent's development.<br><br>Mr. Kessler has over 20 years of experience on Wall Street, where he worked on the agency side at Goldman Sachs, Morgan Stanley and Ladenburg Thalmann and on the principal side at Oracle Partners, Frontpoint Partners, and Argenis Capital. With a primary focus on African Oil & Gas Exploration, Mr. Kessler has been responsible for raising over $1 Billion of capital into Africa. Prior to starting ADG, he served as Managing Director at Ladenburg Thalmann, creating a group targeted on African development, focused on private wealth, private placements and institutional trading. He built an annual African Oil, Gas and Power conference in New York.<br><br>Amongst other deals on the Continent, Mr. Kessler raised, marketed, capitalized, closed private placements and ultimately completed an initial public offering (IPO) for Lekoil, a Nigerian Exploration and Production company. The company would go on to make the 3rd largest oil discovery in the world in 2013; a deal that was nominated as IPO of the Year on London's AIM exchange. Amongst other notable transactions, Mr. Kessler also took public Savannah Petroleum on London's AIM exchange, proving a Landmark transaction as the first ever publicly-traded company in Niger, capitalizing an oil field that was a former divestiture of the Chinese National Petroleum Company. Mr. Kessler is a board member of TG Senergy, a Senegal-based Oil & Gas exploration company.<br><br>Mr. Kessler holds a Bachelor of Arts in Economics from the University of Pennsylvania (Cum Laude) and an MBA from Columbia Business School. Mr. Kessler was born and raised in South Africa."
+  thumbnailUrl: speakers/Kessler.jpg
+  panelist: true
+-
+  id: 9
+  name: "Richard"
+  surname: "Greenberg"
+  company: "Overseas Private Investment Corporation"
+  title: "Managing Director, Social Enterprise Finance"
+  bio: "Mr. Greenberg is a Managing Director at OPIC, the U.S. Government’s development finance institution, with responsibility for co-leading the organization’s efforts to expand its contribution in the area of social enterprise and impact finance. The unit he leads has significantly grown OPIC’s social enterprise finance activity, having closed over $1 billion in OPIC financing to the microfinance sector and expanded OPIC’s activity in sectors such as health, water, agribusiness, and energy, with considerable focus on Africa. Recently, he has played a key role in developing two OPIC initiatives, one focused on financing for impact investment funds and the other on providing debt to early stage social enterprises. Previously, Mr. Greenberg led project financings in markets around the world involving both small businesses and major infrastructure projects.<br><br>Mr. Greenberg has been a frequent speaker at conferences on project financing in emerging markets and has lectured at graduate level courses in microfinance and impact investing. He holds a B.S. from the Wharton School at the University of Pennsylvania, an M.A. from the Johns Hopkins School of Advanced International Studies (SAIS), and an M.B.A. from George Washington University."
+  thumbnailUrl: speakers/Greenberg.jpg
+  panelist: true
+-
+  id: 10
+  name: "Amee"
+  surname: "Parbhoo"
+  company: "Accion Venture Lab"
+  title: "Director of Investments"
+  bio: "Amee Parbhoo is the Director of Investments with Venture Lab, leading the team’s deal activity and portfolio engagement in Africa. She also supports Venture Lab's investments globally and manAges new projects, including the Company Builder initiative. Amee was most recently an Engagement Manager at McKinsey & Company, serving public, private, and social sector clients focused on financial services and international development. Previously, she worked in business development at SKS Microfinance, India’s largest microfinance institution. In that role, she designed new product lines in credit and microsavings, tested new technologies and platforms, and worked on the company’s initial public offering. Amee has consulted a number of financial inclusion enterprises, including Root Capital, Jipange Kusave and Grameen Bank, and co-founded a web-based platform that empowered students in the U.S. to manage and repay their student loans. Amee has a bachelor of arts in Political Science and Economics from Davidson College and an MBA from The Wharton School at University of Pennsylvania."
+  thumbnailUrl: speakers/Parbhoo.jpg
+  panelist: true
+  judge: true
+-
+  id: 11
+  name: "Ebele"
+  surname: "Kemery"
+  company: "JPMorgan Asset Management"
+  title: "Portfolio Manager & Head of Energy Investing – Global Fixed Income, Currencies and Commodities"
+  bio: "Ebele Kemery is Head of Energy Investing in JPMorgan Asset Management’s Global Fixed Income, Currency & Commodities (GFICC) group. Based in New York, Ebele is a portfolio manager on several JPMorgan Commodities Funds. Ebele focuses on commodities and their macro-economic implications on the global markets. Prior to this role, she provided institutional natural resources clients with tailored risk management solutions in the Investment Bank's Global Commodities Group. An employee since 2007, she previously held roles in London, New York and Houston as a physical and derivatives oil trader specializing in the North American and Transatlantic energy markets. Ebele is a frequent contributor to publications and media outlets, including the Wall Street Journal and Bloomberg TV, providing insight on energy and broad commodity markets. She serves as a member on the board of directors of SociaLite Lighting Systems, a non for profit organization which creates solar-powered lanterns from everyday plastic and glass waste, providing sustainable light to impoverished communities in developing nations. Ebele earned a B.E. in electrical engineering from The Cooper Union for the Advancement of Science and Art, and is a member of the Wall Street Blockchain Alliance."
+  thumbnailUrl: speakers/Kemery.jpg
+  panelist: true
+-
+  id: 12
+  name: "Obinwanne"
+  surname: "Okeke"
+  company: "Invictus Group"
+  title: "Chairman & CEO"
+  bio: "Obinwanne Okeke is the CEO of Invictus Group of Companies Ltd. He was named one of the most promising African entrepreneurs under 30 by Forbes, and covered the June 2016 Edition of the Forbes (Africa) Magazine. The 29 year old Nigerian has diverse business interests, which include Real Estate Development, Construction and Energy. Invictus Group of Companies operates in three African countries: Nigeria, South Africa and Zambia. His most recent business focus has been on building energy-efficient houses that rely exclusively on solar energy. In May 2017, The African Brand Congress awarded the Invictus Group of Companies Ltd the Africa’s Most Innovative Investment Company of the Year 2017 Award.<br><br>Mr. Okeke is one of Africa’s youngest and most sought after public speakers in matters of entrepreneurship and investment in the continent. Recently, he was nominated for the All African Business Leaders Award (AABLA) in the category of Young African Business Leader. The AABLA is the most prestigious award for businessmen in Africa. He is an alumnus of Monash University, Australia and Monash University, South Africa."
+  thumbnailUrl: speakers/Okeke.png
+  panelist: true
+-
+  id: 13
+  name: "Vincent"
+  surname: "Egbe"
+  company: "The Kraft Heinz Company"
+  title: "Country Manager, West and Central Africa"
+  bio: "Vincent Egbe is recognized as one of Africa’s emerging young business leaders and “Go to Market” innovators.  Over the last decade, Vincent pioneered and built some of the deepest consumer goods distribution networks across Africa, reaching and influencing over half a million retailers across Sub Sahara. He has also built some of Africa’s most successful FMCG brands and has been globally recognized for also building some of the most successful FMCG teams in Africa. Vincent’s distribution networks, category innovations and teams have played a key role in defining new market leaders in categories, channels and countries in Africa, disrupting incumbent market leaders who have been entrenched in Africa for decades.<br><br>Today, as a business leader, Vincent uses his “Africa as a startup” framework to enable companies build capabilities to forward and or backwards integrate and maps out the milestones and actions that will define the category journey from startup to market leader. Vincent believes that for companies to be sustainable, they must drive both superior value and profitability vs peers as well as a greater sense of prosperity in the communities they operate in. Vincent is a graduate of Geology and Mining from the University of Jos as well as P&Gs prestigious Global Innovation College. He is currently enrolled in Executive education at the Stanford GSB as part of the Catalyst Cohort of the Lead Program.  Vincent is an investor and mentor in a few African startups."
+  thumbnailUrl: speakers/Egbe.png
+  panelist: true
+  judge: true
+#-
+#  id: 14
+#  name: "Lance"
+#  surname: "Christ"
+#  company: "International Finance Corporation"
+#  title: "Global Head, Natural Resources, Infrastructure & Natural Resources"
+#  bio: "Lance Crist is Global Head of Natural Resources for IFC, the private sector arm of the World Bank Group.  Mr. Crist leads IFC’s financing and advisory services teams responsible for supporting the oil, gas & mining sectors.  IFC’s $2.5+ billion investment portfolio in these sectors includes more than 80 natural resource companies in over 35 countries across the emerging markets.  IFC’s financing includes investments in equity, mezzanine and senior debt; and the advisory services team provides support across a range of areas to assist clients in enhancing their sustainability.  Mr. Crist joined IFC in 1992 and has managed advisory mandates, project and corporate finance, and private equity transactions in the areas of general manufacturing and telecommunications, and prior to his current role he was IFC’s global head of oil & gas.  He earned a B.A. from Cornell University, and an MBA from the Wharton School."
+#  thumbnailUrl: speakers/Christ.png
+#  panelist: true
+-
+  id: 15
+  name: "Ike"
+  surname: "Eze"
+  company: "eTranzact"
+  title: "Executive Director"
+  bio: "Ike Eze is Nigeria-based and the Executive Director, Strategy and Corporate Development at eTranzact. Previously he worked at Boston Consulting Group, Bechtel and AT&T. He founded QSpace, a fintech startup which was acquired by Experian; was the primary investor in GPlay, an online gaming firm; and, led Centrro, a fintech company that completed a Fortune 500 subsidiary buyout, before being acquired. He currently serves on the boards of eTranzact, Yuzah and Elephab, and the advisory boards of InvestmentOne VenCap and The African Network. Additionally, he invests privately in early stage technology startups in Africa. Ike holds an MBA from The Wharton School at the University of Pennsylvania and a Bachelors in Mechanical Engineering (Oseberg Scholar) from San Francisco State University."
+  thumbnailUrl: speakers/Eze.png
+  panelist: true
+  judge: true
+-
+  id: 16
+  name: "Patricia"
+  surname: "Chin-Sweeney"
+  company: "I-Dev International"
+  title: "Senior Partner"
+  bio: "Patricia is Co-Founder of I-DEV and has led many of I-DEV’s global engagements in agriculture, clean energy, tech and sustainable brands. She has over 13 years of experience advising SMEs and larger corporations on innovation, investment and impact strategies. Patricia led I-DEV’s launch and expansion into East Africa, and overseas global operations. Prior to joining I-DEV, Patricia worked at the Environmental Financial Consulting Group (EFCG), a boutique advisory firm to the engineering, environmental consulting and infrastructure sector, where she focused on M&A, operations and corporate strategy. She has an MBA from NYU’s Stern School of Business, and a B.A. in Environmental Science from Barnard College/Columbia University."
+  thumbnailUrl: speakers/ChinSweeney.png
+  panelist: true
+  
+-
+  id: 17
+  name: "Edward"
+  surname: "Stokes"
+  company: "Intrepid HR"
+  title: "Managing Director"
+  bio: "Edward is the founder and Managing Director of Intrepid HR, a successful pan-African Leadership, Careers and Talent Management / Development advisory business. Our clients are the leading Investment Banks, Private Equity Firms and Fund Managers. We also assist our financial markets clients develop and optimize businesses they have invested in, through providing the leadership and talent required for these businesses in industry to reach their investment objectives. Following a career in finance and investment advisory, in 1990, Ed joined a global financial markets recruitment business in London where he worked with leading investment banks to build their capability. In 1996, recognizing the Africa opportunity, Ed set up a business in South Africa to understand and service the African market. Following 20 years experience across Africa, Ed and his team at Intrepid HR have deep understanding and sight of leadership and accelerated post MBA career opportunities across Africa."
+  thumbnailUrl: speakers/Stokes.png
+  panelist: true
+-
+  id: 18
+  name: "Jasmine"
+  surname: "Blanks Jones"
+  company: "B4 Youth Theatre"
+  title: "Executive Director"
+  bio: "Jasmine L. Blanks Jones is a Robert Wood Johnson Health Policy Research Scholar and a Dr. William Fontaine Fellow in Africana Studies.  As a dual PhD student in Education, Culture and Society, she is also a George and Alice S. Hill Fellow.  She graduated from Florida A&M University with a B.S. in Music Education and taught middle school music history and performance in Maryland.  Holding a Master of Public Policy degree from the Humphrey School of Public Affairs at the University of Minnesota, Blanks Jones founded and served as Executive Director for B4 Youth Theatre, a Liberian NGO that grew out of a pilot of her Master’s thesis which was a prospectus on arts education.  Her research interests include global public health, arts education, youth civic engagement in education, African post-colonialism and diaspora migrations, African American colonialism and antebellum history. Liberia is her primary research site where she engages in Participatory Action Research, Practitioner Inquiry, and critical ethnography."
+  thumbnailUrl: speakers/BlanksJones.png
+  panelist: true
+#-
+#  id: 19
+#  name: "Kelvin"
+#  surname: "Doe"
+#  company: "Kelvin Doe Foundation"
+#  title: "Engineer and Founder"
+#  bio: "Kelvin Doe, also known as DJ Focus, is a Sierra Leonean engineer. He is known for teaching himself engineering at the age of 13 and building his own radio station in Sierra Leone, where he plays music and broadcasts news under the name “DJ Focus.” He was one of the finalists in GMin's Innovate Salone idea competition, in which Doe built a generator from scrap metals. Doe would constantly use discarded pieces of scrap to build transmitters, generators, and batteries, as well. As a result of his accomplishment, he received an invitation to the United States and subsequently became the youngest person to participate in the “Visiting Practitioner's Program” at MIT.<br><br>His accomplishments were documented by @radical.media and presented on their corporate YouTube channel. When the video went viral, the story was picked up by CNN, NBC News, and The Huffington Post. Doe subsequently was a speaker at TEDxTeen and lectured to undergraduate engineering students at Harvard College. In May 2013, Doe signed a $100,000 solar project pact with Canadian High Speed Service Provider Sierra WiFi. Today, Kevin Doe is one of the most respected among other young African inventors."
+#  thumbnailUrl: speakers/Doe.png
+#  panelist: true
+#-
+#  id: 20
+#  name: "Dr. Francis"
+#  surname: "Ukwuije"
+#  company: "HealthCare"
+#  title: "Senior Health Economist and Head"
+#  bio: "Francis Ukwuije is a Medical Doctor, Public Health Specialist, and a Senior Health Economist, with over 13 years progressive Government, Private Sector, and NGOs experience. He gained automatic entry into the Federal Ministry of Health (FMOH) in 2007 having earned the prestigious Nigerian President’s Honours Award as the Best and Most Outstanding Corps Member in Nigeria for 2005 and 2006. As an exceptional Change Agent, he has catalyzed high impact interventions for health in Nigeria including leading a high-level advocacy that immediately resulted in the creation of the Nigerian National Hepatitis Control Program in 2013.<br><br>Having built a credible and successful public service career in strategic management and health financing, he was seconded to the Population Council Nigeria from 2012 to 2014 to lead Health Economics Research within which period he significantly expanded Council’s portfolio. Dr. Ukwuije successfully reviewed Enhancing Nigeria’s Response to HIV/AIDS (ENR) Value for Money (VFM) Framework and conducted VFM Analysis on the ENR Project for 2 years."
+#  thumbnailUrl: speakers/Ukwuije.png
+#  panelist: true
+-
+  id: 21
+  name: "Frederick"
+  surname: "Cooper"
+  company: "Toll Brothers, Inc."
+  title: "SVP - Finance, International Development & Investor Relations"
+  bio: "Toll Brothers, Inc. (Tollbrothers.com) (NYSE: TOL) is the leading builder of luxury homes in the U.S. and one the nation’s largest land developers.  The Company began business in 1967 and went public on the New York Stock Exchange (NYSE) in 1986.  Toll Brothers serves move-up, empty-nester, active-adult and second-home buyers, as well as renters, in suburban and urban markets in 20 states across the U.S. and in the District of Columbia.<br><br>In 2016, Toll Brothers ranked #6 among all 1,500 companies in Fortune magazine's investment community survey of the World's Most Admired Companies in the Quality of Products/Services Offered category behind only Apple, Walt Disney, Amazon, Alphabet, and Nordstrom. The firm was also named by Fortune as the World’s Most Admired Home Building Company for 2017, the third year in a row it has been so honored.<br><br>Fred Cooper joined Toll Brothers in 1993 to establish its Finance and Investor Relations Departments.  As the firm’s in-house investment bank, the team he leads is responsible for Toll’s capital markets and investor relations activities as well as its partnering relationships with major U.S. and international financial and development institutions.  Since formation, his team has raised over $15 billion from U.S., European and Asian banks, the public capital markets and institutional partners.  In addition to capital raising, the group advises on complex project structuring, joint ventures, corporate mergers and acquisitions and major property acquisitions.<br><br>Fred has overseen Toll Brothers’ exploration of international development opportunities in Asian, Latin American, and Middle Eastern markets. He has been financial point for Toll’s expansion into the rental apartment business through Toll Brothers Apartment Living, which now controls $2 billion in assets in a pipeline of completed and in-development projects totaling over 7,000 units. He also is financial point for Toll’s expansion into the urban high-rise condo business through Toll Brothers City Living, which has grown into an operation of over 40 buildings and 5,000 units.  Toll recently closed on its first joint venture with a Chinese partner on an approximately $400 million residential condo project in New York City.<br><br>From 1989 to 1993, Fred was Director of Corporate Finance and Planning at DKM Properties Corp., the real estate arm of the Dyson-Kissner-Moran Corporation, one of the nation’s largest private companies. From 1984 to 1989, he was Senior Vice President and a member of the Executive Committee of the Financial Services Corporation, New York City’s economic development bank.  From 1980 to 1983 he worked in community-based affordable housing and economic development in the South Bronx and Brooklyn, New York.<br><br>He holds an A.B. from Brown University and a Master of Public Policy in finance and international development from Harvard University’s Kennedy School of Government.<br><br>Fred is a founding board member of the Friends of Kenya Community Development Foundation and an advisor to Reall International, which provides capital and technical assistance to affordable housing developers in Africa, Asia and the Middle East. He co-developed and teaches in Wharton’s  “Real Estate Development in Emerging Markets” course and has lectured on real estate finance and development since 2006 in Wharton’s International Housing Finance Program.  He serves on the Harvard Alumni Real Estate Board and as an advisor to the Harvard Journal for Real Estate."
+  thumbnailUrl: speakers/Cooper.jpg
+  panelist: true  
+-
+  id: 22
+  name: "Dan"
+  surname: "Kleinbaum"
+  company: "Beyonic"
+  title: "Chief Operating Officer"
+  bio: "Dan is currently trying to rid the world of cash as the Chief Operating Officer at Beyonic.  Beyonic makes it easy for businesses to eliminate their need to use cash and use mobile payments across sub-Saharan Africa.  He's responsible for all the day-to-day tasks not related to technology that keep the business operating.  In past lives, Dan spent seven years as a camp counselor, 2 years consulting with Fortune 500 companies on sustainability and corporate responsibility strategies, and once opened a non-profit gelato shop in Benton Harbor, Michigan."
+  thumbnailUrl: speakers/Dan.jpg
+  panelist: true
+-
+  id: 23
+  name: "Shawn"
+  surname: "Simmons, PhD"
+  company: "Environmental & Permitting Manager for the Gulf Coast Growth Venture"
+  title: "ExxonMobil Chemicals"
+  bio: "Shawn Emerson Simmons, PhD is currently the Environmental & Permitting Manager for the Gulf Coast Growth Venture for ExxonMobil Chemicals.  Prior to this assignment she was the Water, Waste and State Regulatory Manager for the Central Safety, Security, Health, and Environment (SSH&E) Organization of Exxon Mobil Corporation. Simmons has led global teams as a supervisor, responsible for environmental & regulatory issues in Africa, Asia Pacific, Australia, and Europe. From 2007-2012, Simmons worked and lived in Lagos, Nigeria with her family.  Simmons is a 1989 graduate of Booker T. Washington’s High School for the Engineering Professions in Houston, Texas.  She has been with ExxonMobil for 17 years, primarily in the Safety, Security, Health, and Environment (SSHE) job family in the Upstream, Chemicals and Downstream sectors. Simmons earned a B.S. in Petroleum Engineering from the University of Oklahoma, a M.S. in Environmental Engineering from Rice University, and a PhD in Environmental Toxicology from Texas Southern University. She and her husband, Philip have been married for 22 years and have 2 children, Jonathan and Jacquelyn.  Simmons is passionate about volunteer service and leadership development. "
+  thumbnailUrl: speakers/Simmons.jpg
+  panelist: true
+-
+  id: 24
+  name: "Idris"
+  surname: "Mohammed"
+  company: "The Carlyle Group"
+  title: "Managing Director"
+  bio: "Idris Mohammed is a Managing Director of The Carlyle Group focused on buyout and growth opportunities in Sub-Saharan Africa. He is based in Lagos, Nigeria.<br><br>Mr. Mohammed has more than 15 years of private equity experience spanning the U.S. and Africa across a variety of sectors.<br><br>Prior to joining Carlyle in 2017, Mr. Mohammed was at leading Africa-focused private equity firm DPI.  He was based in London and headed the Lagos office.  He helped raise 2 funds at DPI and led a number of acquisitions across Africa, including in Botswana, Nigeria, and Egypt.  Mr Mohammed began his private equity career at Goldman Sachs in New York where he was a member of the Special Situations Group and helped build the clean energy investing business before deciding to return home to invest in Africa.<br><br>Mr. Mohammed received his BS in Industrial Engineering from Lehigh University and his MBA from the Wharton School of the University of Pennsylvania."
+  thumbnailUrl: speakers/Mohammed.jpg
+  panelist: true
+-
+  id: 25
+  name: "Yaw"
+  surname: "Agyenim-Boateng"
+  company: "McKinsey & Company"
+  title: "Partner"
+  bio: "Yaw Agyenim-Boateng joined the firm in 2005. He co-leads McKinsey’s Consumer Packaged Goods, High Tech, Media & Entertainment, and Telecommunications Practices.<br><br>Yaw serves multinationals and private-sector institutions across Africa on issues of strategic market entry, route to market, and sales and distribution topics. He focuses on reaching the African consumer through fragmented trade. He has worked in both Africa and the Americas.<br><br>Prior to joining McKinsey, Yaw worked as an investment-banking analyst focusing on media and telecommunications companies at Merrill Lynch in New York. He also cofounded a Ghana-based consumer-lending company and led finance and healthcare initiatives in rural Sierra Leone and Tanzania."
+  thumbnailUrl: speakers/Boateng.png
+  moderator: true
+-
+  id: 26
+  name: "Jalil"
+  surname: "Bensouda"
+  company: "McKinsey & Company"
+  title: "Managing Partner, Casablanca"
+  bio: "Jalil Bensouda is a partner in McKinsey’s Casablanca office and supports clients in our Financial services, Private Equity and Digital practices among others.<br><br>He coordinates the work in the private sector in Francophone Africa, on issues of holistic transformations, growth strategies, and investment decisions.  He also works very closely with our clients, especially in the industrial and mining sector, on operational transformations including resource optimization and systems of production’s performance.<br><br>Jalil is also one of the founders of a McKinsey Digital Studio in Casablanca, dedicated to our Francophone clients. He has a special focus on the digital transformation of our clients in the financial services, serving many leading institutions across Africa.<br><br>Jalil started at McKinsey as a senior consultant in 2006, after an initial experience as Corporate Director and Advisor to the CEO, at AttijarWafaBank, one of the leading banking institution in Morocco and West Africa. He left McKinsey in 2011 to create Moongypse, an industrial company producing gypsum. The company was acquired by Saint Gobain, the global leader, two years later. Jalil decided to join again the Casablanca Office in 2015 and is now the Managing partner of the Office."
+  thumbnailUrl: speakers/Jalil.JPG
+  panelist: true
+-
+  id: 50
+  name: "Michele"
+  surname: "Rivard"
+  company: "Village Capital"
+  title: "Fellow"
+  thumbnailUrl: judges/Rivard.jpg
+  bio: "Michele Rivard is a Fellow with Village Capital, the investment firm that finds, trains and invests in early stage entrepreneurs solving real world problems.  She is focused on strategy, clean water innovations, and access to affordable debt finance.  Previously, she established the U.S. African Development Foundation’s entrepreneurship program, as part of YALI, the U.S. Government’s public-private partnership to catalyze young African leaders.  Michele awarded over $3 million in grant funding to entrepreneurs building companies, creating jobs, and impacting their communities.  Her background includes management consulting in New England, merchant banking in Ukraine, and foreign direct investment promotion in Central Europe, Russia and Kazakhstan.  She advises Shea Yeleen and Mother’s Delivery Kits, and is keyed up about increasing access to opportunity - for girls in higher education and young people in technology.  Michele is from the great state of Maine and holds degrees from Dartmouth College and Harvard’s Kennedy School."
+  judge: true
+-
+  id: 51
+  name: "Pardon"
+  surname: "Makumbe"
+  company: "CRE Venture Capital"
+  title: "Founding Partner"
+  thumbnailUrl: judges/Makumbe.jpg
+  bio: "Pardon is a Founding Partner at CRE Venture Capital, a leading early stage investor in category-defining tech companies in Africa. Pardon holds Board Member and Observer roles at some of Africa's leading tech companies including Flutterwave, Asoko Insight, Rensource, and Smile Identity. He is Chairman of the Technology Directorate of the US Nigeria Council, and sits on the Board of Wharton Africa Growth Partners.<br><br>Prior to co-founding CRE Venture Capital, Pardon worked at EL Rothschild in New York and London, overseeing investments and holdings in Asia, Europe and Africa including IHS Towers, The Economist Group and Impala Energy. Earlier on, he worked at Bain & Company in New York, at Temasek Holdings in Singapore, and at Emerging Capital Partners in Johannesburg.<br><br>Pardon holds a BSE in Electrical Engineering from Princeton University, and graduated as a Palmer Scholar from the Wharton School of Business."
+  judge: true
+-
+  id: 27
+  name: "Matt"
+  surname: "Forti"
+  company: "One Acre Fund"
+  title: "Managing Director"
+  thumbnailUrl: speakers/Forti.JPG
+  bio: "Matthew Forti is the U.S. Managing Director of One Acre Fund, a nonprofit social enterprise working exclusively to improve the yields and incomes of Africa’s smallholder farmers.  One Acre Fund delivers farm inputs, finance, training, and market facilitation to over 500,000 farm families across six countries in East and Southern Africa, ending chronic hunger for over 2 million children and enabling productive investments in education, health, and new business activities.  One Acre Fund has twice been named to Fast Company Magazine’s Top 10 Most Innovative Companies In Africa and was ranked 15th in the latest Global Journal Top 500 NGOs edition.<br><br>Matt played an instrumental role in One Acre Fund’s founding, helping to raise the seed capital to launch the organization at the Kellogg School of Management, and thereafter becoming the organization’s inaugural Board Chair. He is now Vice Chair of the governing board and helps coordinate the organization’s global operations, including partnership and business development, corporate finance, and monitoring & evaluation.  Matt writes extensively on the topic of performance measurement, including through a blog series for Stanford Social Innovation Review.<br><br>Prior to joining One Acre Fund’s staff, Matt was a Manager and Co-head of the Performance Measurement Practice at the Bridgespan Group, a strategic advisory firm to mission-driven leaders and organizations. Matt also spent four years with Marakon Associates, a private-sector consulting firm that advises Fortune 500 executives and their global equivalents on strategies to increase shareholder value.<br><br>Matt received an MBA with distinction from the Kellogg School of Management and graduated summa cum laude from Northwestern University with a BA in economics and sociology."
+  panelist: true
+-
+  id: 28
+  name: "Shireen"
+  surname: "Ali"
+  company: "The Abraaj Group"
+  title: "Associate Director - Credit"
+  thumbnailUrl: speakers/Ali.jpg
+  bio: "Shireen covers Africa for the Abraaj Credit Fund, focusing on mezzanine and direct lending opportunities across the continent. The Abraaj Group is a private investment firm with c. $11bn under management, and 22 offices spread across Africa, Asia, the Middle East and Latin America. Prior to Abraaj, Shireen worked in both private equity and private credit at Helios Investment Partners, an Africa-focused private investment firm with c. $3bn under management. Previously, she worked at Eos Partners, a distressed credit fund, as well as in the M&A and Leveraged Finance teams for Merrill Lynch in London.<br><br>Shireen completed her undergraduate degree in Accounting and Finance at the London School of Economics, and her MBA at Wharton."
+  panelist: true
+-
+  id: 29
+  name: "Shruti"
+  surname: "Chandrasekhar"
+  company: "IFC Venture Capital"
+  title: "Senior Investment Officer"
+  thumbnailUrl: speakers/Shruti.jpg
+  bio: "Shruti Chandrasekhar has over a decade of private equity & venture capital experience identifying and evaluating businesses across multiple industries and geographies. She is currently a Senior Investment Officer covering venture capital investments for the IFC with a focus on digital health and transportation/logistics.  She also leads the gender-centric initiatives across venture capital & private equity at the IFC.  Prior to the IFC, she was responsible for private equity and venture capital investments (direct & indirect) for Premji Invest, a large Indian multi-strategy growth investor where she worked on private equity transactions in India as well as helped Premji Invest establish its California venture investment program.   She has an undergraduate degree from MIT and an MBA from the Wharton School with some additional experience in consulting and investment banking.  She loves travel and has moved her home-base every few years since 2000!"
+  panelist: true
+-
+  id: 30
+  name: "Robert"
+  surname: "Tashima"
+  company: "Oxford Business Group"
+  title: "Managing Editor, Africa"
+  thumbnailUrl: speakers/Tashima.jpg
+  bio: "As Oxford Business Group’s (OBG) Managing Editor for Africa, Robert Tashima is now in charge of OBG’s field research across the continent, and is responsible for directing the company’s Africa-focused digital and print editorial content.<br><br>He has helped oversee an expansion of OBG’s research to many of the continent’s largest emerging markets and has also initiated field studies on sub-national and local economies and worked alongside key domestic stakeholders to identify new opportunities for potential foreign investors. In all, Robert has led primary source research and data gathering initiatives for OBG projects in more than a dozen countries across the Middle East and Africa.<br><br>Robert is a regular commentator in local media throughout the continent, as well as international outlets including the BBC, France 24 and Reuters. He frequently speaks at conferences in Africa, Europe and the US, and has delivered talks at a number of universities.<br><br>Robert is a Truman Security Fellow and a former Jesse M Unruh Fellow. He is an advisor to Asoko Insight, an Africa data analytics firm, and to OE54, an Africa-focused project management firm. He has studied at the Institut d’Etudes Politiques in Bordeaux, France, and has received his BA in Political Science and French from the University of California at Berkeley and his MSc in International Relations from the London School of Economics. Robert is fluent in French."
+  panelist: true
+-
+  id: 31
+  name: "Elizabeth"
+  surname: "Ngonzi"
+  company: "Afrika Tikkun USA, Inc."
+  title: "Chief Executive Officer"
+  thumbnailUrl: speakers/Ngonzi.jpg
+  bio: "Elizabeth Ngonzi, social entrepreneur and global public speaker, is the CEO of Afrika Tikkun USA, the North American representative of Afrika Tikkun---- an award-winning organization in South Africa, for which the-then President Nelson Mandela volunteered to serve as Chief Patron. Since 2014, she has led the organization’s mission to develop into a next-generation nonprofit-- building strategic partnerships with individuals, corporations, nonprofits, and academia.<br><br>Ms. Ngonzi, an expert on entrepreneurship, leadership, and technological innovations advancing international development, has been quoted and/or featured in media outlets worldwide. From 2011 to 2013 she served as an Entrepreneur-in-Residence at Cornell University-- advising budding entrepreneurs on developing compelling value propositions for investors. Formerly, she had a boutique consulting firm through which her team created partnerships between nonprofits, corporations and high-net-worth individuals worldwide, to meet their mutually beneficial strategic objectives. She spent the first half of her career as a management consultant at Arthur Andersen, in marketing at Digital Equipment Corporation and in B2B sales at MICROS Systems.<br><br>Ms. Ngonzi earned an MMH degree in Services Marketing from Cornell University."
+  panelist: true
+-
+  id: 32
+  name: "Anie"
+  surname: "Akpe"
+  company: "IBOM LLC"
+  title: "Founder"
+  thumbnailUrl: speakers/Akpe.jpg
+  bio: "Anie Akpe-, Serial Entrepreneur-- Founder IBOM LLC Founder/Innov8tiv magazine publisher and African Women In Technology (AWIT), is a business professional and entrepreneur with more than 15 years’ experience in the banking industry.<br><br>As founder of IBOM LLC, Akpe aids small businesses around the world, particularly those owned by African entrepreneurs in the Diaspora, guiding business development and strategy and leading sound results in the completion of their business goals. A native of Nigeria, she meshes her global experience and culture with skills from stellar Corporate America leadership to provide unique and results-driven services to her clients.<br><br>Innov8tiv.com is a technology news site that highlights Blacks in Tech in USA, UK, Caribbean Islands and Africa. Innov8tiv is a subsidiary of IBOM LLC, which adds to the company’s mission to not only advocate entrepreneurship among global professionals of color, but dynamic tech information, resources, events and media.<br><br>Akpe, recently launched African Women In Technology (AWIT). The AWIT initiative is the only of its kind to provide attendees a unique combination of deep-dive, hands-on tech workshops, information and discussions about careers in tech and how to pursue them. The conference allows participants to make connections through networking opportunities with other women in various aspects and careers in technology."
+  panelist: true
+-
+  id: 33
+  name: "Meghan"
+  surname: "McCormick"
+  company: "OZÉ & Dare to Innovate"
+  title: "Founder & CEO"
+  thumbnailUrl: speakers/McCormick.jpg
+  bio: "Meghan McCormick is a systems thinker and strategist passionate about designing solutions that deliver value to corporations, customers, and communities.<br><br>She is a Founder and CEO of Dare to Innovate, a youth-led movement to end unemployment in West Africa through investments in the entrepreneurial ecosystem. She also leads, OZÉ, a mobile app designed to empower every small business owners to make data-driven decisions to improve performance.<br><br>Meghan is a Returned Peace Corps volunteer from Guinea. During her service, in partnership with the Guinean Association for the Development of Private Enterprise, she focused on social entrepreneurship in the town of Kindia and launched the world’s second e-reader library, BiblioTech. After the Peace Corps, she worked as an Innovation Strategist at Doblin, the Innovation unit of Monitor Deloitte focused on transformational innovation for Fortune 100 B2B companies.<br><br>She is currently pursuing an MBA at MIT Sloan School of Management where she is a Legatum Fellow and an MPA from the Harvard Kennedy School of Government."
+  panelist: true
+-
+  id: 34
+  name: "Shadrack"
+  surname: "Frimpong"
+  company: "Cocoa360"
+  title: "Founder & CEO"
+  thumbnailUrl: speakers/Frimpong.jpg
+  bio: "Described by former United Nations Secretary General, Mr. Kofi Annan as “…an embodiment of youth leadership”, Shadrack is a passionate leader who is driven by his background in abject poverty. A proud son of a peasant farmer and charcoal seller, Shadrack was born on a farm, and grew up without running water and electricity in rural Ghana. Frimpong founded the non-profit, Cocoa360 and pioneered the “sweat-for-impact” health equity model; Ghana's first and only tuition-free elementary girls school and free clinic which are self-sustained by proceeds from a cocoa farm. With a school curriculum focused on health literacy, and a health facility that treats diseases, Cocoa360 has developed a robust health system for over 120,000 cocoa farmers in rural Western Ghana.<br><br>Shadrack is a recipient of many awards including the prestigious Samuel Huntington Public Service Award, Future of Ghana’s Top 30 Under 30 and the Cordes Fellowship. In 2017, he was awarded the Ghana Legacy Honors, becoming the youngest recipient ever of one of Ghana’s highest honors. President Bill Clinton named Shadrack to the Clinton Global Initiative’s Honor Roll in September 2017. He graduated from the University of Pennsylvania in 2015 as Flagbearer, a University Scholar and a recipient of the $150,000 President’s Engagement Prize, Penn’s highest honor."
+  panelist: true
+-
+  id: 35
+  name: "Shama"
+  surname: "Jamal"
+  company: "Dalberg Global Development Advisors"
+  title: "Senior Consultant"
+  thumbnailUrl: speakers/Jamal.jpg
+  bio: "Shama is a Senior Consultant based with Dalberg in Dar es Salaam and is the Deputy Lead for the Education to Employment practice area, with a focus on Education Technology, at Dalberg globally. Shama is currently working with Dubai Cares to assess the impact of and make recommendations to improve and scale their tech-enabled Train for Tomorrow program in Accra, Ghana. In partnership with the Mastercard Foundation in Rwanda, Shama has developed a strong understanding of challenges facing EdTech entrepreneurs and helped the Foundation develop a strong strategy for their Centre for Innovative Teaching and Learning in ICT. Shama has also conducted a landscape analysis study to develop a strategy for the Foundation’s first country-wide approach to youth employment and entrepreneurship in Rwanda.<br><br>Shama holds a Master of Education in International Education Policy from the Harvard Graduate School of Education and a Bachelor of Science in Economics from the Wharton School at the University of Pennsylvania. Shama was born and raised in Tanzania."
+  panelist: true
+-
+  id: 36
+  name: "Drs. Marja"
+  surname: "Hoek-Smit"
+  company: "The Wharton School"
+  title: "Director of the International Housing Finance Program of the Wharton School Zell/Lurie Real Estate Center, and an Adjunct Professor in the Wharton Real Estate Department"
+  thumbnailUrl: speakers/Hoek-Smit.png
+  bio: "Drs. Marja Hoek-Smit is the Director of the International Housing Finance Program of the Wharton School Zell/Lurie Real Estate Center, and an Adjunct Professor in the Wharton Real Estate Department of the University of Pennsylvania. Her work focuses on housing markets, urban and housing policy, and the deepening of housing finance systems, particularly in developing and emerging market economies. Specifically, her research and consulting work has included policy reforms to improve the functioning of housing and real estate markets, reform and design of housing and housing finance‐linked subsidy programs, housing demand and affordability analyses, the development of housing and housing finance indicators, design and implementation of upgrading strategies and monitoring and evaluation systems for housing programs.<br><br>She develops, coordinates and teaches executive education programs in housing finance and housing market analysis both at Wharton and in emerging market countries. She has consulted with clients including the World Bank, International Monetary Fund, USAID, the United Nations, the Inter–American Development Bank, and directly for governments, non‐governmental organizations and private financial institutions. She has worked and lived in more than 50 countries in Sub‐Saharan Africa, the Middle East, South and East Asia, Latin America, and East and Central Europe. She most recently worked on housing finance and subsidy policies in Argentina, Mexico, Egypt, South Africa and Indonesia. She is a member of the Advisory Board of the Habitat for Humanity Terwilliger Center for Innovation in Housing.<br><br>Drs. Hoek‐Smit is also the founder and Executive Director of the Housing Finance Information Network—HOFINET—a global web portal that consolidates international housing finance information and statistical data for public use. The HOFINET portal is sponsored by the Wharton School and partners with housing finance institutions worldwide.<br><br>Drs. Hoek‐Smit has lectured internationally at leading universities and has been a keynote speaker at major national and international professional meetings. She completed her doctoral degree at the University of Amsterdam. Prior to teaching at the University of Pennsylvania, she taught at the University of Nairobi, Kenya."
+  panelist: true
+-
+  id: 37
+  name: "Stephen"
+  surname: "Sammut"
+  company: "The Wharton School | Pangea University for the Health Sciences"
+  title: "Senior Fellow, Health Care Management and Lecturer, Entrepreneurship | Founder and President"
+  thumbnailUrl: speakers/Sammut.jpg
+  bio: "In his academic life, Steve is Senior Fellow, Health Care Management and Lecturer, Entrepreneurship at the Wharton School.  During his 25 years teaching at Wharton and other schools, he has created over a dozen courses that he has taught nearly 11,000 students. His research focuses on international development and health care and biotechnology capacity development in emerging economies, as well as business model innovation in biotechnology. He has published articles in Nature Biotechnology, the New England Journal of Medicine, the Journal of Commercial Biotechnology and has authored numerous book chapters on health care and biotechnology.<br><br>Steve recently founded Pangea University for the Health Sciences as a vehicle for providing training for health service professionals.<br><br>He is visiting faculty and coordinator of the Indian School of Business healthcare program and visiting faculty at the Strathmore Business School in Nairobi where he founded the first Healthcare Management MBA program on the African continent, as well as founding the African Institute for Healthcare Management, an organization focused on developing faculty and teaching materials to advance health services. He is currently developing a School of Global Public Health at Strathmore University.<br><br>His board memberships include the Center for Medicine in the Public Interest and BioEthics International. He is a member of the Advisory Panel at the Abraaj Africa Health Fund and numerous companies in the United States and India. He is also Senior Advisor to the Excelsior Group in Nairobi, a health care consultancy.<br><br>In his private sector life, Steve has founded, managed or financed over 40 companies in life sciences and IT globally.  He currently advises several venture capital and global private equity funds. He was a Venture Partner at Burrill & Company until 2008. He consults for the IFC/World Bank on PE/VC and technology transfer. Earlier he was VP, SR One, the venture capital arm of GSK, and VP for Development and Private Equity at Teleflex Incorporated. He has also been Managing Director of Technology Transfer at the University of Pennsylvania and Thomas Jefferson University. He began his career as co-founder and CEO of the Philadelphia transplant organ bank.<br><br>He holds graduate and undergraduate degrees from Villanova and an MBA from Wharton and is a Doctoral Candidate at the Fox School of Business at Temple University."
+  panelist: true
+-
+  id: 38
+  name: "George"
+  surname: "Ombima"
+  company: "IFC Asset Management Company"
+  title: "Fund Head, Africa Capitalization Fund"
+  thumbnailUrl: speakers/Ombima.png
+  bio: "Before joining the AMC in 2009, George was an IFC Principal Investment Officer covering financial institutions, industrials and infrastructure in Africa, Asia, Latin America, the Caribbean, and the former Soviet Union. Earlier, he held senior corporate finance positions with the East African affiliates of Hoechst AG, Williams Holdings plc, and UB Group, focusing on corporate acquisitions and divestitures.<br><br>George holds a BEd from the University of Nairobi, a CPA from Strathmore University, and an MBA (Thomas Jefferson Fellow) from the Wharton School, University of Pennsylvania."
+  panelist: true
+-
+  id: 39
+  name: "Binyah"
+  surname: "Kesselly"
+  company: "Johnson and Johnson Supply Chain"
+  title: "Senior Director and Strategic Program Lead - Emerging Markets"
+  thumbnailUrl: speakers/Binyah.jpg
+  bio: "Binyah Kesselly is a senior business strategist with over 25 years’ experience in multiple sectors, including maritime, aviation, pharmaceutical, biotechnology, management consulting, national security, and healthcare. He is passionate about post-conflict rebuilding and the role of public-private partnerships.<br><br>Mr. Kesselly currently serves as Senior Director and Strategic Program Lead, Emerging Markets at the Johnson & Johnson (J&J) Supply Chain Organization. In this cross-functional role, he provides strategic guidance to complex and transformative ideas that shape the way J&J Supply Chain Organization does business and engages its customers and external partners within Emerging Markets.<br><br>Prior to his current position, Mr. Kesselly served as the Commissioner/CEO of the Liberia Maritime Authority for eight years. In this role, he was responsible for transforming and ensuring the sustainable growth of the world’s second largest maritime program. During his tenure of service with the Liberian Government, Mr. Kesselly also held several concomitant senior leadership positions at various times, including Chairman of the Board of Directors of the Liberian Seaport Authority, and Chairman of the Liberian Airport Authority (LAA). While serving as LAA Chairman, Mr. Kesselly led the stabilization efforts of Liberia’s aviation sector during the ebola crisis.<br><br>Before joining the Liberian Government, Mr. Kesselly worked at J&J, where he held several leadership positions of increasing responsibility at multiple J&J affiliates. Prior to joining J&J, Mr. Kesselly was a Senior Consultant with PricewaterhouseCoopers LLC.<br><br>Mr. Kesselly is a Six Sigma Certified Process Improvement Expert, and holds a Bachelor’s of Science (B.Sc.) in Biology from Cuttington University in Liberia, a Master’s in Public Administration (MPA) and a Master’s in Business Administration (MBA) from Suffolk University in Boston, Massachusetts, and Advanced Executive Certificates from Harvard University in Cambridge, Massachusetts and Northwestern University in Evanston, Illinois. At present, he is nearing the completion of a Master’s of Law (LLM) in International Commercial Law and Practice from the University of Edinburgh in Scotland, in the United Kingdom."
+  panelist: true
+-
+  id: 40
+  name: "John"
+  surname: "Nevergole"
+  company: "ABD Group"
+  title: "Chief Executive Officer"
+  thumbnailUrl: speakers/Nevergole.jpg
+  bio: "John Nevergole is co-founder and CEO of the ABD Group. John has lead investments and projects in countries in every region of Africa and has been involved in over $2 billion USDs of investment across the continent. Outside of Africa John has advised on transactions in Colombia, Brazil and the United Sates. In these various capacities he has partnered with and advised leaders of Fortune 500 firms, government leaders, and investors in sectors including aviation, agriculture, energy/infrastructure, healthcare, mining, and telecommunications. John is a Senior Advisor to Rosemont Seneca Advisors.<br><br>Previously John was the founder of Team One Parking, a parking company with activities in Philadelphia and was the accountant for the Southeastern United States in ARAMARK’s Healthcare Division. John has a BS from the University of Maryland and a MBA from Babson College. Additionally, John is a founding board member of SOS du Coeur."
+  panelist: true
+-
+  id: 41
+  name: "Timi"
+  surname: "Soleye"
+  company: "Raven Energy & CRYO Gas"
+  title: "Director of Power & Gas Projects"
+  thumbnailUrl: speakers/Soleye.jpg
+  bio: "Timi Soleye is the Director Power Projects at Raven Energy and President and Co-founder of CRYO Gas & Power. He founded CRYO Gas in 2013 and has led it through several fundraising rounds and its strategic partnership and acquisition by Raven, a EMEA focused energy company based in Dubai. He has also published pieces on Nigerian electricity in the Huffington Post and on the Financial Times' beyondbrics, as well as numerous pieces on energy and economics in the Nigerian press.<br><br>Timi grew up in Nigeria and England. He and holds a Bachelor's degree in History from Harvard University. Timi lives and works in Lagos, Nigeria."
+  panelist: true
+-
+  id: 42
+  name: "Elias"
+  surname: "Berger"
+  company: "Africa Matters Limited"
+  title: "Senior Consultant"
+  thumbnailUrl: speakers/Berger.jpg
+  bio: "Eli Berger is a Senior Consultant at Africa Matters Limited (AML), an African risk advisory firm, where he is responsible for both the Anglophone West Africa practice and building out the firm’s US operation. Based in New York, Eli joined AML from Kroll, where he conducted pre-transactional due diligence investigations for many of the largest US corporate clients. Prior to Kroll, Eli worked for a boutique Nigeria-focused private equity firm in New York, where he was responsible for sourcing and analyzing investment opportunities in Nigeria’s real estate, hospitality, telecommunications and financial services sectors, as well as managing regulatory compliance and marketing for the firm’s portfolio companies, all Lagos-based start-ups. Eli holds an MSc in Development Management from the London School of Economics, as well as a Bachelor of Arts in Near and Middle Eastern Studies from Harvard University."
+  panelist: true
+-
+  id: 43
+  name: "Efayomi"
+  surname: "Carr"
+  company: "Quona Capital"
+  title: "Associate"
+  thumbnailUrl: speakers/Carr.jpg
+  bio: "Efayomi is an Associate with Quona Capital, supporting Quona’s investment activities and portfolio strategy in Africa.<br><br>Prior to joining Quona, he worked with 8 Miles, a London-based private equity firm that makes investments in Africa. Before this, Efayomi worked with the Sierra Leonean government during the Ebola response as the Head of the Information Management and Analysis team. He also has worked as the Head of Marketplace at Jumia Nigeria where he managed the company’s second biggest sales segment, and as a Consultant with the Boston Consulting Group where he focused primarily on financial services. Efayomi holds a BA in Philosophy, Politics, and Economics from the University of Pennsylvania and an MBA from Harvard Business School."
+  panelist: true
+-
+  id: 44
+  name: "Patrick"
+  surname: "Dupoux"
+  company: "Boston Consulting Group"
+  title: "Senior Partner & Managing Director, Casablanca"
+  thumbnailUrl: speakers/Dupoux.jpg
+  bio: "Patrick Dupoux leads BCG Africa operations. He also leads the firm’s globalization topic in BCG’s Western Europe, South America, and Africa region. He founded and is the current Chairman of the Casablanca office. Patrick joined BCG in 2001 and has supported many African and multinational companies in Africa across a range of industries, including industrial goods, consumer goods, energy, and agriculture. He authored several BCG's reports on the Africa Region, “The African Challengers” in 2010, “Winning in Africa” in 2013, “Dueling with Lions” in 2015 and “Why Africa remains ripe for Private Equity” in 2016. He continues to lead research on the emergence of Africa and the ways in which companies can succeed in the context of Africa’s broader plans for expansion.  He holds a master in civil engineering from the Ecole Nationale des Ponts et Chaussées (1996) in France and a MBA from INSEAD (2000)."
+  keynote: true
+-
+  id: 45
+  name: "Osagie"
+  surname: "Imasogie"
+  company: "PIPV Capital"
+  title: "Senior Managing Partner"
+  thumbnailUrl: speakers/Imasogie.jpg
+  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
+  panelist: true
+-
+  id: 46
+  name: "Runtown"
+  surname: " "
+  company: "<br>"
+  title: "<br>"
+  thumbnailUrl: speakers/runtown.jpg
+  bio: ""
+  entertainment: true
+-
+  id: 47
+  name: "Chukwuemeka"
+  surname: "Bosah"
+  company: "<br>"
+  title: "<br>"
+#  thumbnailUrl: speakers/Imasogie.jpg
+#  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
+  panelist: true
+-
+  id: 48
+  name: "Data"
+  surname: "Oruwari"
+  company: "<br>"
+  title: "Fine Artist and Creative Strategist"
+  thumbnailUrl: speakers/Oruwari.jpg
+#  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
+  panelist: true
+-
+  id: 49
+  name: "Nkechi"
+  surname: "Abii"
+  company: "<br>"
+  title: "Fine Artist"
+  thumbnailUrl: speakers/Abii.jpg
+#  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
+  panelist: true
+-
+  id: 52
+  name: "Paul"
+  surname: "Trustfull"
+  company: "Forbes Afrique"
+  title: "Founding Editor"
+  thumbnailUrl: speakers/Trustfull.jpg
+  bio: "Paul Trustfull’s many roles with Forbes Media include serving as the founding editor of Forbes Afrique, the French edition of Forbes that is distributed in 23 francophone countries in Africa and founding writer of Forbes’s Emerging Markets custom content category. He has fostered important international business relationships with CEOs and heads of states that have proven invaluable in developing new business––specifically the African business sector––for Forbes magazine. He has travelled extensively to meet and interview some of the world’s most intriguing leaders such as the late Nelson Mandela, Secretary of State Hillary Clinton, President Lula da Silva of Brazil, Prime Minister Matata Ponyo Mapon, of the Democratic Republic of the Congo and Lamido Sanusi, former Nigerian Central Bank Governor. Paul has also interviewed and featured personalities in the entertainment industry including Quincy Jones and Harry Belafonte."
+  moderator: true
+-
+  id: 53
+  name: "Patrice"
+  surname: "Backer"
+  company: "AFIG Funds"
+  title: "Partner and Chief Investment Officer"
+  thumbnailUrl: speakers/Backer.jpg
+  bio: "Patrice Backer is a Partner and Chief Investment Officer of AFIG Funds, a growth equity fund manager based in Dakar, Senegal. He is responsible for managing all aspects of the investment process including deal sourcing and execution, pipeline evaluation, portfolio monitoring and portfolio company engagement. Mr. Backer has more than 12 years of PE experience in sub-Saharan Africa.<br><br>Prior to AFIG Funds, Mr. Backer led PromoCapital Haiti S.A., a transnational investment firm with offices in Haiti and the U.S and provided financial advisory and management consulting services to clients that included financial institutions and transportation companies. Mr. Backer started his career at JP Morgan in the Latin America Mergers & Acquisitions Group before joining Morgan’s Emerging Markets Derivatives team and concurrently managing its Emerging Markets Finance Desk.<br><br>Mr. Backer is a graduate of the University of Pennsylvania, where he obtained a joint MBA from the Wharton School and an MA from the School of Arts and Sciences. He is a Fellow of the Lauder Institute Global MBA program. Mr. Backer graduated from Harvard College with a Bachelor’s degree in Engineering Sciences."
+  panelist: true
+-
+  id: 55
+  name: "Barbara"
+  surname: "Span"
+  company: "Western Union"
+  title: "Vice President, Global Public Affairs"
+  thumbnailUrl: speakers/Span.jpeg
+  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+  panelist: true
+-
+  id: 56
+  name: "Jessica"
+  surname: "Guerrero"
+  company: "The Wharton School"
+  title: "Senior Associate Director for Diversity"
+#  thumbnailUrl: speakers/Span.jpeg
+#  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+  panelist: true
+-
+  id: 57
+  name: "Yomi"
+  surname: "Adedeji"
+  company: "<br>"
+  title: "<br>"
+  thumbnailUrl: speakers/Adedeji.jpg
+#  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+  panelist: true
+-
+  id: 58
+  name: "Jumoke"
+  surname: "Dada"
+  company: "Signature RED & Tech Women Network"
+  title: "Tech Consultant and Social Entrepreneur"
+  thumbnailUrl: speakers/Dada.jpg
+  bio: "Jumoke K. Dada is a Nigerian-American visionary and techie whose sweet spot lives at the intersection of innovation, entrepreneurship, goodwill and girl power. As the principal of Signature RED, she offers tech consulting services and provides tools and resources to women interested in advancing their careers in technology. Dada is known for her ideation ability and innovative approach to assessing and solving problems. In addition to working in corporate I.T. roles, she also has experience with marketing and event planning. In March of 2017, she combined utilized her skills to launch the TechWomenNetwork.com, a searchable, online platform for tech-savvy women. Dada also has a track record for advocating for the education and advancement of girls. Through her Project ALOE program, every summer she ensures that high school graduates receive toiletries and advice before starting their freshmen year of college. She is becoming a strong voice for women technologists and entrepreneurs. Over the years she has spoken at global and local conferences including Social Media Week Lagos and the Pennsylvania Conference for Women. In January 2017, she had the honor of giving the keynote speech for kickoff of the First Robotics Competition at Columbia University in New York. Dada has received press coverage for her work and currently contributes diversity in tech articles to Women@FORBES. She holds a B.S. in Computer and Information Sciences in addition to real estate sales and SCRUM certifications. She is currently focused on the development and expansion of the Tech Women Network. Learn more at dadaverse.org or follow her at @jumokedada on Twitter."
+  panelist: true
