@@ -15,7 +15,7 @@ provide interesting technical or social-aspect talks and workshops,
 highlighting their experiences.
 
 Your _talk_ needs to be in **English** and you will have a time slot of
-**30 minutes** followed by 5 to 10 minutes question and answer session after
+**30 minutes**. There will be no Q&A session.
 the talk.<br>
 Your _workshop_ needs to be in **English** and you will have a time slot of
 **60, 90 or 120 minutes.**
@@ -36,7 +36,7 @@ and a draft outline of your talk.
 
 <a role="button" class="btn btn-info" href="https://cfp.gdg-vienna.at/">Call for Papers</a>
 
-Please send in your proposal until *30 November 2016*.
+Please send in your proposal until *24 December 2017*.
 All proposals will be carefully reviewed by the Women Techmakers team and
 you will be contacted if selected for our event.
 
