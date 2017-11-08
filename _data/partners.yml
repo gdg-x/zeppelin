@@ -23,7 +23,7 @@
   group: "Event Partners"
   elements:
     - {name: "Oxford Business Group", description: "Oxford Business Group", link: "http://www.oxfordbusinessgroup.com/", imageUrl: "oxford.png", width: "125px"}
-#    - {name: "Lauder Institute", description: "Lauder Institute", link: "https://lauder.wharton.upenn.edu/", imageUrl: "lauder.jpg", width: "125px"}
+    - {name: "Lauder Institute", description: "Lauder Institute", link: "https://lauder.wharton.upenn.edu/", imageUrl: "Lauder.png", width: "200px"}
 #-
 #  group: "Media Partners"
 #  elements:

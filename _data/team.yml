@@ -305,3 +305,12 @@
   orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/kwesisey/"}
+-
+  id: 41
+  name: "Aile"
+  surname: "Momoh"
+  title: "Director, Technology"
+  thumbnailUrl: team/Momoh.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aile-momoh-0329b51a/"}

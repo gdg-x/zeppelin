@@ -6,21 +6,16 @@
 -
   id: 301
   title: "Wharton MBA and Lauder Admissions Session & Student Panel"
-  place: "Commonwealth AB (2nd Floor)"
+  place: "Commonwealth Ballroom"
   service: true
   speakers: [56]
 -
   id: 302
   title: "Venture Competition"
-  place: "Commonwealth AB (2nd Floor)"
+  place: "Commonwealth Ballroom"
   #service: true
   speakers: [50, 51, 15, 13, 10]
   description: "Companies pitching: ScholarX, Loystar, MWAYI, Redbird Health Tech, MDaaS, Bright Future, Accounteer, OZE, Solar Freeze, SolarLuv"
--
-  id: 303
-  title: "Keynote Panel"
-  place: "Commonwealth Ballroom"
-  service: true
 -
   id: 304
   title: "VIP Cocktail Reception"
@@ -44,14 +39,10 @@
   service: true
 -
   id: 401
-  title: "Welcome Address"
-  place: "Millennium (2nd Floor)"
-  service: true
--
-  id: 402
-  title: "Breakfast Keynote Panel"
+  title: "Welcome Address & Breakfast Keynote Panel"
   place: "Millennium Ballroom"
-  service: true
+  #service: true
+  speakers: [52, 4, 44]
 -
   id: 403
   title: "Grand Panel: Energy"
@@ -66,7 +57,7 @@
   id: 406
   title: "Grand Panel: Women in Business"
   place: "Lescaze"
-  speakers: [29, 31, 58]
+  speakers: [29, 31, 58, 59]
 -
   id: 407
   title: "Fireside Chat: Consumer Goods"
@@ -85,7 +76,7 @@
 -
   id: 408
   title: "Lunch Keynote Panel"
-  place: "Millennium (2nd Floor)"
+  place: "Millennium Ballroom (2nd Floor)"
   service: true
 -
   id: 409
@@ -119,7 +110,7 @@
   speakers: [10, 43]
 -
   id: 422
-  title: "Masterclass: How I Built This | My Technopreneurship Journey"
+  title: "Masterclass: How I Built This | My Techpreneurship Journey"
   place: "TBD"
   speakers: [57]
 -
@@ -135,18 +126,16 @@
 -
   id: 414
   title: "McKinsey State of the Continent Session"
-  place: "Millenium (2nd Floor)"
+  place: "Millenium Ballroom (2nd Floor)"
+  speakers: [25]
 -
   id: 421
   title: "BCG State of the Continent Session"
-  place: "Millenium (2nd Floor)"
--
-  id: 415
-  title: "Panel"
-  place: "TBD"
+  place: "Millenium Ballroom (2nd Floor)"
+  speakers: [44]
 -
   id: 416
-  title: "Pre-Gala Cocktail Reception"
+  title: "Pre-Gala Reception"
   place: "Regency Foyer"
   service: true
 -
@@ -156,13 +145,14 @@
 -
   id: 418
   title: "Career Fair"
-  place: "Millennium Ballroom"
+  place: "Marriott Hotel (Ballroom H)"
   service: true
 -
   id: 419
-  title: "Gala & Awards Ceremony with Dinner Keynote"
-  place: "Regency Ballroom"
-  service: true
+  title: "Gala & Evening Keynote"
+  place: "Regency Ballroom (2nd Floor)"
+  #service: true
+  speakers: [3]
 -
   id: 420
   title: "After-Party"
@@ -189,63 +179,3 @@
   id: 600
   title: "Media Interviews"
   place: "TBD"
-
-#-
-#  id: 307
-#  title: "Coffee Break"
-#  place: "Hall"
-#  service: true
-#  description: "The best time to talk with speakers and attendees"
-#-
-#  id: 503
-#  title: "Lunch Break"
-#  place: "Dining room"
-#  service: true
-#-
-#  id: 001
-#  title: "Material design: Visual style and imagery"
-#  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-#  subtype: workshop
-#  speakers: [3, 6]
-#  language: en
-#  complexity: "Intermediate"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-#  id: 002
-#  title: "Building Cloud-powered wearable Apps"
-#  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-#  subtype: presentation
-#  speakers: [4, 5]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-#-
-#  id: 003
-#  title: "Android L Animation"
-#  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-#  subtype: presentation
-#  speakers: [4]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#-
-#  id: 004
-#  title: "Polymer: Interacting with Google Services using nothing but HTML"
-#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#  subtype: keynote
-#  speakers: [6]
-#  language: uk
-#  complexity: "Beginner"
-#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-#-
-#  id: 005
-#  title: "Test: Interacting with Google Services using nothing but HTML"
-#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#  subtype: keynote
-#  speakers: [7]
-#  language: en
-#  complexity: "Expert"
-#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
