@@ -31,13 +31,13 @@
             </div>
             {% endif %} {% endfor %}
         </div>
+        {% comment %}
         <div class="col-lg-10 col-lg-offset-1 text-center members">
           <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Team Supporters</h4>
           {% for teamMember in site.data.team %} {% if teamMember.team != true %}
           <p>{{ teamMember.name }} {{ teamMember.surname }}</p>
           {% endif %} {% endfor %}
         </div>
-        {% comment %}
         <div class="col-lg-10 col-lg-offset-1 text-center members">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program committee</h4>
             {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
