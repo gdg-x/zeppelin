@@ -55,8 +55,8 @@ bottomNavigationLinks:
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
 # - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
 # - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
- - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
- - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
+# - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
+# - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/NgColombia/", text: "ngGirls @ NgColombia"}
  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
 # - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
@@ -86,8 +86,8 @@ heroButtons:
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
 # - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
 # - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
- - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
- - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
+# - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
+# - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/NgColombia/", text: "ngGirls @ NgColombia"}
  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
 # - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
