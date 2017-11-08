@@ -2,17 +2,3 @@
   group: "Main organizer"
   elements: 
     - {name: "GDG Vienna", description: "GDG Vienna - Open and volunteer geek community", link: "http://www.gdg-vienna.at", imageUrl: "gdg-vienna.png", width: "240px"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "JSUG Vienna", description: "JSUG Vienna - Java (Student) User Group", link: "http://jsug.at", imageUrl: "jsug.png", width: "120px"}
--
-  group: "Partners"
-  elements:
-    - {name: "Girls n' Code", description: "Girls n' Code", link: "http://girlsncode.com/", imageUrl: "girls-n-code.jpg", width: "120px"}
-    - {name: "Spielend Programmieren", description: "Spielend Programmieren", link: "http://spielend-programmieren.at/", imageUrl: "spielend-programmieren.png"}
-    - {name: "Logiscool", description: "Logiscool", link: "http://www.logiscool.at/", imageUrl: "logiscool-logo.jpg", width: "180px"}
-    - {name: "Dreamicode", description: "Dreamicode", link: "http://dreamicode.com/", imageUrl: "dreamicode-logo.png", width: "180px"}
-    - {name: "Frauenreferat der HTU Wien", description: "Frauenreferat der HTU Wien", link: "https://htu.at/Frauen", imageUrl: "htu-frauenreferat.png"}
-    - {name: "Innovation Incubation Center", description: "Innovation Incubation Center", link: "https://i2c.ec.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "280px"}
-    - {name: "TU Wien - Faculty for Informatics", description: "TU Wien - Faculty for Informatics", link: "http://www.informatik.tuwien.ac.at/", imageUrl: "informatics-logo.png", width: "280px"}

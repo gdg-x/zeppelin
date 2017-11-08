@@ -43,10 +43,10 @@ c4sponsorsUrl: "/sponsors"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/call/", text: "Call for Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/call/", text: "Call for Speakers"}
+ # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
@@ -54,22 +54,22 @@ navigationLinks:
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  # - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
- # - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/call/", text: "Call for Speakers"}
 rightNavigationButtons:
  # - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
- # - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/call/", text: "Call for Speakers"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Vienna"
-heroSubtitle: "Telling Our Story - 11 March 2017"
-eventDate: "11 March 2017"
-eventDateISO: "2017-03-11T09:30+01:00"
+heroSubtitle: "Telling Our Story - 10 March 2018"
+eventDate: "10 March 2018"
+eventDateISO: "2018-03-10T09:30+01:00"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
 # - {link: "https://wtm-vienna-2017.eventbrite.com", text: "Register Now"}
-# - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/call/", text: "Call for Speakers"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
@@ -127,7 +127,7 @@ venueFeatures: ["What to say", "about the location", "where it is"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "wtmvie17"
+twitterHashTag: "wtmvie18"
 twitterFeed: "/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
