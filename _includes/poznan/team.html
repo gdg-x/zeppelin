@@ -9,11 +9,11 @@
       {% assign animationDelay = 0 %}
       {% for member in site.data.poznan.team %}
       {% assign colWidth = 12 | divided_by: forloop.length %}
-      {% assign memberImage = site.baseurl | append: '/img/people/' | append: member.thumbnailUrl %}
+      {% assign memberImage = site.baseurl | append: '/img/poznan-team/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
            data-delay="{{ animationDelay }}">
-        <div class="lily-head" data-toggle="modal" data-target="#teamMemberDetail-{{ member.id }}">
+        <div class="lily-head" data-toggle="modal" data-target="#teamPoznanMemberDetail-{{ member.id }}">
           <div class="rockstar-speaker">
             <div class="flow-img img-circle rockstar-speaker-img"
                  style="background-image: url({{ memberImage }})"></div>
