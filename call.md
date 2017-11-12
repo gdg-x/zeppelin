@@ -16,7 +16,7 @@ highlighting their experiences.
 
 Your _talk_ needs to be in **English** and you will have a time slot of
 **30 minutes**. There will be no Q&A session.
-the talk.<br>
+
 Your _workshop_ needs to be in **English** and you will have a time slot of
 **60, 90 or 120 minutes.**
 
