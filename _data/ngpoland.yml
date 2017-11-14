@@ -14,6 +14,11 @@ partners:
    group: "With support of"
    elements:
      - {name: "ngPoland", description: "ngPoland 2018", link: "http://ng-poland.pl/", imageUrl: "ng-poland-logo.svg"}
+     - {name: "7N Warsaw", description: "7N - Agent for High-End IT Professionals", link: "https://www.7n.com/", imageUrl: "7NWarsaw.jpeg", width: "initial"}
+-
+   group: "Community partners"
+   elements:
+     - {name: "Będę Programistką", description: "będę programistką blog", link: "http://BedeProgramistka.pl", imageUrl: "BedeProgramistka.png"}
 #     - {name: "Angular Nights", description: "Angular Nights meetup group - learn Angular by coding", link: "http://www.meetup.com/Angular-Nights/", imageUrl: "ngNights.png"}
 #     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
 
