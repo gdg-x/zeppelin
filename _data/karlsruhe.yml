@@ -1,6 +1,6 @@
 eventDate: "December, 9th, 2017, Karlsruhe<br /> <small style='font-size:60%'> Duale Hochschule Karlsruhe (Erzbergerstraße 121, 76133 Karlsruhe)</small>"
-applicationForm: ""
-mentorsForm: "#"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfptdPFXXX-u_LKkPXj3UwPxSdoyG8vTNs3fqn19AXZlb7PmA/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSe2I0Jbz89HYg_6zIODy-0TpzpPfKZBSq3r4wrhUQ7dmQU2QA/viewform"
 jsunconfSite: "#"
 descriptionTitle: "ngGirls @ DevFest Karlsruhe"
 descriptionBlock:
@@ -15,7 +15,9 @@ partners:
 -
    group: "With support of"
    elements:
-#     - {name: "Reservix", description: "Reservix GmbH", link: "https://www.reservix.de", imageUrl: "reservix.png"}
+     - {name: "DHBW", description: "Duale Hochschule Baden-Württemberg", link: "https://www.karlsruhe.dhbw.de/startseite.html", imageUrl: "dhbw-karlsruhe.png"}
+     - {name: "GDGKarlsruhe", description: "Google Developer Group Karlsruhe", link: "https://www.meetup.com/de-DE/GDG-Karlsruhe/", imageUrl: "gdg-karlsruhe.png"}
+     - {name: "WomanTechmakers", description: "Woman Techmakers", link: "https://www.womentechmakers.com/", imageUrl: "woman-techmakers.png"}
 
 
 mentors:
