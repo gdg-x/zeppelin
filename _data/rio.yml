@@ -1,0 +1,16 @@
+eventDate: "January 13th, 2018, Rio de Janeiro, Brazil"
+applicationForm: "https://goo.gl/forms/yIb9g7jS3eRyABSQ2"
+mentorsForm: "https://goo.gl/forms/45M8PjGu98avEMTy2"
+descriptionTitle: "ngGirls @ Rio"
+descriptionBlock:
+ - {title: "Who is it for?", template: "rio/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "rio/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Angular Rio", description: "Angular meetup group in Rio", link: "http://ng-atl.org/", imageUrl: "ngAtl-logo.svg"}
+
