@@ -79,7 +79,7 @@ heroTitle: "ngGirls"
 upcomingEvents:
 # - {permalink: "/freiburg/", date: "November 2nd, 2017", location: "Freiburg", name: "ngGirls @ Freiburg"}
 # - {permalink: "/angular-connect/", date: "November 6th, 2017", location: "London", name: "ngGirls @ AngularConnect"}
- - {permalink: "/NgColombia/", date: "November 11th, 2017", location: "Medellín", name: "ngGirls @ NgColombia"}
+# - {permalink: "/NgColombia/", date: "November 11th, 2017", location: "Medellín", name: "ngGirls @ NgColombia"}
  - {permalink: "/ngPoland/", date: "November 19th, 2017", location: "Warsaw", name: "ngGirls @ ngPoland"}
  - {permalink: "/poznan/", date: "December 9th, 2017", location: "Poznań", name: "ngGirls @ Poznań"}
  - {permalink: "/karlsruhe/", date: "December 9th, 2017", location: "Karlsruhe", name: "ngGirls @ DevFest Karlsruhe"}
@@ -94,7 +94,7 @@ heroButtons:
 # - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
 # - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
 # - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
- - {permalink: "/NgColombia/", text: "ngGirls @ NgColombia"}
+# - {permalink: "/NgColombia/", text: "ngGirls @ NgColombia"}
  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
  - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
  - {permalink: "/karlsruhe/", text: "ngGirls @ DevFest Karlsruhe"}
