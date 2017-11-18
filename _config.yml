@@ -2,6 +2,8 @@
 gems:
 - jekyll-sitemap
 safe: false
+plugins_dir:
+  - jekyll-redirect-from
 
 # Build Settings
 markdown: kramdown
