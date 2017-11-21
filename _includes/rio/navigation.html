@@ -1,0 +1,19 @@
+<header id="top-header" class="top-header">
+    <div class="overlay white-solid"></div>
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
+        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
+    </svg>
+    <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
+        <div class="logo logo-light"></div>
+    </a>
+    <nav class="st-menu st-effect" id="menu">
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
+        <ul>
+            {% for site.data.rio.navigationLink in site.data.rio.navigationLinks %}
+            <li>
+                <a class="{% if site.data.rio.navigationLink.permalink != null and site.data.rio.page.permalink == site.data.rio.navigationLink.permalink %}current{% endif %}"  href="{% if site.data.rio.navigationLink.permalink != null %} {{ site.data.rio.navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ site.data.rio.navigationLink.link }} {% endif %}" {% if site.data.rio.navigationLink.link != null %}target="_blank"{% endif %}>{{ site.data.rio.navigationLink.text}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
