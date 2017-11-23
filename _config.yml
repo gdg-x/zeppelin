@@ -63,7 +63,7 @@ bottomNavigationLinks:
  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
  - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
  - {permalink: "/karlsruhe/", text: "ngGirls @ DevFest Karlsruhe"}
- - {permalink: "/Rio/", text: "ngGirls @ Rio"}
+ - {permalink: "/rio/", text: "ngGirls @ Rio"}
  - {permalink: "/ngAtl/", text: "ngGirls @ ngAtl"}
  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
@@ -85,7 +85,7 @@ upcomingEvents:
  - {permalink: "/ngPoland/", date: "November 19th, 2017", location: "Warsaw", name: "ngGirls @ ngPoland"}
  - {permalink: "/poznan/", date: "December 9th, 2017", location: "Poznań", name: "ngGirls @ Poznań"}
  - {permalink: "/karlsruhe/", date: "December 9th, 2017", location: "Karlsruhe", name: "ngGirls @ DevFest Karlsruhe"}
- - {permalink: "/Rio/", date: "January 13th, 2018", location: "Rio de Janeiro", name: "ngGirls @ Rio"}
+ - {permalink: "/rio/", date: "January 13th, 2018", location: "Rio de Janeiro", name: "ngGirls @ Rio"}
  - {permalink: "/ngAtl/", date: "January 30th, 2018", location: "Atlanta, GA", name: "ngGirls @ ngAtl"}
  - {permalink: "/ng-europe/", date: "February 3rd, 2018", location: "Paris", name: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", date: "February 28th, 2018", location: "Helsinki", name: "ngGirls @ ngVikings"}
@@ -100,7 +100,7 @@ heroButtons:
  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
  - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
  - {permalink: "/karlsruhe/", text: "ngGirls @ DevFest Karlsruhe"}
- - {permalink: "/Rio/", text: "ngGirls @ Rio"}
+ - {permalink: "/rio/", text: "ngGirls @ Rio"}
  - {permalink: "/ngAtl/", text: "ngGirls @ ngAtl"}
  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
