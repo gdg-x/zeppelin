@@ -1,10 +1,10 @@
-<!-- Begin Partners Section -->
+﻿<!-- Begin Partners Section -->
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.partnersTitle }}</h3>
+            <h3>{{ site.data.rio.partnersTitle }}</h3>
             {% for partner in site.data.rio.partners %}
-            <h5>{{ partner.group }}</h5>
+            <h6>{{ partner.group }}</h6>
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
@@ -20,7 +20,7 @@
 
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}"
                target="_blank"
-               class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+               class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.rio.partnersC4sponsorsButton }}</a>
         </div>
     </div> 
 </section>

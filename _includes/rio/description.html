@@ -1,23 +1,22 @@
 <!-- Begin Description Section -->
-<section id="description" class="latest-news">
-	<div class="content-wrapper">
-		<div class="col-lg-10 col-lg-offset-1">
-			<h3>{{ site.data.rio.descriptionTitle }}</h3>
-            <p>We believe that the IT industry will greatly benefit from bringing more women into technology.<br />
-    We want to give you an opportunity to learn how to program and become a programmer.
-  </p>
-  <p>We offer a free one-day workshop in Rio de Janeiro.</p>
-  <hr>
-			<article class="row">
-				{% for post in site.data.rio.descriptionBlock limit:4 %}
-          {% assign postUrl = site.baseurl | append: post.link %}
-					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
-						<h6>{{ post.title }}</h6>
-						{% include {{ post.template }} %}
-					</div>
-        {% endfor %}
-			</article>
-		</div>
-	</div>
+<section id="description" class="latest-news rio_about_event">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.data.rio.descriptionTitle }}</h3>
+
+            <p>Nós acreditamos que o mercado de TI irá se beneficiar muito ao trazer mais mulheres para a área de tecnologia.</p>
+            <p>Por conta disso e também em acreditar na diversidade e na igualdade de gênero, estamos oferecendo <br> uma oportunidade para as mulheres aprenderem a programar e se tornarem programadoras.</p>
+            <p>O ngGirls é uma oficina gratuita que tem o objetivo de ensinar mulheres a programar em Angular.</p>
+            <hr>
+            <article class="row">
+                {% for post in site.data.rio.descriptionBlock limit:4 %} {% assign postUrl = site.baseurl | append: post.link %}
+                <div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+                    <h6>{{ post.title }}</h6>
+                    {% include {{ post.template }} %}
+                </div>
+                {% endfor %}
+            </article>
+        </div>
+    </div>
 </section>
 <!-- End Description Section -->
