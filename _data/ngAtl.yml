@@ -13,4 +13,5 @@ partners:
    group: "With support of"
    elements:
      - {name: "ngAtl", description: "ngAtl 2018 - Angular conference in Atlanta", link: "http://ng-atl.org/", imageUrl: "ngAtl-logo.svg"}
+     - {name: "Valor Software", description: "Valor Software", link: "http://valor-software.com/", imageUrl: "valor.jpg"}
 
