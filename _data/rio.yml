@@ -1,50 +1,13 @@
-# Navigation
-navigationLinks:
- - {permalink: "/#home", text: "Home"}
- - {permalink: "/#about", text: "Sobre"}
- - {permalink: "/#description", text: "Participe"}
- - {permalink: "/#organizing-team", text: "Equipe"}
-# - {permalink: "/#location-map", text: "Location"}
- - {permalink: "/#partners", text: "Patrocinadores"}
- - {permalink: "/faq/", text: "Dúvidas"}
-
-
 eventDate: "13 de Janeiro de 2018, Rio de Janeiro, Brasil"
 applicationForm: "https://goo.gl/forms/yIb9g7jS3eRyABSQ2"
 mentorsForm: "https://goo.gl/forms/45M8PjGu98avEMTy2"
 
 descriptionTitle: "Sobre o ngGirls Rio"
 descriptionBlock:
- - {title: "Qual é o público alvo?", template: "rio/description-who-is-it-for.html", link: "/#faq", linkTitle: "Dúvidas"}
- - {title: "Como posso ajudar?", template: "rio/description-can-i-help.html", link: "/#help", linkTitle: "Contato"}
- - {title: "Programação do evento", template: "rio/description-schedule.html", link: "/#faq", linkTitle: "Dúvidas"}
+ - {title: "Qual é o público alvo?", template: "Rio/description-who-is-it-for.html", link: "Rio/#faq", linkTitle: "Dúvidas"}
+ - {title: "Como posso ajudar?", template: "Rio/description-can-i-help.html", link: "Rio/#help", linkTitle: "Contato"}
+ - {title: "Programação do evento", template: "Rio/description-schedule.html", link: "Rio/#faq", linkTitle: "Dúvidas"}
 
-mentors:
-
-- id: 1
-  name: "Erika"
-  surname: "Bueno"
-  bio: ""
-  # thumbnailUrl: 
-  rockstar: true
-  # social:
-  #   - {name: "", link: ""}
-
-# - id: 2
-#   name: ""
-#   surname: ""
-#   bio: ""
-#   thumbnailUrl: 
-#   rockstar: true
-#   social:
-#     - {name: "", link: ""}
-
-- id: 3
-  name: "E você?"
-  surname: ""
-  bio: '<p>Torne-se um treinador(a) do ngGirls! Para participar, <a href="https://goo.gl/forms/45M8PjGu98avEMTy2" target="_blank"> preencha este formulário</a>.</p>'
-  thumbnailUrl: you.png
-  rockstar: true
 
 partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Seja um patrocinador do evento"
@@ -52,5 +15,12 @@ partners:
 -
    group: "Agradecemos o apoio das seguintes empresas:"
    elements:
+     - {name: "Stone Pagamentos", description: "", link: "http://stone.com.br", imageUrl: "stone_logo.png"}
+     - {name: "Globo.com", description: "", link: "http://globo.com", imageUrl: "globocom_logo.png"}
+     - {name: "CI&T", description: "", link: "http://ciandt.com/br-pt", imageUrl: "ciet_logo.png"}
+     - {name: "C♂aelum", description: "", link: "http://caelum.com.br", imageUrl: "caelum_logo.png"}     
      - {name: "Stack Overflow", description: "Perguntas e respostas para programadores profissionais e entusiastas", link: "https://pt.stackoverflow.com/", imageUrl: "logo-soportuguese.png"}
      - {name: "Github", description: "O GitHub é um lugar onde as pessoas armazenam os seus projetos em repositórios", link: "http://github.com", imageUrl: "GitHub-Logo.png"}
+     - {name: "Movile", description: "", link: "http://movile.com.br", imageUrl: "movile_logo.png"}     
+     
+     
