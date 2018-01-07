@@ -4,9 +4,9 @@ mentorsForm: "https://goo.gl/forms/45M8PjGu98avEMTy2"
 
 descriptionTitle: "Sobre o ngGirls Rio"
 descriptionBlock:
- - {title: "Qual é o público alvo?", template: "Rio/description-who-is-it-for.html", link: "Rio/#faq", linkTitle: "Dúvidas"}
- - {title: "Como posso ajudar?", template: "Rio/description-can-i-help.html", link: "Rio/#help", linkTitle: "Contato"}
- - {title: "Programação do evento", template: "Rio/description-schedule.html", link: "Rio/#faq", linkTitle: "Dúvidas"}
+ - {title: "Qual é o público alvo?", template: "rio/description-who-is-it-for.html"}
+ - {title: "Como posso ajudar?", template: "rio/description-can-i-help.html"}
+ - {title: "Programação do evento", template: "rio/description-schedule.html"}
 
 locationTitle: "Como chegar"
 
