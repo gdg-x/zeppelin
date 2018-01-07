@@ -24,5 +24,8 @@
 <!-- End Hero Section -->
 
 <script>
-   $('.rio').find('nav ul').css('display', 'none');
+    var url = "http://127.0.0.1:4000/rio/";
+    if(location.href == url) { 
+        document.getElementById('menu').style.display = 'none';
+    }
 </script>
