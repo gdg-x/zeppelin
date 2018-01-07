@@ -8,6 +8,7 @@ descriptionBlock:
  - {title: "Como posso ajudar?", template: "Rio/description-can-i-help.html", link: "Rio/#help", linkTitle: "Contato"}
  - {title: "Programação do evento", template: "Rio/description-schedule.html", link: "Rio/#faq", linkTitle: "Dúvidas"}
 
+locationTitle: "Como chegar"
 
 partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Seja um patrocinador do evento"

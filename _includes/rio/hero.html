@@ -24,5 +24,9 @@
 <!-- End Hero Section -->
 
 <script>
-    $('#home').find('nav ul').css('display', 'none'); // sorry, but it's necessary
+    var local = "http://127.0.0.1:4000/rio/";
+    var url = "http://ng-girls.org/rio/";
+    if(location.href == url || location.href == local) { 
+        document.getElementById('menu').style.display = 'none';
+    }
 </script>
