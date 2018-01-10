@@ -68,16 +68,9 @@ Let's have fun :)</p>
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
-- id: 4
-  name: "Zahra"
-  surname: "Joulaei"
-  bio: "<p>i am keen to learn new things in web area and meet new people in this area </p>"
-  thumbnailUrl: zahra.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/bellamessa_s"}
 
-- id: 5
+
+- id: 4
   name: "Wassim"
   surname: "Chegham"
   bio: ""
@@ -86,7 +79,7 @@ Let's have fun :)</p>
   social:
     - {name: "twitter", link: "https://twitter.com/manekinekko"}
 
-- id: 6
+- id: 5
   name: "Jen"
   surname: "Looper"
   bio: "<p>I'm going to speak at ng-Europe; working on NativeScript, machine learning, and other web dev goodies :)</p>"
@@ -96,7 +89,7 @@ Let's have fun :)</p>
     - {name: "twitter", link: "https://twitter.com/jenlooper"}
 
 
-- id: 7
+- id: 6
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
