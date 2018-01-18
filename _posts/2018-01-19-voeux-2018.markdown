@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Voeux 2018"
+date:   2018-01-18 18:00:00
+isStaticPost: false
+image: voeux2018.png
+---
+#### Excellente année à tous !
+Toute l’équipe d'Agile Pays Basque se joint à moi pour vous souhaitez une belle et exaltante nouvelle année :
+Attention à votre santé, ne baissez pas les bras, ne succombez pas au côté obscure du travail, après tout, et si tous vos soucis n'était pas si grave finalement.
+Mettez du fun dans votre vie, abusez de la joie et profitez et à fond de vos proches.
+
+L'association va bientôt souffler sa 3ème bougie et on ne compte pas s'arrêter en si bon chemin. En plus du troisième opus d'Agile Pays Basque, nous préparons une série de meetup, notre objectif reste intacte, développer une communauté de pratique autour des valeurs de  l'agilité et des bonnes pratiques du développement logiciel.
+
+Notre rôle est d'accompagner, apporter un cadre bienveillant et faciliter les échanges, le reste dependra de votre implications et de ce que vous y apporterez.
+
+A bientôt, et rendez-vous en meetup ou les 21-22 septembre pour la conférence.
