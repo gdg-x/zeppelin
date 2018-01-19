@@ -4,6 +4,10 @@ title: Call for Speakers
 permalink: /call/
 isStaticPost: true
 ---
+
+# Our Call for Speakers has closed.
+## If you have submitted a talk, we will notify you of the result shortly.
+
 Women Techmakers Vienna is an event that envisions empowering women
 to pursue careers in the STEM fields; these encompass science, technology,
 engineering, and mathematics.
@@ -33,8 +37,6 @@ Your _workshop_ needs to be in **English** and you will have a time slot of
 
 In order to be selected, we require a short introduction about yourself
 and a draft outline of your talk.
-
-<a role="button" class="btn btn-info" href="https://cfp.gdg-vienna.at/">Call for Papers</a>
 
 Please send in your proposal until *24 December 2017*.
 All proposals will be carefully reviewed by the Women Techmakers team and
