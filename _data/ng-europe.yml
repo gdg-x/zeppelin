@@ -21,16 +21,15 @@ partners:
 mentors:
 
 - id: 1
-  name: "Ashnita"
-  surname: "Bali"
-  bio: "<p> I hope to meet and support girls in technology, to help make learning a fun and exciting experience and through mentoring continue my own learning. I love coding and am a fan of Angular and JavaScript. I am really excited about being part of ngGirls.
-  </p><p>
-I would like to help girls build their skills and confidence in becoming an IT professional.</p>
+  name: "Martina"
+  surname: "Kraus"
+  company: "&nbsp;"
+  bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
 "
-  thumbnailUrl: ashnita.jpg
+  thumbnailUrl: martina.png
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/ashnita01"}
+    - {name: "twitter", link: "https://twitter.com/wing121"}
 
 
 - id: 2
@@ -72,6 +71,25 @@ Let's have fun :)</p>
 
 
 - id: 4
+  name: "Wassim"
+  surname: "Chegham"
+  bio: ""
+  thumbnailUrl: wassim.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/manekinekko"}
+
+- id: 5
+  name: "Jen"
+  surname: "Looper"
+  bio: "<p>I'm going to speak at ng-Europe; working on NativeScript, machine learning, and other web dev goodies :)</p>"
+  thumbnailUrl: jen.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jenlooper"}
+
+
+- id: 6
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
