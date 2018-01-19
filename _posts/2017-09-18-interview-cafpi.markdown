@@ -9,7 +9,7 @@ image: cafpi-header.png
 
 **Pourriez-vous vous présenter et expliquer aux participants d'Agile pays Basque qui vous êtes et pourquoi vous soutenez la communauté Agile ?**
 
-Je suis responsable du pôle digital chez CAFPI, créateur et leader du courtage en crédit immobilier.
+Je suis Marc Pilette, responsable du pôle digital chez CAFPI, créateur et leader du courtage en crédit immobilier.
 Notre activité, située entre l'emprunteur et le prêteur, permet d'accompagner au quotidien des particuliers et entreprises dans le financement de leurs projets.
 Ce métier technique, ancré dans des environnement légaux, financiers et conjoncturels complexes, nécessite une agilité constante pour permettre de proposer la meilleure solution de financement à nos clients.
 
