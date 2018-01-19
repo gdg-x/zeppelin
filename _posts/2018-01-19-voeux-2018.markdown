@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Excellente année 2018 à tous !"
+date:   2018-01-18 18:00:00
+isStaticPost: false
+image: voeux-2018.jpg
+---
+![Batmeme](https://i.imgflip.com/22yoby.jpg)
+_Si vous n'aimez pas qu'on vous la souhaite bonne (cette nouvelle année), **sautez le paragraphe qui suit**_
+
+#### Voeux de l'équipe
+Toute l’équipe d'Agile Pays Basque se joint à moi pour vous souhaitez une belle et exaltante nouvelle année :
+Attention à votre santé, ne baissez pas les bras, ne succombez pas au côté obscure du travail, après tout, et si tous vos soucis n'était pas si grave finalement.
+Mettez du fun dans votre vie, abusez de la joie et surtout profitez à fond de vos proches.
+
+
+
+#### Meetups
+En plus de la conférence, nous préparons une série de meetup, avec pour ambition de développer une petite communauté de pratique autour des valeurs de l'agilité et des bonnes pratiques du monde développement logiciel.
+Notre objectif c'est surtout de passer de bons moments ensemble sur des sujets variés qui nous tiennent à coeur, et de cultiver une bienveillance partagée.
+
+[https://www.meetup.com/fr-FR/Agile-Pays-Basque](https://www.meetup.com/fr-FR/Agile-Pays-Basque)
+
+
+
+#### Sondage
+Pour commencer à se connaitre mieux, on a lancé un petit sondage, pour voir parmis les sujets qu'on envisage, lesquels vous "bottent" !
+
+[Votez ici](https://www.meetup.com/fr-FR/Agile-Pays-Basque/polls/1260931/)
+
+#### 21 et 22 septembre 2018 
+Les premiers préparatifs de la troisième édition de la conférence ont été entamés, mais vous pouvez d'ores et déjà bloquer ces dates : ce sera les 21-22 septembre 2018.
+Si vous voulez participer à son organisation ou simplement en discuter avec nous, venez nous voir au prochain meetup ;)
