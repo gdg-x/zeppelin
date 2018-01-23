@@ -5,11 +5,8 @@ date:   2018-01-18 18:00:00
 isStaticPost: false
 image: voeux-2018.jpg
 ---
-![Batmeme](https://i.imgflip.com/22yoby.jpg)
-_Si vous n'aimez pas qu'on vous la souhaite bonne (cette nouvelle année), **sautez le paragraphe qui suit**_
-
 #### Voeux de l'équipe
-Toute l’équipe d'Agile Pays Basque se joint à moi pour vous souhaitez une belle et exaltante nouvelle année :
+Toute l’équipe d'Agile Pays Basque vous souhaitez une belle et exaltante nouvelle année :
 Attention à votre santé, ne baissez pas les bras, ne succombez pas au côté obscure du travail, après tout, et si tous vos soucis n'était pas si grave finalement.
 Mettez du fun dans votre vie, abusez de la joie et surtout profitez à fond de vos proches.
 
