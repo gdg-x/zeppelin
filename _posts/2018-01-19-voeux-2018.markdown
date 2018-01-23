@@ -7,7 +7,7 @@ image: voeux-2018.jpg
 ---
 #### Voeux de l'équipe
 Toute l’équipe d'Agile Pays Basque vous souhaite une belle et exaltante nouvelle année:
-Attention à votre santé, ne baissez pas les bras, ne succombez pas au côté obscur du travail... Et si, après tout, tous vos soucis n'étaient finalement pas si graves?
+attention à votre santé, ne baissez pas les bras, ne succombez pas au côté obscur du travail... Et si, après tout, tous vos soucis n'étaient finalement pas si graves?
 Mettez du fun dans votre vie, abusez de la joie et surtout profitez à fond de vos proches!
 
 
