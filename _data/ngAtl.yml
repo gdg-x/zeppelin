@@ -14,4 +14,5 @@ partners:
    elements:
      - {name: "ngAtl", description: "ngAtl 2018 - Angular conference in Atlanta", link: "http://ng-atl.org/", imageUrl: "ngAtl-logo.svg"}
      - {name: "Valor Software", description: "Valor Software", link: "http://valor-software.com/", imageUrl: "valor.jpg"}
+     - {name: "Microsoft", description: "Microsoft Cloud Developer Advocates", link: "https://developer.microsoft.com/en-us/advocates/index.html", imageUrl: "microsoft.png"}
 
