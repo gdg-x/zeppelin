@@ -5,7 +5,8 @@ permalink: /call/
 isStaticPost: true
 ---
 
-# Our Call for Speakers has closed.
+## Our Call for Speakers has closed.
+
 ## If you have submitted a talk, we will notify you of the result shortly.
 
 Women Techmakers Vienna is an event that envisions empowering women
