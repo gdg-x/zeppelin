@@ -90,14 +90,15 @@ statisticsText: "Science communication and outreach that uses English to stretch
 
 statisticsTextJp: "英語による科学広報やアウトリーチといった、科学を伝える活動は、今、日本で活気を帯びています。本イベントは、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストやこの分野の選りすぐりの海外の専門家が一堂に会する場を提供しようとする初めての試みです。国外、特に英語圏へ向けた研究成果の情報発信に携わる全ての人を対象にしています。午前中の基調講演とパネルディスカッションでは、科学や研究成果を題材とした広報や情報発信に特有の課題について、国内にとどまらず、海外の事例を含めて検討します。午後には、複数のグループに別れて、参加者が実際に手を動かして、国外向けの科学広報やアウトリーチの業務に活かせるような実践的なワークショップを行います。本イベントの使用言語は英語です。ジャパン・サイコム・フォーラム2018で、英語による科学広報やアウトリーチのスキルを磨き、横のつながりを作り、互いのベストプラクティスを情報交換しませんか。"
 
-# Announcements
-latestNewsTitle: "Latest news"
-
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Keynote speakers"
 rockstarSpeakersButtonText: "See all speakers"
+
+# Announcements
+latestNewsTitle: "Latest news"
+
 
 # Location Block
 locationBlockTitle: "Location"
