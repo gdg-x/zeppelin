@@ -75,11 +75,11 @@ aboutText: "Hello. This is a new bit of text for the about section."
 
 
 # Description Block
-descriptionTitle: "Description of the event"
-descriptionText: "hello. This really is the description now! Oh yes."
+#descriptionTitle: "Description of the event"
+#descriptionText: "hello. This really is the description now! Oh yes."
 
 # Statistic Block
-#statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "statistic.jpg"
 #statisticBlock:
 # - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
 # - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
