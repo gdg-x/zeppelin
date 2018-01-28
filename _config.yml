@@ -73,8 +73,8 @@ aboutBlock:
  - {title: "Discussion", image: "hackathon.jpg", text: "Exchange ideas with other global SciComm'ers in Japan and help build a community with a global reach." }
 
 # Description Block
-descriptionBlock:
-	text: "hello. This really is the description now! Oh yes."
+descriptionTitle: "Description of the event"
+descriptionText: "hello. This really is the description now! Oh yes."
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
