@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Register"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero_background.jpg"
 heroTitle: "Japan <typeout> Forum 2018"
 eventDate: "April 20th 2018"
 logo: "scicomlogo.png"
