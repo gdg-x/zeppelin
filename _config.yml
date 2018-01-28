@@ -79,14 +79,13 @@ aboutText: "Hello. This is a new bit of text for the about section."
 #descriptionText: "hello. This really is the description now! Oh yes."
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+#statisticBlockImage: "statistic.jpg"
 #statisticBlock:
 # - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
 # - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
 # - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
-statisticsText: "How about we add the description in here??"
-
+statisticsText: "Science communication and outreach that stretches to global audiences in English is taking off in Japan. This meeting will bring together communicators/writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of SciCom in Japan, share skills, network, and inform the community with best practices. This is the first meeting of its kind in Japan: held in English, for anyone involved in global research communication. The one-day meeting will consist of keynote talks and panel discussions in the morning on the unique challenges and opportunities of research communication within and beyond Japan. Afternoon breakout workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach."
 
 # Announcements
 latestNewsTitle: "Latest news"
