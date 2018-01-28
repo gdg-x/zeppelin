@@ -18,10 +18,6 @@
             {% assign check = forloop.index | modulo:2 %}
             {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
             {% endfor %}
-            <div class="row">
-              <div class="column"><p align="left" style="line-height:2"><font size="5">{{ site.statisticsText }}</font></p></br></div>
-              <div class="column"><p align="left" style="line-height:2"><font size="5">{{ site.statisticsTextJp }}</font></p></div>
-            </div>
 	    <p align="left" style="line-height:2"><font size="5">{{ site.statisticsText }}</font></p></br>
 	    <p align="left" style="line-height:2"><font size="5">{{ site.statisticsTextJp }}</font></p>
 	</div>
