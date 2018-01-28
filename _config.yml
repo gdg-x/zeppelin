@@ -80,7 +80,7 @@ aboutText: "Hello. This is a new bit of text for the about section."
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
-#statisticBlock:
+statisticBlock:
 # - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
 # - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
 # - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
@@ -138,8 +138,8 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-#ticketsTitle: "Pricetable"
-#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 #ticketsOffers:
 # -
 #  name: "Early Bird"
