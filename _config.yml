@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "SwiftFest 2018"
 email: "g@swiftfest.io"
 description: "The most community driven Swift conference!"
-baseurl: "" # TODO?
+baseurl: "/zeppelin" # TODO?
 url: "swiftfest.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5" # TODO
