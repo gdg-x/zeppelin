@@ -97,7 +97,9 @@ rockstarSpeakersTitle: "Keynote speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Announcements
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Schedule"
+
+
 
 
 # Location Block
@@ -117,13 +119,13 @@ mapCenterCoordinates: "35.602018, 139.684809"
 mapMobileCenterCoordinates: "35.602018, 139.684809"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Earth-Life Science Institute"
-venueFeatures: ["Main Seminar Hall 1F", "Tokyo Institute of Technology Campus", "Close to Ookayama Station"]
+#venueBlockTitle: "Venue"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "Earth-Life Science Institute"
+#venueFeatures: ["Main Seminar Hall 1F", "Tokyo Institute of Technology Campus", "Close to Ookayama Station"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
