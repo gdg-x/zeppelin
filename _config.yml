@@ -55,14 +55,14 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Register"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
+heroImage: "scicom_background.png"
+heroTitle: "Japan <typeout> Forum 2018"
 eventDate: "April 20th 2018"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "SciCom", "サイコム", ""'
+typeoutFallback: "SciCom"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {link: "http://bit.ly/dfua-c4p", text: "Register"}
+ - {permalink: "/#tickets", text: "Register"}
 
 # About Block
 aboutTitle: "About Japan SciCom Forum 2018"
