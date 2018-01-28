@@ -55,13 +55,14 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Register"}
 
 # Hero Block
-heroImage: "scicom_background.png"
+heroImage: "hero.jpg"
 heroTitle: "Japan <typeout> Forum 2018"
 eventDate: "April 20th 2018"
+logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 heroButtons:
-# - {link: "http://bit.ly/dfua-c4p", text: "Register"}
+# - {link: "scicomlogo.png", text: ""}
  - {permalink: "/#tickets", text: "Register"}
 
 # About Block
