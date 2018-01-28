@@ -3,7 +3,7 @@
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
 			<h3>{{ site.latestNewsTitle }}</h3>
-			<article class="row">
+			<!-- <article class="row">
 				{% for post in site.posts limit:2 %}
                     {% assign postUrl = site.baseurl | append: post.url %} 
 					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
@@ -11,8 +11,51 @@
 						<p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
 					</div>
                 {% endfor %}
-			</article>
-		</div>
+			</article> -->
+		
+		<table>
+  <tr>
+    <th>9:00 - 10:00</th>
+    <th>Keynote presentations</th>
+  </tr>
+  <tr>
+    <td>10:00 - 10:30</td>
+    <td>Coffee and interaction time</td>
+  </tr>
+  <tr>
+    <td>10:30 - 11:00</td>
+    <td>Panel discussion and speaker Q &amp; A</td>
+  </tr>
+  <tr>
+    <td>11:00 - 12:00</td>
+    <td>Flash talks: hear from institutions around Japan</td>
+  </tr>
+  <tr>
+    <td>12:00 - 14:00</td>
+    <td>Lunch: please explore one of the local restaurants in the Ookayama area</td>
+  </tr>
+  <tr>
+    <td>14:00 - 15:30</td>
+    <td>Workshop: hands-on experience at different SciCom activities</td>
+  </tr>
+  <tr>
+    <td>15:30 - 16:00</td>
+    <td>Coffee and interaction time</td>
+  </tr>
+  <tr>
+    <td>16:00 - 17:30</td>
+    <td>Workshop: try a different SciCom activity </td>
+  </tr>
+  <tr>
+    <td>17:30</td>
+    <td>Wrap-up</td>
+  </tr>
+  <tr>
+    <td>17:45</td>
+    <td>Reception </td>
+  </tr>
+</table>
+</div>
 	</div>
 </section>
 <!-- End Latest News Section -->
