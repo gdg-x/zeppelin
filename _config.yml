@@ -10,22 +10,22 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Japan SciCom Forum 2018"
+title: "Japan SciCom Forum"
 email: "elizabeth.tasker@gmail.com"
 description: "Global Science Communication & Outreach from Japan"
 baseurl: "/zeppelin"
 url: "http://ejtasker.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "ejtasker.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "ejtasker.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-#organizerName: "Japan SciCom 2018"
+organizerName: "Japan SciCom Forum"
 #organizerAlternateName: "Google Developer Group Lviv"
 #organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 #organizerEmail: "lviv@gdg.org.ua"
-#organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/organizer-logo.png"
 #organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -62,15 +62,19 @@ logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 heroButtons:
-# - {link: "scicomlogo.png", text: ""}
- - {permalink: "/#tickets", text: "Register"}
+ - {link: "http://googleform.html", text: "Register"}
+# - {permalink: "/#tickets", text: "Register"}
 
 # About Block
 aboutTitle: "About Japan SciCom Forum 2018"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Keynotes", image: "conference.jpg", text: "Hear from media, institute directors and reseachers on how they transmit news from Japan to the world." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Join our afternoon workshops for hands-on experience!" }
+ - {title: "Discussion", image: "hackathon.jpg", text: "Exchange ideas with other global SciComm'ers in Japan and help build a community with a global reach." }
+
+# Description Block
+descriptionBlock:
+	text: "hello. This really is the description now! Oh yes."
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
