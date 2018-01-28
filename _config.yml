@@ -66,11 +66,13 @@ heroButtons:
 # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "About Japan SciCom Forum 2018"
+aboutTitle: "About"
 aboutBlock:
  - {title: "Keynotes", image: "conference.jpg", text: "Hear from media, institute directors and reseachers on how they transmit news from Japan to the world." }
  - {title: "Workshops", image: "workshop.jpg", text: "Join our afternoon workshops for hands-on experience!" }
  - {title: "Discussion", image: "hackathon.jpg", text: "Exchange ideas with other global SciComm'ers in Japan and help build a community with a global reach." }
+aboutText: "Hello. This is a new bit of text for the about section."
+
 
 # Description Block
 descriptionTitle: "Description of the event"
