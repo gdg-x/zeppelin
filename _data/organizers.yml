@@ -1,10 +1,10 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+     - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png"}
+     - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg"}
+ 
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png"}
-    - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg"}
- 
+   
