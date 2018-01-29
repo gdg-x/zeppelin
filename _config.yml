@@ -117,7 +117,7 @@ mapMobileCenterCoordinates: "35.602018, 139.684809"
 venueBlockTitle: "Venue"
 venueBigImage: "map.png"
 venueSmallImage1: "ELSI.jpg"
-#venueSmallImage2: "venue_2.jpg"
+venueSmallImage2: "elsihall.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Earth-Life Science Institute"
 venueFeatures: ["Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01'>recommendations</a>"]
