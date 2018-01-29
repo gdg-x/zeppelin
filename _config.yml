@@ -42,12 +42,12 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
-# - {permalink: "/", text: "Home"}
-# -  {permalink: "#about", text: "About"}
-# - {permalink: "#schedule", text: "Schedule"}
-## - {permalink: "#speakers", text: "Speakers"}
-# - {permalink: "#team", text: "Team"}
-# - {permalink: "#logistics", text: "Logistics"}
+ - {permalink: "/", text: "Home"}
+ -  {permalink: "#about", text: "About"}
+ - {permalink: "#schedule", text: "Schedule"}
+ - {permalink: "#speakers", text: "Speakers"}
+ - {permalink: "#team", text: "Team"}
+ - {permalink: "#logistics", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Register"}
 rightNavigationButtons:
