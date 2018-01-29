@@ -123,7 +123,7 @@ venueTitle: "Earth-Life Science Institute"
 venueFeatures: ["ELSI sits on the Tokyo Institute of Technology campus.","<a href='http://www.elsi.jp/en/access.html' style='color:black'>Getting here</a>", "Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01' style='color:black'>recommendations</a>"]
 
 # Tweets Feed Block
-#tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "birds.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "jpscicom"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
@@ -208,12 +208,12 @@ blogTitle: "Latest news"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
-# Speakers List Block
+# Speakers List Blocks
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+#teamBlockTitle: "About us"
+#aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
