@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "#about", text: "About"}
  - {permalink: "#schedule", text: "Schedule"}
  - {permalink: "#speakers", text: "Speakers"}
- - {permalink: "#team", text: "Sponcers"}
+ - {permalink: "#team", text: "Sponsors"}
  - {permalink: "#logistics", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://googleform", text: "Register"}
@@ -141,7 +141,7 @@ subscribeTitle: "Registration"
 subscribeInfo: "Registration will be open until space is filled."
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+#ticketsTitle: "Pricetable"
 #ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 #ticketsOffers:
 # -
