@@ -21,7 +21,7 @@ permalink: "/blog/:title"
 
 # Needed for google maps
 #siteVerification: "AIzaSyDNrOgZAdaW8xLOaY1CBhTu9-bNFP7SToI"
-siteVerfication: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#siteVerfication: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Japan SciCom Forum"
