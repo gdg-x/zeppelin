@@ -120,7 +120,7 @@ venueSmallImage1: "ELSI.jpg"
 venueSmallImage2: "elsihall.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Earth-Life Science Institute"
-venueFeatures: ["ELSI sits in the Tokyo Institute of Technology Campus.","<a href='http://www.elsi.jp/en/access.html' style='color:black'>Getting here</a>", "Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01' style='color:black'>recommendations</a>"]
+venueFeatures: ["ELSI sits on the Tokyo Institute of Technology campus.","<a href='http://www.elsi.jp/en/access.html' style='color:black'>Getting here</a>", "Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01' style='color:black'>recommendations</a>"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -129,8 +129,8 @@ twitterHashTag: "jpscicom"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+organizersTitle: "Organisers & Sponsors"
+#partnersTitle: "Partners"
 #partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block

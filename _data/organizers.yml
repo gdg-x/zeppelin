@@ -5,6 +5,6 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png"}
+    - {name: "EurekaAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "eurekalogo.png"}
+ 
