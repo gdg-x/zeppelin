@@ -19,7 +19,7 @@ permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "ejtasker.github.io"
 
-# Google maps API key (created for this website)
+# Needed for google maps
 #siteVerification: "AIzaSyDNrOgZAdaW8xLOaY1CBhTu9-bNFP7SToI"
 siteVerfication: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
@@ -108,10 +108,9 @@ eventAddressCountry: "Japan"
 eventStartTime: "2018-04-18T09:00"
 eventDoorTime: "08:30"
 eventEndTime: "2018-04-18T17:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-#mapMobileCenterCoordinates: "35.602018, 139.684809"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "35.602018, 139.684809"
+mapCenterCoordinates: "35.602018, 139.6848091"
+mapMobileCenterCoordinates: "35.602018, 139.684809"
 
 
 # Venue Block
