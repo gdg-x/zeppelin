@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "#about", text: "About"}
  - {permalink: "#schedule", text: "Schedule"}
  - {permalink: "#speakers", text: "Speakers"}
- - {permalink: "#team", text: "Team"}
+ - {permalink: "#team", text: "Sponcers"}
  - {permalink: "#logistics", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://googleform", text: "Register"}
