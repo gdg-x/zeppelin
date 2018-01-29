@@ -6,7 +6,7 @@
   title: "Researcher"
   bio: '<p>Bio...</p>'
   thumbnailUrl: KosukeMorita.jpg 
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
