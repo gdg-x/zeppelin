@@ -20,8 +20,8 @@ permalink: "/blog/:title"
 #googleAnalyticsSiteUrl: "ejtasker.github.io"
 
 # Needed for google maps
-#siteVerification: "AIzaSyDNrOgZAdaW8xLOaY1CBhTu9-bNFP7SToI"
-siteVerfication: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "AIzaSyDNrOgZAdaW8xLOaY1CBhTu9-bNFP7SToI"
+#siteVerfication: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Japan SciCom Forum"
