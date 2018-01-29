@@ -120,7 +120,7 @@ venueSmallImage1: "ELSI.jpg"
 venueSmallImage2: "elsihall.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Earth-Life Science Institute"
-venueFeatures: ["Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01'>recommendations</a>"]
+venueFeatures: ["<a href='http://www.elsi.jp/en/access.html'>Getting here</a>", "Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01'>recommendations</a>"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
