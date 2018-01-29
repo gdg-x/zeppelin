@@ -183,8 +183,8 @@ subscribeInfo: "Registration will be open until space is filled."
 #  soldOutText: "Sold Out"
 
 # Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+#socialLinks:
+# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
 # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
 # - {permalink: "/feed.xml", icon: "rss"}
@@ -195,7 +195,7 @@ footerBlocks:
 #   - {link: "http://elsi.jp/en", text: "ELSI"}
 #   - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contact"
   links:
    - {link: "mailto:elizabeth.tasker@gmail.com", text: "Email"}
 # -
