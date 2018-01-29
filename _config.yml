@@ -18,6 +18,8 @@ url: "http://ejtasker.github.io"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "ejtasker.github.io"
+
+# Google maps API key (created for this website)
 siteVerification: "AIzaSyDNrOgZAdaW8xLOaY1CBhTu9-bNFP7SToI"
 
 # Organizer Info
@@ -112,13 +114,13 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 
 # Venue Block
-#venueBlockTitle: "Venue"
-#venueBigImage: "venue_0.jpg"
+venueBlockTitle: "Venue"
+venueBigImage: "ELSI.jpg"
 #venueSmallImage1: "venue_1.jpg"
 #venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
-#venueTitle: "Earth-Life Science Institute"
-#venueFeatures: ["Main Seminar Hall 1F", "Tokyo Institute of Technology Campus", "Close to Ookayama Station"]
+venueTitle: "Earth-Life Science Institute"
+venueFeatures: ["Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01'>recommendations</a>"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
