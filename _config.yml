@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "#team", text: "Team"}
  - {permalink: "#logistics", text: "Logistics"}
 bottomNavigationLinks:
- - {link: http://googleform", text: "Register"}
+ - {link: "http://googleform", text: "Register"}
 rightNavigationButtons:
  - {link: "http://googleform", text: "Register"}
 
