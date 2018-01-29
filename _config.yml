@@ -91,7 +91,7 @@ statisticsTextJp: "英語による科学広報やアウトリーチといった�
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Keynote speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Announcements
 latestNewsTitle: "Schedule"
