@@ -115,8 +115,8 @@ mapMobileCenterCoordinates: "35.602018, 139.684809"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "ELSI.jpg"
-#venueSmallImage1: "venue_1.jpg"
+venueBigImage: "map.png"
+venueSmallImage1: "ELSI.jpg"
 #venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Earth-Life Science Institute"
