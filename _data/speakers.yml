@@ -15,8 +15,8 @@
   surname: "Morita"
   company: "RIKEN"
   title: "Researcher"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  bio: '<p>Bio...</p>'
+  thumbnailUrl: KosukeMorita.jpg 
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -28,7 +28,7 @@
   surname: "Chen"
   company: "Asian Scientist Magazine"
   title: "Editor-in-Chief"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  bio: "Chen is.. "
   thumbnailUrl: JulianaChen.jpg
   rockstar: true
   ribbon: 
@@ -43,7 +43,7 @@
   surname: "Voytek"
   company: "NASA"
   title: "Director of NASA Astrobiology"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  bio: "Voytek is..."
   thumbnailUrl: MaryVoytek.jpg
   rockstar: true
   ribbon:
