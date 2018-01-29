@@ -17,7 +17,12 @@
                     </div>
                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                     <div style="position: absolute; left: -5000px;">
-                        <input type="text" name="b_9fc8aa205b0521b5f05fc8e1e_ae0fb459fc" tabindex="-1" value="">
+		      {% for button in site.heroButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+                       <!-- <input type="text"
+		      name="b_9fc8aa205b0521b5f05fc8e1e_ae0fb459fc"
+		      tabindex="-1" value=""> -->
                     </div>
                     <div class="mc-submit-group clear col-lg-3 col-sm-3 col-xs-12">
                         <i class="button bordered required waves-effect waves-light waves-input-wrapper">
