@@ -5,6 +5,3 @@
      - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg"}
  
 - 
-  group: "Co-organizers"
-  elements: 
-   
