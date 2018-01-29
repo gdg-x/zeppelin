@@ -107,7 +107,9 @@ eventDoorTime: "08:30"
 eventEndTime: "2018-04-18T17:00"
 eventPlaceCoordinates: "49.842537, 24.025701"
 mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "35.602018, 139.684809"
+#mapMobileCenterCoordinates: "35.602018, 139.684809"
+mapMobileCenterCoordinates: "49.842537, 24.025701"
+
 
 # Venue Block
 #venueBlockTitle: "Venue"
