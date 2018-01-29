@@ -123,7 +123,7 @@ venueTitle: "Earth-Life Science Institute"
 venueFeatures: ["ELSI sits on the Tokyo Institute of Technology campus.","<a href='http://www.elsi.jp/en/access.html' style='color:black'>Getting here</a>", "Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01' style='color:black'>recommendations</a>"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+#tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "jpscicom"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
