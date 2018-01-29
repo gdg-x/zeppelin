@@ -20,7 +20,8 @@ permalink: "/blog/:title"
 #googleAnalyticsSiteUrl: "ejtasker.github.io"
 
 # Google maps API key (created for this website)
-siteVerification: "AIzaSyDNrOgZAdaW8xLOaY1CBhTu9-bNFP7SToI"
+#siteVerification: "AIzaSyDNrOgZAdaW8xLOaY1CBhTu9-bNFP7SToI"
+siteVerfication: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Japan SciCom Forum"
