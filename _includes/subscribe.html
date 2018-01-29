@@ -7,8 +7,15 @@
             <div id="mc_embed_signup" class="col-lg-8 col-sm-8 col-lg-offset-2 col-sm-offset-2">
                 <form action="{{site.subscribeAction}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <div class="mc-field-group col-lg-9 col-sm-9 col-xs-12">
-                        <i class="email bordered required waves-effect waves-light waves-input-wrapper">
-                            <input type="email" value="" name="EMAIL" class="waves-button-input" id="mce-EMAIL" placeholder="your@email.com" autocomplete="off">
+                        <i class="email bordered required waves-effect
+		      waves-light waves-input-wrapper">
+		        {% for button in site.heroButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+                          <!--  <input type="email" value=""
+		      name="EMAIL" class="waves-button-input"
+		      id="mce-EMAIL" placeholder="your@email.com"
+		      autocomplete="off"> -->
                         </i>
                     </div>
                     <div id="mce-responses" class="clear">
@@ -17,12 +24,9 @@
                     </div>
                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                     <div style="position: absolute; left: -5000px;">
-		      {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}
-                       <!-- <input type="text"
+		    <input type="text"
 		      name="b_9fc8aa205b0521b5f05fc8e1e_ae0fb459fc"
-		      tabindex="-1" value=""> -->
+		      tabindex="-1" value=""> 
                     </div>
                     <div class="mc-submit-group clear col-lg-3 col-sm-3 col-xs-12">
                         <i class="button bordered required waves-effect waves-light waves-input-wrapper">
