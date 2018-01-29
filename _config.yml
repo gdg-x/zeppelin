@@ -70,9 +70,9 @@ heroButtons:
 # About Block
 aboutTitle: "About"
 aboutBlock:
- - {title: "Keynotes", image: "conference.jpg", text: "Hear from media, institute directors and reseachers on how they transmit news from Japan to the world." }
- - {title: "Workshops", image: "workshop.jpg", text: "Join our afternoon workshops for hands-on experience!" }
- - {title: "Discussion", image: "hackathon.jpg", text: "Exchange ideas with other global SciComm'ers in Japan and help build a community with a global reach." }
+ - {title: "Keynotes", image: "nerdnite_amanda.jpg", text: "Hear from media, institute directors and reseachers on how they transmit news from Japan to the world." }
+ - {title: "Workshops", image: "nerdnite.jpg", text: "Join our afternoon workshops for hands-on experience!" }
+ - {title: "Discussion", image: "nerdnite3.jpg", text: "Exchange ideas with other global SciComm'ers in Japan and help build a community with a global reach." }
 #aboutText: "Hello. This isn't used but can add text underneath three pictures."
 
 # Statistic Block (actully used for meeting description)
