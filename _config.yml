@@ -142,7 +142,7 @@ subscribeInfo: "Registration will be open until space is filled."
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 #ticketsOffers:
 # -
 #  name: "Early Bird"
