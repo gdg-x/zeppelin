@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Japan SciCom Forum"
-email: "elizabeth.tasker@gmail.com"
+email: "jsf18@kikenji.sakura.ne.jp"
 description: "Global Science Communication & Outreach from Japan"
 baseurl: "/forum2018"
 url: "https://japanscicomforum.github.io"
@@ -197,7 +197,7 @@ footerBlocks:
  -
   title: "Contact"
   links:
-   - {link: "mailto:elizabeth.tasker@gmail.com", text: "Email"}
+   - {link: "mailto:jsf18@kikenji.sakura.ne.jp", text: "Email"}
 # -
 #  title: "FAQ"
 #  links:
