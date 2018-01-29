@@ -44,7 +44,7 @@
   company: "NASA"
   title: "Director of NASA Astrobiology"
   bio: "Voytek is..."
-  thumbnailUrl: MaryVoytek.jpg
+  thumbnailUrl: MaryVoytek.jpeg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
