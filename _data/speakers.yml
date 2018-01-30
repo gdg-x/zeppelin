@@ -14,10 +14,10 @@
 - 
   id: 5
   name: "Juliana"
-  surname: "Chen"
+  surname: "Chan"
   company: "Asian Scientist Magazine"
   title: "Editor-in-Chief"
-  bio: "Chen is.. "
+  bio: "Chan is.. "
   thumbnailUrl: JulianaChen.jpg
   rockstar: true
   ribbon: 
