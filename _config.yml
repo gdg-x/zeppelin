@@ -45,13 +45,12 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation (links at page top)
 navigationLinks:
-  - {permalink: "/", text: "Home"}
-  - {permalink: "#about", text: "About"}
-  - {permalink: "#speakers", text: "Speakers"}
-  - {permalink: "#schedule", text: "Schedule"}
-  - {permalink: "#location", text: "Access"}
-  - {permalink: "#team", text: "Sponsors"}
-  - {permalink: "#organizers", text: "Organizers"}
+- {permalink: "/", text: "Home"}
+- {permalink: "#about", text: "About"}
+- {permalink: "#speakers", text: "Speakers"}
+- {permalink: "#schedule", text: "Schedule"}
+- {permalink: "#location", text: "Access"}
+- {permalink: "#team", text: "Sponsors"}
  bottomNavigationLinks:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
  rightNavigationButtons:
@@ -71,9 +70,9 @@ heroButtons:
 # About Block
 aboutTitle: "About"
 aboutBlock:
- - {title: "Keynotes", image: "NN-talk.jpg", text: "Perspectives on global outreach from PIOs and leading scientists" }
- - {title: "Workshops", image: "Brian-workshop.JPG", text: "Hands-on sessions with experts in global press, social media and more" }
- - {title: "Networking", image: "nerdnite3.jpg", text: "Discussion and community-building to give science communication in Japan a global reach" }
+- {title: "Keynotes", image: "NN-talk.jpg", text: "Perspectives on global outreach from PIOs and leading scientists" }
+- {title: "Workshops", image: "Brian-workshop.JPG", text: "Hands-on sessions with experts in global press, social media and more" }
+- {title: "Networking", image: "nerdnite3.jpg", text: "Discussion and community-building to give science communication in Japan a global reach" }
 #aboutText: "Hello. This isn't used but can add text underneath three pictures."
 
 # Statistic Block (actully used for meeting description)
@@ -220,7 +219,3 @@ discusShortName: "devfestua"
 
 # Speakers List Blocks
 showSessions: true
-
-# Organizers Block
-organizersBlockTitle: "Organizers"
-aboutUs: "<a href="https://twitter.com/iyoumek")Ayumi Koso</a>, NIHU ·<a href="https://twitter.com/neuroamanda">Amanda Alvarez</a>, RIKEN"
