@@ -201,8 +201,8 @@ footerBlocks:
 #  links:
 #   - {link: "http://elsi.jp/en", text: "ELSI"}
 #   - {link: "https://developers.google.com", text: "Google Developers"}
- -
-   title: "Contact / お問い合わせ
+-
+  title: "Contact / お問い合わせ
 
     日本語でのお問い合わせにも対応しています"
   links:
