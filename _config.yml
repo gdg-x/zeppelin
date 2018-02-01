@@ -51,9 +51,9 @@ navigationLinks:
 - {permalink: "#schedule", text: "Schedule"}
 - {permalink: "#location", text: "Access"}
 - {permalink: "#team", text: "Sponsors"}
- bottomNavigationLinks:
+bottomNavigationLinks:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
- rightNavigationButtons:
+rightNavigationButtons:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
 
 # Hero Block (heading with scrolling text)
@@ -201,8 +201,7 @@ footerBlocks:
 #  links:
 #   - {link: "http://elsi.jp/en", text: "ELSI"}
 #   - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contact / お問い合わせ
+ - title: "Contact / お問い合わせ
 
     日本語でのお問い合わせにも対応しています"
   links:
