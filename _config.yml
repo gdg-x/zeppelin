@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Japan SciCom Forum"
 email: "jsf18@kikenji.sakura.ne.jp"
-description: "Global Science Communication & Outreach from Japan"
+description: "Global Science Communication & Outreach in Japan"
 baseurl: ""
 url: "https://japanscicomforum.github.io"
 permalink: "/blog/:title"
@@ -32,7 +32,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 #organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, scicom, scicomm, japan, science, outreach, PR, global"
+metaKeywords: "event, scicom, scicomm, japan, science, outreach, PR, global, communication, research, public engagement, press, media"
 #twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -45,34 +45,34 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation (links at page top)
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "#about", text: "About"}
- - {permalink: "#schedule", text: "Schedule"}
- - {permalink: "#speakers", text: "Speakers"}
- - {permalink: "#team", text: "Sponsors"}
- - {permalink: "#logistics", text: "Logistics"}
-bottomNavigationLinks:
- - {link: "http://googleform", text: "Register"}
-rightNavigationButtons:
- - {link: "http://googleform", text: "Register"}
+  - {permalink: "/", text: "Home"}
+  - {permalink: "#about", text: "About"}
+  - {permalink: "#speakers", text: "Speakers"}
+  - {permalink: "#schedule", text: "Schedule"}
+  - {permalink: "#logistics", text: "Access"}
+  - {permalink: "#team", text: "Sponsors"}
+ bottomNavigationLinks:
+  - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
+ rightNavigationButtons:
+  - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
 heroTitle: "Japan <typeout> Forum 2018"
-eventDate: "April 20th 2018"
+eventDate: "April 20, 2018"
 logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 heroButtons:
- - {link: "http://googleform.html", text: "Register"}
+ - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
 # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
 aboutTitle: "About"
 aboutBlock:
- - {title: "Keynotes", image: "nerdnite_amanda.jpg", text: "Hear from media, institute directors and reseachers on how they transmit news from Japan to the world." }
- - {title: "Workshops", image: "nerdnite.jpg", text: "Join our afternoon workshops for hands-on experience!" }
- - {title: "Discussion", image: "nerdnite3.jpg", text: "Exchange ideas with other global SciComm'ers in Japan and help build a community with a global reach." }
+ - {title: "Keynotes", image: "NN-talk.jpg", text: "Perspectives from leading scientists " }
+ - {title: "Workshops", image: "Brian-workshop.JPG", text: "Hands-on sessions with experts in global press, social media and more" }
+ - {title: "Networking", image: "nerdnite3.jpg", text: "Discussion and community-building to give science communication in Japan a global reach" }
 #aboutText: "Hello. This isn't used but can add text underneath three pictures."
 
 # Statistic Block (actully used for meeting description)
@@ -83,9 +83,18 @@ aboutBlock:
 # - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
-statisticsText: "Science communication and outreach that uses English to stretch across global audiences is taking-off in Japan. This event will bring together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of SciCom in Japan. Our goal is to share skills, network and inform the community of the most successful practices in global communication. This is the first meeting of its kind in Japan and aimed at anyone involved or interested in global research communication. This one-day meeting will include keynote talks and panal discussions in the morning on the unique challenges and opportunities presented by research communication within and beyond Japan. Afternoon breakout workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. The workshop will be held in English."
+statisticsText: "
 
-statisticsTextJp: "英語による科学広報やアウトリーチといった、科学を伝える活動は、今、日本で活気を帯びています。本イベントは、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストやこの分野の選りすぐりの海外の専門家が一堂に会する場を提供しようとする初めての試みです。国外、特に英語圏へ向けた研究成果の情報発信に携わる全ての人を対象にしています。午前中の基調講演とパネルディスカッションでは、科学や研究成果を題材とした広報や情報発信に特有の課題について、国内にとどまらず、海外の事例を含めて検討します。午後には、複数のグループに別れて、参加者が実際に手を動かして、国外向けの科学広報やアウトリーチの業務に活かせるような実践的なワークショップを行います。本イベントの使用言語は英語です。ジャパン・サイコム・フォーラム2018で、英語による科学広報やアウトリーチのスキルを磨き、横のつながりを作り、互いのベストプラクティスを情報交換しませんか。"
+Science communication and outreach, especially to global audiences in English, is taking off in Japan. This event will bring together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of scicom in Japan, learn new skills, network, and inform the community with best practices. Join us at the Earth-Life Science Institute at the Tokyo Institute of Technology in April for JAPAN SCICOM FORUM 2018.
+
+This is the first meeting of its kind in Japan for anyone interested or involved in global research communication. This one-day meeting will include keynote talks and panel discussions in the morning on the unique challenges and opportunities of research communication within and beyond Japan. Afternoon breakout workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. Registration is free and the event will be in English. 
+
+
+statisticsTextJp: "英語による科学広報やアウトリーチといった、科学を伝える活動は、今、日本で活気を帯びています。本イベントは、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストやこの分野の選りすぐりの海外の専門家が一堂に会する場を提供しようとする初めての試みです。海外に向けた研究成果の情報発信に携わる人をはじめ、科学広報やアウトリーチに興味や関心のあるすべての方が参加いただけるイベントです。
+
+　午前中の基調講演とパネルディスカッションでは、科学や研究成果を題材とした広報や情報発信に特有の課題について、国内にとどまらず、海外の事例を含めて検討します。午後には、複数のグループに別れて、参加者が実際に手を動かして、国外向けの科学広報やアウトリーチの業務に活かせるような実践的なワークショップを行います。本イベントの使用言語は英語です。
+
+　ジャパン・サイコム・フォーラム2018で、英語による科学広報やアウトリーチのスキルを磨き、横のつながりを作り、互いのベストプラクティスを情報交換しませんか。"
 
 # Rockstar (Keynote) Speakers Block
 rockstarSpeakersImage: "tokyo.jpg"
@@ -97,7 +106,7 @@ rockstarSpeakersTitle: "Keynote speakers"
 latestNewsTitle: "Schedule"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Access"
 eventLocationName: "Earth-Life Science Institute (ELSI)"
 eventLocationLink: "http://elsi.jp/en"
 eventStreetAddress: "ELSI-1 102 ELSI Hall"
@@ -114,17 +123,17 @@ mapMobileCenterCoordinates: "35.602018, 139.684809"
 
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "map.png"
-venueSmallImage1: "ELSI.jpg"
-venueSmallImage2: "elsihall.jpg"
+#venueBlockTitle: "Venue"
+#venueBigImage: "map.png"
+#venueSmallImage1: "ELSI.jpg"
+#venueSmallImage2: "elsihall.jpg"
 #venueSmallImage3: "venue_3.jpg"
-venueTitle: "Earth-Life Science Institute"
-venueFeatures: ["ELSI sits on the Tokyo Institute of Technology campus.","<a href='http://www.elsi.jp/en/access.html' style='color:black'>Getting here</a>", "Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01' style='color:black'>recommendations</a>"]
+#venueTitle: "Earth-Life Science Institute"
+#venueFeatures: ["ELSI is on the Tokyo Institute of Technology Ookayma campus.","<a href='http://www.elsi.jp/en/access.html' style='color:black'>Getting here</a>", "Local hotel <a href='http://www.elsi.jp/en/for-employees/life/#article01' style='color:black'>recommendations</a>"]
 
 # Tweets Feed Block
 tweetsFeedImage: "birds.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Join the conversation on Twitter"
 twitterHashTag: "jsf18"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
@@ -138,7 +147,7 @@ subscribeImage: "keyboard-street-art.jpg"
 subscribeTitle: "Registration"
 
 #subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open until space is filled."
+subscribeInfo: "Registration is free but limited to 100 people!"
 
 # Tickets Block
 #ticketsTitle: "Pricetable"
@@ -195,7 +204,9 @@ footerBlocks:
 #   - {link: "http://elsi.jp/en", text: "ELSI"}
 #   - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contact"
+  title: "Contact / お問い合わせ
+
+    日本語でのお問い合わせにも対応しています"
   links:
    - {link: "mailto:jsf18@kikenji.sakura.ne.jp", text: "Email"}
 # -
