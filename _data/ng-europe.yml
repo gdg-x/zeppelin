@@ -20,16 +20,16 @@ partners:
 
 mentors:
 
-- id: 1
-  name: "Martina"
-  surname: "Kraus"
-  company: "&nbsp;"
-  bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
-"
-  thumbnailUrl: martina.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/wing121"}
+# - id: 1
+#   name: "Martina"
+#   surname: "Kraus"
+#   company: "&nbsp;"
+#   bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
+# "
+#   thumbnailUrl: martina.png
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/wing121"}
 
 
 - id: 2
@@ -152,9 +152,41 @@ Let's have fun :)</p>
     - {name: "twitter", link: "https://twitter.com/UgochiAmako"}
 
 - id: 12
+  name: "Aslan"
+  surname: "Vatsaev"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: aslan.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/avatsaev"}
+
+- id: 13
+  name: "Philippe"
+  surname: "Martin"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: philippe.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/feloy2"}
+
+- id: 14
+  name: "Annie"
+  surname: "Valla"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: annie.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+- id: 15
   name: "And You?"
   surname: ""
   company: "&nbsp;"
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
   thumbnailUrl: you.png
   rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
