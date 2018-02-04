@@ -70,9 +70,9 @@ heroButtons:
 # About Block
 aboutTitle: "About"
 aboutBlock:
-- {title: "Keynotes", image: "NN-talk.jpg", text: "Perspectives on global outreach from PIOs and leading scientists<br>英語による科学広報やアウトリーチについて、広報担当者や科学者からの視座に耳を傾ける" }
-- {title: "Workshops", image: "Brian-workshop.JPG", text: "Hands-on sessions with experts in global press, social media and more<br>海外メディアやSNSの専門家と一緒に科学広報やアウトリーチのアクティビティを実践する" }
-- {title: "Networking", image: "nerdnite3.jpg", text: "Discussion and community-building to give science communication in Japan a global reach<br>英語による科学広報やアウトリーチを日本で展開するための仲間を作り、意見を交わす" }
+- {title: "Keynotes", image: "NN-talk.jpg", text: "Perspectives on global outreach from PIOs and leading scientists<br>英語による科学広報やアウトリーチについて、広報担当者や科学者の視座に耳を傾ける" }
+- {title: "Workshops", image: "Brian-workshop.JPG", text: "Hands-on sessions with experts in global press, social media and more<br>海外メディアやSNSの専門家と科学広報やアウトリーチのアクティビティを実践する" }
+- {title: "Networking", image: "nerdnite3.jpg", text: "Discussion and community-building to give science communication in Japan a global reach<br>英語による科学広報やアウトリーチを行う仲間を作り、意見を交わす" }
 #aboutText: "Hello. This isn't used but can add text underneath three pictures."
 
 # Statistic Block (actully used for meeting description)
