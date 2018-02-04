@@ -109,7 +109,7 @@ eventLocationName: "Earth-Life Science Institute (ELSI)"
 eventLocationLink: "http://www.elsi.jp/en/access.html"
 eventStreetAddress: "ELSI Hall"
 eventAddressLocality: "2-12-1-IE-1 Ookayama, Meguro-ku, Tokyo"
-eventAddressLocalityRegion: "<a href="http://www.elsi.jp/ja/access.html" target="_blank">東京工業大学　地球生命研究所</a><br>東京都目黒区大岡山２ー１２ー１ーＩＥー１　ＥＬＳＩホール"
+eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ーＩＥー１　ＥＬＳＩホール"
 #eventPostalCode: "152-8550"
 #eventAddressCountry: "Japan"
 
