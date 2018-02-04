@@ -202,11 +202,9 @@ footerBlocks:
 #   - {link: "http://elsi.jp/en", text: "ELSI"}
 #   - {link: "https://developers.google.com", text: "Google Developers"}
 -
-  title: "Contact / お問い合わせ
-
-    （日本語でのお問い合わせにも対応しています）"
+  title: "Contact / お問い合わせ"
   links:
-   - {link: "mailto:jsf18@kikenji.sakura.ne.jp", text: "Email"}
+   - {link: "mailto:jsf18@kikenji.sakura.ne.jp", text: "Email （日本語でのお問い合わせにも対応しています）"}
 # -
 #  title: "FAQ"
 #  links:
