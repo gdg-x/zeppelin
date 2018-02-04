@@ -16,6 +16,7 @@ partners:
    group: "With support of"
    elements:
      - {name: "ng-europe", description: "ng-europe 2018", link: "https://www.ngeurope.org", imageUrl: "ng-europe.png"}
+     - {name: "Digitas Paris", description: "Digitas Paris", link: "https://www.digitaslbi.com/fr-fr/", imageUrl: "digitas_paris.jpg"}
 
 
 mentors:
