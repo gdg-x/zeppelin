@@ -1,6 +1,13 @@
 -
   title: "Applying and Participating - ngGirls"
   faq:
+  - { question: "What's ngVikings?",
+      answer: 'ngVikings is the main Angular event in the Nordics.
+        It takes place in Espoo (near Helsinki) from March 1st-2nd, 2018.
+        <a href="https://www.ngvikings.org" target="_blank">ngVikings website</a><br/>
+        ngVikings hosts workshops during the days before the conference. <b>ngGirls workshop will be on Tuesday, February 28th.</b>'}
+#   - { question: "Will I get a discount for ngVikings?",
+#       answer: "We'll be more than happy to see you at the ngVikings conference! The selected applicants will receive a special discount."}
   - { question: "What's AngularConnect?",
       answer: 'AngularConnect is the biggest Angular conference in Europe.
         It takes place in London on November 7th-8th, 2017.
@@ -64,8 +71,6 @@
 #  - { question: "Will I get a free ticket to AngularUP?",
 #      answer: "We really hope so. We’re currently looking for sponsors to make it happen.
 #               But even if you won’t get a free ticket, you will be able to purchase one with a special discount."}
-#  - { question: "Will I get a discount for ngVikings?",
-#      answer: "We'll be more than happy to see you at the ngVikings conference! The selected applicants will receive a special discount."}
 
 -
   title: "Getting Ready"
