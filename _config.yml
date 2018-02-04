@@ -112,6 +112,8 @@ eventAddressLocality: "2-12-1-IE-1 Ookayama"
 eventAddressLocalityRegion: "Meguro-ku, Tokyo"
 eventPostalCode: "152-8550"
 eventAddressCountry: "Japan"
+
+eventLocationName: "東京工業大学　地球生命研究所"
 #eventStartTime: "2018-04-18T09:00"
 #eventDoorTime: "08:30"
 #eventEndTime: "2018-04-18T17:00"
