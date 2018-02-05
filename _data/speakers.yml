@@ -1,74 +1,85 @@
 -
+  id: "minu-karthika-ganesan"
+  name: "Minu"
+  surname: "Karthika Ganesan"
+  thumbnailUrl: "MinuKarthikaGanesan.jpg"
+  active: true
+  bio: "I have a long research career involving various fields of biomedical science. At present am submitting my Ph.D. in Cardiovascular Biology at the Medical University of Vienna. Although I love to work in the lab unraveling the intricate cross-talk between the cellular components of a blood vessel wall, I feel greatly satisfied when I could communicate my research to an audience, which has won me many awards."
+-
+  id: "sonja-fischbauer"
+  name: "Sonja"
+  surname: "Fischbauer"
+  thumbnailUrl: "SonjaFischbauer.jpg"
+  active: true
+  bio: "Sonja develops outreach strategies for small businesses and community-rooted organisations. She holds a degree in archaeology from the University of Vienna, worked at excavations and in museum education for 6 years. As a freelance communications consultant, she designs programs to further diversity at tech-events. Her recent project, the mentoring program at the Wikimedia Hackathon 2017 in Vienna, received the Open Minds Austria award for diversity. She loves memes and trains Krav Maga."
+-
+  id: "stasia-lewicka"
+  name: "Stasia"
+  surname: "Lewicka"
+  thumbnailUrl: "StasiaLewicka.jpg"
+  active: true
+  bio: "Stasia,  with her diverse professional background, brings the knowledge and the practice together, in engaging, interactive workshops. She worked with big ones- like IBM, and she worked with small, local companies. Brings experience from over 10 years in Customer Service, Marketing, Project management. With communication being always the core of her work, she now teaches you how to develop your own, authentic way of communication in business. She doesn’t believe in perfection, instead she encourages honesty, authenticity and originality. She prefers cats from dogs and always speaks her mind. And is on a mission to help people, and especially women, to get their voices heard!"
+-
   id: "tanja-ollinger"
   name: "Tanja"
   surname: "Ollinger"
   company: "BOSCH Group"
   title: "Senior Manager"
   thumbnailUrl: "TanjaOllinger.jpg"
-  active: true
   bio: "Tanja is an experienced high level line manager at Bosch, responsible for about 35 people. During her career she has been in several positions, where she learned how to lead change in the process-centric automotive sector, always finding the ideal balance between agility and robustness."
 -
   id: "karin-hohenthaner"
   name: "Karin"
   surname: "Hohenthaner"
   thumbnailUrl: "KarinHohenthaner.jpg"
-  active: true
   bio: "Karin Hohenthaner is a senior project manager at A1 Telekom Austria, Vienna. She has been leading various projects, including post-merger integration projects building convergent solutions to unite processes for fixed-line and mobile customers. During and after her studies of International Business Administration, she worked in Spain, Germany and Austria, in various sectors like e-commerce, university administration and telco. She held project management positions as well as expert roles in marketing, customer services and IT, at organizations such as GSI Commerce, Deutsche Post, Vienna University and (for the last eight years) A1 Telekom Austria. Karin is passionate about agile ways of working and leading project teams to success."
 -
   id: "laura-gaetano"
   name: "Laura"
   surname: "Gaetano"
   thumbnailUrl: "LauraGaetano.jpg"
-  active: true
   bio: "Laura is a manager at Travis Foundation and the organiser of Rails Girls Summer of Code — a 3-month scholarship program to support women in the Open Source community. With a background in the visual arts and a non-traditional career path, she landed in tech as a web developer somewhat by accident. Laura is passionate about making things, Open Source software, feminism, music and space (as in rockets). Her favourite vine is the one of the tiny piglet prancing through the grass."
 -
   id: "josephine-dorado"
   name: "Josephine"
   surname: "Dorado"
   thumbnailUrl: "JosephineDorado.jpg"
-  active: true
   bio: "Josephine Dorado is an entrepreneur, professor and performing artist whose work focuses on the convergence of physical with digital experiences and social practice arts. Her work has garnered multiple Fulbright awards and a MacArthur Foundation award. Recently, Josephine completed a residency at Museumsquartier in Austria, working with refugees to create virtual reality media narratives and exploring aerial performance-play as social practice. She is President of Fulbright’s NY Chapter, teaches at The New School, and consults for the U.S. State Department’s TechCamps. Previously, Josephine founded Kidz Connect, a virtual cultural exchange program that connected youth internationally through creative collaboration and performance in virtual worlds."
 -
   id: "kristina-kiesel"
   name: "Kristina"
   surname: "Kiesel"
   thumbnailUrl: "KristinaKiesel.jpg"
-  active: true
   bio: "I am born and raised in Vienna and studied architecture at the Technical University Vienna and the Pratt Institute NY. in 2015 I finished my PhD in Building Physics on 'The Influence of the Urban Micro Climate on the Thermal Performance of Buildings'. I have been working in research and teaching at the Department of Building Physics and Building Ecology at TU Vienna since 2010. My research focuses are urban microclimate, urban density, air quality, building performance and building performance simulation, acoustics and light."
 -
   id: "agnes-scherzer"
   name: "Agnes"
   surname: "Scherzer"
   thumbnailUrl: "AgnesScherzer.jpg"
-  active: true
   bio: "Agnes is Senior Product Manager at Pivotal Labs, Berlin. She helps start-ups and enterprises establish more user-centered, lean and agile approaches in order to build better products and services. Prior to Pivotal Labs Agnes was responsible for the self-care application portfolio at A1 Telekom Austria and consulted client companies on strategies how to master their Digital Transformation processes. Agnes studied Business Administration and IT Management in Wiener Neustadt and took several courses on related topics at UC Berkeley and Harvard University. She supports the Balanced Team movement and loves to operate at the intersection of user needs, business goals and technical possibilities."
 -
   id: "andrea-mayr-stalder"
   name: "Andrea"
   surname: "Mayr-Stalder"
   thumbnailUrl: "AndreaMayr-Stalder.jpg"
-  active: true
   bio: "Since the late 1990s, Andrea has worked on numerous artistic and educational Internet projects. She studied visual media (University of Applied Arts; Vienna) and has worked as a system admin and programmer at ISPs in Vienna and New York. Much of her work involves Free Software and she was chairwomen of the LinuxWochen, Vienna. Most recently, she initiated Turtlestitch.org, a platform to combine computing and embroidery."
 -
   id: "nora-sarga"
   name: "Nóra"
   surname: "Sárga"
   thumbnailUrl: "NoraSarga.jpg"
-  active: true
   bio: "Nora is a Business Development Manager, Coach and Consultant at beteal. She studied and worked in various fields and assembled an interdisciplinary work experience. After a short experiment working with a traditional company she returned and worked for several years with startups, due to the inspiring environment startups provide. After moving to Austria, Nora was the event manager of the Pioneers Festival for 2 years. Inspired by her own need for a healthy work environment, which make employees happy and motivated she started looking for organizational models which enable a greater degree of freedom. Now she is helping companies to bring out their full potential, learn innovation methods and transform into a new level of operation."
 -
   id: "eniko-balint"
   name: "Enikö"
   surname: "Balint"
   thumbnailUrl: "EnikoBalint.jpg"
-  active: true
   bio: "Eni has started as a developer 9 years ago at an international insurance company, moved upwards the corporate ladder, which was sometimes challenging as a women (+ migrant) in such a male-dominated area. For over 2 years she was leading the distributed business process management team with 22 employees and was responsible for a 7 digit budget. Afterwards she wanted to dive into the startup world, worked for and with startups and decided to build up her own company with the mission of bringing out the potential of individuals and organisations. She thinks adults should play more, this is also what beteal stands for."
 -
   id: "ramon-huidobro"
   name: "Ramón"
   surname: "Huidobro"
   thumbnailUrl: "RamonHuidobro.jpg"
-  active: true
   bio: "Ramón is a Chilean fellow living in Vienna, Austria. He’s been developing Mac, iOS and Web software for years and loving every minute of it. During the last five years he’s been running the “Computer Game Programming” after-school activity at his old school in Vienna where he teaches kids to make games with different technologies. He’s also currently wrapping up his Software Engineering degree at the Vienna University of Technology, and at the same time helping run the “Ruby Habits” study group. He loves puppies."
 -
   id: "stefanie-duchet"
@@ -166,7 +177,7 @@
   title: "Technical Evangelist"
   bio: "Rina is a Technical Evangelist at Microsoft Austria and works with developers on apps for the Windows platform."
   thumbnailUrl: "RinaAhmed.jpg"
-  active: true
+  active: false
   social:
     - {name: "twitter", link: "https://twitter.com/rinaahm"}
 -
