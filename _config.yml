@@ -83,11 +83,7 @@ aboutBlock:
 # - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
-statisticsText: "Science communication and outreach, especially to global audiences in English, is taking off in Japan. This event will bring together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of scicom in Japan, learn new skills, network, and inform the community with best practices. Join us at the Earth-Life Science Institute at the Tokyo Institute of Technology in April for JAPAN SCICOM FORUM 2018.
-
-<br>
-
-This is the first meeting of its kind in Japan for anyone interested or involved in global research communication. This one-day meeting will include keynote talks and panel discussions in the morning on the unique challenges and opportunities of research communication within and beyond Japan. Afternoon breakout workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. Registration is free and the event will be in English."
+statisticsText: "Science communication and outreach, especially to global audiences in English, is taking off in Japan. Japan Scicom Forum brings together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of scicom in Japan, learn new skills, network, and inform the community with best practices. Keynote talks and panel discussions in the morning will reflect on the unique challenges and opportunities of research communication within and beyond Japan. Afternoon breakout workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. Registration is free and the event will be in English."
 
 
 statisticsTextJp: "　英語による科学広報やアウトリーチといった、科学を伝える活動は、今、日本で活気を帯びています。本イベントは、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストやこの分野の選りすぐりの海外の専門家が一堂に会する場を提供しようとする初めての試みです。海外に向けた研究成果の情報発信に携わる人をはじめ、科学広報やアウトリーチに興味や関心のあるすべての方が参加いただけるイベントです。<br>
@@ -109,7 +105,7 @@ latestNewsTitle: "Schedule"
 locationBlockTitle: "Access"
 eventLocationName: "Earth-Life Science Institute (ELSI)"
 eventLocationLink: "http://www.elsi.jp/en/access.html"
-eventStreetAddress: "ELSI Hall"
+#eventStreetAddress: "ELSI Hall"
 eventAddressLocality: "2-12-1-IE-1 Ookayama, Meguro-ku, Tokyo"
 eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ーＩＥー１　ＥＬＳＩホール"
 eventPostalCode: "152-8550"
