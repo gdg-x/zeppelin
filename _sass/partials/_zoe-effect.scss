@@ -20,7 +20,8 @@ $figcaption-color: #3c4a50;
         }
         h2, figcaption, figcaption > a {
             transform: translateY(0);
-            color: #3c4a50;
+            color: $figcaption-color;
+            text-shadow: none;
         }
         figcaption > a {
             &:nth-child(5) {
@@ -53,6 +54,7 @@ $figcaption-color: #3c4a50;
         background-position: -30px;
         -webkit-background-size: 115%;
         background-size: 115%;
+        background-repeat: no-repeat;
         @media (max-width: 767px) {
             background-position: center left;
             -webkit-background-size: 105%;   
@@ -79,7 +81,7 @@ $figcaption-color: #3c4a50;
         }
         h2 {
             font-size: 16px;
-            font-weight: $regular;
+            font-weight: $bold;
             margin: 0;
             word-spacing: -2px;
             text-transform: uppercase;
@@ -87,12 +89,14 @@ $figcaption-color: #3c4a50;
             transform: translateY(-250%);
             transition-delay: .05s;
             color: #fff;
+            text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.9);
             @media (max-width: 767px) {
                 transform: translateY(0); 
-                color: #3c4a50;
+                color: $figcaption-color;
+                text-shadow: none;
             }
             span {
-                font-weight: $bold;
+                font-weight: $extra-bold;
             }
         }
         > div {
