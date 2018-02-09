@@ -115,7 +115,7 @@ venueFeatures: ["2 full theatrical stages", "Seating for 370", "Located in downt
 # TODO: need to set up tweetledee or delete this section https://github.com/tweetledee/tweetledee
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "swiftfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
