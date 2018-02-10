@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Japan SciCom Forum"
 email: "jsf18@kikenji.sakura.ne.jp"
-description: "4/20 - Join us to discuss global science communication & outreach in Japan / 英語による科学広報やアウトリーチを一緒に考えませんか？"
+description: "(4/20) Join us discuss global science communication & outreach in Japan / 英語による科学広報やアウトリーチを一緒に考えませんか？"
 baseurl: ""
 url: "https://japanscicom.github.io"
 permalink: "/blog/:title"
