@@ -38,6 +38,7 @@
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
+    - {name: "twitter", link: "https://twitter.com/sofetching"}
 - 
   id: 4
   name: "Giorgio"
