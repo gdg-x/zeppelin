@@ -27,6 +27,7 @@ mentors:
   bio:
   thumbnailUrl: anaC.jpg
   rockstar: true
+  link: "https://twitter.com/AnaCidre_"
   social:
     - {name: "twitter", link: "https://twitter.com/AnaCidre_"}
 
@@ -36,6 +37,7 @@ mentors:
   bio:
   thumbnailUrl: davidG.jpg
   rockstar: true
+  link: "https://twitter.com/Tansitos"
   social:
     - {name: "twitter", link: "https://twitter.com/Tansitos"}
 
@@ -45,6 +47,7 @@ mentors:
   bio:
   thumbnailUrl: orestesC.jpg
   rockstar: true
+  link: "https://twitter.com/OrestesCA"
   social:
     - {name: "twitter", link: "https://twitter.com/OrestesCA"}
 
@@ -54,5 +57,6 @@ mentors:
   bio:
   thumbnailUrl: veronicaP.jpg
   rockstar: true
+  link: "https://twitter.com/veropduro"
   social:
     - {name: "twitter", link: "https://twitter.com/veropduro"}

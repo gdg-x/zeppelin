@@ -15,9 +15,9 @@
            data-delay="{{ animationDelay }}">
         <div class="lily-head" data-toggle="modal" data-target="#mentorDetailFrontendCon-{{ member.id }}">
           <div class="rockstar-speaker">
-            <div class="flow-img img-circle rockstar-speaker-img"
+            <a href="{{ member.link }}" target="_blank"><div class="flow-img img-circle rockstar-speaker-img"
                  style="background-image: url({{ memberImage }})"></div>
-            <div class="name">{{ member.name }} {{ member.surname }}</div>
+            <div class="name">{{ member.name }} {{ member.surname }}</div></a>
             <br />
           </div>
         </div>
