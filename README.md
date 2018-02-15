@@ -1,8 +1,6 @@
-### About
+### Website for Japan Scicom Forum 2018: http://japanscicom.github.io
 
-Website for Japan Scicom Forum 2018 http://japanscicom.github.io
-
-Forked from [gdg-x/zeppelin](https://github.com/gdg-x/zeppelin) and with thanks to the original authors:
+Forked from [gdg-x/zeppelin](https://github.com/gdg-x/zeppelin) and with special thanks to [@RaoofPhysics](https://github.com/raoofphysics) and the original authors:
 
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
 * Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
