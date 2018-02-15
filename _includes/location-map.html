@@ -14,15 +14,15 @@
 			site.eventAddressLocalityRegion }}</li>
                         <!-- <li><a href="mailto:{{ site.email }}">{{ -->
 			<!-- site.email }}</a></li> -->
-                        <li>
+                        <!--<li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -
                             {% assign endTime = site.eventEndTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
-                <a href="http://www.elsi.jp/en/access.html" class="pull-right">
+                <a href="{{ site.eventLocationLink}}" target="_blank" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>

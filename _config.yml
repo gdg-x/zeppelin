@@ -49,7 +49,7 @@ navigationLinks:
 - {permalink: "#about", text: "About"}
 - {permalink: "#speakers", text: "Speakers"}
 - {permalink: "#schedule", text: "Schedule"}
-- {permalink: "#location", text: "Access"}
+- {permalink: "#location", text: "Venue"}
 - {permalink: "#team", text: "Sponsors"}
 bottomNavigationLinks:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
@@ -102,9 +102,9 @@ rockstarSpeakersTitle: "Keynote speakers"
 latestNewsTitle: "Schedule"
 
 # Location Block
-locationBlockTitle: "Access"
+locationBlockTitle: "Venue"
 eventLocationName: "Earth-Life Science Institute (ELSI)"
-eventLocationLink: "http://www.elsi.jp/en/access.html"
+eventLocationLink: "https://www.google.com/maps/place/ELSI+Earth-Life+Science+Institute+地球生命研究所/@35.6020068,139.6826777,17z/"
 eventStreetAddress: "2-12-1-IE-1 Ookayama, Meguro-ku"
 eventAddressLocality: "Tokyo"
 eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ーＩＥー１"
