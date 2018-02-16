@@ -1,13 +1,13 @@
-- 
+-
   id: 4
-  name: "Kosuke"
+  name: "Takao"
   surname: "Morita"
-  company: "RIKEN"
+  company: "University of Tokyo"
   title: "Researcher"
-  bio: '<p>Bio...</p>'
-  thumbnailUrl: KosukeMorita.jpg 
-  rockstar: false
-  social: 
+  bio: "..."
+  thumbnailUrl: Someya.jpg
+  rockstar: true
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
@@ -17,40 +17,27 @@
   surname: "Chan"
   company: "Asian Scientist Magazine"
   title: "Editor-in-Chief"
-  bio: "Chan is.. "
-  thumbnailUrl: JulianaChen.jpg
+  bio: "... "
+  thumbnailUrl: JulianaChan.jpg
   rockstar: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
+-
   id: 6
   name: "Mary"
   surname: "Voytek"
   company: "NASA"
   title: "Director of NASA Astrobiology"
-  bio: "Voytek is..."
+  bio: "..."
   thumbnailUrl: MaryVoytek.jpeg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+-
