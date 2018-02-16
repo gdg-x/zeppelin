@@ -18,7 +18,6 @@
   place: "Room 2"
   description: "Artificial Intelligence is being talked about all over these days. In this talk you will get an introductory overview of what Machine Learning is and how Artificial Intelligence can be applied to a variety of applications. Of course, we will also look at some real examples where you can see how classical machine learning or deep learning has been used to help organizations gain better insights and take more informed actions."
   subtype: presentation
-  language: de
   speakers: ["rina-ahmed"]
   subtitle: "9:30 - 12:30"
 -

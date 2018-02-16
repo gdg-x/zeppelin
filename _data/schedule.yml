@@ -1,56 +1,73 @@
 -
-  date: "2017-03-11"
-  dateReadable: "11 March 2017"
+  date: "2018-03-10"
+  dateReadable: "10 March 2018"
   tracks:
     - {title: "Presentations", color: "#90be4e"}
-    - {title: "Workshops", color: "#be904e"}
-    - {title: "Kids' Workshops", color: "#03a9f4"}
+    - {title: "Workshop", color: "#be904e"}
+    - {title: "Kids' Workshop", color: "#03a9f4"}
   timeslots:
     -
         startTime: "09:00"
-        endTime: "09:30"
+        endTime: "09:45"
         sessionIds: [900]
     -
-        startTime: "09:30"
-        endTime: "09:45"
-        sessionIds: [901, 0, 201]
-    -
         startTime: "09:45"
-        endTime: "10:45"
+        endTime: "10:00"
+        sessionIds: [901]
+    -
+        startTime: "10:00"
+        endTime: "10:30"
         sessionIds: [100, 200, 201]
     -
-        startTime: "10:45"
-        endTime: "11:45"
+        startTime: "10:30"
+        endTime: "11:00"
         sessionIds: [101, 200, 201]
     -
-        startTime: "11:45"
-        endTime: "12:45"
-        sessionIds: [102, 0, 201]
-    -
-        startTime: "12:45"
-        endTime: "13:45"
-        sessionIds: [902]
-    -
-        startTime: "13:45"
-        endTime: "14:45"
-        sessionIds: [103, 210, 211]
-    -
-        startTime: "14:45"
-        endTime: "15:45"
-        sessionIds: [104, 210, 211]
-    -
-        startTime: "15:45"
-        endTime: "16:15"
+        startTime: "11:00"
+        endTime: "11:30"
         sessionIds: [903]
     -
-        startTime: "16:15"
-        endTime: "17:15"
+        startTime: "11:30"
+        endTime: "12:30"
+        sessionIds: [102, 0, 201]
+    -
+        startTime: "12:30"
+        endTime: "13:30"
+        sessionIds: [902]
+    -
+        startTime: "13:30"
+        endTime: "14:00"
+        sessionIds: [103, 210, 211]
+    -
+        startTime: "14:00"
+        endTime: "14:30"
+        sessionIds: [104, 210, 211]
+    -
+        startTime: "14:30"
+        endTime: "15:00"
         sessionIds: [105, 0, 0]
+
     -
-        startTime: "17:15"
-        endTime: "18:15"
-        sessionIds: [904, 0, 0]
+        startTime: "15:00"
+        endTime: "15:30"
+        sessionIds: [903]
     -
-        startTime: "18:15"
+        startTime: "15:30"
+        endTime: "16:00"
+        sessionIds: [105]
+    -
+        startTime: "16:00"
+        endTime: "16:30"
+        sessionIds: [106]
+    -
+        startTime: "16:30"
+        endTime: "17:00"
+        sessionIds: [107]
+    -
+        startTime: "17:00"
+        endTime: "18:00"
+        sessionIds: [904]
+    -
+        startTime: "18:00"
         endTime: "21:00"
         sessionIds: [905]
