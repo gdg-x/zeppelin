@@ -53,11 +53,11 @@
     -
         startTime: "15:30"
         endTime: "16:00"
-        sessionIds: [105]
+        sessionIds: [106]
     -
         startTime: "16:00"
         endTime: "16:30"
-        sessionIds: [106]
+        sessionIds: [107]
     -
         startTime: "16:30"
         endTime: "17:00"

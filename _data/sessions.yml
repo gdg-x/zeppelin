@@ -38,7 +38,7 @@
   speakers: []
 -
   id: 101
-  title: "Using the Power of Machines – Introduction to Machine Learning and Artificial Intelligence"
+  title: "Using the Power of Machines: Introduction to Machine Learning and Artificial Intelligence"
   place: "Room 2"
   description: "Artificial Intelligence is being talked about all over these days. In this talk you will get an introductory overview of what Machine Learning is and how Artificial Intelligence can be applied to a variety of applications. Of course, we will also look at some real examples where you can see how classical machine learning or deep learning has been used to help organizations gain better insights and take more informed actions."
   subtype: presentation
@@ -52,7 +52,7 @@
   speakers: ["tanja-ollinger"]
 -
   id: 103
-  title: "The mammoth hunt for women* - What archaeology taught me about bringing diversity to tech-communities"
+  title: "The mammoth hunt for women*: What archaeology taught me about bringing diversity to tech-communities"
   place: "Room 1"
   description: "Be it mammoth hunters during the ice age, or Open Source-developers in 2018: Each group develops unique traditions, which can make it difficult to break up stereotypes and have newcomers feel welcome. I’ll talk about how you can identify these cultural, non-technical aspects in a community and share my experience of what worked (and what didn’t) when trying to encourage a higher rate of women* and newcomers in tech-events."
   subtype: presentation
@@ -105,6 +105,13 @@
   speakers: []
   subtype: presentation
 -
+  id: 107
+  title: "TBA"
+  place: "Room 1"
+  description: "TBA"
+  speakers: []
+  subtype: presentation
+-
   id: 904
   title: "Lightning Talks"
   place: "Room 1"
@@ -122,7 +129,7 @@
   id: 906
   title: "Afterparty"
   place: "Lanea"
-  description: "Awesome Afterparty - taking place at Lanea, in walking distance from the conference"
+  description: "Awesome Afterparty: taking place at Lanea, in walking distance from the conference"
   subtype: party
   service: true
   imageUrl: "other/party.png"
