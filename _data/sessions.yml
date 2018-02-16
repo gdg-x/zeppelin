@@ -13,15 +13,15 @@
   service: true
   imageUrl: "other/opening.jpg"
 -
-  id: 201
-  title: "Using the Power of Machines – Introduction to Machine Learning and Artificial Intelligence"
+  id: 200
+  title: "Communication without stereotypes"
   place: "Room 2"
-  description: "Artificial Intelligence is being talked about all over these days. In this talk you will get an introductory overview of what Machine Learning is and how Artificial Intelligence can be applied to a variety of applications. Of course, we will also look at some real examples where you can see how classical machine learning or deep learning has been used to help organizations gain better insights and take more informed actions."
-  subtype: presentation
-  speakers: ["rina-ahmed"]
+  description: "Forget  about gender stereotypes in communication and learn what to do to get your message through- to any audience!<br>This interactive workshop will help you find your own, true and effective way of communication!<br>We’ll focus on finding your own strengths in communication so people want to listen to you and you can achieve your goals!<br><br>So  forget about stereotypes! Join us to discover and explore your own, authentic way of communicating!"
+  subtype: "workshop"
+  speakers: ["stasia-lewicka"]
   subtitle: "9:30 - 12:30"
 -
-  id: 211
+  id: 201
   title: "code! - draw! - stitch!"
   place: "Room 2"
   description: "Turtlestitch is based on a modified Snap!, a web-based graphic programming tool similar to Scratch. The modification enables to use the pen tool to generate patterns that can be read by embroidery machines. Thus it brings together the abstract logic of programming with the material logic of textiles.<br>During the workshop, the participants will be instructed to design a pattern and how to materialize this pattern as embroidery on a textile. You can bring your own T-shirts (at your own risk) or use textiles provided."
@@ -31,20 +31,18 @@
   subtitle: "13:30 - 15:45"
 -
   id: 100
-  title: "The 5 elements of urban architecture: fire, earth, water, air and You"
+  title: "Building bridges: Neuro-inspired technologies"
   place: "Room 1"
-  description: "Urban architecture has a key role in climate policies. More than two thirds of the human population will live in cities by the year 2050. If we do not think about city design, we will not be able to meet our climate goals. Urban design is a fascinating topic for me. It is complex – a typical building performance simulation uses thousands of variables and a lot of computer power. It is integrative – bringing together social sciences, architecture, medicine, physics, meteorology and a variety of other research areas. And it is demanding – changing cities is a political effort that rarely gains the attention it deserves. Therefore, it is the perfect research area for me and other women. Urban design can be understood in five critical aspects that I like to describe as the 5 elements of urban performance: Fire – The suns radiation has major influences on us as human beings, but also on the functionality of buildings and urban environments. The amount of solar gains that go into a building can make it energy efficient and sustainable, but if not considered properly can lead to a building or environment that makes us sick and needs enormous efforts to be usable. Water – Cities have to deal with water in many different ways (eg. Supply of save drinking water, storm water management, sewage treatment). But also the humidity and evaporation will affect the habitability of urban spaces and the way buildings work. Earth --- Urban environments are composed of many different surfaces. The amount of permeable soil within city structures and also the amount of vegetation is fundamental not only to the human wellbeing but also the urban climatic. Air --- The air we breathe is composed by the emission we produce. Furthermore wind on one hand is very important to remove pollutants and to bring fresh into the city. But it can also cause problems for the architecture and the usability of open spaces if to strong. You – The user of an environment whether a building or an urban space plays a key role f we want to make out cities more sustainable. Anthropogenic heat from cars, heating and/or cooling spaces transforms the urban climate and therefore the functionality of buildings and spaces."
+  description: "500 million years of evolution produced performant, ultra-light, energy-effective biological neuronal networks. Insects and worms only possess a few hundred neurons, but they are able to navigate, make decisions, adapt their behavior and communicate. Furthermore, growing evidence suggests that small rodents’ brains are relying on meta-cognition for optimal learning. Through examples, I will explore how neuroscience can profoundly inspire both conceptual and hardware changes in technological innovation."
   subtype: presentation
-  speakers: ["kristina-kiesel"]
-  language: en
+  speakers: ["sabria-lagoun"]
 -
   id: 101
-  title: "Thriving in the Macondo: VR storytelling workshops for women"
-  place: "Room 1"
-  description: "Josephine Dorado recently completed a Fulbright residency in Austria, working with women in the Macondo refugee community to create virtual reality media narratives of their journeys and developing a methodology by which the VR workshops can be replicated. The workshops involved creating immersive 360-degree photospheres stitched with audio stories of their journeys. Participants included women from Chechnya, Pakistan, Somalia, Afghanistan and Syria who were taking compulsory language classes at the Macondo. The workshop weaves language learning with immersive story creation in a deeply engaging 360-degree environment. Women participating learned how to generate their own stories, construct and use Google Cardboard headsets and create photospheres, encouraging digital literacy and storytelling skills within a framework of cultural inclusion and awareness. The talk will describe the process and will include elements of participation involving viewing content through Google Cardboard headsets."
-  subtype: "presentation"
-  speakers: ["josephine-dorado"]
-  language: en
+  title: "Using the Power of Machines – Introduction to Machine Learning and Artificial Intelligence"
+  place: "Room 2"
+  description: "Artificial Intelligence is being talked about all over these days. In this talk you will get an introductory overview of what Machine Learning is and how Artificial Intelligence can be applied to a variety of applications. Of course, we will also look at some real examples where you can see how classical machine learning or deep learning has been used to help organizations gain better insights and take more informed actions."
+  subtype: presentation
+  speakers: ["rina-ahmed"]
 -
   id: 102
   title: "TBA"
@@ -52,15 +50,13 @@
   description: "More details following soon"
   subtype: "presentation"
   speakers: ["tanja-ollinger"]
-  language: en
 -
   id: 103
-  title: "Making your voice heard: Open Source Needs You"
+  title: "The mammoth hunt for women* - What archaeology taught me about bringing diversity to tech-communities"
   place: "Room 1"
-  description: "The people who contribute to an OSS project are the ones shaping its future. But if you've never contributed to an Open Source project before, it can be daunting to submit your first pull request and become part of its community, especially if you're a woman. This might keep you from contributing in the first place, meaning your voice, experience, and opinions will be lost. What if you could submit a pull request with confidence, contribute your skills & experience, and become a meaningful part of a project? My talk will explain what contributing to Open Source actually means, show the (social and technical) ways in which you can contribute, and present paths to get started with your first contribution. By the end, you will know how to find a project you’re passionate about, and how you can go about improving it and the Open Source community—one contribution at a time."
+  description: "Be it mammoth hunters during the ice age, or Open Source-developers in 2018: Each group develops unique traditions, which can make it difficult to break up stereotypes and have newcomers feel welcome. I’ll talk about how you can identify these cultural, non-technical aspects in a community and share my experience of what worked (and what didn’t) when trying to encourage a higher rate of women* and newcomers in tech-events."
   subtype: presentation
-  speakers: ["laura-gaetano"]
-  language: en
+  speakers: ["sonja-fischbauer"]
 -
   id: 300
   title: "Partners"
@@ -82,34 +78,13 @@
   service: true
   imageUrl: "other/lunchbreak.jpg"
 -
-  id: 200
-  title: "Workshop: LEGO - this game is serious"
-  place: "Room 3"
-  description: "LEGO is already used as a tool in business environments amongst others to resolve challenges and to map out complicated strategic decisions. We use LEGO as a co-creation tool, to express feeling and ideas. By building LEGO models, people associate metaphors to it and a storytelling begins, which is more powerful than just talking. This hands-on workshop is inspired by LEGO Serious Play principles but draws elements from various other methodologies as well, this way providing a unique LEGO experience. The workshop offers participants the possibility to build up something together, to be creative, to share ideas and thoughts, to play and to discuss serious topics along the way. At the Women Techmakers we will model topics related to challenges women face in the STEM areas. During the modelling phase also ideas and solutions will be discussed. It is a really powerful tool to loosen up boundaries and talk about feelings and abstract concepts in a very concrete environment."
-  subtype: workshop
-  speakers: ["eniko-balint", "nora-sarga"]
-  language: en
-  subtitle: "09:45 - 11:15"
-  imageUrl: "other/lego.jpg"
--
-  id: 210
-  title: "Workshop: LEGO - this game is serious"
-  place: "Room 3"
-  description: "LEGO Serious Play (LSP) is a way of using LEGO bricks to express feelings and ideas. It is used by mostly adults and companies, to collaborate and discuss relationships and concepts. By building LEGO models, people associate metaphors to it and a storytelling begins, which is more powerful than just talking. This hands-on workshop is based on the LSP principles and offers participants the possibility to build up something together, to be creative, to share ideas and thoughts, to play and to discuss very “serious” topics along the way."
-  subtype: workshop
-  speakers: ["eniko-balint", "nora-sarga"]
-  language: en
-  subtitle: "13:45 - 15:15"
-  imageUrl: "other/lego.jpg"
--
   id: 104
-  title: "Ways to find success and happiness at work – lessons for our 20-year old selves"
+  title: "Artificial Tissue for implants"
   place: "Room 1"
-  description: "Looking back at our careers so far, we faced both phases of success as well as rocky times and disruptions; at the same time, we realized that while our areas of competence grew, happiness did not always necessarily correlate with (perceived) success. In our talk we want to reflect on the learnings we identified to find both - success and happiness at work."
+  description: "The generation of artificial tissue for implants and bypass grafting has long been the focus of scientific research. One of the biggest challenges has been to create multi-layer tissue structures designed to enable the diffusion of nutrients for surrounding cells in a similar manner to natural tissue. I have successfully constructed a blood vessel wall in a Petri dish, using the resident cells of an artery. This engineered vessel wall behaves very similarly to the blood vessel wall in the human body, both in its structure and its function."
   subtype: presentation
-  speakers: ["agnes-scherzer","karin-hohenthaner"]
+  speakers: ["minu-karthika-ganesan"]
   language: en
-  imageUrl: "other/happiness.jpg"
 -
   id: 903
   title: "Coffee and Snacks"

@@ -1,4 +1,11 @@
 -
+  id: "sabria-lagoun"
+  name: "Sabria"
+  surname: "Lagoun"
+  thumbnailUrl: "SabriaLagoun.jpg"
+  active: true
+  bio: "After finishing her Neuroscience M.Sc. in Marseille, Sabria moved to Vienna to complete a Ph.D. in Cognitive Neurobiology. Alongside her studies, she is involved in scientific communication, and mental illness awareness initiatives. Sabria organized events, hands-on workshops, conceptualized art projects, and is regularly speaking to promote neuroscience knowledge."
+-
   id: "minu-karthika-ganesan"
   name: "Minu"
   surname: "Karthika Ganesan"
