@@ -31,11 +31,11 @@
   subtitle: "13:30 - 15:30"
 -
   id: 100
-  title: "Building bridges: Neuro-inspired technologies"
+  title: "TBA"
   place: "Room 1"
-  description: "500 million years of evolution produced performant, ultra-light, energy-effective biological neuronal networks. Insects and worms only possess a few hundred neurons, but they are able to navigate, make decisions, adapt their behavior and communicate. Furthermore, growing evidence suggests that small rodents’ brains are relying on meta-cognition for optimal learning. Through examples, I will explore how neuroscience can profoundly inspire both conceptual and hardware changes in technological innovation."
+  description: "TBA"
   subtype: presentation
-  speakers: ["sabria-lagoun"]
+  speakers: []
 -
   id: 101
   title: "Using the Power of Machines – Introduction to Machine Learning and Artificial Intelligence"
@@ -93,11 +93,11 @@
   imageUrl: "other/coffeebreak.jpg"
 -
   id: 105
-  title: "TBA"
+  title: "Building bridges: Neuro-inspired technologies"
   place: "Room 1"
-  description: "TBA"
-  speakers: []
+  description: "500 million years of evolution produced performant, ultra-light, energy-effective biological neuronal networks. Insects and worms only possess a few hundred neurons, but they are able to navigate, make decisions, adapt their behavior and communicate. Furthermore, growing evidence suggests that small rodents’ brains are relying on meta-cognition for optimal learning. Through examples, I will explore how neuroscience can profoundly inspire both conceptual and hardware changes in technological innovation."
   subtype: presentation
+  speakers: ["sabria-lagoun"]
 -
   id: 106
   title: "TBA"
