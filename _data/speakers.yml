@@ -37,6 +37,8 @@
   thumbnailUrl: "StasiaLewicka.jpg"
   active: true
   bio: "Stasia,  with her diverse professional background, brings the knowledge and the practice together, in engaging, interactive workshops. She worked with big ones- like IBM, and she worked with small, local companies. Brings experience from over 10 years in Customer Service, Marketing, Project management. With communication being always the core of her work, she now teaches you how to develop your own, authentic way of communication in business. She doesn’t believe in perfection, instead she encourages honesty, authenticity and originality. She prefers cats from dogs and always speaks her mind. And is on a mission to help people, and especially women, to get their voices heard!"
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/StasiaLewickaTrainer/"}
 -
   id: "tanja-ollinger"
   name: "Tanja"
