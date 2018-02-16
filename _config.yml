@@ -44,8 +44,8 @@ c4sponsorsUrl: "mailto:team@womentechmakers.at"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/call/", text: "Call for Speakers"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
@@ -53,10 +53,10 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
 rightNavigationButtons:
- # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
+ - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
 
 # Hero Block
@@ -68,7 +68,7 @@ eventDateISO: "2018-03-10T09:30+01:00"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
-# - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
+- {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
 # - {permalink: "/call/", text: "Call for Speakers"}
 
 # About Block
