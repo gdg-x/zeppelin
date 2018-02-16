@@ -16,19 +16,19 @@
   id: 200
   title: "Communication without stereotypes"
   place: "Room 2"
-  description: "Forget  about gender stereotypes in communication and learn what to do to get your message through- to any audience!<br>This interactive workshop will help you find your own, true and effective way of communication!<br>We’ll focus on finding your own strengths in communication so people want to listen to you and you can achieve your goals!<br><br>So  forget about stereotypes! Join us to discover and explore your own, authentic way of communicating!"
+  description: "Forget about gender stereotypes in communication and learn what to do to get your message through- to any audience!<br>This interactive workshop will help you find your own, true and effective way of communication!<br>We’ll focus on finding your own strengths in communication so people want to listen to you and you can achieve your goals!<br><br>So  forget about stereotypes! Join us to discover and explore your own, authentic way of communicating!"
   subtype: "workshop"
   speakers: ["stasia-lewicka"]
-  subtitle: "9:30 - 12:30"
+  subtitle: "10:00 - 12:00"
 -
   id: 201
-  title: "code! - draw! - stitch!"
+  title: "Kids' workshop"
   place: "Room 2"
-  description: "Turtlestitch is based on a modified Snap!, a web-based graphic programming tool similar to Scratch. The modification enables to use the pen tool to generate patterns that can be read by embroidery machines. Thus it brings together the abstract logic of programming with the material logic of textiles.<br>During the workshop, the participants will be instructed to design a pattern and how to materialize this pattern as embroidery on a textile. You can bring your own T-shirts (at your own risk) or use textiles provided."
+  description: "More details will be announced soon"
   subtype: workshop
-  speakers: ["andrea-mayr-stalder"]
+  speakers: []
   language: de
-  subtitle: "13:30 - 15:45"
+  subtitle: "13:30 - 15:30"
 -
   id: 100
   title: "Building bridges: Neuro-inspired technologies"
@@ -93,21 +93,34 @@
   imageUrl: "other/coffeebreak.jpg"
 -
   id: 105
-  title: "The Benefits Of Teaching Kids to Code"
+  title: "TBA"
   place: "Room 1"
-  description: "'How come we can only define a method once?' Ever taught kids to code? They have this magical ability to take something you think you understand well and turn it upside down within an instant. They challenge norms and ask questions that you never thought could be asked. Challenges aside, teaching has been an extraordinary turning point for me. I highly recommend it! You can take the lessons learned from doing so and turn them into valuable skills. These can help you become an active member of the developer community. Everyone can benefit from teaching, and not just from teaching kids!"
-  speakers: ["ramon-huidobro"]
+  description: "TBA"
+  speakers: []
   subtype: presentation
-  language: en
+-
+  id: 106
+  title: "TBA"
+  place: "Room 1"
+  description: "TBA"
+  speakers: []
+  subtype: presentation
 -
   id: 904
-  title: "Lightning Talks & Closing"
+  title: "Lightning Talks"
   place: "Room 1"
   service: true
   language: "en"
   imageUrl: "other/lightning.jpg"
 -
   id: 905
+  title: "Closing"
+  place: "Room 1"
+  service: true
+  language: "en"
+  imageUrl: "other/closing.jpg"
+-
+  id: 906
   title: "Afterparty"
   place: "Lanea"
   description: "Awesome Afterparty - taking place at Lanea, in walking distance from the conference"
