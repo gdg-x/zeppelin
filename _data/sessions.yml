@@ -22,11 +22,11 @@
   subtitle: "10:30 - 12:30"
 -
   id: 201
-  title: "Kids' workshop"
+  title: "Experiments for kids"
   place: "Room 2"
-  description: "More details will be announced soon"
+  description: "Together we will make the following experiments:<br>* The Iodine Clock Experiment<br>* How to make 'Elephant toothpaste'<br>* How to grow crystals<br>And there will be experiments with liquid nitrogen (<em>of course only under strict supervision!</em>), making a rubber ball and writing with invisible ink."
   subtype: workshop
-  speakers: []
+  speakers: ["yazgan-mete", "stefan-helfert"]
   language: de
   subtitle: "13:30 - 15:30"
 -
