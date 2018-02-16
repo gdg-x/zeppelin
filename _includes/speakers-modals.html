@@ -18,7 +18,9 @@
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
 										<h4>{{ session.title }}</h4>
+										{% if session.language %}
 										<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+										{% endif %}
 										<!-- <span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span> -->
 										{% if session.video %}
 										<div class="theme-video embed-responsive embed-responsive-16by9">
