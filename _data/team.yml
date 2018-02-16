@@ -34,6 +34,9 @@
   surname: "Sandanova"
   team: true
   thumbnailUrl: "TatyanaSandanova.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/delikatessa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tanyasan/"}
 -
   id: "eva-lettner"
   name: "Eva"
@@ -41,7 +44,7 @@
   team: false
   thumbnailUrl: "EvaLettner.jpg"
   social:
-    - {name: "twitter", link: "http://twitter.com/eva_trostlos"}
+    - {name: "twitter", link: "https://twitter.com/eva_trostlos"}
     - {name: "site", link: "http://codepen.io/eva_trostlos/"}
 -
   id: "candy-chrysochou"
