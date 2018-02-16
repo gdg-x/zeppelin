@@ -33,6 +33,7 @@
   company: "BOSCH Group"
   title: "Senior Manager"
   thumbnailUrl: "TanjaOllinger.jpg"
+  active: true
   bio: "Tanja is an experienced high level line manager at Bosch, responsible for about 35 people. During her career she has been in several positions, where she learned how to lead change in the process-centric automotive sector, always finding the ideal balance between agility and robustness."
 -
   id: "karin-hohenthaner"
