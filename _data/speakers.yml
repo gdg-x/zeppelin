@@ -1,7 +1,7 @@
 -
   id: 4
   name: "Takao"
-  surname: "Morita"
+  surname: "Someya"
   company: "University of Tokyo"
   title: "Researcher"
   bio: "..."
@@ -11,7 +11,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+-
   id: 5
   name: "Juliana"
   surname: "Chan"
