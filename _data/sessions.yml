@@ -38,25 +38,53 @@
   speakers: []
 -
   id: 101
-  title: "Using the Power of Machines: Introduction to Machine Learning and Artificial Intelligence"
-  place: "Room 2"
-  description: "Artificial Intelligence is being talked about all over these days. In this talk you will get an introductory overview of what Machine Learning is and how Artificial Intelligence can be applied to a variety of applications. Of course, we will also look at some real examples where you can see how classical machine learning or deep learning has been used to help organizations gain better insights and take more informed actions."
-  subtype: presentation
-  speakers: ["rina-ahmed"]
--
-  id: 102
   title: "TBA"
   place: "Room 1"
   description: "More details following soon"
   subtype: "presentation"
   speakers: ["tanja-ollinger"]
 -
+  id: 102
+  title: "Using the Power of Machines: Introduction to Machine Learning and Artificial Intelligence"
+  place: "Room 2"
+  description: "Artificial Intelligence is being talked about all over these days. In this talk you will get an introductory overview of what Machine Learning is and how Artificial Intelligence can be applied to a variety of applications. Of course, we will also look at some real examples where you can see how classical machine learning or deep learning has been used to help organizations gain better insights and take more informed actions."
+  subtype: presentation
+  speakers: ["rina-ahmed"]
+-
   id: 103
+  title: "New frontiers in tissue engineering"
+  place: "Room 1"
+  description: "The generation of artificial tissue for implants and bypass grafting has long been the focus of scientific research. One of the biggest challenges has been to create multi-layer tissue structures designed to enable the diffusion of nutrients for surrounding cells in a similar manner to natural tissue. I have successfully constructed a blood vessel wall in a Petri dish, using the resident cells of an artery. This engineered vessel wall behaves very similarly to the blood vessel wall in the human body, both in its structure and its function."
+  subtype: presentation
+  speakers: ["minu-karthika-ganesan"]
+-
+  id: 104
+  title: "TBA"
+  place: "Room 1"
+  description: "More details will be announced soon!"
+  speakers: ["mario-arh"]
+  subtype: presentation
+-
+  id: 105
   title: "The mammoth hunt for women*: What archaeology taught me about bringing diversity to tech-communities"
   place: "Room 1"
   description: "Be it mammoth hunters during the ice age, or Open Source-developers in 2018: Each group develops unique traditions, which can make it difficult to break up stereotypes and have newcomers feel welcome. I’ll talk about how you can identify these cultural, non-technical aspects in a community and share my experience of what worked (and what didn’t) when trying to encourage a higher rate of women* and newcomers in tech-events."
   subtype: presentation
   speakers: ["sonja-fischbauer"]
+-
+  id: 106
+  title: "Building bridges: Neuro-inspired technologies"
+  place: "Room 1"
+  description: "500 million years of evolution produced performant, ultra-light, energy-effective biological neuronal networks. Insects and worms only possess a few hundred neurons, but they are able to navigate, make decisions, adapt their behavior and communicate. Furthermore, growing evidence suggests that small rodents’ brains are relying on meta-cognition for optimal learning. Through examples, I will explore how neuroscience can profoundly inspire both conceptual and hardware changes in technological innovation."
+  subtype: presentation
+  speakers: ["sabria-lagoun"]
+-
+  id: 107
+  title: "TBA"
+  place: "Room 1"
+  description: "More details will be announced soon!"
+  speakers: []
+  subtype: presentation
 -
   id: 300
   title: "Partners"
@@ -78,39 +106,11 @@
   service: true
   imageUrl: "other/lunchbreak.jpg"
 -
-  id: 104
-  title: "New frontiers in tissue engineering"
-  place: "Room 1"
-  description: "The generation of artificial tissue for implants and bypass grafting has long been the focus of scientific research. One of the biggest challenges has been to create multi-layer tissue structures designed to enable the diffusion of nutrients for surrounding cells in a similar manner to natural tissue. I have successfully constructed a blood vessel wall in a Petri dish, using the resident cells of an artery. This engineered vessel wall behaves very similarly to the blood vessel wall in the human body, both in its structure and its function."
-  subtype: presentation
-  speakers: ["minu-karthika-ganesan"]
--
   id: 903
   title: "Coffee and Snacks"
   place: "Hall"
   service: true
   imageUrl: "other/coffeebreak.jpg"
--
-  id: 105
-  title: "Building bridges: Neuro-inspired technologies"
-  place: "Room 1"
-  description: "500 million years of evolution produced performant, ultra-light, energy-effective biological neuronal networks. Insects and worms only possess a few hundred neurons, but they are able to navigate, make decisions, adapt their behavior and communicate. Furthermore, growing evidence suggests that small rodents’ brains are relying on meta-cognition for optimal learning. Through examples, I will explore how neuroscience can profoundly inspire both conceptual and hardware changes in technological innovation."
-  subtype: presentation
-  speakers: ["sabria-lagoun"]
--
-  id: 106
-  title: "TBA"
-  place: "Room 1"
-  description: "TBA"
-  speakers: []
-  subtype: presentation
--
-  id: 107
-  title: "TBA"
-  place: "Room 1"
-  description: "TBA"
-  speakers: []
-  subtype: presentation
 -
   id: 904
   title: "Lightning Talks"
