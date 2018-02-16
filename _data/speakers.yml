@@ -19,6 +19,8 @@
   thumbnailUrl: "SonjaFischbauer.jpg"
   active: true
   bio: "Sonja develops outreach strategies for small businesses and community-rooted organisations. She holds a degree in archaeology from the University of Vienna, worked at excavations and in museum education for 6 years. As a freelance communications consultant, she designs programs to further diversity at tech-events. Her recent project, the mentoring program at the Wikimedia Hackathon 2017 in Vienna, received the Open Minds Austria award for diversity. She loves memes and trains Krav Maga."
+  social:
+    - {name: "twitter", link: "https://twitter.com/sonkiki"}
 -
   id: "mario-arh"
   name: "Mario"
