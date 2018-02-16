@@ -2,9 +2,8 @@
   date: "2018-03-10"
   dateReadable: "10 March 2018"
   tracks:
-    - {title: "Presentations", color: "#90be4e"}
-    - {title: "Workshop", color: "#be904e"}
-    - {title: "Kids' Workshop", color: "#03a9f4"}
+    - {title: "Kuppelsaal", color: "#90be4e"}
+    - {title: "Workshops room", color: "#03a9f4"}
   timeslots:
     -
         startTime: "09:00"
@@ -17,19 +16,19 @@
     -
         startTime: "10:00"
         endTime: "10:30"
-        sessionIds: [100, 200, 201]
+        sessionIds: [100, 200]
     -
         startTime: "10:30"
         endTime: "11:00"
-        sessionIds: [101, 200, 201]
+        sessionIds: [101, 200]
     -
         startTime: "11:00"
         endTime: "11:30"
-        sessionIds: [903]
+        sessionIds: [903, 200]
     -
         startTime: "11:30"
         endTime: "12:30"
-        sessionIds: [102, 0, 201]
+        sessionIds: [102, 200]
     -
         startTime: "12:30"
         endTime: "13:30"
@@ -37,20 +36,20 @@
     -
         startTime: "13:30"
         endTime: "14:00"
-        sessionIds: [103, 210, 211]
+        sessionIds: [103, 201]
     -
         startTime: "14:00"
         endTime: "14:30"
-        sessionIds: [104, 210, 211]
+        sessionIds: [104, 201]
     -
         startTime: "14:30"
         endTime: "15:00"
-        sessionIds: [105, 0, 0]
+        sessionIds: [105, 201]
 
     -
         startTime: "15:00"
         endTime: "15:30"
-        sessionIds: [903]
+        sessionIds: [903, 201]
     -
         startTime: "15:30"
         endTime: "16:00"
