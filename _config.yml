@@ -46,7 +46,7 @@ navigationLinks:
  # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/call/", text: "Call for Speakers"}
- # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
