@@ -217,7 +217,7 @@ blogCommentsEnabled: false
 discusShortName: "wtmvienna"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
