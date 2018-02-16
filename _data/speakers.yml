@@ -16,6 +16,8 @@
   id: "mario-arh"
   name: "Mario"
   surname: "Arh"
+  company: "EBV Elektronik"
+  title: "Sales Engineer"
   thumbnailUrl: "MarioArh.jpg"
   active: true
   bio: "Mario Arh is an expert in the electronics and semiconductor technologies. Since, 2013, he is a Sales Engineer at EBV Elektronik, working with innovative SMEs and corporations in the field of automotive-, industrial- and consumer electronic applications. In addition to the technical support, Mario is also helping his clients to establish professional and reliable supply chain and logistic processes. Previously he has served as a Quality Engineer at a leading semiconductor company Infineon Technologies Austria. Since 2015, he is also a Mentor at the high-tech incubator INiTS, supporting hardware companies."
