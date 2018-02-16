@@ -13,6 +13,13 @@
   active: true
   bio: "Sonja develops outreach strategies for small businesses and community-rooted organisations. She holds a degree in archaeology from the University of Vienna, worked at excavations and in museum education for 6 years. As a freelance communications consultant, she designs programs to further diversity at tech-events. Her recent project, the mentoring program at the Wikimedia Hackathon 2017 in Vienna, received the Open Minds Austria award for diversity. She loves memes and trains Krav Maga."
 -
+  id: "mario-arh"
+  name: "Mario"
+  surname: "Arh"
+  thumbnailUrl: "MarioArh.jpg"
+  active: true
+  bio: "Mario Arh is an expert in the electronics and semiconductor technologies. Since, 2013, he is a Sales Engineer at EBV Elektronik, working with innovative SMEs and corporations in the field of automotive-, industrial- and consumer electronic applications. In addition to the technical support, Mario is also helping his clients to establish professional and reliable supply chain and logistic processes. Previously he has served as a Quality Engineer at a leading semiconductor company Infineon Technologies Austria. Since 2015, he is also a Mentor at the high-tech incubator INiTS, supporting hardware companies."
+-
   id: "stasia-lewicka"
   name: "Stasia"
   surname: "Lewicka"
@@ -175,9 +182,9 @@
   surname: "Ahmed"
   company: "Microsoft Austria"
   title: "Technical Evangelist"
-  bio: "Rina is a Technical Evangelist at Microsoft Austria and works with developers on apps for the Windows platform."
+  bio: "Rina Ahmed is Software Engineer in the Commercial Software Engineering Group of Microsoft. She codes with customers and partners on AI and Machine Learning solutions. She also has experience in supporting developers with cloud solutions and client development as Technical Evangelist."
   thumbnailUrl: "RinaAhmed.jpg"
-  active: false
+  active: true
   social:
     - {name: "twitter", link: "https://twitter.com/rinaahm"}
 -
