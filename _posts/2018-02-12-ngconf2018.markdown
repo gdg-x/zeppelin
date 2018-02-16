@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 <p class="post-body">
     <b>Excited to announce an ngGirls workshop in Salt Lake City, Utah, as part of ng-conf!</b>
-    <br>The workshop will be held on Friday, April 20th, 2018.
+    <br>The workshop will be held on Tuesday, April 17th, 2018.
     <br>Application and Call for Mentors are open!
     <br>All the details and registration are <a href="{{ jsite.baseurl | append: '/ng-conf' }}">here</a>.
 </p>
