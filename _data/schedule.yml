@@ -3,7 +3,7 @@
   dateReadable: "10 March 2018"
   tracks:
     - {title: "Kuppelsaal", color: "#90be4e"}
-    - {title: "Workshops room", color: "#03a9f4"}
+    - {title: "Kuppel Seminarraum", color: "#03a9f4"}
   timeslots:
     -
         startTime: "09:00"
