@@ -14,10 +14,10 @@
   imageUrl: "other/opening.jpg"
 -
   id: 201
-  title: "My first computer game with TouchDevelop"
+  title: "Using the Power of Machines"
   place: "Room 2"
-  description: "In this workshop we will learn what programming is and how you have to think when you want to develop computer games. We will work together on a computer game, so that by the end of the workshop you have created your own version of a game similar to Flappy Bird. Of course, making a game also means playing it! Who will fly the longest in the end?"
-  subtype: workshop
+  description: "Introduction to Machine Learning and Artificial Intelligence"
+  subtype: presentation
   language: de
   speakers: ["rina-ahmed"]
   subtitle: "9:30 - 12:30"
