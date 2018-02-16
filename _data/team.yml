@@ -37,6 +37,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/delikatessa"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/tanyasan/"}
+    - {name: "github", link: "https://github.com/delikatessa"}
 -
   id: "eva-lettner"
   name: "Eva"
