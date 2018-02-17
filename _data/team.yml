@@ -1,4 +1,14 @@
 -
+  id: "tatyana-sandanova"
+  name: "Tatyana"
+  surname: "Sandanova"
+  team: true
+  thumbnailUrl: "TatyanaSandanova.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/delikatessa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tanyasan/"}
+    - {name: "github", link: "https://github.com/delikatessa"}
+-
   id: "lara-spendier"
   name: "Lara"
   surname: "Spendier"
@@ -29,15 +39,15 @@
     - {name: "facebook", link: "https://www.facebook.com/timea.turdean"}
     - {name: "site", link: "http://www.timeaturdean.com/"}
 -
-  id: "tatyana-sandanova"
-  name: "Tatyana"
-  surname: "Sandanova"
+  id: "marta-palandri"
+  name: "Marta"
+  surname: "Palandri"
   team: true
-  thumbnailUrl: "TatyanaSandanova.jpg"
+  thumbnailUrl: "MartaPalandri.jpg"
   social:
-    - {name: "twitter", link: "https://twitter.com/delikatessa"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tanyasan/"}
-    - {name: "github", link: "https://github.com/delikatessa"}
+    - {name: "github", link: "https://github.com/catb0y"}
+    - {name: "twitter", link: "https://twitter.com/hardlyanitgirl"}
+    - {name: "linkedin", link: "http://linkedin.com/in/martapalandri/"}
 -
   id: "eva-lettner"
   name: "Eva"
