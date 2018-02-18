@@ -25,6 +25,12 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/mahek-hanfi-36794021"}
 -
+  id: "ramon-huidobro"
+  name: "Ramón"
+  surname: "Huidobro"
+  thumbnailUrl: "RamonHuidobro.jpg"
+  team: true
+-
   id: "timea-turdean"
   name: "Timea"
   surname: "Turdean"
