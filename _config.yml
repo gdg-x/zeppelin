@@ -68,6 +68,7 @@ bottomNavigationLinks:
 #  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
  - {permalink: "/galicia/", text: "ngGirls @ Galicia"}
+ - {permalink: "/copenhagen/", text: "ngGirls @ Copenhagen"}
  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 rightNavigationButtons:
 # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
@@ -90,9 +91,10 @@ upcomingEvents:
 #  - {permalink: "/rio/", date: "January 13th, 2018", location: "Rio de Janeiro", name: "ngGirls @ Rio"}
 #  - {permalink: "/ngAtl/", date: "January 30th, 2018", location: "Atlanta, GA", name: "ngGirls @ ngAtl"}
 #  - {permalink: "/ng-europe/", date: "February 3rd, 2018", location: "Paris", name: "ngGirls @ ngEurope"}
- - {permalink: "/ngVikings/", date: "February 28th, 2018", location: "Espoo, Helsinki", name: "ngGirls @ ngVikings"}
- - {permalink: "/galicia/", date: "March 9th, 2018", location: "Vigo, Spain", name: "ngGirls @ Galicia"}
- - {permalink: "/ng-conf/", date: "April 17th, 2018", location: "Salt Lake City, Utah", name: "ngGirls @ ng-conf"}
+ - {permalink: "/ngVikings/", date: "February 28th", location: "Espoo, Helsinki", name: "ngGirls @ ngVikings"}
+ - {permalink: "/galicia/", date: "March 9th", location: "Vigo, Spain", name: "ngGirls @ Galicia"}
+ - {permalink: "/copenhagen/", date: "March 10th", location: "Copenhagen, Denmark", name: "ngGirls @ Copenhagen"}
+ - {permalink: "/ng-conf/", date: "April 17th", location: "Salt Lake City, Utah", name: "ngGirls @ ng-conf"}
 heroButtons:
 # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
@@ -109,6 +111,7 @@ heroButtons:
 #  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
  - {permalink: "/galicia/", text: "ngGirls @ Galicia"}
+ - {permalink: "/copenhagen/", text: "ngGirls @ Copenhagen"}
  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 # - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform", text: "call for mentors"}

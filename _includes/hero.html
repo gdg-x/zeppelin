@@ -20,7 +20,7 @@
             <!--<h1>{{ heroText }}<span class="hidden-xs"></span></h1>-->
             <p style="line-height: 38px;">
                 Upcoming Events:
-                <div style="font-size: 22px;">
+                <div style="font-size: 22px; line-height: 50px">
                     {% for event in site.upcomingEvents %}
                     <div style="display: inline-block; width: 400px;"
                        {% if event.link != null or event.newTab == true %}target="_blank"{% endif %}
