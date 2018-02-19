@@ -22,8 +22,9 @@ partners:
 -
    group: "With support of"
    elements:
-#     - {name: "ng-conf", description: "ng-conf 2018 - World's original Angular conference", link: "http://www.ng-conf.org/", imageUrl: "ng-conf2018.png"}
-#     - {name: "Microsoft", description: "Microsoft Cloud Developer Advocates", link: "https://developer.microsoft.com/en-us/advocates/index.html", imageUrl: "microsoft.png"}
+   - {name: "ngCopenhagen", description: "ngCopenhagen - Angular Meetup in Copenhagen", link: "https://www.meetup.com/ngCopenhagen/", imageUrl: "ngCopenhagen.png"}
+   - {name: "GDG Copenhagen", description: "GDG Copenhagen - Google Developer Group Copenhagen", link: "https://www.meetup.com/GDG-Copenhagen/", imageUrl: "gdg-copenhagen.png"}
+   - {name: "Nordea", description: "Nordea bank", link: "https://www.nordea.com/en/", imageUrl: "nordea.png"}
 
 
 
