@@ -58,9 +58,9 @@
   speakers: ["minu-karthika-ganesan"]
 -
   id: 104
-  title: "TBA"
+  title: "Connected Cars: AI and Sensors as a driving force"
   place: "Room 1"
-  description: "More details will be announced soon!"
+  description: "Connected cars have been a buzzword for the last years. While autonomous cars can be seen on the roads mostly as they get tested, significant advancements for the car-to-infrastructure communication are still needed and yet to come.<br>New technologies in the electronics space have enabled the development of sensors and processing power that eliminate all the traffic safety problems. I will talk about how such components are changing today's cars in the near future and what are the next steps for fully autonomous, connected cars to reach the mass market."
   speakers: ["mario-arh"]
   subtype: presentation
 -
