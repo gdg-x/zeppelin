@@ -32,7 +32,6 @@
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/senorhuidobro"}
-    - {name: "facebook", link: "https://www.facebook.com/ramonhuidobro"}
     - {name: "site", link: "https://www.ramonhuidobro.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ramonhuidobro" }
     - {name: "github", link: "https://github.com/ramonh"}
