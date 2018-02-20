@@ -166,3 +166,13 @@
   surname: "Stecher"
   thumbnailUrl: "BernhardStecher.jpg"
   team: false
+-
+  id: "nik-graf"
+  name: "Nik"
+  surname: "Graf"
+  team: true
+  thumbnailUrl: "nikgraf.jpg"
+  social:
+    - {name: "github", link: "https://github.com/nikgraf"}
+    - {name: "twitter", link: "https://twitter.com/nikgraf"}
+    - {name: "facebook", link: "https://www.facebook.com/nik.graf"}
