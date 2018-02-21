@@ -211,7 +211,7 @@ directionDetailsTitle: "Get around Boston"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Logan Airport is right next to the city. It is easily reachable by car, public transport, or taxi. More information is available at the <a href="http://www.massport.com/logan-airport/">airport website</a>.'}
  - {title: "Public Transit", information: 'You can take <a href="https://mbta.com">MBTA</a> buses and trains anywhere in Boston. You can take the Silver Line bus from the airport, but use Apple or Google Maps to find the best route for your time of day.'}
- - {title: "Hotels", information: 'Boston has lots of great hotels. More information will be available later.'}
+ - {title: "Hotels", information: 'Boston has a large range of hotels to choose from. We have some suggestions but you will have no problem finding a hotel to suit your preferences.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -219,21 +219,15 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"} # TODO: list real hotels
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
+     - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel"}
+     - {link: "http://www.wboston.com/", text: "W Boston"}
+     - {link: "https://www.airbnb.com/s/Boston--MA", text: "Airbnb"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"} # TODO: list some stuff here
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy Tickets"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"} # TODO: what even goes here?
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469", text: "Event Info"}
