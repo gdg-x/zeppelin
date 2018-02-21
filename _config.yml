@@ -15,7 +15,6 @@ email: "g@swiftfest.io"
 description: "The most community driven Swift conference!"
 baseurl: "/swiftfest-site"
 url: "swiftfest.io"
-permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5" # TODO
 googleAnalyticsSiteUrl: "gdg-x.github.io" # TODO
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" # TODO
@@ -43,7 +42,6 @@ c4sponsorsUrl: "mailto:g@swiftfest.io" # TODO: add page for sponsor application?
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- # - {permalink: "/blog/", text: "Blog"} # TODO: blog?
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -76,9 +74,6 @@ statisticBlock:
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Swift"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "catch the videos later!"} #TODO: tagline appropriate?
-
-# Latest News Block
-latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -190,11 +185,6 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/conduct/", text: "Code of Conduct"}
-
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "swiftfest" # TODO: enable Disqus comments? # TODO: fix spelling discus -> disqus
 
 # Speakers List Block
 showSessions: true
