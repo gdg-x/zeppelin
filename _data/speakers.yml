@@ -1,4 +1,13 @@
 -
+  id: "tanja-sternbauer"
+  name: "Tanja"
+  surname: "Sternbauer"
+  thumbnailUrl: "TanjaSternbauer.jpg"
+  active: true
+  bio: "As the Managing Partner of Startup Live, the leading European Acceleration Program and one of the largest startup communities worldwide, she is responsible for helping founders implement their business ideas and connect them internationally with relevant players. Startups like Runtastic, Shpock and mySugr are among the successful alumni of the program."
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tsternbauer/"}
+-
   id: "sabria-lagoun"
   name: "Sabria"
   surname: "Lagoun"
@@ -53,6 +62,13 @@
   thumbnailUrl: "TanjaOllinger.jpg"
   active: true
   bio: "Tanja is an experienced high level line manager at Bosch, responsible for about 35 people. During her career she has been in several positions, where she learned how to lead change in the process-centric automotive sector, always finding the ideal balance between agility and robustness."
+-
+  id: "gerta-sheganaku"
+  name: "Gerta"
+  surname: "Sheganaku"
+  thumbnailUrl: "GertaSheganaku.jpg"
+  active: true
+  bio: "Gerta recently finished her M.Sc. in Business Informatics at TU Vienna. During her studies she collaborated with multiple research departments at TU Vienna as well as Data61 (Australia). Her research focused on operations research and cloud optimization, combining methods from mathematical programming with latest container-based virtualization technologies. Gerta has also worked as an IT project manager and business process analyst for a software company in Vienna. She has successfully acquired project funding and managed a cross-organizational R&D project facilitating data analytics for manufacturing processes."
 -
   id: "karin-hohenthaner"
   name: "Karin"

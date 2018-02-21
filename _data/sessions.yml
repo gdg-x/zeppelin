@@ -30,11 +30,11 @@
   subtitle: "13:30 - 15:30"
 -
   id: 100
-  title: "TBA"
+  title: "Keynote"
   place: "Room 1"
   description: "TBA"
   subtype: presentation
-  speakers: []
+  speakers: ["tanja-sternbauer", "lisa-marie-fassl"]
 -
   id: 101
   title: "TBA"
@@ -65,11 +65,11 @@
   subtype: presentation
 -
   id: 105
-  title: "The mammoth hunt for women*: What archaeology taught me about bringing diversity to tech-communities"
+  title: "Scalable Business Process Execution in the Cloud"
   place: "Room 1"
-  description: "Be it mammoth hunters during the ice age, or Open Source-developers in 2018: Each group develops unique traditions, which can make it difficult to break up stereotypes and have newcomers feel welcome. I’ll talk about how you can identify these cultural, non-technical aspects in a community and share my experience of what worked (and what didn’t) when trying to encourage a higher rate of women* and newcomers in tech-events."
+  description: "Organizations are increasingly relying on interconnected software processes that orchestrate the interplay of individual services. At the same time, virtually unlimited computing resources are available in cloud environments. In my talk I will address the challenges of cost-optimized process execution in scalable infrastructures and provide a brief overview of the solution I developed in the course of my Master’s thesis, which has been nominated for a best thesis award at Vienna University of Technology (TU Vienna). I will share my personal experiences about opportunities that guided, supported, and motivated me along the way."
+  speakers: ["gerta-sheganaku"]
   subtype: presentation
-  speakers: ["sonja-fischbauer"]
 -
   id: 106
   title: "Building bridges: Neuro-inspired technologies"
@@ -79,11 +79,11 @@
   speakers: ["sabria-lagoun"]
 -
   id: 107
-  title: "TBA"
+  title: "The mammoth hunt for women*: What archaeology taught me about bringing diversity to tech-communities"
   place: "Room 1"
-  description: "More details will be announced soon!"
-  speakers: []
+  description: "Be it mammoth hunters during the ice age, or Open Source-developers in 2018: Each group develops unique traditions, which can make it difficult to break up stereotypes and have newcomers feel welcome. I’ll talk about how you can identify these cultural, non-technical aspects in a community and share my experience of what worked (and what didn’t) when trying to encourage a higher rate of women* and newcomers in tech-events."
   subtype: presentation
+  speakers: ["sonja-fischbauer"]
 -
   id: 300
   title: "Partners"
