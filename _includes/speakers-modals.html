@@ -43,7 +43,7 @@
 								</div>
 								<div class="col-md-10 col-sm-10 details">
 									<p class="name">{{ speaker.name }} {{ speaker.surname }}
-										<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+										<span class="position">{{ speaker.title }}{% if speaker.title != null and speaker.company != null %}, {% endif %}{{ speaker.company }}</span>
 									</p>
 									{% if speaker.ribbon != null %}
 									<div class="modal-ribbon-wrapper">
