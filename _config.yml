@@ -209,9 +209,9 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Boston"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'} # TODO: real directions
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'} # TODO: real directions
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'} # TODO: real hotel info
+ - {title: "From the Airport", information: 'Logan Airport is right next to the city. It is easily reachable by car, public transport, or taxi. More information is available at the <a href="http://www.massport.com/logan-airport/">airport website</a>.'}
+ - {title: "Public Transit", information: 'You can take <a href="https://mbta.com">MBTA</a> buses and trains anywhere in Boston. You can take the Silver Line bus from the airport, but use Apple or Google Maps to find the best route for your time of day.'}
+ - {title: "Hotels", information: 'Boston has lots of great hotels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
