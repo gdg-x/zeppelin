@@ -65,7 +65,7 @@ heroButtons:
 aboutTitle: "About SwiftFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "<p><strong>SwiftFest</strong> is a different way to experience <strong>iOS development</strong> that brings together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment entirely focused on <strong>Swift</strong>. The most community-driven Swift conference is happening for the first time in <strong>Boston</strong> – <strong>June 18–19</strong>, 2018.</p>" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favorite technology!" } # TODO: better description of workshops? Or delete section?
+ - {title: "Workshops", image: "workshop.jpg", text: "At <b>SwiftFest</b> we'll be offering workshops along with talks and networking with some of the most innovative developers in the <b>Swift</b> space. Come along and elevate your <b>Swift</b> and <b>iOS</b> skills!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
