@@ -4,7 +4,9 @@
   surname: "Sternbauer"
   thumbnailUrl: "TanjaSternbauer.jpg"
   active: true
-  bio: "As the Managing Partner of Startup Live, the leading European Acceleration Program and one of the largest startup communities worldwide, she is responsible for helping founders implement their business ideas and connect them internationally with relevant players. Startups like Runtastic, Shpock and mySugr are among the successful alumni of the program."
+  title: "Managing Partner"
+  company: "Startup Live"
+  bio: "Tanja is the Managing Partner of Startup Live, the leading early-stage accelerator program in Europe and one of the biggest entrepreneurial communities world-wide. She is dedicated to foster female entrepreneurship and founded The Female Founders Club, a hub connecting & supporting women within the startup scene. Before her work for the European startup ecosystem, Tanja started her own startup HeyBeauty, a scheduling tool for beauty appointments at the age of 25."
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/tsternbauer/"}
 -
