@@ -103,7 +103,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Calderwood Pavillion"
+venueTitle: "Calderwood Pavilion"
 venueFeatures: ["2 full theatrical stages", "Seating for 370", "Located in downtown Boston"]
 
 # Tweets Feed Block
