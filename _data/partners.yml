@@ -8,7 +8,7 @@
     - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch-career.at/", imageUrl: "bosch-logo.jpg", width: "240px"}
     - {name: "EVB", description: "EBV", link: "https://www.avnet.com", imageUrl: "ebv-logo.jpg", width: "260px"}
     - {name: "i2c", description: "innovation incubation center", link: "http://www.i2c.at/", imageUrl: "i2center-logo.jpg", width: "240px"}
-    - {name: "TU Gender Competence", description: "TU Gender Competence", link: "https://www.tuwien.ac.at/dle/genderkompetenz/", imageUrl: "tu-gender-competence.png", width: "200px"}
+    - {name: "TU Gender Competence", description: "TU Gender Competence", link: "https://www.tuwien.ac.at/dle/genderkompetenz/", imageUrl: "tu-gender-competence.jpg", width: "200px"}
 -
   group: "Gold Sponsor"
   elements:
