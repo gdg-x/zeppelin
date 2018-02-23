@@ -2,3 +2,9 @@
   group: "Main organizer"
   elements: 
     - {name: "GDG Vienna", description: "GDG Vienna - Open and volunteer geek community", link: "http://www.gdg-vienna.at", imageUrl: "gdg-vienna.png", width: "240px"}
+-
+  group: "Partners"
+  elements:
+    - {name: "TU Wien - Faculty for Informatics", description: "TU Wien - Faculty for Informatics", link: "http://www.informatik.tuwien.ac.at/", imageUrl: "informatics-logo.png", width: "280px"}
+    - {name: "Hakuma", description: "Hakuma", link: "http://www.hakuma.at/", imageUrl: "hakuma-logo.png", width: "280px"}
+    - {name: "ANDSoy", description: "ANDSoy", link: "https://www.andsoy.com/", imageUrl: "andsoy-logo.jpg", width: "280px"}
