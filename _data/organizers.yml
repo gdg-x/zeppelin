@@ -6,5 +6,5 @@
   group: "Partners"
   elements:
     - {name: "TU Wien - Faculty for Informatics", description: "TU Wien - Faculty for Informatics", link: "http://www.informatik.tuwien.ac.at/", imageUrl: "informatics-logo.png", width: "280px"}
-    - {name: "Hakuma", description: "Hakuma", link: "http://www.hakuma.at/", imageUrl: "hakuma-logo.png", width: "280px"}
-    - {name: "ANDSoy", description: "ANDSoy", link: "https://www.andsoy.com/", imageUrl: "andsoy-logo.jpg", width: "280px"}
+    - {name: "Hakuma", description: "Hakuma", link: "http://www.hakuma.at/", imageUrl: "hakuma-logo.png", width: "240px"}
+    - {name: "ANDSoy", description: "ANDSoy", link: "https://www.andsoy.com/", imageUrl: "andsoy-logo.jpg", width: "200px"}
