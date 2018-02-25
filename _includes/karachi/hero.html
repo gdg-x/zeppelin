@@ -1,0 +1,26 @@
+<!-- Begin Hero Section -->
+<section id="home" class="top-section-hero top-section image-section parallax karachi_mobile"
+         style="background-image: url('{{ site.baseurl }}/img/sections-background/karachi.jpg');">
+    {% include navigation.html %}
+    <div class="content-wrapper">
+    <div class="jumbotron">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+            <div class="logo logo-big"></div>
+            <div class="logo logo-name"></div>
+            <!--{% assign heroText = site.heroTitle %}-->
+            <!--<h1>{{ heroText }}<span class="hidden-xs"></span></h1>-->
+            <p>{{ site.data.karachi.eventDate }}</p>
+            <a href="{{site.data.karachi.applicationForm}}" target="_blank"
+               class="btn btn-primary waves-effect waves-button waves-light waves-float">Apply for the workshop</a>
+            <a href="{{site.data.karachi.mentorsForm}}" target="_blank"
+               class="btn btn-primary waves-effect waves-button waves-light waves-float">Call for mentors</a>
+        </div>
+    </div>
+    <a href="#about" class="explore">
+        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+        </svg>
+    </a>
+    </div>
+</section>
+<!-- End Hero Section -->
