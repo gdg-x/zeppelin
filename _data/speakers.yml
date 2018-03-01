@@ -83,16 +83,18 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/gerta-sheganaku/"}
 -
-  id: "yazhan-mete"
+  id: "yazgan-mete"
   name: "Yazgan"
   surname: "Mete"
   thumbnailUrl: "YazganMete.jpg"
+  active: true
   bio: "Yazgan Mete obtained her Bachelor’s and Master’s degree in Technical Chemistry at the Technische Universität Wien. She finished her Master thesis in February 2017 and is since working on her PhD thesis focusing on photopolymerization in the research group for Macromolecular Chemistry."
 -
   id: "stefan-helfert"
   name: "Stefan"
   surname: "Helfert"
   thumbnailUrl: "StefanHelfert.jpg"
+  active: true
   bio: "Stefan earned his BSc in technical chemistry from the Technische Universität Wien, and continued his studies there to earn his MSc degree at the institute of Applied Synthetic Chemistry. Since, his master thesis project was to create an interface between glass surfaces and T-cells, he joined BIOINTERFACE as a PhD student to stay in this field of research. He has special experience in polymer chemistry and photo polymerization techniques."
 -
   id: "karin-hohenthaner"
