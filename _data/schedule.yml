@@ -31,42 +31,41 @@
         sessionIds: [102, 200]
     -
         startTime: "12:30"
-        endTime: "13:30"
-        sessionIds: [902]
-    -
-        startTime: "13:30"
         endTime: "14:00"
-        sessionIds: [103, 201]
+        sessionIds: [902]
     -
         startTime: "14:00"
         endTime: "14:30"
-        sessionIds: [104, 201]
+        sessionIds: [103, 201]
     -
         startTime: "14:30"
         endTime: "15:00"
-        sessionIds: [105, 201]
-
+        sessionIds: [104, 201]
     -
         startTime: "15:00"
         endTime: "15:30"
-        sessionIds: [903, 201]
+        sessionIds: [105, 201]
     -
         startTime: "15:30"
         endTime: "16:00"
-        sessionIds: [106]
+        sessionIds: [903, 201]
     -
         startTime: "16:00"
         endTime: "16:30"
-        sessionIds: [107]
+        sessionIds: [106]
     -
         startTime: "16:30"
         endTime: "17:00"
-        sessionIds: [904]
+        sessionIds: [107]
     -
         startTime: "17:00"
-        endTime: "18:00"
+        endTime: "17:30"
+        sessionIds: [904]
+    -
+        startTime: "17:30"
+        endTime: "18:30"
         sessionIds: [905]
     -
-        startTime: "18:00"
+        startTime: "18:30"
         endTime: "21:00"
         sessionIds: [906]
