@@ -9,3 +9,5 @@
     - {name: "i2c", description: "innovation incubation center", link: "http://www.i2c.at/", imageUrl: "i2center-logo.jpg", width: "200px"}
     - {name: "Hakuma", description: "Hakuma", link: "http://www.hakuma.at/", imageUrl: "hakuma-logo.png", width: "120px"}
     - {name: "ANDSoy", description: "ANDSoy", link: "https://www.andsoy.com/", imageUrl: "andsoy-logo.jpg", width: "100px"}
+    - {name: "Wirtschaftsagentur", description: "Wirtschaftsagentur", link: "https://wirtschaftsagentur.at/", imageUrl: "businessagency-logo.gif", width: 130px}
+    - {name: "Women in Vienna", description: "Women of Vienna", link: "http://www.womenofvienna.org/", imageUrl: "wov-logo.png", width: "100px"}
