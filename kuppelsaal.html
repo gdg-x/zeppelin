@@ -1,0 +1,40 @@
+<html>
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+
+  <body>
+      <center>
+        <p><span class="Stil1"><a href="rtsp://video.zserv.tuwien.ac.at:80/lecturelive/extron_kuppelsaal.stream">Streamwiedergabe auf Android</a></span></p>
+        <p><span class="Stil1"><a href="http://video.zserv.tuwien.ac.at:80/lecturelive/extron_kuppelsaal.stream/playlist.m3u8">Streamwiedergabe auf iOS</a></span></p>
+        <p>&nbsp;</p>
+        <p><span class="Stil1">Streamwiedergabe auf Desktop-Systemen:</a></span></p>
+      </center>
+      
+      <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+      <center>
+          <video height="600" id="video" controls src="http://video.zserv.tuwien.ac.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8"></video>
+      </center>
+
+      <script>
+        if(Hls.isSupported()) {
+          var video = document.getElementById('video');
+          var hls = new Hls();
+          hls.loadSource('http://video.zserv.tuwien.ac.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8');
+          hls.attachMedia(video);
+          hls.on(Hls.Events.MANIFEST_PARSED,function() {
+            video.play();
+        });
+       }
+       // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+       // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the `src` property.
+       // This is using the built-in support of the plain video element, without using hls.js.
+        else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+          video.src = 'http://video.zserv.tuwien.ac.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8';
+          video.addEventListener('canplay',function() {
+            video.play();
+          });
+        }
+      </script>
+</body></html>
