@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME',  vendor]
 
 # Site Settings
 title: "Droidcon Vietnam 2018"
-shortTitle: "DevFest14"
+shortTitle: "DroidconVN18"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
@@ -89,7 +89,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "RMIT University"
 eventLocationLink: "https://www.rmit.edu.vn/events"
 eventStreetAddress: "702 Nguyen Van Linh"
 eventAddressLocality: "District 7, Tân Phong"
@@ -109,8 +109,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Melbourne Theatre"
+venueFeatures: ["Doulby Digital Surround EX audio system", "Located directly in the greenest area of the city"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
