@@ -9,6 +9,7 @@ dependencies:
     - git config --global user.email "rockerhieu+circleci@gmail.com"
     - git config --global user.name "Circle CI"
     - bundle exec jekyll build
+    - gem install jgd
 
 deployment:
   prod:
