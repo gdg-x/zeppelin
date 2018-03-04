@@ -134,29 +134,33 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Pre sale tickets"
+  name: "Pre Sale Tickets"
   price: "250.000"
   priceCurrency: "VND"
   ticketsNumber: "200"
-  ribbon: "-5%"
+  ribbon: "0%"
   buyButtonLink: "http://ticketbox.vn/event/droidcon-vietnam-2018-69662/44942"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
  -
-  name: "Early Bird"
-  price: "350"
+  name: "Early Bird Tickets"
+  price: "350.000"
   priceCurrency: "VND"
   ticketsNumber: "200"
-  ribbon: "-5%"
+  ribbon: "0%"
   buyButtonLink: "http://ticketbox.vn/event/droidcon-vietnam-2018-69662/44942"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
  -
-  name: "Regular tickets"
+  name: "Regular Tickets"
   price: "450.000"
   priceCurrency: "VND"
   ticketsNumber: "200"
@@ -167,9 +171,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
-  disabled: true
  -
-  name: "Student tickets"
+  name: "Student Tickets"
   price: "200.000"
   priceCurrency: "VND"
   ticketsNumber: "100"
@@ -179,8 +182,6 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:

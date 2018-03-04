@@ -15,7 +15,7 @@
 							{% endif %}
 							{% if ticketsOffer.disabled != true %}
 							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
-								<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
+								<!-- <span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span> -->
 							{% endif %}
 						</div>
 						<div class="col-sm-3 col-xs-12">
@@ -25,12 +25,13 @@
 							{% if ticketsOffer.soldOut == true %}
 							<p class="ticket-sold-out">{{ ticketsOffer.soldOutText }}</p>
 							{% elsif ticketsOffer.disabled != true %}
-							<span class="bordered dark-border button">
-								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
+							<span class="button">
+								<!-- <a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a> -->
+								<a href="{{ ticketsOffer.buyButtonLink }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 							</span>
 							{% else %}
 		           			{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-							<p class="ticket-fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
+							<!-- <p class="ticket-fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p> -->
 							{% endif %}
 						</div>
 					</div>
