@@ -11,7 +11,7 @@ cd droidconvn.github.io
 git checkout master || git checkout --orphan master
 cd ../..
 
-cp -rf _site/* $TMP_DIR/droidconvn.github.io/
+yes | cp -rf _site/* $TMP_DIR/droidconvn.github.io/
 cd $TMP_DIR/droidconvn.github.io
 git status
 git add -f *
