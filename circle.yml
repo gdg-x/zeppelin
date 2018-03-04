@@ -14,4 +14,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - bundle exec jgd -b master -u git@github.com:droidconvn/droidconvn.github.io.git
+      - jgd -n -b master -u git@github.com:droidconvn/droidconvn.github.io.git
