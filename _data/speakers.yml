@@ -18,7 +18,7 @@
   company: "Ventego Creative"
   title: "Software Solutions Architect"
   bio: "<p>I work as a Software Solutions Architect for Ventego Creative in Wellington, New Zealand.</p><p>I co-founded the company with two partners and I'm also the CTO of Zen Ex Machina, a startup in the fields of digital & user experience consultancy based out of Canberra in Australia. My work really comprises a mix of consulting, training, mentoring and actual development work using a range of technologies, common themes being Java, Android, CFML, JavaScript etc.</p><p>I'm well versed in Java and some other JVM-based languages like Clojure or Groovy and recently (re-)discovered the pleasure of writing software in Python and Go. Kotlin has been my language love for the last few years though.</p><p>Other stuff I occasionally do:<ul><li>Write for magazines (currently mainly Heise's iX in Germany) or in my Blog</li><li>Publish a Podcast (2 Developers Down Under) with my friend Mark Mandel from Melbourne and run New Zealand's first Kotlin meetup (Wellington.kt)</li><li>Since 2007 I fly small, single-engine airplanes around New Zealand and sometimes Australia, currently working on my Commercial Pilot License.</li></ul></p><p><a href='http://lanyrd.com/profile/agentk/past/speaking/'>Speaking history</a></p>"
-  thumbnailUrl: KaiKoenig.png
+  thumbnailUrl: KaiKoenig.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/AgentK"}
