@@ -1,4 +1,6 @@
 machine:
+  ruby:
+    version: 2.5.0
   environment:
     NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
 
