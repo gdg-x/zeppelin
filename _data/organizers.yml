@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Vietnam", description: "GDG Vietnam - an independent group based on our interests of Google Technology", link: "https://gdgvietnam.com", imageUrl: "gdg-vietnam.png"}
 - 
   group: "Co-organizers"
   elements: 

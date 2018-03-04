@@ -1,0 +1,14 @@
+machine:
+  environment:
+    NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+
+dependencies:
+  post:
+    - gem install jgd
+    - bundle exec jekyll build
+
+deployment:
+  prod:
+    branch: master
+    commands:
+      - jgd -r master -u git@github.com:droidconvn/droidconvn.github.io.git
