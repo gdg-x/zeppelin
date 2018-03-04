@@ -176,7 +176,8 @@ socialLinks:
 # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/droidconvn", icon: "twitter"}
  - {link: "https://www.facebook.com/droidcon.vn", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
+
 footerBlocks:
  -
   title: "Links"
