@@ -116,7 +116,7 @@ venueFeatures: ["Doulby Digital Surround EX audio system", "Located directly in 
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "droidconvn"
-twitterFeed: "http://droidconvn-tweetledee.herokuapp.com/tweetledee/userjson.php?c=10&user=droidconvn&cache_interval=8000"
+twitterFeed: "https://droidconvn-tweetledee.herokuapp.com/tweetledee/userjson.php?c=10&user=droidconvn&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -126,7 +126,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://eepurl.com/dmMkgP"
+subscribeAction: "https://droidconvn.us17.list-manage.com/subscribe?u=d9e0834d835111979d0abedd5&id=904a72f71a"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
