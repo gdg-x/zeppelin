@@ -116,7 +116,7 @@ venueFeatures: ["Doulby Digital Surround EX audio system", "Located directly in 
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "droidconvn"
-twitterFeed: "http://droidconvn-tweetledee.herokuapp.com/tweetledee/favoritesjson.php?c=10&user=droidconvn&cache_interval=8000"
+twitterFeed: "http://droidconvn-tweetledee.herokuapp.com/tweetledee/userjson.php?c=10&user=droidconvn&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
