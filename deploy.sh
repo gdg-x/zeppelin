@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e # Exit with nonzero exit code if anything fails
 COMMIT_SHA=$(git rev-parse --short HEAD)
+COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+
 TMP_DIR=.tmp
 rm -rf $TMP_DIR
 mkdir -p $TMP_DIR
@@ -16,6 +18,5 @@ cd $TMP_DIR/droidconvn.github.io
 git status
 git add -f *
 
-COMMIT_MESSAGE=$(date "+%Y-%m-%d %H:%M:%S")
-git commit -m "New version $COMMIT_MESSAGE - $COMMIT_SHA"
+git commit -m "$COMMIT_SHA - $COMMIT_MESSAGE"
 git push
