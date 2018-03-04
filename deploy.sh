@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e # Exit with nonzero exit code if anything fails
-COMMIT_SHA=$(git rev-parse HEAD)
+COMMIT_SHA=$(git rev-parse --short HEAD)
 TMP_DIR=.tmp
 rm -rf $TMP_DIR
 mkdir -p $TMP_DIR
