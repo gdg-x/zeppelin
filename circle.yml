@@ -8,11 +8,10 @@ dependencies:
   post:
     - git config --global user.email "rockerhieu+circleci@gmail.com"
     - git config --global user.name "Circle CI"
-    - bundle exec jekyll build
-    - gem install jgd
+#    - gem install jgd
 
 deployment:
   prod:
     branch: master
     commands:
-      - jgd -n -b master -u git@github.com:droidconvn/droidconvn.github.io.git
+      - bundle exec jgd -b master -u git@github.com:droidconvn/droidconvn.github.io.git
