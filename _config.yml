@@ -115,8 +115,8 @@ venueFeatures: ["Doulby Digital Surround EX audio system", "Located directly in 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "droidconvn"
+twitterFeed: "http://droidconvn-tweetledee.herokuapp.com/tweetledee/favoritesjson.php?c=10&user=droidconvn&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
