@@ -34,7 +34,7 @@
   place: "Room 1"
   description: "TBA"
   subtype: presentation
-  speakers: ["tanja-sternbauer", "lisa-marie-fassl"]
+  speakers: ["lisa-marie-fassl"]
 -
   id: 101
   title: "Agile Transformation"
