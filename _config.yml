@@ -67,7 +67,7 @@ heroButtons:
 # About Block
 aboutTitle: "Droidcon Vietnam"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Droidcon is a global developer conference series and a network focusing on the best of Android, and it 2017 it will be coming to Vietnam. The idea behind the droidcon conferences is to support the Android platform and create a global network for developers and companies. We offer high-class talks from different parts of the ecosystem, including core development, embedded solutions, augmented reality, business solutions and games. Meet a lot of rockstar international developers and level up your Android game." }
+ - {title: "Conference", image: "conference.jpg", text: "Droidcon is a global developer conference series and a network focusing on the best of Android, and in 2018 it will be coming to Vietnam (again). The idea behind the droidcon conferences is to support the Android platform and create a global network for developers and companies. We offer high-class talks from different parts of the ecosystem, including core development, embedded solutions, augmented reality, business solutions and games. Meet a lot of rockstar international developers and level up your Android game." }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
