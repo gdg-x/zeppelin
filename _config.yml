@@ -47,7 +47,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+#  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/YQpsZn", text: "Become a speaker"}
