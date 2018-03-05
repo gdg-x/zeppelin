@@ -3,7 +3,7 @@
   name: "Lisa-Marie"
   surname: "Fassl"
   thumbnailUrl: "LisaMarieFassl.jpg"
-  active: true
+  active: false
   title: "Managing Director"
   company: "Austrian Angel Investors Association"
   bio: "Lisa-Marie Fassl is the Managing Director of the Austrian Angel Investors Association, Austria’s leading network for business angels which connects promising startups with investors. Before moving to Vienna, Lisa was an active member of the startup community in Styria, where she co-founded the npo IdeenTriebwerk Graz. During her studies she focused on Business Information Systems and Entrepreneurship, which led to various scientific studies on the entrepreneurial ecosystem in Austria. Having experienced the Austrian startup community from different perspectives for several years, she’s continually co-founding new projects, her latest being <a href='https://www.femalefounders.at' target='_blank'>femalefounders.at</a>, a network for women in the startup community."

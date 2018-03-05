@@ -34,7 +34,7 @@
   place: "Room 1"
   description: "TBA"
   subtype: presentation
-  speakers: ["lisa-marie-fassl"]
+  speakers: []
 -
   id: 101
   title: "Agile Transformation"
