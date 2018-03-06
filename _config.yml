@@ -59,7 +59,7 @@ heroImage: "hero.jpg"
 heroTitle: "Droidcon Vietnam <typeout>"
 eventDate: "April 7th, 2018"
 typeoutTextValues: '"", "2017", "2018"'
-typeoutFallback: "Season"
+typeoutFallback: "2018"
 heroButtons:
  - {link: "https://goo.gl/YQpsZn", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
