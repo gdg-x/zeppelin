@@ -6,7 +6,7 @@
   group: "Partners"
   elements:
     - {name: "TU Wien - Faculty for Informatics", description: "TU Wien - Faculty for Informatics", link: "http://www.informatik.tuwien.ac.at/", imageUrl: "informatics-logo.png", width: "180px"}
-    - {name: "i2c", description: "innovation incubation center", link: "http://www.i2c.at/", imageUrl: "i2center-logo.jpg", width: "200px"}
+    - {name: "i2c", description: "innovation incubation center", link: "https://i2c.ec.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "200px"}
     - {name: "Hakuma", description: "Hakuma", link: "http://www.hakuma.at/", imageUrl: "hakuma-logo.png", width: "120px"}
     - {name: "ANDSoy", description: "ANDSoy", link: "https://www.andsoy.com/", imageUrl: "andsoy-logo.jpg", width: "100px"}
     - {name: "Wirtschaftsagentur", description: "Wirtschaftsagentur", link: "https://wirtschaftsagentur.at/", imageUrl: "businessagency-logo.gif", width: 130px}
