@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME',  vendor]
 title: "Droidcon Vietnam 2018"
 shortTitle: "DroidconVN18"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "Register now and be informed of all the news happening at Droidcon Vietnam 2018"
 baseurl: ""
 url: "https://droidconvn.github.io"
 permalink: "/blog/:title"
