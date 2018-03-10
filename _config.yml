@@ -101,7 +101,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "TU Wien"
+eventLocationName: "TU Wien, Domed Hall (Kuppelsaal)"
 eventLocationLink: "http://www.tuwien.ac.at"
 eventStreetAddress: "Karlsplatz 13, 1040 Wien"
 eventAddressLocality: "Vienna"
