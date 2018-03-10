@@ -1,13 +1,13 @@
 <section id="livestream">
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <center>
-  <video height="600" id="video" controls src="http://video.zserv.tuwien.ac.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8"></video>
+  <video height="600" id="video" controls src="https://womentechmakers.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8"></video>
 </center>
 <script>
   if(Hls.isSupported()) {
     var video = document.getElementById('video');
     var hls = new Hls();
-    hls.loadSource('http://video.zserv.tuwien.ac.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8');
+    hls.loadSource('https://womentechmakers.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8');
     hls.attachMedia(video);
     hls.on(Hls.Events.MANIFEST_PARSED,function() {
       video.play();
@@ -17,7 +17,7 @@
   // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the `src` property.
   // This is using the built-in support of the plain video element, without using hls.js.
   else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = 'http://video.zserv.tuwien.ac.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8';
+    video.src = 'https://womentechmakers.at/lecturelive/extron_kuppelsaal.stream/playlist.m3u8';
     video.addEventListener('canplay',function() {
       video.play();
     });
