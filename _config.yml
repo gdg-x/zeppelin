@@ -133,43 +133,35 @@ ticketsOffers:
   name: "Super Early Bird"
   price: "299"
   priceCurrency: "USD"
-  ticketsNumber: "150" # TODO: number?
-  ribbon: "-5%" # TODO: percent?
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
   buyButtonText: "Buy Now"
-  ticketContentList: ["2 full days of sessions", "Exhibitor booths", "Conference party & meals"]
-  validFrom: "2018-7-18T10:00"
-  validThrough: "2018-07-25T23:59"
-  soldOut: false
-  disabled: false
- -
-  name: "Last Chance"
-  price: "349" # TODO: price?
-  priceCurrency: "USD"
-  ticketsNumber: "100" # TODO: number
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["2 full days of sessions", "Exhibitor booths", "Conference party & meals"]
-  validFrom: "2018-7-18T10:00"
-  validThrough: "2018-07-25T23:59"
+  validFrom: "2018-1-1T00:00"
+  validThrough: "2018-04-30T23:59"
   soldOut: false
   disabled: false
  -
   name: "Student"
   price: "99"
   priceCurrency: "USD"
-  ticketsNumber: "50" # TODO: number
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund" # TODO: rules?
-  ticketContentList: ["2 full days of sessions", "Exhibitor booths", "Conference party & meals"]
-  validFrom: "2018-7-18T10:00"
-  validThrough: "2018-07-25T23:59"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
+  validFrom: "2018-1-1T00:00"
+  validThrough: "2018-06-19T18:00"
   soldOut: false
   disabled: false
   soldOutText: "Sold Out"
+ -
+   name: "Super Early Bird Group"
+   price: "249.75"
+   priceCurrency: "USD each"
+   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+   buyButtonText: "Buy Now"
+   additionalInfo: "May be purchased in groups of 4."
+   validFrom: "2018-1-1T00:00"
+   validThrough: "2018-04-30T23:59"
+   soldOut: false
+   disabled: false
 
 # Footer
 socialLinks:
