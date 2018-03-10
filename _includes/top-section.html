@@ -3,12 +3,14 @@
     <div class="overlay{%if page.image and page.color %}" style="background-color:{{ page.color }}{%else%} gradient-overlay{%endif%}"></div>
 
     {% include navigation.html %}
+    {% if page.title %}
 	<div class="content-wrapper">
 	    <div class="jumbotron text-left">
 	        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
 	            <h1>{{ page.title }}</h1>
 	        </div>
 	    </div>
-    </div>
+        </div>
+    {% endif %}
 </section>
 <!-- End Top Section -->
