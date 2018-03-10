@@ -56,9 +56,11 @@ navigationLinks:
 bottomNavigationLinks:
  # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/livestream/", text: "Live Stream"}
 rightNavigationButtons:
  # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
  # - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/livestream/", text: "Live Stream"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -71,6 +73,7 @@ eventDateISO: "2018-03-10T09:30+01:00"
 heroButtons:
 # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
 # - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/livestream/", text: "Live Stream"}
 
 # About Block
 aboutTitle: "About Women Techmakers Vienna"
