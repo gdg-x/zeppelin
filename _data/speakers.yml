@@ -7,9 +7,6 @@
   bio: "<p>You may not know Susan Bennett, but you definitely know her voice! Susan is a voice actor and singer whose voice has appeared on hundreds of radio and TV commercials for such clients as McDonald’s, Macy’s, Goodyear, Papa John’s, Fisher Price, and more. She is the voice of Delta Airlines gates worldwide, as well as hundreds of GPS and phone systems, but you probably know her best as the original voice of Siri.</p><p>Susan has appeared on nationally televised programs The Mariah Carey Merriest Christmas Special, The Queen Latifah Show, CNN, Showbiz Tonight, The Jack & Triumph Show, the new To Tell the Truth, and she read the Top Ten list for David Letterman!</p><p>Susan was born in Burlington, Vermont, and spent her youth in New England. She was always interested in music and acting, which she pursued during her four years at Brown University, singing in theater productions, and in the jazz band, “Conglomerate.” Susan was the leader of singing group, The Chattertocks, as well. After graduation, she married NHL hockey player, Curt Bennett, and moved to Atlanta, Georgia, where Curt played for The Atlanta Flames, and Susan began her voiceover and singing career. Susan toured with Burt Bacharach as a backup singer, and later toured and traveled the world with Roy Orbison, also singing backup vocals, with a featured duet. She sang jingles as well for such clients as Coca Cola, Georgia Power, Kroger, and Krystal restaurants. It was after a jingle session that Susan was asked to voice a commercial when the voice talent didn’t show up. She discovered that voiceover was something she did well and enjoyed, so she took voice coaching, got an agent, and started on a career that is still going strong!</p><p>Susan continues to live and work in Atlanta, Georgia, along with second husband guitarist and audio engineer, Rick Hinkle, of Audiocam Music. Susan and Rick had a private event band called “Interactive!” for more than two decades, and they still continue to work together in their 60’s and 70’s rock and soul band, “Boomers Gone Wild!”</p><p>Susan has one child, son Cameron Schuyler Bennett, who lives in Los Angeles. He is a photographer, and also works with social media company, Fanbase.</p>"
   thumbnailUrl: SusanBennett.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: site, link: "https://SusanCBennett.com"}
     - {name: "twitter", link: "https://twitter.com/siriouslysusan"}
@@ -22,9 +19,6 @@
   bio: '<p>Cynthia Johnson is an entrepreneur, speaker, and author</p>'
   thumbnailUrl: CynthiaJohnson.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "site", link: "https://cynthialive.com"}
     - {name: "twitter", link: "https://twitter.com/cynthialive"}
@@ -40,8 +34,5 @@
   bio: "<p>Bas is an iOS & tooling developer working for XING. There, he is working on managing mobile releases on iOS & Android. In his spare time, he is contributing to open source with projects like Swift Weekly Brief, Moya, GitHawk and more.</p>"
   thumbnailUrl: BasBroek.jpg
   rockstar: false
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/BasThomas"}
