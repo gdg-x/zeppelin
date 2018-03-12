@@ -7,7 +7,7 @@
   title: "Software Solutions Architect"
   bio: "<p>I work as a Software Solutions Architect for Ventego Creative in Wellington, New Zealand.</p><p>I co-founded the company with two partners and I'm also the CTO of Zen Ex Machina, a startup in the fields of digital & user experience consultancy based out of Canberra in Australia. My work really comprises a mix of consulting, training, mentoring and actual development work using a range of technologies, common themes being Java, Android, CFML, JavaScript etc.</p><p>I'm well versed in Java and some other JVM-based languages like Clojure or Groovy and recently (re-)discovered the pleasure of writing software in Python and Go. Kotlin has been my language love for the last few years though.</p><p>Other stuff I occasionally do:<ul><li>Write for magazines (currently mainly Heise's iX in Germany) or in my Blog</li><li>Publish a Podcast (2 Developers Down Under) with my friend Mark Mandel from Melbourne and run New Zealand's first Kotlin meetup (Wellington.kt)</li><li>Since 2007 I fly small, single-engine airplanes around New Zealand and sometimes Australia, currently working on my Commercial Pilot License.</li></ul></p><p><a href='http://lanyrd.com/profile/agentk/past/speaking/'>Speaking history</a></p>"
   thumbnailUrl: KaiKoenig.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/AgentK"}
 - 
@@ -18,7 +18,7 @@
   title: "Founder & CEO"
   bio: "David is a Google Developer Expert for Android and Firebase. He is leading his startup and working on Android architecture of Settle Up. He is a core organizer in GDG Prague and loves open-source, gadgets, and LARP."
   thumbnailUrl: DavidVavra.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDGPrague/"}
@@ -68,7 +68,7 @@
   title: "Kuala Lumpur WTM Lead"
   bio: "With the mission to empower more women to stand out and participate more actively within the local science and technology community in Malaysia, Nazlina took on the role to lead the Kuala Lumpur chapter of Women Techmakers, a global program by Google to advocate women in science, technology, engineering and mathematics (STEM). Since there has been changes in the participation of women in the tech communities, she believes that there is an urgent need now to encourage more women to speak at International Tech Conferences and as such she has been invited to speak at several conferences including DroidCon Bangkok event in March 2017, Google Developers Group Summit in San Francisco and Webcamp Penang, Malaysia in May, including Techsauce Global Summit in Bangkok last July. She was also invited to mentor the Startup Weekend Women's Edition organised by Techstars in October this year."
   thumbnailUrl: NazlinaQuadir.jpg
-  rockstar: false
+  rockstar: true
 - 
   id: 10
   name: "Doug"
@@ -77,7 +77,7 @@
   title: "Google Developer Advocate"
   bio: "Google Developer Advocate with @Firebase. Public speaker. Talk show host. Wordsmith. Old-school gamer. Vegetarian. Craft beer lover."
   thumbnailUrl: DougStevenson.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://github.com/codingdoug"}
 - 
@@ -88,7 +88,7 @@
   title: "Google Developer Expert"
   bio: "Android GDE. Live and work in Singapore."
   thumbnailUrl: DenisNeklyudov.png
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://github.com/nekdenis"}
 - 
