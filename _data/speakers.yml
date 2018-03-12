@@ -1,16 +1,4 @@
-- 
-  id: 3
-  name: "Charlie"
-  surname: "Collins"
-  company: "Spotify"
-  title: "Software Engineering Manager"
-  bio: "I'm an engineering manager at Spotify. I'm an Android guy. I've written a few books and spoken at several other Droidcon conferences (Greece, Beijing, New York)."
-  thumbnailUrl: CharlieCollins.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+CharlieCollins"}
-    - {name: "twitter", link: "https://twitter.com/charliecollins"}
-    - {name: "github", link: "https://github.com/charlieCollins"}
+
 - 
   id: 4
   name: "Kai"
@@ -72,3 +60,71 @@
   rockstar: false
   social: 
     - {name: "facebook", link: "https://www.facebook.com/minhnguyen.gtvt"}
+- 
+  id: 9
+  name: "Nazlina"
+  surname: "Quadir"
+  company: "WTM"
+  title: "Kuala Lumpur WTM Lead"
+  bio: "With the mission to empower more women to stand out and participate more actively within the local science and technology community in Malaysia, Nazlina took on the role to lead the Kuala Lumpur chapter of Women Techmakers, a global program by Google to advocate women in science, technology, engineering and mathematics (STEM). Since there has been changes in the participation of women in the tech communities, she believes that there is an urgent need now to encourage more women to speak at International Tech Conferences and as such she has been invited to speak at several conferences including DroidCon Bangkok event in March 2017, Google Developers Group Summit in San Francisco and Webcamp Penang, Malaysia in May, including Techsauce Global Summit in Bangkok last July. She was also invited to mentor the Startup Weekend Women's Edition organised by Techstars in October this year."
+  thumbnailUrl: NazlinaQuadir.jpg
+  rockstar: false
+- 
+  id: 10
+  name: "Doug"
+  surname: "Stevenson"
+  company: "Google"
+  title: "Google Developer Advocate"
+  bio: "Google Developer Advocate with @Firebase. Public speaker. Talk show host. Wordsmith. Old-school gamer. Vegetarian. Craft beer lover."
+  thumbnailUrl: DougStevenson.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://github.com/codingdoug"}
+- 
+  id: 11
+  name: "Denis"
+  surname: "Neklyudov"
+  company: "Google Developer Expert"
+  title: "Google Developer Expert"
+  bio: "Android GDE. Live and work in Singapore."
+  thumbnailUrl: DenisNeklyudov.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://github.com/nekdenis"}
+- 
+  id: 12
+  name: "Hieu"
+  surname: "Rocker"
+  company: "Google Developer Expert"
+  title: "Google Developer Expert"
+  bio: "Android GDE"
+  thumbnailUrl: HieuRocker.jpg
+  rockstar: false
+- 
+  id: 13
+  name: "Iñaki"
+  surname: "Villar"
+  company: "Agoda"
+  title: "Google Developer Expert"
+  bio: "Android Developer since 7 years ago. I worked with Bank apps in Spain for three years. Later I moved to Ireland to work with apps of Airlines and GSM carriers. Actually I'm living in Thailand working for Agoda. I'm Google Developer Expert and I enjoy being involve with the android community."
+  thumbnailUrl: InyakiVillar.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://github.com/inyaki_mwc"}
+- 
+  id: 14
+  name: "Minh"
+  surname: "Pham"
+  company: "Uber"
+  title: "Staff Engineer at Uber"
+  bio: "Staff Engineer at Uber"
+  thumbnailUrl: MinhPham.jpg
+  rockstar: false
+- 
+  id: 15
+  name: "Son"
+  surname: "Nguyen"
+  company: "Grab"
+  title: "Android Engineer at Grab"
+  thumbnailUrl: SonNguyen.jpg
+  rockstar: false
