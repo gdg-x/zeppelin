@@ -27,7 +27,7 @@ partners:
    - {name: "Recurship", description: "Recurship", link: "http://recurship.com/", imageUrl: "recurship-2.0.png"}
    - {name: "Nest I/O", description: "Nest I/O", link: "http://thenestio.com/", imageUrl: "nest_io.png"}
    - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com", imageUrl: "iomechs-logo.gif"}
-   - {name: "Genetech Solutions", description: "Genetech Solutions", link: "www.genetechsolutions.com", imageUrl: "genetech.jpg"}
+   - {name: "Genetech Solutions", description: "Genetech Solutions", link: "https://www.genetechsolutions.com", imageUrl: "genetech.jpg"}
    - {name: "Dhinchaks", description: "Dhinchaks", link: "https://www.facebook.com/dhinchakswrapping", imageUrl: "dhinchaks.jpg"}
 
 
