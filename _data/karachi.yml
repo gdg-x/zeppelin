@@ -96,15 +96,6 @@ mentors:
   social:
   - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
 
-- id: 7
-  name: 'Ayesha'
-  surname: 'Kaleem'
-  thumbnailUrl: ayesha.png
-  role: "Mentor"
-  bio: "<p>&nbsp;</p>"
-  social:
-  - {name: "twitter", link: ""}
-
 - id: 8
   name: 'Muzammil'
   surname: 'Bilwani'
