@@ -95,11 +95,15 @@
   id: 12
   name: "Hieu"
   surname: "Rocker"
-  company: "Google Developer Expert"
-  title: "Google Developer Expert"
-  bio: "Android GDE"
+  company: "VNG"
+  title: "Tech Lead of Zalo"
+  bio: "Android GDE. Live and work in Ho Chi Minh."
   thumbnailUrl: HieuRocker.jpg
   rockstar: false
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "github", link: "https://github.com/rockerhieu"}
 - 
   id: 13
   name: "Iñaki"
