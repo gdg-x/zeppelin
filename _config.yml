@@ -55,9 +55,9 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Orateurs 2017"}
 # - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
- - {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
 rightNavigationButtons:
- - {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
 
 # Hero Block
 heroImage: "hero"
