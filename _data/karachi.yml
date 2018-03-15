@@ -26,9 +26,11 @@ partners:
    elements:
    - {name: "Recurship", description: "Recurship", link: "http://recurship.com/", imageUrl: "recurship-2.0.png"}
    - {name: "Nest I/O", description: "Nest I/O", link: "http://thenestio.com/", imageUrl: "nest_io.png"}
-   - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com", imageUrl: "iomechs-logo.gif"}
    - {name: "Genetech Solutions", description: "Genetech Solutions", link: "https://www.genetechsolutions.com", imageUrl: "genetech.jpg"}
+   - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com", imageUrl: "iomechs-logo.gif"}
    - {name: "Dhinchaks", description: "Dhinchaks", link: "https://www.facebook.com/dhinchakswrapping", imageUrl: "dhinchaks.jpg"}
+   - {name: "Outtabox", description: "Outtabox", link: "https://www.facebook.com/OuttaBoxPK", imageUrl: "outtabox.png"}
+   - {name: "WomenintechPK", description: "WomenintechPK", link: "https://www.facebook.com/groups/WomenInTechPK", imageUrl: "WITPK-Logo.png"}
 
 
 
@@ -38,19 +40,155 @@ mentors:
   name: 'Zainab'
   surname: 'Saleem'
   thumbnailUrl: zainab.jpg
-  title: "&nbsp;"
-  company: "Organizer"
+  role: "Organizer"
   bio: "<p>&nbsp;</p>"
+  link: https://www.twitter.com/zenabSaleemKhan
   social:
   - {name: "twitter", link: "https://www.twitter.com/zenabSaleemKhan"}
 
+- id: 2
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  thumbnailUrl: mashhood.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/mashhoodr
+  social:
+  - {name: "twitter", link: "https://twitter.com/mashhoodr"}
+
+- id: 3
+  name: 'Neelam'
+  surname: 'Raheel'
+  thumbnailUrl: neelam.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/neelam.raheel.9
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/neelam.raheel.9"}
+
+- id: 4
+  name: 'Sohaib'
+  surname: 'Nehal'
+  thumbnailUrl: sohaib.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/Sohaib_Nehal
+  social:
+  - {name: "twitter", link: "https://twitter.com/Sohaib_Nehal"}
+
+- id: 5
+  name: 'Talia'
+  surname: 'Asghar'
+  thumbnailUrl: talia.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/taleyamirza
+  social:
+  - {name: "twitter", link: "https://twitter.com/taleyamirza"}
+
+- id: 6
+  name: 'Ahsan'
+  surname: 'Ayaz'
+  thumbnailUrl: ahsan.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Ahsan_ayz
+  social:
+  - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
+
+- id: 7
+  name: 'Ayesha'
+  surname: 'Kaleem'
+  thumbnailUrl: ayesha.png
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 8
+  name: 'Muzammil'
+  surname: 'Bilwani'
+  thumbnailUrl: muzammil.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/muzammil.bilwani
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/muzammil.bilwani"}
+
+- id: 9
+  name: 'Javeria'
+  surname: 'Nisar'
+  thumbnailUrl: javeria.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/JavaEria1
+  social:
+  - {name: "facebook", link: "https://twitter.com/JavaEria1"}
+
+- id: 10
+  name: 'Kazim'
+  surname: 'Homayee'
+  thumbnailUrl: kazim.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/kazimhomayee
+  social:
+  - {name: "twitter", link: "https://twitter.com/kazimhomayee"}
+
+- id: 11
+  name: 'Mariam'
+  surname: 'Jamal'
+  thumbnailUrl: marium.webp
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/mariam.jamal.9277
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/mariam.jamal.9277"}
+
+- id: 12
+  name: 'Narain'
+  surname: 'Sagar'
+  thumbnailUrl: narain.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/narainsagar
+  social:
+  - {name: "twitter", link: "https://twitter.com/narainsagar"}
+
+- id: 13
+  name: 'Yusra'
+  surname: 'Khatri'
+  thumbnailUrl: you.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 14
+  name: 'Muneeba'
+  surname: 'Anwar'
+  thumbnailUrl: muneeba.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/MuneebaAnwar
+  social:
+  - {name: "twitter", link: "https://twitter.com/MuneebaAnwar"}
 
 - id: 15
-  name: "And You?"
-  surname: ""
-  company: "&nbsp;"
-  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV_ijJIeeDi9LQjMv99Veo1NvRbLv1qfUWgNjUE35v44R2ew/viewform" target="_blank"> this form</a>.</p>'
-  thumbnailUrl: you.png
-  rockstar: true
+  name: 'Shanza'
+  surname: 'Khan Shahani'
+  thumbnailUrl: shanza.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/ShanzaKhanShah
   social:
-    - {name: "twitter", link: "https://twitter.com/xxx"}
+  - {name: "twitter", link: "https://twitter.com/ShanzaKhanShah"}
+
+- id: 16
+  name: 'Sabrina'
+  surname: 'Ahmed Khan'
+  thumbnailUrl: you.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  social:
+  - {name: "twitter", link: ""}
