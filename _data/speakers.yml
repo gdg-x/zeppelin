@@ -10,21 +10,6 @@
   social:
     - {name: site, link: "https://SusanCBennett.com"}
     - {name: "twitter", link: "https://twitter.com/siriouslysusan"}
-- 
-  id: 4
-  name: "Cynthia"
-  surname: "Johnson"
-  company: "Bell + Ivy"
-  title: "Co-founder and CEO"
-  bio: '<p>Cynthia Johnson is an entrepreneur, speaker, and author</p>'
-  thumbnailUrl: CynthiaJohnson.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "https://cynthialive.com"}
-    - {name: "twitter", link: "https://twitter.com/cynthialive"}
-    - {name: "linkedin", link: "https://linkedin.com/in/cynjohnson"}
-    - {name: "facebook", link: "https://facebook.com/cynthiajlive"}
-
 -
   id: 5
   name: "Bas"
