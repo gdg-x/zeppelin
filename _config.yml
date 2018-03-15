@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'Original Assets'
 
 # Site Settings
 title: "SwiftFest 2018"
-email: "g@swiftfest.io"
+email: "conference@swiftfest.io"
 description: "The most community driven Swift conference!"
 baseurl: "/swiftfest-site"
 url: "swiftfest.io"
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" # TODO
 organizerName: "Giorgio Natili"
 organizerAlternateName: "Google Developer Group Lviv" # TODO
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion." # TODO
-organizerEmail: "g@swiftfest.io"
+organizerEmail: "conference@swiftfest.io"
 organizerLogo: "/img/seo/organizer-logo.png" # TODO
 organizerLink: "http://swiftfest.io"
 
@@ -36,8 +36,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform"
-c4sponsorsUrl: "mailto:g@swiftfest.io" # TODO: add page for sponsor application?
-
+c4sponsorsUrl: "mailto:conference@swiftfest.io"
 
 # Navigation
 navigationLinks:
@@ -171,7 +170,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:g@swiftfest.io", text: "g@swiftfest.io"}
+   - {link: "mailto:conference@swiftfest.io", text: "conference@swiftfest.io"}
  -
   title: "FAQ"
   links:
