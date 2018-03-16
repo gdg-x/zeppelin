@@ -47,6 +47,16 @@ mentors:
   social:
   - {name: "twitter", link: "https://www.twitter.com/zenabSaleemKhan"}
 
+- id: 17
+  name: 'Robert'
+  surname: 'Willemelis'
+  thumbnailUrl: robert.png
+  role: "Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/robertSPD
+  social:
+  - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
 - id: 2
   name: 'Sarah'
   surname: 'Ahmed'
