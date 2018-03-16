@@ -47,6 +47,16 @@ mentors:
   - {name: "twitter", link: "https://www.twitter.com/zenabSaleemKhan"}
 
 - id: 2
+  name: 'Sarah'
+  surname: 'Ahmed'
+  thumbnailUrl: sarah.jpeg
+  role: "Speaker"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/profile.php?id=100012491862049
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100012491862049"}
+
+- id: 3
   name: 'Mashhood'
   surname: 'Rastgar'
   thumbnailUrl: mashhood.jpg
@@ -56,7 +66,7 @@ mentors:
   social:
   - {name: "twitter", link: "https://twitter.com/mashhoodr"}
 
-- id: 3
+- id: 4
   name: 'Neelam'
   surname: 'Raheel'
   thumbnailUrl: neelam.jpg
@@ -66,7 +76,7 @@ mentors:
   social:
   - {name: "facebook", link: "https://www.facebook.com/neelam.raheel.9"}
 
-- id: 4
+- id: 5
   name: 'Sohaib'
   surname: 'Nehal'
   thumbnailUrl: sohaib.jpeg
@@ -76,7 +86,7 @@ mentors:
   social:
   - {name: "twitter", link: "https://twitter.com/Sohaib_Nehal"}
 
-- id: 5
+- id: 6
   name: 'Talia'
   surname: 'Asghar'
   thumbnailUrl: talia.jpg
@@ -86,7 +96,7 @@ mentors:
   social:
   - {name: "twitter", link: "https://twitter.com/taleyamirza"}
 
-- id: 6
+- id: 7
   name: 'Ahsan'
   surname: 'Ayaz'
   thumbnailUrl: ahsan.jpeg
@@ -97,16 +107,6 @@ mentors:
   - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
 
 - id: 8
-  name: 'Muzammil'
-  surname: 'Bilwani'
-  thumbnailUrl: muzammil.jpg
-  role: "Mentor"
-  bio: "<p>&nbsp;</p>"
-  link: https://www.facebook.com/muzammil.bilwani
-  social:
-  - {name: "facebook", link: "https://www.facebook.com/muzammil.bilwani"}
-
-- id: 9
   name: 'Javeria'
   surname: 'Nisar'
   thumbnailUrl: javeria.jpg
@@ -116,7 +116,27 @@ mentors:
   social:
   - {name: "facebook", link: "https://twitter.com/JavaEria1"}
 
+- id: 9
+  name: 'Muzammil'
+  surname: 'Bilwani'
+  thumbnailUrl: muzammil.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/muzammil.bilwani
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/muzammil.bilwani"}
+
 - id: 10
+  name: 'Sabrina'
+  surname: 'Ahmed Khan'
+  thumbnailUrl: sabrina.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/sabi.khan.71
+  social:
+  - {name: "twitter", link: "https://www.facebook.com/sabi.khan.71"}
+
+- id: 11
   name: 'Kazim'
   surname: 'Homayee'
   thumbnailUrl: kazim.jpg
@@ -126,17 +146,17 @@ mentors:
   social:
   - {name: "twitter", link: "https://twitter.com/kazimhomayee"}
 
-- id: 11
-  name: 'Mariam'
-  surname: 'Jamal'
-  thumbnailUrl: marium.webp
+- id: 12
+  name: 'Shanza'
+  surname: 'Khan Shahani'
+  thumbnailUrl: shanza.jpg
   role: "Mentor"
   bio: "<p>&nbsp;</p>"
-  link:  https://www.facebook.com/mariam.jamal.9277
+  link:  https://twitter.com/ShanzaKhanShah
   social:
-  - {name: "facebook", link: "https://www.facebook.com/mariam.jamal.9277"}
+  - {name: "twitter", link: "https://twitter.com/ShanzaKhanShah"}
 
-- id: 12
+- id: 13
   name: 'Narain'
   surname: 'Sagar'
   thumbnailUrl: narain.jpeg
@@ -147,15 +167,6 @@ mentors:
   - {name: "twitter", link: "https://twitter.com/narainsagar"}
 
 - id: 13
-  name: 'Yusra'
-  surname: 'Khatri'
-  thumbnailUrl: you.jpg
-  role: "Mentor"
-  bio: "<p>&nbsp;</p>"
-  social:
-  - {name: "twitter", link: ""}
-
-- id: 14
   name: 'Muneeba'
   surname: 'Anwar'
   thumbnailUrl: muneeba.jpg
@@ -166,18 +177,18 @@ mentors:
   - {name: "twitter", link: "https://twitter.com/MuneebaAnwar"}
 
 - id: 15
-  name: 'Shanza'
-  surname: 'Khan Shahani'
-  thumbnailUrl: shanza.jpg
+  name: 'Adeel'
+  surname: 'Hussain'
+  thumbnailUrl: adeel.jpg
   role: "Mentor"
   bio: "<p>&nbsp;</p>"
-  link:  https://twitter.com/ShanzaKhanShah
+  link:  https://twitter.com/adeel_hussainn
   social:
-  - {name: "twitter", link: "https://twitter.com/ShanzaKhanShah"}
+  - {name: "twitter", link: "https://twitter.com/adeel_hussainn"}
 
 - id: 16
-  name: 'Sabrina'
-  surname: 'Ahmed Khan'
+  name: 'Yusra'
+  surname: 'Khatri'
   thumbnailUrl: you.jpg
   role: "Mentor"
   bio: "<p>&nbsp;</p>"
