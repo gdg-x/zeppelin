@@ -8,7 +8,7 @@
 
       {% assign animationDelay = 0 %}
       {% for member in site.data.karachi.mentors %}
-      {% assign colWidth = 3 %}
+        {% assign colWidth = 2 %}
       {% assign memberImage = site.baseurl | append: '/img/karachi-mentors/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
@@ -21,7 +21,7 @@
               <a href="#">
             {% endif %}
             <div class="flow-img img-circle rockstar-speaker-img" style="background-image: url({{ memberImage }})"></div>
-            <div class="name">{{ member.name }} {{ member.surname }}</div>
+            <div style="font-size:20px;">{{ member.name }} {{ member.surname }}</div>
             <p>{{ member.role }}</p>
           </a>
           <br />
