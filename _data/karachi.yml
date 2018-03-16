@@ -200,8 +200,9 @@ mentors:
 - id: 16
   name: 'Yusra'
   surname: 'Khatri'
-  thumbnailUrl: you.jpg
+  thumbnailUrl: yusra.jpg
   role: "Mentor"
   bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/yusrakhatri
   social:
-  - {name: "twitter", link: ""}
+  - {name: "twitter", link: "https://www.facebook.com/yusrakhatri"}
