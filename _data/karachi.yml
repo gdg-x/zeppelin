@@ -30,6 +30,7 @@ partners:
    - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com", imageUrl: "iomechs-logo.gif"}
    - {name: "Dhinchaks", description: "Dhinchaks", link: "https://www.facebook.com/dhinchakswrapping", imageUrl: "dhinchaks.jpg"}
    - {name: "Outtabox", description: "Outtabox", link: "https://www.facebook.com/OuttaBoxPK", imageUrl: "outtabox.png"}
+   - {name: "GDG Kolachi", description: "GDG Kolachi", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png"}
    - {name: "WomenintechPK", description: "WomenintechPK", link: "https://www.facebook.com/groups/WomenInTechPK", imageUrl: "WITPK-Logo.png"}
 
 
