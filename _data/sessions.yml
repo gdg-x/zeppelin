@@ -14,46 +14,21 @@
   title: "Accidentally Famous"
   description: "How I became Siri: The voiceover business, how being “Siri” affected me and the lessons I learned from it."
   subtype: workshop
-  speakers: [3]
+  speakers: [1]
   language: en
-  complexity: "Intermediate"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#  video: "https://video-url-goes-here"
 -
   id: 002
-  title: "Digital Transformation: Think for Yourself Not About Yourself"
-  description: "How can use the communication tools, personal influence, and your own personal network to move the needle for your business and your career? We have all watched fake experts and influencers sit in a seat or find their way to a position that we or someone we know is more qualified for. Who gets heard is not chance, it is a strategy. Your most valuable tool is available and free, it's you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
   title: "Swift 5 and Beyond: World Domination?"
   description: "With Swift 5 on the horizon and Swift 6 development soon in full swing, we take a look at the current state of Swift. What's new in Swift 5, and what can we expect from Swift in the future? Will Swift soon reach World Domination?"
   subtype: presentation
-  speakers: [5]
+  speakers: [2]
   language: en
   complexity: "Intermediate" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#  presentation: "https://slides-url-goes-here"
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 999
+  title: "Stay Tuned - more speakers coming soon!"
+  description: "More speakers coming soon!"
+  subtype: presentation
+  speakers: []
