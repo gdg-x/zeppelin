@@ -109,8 +109,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Melbourne Theatre"
-venueFeatures: ["Doulby Digital Surround EX audio system", "Located directly in the greenest area of the city"]
+venueTitle: "RMIT University"
+venueFeatures: ["The conference will be hold at the RMIT University in Ho Chi Minh City."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
