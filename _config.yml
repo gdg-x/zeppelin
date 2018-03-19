@@ -196,7 +196,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://confcodeofconduct.com/", text: "Our Code of Conductw"}
+   - {link: "http://confcodeofconduct.com/", text: "Our Code of Conduct"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
