@@ -131,7 +131,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections and coffee brakes. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Pre Sale Tickets"
@@ -196,7 +196,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://confcodeofconduct.com/", text: "Our Code of Conduct"}
+   - {link: "http://confcodeofconduct.com/", text: "Our Code of Conductw"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
