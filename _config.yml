@@ -11,9 +11,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
-description: "Agile Pays Basque les 22 et 23 Septembre 2017 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter autour de l’agilité et du lean."
+
+description: "Agile Pays Basque les 21 et 22 Septembre 2018 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter autour de l’agilité et du lean."
 baseurl: ""
 url: "http://www.agile-paysbasque.fr/"
+
 permalink: "/blog/:title"
 
 # FIXME Google Analytics
@@ -38,46 +40,43 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# FIXME Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-
 # FIXME Sponsorhip PDF
 # XXX relative url must start with "/" here. Others sponsor relative links don't need it'
 c4sponsorsUrl: "/blog/devenir-sponsor"
 
 
 # Navigation
-becomeSpeaker: "Devenir Orateur"
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/schedule/", text: "Programme"}
- - {permalink: "/logistics/", text: "S'y rendre"}
- - {permalink: "/speakers/", text: "Orateurs"}
- - {permalink: "/sponsors/", text: "Sponsors"}
- - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/cfp/", text: "Devenir Orateur", }
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "2017"}
  - {permalink: "/schedule2016/", text: "2016"}
+ - {permalink: "/team/", text: "Equipe"}
+# - {permalink: "/logistics/", text: "S'y rendre 2017"}
+# - {permalink: "/speakers/", text: "Orateurs 2017"}
+# - {permalink: "/sponsors/", text: "Sponsors 2017"}
 bottomNavigationLinks:
- - {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
 rightNavigationButtons:
- - {permalink: "/#tickets", text: "Acheter un billet"}
+# - {permalink: "/#tickets", text: "Acheter un billet"}
 
 # Hero Block
 heroImage: "hero"
-heroTitle: "Agile <typeout> 2017"
-eventDate: "22 / 23 Septembre 2017"
+heroTitle: "Agile <typeout> 2018"
+eventDate: "21 / 22 Septembre 2018"
 typeoutTextValues: '"", "Pays Basque", "Cote Basque"'
 typeoutFallback: "Pays Basque"
 heroButtons:
- - {permalink: "/#tickets", text: "Acheter un billet"}
+ - {permalink: "/cfp/", text: "Devenir Orateur"}
 heroCount: 8
 heroFirst: 1
 
 # About Block
-aboutTitle: "2ème édition de la conférence Agile Pays Basque"
+aboutTitle: "3ème édition de la conférence Agile Pays Basque"
 aboutLines:
  - {text: "L'agilité avec l'ensemble de ses valeurs, principes, méthodes et pratiques, se diffuse progressivement dans nos environnements de travail et dans l'enseignement."}
- - {text: "La 2ème édition : Agile Pays Basque 2017, sera cette année l'évènement agile du Pays Basque. C'est le rendez-vous des professionnels, enseignants et étudiants qui souhaitent savoir comment s'y prendre, découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter autour de l’agilité."}
+ - {text: "La 3ème édition : Agile Pays Basque 2018, sera cette année l'évènement agile du Pays Basque. C'est le rendez-vous des professionnels, enseignants et étudiants qui souhaitent savoir comment s'y prendre, découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter autour de l’agilité."}
  - {text: "Débutants ou experts, curieux ou praticiens, venez donc partager, échanger, vous enrichir sur des thématiques telles que Management Agile, Développement logiciel, Lean IT, Lean Startup, Scrum, Kanban, eXtreme Programming, et l'agile hors IT."}
 
 # Statistic Block
@@ -107,27 +106,27 @@ rockstarSpeakersButtonText: "Voir tous les orateurs"
 locationBlockTitle: "Pour s'y rendre'"
 
 eventLocationName: "ESTIA"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "http://www.estia.fr/"
 eventStreetAddress: "92, allée Théodore Monod"
 eventAddressLocality: "Bidart"
 eventAddressLocalityRegion: "64"
 eventPostalCode: "64210"
 eventAddressCountry: "France"
-eventStartTime: "2017-09-22T09:00"
+eventStartTime: "2018-09-21T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2017-09-22T18:00"
+eventEndTime: "2018-09-21T18:00"
 eventPlaceCoordinates: "43.446321, -1.553914"
 
-event2LocationName: "Atlanthal"
-event2LocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-event2StreetAddress: "153 bd des Plages"
-event2AddressLocality: "Anglet"
+event2LocationName: "A définir"
+event2LocationLink: "https://www.google.fr/maps"
+event2StreetAddress: ""
+event2AddressLocality: ""
 event2AddressLocalityRegion: "64"
-event2PostalCode: "64600"
+event2PostalCode: ""
 event2AddressCountry: "France"
-event2StartTime: "2017-09-23T09:00"
+event2StartTime: "2018-09-22T09:00"
 event2DoorTime: "09:00"
-event2EndTime: "2017-09-23T18:00"
+event2EndTime: "2018-09-22T18:00"
 event2PlaceCoordinates: "43.521377, -1.523359"
 
 mapCenterCoordinates: "43.445995, -1.553750"
@@ -143,8 +142,8 @@ venueSmallImage1: "venue_1.jpg"
 venueTitle: "ESTIA"
 venueFeatures: ["Ecole d'ingénieurs", "Technopole Izarbel", "64210 BIDART"]
 # Atlanthal
-venue2Title: "Atlanthal"
-venue2Features: ["Hôtels & Thalasso", "153 bd des Plages", "64600 ANGLET"]
+venue2Title: "A Définir"
+venue2Features: ["", "", ""]
 venueSmallImage2: "venue_2.jpg"
 
 # Tweets Feed Block
@@ -155,7 +154,7 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organisé par"
-partnersTitle: "Partenaires"
+partnersTitle: "Partenaires (2017)"
 partnersC4sponsorsButton: "Devenir Sponsor"
 
 # Subscribe Block
@@ -234,7 +233,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=agilepb", icon: "twitter"}
- - {link: "https://facebook.com/agilepb", icon: "facebook"}
+ - {link: "https://www.facebook.com/AgilePaysBasque", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -262,6 +261,9 @@ showSessions: true
 # Team Block
 teamBlockTitle: "Envie de participer ?"
 aboutUs: ""
+
+# CFP Block
+cfpBlockTitle: "Appel à orateurs 2018"
 
 # Logistics Find Way Block
 findWayTitle: ""
