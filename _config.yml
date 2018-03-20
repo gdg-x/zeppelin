@@ -11,15 +11,17 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Agile Pays Basque"
 email: "agilepb@gmail.com"
+
 description: "Agile Pays Basque les 21 et 22 Septembre 2018 à Bidart. Venez découvrir, échanger, apprendre, expérimenter, tester, approfondir vos connaissances, ou simplement discuter autour de l’agilité et du lean."
-baseurl: "/site-web"
-url: "https://agilepaysbasquedev.github.io"
+baseurl: ""
+url: "http://www.agile-paysbasque.fr/"
+
 permalink: "/blog/:title"
 
 # FIXME Google Analytics
 googleAnalyticsTrackingId: "UA-101197587-1"
 googleAnalyticsSiteUrl: "agilepaysbasque.github.io/site-web/"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "0n_5JEXK74797dsueojcTPkshAVOblUL7oIpcFIctI8"
 
 # Organizer Info
 organizerName: "Agile Pays Basque"
@@ -29,7 +31,7 @@ organizerEmail: "agilepb@gmail.com"
 
 # FIXME logo
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://agile-paysbasque.fr"
+organizerLink: "http://agile-paysbasque.fr"
 
 # Head
 metaKeywords: "Agile, Scrum, KanBan, DevOps, Lean Startup, Lean,"
