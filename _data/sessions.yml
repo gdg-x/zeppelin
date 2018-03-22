@@ -18,9 +18,9 @@
   speakers: [9]
 - 
   id: 10201
-  title: "Connect your Android Things with Firebase"
+  title: ""
   subtype: presentation
-  speakers: [10]
+  speakers: []
 - 
   id: 10202
   title: "Make it faster. (Enjoy gradle with kapt)"
@@ -51,7 +51,7 @@
   speakers: [13]
 - 
   id: 13302
-  title: "Writing Java-friendly Kotlin code - Sergey Ryabov"
+  title: "TensorFlow for Mobile Heroes - Enrique Lopez Manas"
   subtype: presentation
   speakers: []
 - 
