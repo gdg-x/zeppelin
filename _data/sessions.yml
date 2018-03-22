@@ -18,9 +18,9 @@
   speakers: [9]
 - 
   id: 10201
-  title: ""
+  title: "Connect your Android Things with Firebase"
   subtype: presentation
-  speakers: []
+  speakers: [10]
 - 
   id: 10202
   title: "Make it faster. (Enjoy gradle with kapt)"
