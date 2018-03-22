@@ -119,8 +119,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-# TODO: add form for mailing list
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://gnstudio.us6.list-manage.com/subscribe/post"
+subscribeHiddenU: "66c929ea69a19ef75fd17625d"
+subscribeHiddenId: "4ceb4a99c2"
 subscribeInfo: "Find out about new speaker announcements and other SwiftFest news."
 
 # Tickets Block
