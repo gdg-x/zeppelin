@@ -1,10 +1,10 @@
 - 
   group: "Silver Sponsors"
-  elements: 
-    - {name: "LinkedIn Learning", description: "LinkedIn Learning", link: "https://www.linkedin.com/learning/", imageUrl: "LinkedInLearning.svg"}
+  elements:
     - {name: "Square", description: "Square", link: "https://squareup.com", imageUrl: "Square.svg"}
 - 
   group: "Bronze Sponsors"
-  elements: 
+  elements:
+    - {name: "LinkedIn Learning", description: "LinkedIn Learning", link: "https://www.linkedin.com/learning/", imageUrl: "LinkedInLearning.svg"}
     - {name: "Rue La La", description: "Rue La La", link: "https://www.ruelala.com/", imageUrl: "RueLaLa.svg", width: "120px"}
     - {name: "TripAdvisor", description: "TripAdvisor", link: "http://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "120px"}
