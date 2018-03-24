@@ -19,17 +19,7 @@
     - {name: "twitter", link: "https://github.com/ZevEisenberg"}
     - {name: "github", link: "https://github.com/ZevEisenberg"}
     - {name: "site", link: "https://ZevEisenberg.com/"}
-- 
-  id: 2
-  name: "Elizabeth"
-  surname: "Mezias"
-  title: "Co-Organizer"
-  thumbnailUrl: ElizabethMezias.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://linkedin.com/in/bethmezias"}
-    - {name: "twitter", link: "https://twitter.com/bethmezias"}
-- 
+-
   id: 3
   name: "Lucy"
   surname: "Monahan"
