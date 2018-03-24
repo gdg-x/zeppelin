@@ -52,7 +52,7 @@ layout: compress
             document.write('<script src="https://maps.googleapis.com/maps/api/js?key={{ site.googleMapsAPIKey }}&libraries=places"><\/script>')
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?key={{ site.googleMapsAPIKey }},v=3.exp&libraries=places,geometry"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key={{ site.googleMapsAPIKey }}&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
