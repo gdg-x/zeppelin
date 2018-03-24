@@ -212,6 +212,7 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
+     - {link: "https://www.reverehotel.com/", text: "The Revere Hotel (Official SwiftFest Hotel)"}
      - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
      - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel"}
      - {link: "http://www.wboston.com/", text: "W Boston"}
