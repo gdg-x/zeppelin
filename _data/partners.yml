@@ -1,4 +1,8 @@
 -
+  group: "Gold Sponsors"
+  elements:
+    - {name: "Wayfair", description: "Wayfair", link: "https://wayfair.com", imageUrl: "Wayfair.svg"}
+-
   group: "Silver Sponsors"
   elements:
     - {name: "Square", description: "Square", link: "https://squareup.com", imageUrl: "Square.svg"}
