@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'Original Assets']
 
 # Miscellaneous
-googleMapsAPIKey: AIzaSyAvGdd7lRTgZrGDwURX87xxBuina1LL43k
+googleMapsAPIKey: "AIzaSyAvGdd7lRTgZrGDwURX87xxBuina1LL43k"
 
 # Site Settings
 title: "SwiftFest 2018"
