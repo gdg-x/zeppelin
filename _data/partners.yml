@@ -1,8 +1,8 @@
-- 
+-
   group: "Silver Sponsors"
   elements:
     - {name: "Square", description: "Square", link: "https://squareup.com", imageUrl: "Square.svg"}
-- 
+-
   group: "Bronze Sponsors"
   elements:
     - {name: "LinkedIn Learning", description: "LinkedIn Learning", link: "https://www.linkedin.com/learning/", imageUrl: "LinkedInLearning.svg"}
