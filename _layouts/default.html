@@ -48,8 +48,8 @@ layout: compress
     {% if page.permalink == '/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB61f1gp1pmDtoTL9z8AXQDaGLU6PgC1XQ&libraries=places"><\/script>')
         } 
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?key={{ googleMapsAPIKey }}&libraries=places"><\/script>')
     </script>
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
