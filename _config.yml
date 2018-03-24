@@ -15,9 +15,9 @@ email: "conference@swiftfest.io"
 description: "The most community driven Swift conference!"
 baseurl:
 url: "swiftfest.io"
-googleAnalyticsTrackingId: "UA-43643469-5" # TODO
-googleAnalyticsSiteUrl: "gdg-x.github.io" # TODO
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" # TODO
+googleAnalyticsTrackingId: "UA-3309084-18"
+googleAnalyticsSiteUrl: "swiftfest.io"
+siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
 
 # Organizer Info
 organizerName: "Giorgio Natili"
