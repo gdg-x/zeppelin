@@ -21,3 +21,15 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/BasThomas"}
+-
+  id: 3
+  name: "Sean"
+  surname: "Olszewski"
+  company: "Pivotal Labs"
+  title: "Software Engineer & Consultant"
+  bio: "<p>Currently a software engineer at Pivotal Labs, Sean Olszewski focuses on practicing test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. When he’s not working on projects for clients, he can be found at meet ups in the Boston area, or organizing the two meet ups he runs: Learn Swift Boston, and XP Boston. Feel free to ask Sean any testing or audio questions you might have!</p>"
+  thumbnailUrl: SeanOlszewski.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/__chefski__"}
+    - {name: "github", link: "https://github.com/seanrolszewski"}
