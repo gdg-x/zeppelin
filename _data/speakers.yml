@@ -33,3 +33,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/__chefski__"}
     - {name: "github", link: "https://github.com/seanrolszewski"}
+-
+  id: 4
+  name: "Matt"
+  surname: "Dias"
+  company: "Chewy"
+  title: "Senior iOS Engineer"
+  bio: "<p>Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.</p>"
+  thumbnailUrl: MattDias.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
+    - {name: "github", link: "https://github.com/mdiasdev"}
