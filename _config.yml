@@ -199,7 +199,7 @@ logisticsMapMobileCenterCoordinates: "42.412080, -71.733608"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "ship.jpg"
 directionDetailsTitle: "Get around Boston"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Logan Airport is right next to the city. It is easily reachable by car, public transport, or taxi. More information is available at the <a href="http://www.massport.com/logan-airport/">airport website</a>.'}

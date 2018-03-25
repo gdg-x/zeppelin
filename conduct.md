@@ -3,6 +3,7 @@ layout: post
 title: Be excellent to each other!
 permalink: /conduct/
 isStaticPost: true
+image: people.jpg
 ---
 
 We want **SwiftFest Boston** to be a safe and productive environment for everyone. To that end, this code of conduct spells out the behavior we support and don’t support at conferences. All attendees, speakers, sponsors and volunteers at our conference are required to agree to the following Code of Conduct. Organizers will enforce this code throughout the event.
