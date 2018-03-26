@@ -27,6 +27,18 @@
   complexity: "Intermediate" 
 #  presentation: "https://slides-url-goes-here"
 -
+  id: 003
+  title: "From Back to Front to Left Wrist"
+  subtype: presentation
+  speakers: [4]
+  language: en
+-
+  id: 004
+  title: "Patterns & Methodologies for Test Suite Design"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
   id: 999
   title: "Stay Tuned - more speakers coming soon!"
   description: "More speakers coming soon!"
