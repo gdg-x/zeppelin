@@ -7,7 +7,7 @@
   </style>
   {% for photo in site.data.photos %}
     <div class="schedule modal fade text-left person-modal" id="photo-{{ photo.year }}-{{ photo.id }}" tabindex="-1" role="dialog" aria-labelledby="photoLabel-{{ photo.year }}-{{ photo.id }}" aria-hidden="true">
-      <div class="modal-dialog">
+      <div class="modal-dialog" style="width: {{ photo.width }};">
         <div class="modal-content">
           <div class="modal-body">
             <div class="close">
@@ -16,7 +16,7 @@
               </svg>
               <div class="close-mask" data-dismiss="modal"></div>
             </div>
-            <img src="{{ site.baseurl | append: site.photosFolder | append: photo.year | append: '/' | append: photo.file }} "
+            <img src="{{ site.baseurl | append: site.photosFolder | append: photo.year | append: '/' | append: photo.file }} ">
             <p class="theme-description">
               {% if photo.link %}<a href="{{ photo.link }}" target="_blank">{% endif %}{{ photo.text }}{% if photo.link %}</a>{% endif %}</p>
           </div>
