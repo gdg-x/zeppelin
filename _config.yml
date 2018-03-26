@@ -233,7 +233,7 @@ kidsWStitel: "Learn Game programming by using Scratch"
 # location of thumbnails
 thumbnailsFolder: /img/people/
 thumbnailsSessions: /img/sessions/
-thumbnailsPhotos: /photos/thumpnails
+thumbnailsPhotos: /photos/thumbnails/
 photosFolder: /photos/large/
 
 # Logistics Find Way Block
