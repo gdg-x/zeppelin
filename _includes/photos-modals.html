@@ -1,0 +1,28 @@
+<!-- Begin Photos Modals -->
+<div class="modals">
+  <style type="text/css">
+  .lily-effect figcaption h2 span {
+    display: inline;
+  }
+  </style>
+  {% for photo in site.data.photos %}
+    <div class="schedule modal fade text-left person-modal" id="photo-{{ photo.year }}-{{ photo.id }}" tabindex="-1" role="dialog" aria-labelledby="photoLabel-{{ photo.year }}-{{ photo.id }}" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+            <div class="close">
+              <svg class="icon icon-cross" viewBox="0 0 32 32">
+                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+              </svg>
+              <div class="close-mask" data-dismiss="modal"></div>
+            </div>
+            <img src="{{ site.baseurl | append: site.photosFolder | append: include.year | append: '/' | append: photo.file }} "
+            <p class="theme-description">
+              {% if photo.link %}<a href="{{ photo.link }}" target="_blank">{% endif %}{{ photo.text }}{% if photo.link %}</a>{% endif %}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+<!-- End Photos Modals -->

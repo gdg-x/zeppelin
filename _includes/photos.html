@@ -1,46 +1,28 @@
 <!-- Begin Photos -->
-<section id="photos-{{ include.year }}" class="photos">
+<section id="photos-{{ include.year }}" class="photos schedule">
   <h3>Women Techmakers Vienna {{ include.year }}</h3>
   <div class="content-wrapper">
     <div class="col-lg-10 col-lg-offset-1">
-      <div class="photos-row">
-        {% assign pos = 1 %}
-        {% for picture in site.data.photos %}
-          {% if picture.year == include.year %}
-            <div class="photos-column">
-              <img src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.file }}" alt="" onclick="photosOpenModal();photosCurrentSlide({{ pos }})" class="photos-hover-shadow">
+      <div class="row text-left appear-animation-trigger">
+        {% for photo in site.data.photos %}
+          {% if photo.year == include.year %}
+            <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+              <div class="lily-effect ribbon-activator">
+                <div class="lily-head" data-toggle="modal" data-target="#photo-{{ include.year }}-{{ photo.id }}">
+                  <figure style="background-image: url({{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: photo.file }})">
+                    <div class="overlay solid-overlay"></div>
+                  </figure>
+                </div>
+                <div class="lily-bottom">
+                  <ul class="slider">
+                    <li class="title slider-item animated fadeInRight hidden">{{ photo.text }}</li>
+                  </ul>
+                </div>
+                <a href="#" class="slider-next-item hidden">Next</a>
+              </div>
             </div>
-            {% assign pos = pos + 1 %}
-          {% endif %}
-         {% endfor %}
-         {% assign count = pos - 1 %}
-      </div>
-      <div id="photos-my-modal" class="photos-modal">
-        <span class="photos-close photos-cursor" onclick="photosCloseModal()">&times;</span>
-        <div class="photos-modal-content">
-        {% assign pos = 1 %}
-        {% for picture in site.data.photos %}
-          {% if picture.year == include.year %}
-          <div class="photos-my-slides">
-            <div class="photos-numbertext">{{ pos }} / {{ count }}</div>
-            <img src="{{ site.baseurl | append: site.photosFolder | append: include.year | append: '/' | append: picture.file }}" alt="" style="width: 100%;">
-          </div>
-            {% assign pos = pos + 1 %}
           {% endif %}
         {% endfor %}
-          <a class="photos-prev" onclick="photosPlusSlides(-1)">&#10094;</a>
-          <a class="photos-next" onclick="photosPlusSlides(1)">&#10095;</a>
-          <p id="photos-caption"></p>
-        {% assign pos = 1 %}
-        {% for picture in site.data.photos %}
-          {% if picture.year == include.year %}
-          <div class="photos-column">
-            <img class="photos-demo" src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.file }}" onclick="photosCurrentSlide({{ pos }})" alt="{{ picture.text }}">
-          </div>
-            {% assign pos = pos + 1 %}
-          {% endif %}
-        {% endfor %}
-        </div>
       </div>
     </div>
   </div>
