@@ -8,7 +8,7 @@
         {% for picture in site.data.photos %}
           {% if picture.year == include.year %}
             <div class="photos-column">
-              <img src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.id | append: '.jpg' }}" alt="" onclick="photosOpenModal();photosCurrentSlide({{ pos }})" class="photos-hover-shadow">
+              <img src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.file }}" alt="" onclick="photosOpenModal();photosCurrentSlide({{ pos }})" class="photos-hover-shadow">
             </div>
             {% assign pos = pos + 1 %}
           {% endif %}
@@ -23,8 +23,9 @@
           {% if picture.year == include.year %}
           <div class="photos-my-slides">
             <div class="photos-numbertext">{{ pos }} / {{ count }}</div>
-            <img src="{{ site.baseurl | append: site.photosFolder | append: include.year | append: '/' | append: picture.id | append: '.jpg' }}" alt="" style="width: 100%;">
+            <img src="{{ site.baseurl | append: site.photosFolder | append: include.year | append: '/' | append: picture.file }}" alt="" style="width: 100%;">
           </div>
+            {% assign pos = pos + 1 %}
           {% endif %}
         {% endfor %}
           <a class="photos-prev" onclick="photosPlusSlides(-1)">&#10094;</a>
@@ -34,8 +35,9 @@
         {% for picture in site.data.photos %}
           {% if picture.year == include.year %}
           <div class="photos-column">
-            <img class="photos-demo" src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.id | append: '.jpg' }}" onclick="photosCurrentSlide({{ pos }})" alt="{{ picture.text }}">
+            <img class="photos-demo" src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.file }}" onclick="photosCurrentSlide({{ pos }})" alt="{{ picture.text }}">
           </div>
+            {% assign pos = pos + 1 %}
           {% endif %}
         {% endfor %}
         </div>
