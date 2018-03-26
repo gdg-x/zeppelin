@@ -16,7 +16,7 @@
               </svg>
               <div class="close-mask" data-dismiss="modal"></div>
             </div>
-            <img src="{{ site.baseurl | append: site.photosFolder | append: include.year | append: '/' | append: photo.file }} "
+            <img src="{{ site.baseurl | append: site.photosFolder | append: photo.year | append: '/' | append: photo.file }} "
             <p class="theme-description">
               {% if photo.link %}<a href="{{ photo.link }}" target="_blank">{% endif %}{{ photo.text }}{% if photo.link %}</a>{% endif %}</p>
           </div>
