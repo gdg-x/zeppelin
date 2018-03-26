@@ -51,6 +51,7 @@ navigationLinks:
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
+ - {permalink: "https://photos.app.goo.gl/E9vndqvaNXp9AWLi2", text: "Photos"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
