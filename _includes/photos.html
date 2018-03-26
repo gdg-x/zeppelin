@@ -1,0 +1,46 @@
+<!-- Begin Photos -->
+<section id="photos-{{ include.year }}" class="photos">
+  <h3>Women Techmakers Vienna {{ include.year }}</h3>
+  <div class="content-wrapper">
+    <div class="col-lg-10 col-lg-offset-1">
+      <div class="photos-row">
+        {% assign pos = 1 %}
+        {% for picture in site.data.photos %}
+          {% if picture.year == include.year %}
+            <div class="photos-column">
+              <img src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.id | append: '.jpg' }}" alt="" onclick="photosOpenModal();photosCurrentSlide({{ pos }})" class="photos-hover-shadow">
+            </div>
+            {% assign pos = pos + 1 %}
+          {% endif %}
+         {% endfor %}
+         {% assign count = pos - 1 %}
+      </div>
+      <div id="photos-my-modal" class="photos-modal">
+        <span class="photos-close photos-cursor" onclick="photosCloseModal()">&times;</span>
+        <div class="photos-modal-content">
+        {% assign pos = 1 %}
+        {% for picture in site.data.photos %}
+          {% if picture.year == include.year %}
+          <div class="photos-my-slides">
+            <div class="photos-numbertext">{{ pos }} / {{ count }}</div>
+            <img src="{{ site.baseurl | append: site.photosFolder | append: include.year | append: '/' | append: picture.id | append: '.jpg' }}" alt="" style="width: 100%;">
+          </div>
+          {% endif %}
+        {% endfor %}
+          <a class="photos-prev" onclick="photosPlusSlides(-1)">&#10094;</a>
+          <a class="photos-next" onclick="photosPlusSlides(1)">&#10095;</a>
+          <p id="photos-caption"></p>
+        {% assign pos = 1 %}
+        {% for picture in site.data.photos %}
+          {% if picture.year == include.year %}
+          <div class="photos-column">
+            <img class="photos-demo" src="{{ site.baseurl | append: site.thumbnailsPhotos | append: include.year | append: '/' | append: picture.id | append: '.jpg' }}" onclick="photosCurrentSlide({{ pos }})" alt="{{ picture.text }}">
+          </div>
+          {% endif %}
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Photos -->
