@@ -12,7 +12,7 @@ partners:
 -
    group: "Hosted by"
    elements:
-     - {name: "Angular", description: "Angular", link: "https://angular.io/", imageUrl: "Angular.svg"}
+     - {name: "Angular", description: "Angular", link: "https://angular.io/", imageUrl: "angular.svg"}
 
 
 posts:
