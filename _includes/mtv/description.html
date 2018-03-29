@@ -1,0 +1,24 @@
+<!-- Begin Description Section -->
+<section id="description" class="latest-news">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h3>{{ site.data.mtv.descriptionTitle }}</h3>
+  							<p>We believe that the IT industry will greatly benefit from bringing more women into technology.<br />
+    We want to give you an opportunity to learn how to program and become a programmer.
+  </p>
+  <p>We're proud to be hosted by the Angular team itself, and offer a free one-day workshop in Google Headquarter offices, Mountain View, California right after
+		<a href="https://events.google.com/io/" target="_blank">Google I/O</a>.</p>
+  <hr>
+			<article class="row">
+				{% for post in site.data.mtv.descriptionBlock limit:4 %}
+          {% assign postUrl = site.baseurl | append: post.link %}
+					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+						<h6>{{ post.title }}</h6>
+						{% include {{ post.template }} %}
+					</div>
+        {% endfor %}
+			</article>
+		</div>
+	</div>
+</section>
+<!-- End Description Section -->

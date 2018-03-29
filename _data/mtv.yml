@@ -1,0 +1,23 @@
+eventDate: "May 11, 2018 - Mountain View, California"
+applicationForm: "https://goo.gl/forms/uWRd7qqoFJe6r93v2"
+mentorsForm: "https://goo.gl/forms/ug0LVMOwtfW3HFl43"
+descriptionTitle: "ngGirls @ Google HQ"
+descriptionBlock:
+ - {title: "Who is it for?", template: "mtv/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "mtv/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-
+   group: "Hosted by"
+   elements:
+     - {name: "Angular", description: "Angular", link: "https://angular.io/", imageUrl: "Angular.svg"}
+
+
+posts:
+  - {title: "ngGirls is coming to Google Headquarters!",
+     content: "We're happy and proud to be hosted by the Angular team itself, in Google Headquarters, Mountain View, CA.
+     The workshop will take place the day after the greatest show in town - Google I/O!"}
+
+
