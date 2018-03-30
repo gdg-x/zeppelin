@@ -1,3 +1,109 @@
+- 
+  id: 8000
+  title: "Check-in & Breakfast"
+  service: true
+- 
+  id: 9000
+  title: "Keynote (George Nguyen)"
+  service: true
+- 
+  id: 9301
+  title: "Tricks for converting Android Java code into Kotlin"
+  subtype: presentation
+  speakers: [5]
+- 
+  id: 9302
+  title: "My Accidental Journey as a WomenTechmakers"
+  subtype: presentation
+  speakers: [9]
+- 
+  id: 10201
+  title: "Connect your Android Things with Firebase"
+  subtype: presentation
+  speakers: [10]
+- 
+  id: 10202
+  title: "Make it faster. (Enjoy gradle with kapt)"
+  subtype: presentation
+  speakers: [11]
+- 
+  id: 11101
+  title: "Advanced Kotlin for MVVM"
+  subtype: presentation
+  speakers: [15]
+- 
+  id: 11102
+  title: "Zero to One with Android Things"
+  subtype: presentation
+  speakers: [12]
+- 
+  id: 11550
+  title: "Break time"
+  service: true
+- 
+  id: 13000
+  title: "Check-in newbee & Preparing everything for afternoon"
+  service: true
+- 
+  id: 13301
+  title: "Kotlin on Client and Server"
+  subtype: presentation
+  speakers: [13]
+- 
+  id: 13302
+  title: "TensorFlow for Mobile Heroes - Enrique Lopez Manas"
+  subtype: presentation
+  speakers: []
+- 
+  id: 14201
+  title: "Rebuilding Uber App: Fast from the Start"
+  subtype: presentation
+  speakers: [14]
+- 
+  id: 14202
+  title: "Our story with clean architecture: Why and how did we implement in Android? - Giang Vo"
+  subtype: presentation
+  speakers: []
+- 
+  id: 15050
+  title: "Teabreak & Networking"
+  service: true
+- 
+  id: 15301
+  title: "Kotlin Coroutines and Android sitting in a tree"
+  subtype: presentation
+  speakers: [4]
+- 
+  id: 15302
+  title: ""
+  subtype: presentation
+  speakers: [6]
+- 
+  id: 16201
+  title: "How modularization Android project would speed up your team"
+  subtype: presentation
+  speakers: [8]
+- 
+  id: 16202
+  title: "The real beginner guide to Android (unit) testing - Nguyen Trung Dung"
+  subtype: presentation
+  speakers: []
+- 
+  id: 17101
+  title: "Huỳnh Quang Thảo"
+  subtype: presentation
+  speakers: []
+- 
+  id: 17102
+  title: "Sam McCaig"
+  subtype: presentation
+  speakers: []
+
+
+
+
+
+
 -
   id: 307
   title: "Coffee Break"

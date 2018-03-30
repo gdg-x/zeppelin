@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME',  vendor]
 # Site Settings
 title: "Droidcon Vietnam 2018"
 shortTitle: "DroidconVN18"
-email: "devfest@gdg.org.ua"
+email: "eenriquelopez@gmail.com"
 description: "Register now and be informed of all the news happening at Droidcon Vietnam 2018"
 baseurl: ""
 url: "https://droidconvn.github.io"
@@ -44,7 +44,7 @@ c4sponsorsUrl: "https://speakerdeck.com/kikoso/droidcon-vietnam-sponsoring"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
@@ -304,3 +304,4 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+
