@@ -1,5 +1,5 @@
-- 
-  group: ""
+ - 
+  group: "Platinum sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "logo-google.jpg"}
   group: "Gold sponsor"
