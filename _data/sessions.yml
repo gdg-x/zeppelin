@@ -94,9 +94,9 @@
   speakers: []
 - 
   id: 17102
-  title: "Advanced Kotlin for MVVM - Son Nguyen"
+  title: "Advanced Kotlin for MVVM"
   subtype: presentation
-  speakers: []
+  speakers: [15]
 
 
 
