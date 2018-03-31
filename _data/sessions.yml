@@ -73,10 +73,10 @@
 -
   id: 007
   title: "Collaboration by Design! “What’chu talkin’ ‘bout, Willis?”"
-  description:
-    A lot of developers are quick to say that designers should learn to develop. To me, being able to design is an important skill to have as a developer. We all know that there is a significant divide when it comes to designers and developers. This split limits us to be better developers because sometimes we do not want to see the other side of things. Sometimes we as developers do not understand the designer's point of view. Developers and designers have different specialties that we can leverage from each other.
+  description: |
+   A lot of developers are quick to say that designers should learn to develop. To me, being able to design is an important skill to have as a developer. We all know that there is a significant divide when it comes to designers and developers. This split limits us to be better developers because sometimes we do not want to see the other side of things. Sometimes we as developers do not understand the designer's point of view. Developers and designers have different specialties that we can leverage from each other.
 
-    In this talk, I will discuss the different specialties we can take advantage of from both sides. Additionally, I will cover why you should start picking your designer's brain today. Finally, I will discuss how to get started and what tools designers are using today for doing wireframes to iOS app designs.
+   In this talk, I will discuss the different specialties we can take advantage of from both sides. Additionally, I will cover why you should start picking your designer's brain today. Finally, I will discuss how to get started and what tools designers are using today for doing wireframes to iOS app designs.
   subtype: presentation
   speakers: [7]
   language: en
