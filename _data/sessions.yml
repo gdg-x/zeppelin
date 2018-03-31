@@ -4,7 +4,7 @@
   service: true
 - 
   id: 9000
-  title: "Keynote (George Nguyen)"
+  title: "Conference introduction"
   service: true
 - 
   id: 9301
@@ -28,14 +28,13 @@
   speakers: [11]
 - 
   id: 11101
-  title: "Advanced Kotlin for MVVM"
-  subtype: presentation
-  speakers: [15]
-- 
-  id: 11102
   title: "Zero to One with Android Things"
   subtype: presentation
   speakers: [12]
+- 
+  id: 11102
+  title: "Firebase Codelab"
+  subtype: presentation
 - 
   id: 11550
   title: "Break time"
@@ -75,7 +74,7 @@
   speakers: [4]
 - 
   id: 15302
-  title: ""
+  title: "Design Tools - Closing the Gap Between Design and Development "
   subtype: presentation
   speakers: [6]
 - 
@@ -90,15 +89,14 @@
   speakers: []
 - 
   id: 17101
-  title: "Huỳnh Quang Thảo"
+  title: "GRPC and application in Android - Huỳnh Quang Thảo"
   subtype: presentation
   speakers: []
 - 
   id: 17102
-  title: "Sam McCaig"
+  title: "Advanced Kotlin for MVVM - Son Nguyen"
   subtype: presentation
   speakers: []
-
 
 
 
