@@ -95,3 +95,18 @@
   rockstar: false
   social:
     {name: "twitter", link: "https://twitter.com/thedevme"}
+-
+  id: 8
+  name: "Sarp"
+  surname: "Erdag"
+  title: "Founder & Lead Developer"
+  company: "Apperto"
+  bio: |
+   Sarp is an independent iOS developer, designer and entrepreneur. He co-founded the two popular apps, Typorama and Videorama, which got more than 6M downloads worldwide, reaching $1M annual revenue. His work has been featured by Apple, TechCrunch, ProductHunt, Entrepreneur Magazine, Popular Science and many other online and printed news sources. Sarp is an expert in building self-funded, bootstrapped app businesses, and passionate about sharing his knowledge and experiences throughout his journey.
+  thumbnailUrl: SarpErdag.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/sarperdag/"}
+    - {name: "facebook", link: "https://www.facebook.com/sarperdag"}
+    - {name: "instagram", link: "https://www.instagram.com/sarperdag/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sarperdag/"}

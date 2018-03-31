@@ -81,6 +81,16 @@
   speakers: [7]
   language: en
 -
+  id: 008
+  title: "Story of 2 indie devs, 1M+ annual revenue"
+  description: |
+   My talk will tell our 3 year story as a 2 person independent developer team making the two popular photo and video editing apps Typorama and Videorama, reaching 6M downloads worldwide, generating 1M+ annual revenue on the App Store. I’ll be talking about both the technical and the business tactics and strategies we used to drive downloads and create products loved and used by millions.
+  outcome: |
+   Learning and using the latest programming technologies and trends is cool, but if you combine that with a business and marketing know-how, developers have a huge potential in their hands to create super profitable micro businesses just on their own. Making a living off the App Store is getting harder each day, and I’ll help the audience learn how to hack their way to success.
+  subtype: presentation
+  speakers: [8]
+  language: en
+-
   id: 999
   title: "Stay Tuned - more speakers coming soon!"
   description: "More speakers coming soon!"
