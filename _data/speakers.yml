@@ -152,3 +152,12 @@ In his free time he rides his bike, take pictures, and travels until exhaustion.
   title: "Google Developer Expert"
   thumbnailUrl: EnriqueLopezManas.jpg
   rockstar: true
+- 
+    id: 18
+    name: "Giang"
+    bio: "I am Mobile Lead at CBA solution. I have more than 7 years of experience in mobile application development on Android, 2 years of experience in conducting Android development courses. I also design and develop many large mobile applications for e-commerce, retail, insurance, hospitality, healthcare, banking. Trainer of Android courses and speaker in many seminar on mobile application development."
+    surname: "Vo"
+    company: "CBA"
+    title: "Mobile Lead at CBA"
+    thumbnailUrl: GiangVo.jpg
+    rockstar: false

@@ -60,9 +60,9 @@
   speakers: [14]
 - 
   id: 14202
-  title: "Our story with clean architecture: Why and how did we implement in Android? - Giang Vo"
+  title: "Our story with clean architecture: Why and how did we implement in Android?"
   subtype: presentation
-  speakers: []
+  speakers: [18]
 - 
   id: 15050
   title: "Teabreak & Networking"
@@ -84,9 +84,9 @@
   speakers: [8]
 - 
   id: 16202
-  title: "The real beginner guide to Android (unit) testing - Nguyen Trung Dung"
+  title: "The real beginner guide to Android (unit) testing"
   subtype: presentation
-  speakers: []
+  speakers: [7]
 - 
   id: 17101
   title: "GRPC and application in Android"
