@@ -109,3 +109,40 @@
     - {name: "twitter", link: "https://twitter.com/sarperdag/"}
     - {name: "facebook", link: "https://www.facebook.com/sarperdag"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sarperdag/"}
+-
+  id: 9
+  name: "Andyy"
+  surname: "Hope"
+  title: "Software Engineer"
+  company: "Facebook"
+  bio: |
+   Andyy is a Software Engineer at Facebook and is also the founder of [Wu-Tang Clang](http://wutangclang.org/) which is a learn-to-code fundraiser, keeps a technical blog of Swift on [Medium](http://medium.com/@AndyyHope). Previously he was the organiser of [Playgrounds Conference](http://playgroundscon.com/).
+  thumbnailUrl: AndyyHope.jpg
+  rockstar: false
+  mc: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AndyyHope"}
+-
+  id: 10
+  name: "Garric"
+  surname: "Nahapetian"
+  title: "iOS Engineer"
+  company: "Tinder"
+  bio: |
+   Garric is an iOS Engineer at Tinder as well as the host of The SwiftCoders Podcast and the founder of the Learn Swift {CITY} group of meet ups.
+  thumbnailUrl: GarricNahapetian.jpg
+  rockstar: false
+  mc: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/garricn"}
+-
+  id: 11
+  name: "Ish"
+  surname: "Shabazz"
+  title: "iOS Developer"
+  bio: |
+   Ish has been an independent iOS App Developer since 2010. He works full time as a network engineer and spends practically every moment outside of that developing apps or working on something app-related. His apps have been featured by Apple, Starbucks, App Advice, iMore, and Daring Fireball. Ish’s story was featured in the documentary App: The Human Story. He is currently working on Capsicum, a daily planner and notebook.
+  thumbnailUrl: IshShabazz.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/ishabazz"}
