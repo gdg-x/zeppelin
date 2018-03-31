@@ -131,3 +131,24 @@
   title: "Android Engineer at Grab"
   thumbnailUrl: SonNguyen.jpg
   rockstar: false
+- 
+  id: 16
+  name: "Huỳnh"
+  bio: "Thao has been an Android Developer for 4 years and he is currently working for Trusting Social - latest fintech company in Vietnam. He worked on varies of mobile apps, from e-commerce application at Lazada, native application to embedded application."
+  surname: "Quang Thảo"
+  company: "Trusting Social"
+  title: "Android Engineer"
+  thumbnailUrl: HuynhQuang.jpeg
+  rockstar: false
+- 
+  id: 17
+  name: "Enrique"
+  bio: "
+Enrique López Mañas is a Google Developer Expert and independent IT consultant. He has been working with mobile technologies and learning from them since 2007. He is an avid contributor to the open source community and a FLOSS (Free Libre Open Source Software) kind of guy, being among the top 10 open source Java contributors in Germany. He is a part of the Google LaunchPad accelerator, where he participates in Google global initiatives to influence hundreds of the best startups from all around the globe. He is also a big data and machine learning aficionado.
+
+In his free time he rides his bike, take pictures, and travels until exhaustion. He also writes literature and enjoys all kinds of arts. He likes to write about himself in third person. You can follow him on Twitter (@eenriquelopez) to stay updated on his latest movements."
+  surname: "Lopez Manas"
+  company: "Trusting Social"
+  title: "Google Developer Expert"
+  thumbnailUrl: EnriqueLopezManas.jpg
+  rockstar: true

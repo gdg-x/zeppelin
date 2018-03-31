@@ -50,9 +50,9 @@
   speakers: [13]
 - 
   id: 13302
-  title: "TensorFlow for Mobile Heroes - Enrique Lopez Manas"
+  title: "TensorFlow for Mobile Heroes"
   subtype: presentation
-  speakers: []
+  speakers: [17]
 - 
   id: 14201
   title: "Rebuilding Uber App: Fast from the Start"
@@ -89,9 +89,9 @@
   speakers: []
 - 
   id: 17101
-  title: "GRPC and application in Android - Huỳnh Quang Thảo"
+  title: "GRPC and application in Android"
   subtype: presentation
-  speakers: []
+  speakers: [16]
 - 
   id: 17102
   title: "Advanced Kotlin for MVVM"
