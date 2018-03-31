@@ -83,3 +83,15 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/vasarhelyia"}
+-
+  id: 7
+  name: "Craig"
+  surname: "Clayton"
+  title: "Senior iOS Engineer"
+  comany: "Adept Mobile"
+  bio: |
+   Craig Clayton is a Sr. iOS Engineer at [Adept Mobile](http://adeptmobi.com/), which specializes in building mobile experiences primarily for NBA & NFL teams. Craig also volunteers as the organizer of the [Suncoast iOS meetup group](http://www.meetup.com/Suncoast-iOS/) in the Tampa/St. Petersburg area, and prepares presentations and hands-on talks for the community. On top of all that, Craig is also the owner of [Cocoa Academy](http://cocoa.academy/), which specializes in iOS video courses.
+  thumbnailUrl: CraigClayton.jpg
+  rockstar: false
+  social:
+    {name: "twitter", link: "https://twitter.com/thedevme"}
