@@ -1,5 +1,5 @@
 - 
-  group: ""
+  group: "Platinum"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "logo-google.jpg"}
     - {name: "RMIT University", description: "RMIT University Vietnam is the Vietnamese branch of the Australian research university the Royal Melbourne Institute of Technology, known in Australia as RMIT University. It has two campuses located in Ho Chi Minh City and Hanoi", link: "https://www.rmit.edu.vn/", imageUrl: "logo-rmit.jpg"}
