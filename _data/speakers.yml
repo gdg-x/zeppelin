@@ -71,3 +71,15 @@
     - {name: "site", link: "http://insideiosdev.com/"}
     - {name: "twitter", link: "https://twitter.com/alex_v_bush"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/alexvbush/"}
+-
+  id: 6
+  name: "Agnes"
+  surname: "Vasarhelyi"
+  title: "iOS Developer"
+  company: "Topology Eyewear"
+  bio: |
+   Agnes is a Hungarian living in San Francisco, hard at work bringing the high tech revolution to the fashion industry at Topology Eyewear. Meetup and conference organizer in her previous life in Budapest, now busy building premium user experiences on iOS, learning about graphics programming, and hiking the mountains of California in the meantime.
+  thumbnailUrl: AgnesVasarhelyi.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/vasarhelyia"}

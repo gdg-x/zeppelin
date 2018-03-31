@@ -55,6 +55,22 @@
   speakers: [5]
   language: en
 -
+  id: 006
+  title: "The Simple Layout of a Complex Interface"
+  description: |
+   Understanding Auto Layout is your best chance to write UI code you can be proud of. Its power often underestimated, its features easily misused, I find it overall less appreciated than it could be, if more widely understood.
+
+   This talk is aiming to show how relying heavily on Auto Layout makes you move faster and be more confident writing UI code. Working with the safe area, showing off custom UILayoutGuides and making use of the controversal UIStackViews, we will walk through the simple code of a more complex interface together.
+  outcome: |
+   - How to express layout fast and simple, without touching Interface Builder
+   - How Auto Layout helps to reduce state in your views / view controllers
+   - Why the safe area is great and how to rely on it without knowing what device your code is running on
+   - When to use custom UILayoutGuides and how they help to avoid using numeric values all around
+   - UIStackViews: why they are great, but controversial. How to work with stack views in scrollable layouts
+  subtype: presentation
+  speakers: [6]
+  language: en
+-
   id: 999
   title: "Stay Tuned - more speakers coming soon!"
   description: "More speakers coming soon!"
