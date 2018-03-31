@@ -39,6 +39,22 @@
   speakers: [3]
   language: en
 -
+  id: 005
+  title: "iOS Interviews Don’t Have To Be Hard"
+  description: "iOS technologies are rapidly evolving with every WWDC announcement, and it is increasingly challenging for iOS developers to keep up with the features, innovations, and best practices. It is especially difficult for those preparing for job interviews to navigate the breadth of information available and focus on the most critical topics and skills. Whether you’re a beginner developer seeking that dream job or a seasoned veteran who is ready for a better one — this talk will prepare you to succeed in your next technical iOS interview."
+  outcome: |
+   This presentation will give an overview of the most important topics and skills covered in a technical iOS interview including
+     
+     - typical questions during the various interview stages from phone screens to onsites
+     - critical components of the iOS tech stack: UI, networking, storage, design patterns, etc
+     - contemporary best practices
+     - best resources for preparing for technical interviews
+     
+   At the end of this session, the audience will be fully ready to tackle their next iOS interview and know where to go to improve their skills and knowledge in specific topics.
+  subtype: presentation
+  speakers: [5]
+  language: en
+-
   id: 999
   title: "Stay Tuned - more speakers coming soon!"
   description: "More speakers coming soon!"

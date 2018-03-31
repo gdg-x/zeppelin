@@ -4,7 +4,16 @@
   surname: "Bennett"
   company: "Siriously Susan"
   title: "Voice of Siri"
-  bio: "<p>You may not know Susan Bennett, but you definitely know her voice! Susan is a voice actor and singer whose voice has appeared on hundreds of radio and TV commercials for such clients as McDonald’s, Macy’s, Goodyear, Papa John’s, Fisher Price, and more. She is the voice of Delta Airlines gates worldwide, as well as hundreds of GPS and phone systems, but you probably know her best as the original voice of Siri.</p><p>Susan has appeared on nationally televised programs The Mariah Carey Merriest Christmas Special, The Queen Latifah Show, CNN, Showbiz Tonight, The Jack & Triumph Show, the new To Tell the Truth, and she read the Top Ten list for David Letterman!</p><p>Susan was born in Burlington, Vermont, and spent her youth in New England. She was always interested in music and acting, which she pursued during her four years at Brown University, singing in theater productions, and in the jazz band, “Conglomerate.” Susan was the leader of singing group, The Chattertocks, as well. After graduation, she married NHL hockey player, Curt Bennett, and moved to Atlanta, Georgia, where Curt played for The Atlanta Flames, and Susan began her voiceover and singing career. Susan toured with Burt Bacharach as a backup singer, and later toured and traveled the world with Roy Orbison, also singing backup vocals, with a featured duet. She sang jingles as well for such clients as Coca Cola, Georgia Power, Kroger, and Krystal restaurants. It was after a jingle session that Susan was asked to voice a commercial when the voice talent didn’t show up. She discovered that voiceover was something she did well and enjoyed, so she took voice coaching, got an agent, and started on a career that is still going strong!</p><p>Susan continues to live and work in Atlanta, Georgia, along with second husband guitarist and audio engineer, Rick Hinkle, of Audiocam Music. Susan and Rick had a private event band called “Interactive!” for more than two decades, and they still continue to work together in their 60’s and 70’s rock and soul band, “Boomers Gone Wild!”</p><p>Susan has one child, son Cameron Schuyler Bennett, who lives in Los Angeles. He is a photographer, and also works with social media company, Fanbase.</p>"
+  bio: |
+   You may not know Susan Bennett, but you definitely know her voice! Susan is a voice actor and singer whose voice has appeared on hundreds of radio and TV commercials for such clients as McDonald’s, Macy’s, Goodyear, Papa John’s, Fisher Price, and more. She is the voice of Delta Airlines gates worldwide, as well as hundreds of GPS and phone systems, but you probably know her best as the original voice of Siri.
+
+   Susan has appeared on nationally televised programs The Mariah Carey Merriest Christmas Special, The Queen Latifah Show, CNN, Showbiz Tonight, The Jack & Triumph Show, the new To Tell the Truth, and she read the Top Ten list for David Letterman!
+
+   Susan was born in Burlington, Vermont, and spent her youth in New England. She was always interested in music and acting, which she pursued during her four years at Brown University, singing in theater productions, and in the jazz band, “Conglomerate.” Susan was the leader of singing group, The Chattertocks, as well. After graduation, she married NHL hockey player, Curt Bennett, and moved to Atlanta, Georgia, where Curt played for The Atlanta Flames, and Susan began her voiceover and singing career. Susan toured with Burt Bacharach as a backup singer, and later toured and traveled the world with Roy Orbison, also singing backup vocals, with a featured duet. She sang jingles as well for such clients as Coca Cola, Georgia Power, Kroger, and Krystal restaurants. It was after a jingle session that Susan was asked to voice a commercial when the voice talent didn’t show up. She discovered that voiceover was something she did well and enjoyed, so she took voice coaching, got an agent, and started on a career that is still going strong!
+
+   Susan continues to live and work in Atlanta, Georgia, along with second husband guitarist and audio engineer, Rick Hinkle, of Audiocam Music. Susan and Rick had a private event band called “Interactive!” for more than two decades, and they still continue to work together in their 60’s and 70’s rock and soul band, “Boomers Gone Wild!”
+
+   Susan has one child, son Cameron Schuyler Bennett, who lives in Los Angeles. He is a photographer, and also works with social media company, Fanbase."
   thumbnailUrl: SusanBennett.jpg
   rockstar: true
   social:
@@ -16,7 +25,8 @@
   surname: "Broek"
   company: "XING"
   title: "iOS & tooling developer"
-  bio: "<p>Bas is an iOS & tooling developer working for XING. There, he is working on managing mobile releases on iOS & Android. In his spare time, he is contributing to open source with projects like Swift Weekly Brief, Moya, GitHawk and more.</p>"
+  bio: |
+   Bas is an iOS & tooling developer working for XING. There, he is working on managing mobile releases on iOS & Android. In his spare time, he is contributing to open source with projects like Swift Weekly Brief, Moya, GitHawk and more.
   thumbnailUrl: BasBroek.jpg
   rockstar: false
   social: 
@@ -27,7 +37,8 @@
   surname: "Olszewski"
   company: "Pivotal Labs"
   title: "Software Engineer & Consultant"
-  bio: "<p>Currently a software engineer at Pivotal Labs, Sean Olszewski focuses on practicing test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. When he’s not working on projects for clients, he can be found at meet ups in the Boston area, or organizing the two meet ups he runs: Learn Swift Boston, and XP Boston. Feel free to ask Sean any testing or audio questions you might have!</p>"
+  bio: |
+   Currently a software engineer at Pivotal Labs, Sean Olszewski focuses on practicing test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. When he’s not working on projects for clients, he can be found at meet ups in the Boston area, or organizing the two meet ups he runs: Learn Swift Boston, and XP Boston. Feel free to ask Sean any testing or audio questions you might have!
   thumbnailUrl: SeanOlszewski.jpg
   rockstar: false
   social:
@@ -39,9 +50,24 @@
   surname: "Dias"
   company: "Chewy"
   title: "Senior iOS Engineer"
-  bio: "<p>Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.</p>"
+  bio: |
+   Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.
   thumbnailUrl: MattDias.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
+-
+  id: 5
+  name: "Alex"
+  surname: "Bush"
+  title: "Software Consultant, entrepreneur, book author, and podcaster"
+  bio: |
+    Alex is a seasoned iOS consultant who’s been building iOS apps, top to bottom, client to server, over the last 7 years. Alex is an author of [The iOS Interview Guide](http://iosinterviewguide.com/) and a co-host at [Inside iOS Dev](http://insideiosdev.com/) podcast. Currently he’s focusing on his consulting work and on leveling up iOS developers by teaching them architecture and design patterns best practices.
+  thumbnailUrl: AlexBush.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://m.smartcloud.io/"}
+    - {name: "site", link: "http://insideiosdev.com/"}
+    - {name: "twitter", link: "https://twitter.com/alex_v_bush"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexvbush/"}
