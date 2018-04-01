@@ -22,7 +22,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "OWASP"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerAlternateName: "OWASP Indonesia Chapter"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -57,8 +57,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "OWASP Appsec <typeout> 2018"
-eventDate: "September - November, 2018"
-typeoutTextValues: '"", "Season", "Yogyakarta", "Surabaya", "Bali"'
+eventDate: "November 1th- 3th, 2018"
+typeoutTextValues: '"", "Season", "Surabaya"
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200+", specialCharacter: "+", info: "OWASP ", detail: "chapters around the world"}
+ - {count: "500+", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "20+", specialCharacter: "", info: "Speakers", detail: "from everywhere""}
+ - {count: "5+", specialCharacter: "", info: "Trainers", detail: "from Indonesia and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -137,7 +137,7 @@ ticketsOffers:
  -
   name: "Early Bird"
   price: "350"
-  priceCurrency: "UAH"
+  priceCurrency: "USD"
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -148,7 +148,7 @@ ticketsOffers:
  -
   name: "Last Chance"
   price: "450"
-  priceCurrency: "UAH"
+  priceCurrency: "USD"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
@@ -169,8 +169,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  soldOut: False
+  soldOutText: "Will Open"
 
 # Footer
 socialLinks:
