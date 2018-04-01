@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "OWASP Appsec <typeout> 2018"
 eventDate: "November 1th- 3th, 2018"
-typeoutTextValues: '"", "Season", "Surabaya"
+typeoutTextValues: '"", "Season", "Surabaya"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
