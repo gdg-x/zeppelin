@@ -161,3 +161,12 @@ In his free time he rides his bike, take pictures, and travels until exhaustion.
     title: "Mobile Lead at CBA"
     thumbnailUrl: GiangVo.jpg
     rockstar: false
+- 
+    id: 19
+    name: "Bok"
+    bio: "Bok Thye Yeow has more than a decade of experience developing full stack software solutions across various industries including telco, banking, digital and creative advertising, retail, etc. During his free time, he likes to experiment with new technology or fly his home-made drone. At Google, Bok leads developer programs focusing on professional and enterprise developers. He strongly believes we are only starting to scratch the surface of what's possible with technology in this era and is looking forward to the \"next big thing\" to come!"
+    surname: "Thye Yeow"
+    company: "Google"
+    title: "Google Developer Relations Ecosystem ProDevs Program SEA Lead"
+    thumbnailUrl: Bok.jpg
+    rockstar: false

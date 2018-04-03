@@ -4,8 +4,9 @@
   service: true
 - 
   id: 9000
-  title: "Conference introduction"
-  service: true
+  title: "Conference Opening"
+  subtype: presentation
+  speakers: [19]
 - 
   id: 9301
   title: "Tricks for converting Android Java code into Kotlin"
