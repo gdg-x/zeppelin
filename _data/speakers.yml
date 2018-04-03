@@ -170,3 +170,12 @@ In his free time he rides his bike, take pictures, and travels until exhaustion.
     title: "Google Developer Relations Ecosystem ProDevs Program SEA Lead"
     thumbnailUrl: Bok.jpg
     rockstar: false
+- 
+    id: 20
+    name: "Kalyan"
+    bio: "Kalyan Reddy has been a Developer Programs Engineer at Google since 2012 and have been working on various teams such as Google Apps and more recently, the IoT team on the Google Assistant. He started working on Firebase around 2015."
+    surname: "Reddy"
+    company: "Google"
+    title: "Developer Programs Engineer"
+    thumbnailUrl: Kalyan.jpg
+    rockstar: false
