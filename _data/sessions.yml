@@ -28,8 +28,14 @@
 #  presentation: "https://slides-url-goes-here"
 -
   id: 003
-  title: "From Back to Front to Left Wrist"
-  subtype: presentation
+  title: "Back to Front to Left Wrist"
+  description: "From the onset, Swift was designed to take over the world — or at least the programming world. So it’s no surprise that the development community is excited to bring it’s power to as many platforms as possible. Our eager community was given Swift on Apple platforms, but no sooner than it was open sourced did we get the power to write Swift on Linux (and some people have even figured out how to run it on Android)! In this workshop, we’re going to focus on the first two. Together we’ll build the foundations of a restaurant reservation service. We’ll start by making a server, written in Swift, for our app to interact with. Once we have the server and the app in place, we’ll build a watchOS app so you can our service without having to dig out your phone!"
+  outcome: |
+   - How to build and deploy a Swift server, using the Perfect framework
+   - How to build a simple iPhone app that will interact with data from our server
+   - How to more easily debug cross-platform issues
+   - How to build a simple Apple Watch app to expand upon already rich features
+  subtype: workshop
   speakers: [4]
   language: en
 -
@@ -89,6 +95,31 @@
    Learning and using the latest programming technologies and trends is cool, but if you combine that with a business and marketing know-how, developers have a huge potential in their hands to create super profitable micro businesses just on their own. Making a living off the App Store is getting harder each day, and I’ll help the audience learn how to hack their way to success.
   subtype: presentation
   speakers: [8]
+  language: en
+-
+  id: 009
+  title: "Mutability: Perks and Quirks"
+  description: |
+   Writing Swift, I have a strong preference for immutable objects, why? Because immutability leads to simplicity and clarity since implicit in an object's creation, is a guarantee that it will never change. 
+
+   It is remarkable how much this single, seemingly, simple fact, can make programs easier to verify, and reason about.
+
+   But, in object-oriented environments, blindly defaulting to immutable objects can lead to unintended consequences.
+  outcome: |
+   - Why immutability. 
+   - Walk through how I chose an immutable object to solve a problem, how that lead to a perplexing bug, and how I resolved it.
+   - Establish when to consider using immutable objects.
+  subtype: presentation
+  speakers: [12]
+  language: en
+
+-
+  id: 010
+  title: "Swift's Future Belongs To Those Who Show Up"
+  description: |
+   Swift Evolution is an exhausting thing: high traffic, some signal to noise issues, and a lot of work to follow the ins outs and details. Without voices from the wider developer community, it may not serve the interests you prioritize in your day to day work. From safety to convenience, migration to stability, here's how you can be a part of the process even if you only have a very little time to spend. Apple's open sourced language represents the first time there's a fully open bug reporting system and a way for anyone no matter their background to have their opinions heard and considered. If you're new to Swift Evolution or gave up on it in frustration, let Erica Sadun show you how to make the most of your limited time in having a say in the future of the language.
+  subtype: presentation
+  speakers: [13]
   language: en
 -
   id: 999

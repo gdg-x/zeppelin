@@ -146,3 +146,39 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/ishabazz"}
+
+-
+  id: 12
+  name: "Jon-Tait"
+  surname: "Beason"
+  title: "iOS Engineer"
+  bio: |
+   Jon-Tait Beason is a iOS software engineer at Glowforge, maker of a 3D Laser Printer. He has a background in education and enjoys teaching and learning. To that end, he spends a lot of time hanging out in iOS communities where he learns from others and helps engineers starting out.
+  thumbnailUrl: Jon-TaitBeason.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/BugKrusha"}
+-
+  id: 13
+  name: "Erica"
+  surname: "Sadun"
+  bio: |
+   Erica Sadun writes lots of books. When not writing, she's a full time parent of geeks who are brushing up on their world domination skills. According to her academic dosimeter, she's acquired more education than any self-respecting person might consider wise. She enjoys deep diving into technology and has written, co-written, and contributed to dozens of books about computing and digital media. Sadun has blogged at TUAW, Ars Technica, O'Reilly, and Lifehacker.
+  thumbnailUrl: EricaSadun.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/EricaSadun"}
+    - {name: "site", link: "http://ericasadun.com/"}
+-
+  id: 14
+  name: "Rob"
+  surname: "Napier"
+  bio: |
+   Rob is co-author of iOS Programming Pushing the Limits, and maintainer of the RNCryptor encryption format. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight. Today, he shapes music over Bluetooth for Logitech, explores old ideas in new languages, and tries to figure out how all of this applies to Swift.
+  thumbnailUrl: RobNapier.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/cocoaphony"}
+    - {name: "site", link: "http://robnapier.net/"}
+
+    
