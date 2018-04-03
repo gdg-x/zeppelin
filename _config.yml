@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Testing Portugal 2018"
-email: "rui.cardoso@pstqb.pt"
+email: "testingportugal@pstqb.pt"
 description: "Testing Portugal is a yearly conference about software testing"
-baseurl: "/pstqb"
-url: "https://ineeve.github.io"
+baseurl: "/testingportugal2018"
+url: "https://pstqb.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-116477690-1" #updated
 googleAnalyticsSiteUrl: "ineeve.github.io"
@@ -25,7 +25,7 @@ mapsAPIKey: "AIzaSyAmHsNZU8XPf3kxGYSKQUrjkcRfWSQj8Eo" #added by Renato
 organizerName: "PSTQB"
 organizerAlternateName: "Associação Portuguesa de Testes de Software"
 organizerDescription: "Open comunity which shares experience about software testing with passion."
-organizerEmail: "rui.cardoso@pstqb.pt"
+organizerEmail: "testingportugal@pstqb.pt"
 
 # Head
 metaKeywords: "event, tests, software, programming, developers, automation, conference"
@@ -180,7 +180,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:rui.cardoso@pstqb.pt", text: "rui.cardoso@pstqb.pt"}
+   - {link: "mailto:testingportugal@pstqb.pt", text: "testingportugal@pstqb.pt"}
 
 # Blog
 blogTitle: "Latest news"
