@@ -1,7 +1,7 @@
 ---
 layout: post
-title: SwiftFest Code of Conduct
-permalink: /conduct/
+title: Code of Conduct
+permalink: /code-of-conduct/
 isStaticPost: true
 image: people.jpg
 ---
