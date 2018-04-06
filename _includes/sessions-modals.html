@@ -23,7 +23,11 @@
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
 						</div>
 						{% endif %}
-						<p class="theme-description">{{ session.description }}</p>
+						<span class="theme-description">{{ session.description | markdownify }}</span>
+						{% if session.outcome %}
+						<h5>Attendees can expect to learn:</h5>
+						<span class="theme-description">{{ session.outcome | markdownify }}</span>
+						{% endif %}
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
@@ -47,7 +51,7 @@
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}
-											<p class="about">{{ speaker.bio }}</p>
+											<span class="about">{{ speaker.bio | markdownify }}</span>
 											<ul class="social">
 												{% for social in speaker.social %}
 													<li>

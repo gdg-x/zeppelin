@@ -30,8 +30,13 @@
                 </div>
             </div>
             {% endif %} {% endfor %}
+            <p>
+              <a href="https://www.freepik.com/free-photos-vectors/business" style="color: #aaa;">Business image created by Jcomp - Freepik.com</a>
+            </p>
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
+            {% assign program_committee_members = site.data.team | where: 'subTeam',true | size %}
+            {% if program_committee_members > 0 %}
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program committee</h4>
             {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
@@ -55,7 +60,7 @@
                     </figure>
                 </div>
             </div>
-            {% endif %} {% endfor %}
+            {% endif %} {% endfor %} {% endif %}
         </div>
     </div>
 </section>
