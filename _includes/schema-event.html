@@ -38,35 +38,6 @@
         //     "email" : "{{ site.organizerEmail }}",
         //     "sameAs" : "{{ site.organizerLink }}"
         // },
-        "subEvent" : {
-            "@type" : "Event",
-            "name" : "{{ site.hackathonTitle }}",
-            "description": "{{ site.hackathonRows[0].details }}",
-            "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
-            "url" : "{{ site.url | append: site.baseurl }}/hackathon/",
-            "startDate" : "{{ site.hackathonStartTime }}",
-            "doorTime" : "{{ site.hackathonDoorTime }}",
-            "endDate" : "{{ site.hackathonEndTime }}",
-            "location" : {
-                "@type" : "Place",
-                "name" : "{{ site.hackathonLocationName }}",
-                "sameAs" : "{{ site.hackathonLocationLink }}",
-                "address" : {
-                    "@type" : "PostalAddress",
-                    "streetAddress" : "{{ site.hackathonStreetAddress }}",
-                    "addressLocality" : "{{ site.hackathonAddressLocality }}",
-                    "addressRegion" : "{{ site.hackathonAddressLocalityRegion }}",
-                    "postalCode" : "{{ site.hackathonPostalCode }}",
-                    "addressCountry" : "{{ site.hackathonAddressCountry }}"
-                },
-                "geo" : {
-                    "@type" : "GeoCoordinates",
-                    {% assign hackathonCoordinates = site.hackathonPlaceCoordinates | split:"," %}
-                    "latitude" : "{{ hackathonCoordinates[0] }}",
-                    "longitude" : "{{ hackathonCoordinates[1] }}"
-                }
-            }
-        },
         "offers" : [
         {% for ticketsOffer in site.ticketsOffers %}
         {

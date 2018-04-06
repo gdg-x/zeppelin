@@ -59,23 +59,6 @@ To watch changes of `.sass` files and compile it to the `.css` on a fly change p
 
 Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
 
-
-### Resource optimizations (optional)
-
-You can optimize images and minify css and javascript automatically (for now only on Windows).
-But for Mac OS users available amazing tool - [imageoptim](https://imageoptim.com/). Thanks [@raphaelsavina](https://github.com/raphaelsavina) for link.
-Optimize all images by running this script from `/automation/images/` folder:
-```bash
-    all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
-```
-
-To minify CSS and JS run `minify_js.bat` (for Windows) and `minify_js.sh` (for Linux and MacOS) from `/automation/minifying/` folder:
-```bash
-    minify_js.bat
-```
-
-Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
-
 ### Documentation
 Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
 
