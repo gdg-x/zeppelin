@@ -41,22 +41,23 @@
 -
   id: 004
   title: "Patterns & Methodologies for Test Suite Design"
-  description: "For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies. 
+  description: "For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.\n
   
-  To help you answer these questions, this presentation will go through a thoroughly tested audio synthesizer and demonstrate patterns that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite."
+  To help you answer these questions, this presentation will go through the development process of a thoroughly tested audio synthesizer and demonstrate patterns and methodologies that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite."
   outcome:  |
-   - How to intentionally indicate a specific part of the codebase is the source of a failure
-   - How to consider code coverage without over-testing
+   - What metrics to consider when measuring the efficacy of your test suite
+   - How to intentionally indicate a specific part of your codebase is the source of a failure
    - How a test suite guides your system’s design & eases re-factoring
    - How system boundaries influence a codebase’s testability
-   - About collaboration, contract, integration, & white box/blackbox tests
-   - About system & product-level testing
+   - About collaboration, contract, integration, journey & white box/blackbox tests
+   - About system & feature-level testing
 
 
 
   subtype: presentation
   speakers: [3]
   language: en
+  complexity: "Intermediate"
 -
   id: 005
   title: "iOS Interviews Don’t Have To Be Hard"
