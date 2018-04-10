@@ -32,6 +32,18 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/BasThomas"}
 -
+  id: 7
+  name: "Craig"
+  surname: "Clayton"
+  title: "Senior iOS Engineer"
+  comany: "Adept Mobile"
+  bio: |
+   Craig Clayton is a Sr. iOS Engineer at [Adept Mobile](http://adeptmobi.com/), which specializes in building mobile experiences primarily for NBA & NFL teams. Craig also volunteers as the organizer of the [Suncoast iOS meetup group](http://www.meetup.com/Suncoast-iOS/) in the Tampa/St. Petersburg area, and prepares presentations and hands-on talks for the community. On top of all that, Craig is also the owner of [Cocoa Academy](http://cocoa.academy/), which specializes in iOS video courses.
+  thumbnailUrl: CraigClayton.jpg
+  rockstar: false
+  social:
+    {name: "twitter", link: "https://twitter.com/thedevme"}
+-
   id: 3
   name: "Sean"
   surname: "Olszewski"
@@ -83,18 +95,6 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/vasarhelyia"}
--
-  id: 7
-  name: "Craig"
-  surname: "Clayton"
-  title: "Senior iOS Engineer"
-  comany: "Adept Mobile"
-  bio: |
-   Craig Clayton is a Sr. iOS Engineer at [Adept Mobile](http://adeptmobi.com/), which specializes in building mobile experiences primarily for NBA & NFL teams. Craig also volunteers as the organizer of the [Suncoast iOS meetup group](http://www.meetup.com/Suncoast-iOS/) in the Tampa/St. Petersburg area, and prepares presentations and hands-on talks for the community. On top of all that, Craig is also the owner of [Cocoa Academy](http://cocoa.academy/), which specializes in iOS video courses.
-  thumbnailUrl: CraigClayton.jpg
-  rockstar: false
-  social:
-    {name: "twitter", link: "https://twitter.com/thedevme"}
 -
   id: 8
   name: "Sarp"
@@ -193,6 +193,81 @@
   social:
     - {name: "twitter", link: "https://twitter.com/cocoaphony"}
     - {name: "site", link: "http://robnapier.net/"}
+-
+  id: 16
+  name: "Michael"
+  surname: "Helmbrecht"
+  bio: |
+   Michael is a proud generalist who loves learning about everything. He's making the Kidfund app happen so saving for your kids is as easy as it should be. He travels almost exclusively for the food, and to identify bilingual puns.
+  thumbnailUrl: MichaelHelmbrecht.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/mrh_is"}
+    - {name: "site", link: "https://mrh.is/"}
+-
+  id: 17
+  name: "Lou"
+  surname: "Franco"
+  bio: |
+   Lou Franco is on the Trello iOS Team at Atlassian and is the Mobile Editor for Smashing Magazine. In his spare time, he runs, volunteers as a Big Brother, and writes about iOS on App-o-Mat. He lives with his wife in Northampton, MA.
+  thumbnailUrl: LouFranco.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/loufranco"}
+    - {name: "site", link: "https://trello.com/"}
+    - {name: "site", link: "https://www.smashingmagazine.com/"}
+    - {name: "site", link: "https://app-o-mat.com/"}
+-
+  id: 18
+  name: "Pat"
+  surname: "Butkiewicz"
+  bio: |
+   Pat Butkiewicz is an iOS developer turned DevOps engineer that has been building mobile apps, and the infrastructure to support them for 6 years at Intrepid Pursuits in Cambridge, MA. Daily responsibilities include mentoring junior developers, managing the mobile continuous integration/deployment pipeline, and working with clients on various cloud platforms. Most importantly I'm responsible for maintaining our continuous integration environment as well as improving on existing mobile development processes through automation. Together with a small team, we build tools and maintain a small fleet of Jenkins servers for 75+ mobile and web developers.
+  thumbnailUrl: PatButkiewicz.jpg
+  rockstar: false
+-
+  id: 19
+  name: "David"
+  surname: "Ohayon"
+  bio: |
+   David Ohayon is an iOS and firmware engineer at Verily. Prior to that, I worked on the Fabric product suite for Twitter and was later acquired by Google. I love to snowboard, travel, and play with my big pupper, Frankie. 
+  thumbnailUrl: DavidOhayon.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/ohayon"}
+-
+  id: 20
+  name: "Hung"
+  surname: "Truong"
+  bio: |
+   Hung is an iOS Engineer at Lyft where he converts free snacks and coffee into lots of Swift code that moves cars and people around. He has been hacking on iOS since before the original iPhone OS 2.1 SDK was released in 2008. His hobbies include brewing cold brew coffee, photography and being the social media manager and growth hacker for his corgi, Sodapop.
+  thumbnailUrl: HungTruong.jpg
+  rockstar: false
+  social:
+    - {name: "site", link: "http://www.hung-truong.com/blog/"}
+    - {name: "twitter", link: "http://www.twitter.com/hungtruong/"}
+    - {name: "github", link: "https://github.com/hungtruong/"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/hungtruong/"}
+-
+  id: 21
+  name: "Ayal"
+  surname: "Spitz"
+  bio: |
+   Ayal Spitz has 25+ years’ experience in mobile computing, distributed software, emerging technologies, and technology fusion. Over the course of his career he has focused on solving problems in new and unique ways. As a senior principal software engineer at Intrepid Pursuits he is focused on raising the level of engineering craftsmanship and code quality. Prior to working at Intrepid, Ayal worked for government, military, and commercial clients bringing mobile computing to bear on their problem set.
+  thumbnailUrl: AyalSpitz.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/aspitz"}
+-
+  id: 22
+  name: "Jeff"
+  surname: "Kelley"
+  bio: |
+   Jeff Kelley is a developer at Detroit Labs, where he builds apps in Swift but still has a soft spot for Objective-C. Author of Developing Apps for Apple Watch and Learn Cocoa Touch for iOS, he’s been working with iOS since its infancy in 2008. Jeff is passionate about building usable apps, the open-source community around Apple platforms, and will talk your ear off about electric cars and clean energy. Jeff loves raising his two kids and two dogs, Detroit, and organizing the Motor City CocoaHeads group.
+  thumbnailUrl: JeffKelley.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/slaunchaman"}
 
 
     

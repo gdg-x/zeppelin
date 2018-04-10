@@ -136,6 +136,87 @@
   speakers: [13]
   language: en
 -
+  id: 011
+  title: "Great Forms 101"
+  description: |
+   Let's be honest here: forms are probably not the shining star of your app. But they're one of the first things a user sees, and can huge stumbling blocks to user trust if you don't give them some thought.
+
+   So take your forms from 😡 to 😍! We'll cover UI basics, implementation details, and UX strategies for building the best forms on the App Store, all with real-world details you can take right back to your desk and start using.
+
+   After this, your users might even wish for more forms.
+  outcome: |
+   Make forms that let your users quickly and easily give you information. You get the data your app needs, and they get back to the app they love.
+  subtype: presentation
+  speakers: [16]
+  language: en
+-
+  id: 012
+  title: "Sketching UI in Playgrounds"
+  description: |
+   The beginning will be a discussion on the struggle/arguments that iOS developers have over which way is better for creating UIs: Storyboards or Programmatic.
+
+   Then, I'll present a middle ground that is the main topic: building UIs in Playgrounds. This is a technique that the Kickstarter team uses in their app (which is open source), and I use that as a starting point, but I have developed practices around it to make it more accessible.
+
+   We'll talk about some of the benefits you get that neither Storyboards or traditional programmatic UI have (access to app behavior, animations, TDD style, very fast edit/run cycles for prototyping)
+
+   There will be some live-coding to give the feel of what it's like to do this in the context of an app (a playground that is part of a larger app project).
+  outcome: |
+   The main outcome is to learn a hybrid between the visual experience you get in a Storyboard, but with the benefits you get from a programmatic UI (creating the UI in a playground). I have a lot of tips for doing this efficiently.
+
+   Secondarily, beginners who may have not tried programmatic UI will have an easier on-ramp because this is a way to see the effect immediately without running the app.
+  subtype: presentation
+  speakers: [17]
+  language: en
+-
+  id: 013
+  title: "Under The Hood: Code Signing on iOS"
+  description: |
+   Code signing ensures that all mobile apps come from known, trusted sources and haven't been tampered with while in transit to a user's device. Though an integral part of keeping the iOS ecosystem secure, for many developers Apple's code signing methodology remains somewhat cryptic. 
+
+   We'll begin by defining code signing at a fundamental level-covering the basics of hashing and public-key cryptography-in order to gain a clear understanding of code signing before diving into Apple's implementation on iOS. Unlike other mobile platforms, code signing on iOS involves additional layers of security; we'll describe the functionality of provisioning profiles, certificates and keychains. We'll dive into why Apple's code signing is mandatory, and how it extends the concept of the chain-of-trust from the operating system to the apps, and prevents third parties from loading any potentially harmful code.
+  outcome: |
+   Attendees can expect to walk away with a more firm understanding of why code signing is necessary, what it accomplishes, and how it protects you and your users. Attendees can expect to leave having answered the questions: What's a keychain for? What are certificates and provisioning profiles? How do these objects interact during the code signing process? And how does code signing protect me and my users? By creating clarity around Apple's code signing methodology, we will equip attendees with the knowledge they need to build more complex applications and successfully release apps.
+  subtype: presentation
+  speakers: [18]
+  language: en 
+-
+  id: 014
+  title: "Core Bluetooth in Swift: A Primer"
+  subtype: presentation
+  speakers: [19]
+  language: en 
+-
+  id: 015
+  title: "Designing and Building With Accessibility in Mind"
+  description: |
+   Accessibility is an often ignored part of iOS development, partly because much of it is “baked in” to the OS and “just works” most of the time. However, building custom UI elements and interactions can lead to a breakdown of accessibility. In this talk, we’ll explore VoiceOver, the screen reader that allow many disabled users to interact with your app. We’ll walk through a non-accessible app and optimize it for VoiceOver users. Finally, we’ll go over common pitfalls and solutions to keep in mind when designing and building accessible experiences.
+  outcome: |
+   At the end of this session you should have a better understanding of Voiceover. You'll be able to run a quick accessibility audit on your app to find places in your app that could use improvement. You should be able to come back to your team and speak to why it's important to invest in accessibility and have concrete steps on how to make your app easier to use. 
+  subtype: presentation
+  speakers: [20]
+  language: en 
+-
+  id: 016
+  title: "The Art of the Font"
+  description: |
+   As developers we often take the text rendering system for granted. As a fundamental part of both iOS and macOS we often don't give it a second thought. It's just there. This session will explore: the transition from 7 segment LED text to the beautiful fonts we use today, translate the vocabulary designers use when describing text layout, and conclude by examining TextKit and how to get direct access to font paths.
+  outcome: |
+   A better understanding of: fonts and font formats, text layout vocabulary, and a deeper understanding of text rendering in iOS and macOS.
+  subtype: presentation
+  speakers: [21]
+  language: en 
+-
+  id: 017
+  title: "Advanced Dates and Times in Swift"
+  description: |
+   As a developer who’s been bitten time and time again by Daylight Saving Time and related bugs, by now you’ve mastered the art of wrangling dates and times in Swift. Or have you? This talk will cover some of the more inscrutable topics of dates and times: how many seconds are there in a particular year? How do I get a notification to fire at exactly 9:00 AM on the user’s phone? What if my user isn’t using the Gregorian calendar and I want to draw a calendar? In this talk, we’ll cover all this and more, drawing on the Swift standard library and Apple’s system SDKs to manipulate the very fabric of time itself… or at least it’ll feel that way by the time we’re done.
+  outcome: |
+   This session covers more advanced date and time code. An attendee will be able to reliably schedule notifications in the user's local time, find dates in the future, and even work with calendars with different numbers of months, days in the week, and more!
+  subtype: presentation
+  speakers: [22]
+  language: en   
+
+-
   id: 999
   title: "Stay Tuned - more speakers coming soon!"
   description: "More speakers coming soon!"
