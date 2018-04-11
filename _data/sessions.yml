@@ -20,7 +20,11 @@
 -
   id: 002
   title: "Swift 5 and Beyond: World Domination?"
-  description: "With Swift 5 on the horizon and Swift 6 development soon in full swing, we take a look at the current state of Swift. What's new in Swift 5, and what can we expect from Swift in the future? Will Swift soon reach World Domination?"
+  description: "With Swift 5 on the horizon and Swift 6 development soon in full swing, we take a look at the current state of Swift. What's new in Swift 5, and what we can we expect from Swift in the future. Will Swift soon reach World Domination?"
+  outcome: |
+   - Recent additions to Swift and how they can improve your development
+   - What is coming up in future versions of Swift
+   - How Swift might reach beyond iOS, macOS, tvOS and watchOS development
   subtype: presentation
   speakers: [2]
   language: en
