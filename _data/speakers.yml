@@ -17,7 +17,7 @@
   thumbnailUrl: SusanBennett.jpg
   rockstar: true
   social:
-    - {name: site, link: "https://SusanCBennett.com"}
+    - {name: "site", link: "https://SusanCBennett.com"}
     - {name: "twitter", link: "https://twitter.com/siriouslysusan"}
 -
   id: 2
@@ -30,7 +30,9 @@
   thumbnailUrl: BasBroek.jpg
   rockstar: false
   social: 
+    - {name: "site", link: "https://basthomas.github.io"}
     - {name: "twitter", link: "https://twitter.com/BasThomas"}
+    - {name: "github", link: "https://github.com/BasThomas"}
 -
   id: 7
   name: "Craig"
