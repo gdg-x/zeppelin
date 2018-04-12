@@ -57,3 +57,15 @@
   team: true
   social: 
     - {name: "github", link: "https://github.com/SeanROlszewski/"}
+
+-
+  id: 7
+  name: "Andres"
+  surname: "Pineda"
+  title: "Co-Organizer"
+  thumbnailUrl: AndresPineda.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ajpinedam"}
+    - {name: "github", link: "https://github.com/ajpinedam"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
