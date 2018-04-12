@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/diversity/", text: "Diversity"}
  - {permalink: "/code-of-conduct/", text: "Conduct"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform", text: "Become a speaker"}
