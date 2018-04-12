@@ -1,59 +1,176 @@
 -
-  id: 307
+  id: 200
   title: "Coffee Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "O melhor momento para falar com oradores e participantes"
 -
-  id: 503
+  id: 201
   title: "Lunch Break"
-  place: "Dining room"
+  place: "Sala de almoço"
   service: true
+
+-
+  id: 202
+  title: "Abertura"
+  speakers: [7]
+  language: pt
+
+-
+  id: 203
+  title: "Encerramento"
+  speakers: [3]
+  language: pt
+
+-
+  id: 204
+  title: "Sorteio"
+  language: pt
+
+
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Mob Testing (Exploratory + Pair Testing)"
+  description: "“All the brilliant people, working on the same thing, at the same time, in the same space, and at the same computer.“ - that is Mob Programming. When the activity we mob on is exploratory testing or test automation,, or the viewpoint to being a programming mob is that of a tester, we call it Mob Testing. Mob testing - a group testing activity utilizing one computer - voices out the tacit knowledge in the group of individuals on shared tasks. Facilitated by an expert, it makes a great mechanism for building habits and transferring skills over passing knowledge. In this course, we amp up our testing skills by learning from one another, and learn in a mob, getting the best knowledge out of the team into the task at hand. With mob testing, we get a glimpse into the head of the testers while they test because “for an idea to go from your head to the computer, it must go through someone else’s hands”. This is a specific communication style called Strong-style pairing, and it connects the group of brilliant minds in the mob in a shared experience. The course is set up for a maximum 16 participants, and everyone joins the mob for the day. We will work on different types of activities as a group: from analyzing a user interface to analysing an individual feature; from having ready code to creating some with test-driven development; and from focusing on testing to focusing on teamwork dynamics. The training day shows you:
+How mobbing gets the tacit knowledge out in a team in an actionable format
+How to introduce learning in mobbing format at your place of work
+What would it look like to think like an exploratory tester, with intent of understanding coverage while uncovering useful information
+What would it look like to apply testing skills while joining a group programming activity
+How you can improve your collaboration skills in hands-on work"
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [4]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
+  title: "Agile Testing (Workshop)"
+  description: "Agile Methodology: Agile Thinking and Agile Manifesto, Misperceptions and Myths in Agile, Agile Methodologies (Scrum, Kanban, TDD, XP etc.), Compa, Scrum Framework (Artifacts, Roles and Practices), Different Roles and Responsibilities in Agile (Developers, Business Analysts, Designers, Testers, Product Owners etc.)."
+  subtype: workshop
+  speakers: [3]
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
+  title: "The Quest for the Ultimate Test Story"
+  description: "Good stories last: They release emotions, they have their own life, they make you proud and they can help you inform and move others. This is why we embarked on our quest: the quest for the Ultimate Test Story! We set forth to scour the earth in search of testers. Testers with interesting experiences and crazy stories to tell, but not having the words to bring them to life. Our weapon of choice: Test Sphere. A deck of hundred cards that inspires and supports these testers to craft, temper and shape their raw experiences into strong, red-hot stories of power. In our workshop we will teach you how to use these cards, by giving you different assignments in small groups. Most importantly: this means you are going to to tell test stories. We are convinced that every tester has had interesting experiences, that deserve to be told and shared. After telling each other these stories, you can start to discuss the content of the story and the performance of the storyteller."
+  subtype: workshop
+  speakers: [5]
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "API Test Automation"
+  description: "Nos nossos dias, é quase impossível encontrar uma aplicação moderna que não fornece ou consome uma API na forma de um web service. Com SOA ou microservices (micro-serviços), entre camadas ou entre o servidor e o cliente, internos ou externos, OAP ou REST, IoT ou aplicações web, não importa o quê nem porquê, mas as APIs com web services estão em todo o lado. Desenhadas para permitirem uma interação programática entre sistemas, as APIs também necessitam de ser testadas e são uns dos primeiros candidatos naturais para os testes automáticos. Nesta workshop, vamos utilizar 5 ferramentas diferentes para demonstrar como se pode fazer a automação de testes a APIs aplicando também diferentes técnicas e conceitos."
+  subtype: workshop
   speakers: [6]
-  language: uk
+  language: pt
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 005
+  title: "Test flow"
+  description: "Test flow: improve yourself with mental training"
+  subtype: keynote
+  speakers: [5]
+  language: pt
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  id: 006
+  title: "News Trends"
+  description: "No-code Test Automation - New Trends"
+  subtype: diamond
+  speakers: [8,9]
+  language: pt
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 007
+  title: "From legacy to cloud"
+  description: "New test automation approaches: from legacy to cloud"
+  subtype: gold
+  speakers: [10]
+  language: pt
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 008
+  title: "Xray"
+  description: "The story behind the creation and rise of Xray, a prominent Test Management App for Jira."
+  subtype: gold
+  speakers: [11]
+  language: pt
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 009
+  title: "Software Testing"
+  description: "How to improve performance."
+  subtype: keynote
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 010
+  title: "Making Teams Awesome"
+  description: "Making Teams Awesome"
+  subtype: keynote
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 011
+  title: "DevOps"
+  description: "DevOps: How to Address Test Data?"
+  subtype: callForSpeakers
+  speakers: [12]
+  language: pt
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 012
+  title: "Faillure"
+  description: "Planning for Failure"
+  subtype: callForSpeakers
+  speakers: [13,14]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 013
+  title: "Teste Automático de Processos de Negócio"
+  description: "Teste Automático de Processos de Negócio"
+  subtype: callForSpeakers
+  speakers: [15]
+  language: pt
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 014
+  title: "Mobile Test Automation"
+  description: "Mobile Test Automation and The Survival Tips that Actually Work"
+  subtype: keynote
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+

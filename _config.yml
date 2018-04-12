@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Testing Portugal 2018"
 email: "testingportugal@pstqb.pt"
-description: "Testing Portugal is a yearly conference about software testing"
+description: "Testing Portugal é uma conferência anual sobre testes de software"
 baseurl: "/testingportugal2018"
 url: "https://pstqb.github.io"
 permalink: "/blog/:title"
@@ -24,7 +24,7 @@ mapsAPIKey: "AIzaSyAmHsNZU8XPf3kxGYSKQUrjkcRfWSQj8Eo" #added by Renato
 # Organizer Info
 organizerName: "PSTQB"
 organizerAlternateName: "Associação Portuguesa de Testes de Software"
-organizerDescription: "Open comunity which shares experience about software testing with passion."
+organizerDescription: "Comunidade aberta que partilha a sua experiência na área de testes de software com paixão."
 organizerEmail: "testingportugal@pstqb.pt"
 
 # Head
@@ -42,37 +42,35 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Oradores"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Torna-te orador"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Torna-te orador"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Testing <typeout> 2018"
-eventDate: "November, 2018"
+eventDate: "21 de Novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
 typeoutFallback: "Portugal"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Torna-te Orador"}
+ - {permalink: "/#tickets", text: "Comprar bilhetes"}
 
 # About Block
-aboutTitle: "About Testing Portugal"
+aboutTitle: "Sobre o Testing Portugal"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferência", image: "conference.jpg", text: "A maior conferência sobre testes de software organizada em Portugal!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Workshops dados por líderes mundiais na área de testes de software!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "Participantes", detail: ""}
+ - {count: "8", specialCharacter: "+", info: "horas", detail: "de tecnologia pura"}
+ - {count: "14", specialCharacter: "+", info: "oradores", detail: "vindos de todo o mundo"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -80,27 +78,27 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Oradores em Destaque"
+rockstarSpeakersButtonText: "Ver todos os oradores"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Localização"
 eventLocationName: "Altis Grand Hotel"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "http://www.altishotels.com/PT/HotelAltisLisboa/"
 eventStreetAddress: "Rua Castilho 11"
 eventAddressLocality: "Lisboa"
 eventAddressLocalityRegion: "Lisboa"
 eventPostalCode: "1269-072"
 eventAddressCountry: "Portugal"
-eventStartTime: "2018-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2018-10-25T20:00"
+eventStartTime: "2018-10-25T9:30"
+eventDoorTime: "07:00"
+eventEndTime: "2018-10-25T17:35"
 eventPlaceCoordinates: "38.720760, -9.149948" 
 mapCenterCoordinates: "38.720693, -9.150502"
 mapMobileCenterCoordinates: "38.720693, -9.150502"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Galeria"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -115,57 +113,54 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organização"
+partnersTitle: "Patrocionadores"
+partnersC4sponsorsButton: "Torna-te patrocionador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscreve para atualizações"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "A inscrição está aberta até fim de outubro. O número de bilhetes é limitado. Fica atento!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Tabela de preços"
+ticketsInfo: "Os bilhetes garantem acesso à conferência, coffe brakes e almoço."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name: "Bilhete Normal"
   price: "350"
   priceCurrency: "EUR"
   ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
+  buyButtonText: "Inscrever-se Agora"
+  ticketContentList: ["Para mais informações", "por favor contacte", "testing.portugal@pstqb.pt"]
+  validFrom: "2018-04-11T10:00"
+  validThrough: "2018-10-30T23:59"
  -
-  name: "Last Chance"
-  price: "450"
+  name: "Bilhete Antecipado"
+  price: "175"
   priceCurrency: "EUR"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  ticketsNumber: "30"
+  ribbon: "-50%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
+  buyButtonText: "Inscrever-se Agora"
+  ticketContentList: ["Para mais informações", "por favor contacte", "testing.portugal@pstqb.pt"]
+  validFrom: "2018-04-11T10:00"
+  validThrough: "2018-10-30T23:59"
+  disabled: false
  -
-  name: "Student"
-  price: "200"
+  name: "Estudante"
+  price: "20"
   priceCurrency: "EUR"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
+  buyButtonText: "Inscrever-se Agora"
+  ticketContentList: ["Para mais informações", "por favor contacte", "testing.portugal@pstqb.pt"]
+  validFrom: "2018-04-11T10:00"
+  validThrough: "2018-10-30T23:59"
+  disabled: false
 
 # Footer
 socialLinks:
@@ -175,12 +170,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.pstqb.pt/", text: "PSTQB"}
  -
-  title: "Contacts"
+  title: "Contactos"
   links:
    - {link: "mailto:testingportugal@pstqb.pt", text: "testingportugal@pstqb.pt"}
+   - {link: "tel:(+351)213510540", text: "T: (+351) 213 510 540"}
 
 # Blog
 blogTitle: "Latest news"
@@ -193,88 +188,3 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "38.720760, -9.149948"
-logisticsMapMobileCenterCoordinates: "38.720760, -9.149948"
-logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
