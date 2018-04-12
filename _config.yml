@@ -178,7 +178,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/conduct/", text: "Code of Conduct"}
+   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
 
 # Speakers List Block
 showSessions: true
