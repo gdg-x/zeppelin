@@ -247,6 +247,21 @@
   speakers: [24]
   language: en 
   complexity: "Intermediate" 
+-
+  id: 020
+  title: "State Restoration - It’s like you never left"
+  description: |
+   Part of making an iOS app an enjoyable experience involves some magic… err illusion. One of those illusions is that if a user leaves your app and it goes to the background, when they return everything will be exactly as they left it. The reality is that, with few exceptions, your app will actually be suspended, then deallocated by the operating system. Without a little trickery, when users come back to your app they’ll be greeted with a launch screen and have to start their navigation experience from scratch. Join me as we talk about some of the tricks you can use to ensure that when users come back to your app everything appears as if they never left.
+  outcome: |
+    - Why state restoration is important.
+    - How to set up basic state restoration using Storyboards.
+    - Best practices for restoring scroll position in TableView and UICollectionViews.
+    - How to leverage the state restoration API for custom situations.
+    - When to forego state restoration and just start over.
+    - A few tricks for improving app launch speed.
+  subtype: presentation
+  speakers: [11]
+  language: en 
 
 -
   id: 999
