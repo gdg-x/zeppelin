@@ -218,7 +218,35 @@
    This session covers more advanced date and time code. An attendee will be able to reliably schedule notifications in the user's local time, find dates in the future, and even work with calendars with different numbers of months, days in the week, and more!
   subtype: presentation
   speakers: [22]
-  language: en   
+  language: en  
+-
+  id: 018
+  title: "Secrets and Lies"
+  description: |
+   Security is hard. It’s filled with complex math and obscure system details, but that isn’t why it’s hard. Security is hard because it requires a different way of thinking. It’s about what systems really do rather than what they’re supposed to do. It’s about making things fail rather than succeed. It’s about controls and response more often than code and algorithms. And at its best it’s invisible and thankless. You never know all the bad things that didn’t happen.
+   Security is critical. In our hyper-connected systems filled with sensitive information, we need developers who understand how to think about security and how to implement secure systems. Security requires expertise, but it can’t just be left to experts. It has to be a part of every stage of development. No one wants to be the next company listed under an embarrassing headline.
+  outcome: |
+   - How to think about security and apply it at each stage of development
+   - What problems security can and can’t solve
+   - The basic tools and techniques attackers use
+   - How to make your systems resilient against attack
+   - The difference between encryption and obfuscation and how to use each correctly
+   - How to authenticate users and handle passwords
+  subtype: presentation
+  speakers: [14]
+  language: en 
+-
+  id: 019
+  title: "Functional Magic in Swift"
+  description: |
+   Do you find yourself creating messy code in order to transform Swift optionals? Do you wish you harnessed the functional power of Swift more? This talk is for you! Come learn about creating elegant code with map, flatMap, filter, and reduce through some cupcake magic.  Let's make your code more Swifty!
+  outcome: |
+   - People will learn about four functions -- map, flatMap, filter, and reduce
+   - Have good examples of how to use them in their code
+  subtype: presentation
+  speakers: [24]
+  language: en 
+  complexity: "Intermediate" 
 
 -
   id: 999

@@ -278,7 +278,17 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/harlanhaskins"}    
-    - {name: "github", link: "https://github.com/harlanhaskins"}    
+    - {name: "github", link: "https://github.com/harlanhaskins"}
+-
+  id: 24
+  name: "Neem"
+  surname: "Serra"
+  bio: |
+   Neem Serra is a mobile developer at Slalom in St. Louis. She teaches and mentors at a variety of non-profit organizations such as Software Carpentry. As the lead of the Google Women Techmakers group in St. Louis, she started the St. Louis Techies Project to highlight the diversity of technical people in St. Louis. Neem loves to bake, read comics, and host craft nights.
+  thumbnailUrl: NeemSerra.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/TeamNeem"}    
 
 
     
