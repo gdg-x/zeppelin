@@ -8,16 +8,16 @@
 
       {% assign animationDelay = 0 %}
       {% for member in site.data.ngconf2018.mentors %}
-      {% if forloop.index < 7 %}
-        {% assign colWidth = 4 %}
-      {% else %}
+      {% if forloop.index < 30 %}
         {% assign colWidth = 3 %}
+      {% else %}
+        {% assign colWidth = 4 %}
       {% endif %}
       {% assign memberImage = site.baseurl | append: '/img/ngconf2018-mentors/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
            data-delay="{{ animationDelay }}">
-        <div class="lily-head" data-toggle="modal" data-target="#mentorDetail-{{ member.id }}">
+        <div class="lily-head" data-toggle="modal" data-target="#mentorDetailNgConf2018-{{ member.id }}">
           <div class="rockstar-speaker">
             <div class="flow-img img-circle rockstar-speaker-img"
                  style="background-image: url({{ memberImage }})"></div>
@@ -34,7 +34,6 @@
       {% endfor %}
 
     </div>
-    <h6 style="float: right; padding-right: 30px">and others...</h6>
   </div>
 </section>
 <!-- End Organizing Team Section -->

@@ -1,8 +1,8 @@
 <!-- Begin Team Member Modals -->
-<div class="modals">
+<div class="modals" class="modals">
 	{% for speaker in site.data.ngconf2018.mentors %}
 	{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
-	<div class="modal fade text-left people-modal" id="mentorDetail-{{ speaker.id }}" tabindex="-1" role="dialog"
+	<div class="modal fade text-left people-modal" id="mentorDetailNgConf2018-{{ speaker.id }}" tabindex="-1" role="dialog"
 			 aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">

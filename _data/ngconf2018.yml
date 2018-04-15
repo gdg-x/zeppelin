@@ -26,77 +26,18 @@ partners:
    elements:
      - {name: "ng-conf", description: "ng-conf 2018 - World's original Angular conference", link: "http://www.ng-conf.org/", imageUrl: "ng-conf2018.png"}
      - {name: "Microsoft", description: "Microsoft Cloud Developer Advocates", link: "https://developer.microsoft.com/en-us/advocates/index.html", imageUrl: "microsoft.png"}
+     - {name: "Auth0", description: "Auth0", link: "https://auth0.com/", imageUrl: "auth0.png"}
 
 
 
 mentors:
 
-- id: 21
-  name: 'Shravanthi'
-  surname: 'Manohar'
-  thumbnailUrl: Shravanthi.jpeg
-  title: "Software Engineer"
-  company: "Adobe Systems"
-  bio: "<p>I'm a developer at Adobe, I'm passionate about coding and want to make a great impact on society
-  through technology. I would love to see more girls on the tech scene.</p>"
-  social:
-  - {name: "twitter", link: "https://www.twitter.com/shravanthi16"}
-
-- id: 22
-  name: 'Kalyani'
-  surname: 'Yerra'
-  thumbnailUrl: Kalyani.jpg
-  title: "Sr Software Architect"
-  company: "Premier Inc"
-  bio: "<p>I am a Software Architect providing architectural direction and managing technical teams for the
-  Premier Inc organization, with an extensive knowledge in web application development,
-  and client server development for the health care industry. </p>"
-  social:
-  social:
-  - {name: "linkedin", link: "https://www.linkedin.com/in/Kalyaniyerra/"}
-  - {name: "twitter", link: "https://www.twitter.com/Yerra_Kalyani"}
-
-#- id: 23
-#  name: 'Sarah'
-#  surname: 'Graham'
-#  thumbnailUrl:
-#  title: "Developer"
-#  company: "Jolt"
-#  bio: 	"<p>After studying media/visual arts and working as an English teacher and translator in Japan,
-#  I got excited about the creative and collaborative opportunities tech opens up at the Tokyo Hackerspace
-#  where members were using their knowledge to make (and program) incredible stuff and help others.
-#  After moving back to the U.S., I studied coding on my own, with the help of programmer friends,
-#  and through organizations like Girl Develop It to try to build a Japanese learning game.
-#  To accelerate my progress and a career change, I enrolled in an after-work MEAN-stack web programming
-#  course at Coding Campus (now V School). After successfully building the first version of the game for my
-#  final project, I got my first programming job at Jolt (<a href='joltup.com' target='_blank'>joltup.com</a>),
-#  a quickly-growing company that helps businesses organize operations and interact with their employees
-#  more effectively.</p>
-#  <p>I'm participating in ngGirls because I personally know how hard it is to be introduced to
-#  programming--even in our Information Age--and how important mentorship is to bridging that gap.</p>"
-#  social:
-#  - {name: "twitter", link: "https://www.twitter.com/sarahcodez"}
-
-- id: 24
-  name: 'Kristie'
-  surname: 'Giles'
-  thumbnailUrl: Kristie.jpg
-  title: "Front-End Software Engineer Technical Lead"
-  company: "Western Governors University"
-  bio: "<p>After studying visual design, Kristie just wanted to learn enough about development to
-  make some basic websites, but she found that writing code was a great creative outlet and kept
-  wanting to learn more. She currently works as a front-end software engineer tech lead at Western
-  Governors University, mentoring a dev team that builds student- and staff-facing web applications with Angular.
-  She enjoys CSS, reusable components, and cat GIFs.</p>"
-  social:
-  - {name: "twitter", link: "https://www.twitter.com/kristiegiles"}
-
-- id: 25
+- id: 1
   name: 'Bonnie'
   surname: 'Brennan'
   thumbnailUrl: Bonnie.jpeg
-  title: "Software Developer"
-  company: "Freelance"
+  title: "xx"
+  company: "Instructor"
   bio: "<p>Bonnie is a Senior Developer in Houston, Texas and the founder of the ngHouston Angular meetup.
   She is also the co-founder of CodeBridge, an organization she runs with her teenage daughter to plan and
   teach free coding workshops for women and girls at local universities. She enjoys teaching others and loves
@@ -104,31 +45,266 @@ mentors:
   social:
   - {name: "twitter", link: "https://www.twitter.com/bonnster75"}
 
-- id: 26
-  name: 'Uri'
-  surname: 'Goldshtein'
-  thumbnailUrl: Uri.png
-  title: "Programmer"
-  company: "Meteor Development Group"
-  bio: "<p>Working in open source for many years.
-           Done angular-meteor, apollo-angular, graphql-subscriptions and more...</p>"
+- id: 2
+  name: 'Robert'
+  surname: 'Willemelis'
+  thumbnailUrl: robert.png
+  title: "xxx"
+  company: "Instructor"
+  bio: "<p></p>"
   social:
-  - {name: "twitter", link: "https://www.twitter.com/urigoldshtein"}
+  - {name: "twitter", link: "https://www.twitter.com/robertSPD"}
 
-- id: 27
+- id: 3
+  name: 'Nicole'
+  surname: 'Oliver'
+  thumbnailUrl: nicole_oliver.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm a full-stack web developer currently working at Nintendo. I use my background in design and amateur game development to create fun and intuitive application interfaces. I love exploring code with other developers, and am always thrilled to share what I know!
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/nixallover"}
+
+- id: 4
+  name: 'Ed'
+  surname: 'Pelc'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/ed_pelc"}
+
+- id: 5
+  name: 'Liz'
+  surname: 'Davis Maxfield'
+  thumbnailUrl: liz_davis_maxfield.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Liz Davis Maxfield is a Angular/Ionic developer who loves to learn new things. She spends her day writing language learning apps, spends her afternoons playing with her two kids, and spends her evenings playing the cello. She loves to travel and rock climb and play frisbee... and she loves to code!
+</p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 6
   name: 'Craig'
   surname: 'Nishina'
-  thumbnailUrl: Craig.jpg
-  title: "Software Engineer Tools and Infrastructure"
-  company: "Google"
-  bio: "<p>Craig works as a Software Engineer in Tools and Infrastructure at Google and a former
-  member of the Protractor team. Before Craig became a developer,
-  he had a previous career as a civil engineer.</p>"
+  thumbnailUrl: craig_nishina.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Craig Nishina is a software engineer at Google working on Ads and previously on the Protractor team. In a previous career, Craig worked as a civil engineer designing buildings, but he much prefers writing code over building structures. Craig is excited to be a mentor with ngGirls because he enjoys working with Angular and wants to support women interested in technology.
+</p>"
   social:
   - {name: "twitter", link: "https://www.twitter.com/cnishina"}
 
-#- id: 28
-#  name: 'Amanda'
-#  surname: 'Haynes'
-#  social:
-#  - {name: "twitter", link: "https://www.twitter.com/a_mandala_"}
+- id: 7
+  name: 'Mana'
+  surname: 'Eini'
+  thumbnailUrl: mana_eini.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm an artist, activist, creator who was looking for the best ways to influence the world we live in. With the power of technology anyone can change their surroundings and I want to be able to help.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/thesecretofmana"}
+
+- id: 8
+  name: 'Jan-Niklas'
+  surname: 'Wortmann'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I think some of these informations I have already used above. In my free time I love cooking, especially bbq. For example I made some spare ribs last weekend, which lasts about 6 hours, but I enjoyed it really much. Furthermore I like jogging, eventhough I am quite exhausted after a short time :)
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/niklas_wortmann"}
+
+- id: 9
+  name: 'Cathy'
+  surname: 'Callow-H.'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Want more women in the industry; already a teacher; plan to provide internships and mentoring at Betterment Labs, LLC, within a year.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/ccallowheusser"}
+
+- id: 10
+  name: 'Jens'
+  surname: 'Bodal'
+  thumbnailUrl: jens_bodal.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm one of the co-organizers of the Angular Seattle meetup group and I'll be attending ng-conf this year. I welcome the opportunity to give back to the community so I'm more than willing to help out. NOTE: My flight arrives at 8:47AM on the 17th, if this works then I'm happy to be there. I might be able to change my schedule if help is really needed beforehand but I believe my flight was non-refundable.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/jensbodal"}
+
+- id: 11
+  name: 'Cresta'
+  surname: 'Beck'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/CrestaRasmussen"}
+
+- id: 12
+  name: 'Juan'
+  surname: 'Herrera'
+  thumbnailUrl: juan_herrera.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I am Juan and I carried out NgGirls in Colombia. It was an amazing experience and the impact was huge. I'd like to do that again :)
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/jdjuan"}
+
+- id: 13
+  name: 'Samantha'
+  surname: 'Gomez'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/sammieejam"}
+
+- id: 14
+  name: 'Preston'
+  surname: 'Lamb'
+  thumbnailUrl: preston_lamb.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/plambweb"}
+
+- id: 15
+  name: 'Julie'
+  surname: 'Kohler'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Hi, I'm a web developer working in AngularJS. I also love Node.js and am building skills in Java and React. My job is great because I get to create the web, not just consume it. I'm participating in ngGirls because I want to give others a hand in their coding journey. It's often challenging, and sometimes we just need some reassurance or to be pointed in the right direction. In my free time, I enjoy dance and travel.</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/juliecoding"}
+
+- id: 16
+  name: 'Jim'
+  surname: 'Bradshaw'
+  thumbnailUrl: jim_bradshaw.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Would love to get my daughter involved in the nerdom of programming. I am a long time programmer and technology nerd.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/nyronian"}
+
+- id: 17
+  name: 'Pamela'
+  surname: 'Ocampo'
+  thumbnailUrl: pamela_ocampo.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/pmocampo"}
+
+- id: 18
+  name: 'Jim'
+  surname: 'Lu'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I used to teach at a university so I love helping others learn. In my free time, I play with new gadgets, hike Utah’s beautiful mountains.
+</p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 19
+  name: 'Jacquie'
+  surname: 'Howard'
+  thumbnailUrl: jacquie_howard.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I have been programming for 45 years - since I was in High School and still love it. I learn something new every day and enjoy solving problems. It has always bothered me that there are so few women in programming and lately have been taking on mentoring roles when I can. I volunteered with TEALS, worked as a mentor with Thinkful, taught with Kids Code at a local elementary school and most recently attended a SheTech Explorer Day as a mentor for their technical challenge. My current job is at Health Catalyst where I have been doing mainly front end work with Angular and mentoring up and coming software engineers. I am the wife of another software developer and the mother of three more. I am the grandmother of two year old twins and can't wait to see what they will achieve!
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/jacquieslc"}
+
+- id: 20
+  name: 'Josh'
+  surname: 'Waite'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 21
+  name: 'Veronika'
+  surname: 'Thelen'
+  thumbnailUrl: veronica_thelen.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Software engineer turned stay at home mom</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/ver_kat"}
+
+- id: 22
+  name: 'Glen'
+  surname: 'Kingston'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/g_kingston"}
+
+- id: 23
+  name: 'Rachel'
+  surname: 'Noccioli'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 24
+  name: 'Bill'
+  surname: 'Odom'
+  thumbnailUrl: bill_odom.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Bill Odom has been a software designer, developer, or systems architect for nearly three decades. For the last several years, he’s served as a consultant, trainer, and senior software developer for organizations large and small all across the US. These days, he divides his time between building large, complex web applications, and teaching other people how to build large, complex web applications. He feels weird writing about himself in the third person.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/wnodom"}
+
+- id: 25
+  name: 'Kim'
+  surname: 'Maida'
+  thumbnailUrl: kim_maida.jpeg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I am an Angular GDE, Angular consultant, speaker, and Technical Content Lead. I'm passionate about women in tech as well as diversity and inclusion, and love teaching and mentoring through tutorials, workshops, and public speaking.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/KimMaida"}
+
+- id: 26
+  name: 'Julie'
+  surname: 'Knowles'
+  thumbnailUrl: julie_knowles.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Wanting to get more involved in the Angular community and I was looking for something to do on Tuesday and saw this opportunity. Why not offer to help! I realize I might be too late, but thought I'd give it a shot if you still need mentors.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/Julie_M_Knowles"}
