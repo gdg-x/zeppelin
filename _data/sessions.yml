@@ -155,7 +155,7 @@
   outcome: |
     - Building forms that let your users quickly and easily give you information.
     - Understanding how to get the data your app needs.
-    - Learning how to get back the user to the app they love.
+    - Learning how to get the user back to the app they love.
   subtype: presentation
   complexity: "Intermediate"
   speakers: [16]
@@ -172,9 +172,9 @@
 
    There will be some live-coding to give the feel of what it's like to do this in the context of an app (a playground that is part of a larger app project).
   outcome: |
-    - Understanding how to work in an hybrid environment between the visual experience you get in a Storyboard, but with the benefits you get from a programmatic UI (creating the UI in a playground).
+    - Understanding how to work in a hybrid environment with the visual experience you get in a Storyboard, but the benefits you get from a programmatic UI (creating the UI in a playground).
     - Learning all the tips and tricks to improve your efficiency while working in hybrid mode.
-    - Mastering programmatic UI will with an easier on-ramp because that allows to see the effect immediately without running the app.
+    - Mastering programmatic UI will be easier because you can see the effect immediately without running the app.
   subtype: presentation
   speakers: [17]
   complexity: "Intermediate"
@@ -188,11 +188,11 @@
    We'll begin by defining code signing at a fundamental level-covering the basics of hashing and public-key cryptography-in order to gain a clear understanding of code signing before diving into Apple's implementation on iOS. Unlike other mobile platforms, code signing on iOS involves additional layers of security; we'll describe the functionality of provisioning profiles, certificates and keychains. We'll dive into why Apple's code signing is mandatory, and how it extends the concept of the chain-of-trust from the operating system to the apps, and prevents third parties from loading any potentially harmful code.
   outcome: |
    - Attendees can expect to walk away with a more firm understanding of why code signing is necessary, what it accomplishes, and how it protects you and your users.
-    - Attendees can expect to leave having answered questions such as: <br>
-      -- What's a keychain for? What are certificates and provisioning profiles? <br>
-      -- How do these objects interact during the code signing process? <br>
-      -- And how does code signing protect me and my users?
-    - We will equip attendees with the knowledge they need to build more complex applications and successfully release apps by creating clarity around Apple's code signing methodology.
+    - Attendees can expect answers to questions such as:
+     - What’s a keychain for? What are certificates and provisioning profiles?
+     - How do these objects interact during the code signing process?
+     - How does code signing protect me and my users?
+    - We will equip attendees with the knowledge they need to build more complex applications and successfully release apps by creating clarity around Apple’s code signing methodology.
   subtype: presentation
   speakers: [18]
   complexity: "Advanced"
@@ -209,9 +209,9 @@
   description: |
    Accessibility is an often ignored part of iOS development, partly because much of it is “baked in” to the OS and “just works” most of the time. However, building custom UI elements and interactions can lead to a breakdown of accessibility. In this talk, we’ll explore VoiceOver, the screen reader that allow many disabled users to interact with your app. We’ll walk through a non-accessible app and optimize it for VoiceOver users. Finally, we’ll go over common pitfalls and solutions to keep in mind when designing and building accessible experiences.
   outcome: |
-    - Having a better understanding of Voiceover.
-    - Understanding how run a quick accessibility audit on your app to find places in your app that could use improvement.
-    - Being able to argue why it's important to invest in accessibility and have concrete steps on how to make an app easier to use.
+    - Having a better understanding of VoiceOver.
+    - Understanding how run a quick accessibility audit to find places in your app that could use improvement.
+    - Being able to argue why it’s important to invest in accessibility and have concrete steps on how to make an app easier to use.
   subtype: presentation
   complexity: "Intermediate"
   speakers: [20]
@@ -222,7 +222,9 @@
   description: |
    As developers we often take the text rendering system for granted. As a fundamental part of both iOS and macOS we often don't give it a second thought. It's just there. This session will explore: the transition from 7 segment LED text to the beautiful fonts we use today, translate the vocabulary designers use when describing text layout, and conclude by examining TextKit and how to get direct access to font paths.
   outcome: |
-    - A better understanding of: fonts and font formats, and text layout vocabulary.
+    A better understanding of
+    - Fonts and font formats.
+    - Text layout vocabulary.
     - A deeper understanding of text rendering in iOS and macOS.
   subtype: presentation
   complexity: "Advanced"
@@ -262,7 +264,7 @@
    Do you find yourself creating messy code in order to transform Swift optionals? Do you wish you harnessed the functional power of Swift more? This talk is for you! Come learn about creating elegant code with map, flatMap, filter, and reduce through some cupcake magic.  Let's make your code more Swifty!
   outcome: |
    - Functional programming building blocks
-   - Manipulating collections with four functions -- map, flatMap, filter, and reduce
+   - Manipulating collections with four functions: `map`, ~~`flatMap`~~ `compactMap`, `filter`, and `reduce`
    - Have good examples of how to use them in their code
   subtype: presentation
   speakers: [24]
