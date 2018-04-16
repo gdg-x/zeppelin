@@ -223,7 +223,7 @@
    As developers we often take the text rendering system for granted. As a fundamental part of both iOS and macOS we often don't give it a second thought. It's just there. This session will explore: the transition from 7 segment LED text to the beautiful fonts we use today, translate the vocabulary designers use when describing text layout, and conclude by examining TextKit and how to get direct access to font paths.
   outcome: |
     - A better understanding of: fonts and font formats, and text layout vocabulary.
-    - A  deeper understanding of text rendering in iOS and macOS.
+    - A deeper understanding of text rendering in iOS and macOS.
   subtype: presentation
   complexity: "Advanced"
   speakers: [21]
