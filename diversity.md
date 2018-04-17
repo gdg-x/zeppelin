@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diversity at SwiftFest 2018
-permalink: /diversity/
+permalink: /diversity-inclusion/
 isStaticPost: true
 image: people.jpg
 ---
@@ -22,6 +22,23 @@ Join us!
 
 #### Sponsors
 
-Interested in sponsoring SwiftFest Boston 2018 diversity attendees? Just visit our [ticketing](http://swiftfest.io/#tickets) site and purchase tickets using the promo code **DIVERSITY**. All tickets purchased with this promo code will go into a pool of tickets to be used for diversity initiatives.
+Interested in sponsoring SwiftFest Boston 2018 diversity attendees? Just visit our [ticketing](https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets) site and make a donation to purchase a ticket to support the SwiftFest diversity inclusion program. All tickets purchased with this promo code will go into a pool of tickets to be used for diversity initiatives.
 
 Thank you from SwiftFest Boston 2018!
+
+#### On-site Resources
+We are doing our best to accommodate all your needs, following you can find a list of all the resources we made available to offer everyone a pleasant SwiftFest Boston 2018.
+##### Nursing Room
+We will be providing a private nursing room at this year’s event to aid in the comfort and accessibility for our nursing attendees. The room will be available all days of the event and will be located on-site. For location information, please check with registration or information desk staff on-site.c
+
+##### Accessibility
+If you need any assistance locating an elevator, or have other questions about accessibility on-site, please speak to a member of the SwiftFest staff on-site. All the accessibility resources are properly marked, however, if you have questions prior to the event, please email us [conference@swiftfest.io](mailto:conference@swiftfest.io).
+
+##### Quiet Room
+All attendees may feel free to use the Quiet Room as needed. It is a physical space where conversation and interaction are not allowed, where attendees can go if for any reason they can’t interact with other attendees at that time.
+
+##### All-Gender Restrooms
+We will designate specific restrooms as all-gender restrooms for attendees who feel more comfortable using those facilities.
+
+##### Need Help?
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.If you have any concern about a misbehave, please refer to the [code of conduct](/code-of-conduct/) of the conference.
