@@ -42,11 +42,11 @@ c4sponsorsUrl: "mailto:conference@swiftfest.io"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+# - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "#footer", text: "FAQ"}
  - {permalink: "/diversity-inclusion/", text: "Diversity"}
  - {permalink: "/code-of-conduct/", text: "Conduct"}
 bottomNavigationLinks:
@@ -139,7 +139,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
   buyButtonText: "Buy Now"
   validFrom: "2018-1-1T00:00"
-  validThrough: "2018-04-30T23:59"
+  validThrough: "2018-04-20T23:59"
   soldOut: false
   disabled: false
  -
@@ -180,6 +180,9 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+   - {permalink: "/diversity-inclusion/", text: "Diversity Inclusion"}
+   - {permalink: "/logistics/", text: "Logistics"}
+
 
 # Speakers List Block
 showSessions: true
