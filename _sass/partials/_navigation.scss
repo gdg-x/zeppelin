@@ -75,7 +75,7 @@ nav {
     }
     ul {
         float: left;
-        margin: 0;
+        margin: -8px 0 0;
         padding: 0;
         list-style: none;
         text-align: left;
@@ -88,7 +88,7 @@ nav {
             transform: translateY(0);  
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(20px);
             @media (max-width: 767px) {
                 transform: translateY(0);  
             }
