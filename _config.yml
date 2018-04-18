@@ -180,7 +180,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
-   - {permalink: "/diversity-inclusion/", text: "Diversity Inclusion"}
+   - {permalink: "/diversity-inclusion/", text: "Diversity &amp; Inclusion"}
    - {permalink: "/logistics/", text: "Logistics"}
 
 
