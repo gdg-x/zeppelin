@@ -36,7 +36,7 @@ We will be providing a private nursing room at this year’s event to aid in com
 If you need any assistance locating an elevator, or have other questions about accessibility on-site, please speak to a member of the SwiftFest staff on-site. All the accessibility resources are properly marked; however, if you have questions prior to the event, please email us at [conference@swiftfest.io](mailto:conference@swiftfest.io).
 
 ##### Quiet Room
-All attendees may feel free to use the Quiet Room as needed. It is a physical space where conversation and interaction are not allowed, where attendees can go if for any reason they don’t want to interact with other attendees at that time.
+All attendees may feel free to use the Quiet Room as needed. It is a physical space where conversation and interaction are not allowed, where attendees can go if for any reason they can’t interact with other attendees at that time.
 
 ##### All-Gender Restrooms
 We will designate specific restrooms as all-gender restrooms for attendees who feel more comfortable using those facilities.
