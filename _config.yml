@@ -22,11 +22,11 @@ googleAnalyticsSiteUrl: "swiftfest.io"
 siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
 
 # Organizer Info
-organizerName: "Giorgio Natili"
-organizerAlternateName: "Google Developer Group Lviv" # TODO
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion." # TODO
+organizerName: "Giorgio Natili, Matt Dias, Lucy Monahan, Barbara Menicucci, Jeff O'Leary, Zev Eisenberg, Sean Olszewski, Andres Pineda"
+organizerAlternateName: "SwiftFest Boston 2018"
+organizerDescription: "Open and volunteer geek community who create exciting events and share experience about mobile development technology with passion. We do love Swift and everything mobile!"
 organizerEmail: "conference@swiftfest.io"
-organizerLogo: "/img/seo/organizer-logo.png" # TODO
+organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://swiftfest.io"
 
 # Head
@@ -150,7 +150,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
   validFrom: "2018-1-1T00:00"
-  validThrough: "2018-06-19T18:00"
+  validThrough: "2018-06-18T9:00"
   soldOut: false
   disabled: false
   soldOutText: "Sold Out"
@@ -162,7 +162,7 @@ ticketsOffers:
    buyButtonText: "Buy Now"
    additionalInfo: "May be purchased in groups of 4."
    validFrom: "2018-1-1T00:00"
-   validThrough: "2018-04-30T23:59"
+   validThrough: "2018-05-31T23:59"
    soldOut: false
    disabled: false
 
@@ -189,7 +189,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "SwiftFest is put on by a group of passionate community builders in Boston." # TODO: write better blurb
+aboutUs: "SwiftFest is put on by a group of community builders in Boston passionate about Swift and mobile related technologies. We love bringing together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment to engage in technical discussions and to have fun."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
