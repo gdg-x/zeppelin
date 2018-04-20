@@ -12,7 +12,12 @@
 -
   id: 001
   title: "Accidentally Famous"
-  description: "How I became Siri: The voiceover business, how being “Siri” affected me and the lessons I learned from it."
+  description: "Okay, it turns out there is an actual human being behind the Siri voice: Susan Bennett, singer, voice actor, and the original voice of Siri on the iPhone 4S and beyond. In her presentation, Susan will give you a peek behind the scenes of the Siri recordings, how they were done, and how the scripts should probably become part of the Smithsonian collection! Susan also talks about the voiceover business, which is how she became the voice of Siri in the first place; she does a lot of different character voices and describes how technology dramatically changed the face of voice recording over the last couple of decades. Finally, Susan discusses the very human emotional challenge of being the voice of Siri, and becoming “Accidentally Famous” as well. Susan’s presentation takes a look at technology from an artist’s point of view…from a human point of view, so relax, bring your lunch and your sense of humor!"
+  outcome: |
+    - How the Siri recordings were done
+    - Where Siri and other digital voices come from
+    - Insight into the voiceover and recording businesses
+    - How to take the “high road” when faced with a challenge!
   subtype: workshop
   speakers: [1]
   language: en
