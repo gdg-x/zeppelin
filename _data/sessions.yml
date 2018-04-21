@@ -291,6 +291,20 @@
   complexity: "Advanced"
   speakers: [11]
   language: en 
+-
+  id: 021
+  title: "Building an iOS app with Cloud Firestore"
+  description: |
+   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries. 
+  outcome: |
+    - Read and write data to Firestore from an iOS app
+    - Listen to changes in Firestore data in realtime
+    - Use Firebase Authentication and security rules to secure Firestore data
+    - Write complex Firestore queries
+  subtype: workshop
+  complexity: "Advanced"
+  speakers: [25]
+  language: en 
 
 -
   id: 999
