@@ -137,9 +137,20 @@ ticketsOffers:
   price: "299"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Sold Out!"
   validFrom: "2018-1-1T00:00"
   validThrough: "2018-04-20T23:59"
+  soldOut: false
+  disabled: false
+ -
+  name: "Early Bird"
+  price: "399"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
+  validFrom: "2018-04-21T00:00"
+  validThrough: "2018-05-04T23:59"
   soldOut: false
   disabled: false
  -
