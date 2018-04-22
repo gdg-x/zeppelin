@@ -289,6 +289,17 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/TeamNeem"}    
+-
+  id: 25
+  name: "Todd"
+  surname: "Burner"
+  bio: |
+   Todd Burner is a Developer Advocate on the Firebase team. He previously worked on other teams in Google Cloud Platform, at Twitter, and a few mobile-first startups. He spends his time helping developers get up and running with open source and Google projects on GitHub and Stack Overflow, as well as meeting developers in person across the world.
+  thumbnailUrl: ToddBurner.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/toddlovesthis"}    
+    - {name: "github", link: "https://github.com/tkburner"}    
 
 
     
