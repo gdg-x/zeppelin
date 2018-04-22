@@ -49,18 +49,18 @@
   company: "PSTQB"
   title: "Presidente"
   bio: "Começou a carreira profissional em 1998 e tendo desempenhado diversas funções nas mais diversas áreas de negócio, foi em 2009 que, após um envolvimento mais próximo com a área de testes de software, criou a primeira comunidade portuguesa online focada em qualidade e testes de software. Um ano mais tarde foi um dos fundadores da PSTQB – Portuguese Software Testing and Qualifications Board e desde 2011 que tem vindo a participar também nos grupos de trabalho do ISTQB®."
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: JoelOliveira.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/joeloliveira"}
 - 
   id: 7
-  name: "Patrícia Raquel"
+  name: "Patrícia Alves"
   surname: "Alves"
   company: "PSTQB"
   title: "Vice-Presidente"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: PatriciaAlves.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}

@@ -11,7 +11,9 @@
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
                         <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <p>{{ about.text }}</p>
+                        {% for p in about.text %}
+                            <p>{{ p }}</p>
+                        {% endfor %}
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}

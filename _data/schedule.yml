@@ -32,12 +32,12 @@
     - {title: "Conferência", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "09:30",
-    	endTime: "10:00",
+    	startTime: "09:00",
+    	endTime: "09:30",
     	sessionIds: [202]
     }
     - {
-        startTime: "10:00",
+        startTime: "09:30",
         endTime: "10:45",
         sessionIds: [005]
     }
@@ -104,11 +104,11 @@
     }
     - {
     	startTime: "17:05",
-    	endTime: "17:35",
+    	endTime: "17:30",
     	sessionIds: [014]
     }
     - {
-    	startTime: "17:35",
+    	startTime: "17:30",
     	endTime: "17:40",
     	sessionIds: [203]
     }

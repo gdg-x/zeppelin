@@ -62,15 +62,25 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre o Testing Portugal"
 aboutBlock:
- - {title: "Conferência", image: "conference.jpg", text: "A maior conferência sobre testes de software organizada em Portugal!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Workshops dados por líderes mundiais na área de testes de software!" }
+ - {title: "Conferência", image: "conference.jpg", 
+      text: ["A PSTQB – Associação Portuguesa de Testes de Software irá realizar, no próximo dia 21 de novembro de 2018, no ALTIS Grand Hotel, em Lisboa, a 9ª edição da Conferência Testing Portugal.",
+          "A Conferência contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência.",
+          "A área de Testes acompanha a indústria de software na evolução e adaptação a novos paradigmas.",
+          "A Conferência Testing Portugal proporciona a oportunidade, para muitos única, de acesso ao conhecimento disponibilizado por alguns dos internacionalmente reconhecidos e conceituados gurus da área de testes.",
+          "O objetivo da Conferência é o de permitir que profissionais focados na qualidade do seu software possam trocar experiências com alguns dos maiores gurus internacionais, conhecer as novas tendências na área para melhor se prepararem para as acolher e partilhar as suas próprias experiências pessoais com a comunidade.",
+          "A Conferência é dirigida a todos os profissionais envolvidos na Garantia da Qualidade do Software, desde o Software Tester, passando pelo Test Manager, até ao próprio decisor – CEO e CIO.",
+          "Estarão presentes um variado leque de empresas, representativas do nosso tecido empresarial em todas as suas vertentes: geográfica – de Braga a Lisboa, passando por Coimbra; área de negócio – Financeiro, Administração Pública, Telecomunicações e Media, Manufactura e Distribuição, e outros;dimensão (pequenas, médias e grandes empresas); de empresas já estabelecidas no mercado a start-ups.",
+          "A conferência foi aberta a clientes finais bem como a prestadores de serviços"]}
+ - {title: "Workshops", image: "workshop.jpg", text: ["Workshops dados por líderes mundiais na área de testes de software!"] }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "Participantes", detail: ""}
- - {count: "8", specialCharacter: "+", info: "horas", detail: "de tecnologia pura"}
- - {count: "14", specialCharacter: "+", info: "oradores", detail: "vindos de todo o mundo"}
+ - {count: "450", specialCharacter: "+", info: "inscrições", detail: ""}
+ - {count: "400", specialCharacter: "+", info: "presenças", detail: ""}
+ - {count: "11", specialCharacter: "", info: "oradores", detail: ""}
+ - {count: "8", specialCharacter: "+", info: "horas de evento", detail: ""}
+
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -128,21 +138,21 @@ ticketsTitle: "Tabela de preços"
 ticketsInfo: "Os bilhetes garantem acesso à conferência, coffe brakes e almoço."
 ticketsOffers:
  -
-  name: "Bilhete Normal"
-  price: "350"
+  name: "Normal"
+  price: "85"
   priceCurrency: "EUR"
-  ticketsNumber: "150"
+  ticketsNumber: "400"
   buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
   buyButtonText: "Inscrever-se Agora"
   ticketContentList: ["Para mais informações", "por favor contacte", "testing.portugal@pstqb.pt"]
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
  -
-  name: "Bilhete Antecipado"
-  price: "175"
+  name: "Associado PSTQB"
+  price: "60"
   priceCurrency: "EUR"
-  ticketsNumber: "30"
-  ribbon: "-50%"
+  ticketsNumber: "400"
+  ribbon: "-30%"
   featured: true
   buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
   buyButtonText: "Inscrever-se Agora"
@@ -152,7 +162,7 @@ ticketsOffers:
   disabled: false
  -
   name: "Estudante"
-  price: "20"
+  price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "50"
   buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
@@ -184,7 +194,3 @@ discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
