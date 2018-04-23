@@ -141,16 +141,16 @@
 
 -
   id: 022
-  title: "NSURLProtocol: Stupid Secrets, Scary Swizzling, Sorry Safety "
+  title: "NSURLProtocol: Stupid Secrets, Scary Swizzling, Sorry Safety"
   description: |
-   Known as "Apple-sanctioned man-in-the-middle attacks," the NSURLProtocol class is a powerful Foundation abstraction that intercepts network requests at runtime before they hit the URL Loading System. It has been used to implement proxy-like functionality, stub http responses, eavesdrop on your 3rd party libraries network activity during production deployments, arbitrary transform URLRequests on the fly, or implement custom protocol schemes. Using this class well requires understanding how it behaves at runtime, and there are a few runtime gotchas that you must know to handle!
+   Known as “Apple-sanctioned man-in-the-middle attacks,” the `NSURLProtocol` class is a powerful Foundation abstraction that intercepts network requests at runtime before they hit the URL loading system. It has been used to implement proxy-like functionality, stub HTTP responses, eavesdrop on your 3rd party libraries’ network activity during production deployments, arbitrarily transform `URLRequest`s on the fly, or implement custom protocol schemes. Using this class well requires understanding of how it behaves at runtime, and there are a few runtime gotchas that you must know to handle!
   outcome: |
-   - Learn how to simplify test suites involving API calls by using NSURLProtocol to stub server responses
-   - Gain the ability to see HTTP data 3rd party libraries and frameworks share with their hosts
-   - Get a refresher on the few different method dispatch types in Swift
-   - Enjoy the dark magic that is method swizzling (exchanging method implementations of function pointers at runtime)
-   - Be able to swizzle their way around a critical bug (Apple erroneously sets all HTTP Bodies to nil) in NSURLProtocol
-   - Acquire the ability to implement API versioning, synthetic responses, remote cache invalidation, API rerouting on the client (a lighter weight HAProxy or Varnish)
+   - How to simplify test suites involving API calls by using `NSURLProtocol` to stub server responses
+   - The ability to see HTTP data that 3rd party libraries and frameworks share with their hosts
+   - A refresher on the few different method dispatch types in Swift
+   - The dark magic that is method swizzling (exchanging method implementations of function pointers at runtime)
+   - How to swizzle their way around a critical bug (Apple erroneously sets all HTTP Bodies to `nil`) in `NSURLProtocol`
+   - The ability to implement API versioning, synthetic responses, remote cache invalidation, and API rerouting on the client (a lighter weight HAProxy or Varnish)
   subtype: presentation
   speakers: [26]
   language: en
