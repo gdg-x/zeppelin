@@ -9,10 +9,17 @@ descriptionBlock:
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
 partners:
 
--
-   group: "Hosted by"
+-  group: "Hosted by"
    elements:
      - {name: "Angular", description: "Angular", link: "https://angular.io/", imageUrl: "angular.svg"}
+-  group: "Media Partners"
+   elements:
+     - {name: "The Professional Women's Network of San Francisco (PWN)", description: "The Professional Women's Network of San Francisco (PWN)", link: "https://www.meetup.com/Professional-Womens-Network-of-San-Francisco/", imageUrl: "pwn.jpeg"}
+     - {name: "Women Who Code Silicon Valley", description: "Women Who Code Silicon Valley", link: "https://www.meetup.com/Women-Who-Code-Silicon-Valley/", imageUrl: "wwc.jpeg"}
+     - {name: "Empowered Tech: Inspiring Women for Success in Tech", description: "Empowered Tech: Inspiring Women for Success in Tech", link: "https://www.meetup.com/empowered-tech/", imageUrl: "et.jpeg"}
+     - {name: "Tech Workshops for Women by Women", description: "Tech Workshops for Women by Women", link: "https://www.meetup.com/Tech-Workshops-for-Women-by-Women/", imageUrl: "tech_workshops.png"}
+     - {name: "Creative Women East Bay", description: "Creative Women East Bay", link: "https://www.meetup.com/Creative-Women-EastBay/", imageUrl: "creative_women.png"}
+     - {name: "Women Supporting Women Meetup", description: "Women Supporting Women Meetup", link: "https://www.meetup.com/Women-who-support-women-Meetup/", imageUrl: "wsw.jpeg"}
 
 
 posts:
