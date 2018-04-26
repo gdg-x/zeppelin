@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/diversity-inclusion/", text: "Diversity"}
  - {permalink: "/code-of-conduct/", text: "Conduct"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform", text: "Become a speaker"}
+ - {link: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform", text: "Become a speaker"}
+ - {link: "#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,6 @@ eventDate: "June 18–19, 2018"
 typeoutTextValues: '"", "Boston", "Community", "Beantown"'
 typeoutFallback: "Boston"
 heroButtons:
- - {link: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
