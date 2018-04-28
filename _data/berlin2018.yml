@@ -1,4 +1,4 @@
-eventDate: "May 27th, 2018, Berlin<br /> <small>@Sinnerschrader office<br /> (Boxhagener Str. 76, 10245 Berlin)</small>"
+eventDate: "May 27th, 2018, Berlin<br /> <small>@sinnerschrader office<br /> (Boxhagener Str. 76, 10245 Berlin)</small>"
 applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSeY2vEq6NNPm5wEA681mPH_DWJIGjyY_HazYhvEYIWvsqK8iA/viewform"
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSeXjh4qDt2qfew8ZzqBFPMrTJjA4ObuAh625Fv49LoQ1HWA7w/viewform"
 jsunconfSite: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/"
@@ -15,8 +15,8 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "Angular Berlin", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/", imageUrl: "angular-berlin.jpg"}
-     - {name: "Sinnerschrader", description: "Sinnerschrader Berlin", link: "https://sinnerschrader.com/", imageUrl: "sinnerschrader.jpg"}
+     - {name: "Angular Berlin", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/", imageUrl: "angular-berlin.svg"}
+     - {name: "SinnerSchrader", description: "SinnerSchrader Berlin", link: "https://sinnerschrader.com/", imageUrl: "sinnerschrader.png"}
 
 
 
