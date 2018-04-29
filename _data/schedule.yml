@@ -1,41 +1,43 @@
-- 
+-
   date: "2018-06-18"
   dateReadable: "Monday, June 18"
-  tracks: 
+  tracks:
     - {title: "Track 1", color: "#90be4e"}
     - {title: "Track 2", color: "#03a9f4"}
+    - {title: "Workshops", color: "#fbac3f"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001]
+      startTime: "10:00",
+      endTime: "10:45",
+      sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [002]
+      startTime: "11:00",
+      endTime: "11:45",
+      sessionIds: [002]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
-        sessionIds: [503]
+      startTime: "12:00",
+      endTime: "13:00",
+      sessionIds: [503]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [999]
+      startTime: "13:00",
+      endTime: "13:45",
+      sessionIds: [999]
     }
-- 
+-
   date: "2018-06-19"
   dateReadable: "Tuesday, June 19"
-  tracks: 
+  tracks:
     - {title: "Track 1", color: "#90be4e"}
     - {title: "Track 2", color: "#03a9f4"}
-  timeslots: 
+    - {title: "Workshops", color: "#fbac3f"}
+  timeslots:
     - {
-        startTime: "12:00",
-        endTime: "13:00",
-        sessionIds: [503]
+      startTime: "12:00",
+      endTime: "13:00",
+      sessionIds: [503]
     }
     - {
       startTime: "13:00",
