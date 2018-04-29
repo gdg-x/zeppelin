@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   name: "Susan"
   surname: "Bennett"
@@ -19,20 +19,6 @@
   social:
     - {name: "site", link: "https://SusanCBennett.com"}
     - {name: "twitter", link: "https://twitter.com/siriouslysusan"}
--
-  id: 2
-  name: "Bas"
-  surname: "Broek"
-  company: "XING"
-  title: "iOS & tooling developer"
-  bio: |
-   Bas is an iOS & tooling developer working for XING. There, he is working on managing mobile releases on iOS & Android. In his spare time, he is contributing to open source with projects like Swift Weekly Brief, Moya, GitHawk and more.
-  thumbnailUrl: BasBroek.jpg
-  rockstar: false
-  social: 
-    - {name: "site", link: "https://basthomas.github.io"}
-    - {name: "twitter", link: "https://twitter.com/BasThomas"}
-    - {name: "github", link: "https://github.com/BasThomas"}
 -
   id: 7
   name: "Craig"
@@ -232,7 +218,7 @@
   name: "David"
   surname: "Ohayon"
   bio: |
-   David Ohayon is an iOS and firmware engineer at Verily. Prior to that, I worked on the Fabric product suite for Twitter and was later acquired by Google. I love to snowboard, travel, and play with my big pupper, Frankie. 
+   David Ohayon is an iOS and firmware engineer at Verily. Prior to that, I worked on the Fabric product suite for Twitter and was later acquired by Google. I love to snowboard, travel, and play with my big pupper, Frankie.
   thumbnailUrl: DavidOhayon.jpg
   rockstar: false
   social:
@@ -277,7 +263,7 @@
   thumbnailUrl: HarlanHaskins.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/harlanhaskins"}    
+    - {name: "twitter", link: "https://twitter.com/harlanhaskins"}
     - {name: "github", link: "https://github.com/harlanhaskins"}
 -
   id: 24
@@ -288,7 +274,7 @@
   thumbnailUrl: NeemSerra.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/TeamNeem"}    
+    - {name: "twitter", link: "https://twitter.com/TeamNeem"}
 -
   id: 25
   name: "Todd"
@@ -298,8 +284,8 @@
   thumbnailUrl: ToddBurner.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/toddlovesthis"}    
-    - {name: "github", link: "https://github.com/tkburner"}    
+    - {name: "twitter", link: "https://twitter.com/toddlovesthis"}
+    - {name: "github", link: "https://github.com/tkburner"}
 -
   id: 26
   name: "James"

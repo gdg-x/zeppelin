@@ -43,7 +43,7 @@ c4sponsorsUrl: "mailto:conference@swiftfest.io"
 # Navigation
 navigationLinks:
 # - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "#footer", text: "FAQ"}

@@ -6,12 +6,12 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch"
   place: "Dining room"
   service: true
 -
   id: 001
-  title: "Accidentally Famous"
+  title: "Keynote: Accidentally Famous"
   description: "Okay, it turns out there is an actual human being behind the Siri voice: Susan Bennett, singer, voice actor, and the original voice of Siri on the iPhone 4S and beyond. In her presentation, Susan will give you a peek behind the scenes of the Siri recordings, how they were done, and how the scripts should probably become part of the Smithsonian collection! Susan also talks about the voiceover business, which is how she became the voice of Siri in the first place; she does a lot of different character voices and describes how technology dramatically changed the face of voice recording over the last couple of decades. Finally, Susan discusses the very human emotional challenge of being the voice of Siri, and becoming “Accidentally Famous” as well. Susan’s presentation takes a look at technology from an artist’s point of view…from a human point of view, so relax, bring your lunch and your sense of humor!"
   outcome: |
     - How the Siri recordings were done
@@ -22,19 +22,6 @@
   speakers: [1]
   language: en
 #  video: "https://video-url-goes-here"
--
-  id: 002
-  title: "Swift 5 and Beyond: World Domination?"
-  description: "With Swift 5 on the horizon and Swift 6 development soon in full swing, we take a look at the current state of Swift. What's new in Swift 5, and what we can we expect from Swift in the future. Will Swift soon reach World Domination?"
-  outcome: |
-   - Recent additions to Swift and how they can improve your development
-   - What is coming up in future versions of Swift
-   - How Swift might reach beyond iOS, macOS, tvOS and watchOS development
-  subtype: presentation
-  speakers: [2]
-  language: en
-  complexity: "Intermediate" 
-#  presentation: "https://slides-url-goes-here"
 -
   id: 003
   title: "Back to Front to Left Wrist"
@@ -51,19 +38,17 @@
 -
   id: 004
   title: "Patterns & Methodologies for Test Suite Design"
-  description: "For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.\n
-  
-  To help you answer these questions, this presentation will go through the development process of a thoroughly tested audio synthesizer and demonstrate patterns and methodologies that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite."
-  outcome:  |
+  description: |
+    For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.
+
+    To help you answer these questions, this presentation will go through the development process of a thoroughly tested audio synthesizer and demonstrate patterns and methodologies that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite.
+  outcome: |
    - What metrics to consider when measuring the efficacy of your test suite
    - How to intentionally indicate a specific part of your codebase is the source of a failure
    - How a test suite guides your system’s design & eases re-factoring
    - How system boundaries influence a codebase’s testability
    - About collaboration, contract, integration, journey & white box/blackbox tests
    - About system & feature-level testing
-
-
-
   subtype: presentation
   speakers: [3]
   language: en
@@ -74,12 +59,12 @@
   description: "iOS technologies are rapidly evolving with every WWDC announcement, and it is increasingly challenging for iOS developers to keep up with the features, innovations, and best practices. It is especially difficult for those preparing for job interviews to navigate the breadth of information available and focus on the most critical topics and skills. Whether you’re a beginner developer seeking that dream job or a seasoned veteran who is ready for a better one — this talk will prepare you to succeed in your next technical iOS interview."
   outcome: |
    This presentation will give an overview of the most important topics and skills covered in a technical iOS interview including
-     
+
      - typical questions during the various interview stages from phone screens to onsites
      - critical components of the iOS tech stack: UI, networking, storage, design patterns, etc
      - contemporary best practices
      - best resources for preparing for technical interviews
-     
+
    At the end of this session, the audience will be fully ready to tackle their next iOS interview and know where to go to improve their skills and knowledge in specific topics.
   subtype: presentation
   speakers: [5]
@@ -125,13 +110,13 @@
   id: 009
   title: "Mutability: Perks and Quirks"
   description: |
-   Writing Swift, I have a strong preference for immutable objects, why? Because immutability leads to simplicity and clarity since implicit in an object's creation, is a guarantee that it will never change. 
+   Writing Swift, I have a strong preference for immutable objects, why? Because immutability leads to simplicity and clarity since implicit in an object's creation, is a guarantee that it will never change.
 
    It is remarkable how much this single, seemingly, simple fact, can make programs easier to verify, and reason about.
 
    But, in object-oriented environments, blindly defaulting to immutable objects can lead to unintended consequences.
   outcome: |
-   - Why immutability. 
+   - Why immutability.
    - Walk through how I chose an immutable object to solve a problem, how that lead to a perplexing bug, and how I resolved it.
    - Establish when to consider using immutable objects.
   subtype: presentation
@@ -205,7 +190,7 @@
   id: 013
   title: "Under The Hood: Code Signing on iOS"
   description: |
-   Code signing ensures that all mobile apps come from known, trusted sources and haven't been tampered with while in transit to a user's device. Though an integral part of keeping the iOS ecosystem secure, for many developers Apple's code signing methodology remains somewhat cryptic. 
+   Code signing ensures that all mobile apps come from known, trusted sources and haven't been tampered with while in transit to a user's device. Though an integral part of keeping the iOS ecosystem secure, for many developers Apple's code signing methodology remains somewhat cryptic.
 
    We'll begin by defining code signing at a fundamental level-covering the basics of hashing and public-key cryptography-in order to gain a clear understanding of code signing before diving into Apple's implementation on iOS. Unlike other mobile platforms, code signing on iOS involves additional layers of security; we'll describe the functionality of provisioning profiles, certificates and keychains. We'll dive into why Apple's code signing is mandatory, and how it extends the concept of the chain-of-trust from the operating system to the apps, and prevents third parties from loading any potentially harmful code.
   outcome: |
@@ -224,7 +209,7 @@
   title: "Core Bluetooth in Swift: A Primer"
   subtype: presentation
   speakers: [19]
-  language: en 
+  language: en
 -
   id: 015
   title: "Designing and Building With Accessibility in Mind"
@@ -237,7 +222,7 @@
   subtype: presentation
   complexity: "Intermediate"
   speakers: [20]
-  language: en 
+  language: en
 -
   id: 016
   title: "The Art of the Font"
@@ -251,7 +236,7 @@
   subtype: presentation
   complexity: "Advanced"
   speakers: [21]
-  language: en 
+  language: en
 -
   id: 017
   title: "Advanced Dates and Times in Swift"
@@ -262,7 +247,7 @@
   subtype: presentation
   complexity: "Advanced"
   speakers: [22]
-  language: en  
+  language: en
 -
   id: 018
   title: "Secrets and Lies"
@@ -278,7 +263,7 @@
    - How to authenticate users and handle passwords
   subtype: presentation
   speakers: [14]
-  language: en 
+  language: en
 -
   id: 019
   title: "Functional Magic in Swift"
@@ -290,8 +275,8 @@
    - Have good examples of how to use them in their code
   subtype: presentation
   speakers: [24]
-  language: en 
-  complexity: "Intermediate" 
+  language: en
+  complexity: "Intermediate"
 -
   id: 020
   title: "State Restoration - It’s like you never left"
@@ -307,12 +292,12 @@
   subtype: presentation
   complexity: "Advanced"
   speakers: [11]
-  language: en 
+  language: en
 -
   id: 021
   title: "Building an iOS app with Cloud Firestore"
   description: |
-   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries. 
+   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
   outcome: |
     - Read and write data to Firestore from an iOS app
     - Listen to changes in Firestore data in realtime
@@ -321,11 +306,15 @@
   subtype: workshop
   complexity: "Advanced"
   speakers: [25]
-  language: en 
-
+  language: en
 -
   id: 999
-  title: "Stay Tuned - more speakers coming soon!"
+  title: "TBA"
   description: "More speakers coming soon!"
   subtype: presentation
+  speakers: []
+-
+  id: 666
+  title: "-"
+  description: "No talk or workshop in this time slot."
   speakers: []

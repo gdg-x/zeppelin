@@ -1,5 +1,5 @@
 <!-- Begin Speakers List-->
-{% assign all_speakers = site.data.speakers %}
+{% assign all_speakers = site.data.speakers | sort: "surname" %}
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
@@ -31,15 +31,15 @@
                         <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %} 
-                                    {% for session in site.data.sessions %} 
-                                        {% for session_speaker in session.speakers %} 
+                                {% if site.showSessions %}
+                                    {% for session in site.data.sessions %}
+                                        {% for session_speaker in session.speakers %}
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                     {% endif %}{% endfor %}
-                </div> 
+                </div>
         </div>
     </div>
 </section>
