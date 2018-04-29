@@ -313,3 +313,14 @@
   social:
     - {name: "twitter", link: "https://twitter.com/WittedHaddock"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/wittedhaddock/"}
+-
+  id: 27
+  name: "Alexandrea"
+  surname: "Mellen"
+  bio: |
+   Alexandrea lives in Boston and works at callstats.io.
+  thumbnailUrl: AlexandreaMellen.jpg
+  rockstar: false
+  mc: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/alexandreamel"}
