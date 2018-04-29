@@ -20,6 +20,7 @@ partners:
      - {name: "Tech Workshops for Women by Women", description: "Tech Workshops for Women by Women", link: "https://www.meetup.com/Tech-Workshops-for-Women-by-Women/", imageUrl: "tech_workshops.png"}
      - {name: "Creative Women East Bay", description: "Creative Women East Bay", link: "https://www.meetup.com/Creative-Women-EastBay/", imageUrl: "creative_women.png"}
      - {name: "Women Supporting Women Meetup", description: "Women Supporting Women Meetup", link: "https://www.meetup.com/Women-who-support-women-Meetup/", imageUrl: "wsw.jpeg"}
+     - {name: "Shifting Gears: Women in Career Transition", description: "Shifting Gears: Women in Career Transition", link: "http://patriceperillo.com/", imageUrl: "patrice_shifting_gears.png"}
 
 
 posts:
