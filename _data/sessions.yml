@@ -87,6 +87,10 @@
    A lot of developers are quick to say that designers should learn to develop. To me, being able to design is an important skill to have as a developer. We all know that there is a significant divide when it comes to designers and developers. This split limits us to be better developers because sometimes we do not want to see the other side of things. Sometimes we as developers do not understand the designer's point of view. Developers and designers have different specialties that we can leverage from each other.
 
    In this talk, I will discuss the different specialties we can take advantage of from both sides. Additionally, I will cover why you should start picking your designer's brain today. Finally, I will discuss how to get started and what tools designers are using today for doing wireframes to iOS app designs.
+  outcome: |
+   - How design helps you as a developer and how each of us can take advantage of both sides 
+   - Why you should start picking your designers brain 
+   - How to get started and what tools designers are using today
   subtype: presentation
   speakers: [7]
 -
@@ -286,6 +290,52 @@
   subtype: workshop
   complexity: "Advanced"
   speakers: [25]
+-
+  id: 023
+  title: "iOS at Scale(ish)"
+  description: |
+   Wayfair has one of the largest iOS teams in Boston, with around 40 developers all working on a single product. Our codebase is large, it has a sizable amount of legacy code, and it is extremely active and constantly changing. Because of our size and scale, we are starting to encounter problems that impact our entire iOS team. These include:
+
+    - Code ownership and code quality are tough to define and keep consistent.
+    - Our transition to Swift, while having many benefits, has caused compile times to become a bottleneck for our developers. 
+    - As our team and codebase grow, effectively defining and pushing new best practices, architectures, and strategies is becoming more difficult.
+
+   In order to help combat these problems, we decided to start the process of modularizing our codebase.  I believe our work to solve these issues can be applied to teams and organizations of any size. I'm confident that everyone will be able to take something away from my talk, be it big or small, and apply it to their own teams to help them work more efficiently and build great apps.
+  outcome: |
+   - How to define code ownership to reduce side effects
+   - How to promote well structured APIs for all areas of our codebase
+   - How to reduce the effects of Swift's compile times
+   - How to push large scale changes across our team and codebase
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [28]
+-
+  id: 024
+  title: "An Engineer's Code of Ethics"
+  description: |
+    Development does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the weight and value of our work based on that impact.
+    We should have a code of ethics in whatever we do because it allows us to measure our decisions against our values. An engineer is first and foremost a human being, but sometimes engineers ignore ethics and ship unethical features or outright products to users. With this talk I will answer some questions such as
+      - What’s the code of ethics of an engineer?
+      - Why many of the engineers that are working on products tend to not follow this code and push “unethical” code to production? 
+      - What are some examples of unethical features pushed to production?
+      - What we can do as a community to persuade people to follow this code of ethics?
+      
+    The talk will kick off by outlining some of the basic principles an ethical engineer should follow
+      1. A engineer is responsible for the work they put into the world.
+        Engineering is a discipline of action. You are responsible for what you put into the world. It has your name on it. 
+      2. An engineer values impact over form.
+        Engineering does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. 
+      3. Accept full responsibility for their own work.
+        If you write code that is unethical you should expect that you will have consequences for your actions. 
+      4. Work to develop software and related documents that respect the privacy of those who will be affected by that software.
+        As an engineer you should write software and push code to production that doesn’t violate the privacy of the user. 
+    We have a duty as people building products for people on the other end of the screen, to build a product that they can love and trust. But we can only do that if we ourselves are transparent and straightforward in the way we do so and the route we take to get there.
+  outcome: |
+    - How we’re in this situation where many companies push unethical features into production
+    - What we can do as a community to prevent that from happening. 
+  subtype: presentation
+  complexity: "intermediate"
+  speakers: [29]
 -
   id: 999
   title: "Talk to be announced"
