@@ -84,6 +84,18 @@
   social:
     - {name: "twitter", link: "https://twitter.com/vasarhelyia"}
 -
+  id: 46
+  name: "Martin"
+  surname: "Mitrevski"
+  title: "Technical Leader"
+  company: "Netcetera"
+  bio: |
+   Martin works as a technical lead at Netcetera, developing apps in several areas, such as transport, indoor navigation, virtual reality, entertainment and publishing. He is the author of the book “Developing Conversational Interfaces for iOS”. Martin shares his knowledge on his blog martinmitrevski.com and as a conference speaker.
+  thumbnailUrl: MartinMitrevski.jpg
+  rockstar: true
+  social:
+    - {name: "website", link: " https://martinmitrevski.com"}
+-
   id: 8
   name: "Sarp"
   surname: "Erdag"

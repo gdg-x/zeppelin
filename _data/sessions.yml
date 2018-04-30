@@ -287,6 +287,19 @@
   complexity: "Advanced"
   speakers: [25]
 -
+  id: 023
+  title: "Developing Conversational Interfaces for iOS"
+  description: |
+   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
+  outcome: |
+    - Basics of natural language understanding
+    - Steps and technologies to add conversational interfaces in mobile apps
+    - Example implementations
+    - Challenges and best practices
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [46]
+-
   id: 999
   title: "Talk to be announced"
   description: "More speakers coming soon!"
