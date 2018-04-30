@@ -24,12 +24,12 @@
     - {
       startTime: "1:00",
       endTime: "2:00",
-      sessionIds: [019, 006, 666]
+      sessionIds: [019, 006, 003]
     }
     - {
       startTime: "2:00",
       endTime: "3:00",
-      sessionIds: [009, 008, 003]
+      sessionIds: [009, 008, 1511]
     }
     - {
       startTime: "3:00",
@@ -39,12 +39,12 @@
     - {
       startTime: "4:00",
       endTime: "5:00",
-      sessionIds: [999, 999, 999]
+      sessionIds: [999, 999, 998]
     }
     - {
       startTime: "5:00",
       endTime: "6:00",
-      sessionIds: [005, 999, 666]
+      sessionIds: [005, 999, 1511]
     }
     - {
       startTime: "6:00",
@@ -67,12 +67,12 @@
     - {
       startTime: "10:00",
       endTime: "11:00",
-      sessionIds: [015, 014, 666]
+      sessionIds: [015, 014, 998]
     }
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: [012, 017, 666]
+      sessionIds: [012, 017, 1511]
     }
     - {
       startTime: "12:00",
@@ -87,12 +87,12 @@
     - {
       startTime: "2:00",
       endTime: "3:00",
-      sessionIds: [999, 016, 666]
+      sessionIds: [999, 016, 1511]
     }
     - {
       startTime: "3:00",
       endTime: "4:00",
-      sessionIds: [999, 010, 999]
+      sessionIds: [999, 010, 666]
     }
     - {
       startTime: "4:00",
@@ -102,5 +102,5 @@
     - {
       startTime: "5:00",
       endTime: "6:00",
-      sessionIds: [999] # closing keynote
+      sessionIds: [000] # closing keynote
     }

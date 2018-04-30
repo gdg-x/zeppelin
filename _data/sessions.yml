@@ -288,12 +288,28 @@
   speakers: [25]
 -
   id: 999
-  title: "TBA"
+  title: "Talk to be announced"
   description: "More speakers coming soon!"
   subtype: presentation
   speakers: []
 -
+  id: 998
+  title: "Workshop to be announced"
+  description: "More speakers coming soon!"
+  subtype: presentation
+  speakers: []
+-
+  id: 1511
+  title: "The workshop continues…"
+  description: "Each workshop is at least 90 minutes"
+  speakers: []
+-
   id: 666
-  title: "-"
+  title: ""
   description: "No talk or workshop in this time slot."
+  speakers: []
+-
+  id: 000
+  title: "Closing keynote"
+  description: "The closing keynote will be announced Monday May 7th."
   speakers: []
