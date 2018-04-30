@@ -1,108 +1,103 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'Original Assets', '/vendor']
 
+# Miscellaneous
+googleMapsAPIKey: "AIzaSyAvGdd7lRTgZrGDwURX87xxBuina1LL43k"
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
-permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+title: "SwiftFest 2018"
+email: "conference@swiftfest.io"
+description: "The most community driven Swift conference!"
+baseurl:
+url: "swiftfest.io"
+googleAnalyticsTrackingId: "UA-3309084-18"
+googleAnalyticsSiteUrl: "swiftfest.io"
+siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Giorgio Natili, Matt Dias, Lucy Monahan, Barbara Menicucci, Jeff O'Leary, Zev Eisenberg, Sean Olszewski, Andres Pineda"
+organizerAlternateName: "SwiftFest Boston 2018"
+organizerDescription: "Open and volunteer geek community who create exciting events and share experience about mobile development technology with passion. We do love Swift and everything mobile!"
+organizerEmail: "conference@swiftfest.io"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://swiftfest.io"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, swiftfest, boston, programming, swift, apple, ios, macos, tvos, watchos, developers"
+twitterAccount: "@theSwiftFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+c4pUrl: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform"
+c4sponsorsUrl: "mailto:conference@swiftfest.io"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "#footer", text: "FAQ"}
+ - {permalink: "/diversity-inclusion/", text: "D&I"}
+ - {permalink: "/code-of-conduct/", text: "Conduct"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "SwiftFest <typeout> 2018" # TODO: typeout?
+eventDate: "June 18–19, 2018"
+typeoutTextValues: '"", "Boston", "Community", "Beantown"'
+typeoutFallback: "Boston"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About SwiftFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.png", text: "<p><strong>SwiftFest</strong> is a different way to experience <strong>iOS development</strong> that brings together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment entirely focused on <strong>Swift</strong>. The most community-driven Swift conference is happening for the first time in <strong>Boston</strong> – <strong>June 18–19</strong>, 2018.</p>" }
+ - {title: "Workshops", image: "workshop.png", text: "At <b>SwiftFest</b> we'll be offering workshops along with talks and networking with some of the most innovative developers in the <b>Swift</b> space. Come along and elevate your <b>Swift</b> and <b>iOS</b> skills!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
-
-# Latest News Block
-latestNewsTitle: "Latest news"
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Swift"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "catch the videos later!"} #TODO: tagline appropriate?
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Featured Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationLink: "https://www.huntingtontheatre.org/about/venue/pavilion/"
+eventStreetAddress: "Calderwood Pavilion<br />527 Tremont Street"
+eventAddressLocality: "Boston"
+eventAddressLocalityRegion: "MA"
+eventPostalCode: "02116"
+eventAddressCountry: "USA"
+eventStartTime: "9:00 am"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "6:00 pm"
+eventPlaceCoordinates: "42.344797, -71.070950"
+mapCenterCoordinates: "42.344848, -71.072060"
+mapMobileCenterCoordinates: "42.344848, -71.072060"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,100 +105,101 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Calderwood Pavilion"
+venueFeatures: ["2 full theatrical stages", "Seating for 370", "Located in downtown Boston"]
 
 # Tweets Feed Block
+# TODO: need to set up tweetledee or delete this section https://github.com/tweetledee/tweetledee
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "swiftfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeAction: "https://gnstudio.us6.list-manage.com/subscribe/post"
+subscribeHiddenU: "66c929ea69a19ef75fd17625d"
+subscribeHiddenId: "4ceb4a99c2"
+subscribeInfo: "Find out about new speaker announcements and other SwiftFest news."
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Tickets"
+ticketsInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th–19th) and exhibitor booths, a ticket to the official conference party on June 18th for you and a guest, morning snack, lunch, and afternoon snack on both days."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  name: "Super Early Bird"
+  price: "299"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+  buyButtonText: "Sold Out!"
+  validFrom: "2018-1-1T00:00"
+  validThrough: "2018-04-20T23:59"
+  soldOut: false
+  disabled: false
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  name: "Early Bird"
+  price: "399"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
+  validFrom: "2018-04-21T00:00"
+  validThrough: "2018-05-04T23:59"
+  soldOut: false
+  disabled: false
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  price: "99"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
+  validFrom: "2018-1-1T00:00"
+  validThrough: "2018-06-18T9:00"
+  soldOut: false
+  disabled: false
   soldOutText: "Sold Out"
+ -
+   name: "Super Early Bird Group"
+   price: "249.75"
+   priceCurrency: "USD each"
+   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+   buyButtonText: "Buy Now"
+   additionalInfo: "May be purchased in groups of 4."
+   validFrom: "2018-1-1T00:00"
+   validThrough: "2018-05-31T23:59"
+   soldOut: false
+   disabled: false
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=TheSwiftFest", icon: "twitter"}
+ - {link: "https://www.facebook.com/theSwiftFest", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
- -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:conference@swiftfest.io", text: "conference@swiftfest.io"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+   - {permalink: "/diversity-inclusion/", text: "Diversity &amp; Inclusion"}
+   - {permalink: "/logistics/", text: "Logistics"}
 
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "SwiftFest is put on by a group of community builders in Boston passionate about Swift and mobile related technologies. We love bringing together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment to engage in technical discussions and to have fun."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -213,17 +209,17 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "40.046741, -79.244695"
+logisticsMapMobileCenterCoordinates: "42.412080, -71.733608"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsImage: "ship.jpg"
+directionDetailsTitle: "Get around Boston"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Logan Airport is right next to the city. It is easily reachable by car, public transport, or taxi. More information is available at the <a href="http://www.massport.com/logan-airport/">airport website</a>.'}
+ - {title: "Public Transit", information: 'You can take <a href="https://mbta.com">MBTA</a> buses and trains anywhere in Boston. You can take the Silver Line bus from the airport, but use Apple or Google Maps to find the best route for your time of day.'}
+ - {title: "Hotels", information: 'Boston has a large range of hotels to choose from. We have some suggestions but you will have no problem finding a hotel to suit your preferences.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -231,61 +227,16 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.reverehotel.com/", text: "The Revere Hotel (Official SwiftFest Hotel)"}
+     - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
+     - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel"}
+     - {link: "http://www.wboston.com/", text: "W Boston"}
+     - {link: "https://www.airbnb.com/s/Boston--MA", text: "Airbnb"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy Tickets"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469", text: "Event Info"}

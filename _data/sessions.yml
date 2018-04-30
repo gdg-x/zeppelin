@@ -6,54 +6,360 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch"
   place: "Dining room"
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Keynote: Accidentally Famous"
+  description: "Okay, it turns out there is an actual human being behind the Siri voice: Susan Bennett, singer, voice actor, and the original voice of Siri on the iPhone 4S and beyond. In her presentation, Susan will give you a peek behind the scenes of the Siri recordings, how they were done, and how the scripts should probably become part of the Smithsonian collection! Susan also talks about the voiceover business, which is how she became the voice of Siri in the first place; she does a lot of different character voices and describes how technology dramatically changed the face of voice recording over the last couple of decades. Finally, Susan discusses the very human emotional challenge of being the voice of Siri, and becoming “Accidentally Famous” as well. Susan’s presentation takes a look at technology from an artist’s point of view…from a human point of view, so relax, bring your lunch and your sense of humor!"
+  outcome: |
+    - How the Siri recordings were done
+    - Where Siri and other digital voices come from
+    - Insight into the voiceover and recording businesses
+    - How to take the “high road” when faced with a challenge!
   subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [1]
+#  video: "https://video-url-goes-here"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
+  title: "Back to Front to Left Wrist"
+  description: "From the onset, Swift was designed to take over the world — or at least the programming world. So it’s no surprise that the development community is excited to bring it’s power to as many platforms as possible. Our eager community was given Swift on Apple platforms, but no sooner than it was open sourced did we get the power to write Swift on Linux (and some people have even figured out how to run it on Android)! In this workshop, we’re going to focus on the first two. Together we’ll build the foundations of a restaurant reservation service. We’ll start by making a server, written in Swift, for our app to interact with. Once we have the server and the app in place, we’ll build a watchOS app so you can our service without having to dig out your phone!"
+  outcome: |
+   - How to build and deploy a Swift server, using the Perfect framework
+   - How to build a simple iPhone app that will interact with data from our server
+   - How to more easily debug cross-platform issues
+   - How to build a simple Apple Watch app to expand upon already rich features
+  subtype: workshop
+  complexity: "Intermediate"
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Patterns & Methodologies for Test Suite Design"
+  description: |
+    For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.
+
+    To help you answer these questions, this presentation will go through the development process of a thoroughly tested audio synthesizer and demonstrate patterns and methodologies that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite.
+  outcome: |
+   - What metrics to consider when measuring the efficacy of your test suite
+   - How to intentionally indicate a specific part of your codebase is the source of a failure
+   - How a test suite guides your system’s design & eases re-factoring
+   - How system boundaries influence a codebase’s testability
+   - About collaboration, contract, integration, journey & white box/blackbox tests
+   - About system & feature-level testing
+  subtype: presentation
+  speakers: [3]
+  complexity: "Intermediate"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "iOS Interviews Don’t Have To Be Hard"
+  description: "iOS technologies are rapidly evolving with every WWDC announcement, and it is increasingly challenging for iOS developers to keep up with the features, innovations, and best practices. It is especially difficult for those preparing for job interviews to navigate the breadth of information available and focus on the most critical topics and skills. Whether you’re a beginner developer seeking that dream job or a seasoned veteran who is ready for a better one — this talk will prepare you to succeed in your next technical iOS interview."
+  outcome: |
+   This presentation will give an overview of the most important topics and skills covered in a technical iOS interview including
+
+     - typical questions during the various interview stages from phone screens to onsites
+     - critical components of the iOS tech stack: UI, networking, storage, design patterns, etc
+     - contemporary best practices
+     - best resources for preparing for technical interviews
+
+   At the end of this session, the audience will be fully ready to tackle their next iOS interview and know where to go to improve their skills and knowledge in specific topics.
+  subtype: presentation
+  speakers: [5]
+-
+  id: 006
+  title: "The Simple Layout of a Complex Interface"
+  description: |
+   Understanding Auto Layout is your best chance to write UI code you can be proud of. Its power often underestimated, its features easily misused, I find it overall less appreciated than it could be, if more widely understood.
+
+   This talk is aiming to show how relying heavily on Auto Layout makes you move faster and be more confident writing UI code. Working with the safe area, showing off custom UILayoutGuides and making use of the controversal UIStackViews, we will walk through the simple code of a more complex interface together.
+  outcome: |
+   - How to express layout fast and simple, without touching Interface Builder
+   - How Auto Layout helps to reduce state in your views / view controllers
+   - Why the safe area is great and how to rely on it without knowing what device your code is running on
+   - When to use custom UILayoutGuides and how they help to avoid using numeric values all around
+   - UIStackViews: why they are great, but controversial. How to work with stack views in scrollable layouts
+  subtype: presentation
+  speakers: [6]
+-
+  id: 007
+  title: "Collaboration by Design! “What’chu talkin’ ‘bout, Willis?”"
+  description: |
+   A lot of developers are quick to say that designers should learn to develop. To me, being able to design is an important skill to have as a developer. We all know that there is a significant divide when it comes to designers and developers. This split limits us to be better developers because sometimes we do not want to see the other side of things. Sometimes we as developers do not understand the designer's point of view. Developers and designers have different specialties that we can leverage from each other.
+
+   In this talk, I will discuss the different specialties we can take advantage of from both sides. Additionally, I will cover why you should start picking your designer's brain today. Finally, I will discuss how to get started and what tools designers are using today for doing wireframes to iOS app designs.
+  outcome: |
+   - How design helps you as a developer and how each of us can take advantage of both sides 
+   - Why you should start picking your designers brain 
+   - How to get started and what tools designers are using today
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 008
+  title: "Story of 2 indie devs, 1M+ annual revenue"
+  description: |
+   My talk will tell our 3 year story as a 2 person independent developer team making the two popular photo and video editing apps Typorama and Videorama, reaching 6M downloads worldwide, generating 1M+ annual revenue on the App Store. I’ll be talking about both the technical and the business tactics and strategies we used to drive downloads and create products loved and used by millions.
+  outcome: |
+   Learning and using the latest programming technologies and trends is cool, but if you combine that with a business and marketing know-how, developers have a huge potential in their hands to create super profitable micro businesses just on their own. Making a living off the App Store is getting harder each day, and I’ll help the audience learn how to hack their way to success.
+  subtype: presentation
+  complexity: "Intermediate"
+  speakers: [8]
+-
+  id: 009
+  title: "Mutability: Perks and Quirks"
+  description: |
+   Writing Swift, I have a strong preference for immutable objects, why? Because immutability leads to simplicity and clarity since implicit in an object's creation, is a guarantee that it will never change.
+
+   It is remarkable how much this single, seemingly, simple fact, can make programs easier to verify, and reason about.
+
+   But, in object-oriented environments, blindly defaulting to immutable objects can lead to unintended consequences.
+  outcome: |
+   - Why immutability.
+   - Walk through how I chose an immutable object to solve a problem, how that lead to a perplexing bug, and how I resolved it.
+   - Establish when to consider using immutable objects.
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [12]
+
+-
+  id: 022
+  title: "NSURLProtocol: Stupid Secrets, Scary Swizzling, Sorry Safety"
+  description: |
+   Known as “Apple-sanctioned man-in-the-middle attacks,” the `NSURLProtocol` class is a powerful Foundation abstraction that intercepts network requests at runtime before they hit the URL loading system. It has been used to implement proxy-like functionality, stub HTTP responses, eavesdrop on your 3rd party libraries’ network activity during production deployments, arbitrarily transform `URLRequest`s on the fly, or implement custom protocol schemes. Using this class well requires understanding of how it behaves at runtime, and there are a few runtime gotchas that you must know to handle!
+  outcome: |
+   - How to simplify test suites involving API calls by using `NSURLProtocol` to stub server responses
+   - The ability to see HTTP data that 3rd party libraries and frameworks share with their hosts
+   - A refresher on the few different method dispatch types in Swift
+   - The dark magic that is method swizzling (exchanging method implementations of function pointers at runtime)
+   - How to swizzle their way around a critical bug (Apple erroneously sets all HTTP Bodies to `nil`) in `NSURLProtocol`
+   - The ability to implement API versioning, synthetic responses, remote cache invalidation, and API rerouting on the client (a lighter weight HAProxy or Varnish)
+  subtype: presentation
+  speakers: [26]
+  complexity: "Intermediate"
+
+-
+  id: 010
+  title: "Swift's Future Belongs To Those Who Show Up"
+  description: |
+   Swift Evolution is an exhausting thing: high traffic, some signal to noise issues, and a lot of work to follow the ins outs and details. Without voices from the wider developer community, it may not serve the interests you prioritize in your day to day work. From safety to convenience, migration to stability, here's how you can be a part of the process even if you only have a very little time to spend. Apple's open sourced language represents the first time there's a fully open bug reporting system and a way for anyone no matter their background to have their opinions heard and considered. If you're new to Swift Evolution or gave up on it in frustration, let Erica Sadun show you how to make the most of your limited time in having a say in the future of the language.
+  subtype: presentation
+  speakers: [13]
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Great Forms 101"
+  description: |
+   Let's be honest here: forms are probably not the shining star of your app. But they're one of the first things a user sees, and can huge stumbling blocks to user trust if you don't give them some thought.
+
+   So take your forms from 😡 to 😍! We'll cover UI basics, implementation details, and UX strategies for building the best forms on the App Store, all with real-world details you can take right back to your desk and start using.
+
+   After this, your users might even wish for more forms.
+  outcome: |
+    - Building forms that let your users quickly and easily give you information.
+    - Understanding how to get the data your app needs.
+    - Learning how to get the user back to the app they love.
+  subtype: presentation
+  complexity: "Intermediate"
+  speakers: [16]
+-
+  id: 012
+  title: "Sketching UI in Playgrounds"
+  description: |
+   The beginning will be a discussion on the struggle/arguments that iOS developers have over which way is better for creating UIs: Storyboards or Programmatic.
+
+   Then, I'll present a middle ground that is the main topic: building UIs in Playgrounds. This is a technique that the Kickstarter team uses in their app (which is open source), and I use that as a starting point, but I have developed practices around it to make it more accessible.
+
+   We'll talk about some of the benefits you get that neither Storyboards or traditional programmatic UI have (access to app behavior, animations, TDD style, very fast edit/run cycles for prototyping)
+
+   There will be some live-coding to give the feel of what it's like to do this in the context of an app (a playground that is part of a larger app project).
+  outcome: |
+    - Understanding how to work in a hybrid environment with the visual experience you get in a Storyboard, but the benefits you get from a programmatic UI (creating the UI in a playground).
+    - Learning all the tips and tricks to improve your efficiency while working in hybrid mode.
+    - Mastering programmatic UI will be easier because you can see the effect immediately without running the app.
+  subtype: presentation
+  speakers: [17]
+  complexity: "Intermediate"
+-
+  id: 013
+  title: "Under The Hood: Code Signing on iOS"
+  description: |
+   Code signing ensures that all mobile apps come from known, trusted sources and haven't been tampered with while in transit to a user's device. Though an integral part of keeping the iOS ecosystem secure, for many developers Apple's code signing methodology remains somewhat cryptic.
+
+   We'll begin by defining code signing at a fundamental level-covering the basics of hashing and public-key cryptography-in order to gain a clear understanding of code signing before diving into Apple's implementation on iOS. Unlike other mobile platforms, code signing on iOS involves additional layers of security; we'll describe the functionality of provisioning profiles, certificates and keychains. We'll dive into why Apple's code signing is mandatory, and how it extends the concept of the chain-of-trust from the operating system to the apps, and prevents third parties from loading any potentially harmful code.
+  outcome: |
+   - Attendees can expect to walk away with a more firm understanding of why code signing is necessary, what it accomplishes, and how it protects you and your users.
+    - Attendees can expect answers to questions such as:
+     - What’s a keychain for? What are certificates and provisioning profiles?
+     - How do these objects interact during the code signing process?
+     - How does code signing protect me and my users?
+    - We will equip attendees with the knowledge they need to build more complex applications and successfully release apps by creating clarity around Apple’s code signing methodology.
+  subtype: presentation
+  speakers: [18]
+  complexity: "Advanced"
+-
+  id: 014
+  title: "Core Bluetooth in Swift: A Primer"
+  subtype: presentation
+  speakers: [19]
+-
+  id: 015
+  title: "Designing and Building With Accessibility in Mind"
+  description: |
+   Accessibility is an often ignored part of iOS development, partly because much of it is “baked in” to the OS and “just works” most of the time. However, building custom UI elements and interactions can lead to a breakdown of accessibility. In this talk, we’ll explore VoiceOver, the screen reader that allow many disabled users to interact with your app. We’ll walk through a non-accessible app and optimize it for VoiceOver users. Finally, we’ll go over common pitfalls and solutions to keep in mind when designing and building accessible experiences.
+  outcome: |
+    - Having a better understanding of VoiceOver.
+    - Understanding how run a quick accessibility audit to find places in your app that could use improvement.
+    - Being able to argue why it’s important to invest in accessibility and have concrete steps on how to make an app easier to use.
+  subtype: presentation
+  complexity: "Intermediate"
+  speakers: [20]
+-
+  id: 016
+  title: "The Art of the Font"
+  description: |
+   As developers we often take the text rendering system for granted. As a fundamental part of both iOS and macOS we often don't give it a second thought. It's just there. This session will explore: the transition from 7 segment LED text to the beautiful fonts we use today, translate the vocabulary designers use when describing text layout, and conclude by examining TextKit and how to get direct access to font paths.
+  outcome: |
+    A better understanding of
+    - Fonts and font formats.
+    - Text layout vocabulary.
+    - A deeper understanding of text rendering in iOS and macOS.
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [21]
+-
+  id: 017
+  title: "Advanced Dates and Times in Swift"
+  description: |
+   As a developer who’s been bitten time and time again by Daylight Saving Time and related bugs, by now you’ve mastered the art of wrangling dates and times in Swift. Or have you? This talk will cover some of the more inscrutable topics of dates and times: how many seconds are there in a particular year? How do I get a notification to fire at exactly 9:00 AM on the user’s phone? What if my user isn’t using the Gregorian calendar and I want to draw a calendar? In this talk, we’ll cover all this and more, drawing on the Swift standard library and Apple’s system SDKs to manipulate the very fabric of time itself… or at least it’ll feel that way by the time we’re done.
+  outcome: |
+   This session covers more advanced date and time code. An attendee will be able to reliably schedule notifications in the user's local time, find dates in the future, and even work with calendars with different numbers of months, days in the week, and more!
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [22]
+-
+  id: 018
+  title: "Secrets and Lies"
+  description: |
+   Security is hard. It’s filled with complex math and obscure system details, but that isn’t why it’s hard. Security is hard because it requires a different way of thinking. It’s about what systems really do rather than what they’re supposed to do. It’s about making things fail rather than succeed. It’s about controls and response more often than code and algorithms. And at its best it’s invisible and thankless. You never know all the bad things that didn’t happen.
+   Security is critical. In our hyper-connected systems filled with sensitive information, we need developers who understand how to think about security and how to implement secure systems. Security requires expertise, but it can’t just be left to experts. It has to be a part of every stage of development. No one wants to be the next company listed under an embarrassing headline.
+  outcome: |
+   - How to think about security and apply it at each stage of development
+   - What problems security can and can’t solve
+   - The basic tools and techniques attackers use
+   - How to make your systems resilient against attack
+   - The difference between encryption and obfuscation and how to use each correctly
+   - How to authenticate users and handle passwords
+  subtype: presentation
+  speakers: [14]
+-
+  id: 019
+  title: "Functional Magic in Swift"
+  description: |
+   Do you find yourself creating messy code in order to transform Swift optionals? Do you wish you harnessed the functional power of Swift more? This talk is for you! Come learn about creating elegant code with map, flatMap, filter, and reduce through some cupcake magic.  Let's make your code more Swifty!
+  outcome: |
+   - Functional programming building blocks
+   - Manipulating collections with four functions: `map`, ~~`flatMap`~~ `compactMap`, `filter`, and `reduce`
+   - Have good examples of how to use them in their code
+  subtype: presentation
+  speakers: [24]
+  complexity: "Intermediate"
+-
+  id: 020
+  title: "State Restoration - It’s like you never left"
+  description: |
+   Part of making an iOS app an enjoyable experience involves some magic… err illusion. One of those illusions is that if a user leaves your app and it goes to the background, when they return everything will be exactly as they left it. The reality is that, with few exceptions, your app will actually be suspended, then deallocated by the operating system. Without a little trickery, when users come back to your app they’ll be greeted with a launch screen and have to start their navigation experience from scratch. Join me as we talk about some of the tricks you can use to ensure that when users come back to your app everything appears as if they never left.
+  outcome: |
+    - Why state restoration is important.
+    - How to set up basic state restoration using Storyboards.
+    - Best practices for restoring scroll position in TableView and UICollectionViews.
+    - How to leverage the state restoration API for custom situations.
+    - When to forego state restoration and just start over.
+    - A few tricks for improving app launch speed.
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [11]
+-
+  id: 021
+  title: "Building an iOS app with Cloud Firestore"
+  description: |
+   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
+  outcome: |
+    - Read and write data to Firestore from an iOS app
+    - Listen to changes in Firestore data in realtime
+    - Use Firebase Authentication and security rules to secure Firestore data
+    - Write complex Firestore queries
+  subtype: workshop
+  complexity: "Advanced"
+  speakers: [25]
+-
+  id: 023
+  title: "iOS at Scale(ish)"
+  description: |
+   Wayfair has one of the largest iOS teams in Boston, with around 40 developers all working on a single product. Our codebase is large, it has a sizable amount of legacy code, and it is extremely active and constantly changing. Because of our size and scale, we are starting to encounter problems that impact our entire iOS team. These include:
+
+    - Code ownership and code quality are tough to define and keep consistent.
+    - Our transition to Swift, while having many benefits, has caused compile times to become a bottleneck for our developers. 
+    - As our team and codebase grow, effectively defining and pushing new best practices, architectures, and strategies is becoming more difficult.
+
+   In order to help combat these problems, we decided to start the process of modularizing our codebase.  I believe our work to solve these issues can be applied to teams and organizations of any size. I'm confident that everyone will be able to take something away from my talk, be it big or small, and apply it to their own teams to help them work more efficiently and build great apps.
+  outcome: |
+   - How to define code ownership to reduce side effects
+   - How to promote well structured APIs for all areas of our codebase
+   - How to reduce the effects of Swift's compile times
+   - How to push large scale changes across our team and codebase
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [28]
+-
+  id: 024
+  title: "An Engineer's Code of Ethics"
+  description: |
+    Development does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the weight and value of our work based on that impact.
+    We should have a code of ethics in whatever we do because it allows us to measure our decisions against our values. An engineer is first and foremost a human being, but sometimes engineers ignore ethics and ship unethical features or outright products to users. With this talk I will answer some questions such as
+      - What’s the code of ethics of an engineer?
+      - Why many of the engineers that are working on products tend to not follow this code and push “unethical” code to production? 
+      - What are some examples of unethical features pushed to production?
+      - What we can do as a community to persuade people to follow this code of ethics?
+      
+    The talk will kick off by outlining some of the basic principles an ethical engineer should follow
+      1. A engineer is responsible for the work they put into the world.
+        Engineering is a discipline of action. You are responsible for what you put into the world. It has your name on it. 
+      2. An engineer values impact over form.
+        Engineering does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. 
+      3. Accept full responsibility for their own work.
+        If you write code that is unethical you should expect that you will have consequences for your actions. 
+      4. Work to develop software and related documents that respect the privacy of those who will be affected by that software.
+        As an engineer you should write software and push code to production that doesn’t violate the privacy of the user. 
+    We have a duty as people building products for people on the other end of the screen, to build a product that they can love and trust. But we can only do that if we ourselves are transparent and straightforward in the way we do so and the route we take to get there.
+  outcome: |
+    - How we’re in this situation where many companies push unethical features into production
+    - What we can do as a community to prevent that from happening. 
+  subtype: presentation
+  complexity: "intermediate"
+  speakers: [29]
+-
+  id: 999
+  title: "Talk to be announced"
+  description: "More speakers coming soon!"
+  subtype: presentation
+  speakers: []
+-
+  id: 998
+  title: "Workshop to be announced"
+  description: "More speakers coming soon!"
+  subtype: presentation
+  speakers: []
+-
+  id: 1511
+  title: "The workshop continues…"
+  description: "Each workshop is at least 90 minutes"
+  speakers: []
+-
+  id: 666
+  title: ""
+  description: "No talk or workshop in this time slot."
+  speakers: []
+-
+  id: 000
+  title: "Closing keynote"
+  description: "The closing keynote will be announced Monday May 7th."
+  speakers: []
