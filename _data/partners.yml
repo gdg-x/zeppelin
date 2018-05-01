@@ -1,14 +1,14 @@
 - 
   group: "Diamond"
   elements: 
-    - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/", imageUrl: "google.svg"}
+    - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/", imageUrl: "noesis.jpg"}
 - 
   group: "Gold"
   elements: 
-    - {name: "MicroFocus", description: "MicroFocus", link: "https://www.microfocus.com/pt-br/", imageUrl: "google.svg", width: "120px"}
-    - {name: "XpandIT", description: "XpandIT", link: "https://www.xpand-it.com/pt-pt/", imageUrl: "gdg-lviv.svg", width: "120px"}
+    - {name: "MicroFocus", description: "MicroFocus", link: "https://www.microfocus.com/pt-br/", imageUrl: "microfocus.svg", width: "150px"}
+    - {name: "XpandIT", description: "XpandIT", link: "https://www.xpand-it.com/pt-pt/", imageUrl: "xpandit.png", width: "150px"}
 - 
   group: "Silver"
   elements: 
-    - {name: "WinTrust", description: "WinTrust", link: "http://www.wintrust.pt/", imageUrl: "google.svg"}
-    - {name: "InnoWave Technologies", description: "InnoWave Technologies", link: "http://www.innowave-technologies.com/", imageUrl: "gdg-lviv.svg"}
+    - {name: "WinTrust", description: "WinTrust", link: "http://www.wintrust.pt/", imageUrl: "wintrust.png"}
+    - {name: "InnoWave Technologies", description: "InnoWave Technologies", link: "http://www.innowave-technologies.com/", imageUrl: "innowave.png"}
