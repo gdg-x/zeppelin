@@ -34,17 +34,17 @@
     - {
       startTime: "3:00",
       endTime: "4:00",
-      sessionIds: [020, 007, 666]
+      sessionIds: [020, 999, 666]
     }
     - {
       startTime: "4:00",
       endTime: "5:00",
-      sessionIds: [999, 999, 998]
+      sessionIds: [999, 023, 998]
     }
     - {
       startTime: "5:00",
       endTime: "6:00",
-      sessionIds: [005, 999, 1511]
+      sessionIds: [005, 007, 1511]
     }
     - {
       startTime: "6:00",

@@ -292,6 +292,19 @@
   speakers: [25]
 -
   id: 023
+  title: "Developing Conversational Interfaces for iOS"
+  description: |
+   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
+  outcome: |
+    - Basics of natural language understanding
+    - Steps and technologies to add conversational interfaces in mobile apps
+    - Example implementations
+    - Challenges and best practices
+  subtype: presentation
+  complexity: "Advanced"
+  speakers: [46]
+-
+  id: 023
   title: "iOS at Scale(ish)"
   description: |
    Wayfair has one of the largest iOS teams in Boston, with around 40 developers all working on a single product. Our codebase is large, it has a sizable amount of legacy code, and it is extremely active and constantly changing. Because of our size and scale, we are starting to encounter problems that impact our entire iOS team. These include:
