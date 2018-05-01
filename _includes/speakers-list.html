@@ -1,5 +1,7 @@
 <!-- Begin Speakers List-->
-{% assign all_speakers = site.data.speakers | sort: "surname" %}
+{% assign keynote_speaker = site.data.speakers | where: 'id', 1 %}
+{% assign all_speakers_without_keynote = site.data.speakers | where_exp: 'speaker', 'speaker.id != 1' | sort: "surname" %}
+{% assign all_speakers = keynote_speaker | concat: all_speakers_without_keynote %}
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
