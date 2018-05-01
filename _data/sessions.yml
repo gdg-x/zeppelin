@@ -304,7 +304,7 @@
   complexity: "Advanced"
   speakers: [46]
 -
-  id: 023
+  id: 024
   title: "iOS at Scale(ish)"
   description: |
    Wayfair has one of the largest iOS teams in Boston, with around 40 developers all working on a single product. Our codebase is large, it has a sizable amount of legacy code, and it is extremely active and constantly changing. Because of our size and scale, we are starting to encounter problems that impact our entire iOS team. These include:
@@ -323,7 +323,7 @@
   complexity: "Advanced"
   speakers: [28]
 -
-  id: 024
+  id: 025
   title: "An Engineer's Code of Ethics"
   description: |
     Development does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the weight and value of our work based on that impact.
