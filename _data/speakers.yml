@@ -322,3 +322,25 @@
   mc: true
   social:
     - {name: "twitter", link: "https://twitter.com/alexandreamel"}
+-
+  id: 28
+  name: "Brad"
+  surname: "Smith"
+  bio: |
+   Brad Smith is a Senior iOS Engineer at Wayfair. He is a southern transplant into New England that is still coming to terms with weather other than "Hot" and "Very Hot". He has worked on iOS at various mobile agencies and product companies over the last 5 years. While not writing and reviewing code, he spends his time snowboarding, playing ultimate, and eating lots of yummy food.
+  thumbnailUrl: BradSmith.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/bsmithers11"}
+    - {name: "github", link: "https://github.com/bsmith11"}
+-
+  id: 29
+  name: "Agis"
+  surname: "Tsaraboulidis"
+  bio: |
+   Agis Tsaraboulidis is the co-founder and CTO of Iris Health - a modern day critical health service. As an engineer, he’s focused on building products that have large and positive impact. In his spare time, you’ll find him working on side projects, taking photographs or reading a book.  
+  thumbnailUrl: AgisTsaraboulidis.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/agisilaosts"}
+    - {name: "site", link: " https://agisilaos.github.io"}
