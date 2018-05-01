@@ -52,7 +52,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
- - {link: "#tickets", text: "Buy tickets"}
+ - {link: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
