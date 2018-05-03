@@ -344,3 +344,27 @@
   social:
     - {name: "twitter", link: "https://twitter.com/agisilaosts"}
     - {name: "site", link: " https://agisilaos.github.io"}
+-
+  id: 30
+  name: "Arthur"
+  surname: "Sabintsev"
+  bio: |
+   Arthur is one of the lead iOS engineers at The Washington Post. He currently leads mobile development on the "Arc Publishing" team, building native iOS and Android apps for news publishers around the world. He has also taught Swift & Objective-C at various code schools, acted as a technical reviewer on books on Swift, and over the last 6 years, has authored a couple dozen open source libraries for the iOS community. Before leaving his Ph.D. program, he was an experimental nuclear physicist who worked underground colliding subatomic and subnuclear particles.  
+  thumbnailUrl: ArthurSabintsev.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/ArtSabintsev"}
+    - {name: "github", link: "http://github.com/ArtSabintsev"}
+    - {name: "site", link: "http://sabintsev.com/"}
+-
+  id: 31
+  name: "Ray"
+  surname: "Deck"
+  bio: |
+   Ray is CTO of Element55 in Cambridge, MA. Element55 provides automatic and mobile time capture solutions to major professional service firms around the world. Ray's initial background was as a quantitative analyst at dotcom-era startups, but after a shift to software, Ray has been developing developers to make products in data and mobile since the days of Blackberry. Machine learning has brought this full circle! 
+  thumbnailUrl: RayDeck.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/ray_deck"}
+    - {name: "github", link: "https://github.com/rhdeck"}
+    - {name: "linkedin", link: "https://linkedin.com/in/raydeck"}

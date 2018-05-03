@@ -294,12 +294,13 @@
   id: 023
   title: "Developing Conversational Interfaces for iOS"
   description: |
-   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
+   The evolution of user interfaces in mobile apps continues with the most natural way of expressing the user’s wishes - their voice. Understanding what the users say is not an easy task.
+
+   In this talk, you will learn about several speech analysis approaches that help you in this challenging task, from Apple's brand new Core ML and SiriKit, to Google's Dialogflow and Facebook's Wit.ai, along with some well known Natural Language Processing algorithms like the TF-IDF.
   outcome: |
-    - Basics of natural language understanding
-    - Steps and technologies to add conversational interfaces in mobile apps
-    - Example implementations
-    - Challenges and best practices
+    - Introduction to Conversational Interfaces
+    - Getting to know several approaches to understanding language on iOS with Swift
+    - Learn what are the challenges we face when we develop voice responsive apps
   subtype: presentation
   complexity: "Advanced"
   speakers: [46]
@@ -346,6 +347,41 @@
   subtype: presentation
   complexity: "intermediate"
   speakers: [29]
+-
+  id: 026
+  title: "Scaling iOS Architecture"
+  description: |
+   At Arc Publishing, a new venture that is a part of The Washington Post, we have begun building native mobile applications for other news publishers, like The LA Times, The Salt Lake Tribune, and The Globe and Mail, to name a few. We're now in the process of scaling to 50 iOS apps, that have millions of users, wildly different feature sets, and that have to be kept synchronized with each other. To achieve this feat with a small team, we've had to template our architecture and automate our entire development and deployment process. Come learn how we built a scalable white label iOS app architecture in Swift that powers some of the App Store's top 150 news apps.
+  outcome: |
+   - How to think about abstract and meta-type-heavy architecture 
+   - How to build modular plug-and-play architecture using Swift
+   - How to properly perform a cost-benefit analysis when choosing open source projects for high visibility apps
+   - How to make optimal use of CocoaPods, BuddyBuild, Jenkins, Fastlane, and custom shell scripts to automate everything and keep all of your codebases synchronized
+  subtype: presentation
+  complexity: "advanced"
+  speakers: [30]
+-
+  id: 027
+  title: "Artificial Intelligence in Swift"
+  description: |
+   Swift is in a unique position at this moment in AI technology. 
+
+   First, machine learning models can run in iOS and with only a few lines of Swift Code. We will discuss 
+    1) what machine learning is good for in local apps
+    2) what a machine learning model is, 
+    3) how it gets packaged by CoreML, the new iOS format for deploying ML in your app, and 
+    4) how to leverage it in your Swift-based apps - without needing to build a lot of specific code! 
+
+   Then we will take a look into the future with Swift for Tensorflow, the brand-new technology by Google that would let us leverage our Swift knowledge to create and train new machine intelligence!  
+  outcome: |
+   - What a machine learning model is, why it is useful and why it is not scary
+   - A background on how CoreML packages machine learning models for easy deployment in apps
+   - Methods to apply CoreML models in your apps to leverage machine learning to live analysis (like machine vision!) 
+   - Practices for creating new CoreML models custom to your users' situations and needs
+   - A hint of the future- why Swift may be central to the future of deep learning
+  subtype: presentation
+  complexity: "advanced"
+  speakers: [31]
 -
   id: 999
   title: "Talk to be announced"
