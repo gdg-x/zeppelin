@@ -119,6 +119,9 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
+# Supporters Block
+supportersTitle: "Supporters"
+
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"

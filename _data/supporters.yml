@@ -1,0 +1,13 @@
+-
+  group: "Podcasts"
+  elements:
+    - {name: "Fireside Swift", description: "Fireside Swift", link: "https://www.firesideswift.com", imageUrl: "FiresideSwift.jpg"}
+    - {name: "The Learn Swift Podcast", description: "The Learn Swift Podcast", link: "https://learnswift.fireside.fm", imageUrl: "LearnSwiftPodcast.jpg"}
+    - {name: "Swift Coders", description: "Swift Coders", link: "https://swiftcoders.podbean.com", imageUrl: "SwiftCoders.png"}
+    - {name: "SwiftCraft", description: "SwiftCraft", link: "https://emanleet.com", imageUrl: "SwiftCraft.jpg"}
+-
+  group: "Meetups"
+  elements:
+    - {name: "Cocoaheads", description: "Cocoaheads", link: "http://cocoaheads.org", imageUrl: "CocoaHeads.png"}
+    - {name: "Learn Swift {City}", description: "Learn Swift {City}", link: "https://swiftcoders.org/2017/03/07/learn-swift-la/", imageUrl: "LearnSwiftCity.png"}
+    - {name: "NSCoderNight", description: "NSCoderNight", link: "http://nscodernight.com", imageUrl: "NSCoderNight.png"}
