@@ -94,7 +94,9 @@
   thumbnailUrl: MartinMitrevski.jpg
   rockstar: true
   social:
-    - {name: "website", link: " https://martinmitrevski.com"}
+    - {name: "twitter", link: "https://twitter.com/mitrevski"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martin-mitrevski-01134755"}
+    - {name: "website", link: "https://martinmitrevski.com"}
 -
   id: 8
   name: "Sarp"
@@ -109,6 +111,31 @@
     - {name: "twitter", link: "https://twitter.com/sarperdag/"}
     - {name: "facebook", link: "https://www.facebook.com/sarperdag"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sarperdag/"}
+-
+  id: 50
+  name: "Joshua"
+  surname: "Greene"
+  title: "Author and Technical Editor"
+  company: "RayWnderlich.com"
+  bio: |
+   Joshua Greene is a long-time author and technical editor for RayWenderlich.com. He is the lead author of [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials) and co-author of [tvOS Apprentice](https://store.raywenderlich.com/products/tvos-apprentice). Joshua is very passionate about writing maintainable code, and he's an advocate for design patterns and test driven development.
+  thumbnailUrl: JoshuaGreene.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/jrg_developer"}
+-
+  id: 51
+  name: "David"
+  surname: "Okun"
+  title: "Developer Advocate"
+  company: "IBM"
+  bio: |
+    David Okun is a mobile software developer turned developer advocate for IBM in Austin, Texas.
+    David has been primarily focused on iOS mobile software, but is also interested in web technology such as Node.js. He's shared over 35 projects with the community on GitHub. David's favorite thing to do is to teach, and he loves an opportunity to clearly explain how something works, and walk someone through it.
+  thumbnailUrl: DavidOkun.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/dokun24"}
 -
   id: 15
   name: "Marcy"
@@ -338,7 +365,7 @@
   name: "Agis"
   surname: "Tsaraboulidis"
   bio: |
-   Agis Tsaraboulidis is the co-founder and CTO of Iris Health - a modern day critical health service. As an engineer, he’s focused on building products that have large and positive impact. In his spare time, you’ll find him working on side projects, taking photographs or reading a book.  
+   Agis Tsaraboulidis is the co-founder and CTO of Iris Health - a modern day critical health service. As an engineer, he is focused on building products that have large and positive impact. In his spare time, you’ll find him working on side projects, taking photographs or reading a book.
   thumbnailUrl: AgisTsaraboulidis.jpg
   rockstar: false
   social:
