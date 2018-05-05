@@ -1,21 +1,21 @@
-- 
+-
   id: 0
   name: "Matt"
   surname: "Dias"
   title: "Co-Organizer - Community lead"
   thumbnailUrl: MattDias.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
-- 
+-
   id: 1
   name: "Zev"
   surname: "Eisenberg"
   title: "Co-Organizer - Tech lead"
   thumbnailUrl: ZevEisenberg.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/ZevEisenberg"}
     - {name: "github", link: "https://github.com/ZevEisenberg"}
     - {name: "site", link: "https://ZevEisenberg.com/"}
@@ -26,20 +26,20 @@
   title: "Co-Organizer - Speakers liaison"
   thumbnailUrl: LucyMonahan.jpg
   team: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
     - {name: "twitter", link: "https://twitter.com/sofetching"}
-- 
+-
   id: 4
   name: "Giorgio"
   surname: "Natili"
   title: "Organizer - Idea maker and team lead"
   thumbnailUrl: GiorgioNatili.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/giorgionatili"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
-- 
+-
   id: 5
   name: "Jeff"
   surname: "O’Leary"
@@ -48,14 +48,14 @@
   team: true
   social:
     - {name: "github",link: "https://github.com/joleary1987"}
-- 
+-
   id: 6
   name: "Sean"
   surname: "Olszewski"
   title: "Co-Organizer - Development lead"
   thumbnailUrl: SeanOlszewski.jpg
   team: true
-  social: 
+  social:
     - {name: "github", link: "https://github.com/SeanROlszewski/"}
 
 -
@@ -65,7 +65,7 @@
   title: "Co-Organizer - Volunteers coordinator"
   thumbnailUrl: AndresPineda.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/ajpinedam"}
     - {name: "github", link: "https://github.com/ajpinedam"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
