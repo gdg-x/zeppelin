@@ -34,7 +34,7 @@
     - {
       startTime: "3:00",
       endTime: "4:00",
-      sessionIds: [020, 999, 666]
+      sessionIds: [020, 024, 666]
     }
     - {
       startTime: "4:00",
