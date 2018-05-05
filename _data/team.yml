@@ -11,8 +11,8 @@
 - 
   id: 1
   name: "Zev"
-  surname: "Eisenberg - Tech lead"
-  title: "Co-Organizer"
+  surname: "Eisenberg"
+  title: "Co-Organizer - Tech lead"
   thumbnailUrl: ZevEisenberg.jpg
   team: true
   social: 
