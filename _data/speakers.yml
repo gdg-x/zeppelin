@@ -116,7 +116,7 @@
   name: "Joshua"
   surname: "Greene"
   title: "Author and Technical Editor"
-  company: "RayWnderlich.com"
+  company: "RayWenderlich.com"
   bio: |
    Joshua Greene is a long-time author and technical editor for RayWenderlich.com. He is the lead author of [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials) and co-author of [tvOS Apprentice](https://store.raywenderlich.com/products/tvos-apprentice). Joshua is very passionate about writing maintainable code, and he's an advocate for design patterns and test driven development.
   thumbnailUrl: JoshuaGreene.jpg
@@ -299,6 +299,8 @@
   id: 23
   name: "Harlan"
   surname: "Haskins"
+  bio: |
+   Harlan is a recent graduate of RIT, and an engineer on Google’s Swift Language Support Team. He is a former Apple intern on Swift, where he created SwiftSyntax. He also co-founded LLVMSwift, an organization devoted to making tools to facilitate compiler development in Swift.
   thumbnailUrl: HarlanHaskins.jpg
   rockstar: false
   social:
@@ -395,3 +397,15 @@
     - {name: "twitter", link: "https://twitter.com/ray_deck"}
     - {name: "github", link: "https://github.com/rhdeck"}
     - {name: "linkedin", link: "https://linkedin.com/in/raydeck"}
+-
+  id: 32
+  name: "Alexander"
+  surname: "Lash"
+  bio: |
+   Alex is the tech lead of Google's Swift Language Support team, the primary maintainer of google/swift, and responsible for various open-sourced and to-be-open-sourced Swift tools such as swift-format.
+  thumbnailUrl: AlexanderLash.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lexlash"}
+    - {name: "github", link: "https://github.com/abl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexlash/"}

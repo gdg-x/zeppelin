@@ -366,12 +366,11 @@
   description: |
    Swift is in a unique position at this moment in AI technology. 
 
-   First, machine learning models can run in iOS and with only a few lines of Swift Code. We will discuss
-   
-    1. what machine learning is good for in local apps
-    2. what a machine learning model is, 
-    3. how it gets packaged by CoreML, the new iOS format for deploying ML in your app, and 
-    4. how to leverage it in your Swift-based apps - without needing to build a lot of specific code! 
+   First, machine learning models can run in iOS and with only a few lines of Swift Code. We will discuss 
+    1) what machine learning is good for in local apps
+    2) what a machine learning model is, 
+    3) how it gets packaged by CoreML, the new iOS format for deploying ML in your app, and 
+    4) how to leverage it in your Swift-based apps - without needing to build a lot of specific code! 
 
    Then we will take a look into the future with Swift for Tensorflow, the brand-new technology by Google that would let us leverage our Swift knowledge to create and train new machine intelligence!  
   outcome: |
@@ -410,6 +409,19 @@
   subtype: workshop
   complexity: "intermediate"
   speakers: [51]
+-
+  id: 030
+  title: "Building Great Tools with SwiftSyntax"
+  description: |
+   SwiftSyntax is the Swift project's library for working with Swift source code. In this workshop, you can learn how to rapidly prototype linting and formatting tools from the library's author. No prior knowledge of SwiftSyntax is required, but a good grasp of Swift itself will be necessary.
+   Note that SwiftSyntax is only available in developer snapshots of the Swift toolchain; please install the latest Trunk development (master) toolchain snapshot before the workshop from https://swift.org/downloads.
+  outcome: |
+   - The structure of SwiftSyntax and how to use it to parse and generate Swift
+   - How to use SyntaxVisitor to write linting/analysis tools that find real-world issues
+   - How to leverage SyntaxRewriter to automatically enforce code styles
+  subtype: workshop
+  complexity: "intermediate"
+  speakers: [23, 32]
 -
   id: 999
   title: "Talk to be announced"
