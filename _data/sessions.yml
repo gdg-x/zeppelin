@@ -400,12 +400,12 @@
   speakers: [50]
 -
   id: 029
-  title: "Training CoreML With Your Mobile Camera During A Conference Talk"
+  title: "Training Core ML With Your Mobile Camera During A Conference Talk"
   description: |
    This will be a collaborative experience - come help David pick some objects to train a CoreML model on stage! We'll use an iPhone camera to take some photos, then we'll use IBM Watson to train the model. After that, with (literally) one line of code, we'll deploy the model into an iOS framework called Lumina to test the model on stage with all of the different objects!
   outcome: |
-    - How to create a coreML model with nothing but photos and text labels
-    - How to integrate a coreML model into an iOS app
+    - How to create a Core ML model with nothing but photos and text labels
+    - How to integrate a Core ML model into an iOS app
     - How to integrate continuous learning into the above two points for an app that gets smarter as you go
   subtype: workshop
   complexity: "intermediate"
