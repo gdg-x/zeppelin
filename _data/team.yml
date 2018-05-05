@@ -73,9 +73,9 @@
   id: 7
   name: "Luis"
   surname: "Alberto"
-  title: "Co-Organizer - Mobile developer"
+  title: "Mobile developer"
   thumbnailUrl: LuisAlberto.jpg
-  team: false
+  volunteer: true
   social:
     - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
