@@ -1,21 +1,21 @@
-- 
+-
   id: 0
   name: "Matt"
   surname: "Dias"
-  title: "Co-Organizer"
+  title: "Community lead"
   thumbnailUrl: MattDias.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
-- 
+-
   id: 1
   name: "Zev"
   surname: "Eisenberg"
-  title: "Co-Organizer"
+  title: "Tech lead"
   thumbnailUrl: ZevEisenberg.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/ZevEisenberg"}
     - {name: "github", link: "https://github.com/ZevEisenberg"}
     - {name: "site", link: "https://ZevEisenberg.com/"}
@@ -23,49 +23,59 @@
   id: 3
   name: "Lucy"
   surname: "Monahan"
-  title: "Co-Organizer"
+  title: "Speakers liaison"
   thumbnailUrl: LucyMonahan.jpg
   team: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
     - {name: "twitter", link: "https://twitter.com/sofetching"}
-- 
+-
   id: 4
   name: "Giorgio"
   surname: "Natili"
-  title: "Co-Organizer"
+  title: "Idea maker, team lead"
   thumbnailUrl: GiorgioNatili.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/giorgionatili"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
-- 
+-
   id: 5
   name: "Jeff"
   surname: "O’Leary"
-  title: "Co-Organizer"
+  title: "Content lead"
   thumbnailUrl: JeffOLeary.jpg
   team: true
   social:
     - {name: "github",link: "https://github.com/joleary1987"}
-- 
+-
   id: 6
   name: "Sean"
   surname: "Olszewski"
-  title: "Co-Organizer"
+  title: "Development lead"
   thumbnailUrl: SeanOlszewski.jpg
   team: true
-  social: 
+  social:
     - {name: "github", link: "https://github.com/SeanROlszewski/"}
 
 -
   id: 7
   name: "Andres"
   surname: "Pineda"
-  title: "Co-Organizer"
+  title: "Volunteers coordinator"
   thumbnailUrl: AndresPineda.jpg
   team: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/ajpinedam"}
     - {name: "github", link: "https://github.com/ajpinedam"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
+-
+  id: 7
+  name: "Luis"
+  surname: "Alberto"
+  title: "Mobile developer"
+  thumbnailUrl: LuisAlberto.jpg
+  volunteer: true
+  social:
+    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
