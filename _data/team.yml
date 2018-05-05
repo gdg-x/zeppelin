@@ -1,5 +1,5 @@
 -
-  id: 0
+  id: "0"
   name: "Matt"
   surname: "Dias"
   title: "Community lead"
@@ -9,7 +9,7 @@
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
 -
-  id: 1
+  id: "1"
   name: "Zev"
   surname: "Eisenberg"
   title: "Tech lead"
@@ -20,7 +20,7 @@
     - {name: "github", link: "https://github.com/ZevEisenberg"}
     - {name: "site", link: "https://ZevEisenberg.com/"}
 -
-  id: 3
+  id: "3"
   name: "Lucy"
   surname: "Monahan"
   title: "Speakers liaison"
@@ -30,7 +30,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
     - {name: "twitter", link: "https://twitter.com/sofetching"}
 -
-  id: 4
+  id: "4"
   name: "Giorgio"
   surname: "Natili"
   title: "Idea maker, team lead"
@@ -40,7 +40,7 @@
     - {name: "twitter", link: "https://twitter.com/giorgionatili"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
 -
-  id: 5
+  id: "5"
   name: "Jeff"
   surname: "O’Leary"
   title: "Content lead"
@@ -49,7 +49,7 @@
   social:
     - {name: "github",link: "https://github.com/joleary1987"}
 -
-  id: 6
+  id: "6"
   name: "Sean"
   surname: "Olszewski"
   title: "Development lead"
@@ -59,7 +59,7 @@
     - {name: "github", link: "https://github.com/SeanROlszewski/"}
 
 -
-  id: 7
+  id: "7"
   name: "Andres"
   surname: "Pineda"
   title: "Volunteers coordinator"
@@ -70,7 +70,7 @@
     - {name: "github", link: "https://github.com/ajpinedam"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
 -
-  id: 7
+  id: "7"
   name: "Luis"
   surname: "Alberto"
   title: "Mobile developer"

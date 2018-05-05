@@ -1,16 +1,16 @@
 -
-  id: 307
+  id: "307"
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
+  id: "503"
   title: "Lunch"
   place: "Dining room"
   service: true
 -
-  id: 001
+  id: "001"
   title: "Keynote: Accidentally Famous"
   description: "Okay, it turns out there is an actual human being behind the Siri voice: Susan Bennett, singer, voice actor, and the original voice of Siri on the iPhone 4S and beyond. In her presentation, Susan will give you a peek behind the scenes of the Siri recordings, how they were done, and how the scripts should probably become part of the Smithsonian collection! Susan also talks about the voiceover business, which is how she became the voice of Siri in the first place; she does a lot of different character voices and describes how technology dramatically changed the face of voice recording over the last couple of decades. Finally, Susan discusses the very human emotional challenge of being the voice of Siri, and becoming “Accidentally Famous” as well. Susan’s presentation takes a look at technology from an artist’s point of view…from a human point of view, so relax, bring your lunch and your sense of humor!"
   outcome: |
@@ -19,10 +19,10 @@
     - Insight into the voiceover and recording businesses
     - How to take the “high road” when faced with a challenge!
   subtype: workshop
-  speakers: [1]
+  speakers: ["1"]
 #  video: "https://video-url-goes-here"
 -
-  id: 003
+  id: "003"
   title: "Back to Front to Left Wrist"
   description: "From the onset, Swift was designed to take over the world — or at least the programming world. So it’s no surprise that the development community is excited to bring it’s power to as many platforms as possible. Our eager community was given Swift on Apple platforms, but no sooner than it was open sourced did we get the power to write Swift on Linux (and some people have even figured out how to run it on Android)! In this workshop, we’re going to focus on the first two. Together we’ll build the foundations of a restaurant reservation service. We’ll start by making a server, written in Swift, for our app to interact with. Once we have the server and the app in place, we’ll build a watchOS app so you can our service without having to dig out your phone!"
   outcome: |
@@ -32,9 +32,9 @@
    - How to build a simple Apple Watch app to expand upon already rich features
   subtype: workshop
   complexity: "Intermediate"
-  speakers: [4]
+  speakers: ["4"]
 -
-  id: 004
+  id: "004"
   title: "Patterns & Methodologies for Test Suite Design"
   description: |
     For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.
@@ -48,10 +48,10 @@
    - About collaboration, contract, integration, journey & white box/blackbox tests
    - About system & feature-level testing
   subtype: presentation
-  speakers: [3]
+  speakers: ["3"]
   complexity: "Intermediate"
 -
-  id: 005
+  id: "005"
   title: "iOS Interviews Don’t Have To Be Hard"
   description: "iOS technologies are rapidly evolving with every WWDC announcement, and it is increasingly challenging for iOS developers to keep up with the features, innovations, and best practices. It is especially difficult for those preparing for job interviews to navigate the breadth of information available and focus on the most critical topics and skills. Whether you’re a beginner developer seeking that dream job or a seasoned veteran who is ready for a better one — this talk will prepare you to succeed in your next technical iOS interview."
   outcome: |
@@ -64,9 +64,9 @@
 
    At the end of this session, the audience will be fully ready to tackle their next iOS interview and know where to go to improve their skills and knowledge in specific topics.
   subtype: presentation
-  speakers: [5]
+  speakers: ["5"]
 -
-  id: 006
+  id: "006"
   title: "The Simple Layout of a Complex Interface"
   description: |
    Understanding Auto Layout is your best chance to write UI code you can be proud of. Its power often underestimated, its features easily misused, I find it overall less appreciated than it could be, if more widely understood.
@@ -79,9 +79,9 @@
    - When to use custom UILayoutGuides and how they help to avoid using numeric values all around
    - UIStackViews: why they are great, but controversial. How to work with stack views in scrollable layouts
   subtype: presentation
-  speakers: [6]
+  speakers: ["6"]
 -
-  id: 007
+  id: "007"
   title: "Collaboration by Design! “What’chu talkin’ ‘bout, Willis?”"
   description: |
    A lot of developers are quick to say that designers should learn to develop. To me, being able to design is an important skill to have as a developer. We all know that there is a significant divide when it comes to designers and developers. This split limits us to be better developers because sometimes we do not want to see the other side of things. Sometimes we as developers do not understand the designer's point of view. Developers and designers have different specialties that we can leverage from each other.
@@ -92,9 +92,9 @@
    - Why you should start picking your designer’s brain
    - How to get started and what tools designers are using today
   subtype: presentation
-  speakers: [7]
+  speakers: ["7"]
 -
-  id: 008
+  id: "008"
   title: "Story of 2 indie devs, 1M+ annual revenue"
   description: |
    My talk will tell our 3 year story as a 2 person independent developer team making the two popular photo and video editing apps Typorama and Videorama, reaching 6M downloads worldwide, generating 1M+ annual revenue on the App Store. I’ll be talking about both the technical and the business tactics and strategies we used to drive downloads and create products loved and used by millions.
@@ -102,9 +102,9 @@
    Learning and using the latest programming technologies and trends is cool, but if you combine that with a business and marketing know-how, developers have a huge potential in their hands to create super profitable micro businesses just on their own. Making a living off the App Store is getting harder each day, and I’ll help the audience learn how to hack their way to success.
   subtype: presentation
   complexity: "Intermediate"
-  speakers: [8]
+  speakers: ["8"]
 -
-  id: 009
+  id: "009"
   title: "Mutability: Perks and Quirks"
   description: |
    Writing Swift, I have a strong preference for immutable objects, why? Because immutability leads to simplicity and clarity since implicit in an object's creation, is a guarantee that it will never change.
@@ -118,10 +118,10 @@
    - Establish when to consider using immutable objects.
   subtype: presentation
   complexity: "Advanced"
-  speakers: [12]
+  speakers: ["12"]
 
 -
-  id: 022
+  id: "022"
   title: "NSURLProtocol: Stupid Secrets, Scary Swizzling, Sorry Safety"
   description: |
    Known as “Apple-sanctioned man-in-the-middle attacks,” the `NSURLProtocol` class is a powerful Foundation abstraction that intercepts network requests at runtime before they hit the URL loading system. It has been used to implement proxy-like functionality, stub HTTP responses, eavesdrop on your 3rd party libraries’ network activity during production deployments, arbitrarily transform `URLRequest`s on the fly, or implement custom protocol schemes. Using this class well requires understanding of how it behaves at runtime, and there are a few runtime gotchas that you must know to handle!
@@ -133,19 +133,19 @@
    - How to swizzle their way around a critical bug (Apple erroneously sets all HTTP Bodies to `nil`) in `NSURLProtocol`
    - The ability to implement API versioning, synthetic responses, remote cache invalidation, and API rerouting on the client (a lighter weight HAProxy or Varnish)
   subtype: presentation
-  speakers: [26]
+  speakers: ["26"]
   complexity: "Intermediate"
 
 -
-  id: 010
+  id: "010"
   title: "Swift's Future Belongs To Those Who Show Up"
   description: |
    Swift Evolution is an exhausting thing: high traffic, some signal to noise issues, and a lot of work to follow the ins outs and details. Without voices from the wider developer community, it may not serve the interests you prioritize in your day to day work. From safety to convenience, migration to stability, here's how you can be a part of the process even if you only have a very little time to spend. Apple's open sourced language represents the first time there's a fully open bug reporting system and a way for anyone no matter their background to have their opinions heard and considered. If you're new to Swift Evolution or gave up on it in frustration, let Erica Sadun show you how to make the most of your limited time in having a say in the future of the language.
   subtype: presentation
-  speakers: [13]
+  speakers: ["13"]
   complexity: "Intermediate"
 -
-  id: 011
+  id: "011"
   title: "Great Forms 101"
   description: |
    Let's be honest here: forms are probably not the shining star of your app. But they're one of the first things a user sees, and can huge stumbling blocks to user trust if you don't give them some thought.
@@ -159,9 +159,9 @@
     - Learning how to get the user back to the app they love.
   subtype: presentation
   complexity: "Intermediate"
-  speakers: [16]
+  speakers: ["16"]
 -
-  id: 012
+  id: "012"
   title: "Sketching UI in Playgrounds"
   description: |
    The beginning will be a discussion on the struggle/arguments that iOS developers have over which way is better for creating UIs: Storyboards or Programmatic.
@@ -176,10 +176,10 @@
     - Learning all the tips and tricks to improve your efficiency while working in hybrid mode.
     - Mastering programmatic UI will be easier because you can see the effect immediately without running the app.
   subtype: presentation
-  speakers: [17]
+  speakers: ["17"]
   complexity: "Intermediate"
 -
-  id: 013
+  id: "013"
   title: "Under The Hood: Code Signing on iOS"
   description: |
    Code signing ensures that all mobile apps come from known, trusted sources and haven't been tampered with while in transit to a user's device. Though an integral part of keeping the iOS ecosystem secure, for many developers Apple's code signing methodology remains somewhat cryptic.
@@ -193,15 +193,15 @@
      - How does code signing protect me and my users?
     - We will equip attendees with the knowledge they need to build more complex applications and successfully release apps by creating clarity around Apple’s code signing methodology.
   subtype: presentation
-  speakers: [18]
+  speakers: ["18"]
   complexity: "Advanced"
 -
-  id: 014
+  id: "014"
   title: "Core Bluetooth in Swift: A Primer"
   subtype: presentation
-  speakers: [19]
+  speakers: ["19"]
 -
-  id: 015
+  id: "015"
   title: "Designing and Building With Accessibility in Mind"
   description: |
    Accessibility is an often ignored part of iOS development, partly because much of it is “baked in” to the OS and “just works” most of the time. However, building custom UI elements and interactions can lead to a breakdown of accessibility. In this talk, we’ll explore VoiceOver, the screen reader that allow many disabled users to interact with your app. We’ll walk through a non-accessible app and optimize it for VoiceOver users. Finally, we’ll go over common pitfalls and solutions to keep in mind when designing and building accessible experiences.
@@ -211,9 +211,9 @@
     - Being able to argue why it’s important to invest in accessibility and have concrete steps on how to make an app easier to use.
   subtype: presentation
   complexity: "Intermediate"
-  speakers: [20]
+  speakers: ["20"]
 -
-  id: 016
+  id: "016"
   title: "The Art of the Font"
   description: |
    As developers we often take the text rendering system for granted. As a fundamental part of both iOS and macOS we often don't give it a second thought. It's just there. This session will explore: the transition from 7 segment LED text to the beautiful fonts we use today, translate the vocabulary designers use when describing text layout, and conclude by examining TextKit and how to get direct access to font paths.
@@ -224,9 +224,9 @@
     - A deeper understanding of text rendering in iOS and macOS.
   subtype: presentation
   complexity: "Advanced"
-  speakers: [21]
+  speakers: ["21"]
 -
-  id: 017
+  id: "017"
   title: "Advanced Dates and Times in Swift"
   description: |
    As a developer who’s been bitten time and time again by Daylight Saving Time and related bugs, by now you’ve mastered the art of wrangling dates and times in Swift. Or have you? This talk will cover some of the more inscrutable topics of dates and times: how many seconds are there in a particular year? How do I get a notification to fire at exactly 9:00 AM on the user’s phone? What if my user isn’t using the Gregorian calendar and I want to draw a calendar? In this talk, we’ll cover all this and more, drawing on the Swift standard library and Apple’s system SDKs to manipulate the very fabric of time itself… or at least it’ll feel that way by the time we’re done.
@@ -234,9 +234,9 @@
    This session covers more advanced date and time code. An attendee will be able to reliably schedule notifications in the user's local time, find dates in the future, and even work with calendars with different numbers of months, days in the week, and more!
   subtype: presentation
   complexity: "Advanced"
-  speakers: [22]
+  speakers: ["22"]
 -
-  id: 018
+  id: "018"
   title: "Secrets and Lies"
   description: |
    Security is hard. It’s filled with complex math and obscure system details, but that isn’t why it’s hard. Security is hard because it requires a different way of thinking. It’s about what systems really do rather than what they’re supposed to do. It’s about making things fail rather than succeed. It’s about controls and response more often than code and algorithms. And at its best it’s invisible and thankless. You never know all the bad things that didn’t happen.
@@ -249,9 +249,9 @@
    - The difference between encryption and obfuscation and how to use each correctly
    - How to authenticate users and handle passwords
   subtype: presentation
-  speakers: [14]
+  speakers: ["14"]
 -
-  id: 019
+  id: "019"
   title: "Functional Magic in Swift"
   description: |
    Do you find yourself creating messy code in order to transform Swift optionals? Do you wish you harnessed the functional power of Swift more? This talk is for you! Come learn about creating elegant code with map, flatMap, filter, and reduce through some cupcake magic.  Let's make your code more Swifty!
@@ -260,10 +260,10 @@
    - Manipulating collections with four functions: `map`, ~~`flatMap`~~ `compactMap`, `filter`, and `reduce`
    - Have good examples of how to use them in their code
   subtype: presentation
-  speakers: [24]
+  speakers: ["24"]
   complexity: "Intermediate"
 -
-  id: 020
+  id: "020"
   title: "State Restoration - It’s like you never left"
   description: |
    Part of making an iOS app an enjoyable experience involves some magic… err illusion. One of those illusions is that if a user leaves your app and it goes to the background, when they return everything will be exactly as they left it. The reality is that, with few exceptions, your app will actually be suspended, then deallocated by the operating system. Without a little trickery, when users come back to your app they’ll be greeted with a launch screen and have to start their navigation experience from scratch. Join me as we talk about some of the tricks you can use to ensure that when users come back to your app everything appears as if they never left.
@@ -276,9 +276,9 @@
     - A few tricks for improving app launch speed.
   subtype: presentation
   complexity: "Advanced"
-  speakers: [11]
+  speakers: ["11"]
 -
-  id: 021
+  id: "021"
   title: "Building an iOS app with Cloud Firestore"
   description: |
    In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
@@ -289,9 +289,9 @@
     - Write complex Firestore queries
   subtype: workshop
   complexity: "Advanced"
-  speakers: [25]
+  speakers: ["25"]
 -
-  id: 023
+  id: "023"
   title: "Developing Conversational Interfaces for iOS"
   description: |
    The evolution of user interfaces in mobile apps continues with the most natural way of expressing the user’s wishes - their voice. Understanding what the users say is not an easy task.
@@ -303,9 +303,9 @@
     - Learn what are the challenges we face when we develop voice responsive apps
   subtype: presentation
   complexity: "Advanced"
-  speakers: [46]
+  speakers: ["46"]
 -
-  id: 024
+  id: "024"
   title: "iOS at Scale(ish)"
   description: |
    Wayfair has one of the largest iOS teams in Boston, with around 40 developers all working on a single product. Our codebase is large, it has a sizable amount of legacy code, and it is extremely active and constantly changing. Because of our size and scale, we are starting to encounter problems that impact our entire iOS team. These include:
@@ -322,9 +322,9 @@
    - How to push large scale changes across our team and codebase
   subtype: presentation
   complexity: "Advanced"
-  speakers: [28]
+  speakers: ["28"]
 -
-  id: 025
+  id: "025"
   title: "An Engineer's Code of Ethics"
   description: |
     Development does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the weight and value of our work based on that impact.
@@ -346,44 +346,44 @@
     - What we can do as a community to prevent that from happening
   subtype: presentation
   complexity: "intermediate"
-  speakers: [29]
+  speakers: ["29"]
 -
-  id: 026
+  id: "026"
   title: "Scaling iOS Architecture"
   description: |
    At Arc Publishing, a new venture that is a part of The Washington Post, we have begun building native mobile applications for other news publishers, like The LA Times, The Salt Lake Tribune, and The Globe and Mail, to name a few. We're now in the process of scaling to 50 iOS apps, that have millions of users, wildly different feature sets, and that have to be kept synchronized with each other. To achieve this feat with a small team, we've had to template our architecture and automate our entire development and deployment process. Come learn how we built a scalable white label iOS app architecture in Swift that powers some of the App Store's top 150 news apps.
   outcome: |
-   - How to think about abstract and meta-type-heavy architecture 
+   - How to think about abstract and meta-type-heavy architecture
    - How to build modular plug-and-play architecture using Swift
    - How to properly perform a cost-benefit analysis when choosing open source projects for high visibility apps
    - How to make optimal use of CocoaPods, BuddyBuild, Jenkins, Fastlane, and custom shell scripts to automate everything and keep all of your codebases synchronized
   subtype: presentation
   complexity: "advanced"
-  speakers: [30]
+  speakers: ["30"]
 -
-  id: 027
+  id: "027"
   title: "Artificial Intelligence in Swift"
   description: |
-   Swift is in a unique position at this moment in AI technology. 
+   Swift is in a unique position at this moment in AI technology.
 
-   First, machine learning models can run in iOS and with only a few lines of Swift Code. We will discuss 
+   First, machine learning models can run in iOS and with only a few lines of Swift Code. We will discuss
     1) what machine learning is good for in local apps
-    2) what a machine learning model is, 
-    3) how it gets packaged by CoreML, the new iOS format for deploying ML in your app, and 
-    4) how to leverage it in your Swift-based apps - without needing to build a lot of specific code! 
+    2) what a machine learning model is,
+    3) how it gets packaged by CoreML, the new iOS format for deploying ML in your app, and
+    4) how to leverage it in your Swift-based apps - without needing to build a lot of specific code!
 
-   Then we will take a look into the future with Swift for Tensorflow, the brand-new technology by Google that would let us leverage our Swift knowledge to create and train new machine intelligence!  
+   Then we will take a look into the future with Swift for Tensorflow, the brand-new technology by Google that would let us leverage our Swift knowledge to create and train new machine intelligence!
   outcome: |
    - What a machine learning model is, why it is useful and why it is not scary
    - A background on how CoreML packages machine learning models for easy deployment in apps
-   - Methods to apply CoreML models in your apps to leverage machine learning to live analysis (like machine vision!) 
+   - Methods to apply CoreML models in your apps to leverage machine learning to live analysis (like machine vision!)
    - Practices for creating new CoreML models custom to your users' situations and needs
    - A hint of the future- why Swift may be central to the future of deep learning
   subtype: presentation
   complexity: "advanced"
-  speakers: [31]
+  speakers: ["31"]
 -
-  id: 028
+  id: "028"
   title: "Choosing the Right Design Pattern"
   description: |
    Design patterns are reusable solutions to common development problems. They aren't project specific, so you can use them in countless apps. But which design pattern should you use for a particular problem? How do you know if one is better suited than another? If you wrestle with these questions in your own apps, you're in luck! This is exactly what you'll learn in this workshop.
@@ -396,9 +396,9 @@
     - How to evaluate one pattern versus another
   subtype: workshop
   complexity: "intermediate"
-  speakers: [50]
+  speakers: ["50"]
 -
-  id: 029
+  id: "029"
   title: "Training Core ML With Your Mobile Camera During A Conference Talk"
   description: |
    This will be a collaborative experience - come help David pick some objects to train a CoreML model on stage! We'll use an iPhone camera to take some photos, then we'll use IBM Watson to train the model. After that, with (literally) one line of code, we'll deploy the model into an iOS framework called Lumina to test the model on stage with all of the different objects!
@@ -408,9 +408,9 @@
     - How to integrate continuous learning into the above two points for an app that gets smarter as you go
   subtype: workshop
   complexity: "intermediate"
-  speakers: [51]
+  speakers: ["51"]
 -
-  id: 030
+  id: "030"
   title: "Building Great Tools with SwiftSyntax"
   description: |
    SwiftSyntax is the Swift project's library for working with Swift source code. In this workshop, you can learn how to rapidly prototype linting and formatting tools from the library's author. No prior knowledge of SwiftSyntax is required, but a good grasp of Swift itself will be necessary.
@@ -421,31 +421,31 @@
    - How to leverage SyntaxRewriter to automatically enforce code styles
   subtype: workshop
   complexity: "intermediate"
-  speakers: [23, 32]
+  speakers: ["23", "32"]
 -
-  id: 999
+  id: "999"
   title: "Talk to be announced"
   description: "More speakers coming soon!"
   subtype: presentation
   speakers: []
 -
-  id: 998
+  id: "998"
   title: "Workshop to be announced"
   description: "More speakers coming soon!"
   subtype: presentation
   speakers: []
 -
-  id: 1511
+  id: "1511"
   title: "The workshop continues…"
   description: "Each workshop is at least 90 minutes"
   speakers: []
 -
-  id: 666
+  id: "666"
   title: ""
   description: "No talk or workshop in this time slot."
   speakers: []
 -
-  id: 000
+  id: "000"
   title: "Closing keynote"
   description: "The closing keynote will be announced Monday May 7th."
   speakers: []

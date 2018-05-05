@@ -1,5 +1,5 @@
 -
-  id: 1
+  id: "1"
   name: "Susan"
   surname: "Bennett"
   company: "Siriously Susan"
@@ -20,7 +20,7 @@
     - {name: "site", link: "https://SusanCBennett.com"}
     - {name: "twitter", link: "https://twitter.com/siriouslysusan"}
 -
-  id: 7
+  id: "7"
   name: "Craig"
   surname: "Clayton"
   title: "Senior iOS Engineer"
@@ -32,7 +32,7 @@
   social:
     {name: "twitter", link: "https://twitter.com/thedevme"}
 -
-  id: 3
+  id: "3"
   name: "Sean"
   surname: "Olszewski"
   company: "Pivotal Labs"
@@ -45,7 +45,7 @@
     - {name: "twitter", link: "https://twitter.com/__chefski__"}
     - {name: "github", link: "https://github.com/seanrolszewski"}
 -
-  id: 4
+  id: "4"
   name: "Matt"
   surname: "Dias"
   company: "Chewy"
@@ -58,7 +58,7 @@
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
 -
-  id: 5
+  id: "5"
   name: "Alex"
   surname: "Bush"
   title: "Software Consultant, entrepreneur, book author, and podcaster"
@@ -72,7 +72,7 @@
     - {name: "twitter", link: "https://twitter.com/alex_v_bush"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/alexvbush/"}
 -
-  id: 6
+  id: "6"
   name: "Agnes"
   surname: "Vasarhelyi"
   title: "iOS Developer"
@@ -84,7 +84,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/vasarhelyia"}
 -
-  id: 46
+  id: "46"
   name: "Martin"
   surname: "Mitrevski"
   title: "Technical Leader"
@@ -98,7 +98,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/martin-mitrevski-01134755"}
     - {name: "website", link: "https://martinmitrevski.com"}
 -
-  id: 8
+  id: "8"
   name: "Sarp"
   surname: "Erdag"
   title: "Founder & Lead Developer"
@@ -112,7 +112,7 @@
     - {name: "facebook", link: "https://www.facebook.com/sarperdag"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sarperdag/"}
 -
-  id: 50
+  id: "50"
   name: "Joshua"
   surname: "Greene"
   title: "Author and Technical Editor"
@@ -124,7 +124,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/jrg_developer"}
 -
-  id: 51
+  id: "51"
   name: "David"
   surname: "Okun"
   title: "Developer Advocate"
@@ -137,7 +137,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/dokun24"}
 -
-  id: 15
+  id: "15"
   name: "Marcy"
   surname: "Regalado"
   title: "UX Design Lead"
@@ -150,7 +150,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/marcyregalado"}
 -
-  id: 9
+  id: "9"
   name: "Andyy"
   surname: "Hope"
   title: "Software Engineer"
@@ -163,7 +163,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/AndyyHope"}
 -
-  id: 10
+  id: "10"
   name: "Garric"
   surname: "Nahapetian"
   title: "iOS Engineer"
@@ -176,7 +176,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/garricn"}
 -
-  id: 11
+  id: "11"
   name: "Ish"
   surname: "Shabazz"
   title: "iOS Developer"
@@ -188,7 +188,7 @@
     - {name: "twitter", link: "https://twitter.com/ishabazz"}
 
 -
-  id: 12
+  id: "12"
   name: "Jon-Tait"
   surname: "Beason"
   title: "iOS Engineer"
@@ -199,7 +199,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/BugKrusha"}
 -
-  id: 13
+  id: "13"
   name: "Erica"
   surname: "Sadun"
   bio: |
@@ -210,7 +210,7 @@
     - {name: "twitter", link: "https://twitter.com/EricaSadun"}
     - {name: "site", link: "http://ericasadun.com/"}
 -
-  id: 14
+  id: "14"
   name: "Rob"
   surname: "Napier"
   bio: |
@@ -221,7 +221,7 @@
     - {name: "twitter", link: "https://twitter.com/cocoaphony"}
     - {name: "site", link: "http://robnapier.net/"}
 -
-  id: 16
+  id: "16"
   name: "Michael"
   surname: "Helmbrecht"
   bio: |
@@ -232,7 +232,7 @@
     - {name: "twitter", link: "https://twitter.com/mrh_is"}
     - {name: "site", link: "https://mrh.is/"}
 -
-  id: 17
+  id: "17"
   name: "Lou"
   surname: "Franco"
   bio: |
@@ -245,7 +245,7 @@
     - {name: "site", link: "https://www.smashingmagazine.com/"}
     - {name: "site", link: "https://app-o-mat.com/"}
 -
-  id: 18
+  id: "18"
   name: "Pat"
   surname: "Butkiewicz"
   bio: |
@@ -253,7 +253,7 @@
   thumbnailUrl: PatButkiewicz.jpg
   rockstar: false
 -
-  id: 19
+  id: "19"
   name: "David"
   surname: "Ohayon"
   bio: |
@@ -263,7 +263,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/ohayon"}
 -
-  id: 20
+  id: "20"
   name: "Hung"
   surname: "Truong"
   bio: |
@@ -276,7 +276,7 @@
     - {name: "github", link: "https://github.com/hungtruong/"}
     - {name: "linkedin", link: "http://www.linkedin.com/in/hungtruong/"}
 -
-  id: 21
+  id: "21"
   name: "Ayal"
   surname: "Spitz"
   bio: |
@@ -286,7 +286,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/aspitz"}
 -
-  id: 22
+  id: "22"
   name: "Jeff"
   surname: "Kelley"
   bio: |
@@ -296,7 +296,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/slaunchaman"}
 -
-  id: 23
+  id: "23"
   name: "Harlan"
   surname: "Haskins"
   bio: |
@@ -307,7 +307,7 @@
     - {name: "twitter", link: "https://twitter.com/harlanhaskins"}
     - {name: "github", link: "https://github.com/harlanhaskins"}
 -
-  id: 24
+  id: "24"
   name: "Neem"
   surname: "Serra"
   bio: |
@@ -317,7 +317,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/TeamNeem"}
 -
-  id: 25
+  id: "25"
   name: "Todd"
   surname: "Burner"
   bio: |
@@ -328,7 +328,7 @@
     - {name: "twitter", link: "https://twitter.com/toddlovesthis"}
     - {name: "github", link: "https://github.com/tkburner"}
 -
-  id: 26
+  id: "26"
   name: "James"
   surname: "Graham"
   bio: |
@@ -341,7 +341,7 @@
     - {name: "twitter", link: "https://twitter.com/WittedHaddock"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/wittedhaddock/"}
 -
-  id: 27
+  id: "27"
   name: "Alexandrea"
   surname: "Mellen"
   bio: |
@@ -352,7 +352,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/alexandreamel"}
 -
-  id: 28
+  id: "28"
   name: "Brad"
   surname: "Smith"
   bio: |
@@ -363,7 +363,7 @@
     - {name: "twitter", link: "https://twitter.com/bsmithers11"}
     - {name: "github", link: "https://github.com/bsmith11"}
 -
-  id: 29
+  id: "29"
   name: "Agis"
   surname: "Tsaraboulidis"
   bio: |
@@ -374,11 +374,11 @@
     - {name: "twitter", link: "https://twitter.com/agisilaosts"}
     - {name: "site", link: " https://agisilaos.github.io"}
 -
-  id: 30
+  id: "30"
   name: "Arthur"
   surname: "Sabintsev"
   bio: |
-   Arthur is one of the lead iOS engineers at The Washington Post. He currently leads mobile development on the "Arc Publishing" team, building native iOS and Android apps for news publishers around the world. He has also taught Swift & Objective-C at various code schools, acted as a technical reviewer on books on Swift, and over the last 6 years, has authored a couple dozen open source libraries for the iOS community. Before leaving his Ph.D. program, he was an experimental nuclear physicist who worked underground colliding subatomic and subnuclear particles.  
+   Arthur is one of the lead iOS engineers at The Washington Post. He currently leads mobile development on the "Arc Publishing" team, building native iOS and Android apps for news publishers around the world. He has also taught Swift & Objective-C at various code schools, acted as a technical reviewer on books on Swift, and over the last 6 years, has authored a couple dozen open source libraries for the iOS community. Before leaving his Ph.D. program, he was an experimental nuclear physicist who worked underground colliding subatomic and subnuclear particles.
   thumbnailUrl: ArthurSabintsev.jpg
   rockstar: false
   social:
@@ -386,11 +386,11 @@
     - {name: "github", link: "http://github.com/ArtSabintsev"}
     - {name: "site", link: "http://sabintsev.com/"}
 -
-  id: 31
+  id: "31"
   name: "Ray"
   surname: "Deck"
   bio: |
-   Ray is CTO of Element55 in Cambridge, MA. Element55 provides automatic and mobile time capture solutions to major professional service firms around the world. Ray's initial background was as a quantitative analyst at dotcom-era startups, but after a shift to software, Ray has been developing developers to make products in data and mobile since the days of Blackberry. Machine learning has brought this full circle! 
+   Ray is CTO of Element55 in Cambridge, MA. Element55 provides automatic and mobile time capture solutions to major professional service firms around the world. Ray's initial background was as a quantitative analyst at dotcom-era startups, but after a shift to software, Ray has been developing developers to make products in data and mobile since the days of Blackberry. Machine learning has brought this full circle!
   thumbnailUrl: RayDeck.jpg
   rockstar: false
   social:
@@ -398,7 +398,7 @@
     - {name: "github", link: "https://github.com/rhdeck"}
     - {name: "linkedin", link: "https://linkedin.com/in/raydeck"}
 -
-  id: 32
+  id: "32"
   name: "Alexander"
   surname: "Lash"
   bio: |
