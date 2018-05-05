@@ -384,6 +384,33 @@
   complexity: "advanced"
   speakers: [31]
 -
+  id: 028
+  title: "Choosing the Right Design Pattern"
+  description: |
+   Design patterns are reusable solutions to common development problems. They aren't project specific, so you can use them in countless apps. But which design pattern should you use for a particular problem? How do you know if one is better suited than another? If you wrestle with these questions in your own apps, you're in luck! This is exactly what you'll learn in this workshop.
+   You'll first review a few common and niche design patterns. Specifically, you'll go over design patterns that solve similar problems but in different ways. Along the way, you'll learn a thing or two about design patterns, but most importantly, you'll learn a strategy for picking one pattern over another.
+   This will be a hands-on workshop, so make sure you bring your laptop with you!
+  outcome: |
+    - How design pattern use cases often overlap
+    - How to use class diagrams to model real-world app problems
+    - How to judge if a design pattern is a good fit for a problem
+    - How to evaluate one pattern versus another
+  subtype: workshop
+  complexity: "intermediate"
+  speakers: [50]
+-
+  id: 029
+  title: "Training CoreML With Your Mobile Camera During A Conference Talk"
+  description: |
+   This will be a collaborative experience - come help David pick some objects to train a CoreML model on stage! We'll use an iPhone camera to take some photos, then we'll use IBM Watson to train the model. After that, with (literally) one line of code, we'll deploy the model into an iOS framework called Lumina to test the model on stage with all of the different objects!
+  outcome: |
+    - How to create a coreML model with nothing but photos and text labels
+    - How to integrate a coreML model into an iOS app
+    - How to integrate continuous learning into the above two points for an app that gets smarter as you go
+  subtype: workshop
+  complexity: "intermediate"
+  speakers: [51]
+-
   id: 999
   title: "Talk to be announced"
   description: "More speakers coming soon!"
