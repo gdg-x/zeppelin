@@ -2,7 +2,7 @@
   id: 0
   name: "Matt"
   surname: "Dias"
-  title: "Co-Organizer - Community lead"
+  title: "Community lead"
   thumbnailUrl: MattDias.jpg
   team: true
   social:
@@ -12,7 +12,7 @@
   id: 1
   name: "Zev"
   surname: "Eisenberg"
-  title: "Co-Organizer - Tech lead"
+  title: "Tech lead"
   thumbnailUrl: ZevEisenberg.jpg
   team: true
   social:
@@ -23,7 +23,7 @@
   id: 3
   name: "Lucy"
   surname: "Monahan"
-  title: "Co-Organizer - Speakers liaison"
+  title: "Speakers liaison"
   thumbnailUrl: LucyMonahan.jpg
   team: true
   social:
@@ -33,7 +33,7 @@
   id: 4
   name: "Giorgio"
   surname: "Natili"
-  title: "Organizer - Idea maker and team lead"
+  title: "Idea maker, team lead"
   thumbnailUrl: GiorgioNatili.jpg
   team: true
   social:
@@ -43,7 +43,7 @@
   id: 5
   name: "Jeff"
   surname: "O’Leary"
-  title: "Co-Organizer - Content lead"
+  title: "Content lead"
   thumbnailUrl: JeffOLeary.jpg
   team: true
   social:
@@ -52,7 +52,7 @@
   id: 6
   name: "Sean"
   surname: "Olszewski"
-  title: "Co-Organizer - Development lead"
+  title: "Development lead"
   thumbnailUrl: SeanOlszewski.jpg
   team: true
   social:
@@ -62,7 +62,7 @@
   id: 7
   name: "Andres"
   surname: "Pineda"
-  title: "Co-Organizer - Volunteers coordinator"
+  title: "Volunteers coordinator"
   thumbnailUrl: AndresPineda.jpg
   team: true
   social:
