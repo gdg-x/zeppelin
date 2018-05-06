@@ -107,3 +107,13 @@
   volunteer: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/284779163"}
+-
+  id: "11"
+  name: "Brian"
+  surname: "Ryczek"
+  title: "Mobile Developer"
+  thumbnailUrl: BarbaraVanaki.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bryanryczek/"}
+    - {name: "twitter", link: "https://twitter.com/bryanryczek"}
