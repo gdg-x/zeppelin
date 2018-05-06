@@ -70,6 +70,15 @@
     - {name: "github", link: "https://github.com/ajpinedam"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
 -
+  id: "10"
+  name: "Barbara"
+  surname: "Menicucci"
+  title: "Event Manager"
+  thumbnailUrl: BarbaraMenicucci.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/barbara-menicucci-57ab939a/"}
+-
   id: "7"
   name: "Luis"
   surname: "Alberto"
@@ -79,3 +88,22 @@
   social:
     - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
+-
+  id: "8"
+  name: "Paul"
+  surname: "Bruce"
+  title: "Open space coordinator"
+  thumbnailUrl: PaulBruce.jpg
+  volunteer: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/paulsbruce"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paulsbruce/"}
+-
+  id: "9"
+  name: "Barbara"
+  surname: "Van"
+  title: "Designer"
+  thumbnailUrl: BarbaraVanaki.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/284779163"}
