@@ -23,7 +23,7 @@
 #  video: "https://video-url-goes-here"
 -
   id: "003"
-  title: "Back to Front to Left Wrist"
+  title: "Back to Front to Left Wrist (2h)"
   description: "From the onset, Swift was designed to take over the world — or at least the programming world. So it’s no surprise that the development community is excited to bring it’s power to as many platforms as possible. Our eager community was given Swift on Apple platforms, but no sooner than it was open sourced did we get the power to write Swift on Linux (and some people have even figured out how to run it on Android)! In this workshop, we’re going to focus on the first two. Together we’ll build the foundations of a restaurant reservation service. We’ll start by making a server, written in Swift, for our app to interact with. Once we have the server and the app in place, we’ll build a watchOS app so you can our service without having to dig out your phone!"
   outcome: |
    - How to build and deploy a Swift server, using the Perfect framework
@@ -279,7 +279,7 @@
   speakers: ["11"]
 -
   id: "021"
-  title: "Building an iOS app with Cloud Firestore"
+  title: "Building an iOS app with Cloud Firestore (1.5h)"
   description: |
    In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
   outcome: |
@@ -384,7 +384,7 @@
   speakers: ["31"]
 -
   id: "028"
-  title: "Choosing the Right Design Pattern"
+  title: "Choosing the Right Design Pattern (1.5h)"
   description: |
    Design patterns are reusable solutions to common development problems. They aren't project specific, so you can use them in countless apps. But which design pattern should you use for a particular problem? How do you know if one is better suited than another? If you wrestle with these questions in your own apps, you're in luck! This is exactly what you'll learn in this workshop.
    You'll first review a few common and niche design patterns. Specifically, you'll go over design patterns that solve similar problems but in different ways. Along the way, you'll learn a thing or two about design patterns, but most importantly, you'll learn a strategy for picking one pattern over another.
@@ -399,7 +399,7 @@
   speakers: ["50"]
 -
   id: "029"
-  title: "Training Core ML With Your Mobile Camera During A Conference Talk"
+  title: "Training Core ML With Your Mobile Camera During A Conference Talk (1.5h)"
   description: |
    This will be a collaborative experience - come help David pick some objects to train a CoreML model on stage! We'll use an iPhone camera to take some photos, then we'll use IBM Watson to train the model. After that, with (literally) one line of code, we'll deploy the model into an iOS framework called Lumina to test the model on stage with all of the different objects!
   outcome: |
@@ -411,7 +411,7 @@
   speakers: ["51"]
 -
   id: "030"
-  title: "Building Great Tools with SwiftSyntax"
+  title: "Building Great Tools with SwiftSyntax (1.5h)"
   description: |
    SwiftSyntax is the Swift project's library for working with Swift source code. In this workshop, you can learn how to rapidly prototype linting and formatting tools from the library's author. No prior knowledge of SwiftSyntax is required, but a good grasp of Swift itself will be necessary.
    Note that SwiftSyntax is only available in developer snapshots of the Swift toolchain; please install the latest Trunk development (master) toolchain snapshot before the workshop from https://swift.org/downloads.
