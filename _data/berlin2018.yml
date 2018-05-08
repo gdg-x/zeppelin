@@ -22,9 +22,60 @@ partners:
 
 mentors:
 
-
-
 - id: 1
+  name: "Zahra"
+  surname: "Joulaei"
+  bio: "<p></p>
+"
+  thumbnailUrl: zahra.jpg
+  company: "Mentor"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ellamessa_"}
+
+
+
+
+
+  
+- id: 2
+  name: "Feli"
+  surname: "Kugland"
+  bio: "<p>👩‍💻 I'm a Principal Product Engineer, working in Developer Relations at SinnerSchrader, based in Hamburg. I'm a developer since 13 years now.</p>
+  <p>Start with developing on your own can be hard and frustrating 😤, to have mentors at your side 👯‍♀️ who support you can make it a lot easier 💡. 
+  Also learning in a group can be a lot of fun 😄 and show you that everybody starts at some point 🏫.</p>
+  <p>I want to show you start developing is no magic 🔮 and everyone can learn it 📚.
+  So let's do it 💯, happy to be your mentor 💖</p>
+ "
+  thumbnailUrl: feli.jpg
+  company: "Mentor"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/kotzendekrabbe"}
+
+- id: 3
+  name: "And You?"
+  surname: ""
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  company: ""
+  rockstar: true
+
+- id: 4
+  name: "Martin"
+  surname: "Sonnenholzer"
+  bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
+  What stayed the same since the beginning was the awesome community. But we need more diversity to make it even better.
+  So now it's my part to give back to the community.</p>
+ "
+  thumbnailUrl: martin.png
+  company: "Organizer/Angular Meetup Berlin"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/chaos_monster"}
+
+
+- id: 5
   name: "Robert"
   surname: "Willemelis"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
@@ -38,41 +89,13 @@ mentors:
    it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
 "
   thumbnailUrl: robert.png
+  company: "Organizer / ngGirls Team"
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 
-- id: 2
-  name: "Martin"
-  surname: "Sonnenholzer"
-  bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
-  What stayed the same since the beginning was the awesome community. But we need more diversity to make it even better.
-  So now it's my part to give back to the community.</p>
- "
-  thumbnailUrl: martin.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/chaos_monster"}
-
-
-  
-- id: 3
-  name: "Feli"
-  surname: "Kugland"
-  bio: "<p>👩‍💻 I'm a Principal Product Engineer, working in Developer Relations at SinnerSchrader, based in Hamburg. I'm a developer since 13 years now.</p>
-  <p>Start with developing on your own can be hard and frustrating 😤, to have mentors at your side 👯‍♀️ who support you can make it a lot easier 💡. 
-  Also learning in a group can be a lot of fun 😄 and show you that everybody starts at some point 🏫.</p>
-  <p>I want to show you start developing is no magic 🔮 and everyone can learn it 📚.
-  So let's do it 💯, happy to be your mentor 💖</p>
- "
-  thumbnailUrl: feli.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/kotzendekrabbe"}
-
-
-- id: 4
+- id: 6
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
