@@ -137,4 +137,5 @@
   volunteer: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jose-gregorio-taveras-taveras-16738952/"}
-    - {name: "twitter", link: "https://twitter.com/JGTaveras"}    
+    - {name: "twitter", link: "https://twitter.com/JGTaveras"}
+  
