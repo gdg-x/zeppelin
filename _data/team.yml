@@ -117,3 +117,25 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/bryanryczek/"}
     - {name: "twitter", link: "https://twitter.com/bryanryczek"}
+
+-
+  id: "12"
+  name: "Yohanna"
+  surname: "Ramirez"
+  title: "Operations Manager"
+  thumbnailUrl: YohannaRamirez.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yohanna-ramirez-bbba9791/"}
+
+-
+  id: "13"
+  name: "Jose Gregorio"
+  surname: "Taveras"
+  title: "Mobile Developer"
+  thumbnailUrl: JoseTaveras.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jose-gregorio-taveras-taveras-16738952/"}
+    - {name: "twitter", link: "https://twitter.com/JGTaveras"}
+  
