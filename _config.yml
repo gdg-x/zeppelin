@@ -131,7 +131,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "A inscrição está aberta até fim de outubro. O número de bilhetes é limitado. Fica atento!"
 
 # Tickets Block
-ticketsTitle: "Tabela de preços"
+ticketsTitle: "Inscrições"
 ticketsInfo: "Os bilhetes garantem acesso à conferência, coffe brakes e almoço."
 ticketsOffers:
  -
@@ -145,7 +145,7 @@ ticketsOffers:
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
  -
-  name: "Associado Profissional PSTQB"
+  name: "Associado Profissional"
   price: "60"
   priceCurrency: "EUR"
   ticketsNumber: "400"
@@ -158,7 +158,7 @@ ticketsOffers:
   validThrough: "2018-10-30T23:59"
   disabled: false
  -
-  name: "Associado Estudante PSTQB"
+  name: "Associado Estudante"
   price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "50"
