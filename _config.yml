@@ -140,6 +140,7 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: "400"
   buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
+  typeform: true
   buyButtonText: "Inscrever-se Agora"
   ticketContentList: ["Entrada na Conferência Testing Portugal 2018, com acesso a todas as refeições e documentação", "Para mais informações, contacte:", "testing.portugal@pstqb.pt"]
   validFrom: "2018-04-11T10:00"
@@ -152,6 +153,7 @@ ticketsOffers:
   ribbon: "-30%"
   featured: true
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
+  typeform: false
   buyButtonText: "Inscrever-se Agora"
   ticketContentList: ["Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:", "associados@pstqb.pt"]
   validFrom: "2018-04-11T10:00"
@@ -163,6 +165,7 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: "50"
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
+  typeform: false
   buyButtonText: "Inscrever-se Agora"
   ticketContentList: [" Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:", "associados@pstqb.pt"]
   validFrom: "2018-04-11T10:00"
