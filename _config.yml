@@ -52,7 +52,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Testing <typeout> 2018"
-eventDate: "21 de Novembro de 2018"
+eventDate: "21 de novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
 typeoutFallback: "Portugal"
 heroButtons:
@@ -177,7 +177,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.pstqb.pt/", text: "PSTQB"}
+   - {link: "https://www.pstqb.pt/", text: "Associação Portuguesa de Testes de Software"}
  -
   title: "Contactos"
   links:
