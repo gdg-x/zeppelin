@@ -11,17 +11,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
-    &.after-scroll {
-        padding-top: 0;
-        box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
-        .overlay {
-            opacity: 1;
-        }
-    }
-    .overlay {
-        opacity: 0;
-        transition: $base-transition;
-    }
+    opacity:1;
+    padding-top: 0;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
 }
 .logo-header {
     display: block;

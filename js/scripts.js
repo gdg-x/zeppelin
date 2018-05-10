@@ -19,10 +19,6 @@
         if ($(window).height() < 512) {
             $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
         }
-        if ($(window).scrollTop() >= 100) {
-            $('#top-header').addClass('after-scroll');
-            $('#logo-header .logo').removeClass('logo-light').addClass('logo-dark');
-        }
 
         $(window).scroll(function() {
             var scroll = $(this).scrollTop();
@@ -31,13 +27,6 @@
             var buyButton = $('.right-nav-button');
             var topOffset = header.height() + $('.track-header').height();
 
-            if (scroll >= 100) {
-                header.addClass('after-scroll');
-                logo.removeClass('logo-light').addClass('logo-dark');
-            } else {
-                header.removeClass('after-scroll');
-                logo.removeClass('logo-dark').addClass('logo-light');
-            }
 
             if (scroll >= $('.top-section').height() && $(window).width() > 767) {
                 buyButton.removeClass('right-nav-button-hidden');
