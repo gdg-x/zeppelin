@@ -95,14 +95,11 @@ rockstarSpeakersButtonText: "Ver todos os oradores"
 locationBlockTitle: "Localização"
 eventLocationName: "Altis Grand Hotel"
 eventLocationLink: "http://www.altishotels.com/PT/HotelAltisLisboa/"
-eventStreetAddress: "Rua Castilho 11"
-eventAddressLocality: "Lisboa"
-eventAddressLocalityRegion: "Lisboa"
-eventPostalCode: "1269-072"
+eventStreetAddress: "Rua Castilho, 11"
+eventPostalCode: "1269-072 Lisboa"
 eventAddressCountry: "Portugal"
-eventStartTime: "2018-10-25T9:30"
-eventDoorTime: "07:00"
-eventEndTime: "2018-10-25T17:35"
+eventStartTime: "09h:30m"
+eventEndTime: "17h:35m"
 eventPlaceCoordinates: "38.720760, -9.149948" 
 mapCenterCoordinates: "38.720693, -9.150502"
 mapMobileCenterCoordinates: "38.720693, -9.150502"
@@ -125,7 +122,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organização"
 partnersTitle: "Patrocionadores"
-partnersC4sponsorsButton: "Torna-te patrocionador"
+partnersC4sponsorsButton: "Como Patrocinar a Conferência?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -138,17 +135,17 @@ ticketsTitle: "Tabela de preços"
 ticketsInfo: "Os bilhetes garantem acesso à conferência, coffe brakes e almoço."
 ticketsOffers:
  -
-  name: "Normal"
+  name: "Inscrição normal"
   price: "85"
   priceCurrency: "EUR"
   ticketsNumber: "400"
   buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Para mais informações", "por favor contacte", "testing.portugal@pstqb.pt"]
+  ticketContentList: ["Entrada na Conferência Testing Portugal 2018, com acesso a todas as refeições e documentação", "Para mais informações, contacte:", "testing.portugal@pstqb.pt"]
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
  -
-  name: "Associado PSTQB"
+  name: "Associado Profissional PSTQB"
   price: "60"
   priceCurrency: "EUR"
   ticketsNumber: "400"
@@ -156,18 +153,18 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Para mais informações", "por favor contacte", "testing.portugal@pstqb.pt"]
+  ticketContentList: ["Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:", "associados@pstqb.pt"]
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
   disabled: false
  -
-  name: "Estudante"
+  name: "Associado Estudante PSTQB"
   price: "10"
   priceCurrency: "EUR"
   ticketsNumber: "50"
   buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Para mais informações", "por favor contacte", "testing.portugal@pstqb.pt"]
+  ticketContentList: [" Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:", "associados@pstqb.pt"]
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
   disabled: false

@@ -5,17 +5,18 @@
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
-                    <h3>{{ site.locationBlockTitle }}</h3>
+                    <h4>{{ site.locationBlockTitle }}</h4>
                     <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
-                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
-                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                        <li>
-                            {% assign startTime = site.eventStartTime | split: "T" %}
-                            <time>{{ startTime[1] }}</time> -
-                            {% assign endTime = site.eventEndTime | split: "T" %}
-                            <time>{{ endTime[1] }}</time>
-                        </li>
+                        <li>{{ site.eventStreetAddress }}</li>
+                        <li>{{site.eventPostalCode}}</li>
+                        <li>{{site.eventAddressCountry}}</li>
+                    </ul>
+                    <h4>Horário</h4>
+                    <ul>
+                        <li>Das {{ site.eventStartTime }} às {{ site.eventEndTime }}</li>
+                    </ul>
+                    
                     </ul>
                 </div>
             </div>
