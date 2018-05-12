@@ -12,6 +12,10 @@ partners:
 -  group: "Hosted by"
    elements:
      - {name: "Angular", description: "Angular", link: "https://angular.io/", imageUrl: "angular.svg"}
+-  group: "Photography"
+   elements:
+     - {name: "ngPoland", description: "ngPoland 2018", link: "http://ng-poland.pl/", imageUrl: "ng-poland-logo.svg"}
+
 -  group: "Media Partners"
    elements:
      - {name: "The Professional Women's Network of San Francisco (PWN)", description: "The Professional Women's Network of San Francisco (PWN)", link: "https://www.meetup.com/Professional-Womens-Network-of-San-Francisco/", imageUrl: "pwn.jpeg"}
