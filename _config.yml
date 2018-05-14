@@ -45,14 +45,14 @@ navigationLinks:
 # - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "#tickets", text: "Tix"}
+ - {permalink: "#partners", text: "Sponsors"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "#footer", text: "FAQ"}
- - {permalink: "/diversity-inclusion/", text: "D&I"}
- - {permalink: "/code-of-conduct/", text: "Conduct"}
 bottomNavigationLinks:
- - {link: "/#tickets", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
 rightNavigationButtons:
- - {link: "/#tickets", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "June 18–19, 2018"
 typeoutTextValues: '"", "Boston", "Community", "Beantown"'
 typeoutFallback: "Boston"
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets", target: "_blank"}
 
 # About Block
 aboutTitle: "About SwiftFest"
@@ -149,10 +149,21 @@ ticketsOffers:
   price: "399"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Sales Ended!"
   additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
   validFrom: "2018-04-21T00:00"
   validThrough: "2018-05-11T23:59"
+  soldOut: false
+  disabled: false
+ -
+  name: "Regular Bird"
+  price: "499"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
+  validFrom: "2018-04-11T00:00"
+  validThrough: "2018-06-01T23:59"
   soldOut: false
   disabled: false
  -
@@ -168,7 +179,7 @@ ticketsOffers:
   disabled: false
   soldOutText: "Sold Out"
  -
-   name: "Super Early Bird Group"
+   name: "Group Ticket"
    price: "249.75"
    priceCurrency: "USD each"
    buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
@@ -183,6 +194,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=TheSwiftFest", icon: "twitter"}
  - {link: "https://www.facebook.com/theSwiftFest", icon: "facebook"}
+ - {link: "https://www.linkedin.com/company/swiftfest/", icon: "linkedin"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
