@@ -3,7 +3,7 @@ layout: post
 title: Diversity at SwiftFest 2018
 permalink: /diversity-inclusion/
 isStaticPost: true
-image: people.jpg
+image: diversity-and-inclusion.jpg
 ---
 
 Diversity is essential to a successful SwiftFest Boston 2018. Everyone from volunteers to speakers to organizers have a shared goal of bringing people from underrepresented communities to SwiftFest Boston 2018. We hope to provide a great conference experience for everyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, national origin, ethnicity, religion (or lack thereof), or technological choices or experience.
