@@ -30,6 +30,7 @@ $nav-scroll-color-hover: #fbac3f;
     transition: $base-transition;
     @media (max-width: 767px) {
         transform: translateX(-45px);
+        margin-top: 20px;
     }
     .top-header.after-scroll & {
         transform: translateY(1px);
