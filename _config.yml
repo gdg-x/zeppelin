@@ -45,20 +45,20 @@ navigationLinks:
 # - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "#tickets", text: "Tix"}
+ - {permalink: "#tickets", text: "Tickets"}
  - {permalink: "#partners", text: "Sponsors"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "#footer", text: "FAQ"}
+ - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "SwiftFest <typeout> 2018" # TODO: typeout?
+heroImage: "bricks.jpg"
+heroTitle: "SwiftFest <typeout>  2018" # TODO: typeout?
 eventDate: "June 18–19, 2018"
-typeoutTextValues: '"", "Boston", "Community", "Beantown"'
+typeoutTextValues: '"", "Boston", "Swift", "Engineering", "Community", "Beantown", "iOS", "Excellence"'
 typeoutFallback: "Boston"
 heroButtons:
  - {permalink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets", target: "_blank"}

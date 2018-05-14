@@ -8,6 +8,7 @@
 -
   group: "Meetups"
   elements:
+    - {name: "MobileTea", description: "Mobile Tea", link: "http://mobiletea.net", imageUrl: "mobiletea.png"}
     - {name: "CocoaHeads", description: "CocoaHeads", link: "http://cocoaheads.org", imageUrl: "CocoaHeads.png"}
     - {name: "Learn Swift {City}", description: "Learn Swift {City}", link: "https://swiftcoders.org/2017/03/07/learn-swift-la/", imageUrl: "LearnSwiftCity.png"}
     - {name: "NSCoderNight", description: "NSCoderNight", link: "http://nscodernight.com", imageUrl: "NSCoderNight.png"}

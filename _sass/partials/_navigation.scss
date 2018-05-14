@@ -1,13 +1,14 @@
 $nav-color: #fff;
-$nav-color-hover: #cfcfcf;
+$nav-color-hover: #fbac3f;
 $nav-scroll-color: rgba(0, 0, 0, .5);
-$nav-scroll-color-hover: rgba(0, 0, 0, .8);
+$nav-scroll-color-hover: #fbac3f;
 
 .top-header {
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px;
+    padding: 0 45px 16px;
+    background-color:rgba(0, 0, 0, 0.5);
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
@@ -75,7 +76,7 @@ nav {
     }
     ul {
         float: left;
-        margin: -8px 0 0;
+        margin: -2px 0 0;
         padding: 0;
         list-style: none;
         text-align: left;
@@ -102,7 +103,7 @@ nav {
             display: block;
         }
         a {
-            font-size: $h6-font-size;
+            font-size: $h7-font-size;
             font-weight: $extra-bold;
             transition: $base-transition;
             text-transform: uppercase;
@@ -164,7 +165,7 @@ nav {
 }
 .menu-trigger {
     float: right;
-    transform: translateY(20px);
+    transform: translateY(40px);
     right: 45px;
     transition: $base-transition;
 }
