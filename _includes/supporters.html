@@ -1,0 +1,21 @@
+<!-- Begin Supporters Section -->
+<section id="supporters" class="supporters">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.supportersTitle }}</h3>
+            {% for supporter in site.data.supporters %}
+            <h5>{{ supporter.group }}</h5>
+            <ul class="list-inline">
+                {% for element in supporter.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/supporters/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div> 
+</section>
+<!-- End Supporters Section -->

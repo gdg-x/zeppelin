@@ -1,13 +1,14 @@
 $nav-color: #fff;
-$nav-color-hover: #cfcfcf;
+$nav-color-hover: #fbac3f;
 $nav-scroll-color: rgba(0, 0, 0, .5);
-$nav-scroll-color-hover: rgba(0, 0, 0, .8);
+$nav-scroll-color-hover: #fbac3f;
 
 .top-header {
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px;
+    padding: 0 45px 16px;
+    background-color:rgba(0, 0, 0, 0.5);
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
@@ -29,6 +30,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     transition: $base-transition;
     @media (max-width: 767px) {
         transform: translateX(-45px);
+        margin-top: 20px;
     }
     .top-header.after-scroll & {
         transform: translateY(1px);
@@ -39,7 +41,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .logo {
         display: inline-block;
         float: left;
-        width: 185px;
+        width: 223px;
         height: 60px;
         margin-right: 20px;
         transform: scale(.7);
@@ -50,7 +52,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     }
 }
 .logo-navbar {
-    width: 185px;
+    width: 223px;
     height: 60px;
     margin: 8px 20px 0 -10px;
     transform: scale(.6);
@@ -75,7 +77,7 @@ nav {
     }
     ul {
         float: left;
-        margin: 0;
+        margin: -2px 0 0;
         padding: 0;
         list-style: none;
         text-align: left;
@@ -88,7 +90,7 @@ nav {
             transform: translateY(0);  
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(20px);
             @media (max-width: 767px) {
                 transform: translateY(0);  
             }
@@ -102,8 +104,8 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size;
-            font-weight: $regular;
+            font-size: $h7-font-size;
+            font-weight: $extra-bold;
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
@@ -164,7 +166,7 @@ nav {
 }
 .menu-trigger {
     float: right;
-    transform: translateY(20px);
+    transform: translateY(40px);
     right: 45px;
     transition: $base-transition;
 }

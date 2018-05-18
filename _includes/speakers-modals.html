@@ -1,7 +1,7 @@
 <!-- Begin Speakers Modals -->
 <div class="modals" class="modals">
 	{% for speaker in site.data.speakers %}
-		{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
+		{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.volunteer != null)) %}
 		<div class="modal fade text-left people-modal" id="speakerDetail-{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
@@ -28,12 +28,16 @@
 										    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
 										</div>
 										{% endif %}
-										<p class="theme-description">{{ session.description }}</p>
+										<p class="theme-description">{{ session.description | markdownify }}</p>
+										{% if session.outcome %}
+										<h5>Attendees can expect to learn:</h5>
+										<span class="theme-description">{{ session.outcome | markdownify }}</span>
+										{% endif %}
 										{% if session.presentation %}
 										<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 										{% endif %}
 									{% endif %}
-								{% endfor %}		
+								{% endfor %}
 							{% endfor %}
 							<hr>
 						{% endif %}
@@ -49,11 +53,11 @@
 									{% if speaker.ribbon != null %}
 									<div class="modal-ribbon-wrapper">
 			                            {% for ribbon in speaker.ribbon %}
-			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 			                            {% endfor %}
 			                        </div>
 			                        {% endif %}
-									<p class="about">{{ speaker.bio }}</p>
+									<span class="about">{{ speaker.bio | markdownify }}</span>
 									<ul class="social">
 										{% for social in speaker.social %}
 											<li>

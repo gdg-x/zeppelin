@@ -1,13 +1,16 @@
 <!-- Begin Speakers List-->
+{% assign keynote_speaker = site.data.speakers | where: 'id', '1' %}
+{% assign all_speakers_without_keynote = site.data.speakers | where_exp: 'speaker', 'speaker.id != "1"' | sort: "surname" %}
+{% assign all_speakers = keynote_speaker | concat: all_speakers_without_keynote %}
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
-                {% for speaker in site.data.speakers %}
+                {% for speaker in all_speakers %}{% if speaker.mc != true %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}); background-position: center 30%;">
                                 <div class="overlay solid-overlay"></div>
                                 {% if speaker.ribbon != null %}
                                 <ul class="ribbon-wrapper">
@@ -30,15 +33,15 @@
                         <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %} 
-                                    {% for session in site.data.sessions %} 
-                                        {% for session_speaker in session.speakers %} 
+                                {% if site.showSessions %}
+                                    {% for session in site.data.sessions %}
+                                        {% for session_speaker in session.speakers %}
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
@@ -48,9 +51,39 @@
                         </div>
                     </div>
                 </div>
-                {% endfor %}
-            </div> 
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
+                {% endif %}{% endfor %}
+            </div>
+            <h2>MCs</h2>
+            <div class="col-lg-10 col-lg-offset-1">
+                <div class="row text-left appear-animation-trigger">
+                    {% for speaker in all_speakers %}{% if speaker.mc == true %}
+                    <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                        <div class="lily-effect ribbon-activator">
+                            <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                                <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}); background-position: center 30%;">
+                                    <div class="overlay solid-overlay"></div>
+                                    {% if speaker.ribbon != null %}
+                                    <ul class="ribbon-wrapper">
+                                        {% for ribbon in speaker.ribbon %}
+                                        <li class="{{ ribbon["abbr"] | downcase }}">
+                                            <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                            <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                    {% endif %}
+                                    {% if site.showSessions %}
+                                    <figcaption>
+                                        <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+                                        <p class="position">{{ speaker.company }}</p>
+                                    </figcaption>
+                                    {% endif %}
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}{% endfor %}
+                </div>
         </div>
     </div>
 </section>

@@ -1,60 +1,150 @@
-- 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+-
+  id: "0"
+  name: "Matt"
+  surname: "Dias"
+  title: "Community lead"
+  thumbnailUrl: MattDias.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
+    - {name: "github", link: "https://github.com/mdiasdev"}
+-
+  id: "1"
+  name: "Zev"
+  surname: "Eisenberg"
+  title: "Tech lead"
+  thumbnailUrl: ZevEisenberg.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/ZevEisenberg"}
+    - {name: "github", link: "https://github.com/ZevEisenberg"}
+    - {name: "site", link: "https://ZevEisenberg.com/"}
+-
+  id: "3"
+  name: "Lucy"
+  surname: "Monahan"
+  title: "Speakers liaison"
+  thumbnailUrl: LucyMonahan.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
+    - {name: "twitter", link: "https://twitter.com/sofetching"}
+-
+  id: "4"
+  name: "Giorgio"
+  surname: "Natili"
+  title: "Idea maker, team lead"
+  thumbnailUrl: GiorgioNatili.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
+-
+  id: "5"
+  name: "Jeff"
+  surname: "O’Leary"
+  title: "Content lead"
+  thumbnailUrl: JeffOLeary.jpg
+  team: true
+  social:
+    - {name: "github",link: "https://github.com/joleary1987"}
+-
+  id: "6"
+  name: "Sean"
+  surname: "Olszewski"
+  title: "Development lead"
+  thumbnailUrl: SeanOlszewski.jpg
+  team: true
+  social:
+    - {name: "github", link: "https://github.com/SeanROlszewski/"}
+
+-
+  id: "7"
+  name: "Andres"
+  surname: "Pineda"
+  title: "Volunteers coordinator"
+  thumbnailUrl: AndresPineda.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ajpinedam"}
+    - {name: "github", link: "https://github.com/ajpinedam"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
+-
+  id: "10"
+  name: "Barbara"
+  surname: "Menicucci"
+  title: "Event Manager"
+  thumbnailUrl: BarbaraMenicucci.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/barbara-menicucci-57ab939a/"}
+-
+  id: "2"
+  name: "Luis"
+  surname: "Alberto"
+  title: "Mobile developer"
+  thumbnailUrl: LuisAlberto.jpg
+  volunteer: true
+  social:
+    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
+-
+  id: "8"
+  name: "Paul"
+  surname: "Bruce"
+  title: "Open space coordinator"
+  thumbnailUrl: PaulBruce.jpg
+  volunteer: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/paulsbruce"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paulsbruce/"}
+-
+  id: "9"
+  name: "Barbara"
+  surname: "Van"
+  title: "Designer"
+  thumbnailUrl: BarbaraVanaki.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/284779163"}
+-
+  id: "11"
+  name: "Bryan"
+  surname: "Ryczek"
+  title: "Mobile Developer"
+  thumbnailUrl: BryanRyczek.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bryanryczek/"}
+    - {name: "twitter", link: "https://twitter.com/bryanryczek"}
+
+-
+  id: "12"
+  name: "Yohanna"
+  surname: "Ramirez"
+  title: "Operations Manager"
+  thumbnailUrl: YohannaRamirez.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yohanna-ramirez-bbba9791/"}
+
+-
+  id: "13"
+  name: "Jose Gregorio"
+  surname: "Taveras"
+  title: "Mobile Developer"
+  thumbnailUrl: JoseTaveras.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jose-gregorio-taveras-taveras-16738952/"}
+    - {name: "twitter", link: "https://twitter.com/JGTaveras"}
+
+-
+  id: "14"
+  name: "Mythri"
+  surname: "Shenoy"
+  title: "iOS Developer"
+  thumbnailUrl: MythriShenoy.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/my3vshenoy/"}
