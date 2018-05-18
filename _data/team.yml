@@ -138,4 +138,13 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jose-gregorio-taveras-taveras-16738952/"}
     - {name: "twitter", link: "https://twitter.com/JGTaveras"}
-  
+
+-
+  id: "14"
+  name: "Mythri"
+  surname: "Shenoy"
+  title: "iOS Developer"
+  thumbnailUrl: MythriShenoy.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/my3vshenoy/"}
