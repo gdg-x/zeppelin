@@ -46,11 +46,6 @@
       endTime: "6:00",
       sessionIds: ["005", "007", "666"]
     }
-    - {
-      startTime: "6:00",
-      endTime: "7:00",
-      sessionIds: ["999", "999", "666"]
-    }
 -
   date: "2018-06-19"
   dateReadable: "Tuesday, June 19"
