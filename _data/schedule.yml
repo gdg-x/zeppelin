@@ -57,17 +57,17 @@
     - {
       startTime: "9:00",
       endTime: "10:00",
-      sessionIds: ["027", "999", "666"]
+      sessionIds: ["700"]
     }
     - {
       startTime: "10:00",
       endTime: "11:00",
-      sessionIds: ["015", "014", "029"]
+      sessionIds: ["027", "999", "029"]
     }
     - {
       startTime: "11:00",
       endTime: "12:00",
-      sessionIds: ["012", "017", "666"]
+      sessionIds: ["015", "014", "666"]
     }
     - {
       startTime: "12:00",
@@ -77,20 +77,25 @@
     - {
       startTime: "1:00",
       endTime: "2:00",
-      sessionIds: ["011", "013", "021"]
+      sessionIds: ["012", "017", "021"]
     }
     - {
       startTime: "2:00",
       endTime: "3:00",
-      sessionIds: ["025", "016", "666"]
+      sessionIds: ["011", "013", "666"]
     }
     - {
       startTime: "3:00",
       endTime: "4:00",
-      sessionIds: ["999", "010", "030"]
+      sessionIds: ["025", "016", "030"]
     }
     - {
       startTime: "4:00",
       endTime: "5:00",
-      sessionIds: ["000"] # closing keynote
+      sessionIds: ["999", "010", "666"]
+    }
+    - {
+      startTime: "6:00",
+      endTime: "7:00",
+      sessionIds: ["701"]
     }

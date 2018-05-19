@@ -445,7 +445,12 @@
   description: "No talk or workshop in this time slot."
   speakers: []
 -
-  id: "000"
+  id: "700"
+  title: "Day 2 keynote"
+  description: "The closing keynote will be announced soon."
+  speakers: []
+-
+  id: "701"
   title: "Closing keynote"
-  description: "The closing keynote will be announced Monday May 7th."
+  description: "The closing keynote will be announced soon."
   speakers: []
