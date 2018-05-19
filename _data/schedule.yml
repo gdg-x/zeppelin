@@ -92,10 +92,5 @@
     - {
       startTime: "4:00",
       endTime: "5:00",
-      sessionIds: ["999", "999", "666"]
-    }
-    - {
-      startTime: "5:00",
-      endTime: "6:00",
       sessionIds: ["000"] # closing keynote
     }
