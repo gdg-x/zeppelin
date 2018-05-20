@@ -10,6 +10,7 @@
   id: "503"
   title: "Lunch"
   place: "Dining room"
+  description: ""
   service: true
   speakers: []
   subtype: meta
