@@ -5,12 +5,14 @@
   service: true
   description: "The best time to talk with speakers and attendees"
   speakers: []
+  subtype: meta
 -
   id: "503"
   title: "Lunch"
   place: "Dining room"
   service: true
   speakers: []
+  subtype: meta
 -
   id: "001"
   title: "Keynote: Accidentally Famous"
@@ -434,25 +436,29 @@
   id: "998"
   title: "Workshop to be announced"
   description: "More speakers coming soon!"
-  subtype: presentation
+  subtype: workshop
   speakers: []
 -
   id: "1511"
   title: "The workshop continues…"
   description: "Each workshop is at least 90 minutes"
+  subtype: meta
   speakers: []
 -
   id: "666"
   title: ""
   description: "No talk or workshop in this time slot."
+  subtype: meta
   speakers: []
 -
   id: "700"
   title: "Day 2 keynote"
   description: "The closing keynote will be announced soon."
+  subtype: presentation
   speakers: []
 -
   id: "701"
   title: "Closing keynote"
   description: "The closing keynote will be announced soon."
+  subtype: presentation
   speakers: []
