@@ -4,11 +4,13 @@
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+  speakers: []
 -
   id: "503"
   title: "Lunch"
   place: "Dining room"
   service: true
+  speakers: []
 -
   id: "001"
   title: "Keynote: Accidentally Famous"
