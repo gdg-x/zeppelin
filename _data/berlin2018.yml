@@ -17,6 +17,7 @@ partners:
    elements:
      - {name: "Angular Berlin", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/", imageUrl: "angular-berlin.svg"}
      - {name: "SinnerSchrader", description: "SinnerSchrader Berlin", link: "https://sinnerschrader.com/", imageUrl: "sinnerschrader.png"}
+     - {name: "Twilio", description: "Twilio", link: "https://www.twilio.com", imageUrl: "twilio.svg"}
 
 
 
