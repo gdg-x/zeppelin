@@ -110,7 +110,7 @@
   speakers: ["8"]
 -
   id: "009"
-  title: "Mutability: Perks and Quirks"
+  title: "Immutability: Perks and Quirks"
   description: |
    Writing Swift, I have a strong preference for immutable objects, why? Because immutability leads to simplicity and clarity since implicit in an object's creation, is a guarantee that it will never change.
 
