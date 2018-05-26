@@ -40,10 +40,6 @@ I am sure we will learn lots of things during this magical event.👩‍💻</p>
   social:
     - {name: "twitter", link: "https://twitter.com/ellamessa_"}
 
-
-
-
-
   
 - id: 2
   name: "Feli"
@@ -61,14 +57,51 @@ I am sure we will learn lots of things during this magical event.👩‍💻</p>
     - {name: "twitter", link: "https://twitter.com/kotzendekrabbe"}
 
 - id: 3
-  name: "And You?"
-  surname: ""
-  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
-  thumbnailUrl: you.png
-  company: ""
+  name: "Vincent"
+  surname: "Fahrenholz"
+  bio: "<p>x</p>
+ "
+  thumbnailUrl: blank.jpg
+  company: "Mentor"
   rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/DrearyTown"}
 
 - id: 4
+  name: "Pablo"
+  surname: "Villoslada Puigcerber"
+  bio: "<p>I'm a frontend consultant who is passionate about clean code and standards to make things simpler. I like to contribute back to the community and help others to reach their dreams.</p>
+ "
+  thumbnailUrl: pablo.jpg
+  company: "Mentor"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Puigcerber"}
+
+- id: 5
+  name: "Dominik"
+  surname: "Kundel"
+  bio: "<p>My name is Dominik and I work as a Developer Evangelist for Twilio in Berlin. I love being a developer because it gives me the chance to be creative and create things. I think it's important that our community grows and becomes more diverse. That's why I love helping out at events like Codebar or ngGirls</p>
+ "
+  thumbnailUrl: blank.jpg
+  company: "Mentor/Twilio"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/dkundel"}
+
+- id: 6
+  name: "Julian"
+  surname: "Cebulla"
+  bio: "<p>x</p>
+ "
+  thumbnailUrl: blank.jpg
+  company: "Mentor"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/OwlCowl"}
+
+
+- id: 7
   name: "Martin"
   surname: "Sonnenholzer"
   bio: "<p>I am an Angular developer, who started with version 1.0.7. A lot has happened in the Angular world since then.
@@ -82,7 +115,7 @@ I am sure we will learn lots of things during this magical event.👩‍💻</p>
     - {name: "twitter", link: "https://twitter.com/chaos_monster"}
 
 
-- id: 5
+- id: 8
   name: "Robert"
   surname: "Willemelis"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
@@ -102,9 +135,4 @@ I am sure we will learn lots of things during this magical event.👩‍💻</p>
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 
-- id: 6
-  name: "And You?"
-  surname: ""
-  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
-  thumbnailUrl: you.png
-  rockstar: true
+
