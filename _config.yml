@@ -50,7 +50,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Torna-te orador"}
 
 # Hero Block
-heroImage: "hero-test.jpg"
+heroImage: "hero-test-2.png"
 heroTitle: "Testing <typeout> 2018"
 eventDate: "21 de novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
