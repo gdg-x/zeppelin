@@ -148,3 +148,15 @@
   volunteer: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/my3vshenoy/"}
+
+-
+  id: "15"
+  name: "Chris"
+  surname: "Buonocore"
+  title: "Software Engineer"
+  thumbnailUrl: ChrisBuonocore.jpg
+  volunteer: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chrisbuonocore/"}
+
+
