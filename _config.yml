@@ -72,7 +72,7 @@ bottomNavigationLinks:
 #  - {permalink: "/karachi/", text: "ngGirls @ Karachi"}
 #  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
- - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
+# - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
  - {permalink: "/angular-connect2018/", text: "ngGirls @ AngularConnect"}
 rightNavigationButtons:
@@ -102,7 +102,7 @@ upcomingEvents:
 #  - {permalink: "/karachi/", date: "March 17th", location: "Karachi, Pakistan", name: "ngGirls @ Karachi"}
 #  - {permalink: "/ng-conf/", date: "April 17th", location: "Salt Lake City, Utah", name: "ngGirls @ ng-conf"}
 # - {permalink: "/angular_hq/", date: "May 11th", location: "Mountain View, California", name: "ngGirls @ Angular HQ"}
- - {permalink: "/berlin2018/", date: "May 27th", location: "Berlin", name: "ngGirls @ Berlin"}
+# - {permalink: "/berlin2018/", date: "May 27th", location: "Berlin", name: "ngGirls @ Berlin"}
  - {permalink: "/NgTalks/", date: "August 8th", location: "Kharkiv", name: "ngGirls @ NgTalks"}
  - {permalink: "/angular-connect2018/", date: "November 5th, 2018", location: "London", name: "ngGirls @ AngularConnect"}
 heroButtons:
@@ -124,7 +124,7 @@ heroButtons:
 #  - {permalink: "/copenhagen/", text: "ngGirls @ Copenhagen"}
 #  - {permalink: "/karachi/", text: "ngGirls @ Karachi"}
 #  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
- - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
+# - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
  - {permalink: "/angular-connect2018/", text: "ngGirls @ Angular Connect"}
