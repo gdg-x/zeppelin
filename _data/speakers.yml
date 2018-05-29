@@ -30,7 +30,7 @@
   thumbnailUrl: CraigClayton.jpg
   rockstar: false
   social:
-    {name: "twitter", link: "https://twitter.com/thedevme"}
+    - {name: "twitter", link: "https://twitter.com/thedevme"}
 -
   id: "3"
   name: "Sean"
