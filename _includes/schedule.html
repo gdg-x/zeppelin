@@ -3,7 +3,7 @@
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
-            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <h4 class="schedule-table-heading">{{ day.date | date: "%A, %B %e" }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
                 <div class="timeslot-elements flexbox-wrapper">
@@ -22,12 +22,10 @@
             <div class="timeslot">
                 <div class="timeslot-label">
                     <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
-                        {% assign startTime = timeslot.startTime | split: ":" %}
-                        {{ startTime[0] }}<span>{{ startTime[1] }}</span>
+                        {{ timeslot.startTime | date: "%l<span>%M</span>" }}
                     </time>
                     <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
-                        {% assign endTime = timeslot.endTime | split: ":" %}
-                        {{ endTime[0] }}<span>{{ endTime[1] }}</span>
+                        {{ timeslot.endTime | date: "%l<span>%M</span>" }}
                     </time>
                 </div>
                 <div class="timeslot-elements flexbox-wrapper">
