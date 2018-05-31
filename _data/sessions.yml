@@ -420,7 +420,7 @@
   title: "Building Great Tools with SwiftSyntax (1.5h)"
   description: |
    SwiftSyntax is the Swift project's library for working with Swift source code. In this workshop, you can learn how to rapidly prototype linting and formatting tools from the library's author. No prior knowledge of SwiftSyntax is required, but a good grasp of Swift itself will be necessary.
-   Note that SwiftSyntax is only available in developer snapshots of the Swift toolchain; please install the latest Trunk development (master) toolchain snapshot before the workshop from https://swift.org/downloads.
+   Note that SwiftSyntax is only available in developer snapshots of the Swift toolchain; please install the latest Trunk development (master) toolchain snapshot before the workshop from <https://swift.org/downloads>.
   outcome: |
    - The structure of SwiftSyntax and how to use it to parse and generate Swift
    - How to use SyntaxVisitor to write linting/analysis tools that find real-world issues
