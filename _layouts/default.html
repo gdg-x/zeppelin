@@ -45,34 +45,37 @@ layout: compress
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
+    {% if page.permalink == '/'%}
     <script>
-        if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?key={{site.mapsAPIKey}}&v=3.exp"><\/script>')
-        } 
+        var icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+        var coordinates = {lat: 38.720760, lng: -9.149948};
+        function detectBrowser() {
+            var useragent = navigator.userAgent;
+            var mapdiv = document.getElementById("canvas-map");
+        
+            if (useragent.indexOf('iPhone') != -1 || useragent.indexOf('Android') != -1 ) {
+            mapdiv.style.width = '100%';
+            mapdiv.style.height = '100%';
+            } else {
+            mapdiv.style.width = '600px';
+            mapdiv.style.height = '800px';
+            }
+        }
+        function initMap() {
+            detectBrowser();
+            var map = new google.maps.Map(document.getElementById('canvas-map'), {
+                center: coordinates,
+                zoom: 19
+            });
+            var marker = new google.maps.Marker({position: coordinates, map: map});
+        }
+        
     </script>
-    {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?key={{site.mapsAPIKey}}&v=3.exp&libraries=places,geometry"></script>
-        <script type="text/javascript">
-            var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
-        </script>
-    {% endif %} 
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSGveF4v_i-5RWdl_y9-ynD2fLV1slpHs&callback=initMap"async defer></script>
+    {% endif %}
     <script>
         Waves.displayEffect();
-        {% if page.permalink == '/' %}
-            if ($(window).width() > 767) {
-                var googleMaps = 'index',
-                    eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
-                    centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
-                    mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-            } else {
-               var staticGoogleMaps = true,
-                eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
-                centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
-                mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
-                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
+        {% if page.permalink == '/' %}            
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
@@ -107,27 +110,6 @@ layout: compress
                     }
                 }
             });
-        {% elsif page.permalink == '/logistics/' %}
-            var googleMaps = 'logistics',
-                eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates }}),
-                centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
-                mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
-                icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-        {% elsif page.permalink == '/hackathon/' %}
-            if ($(window).width() > 767) {
-                var googleMaps = 'hackathon',
-                    eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
-                    centerMap = new google.maps.LatLng({{ site.hackathonMapCenterCoordinates }}),
-                    mobileCenterMap = new google.maps.LatLng({{ site.hackathonMapMobileCenterCoordinates }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-            } else {
-               var staticGoogleMaps = true,
-                eventPlaceCoordinates = '{{ site.hackathonPlaceCoordinates | replace:' ','' }}',
-                centerMapCoordinates = '{{ site.hackathonMapCenterCoordinates | replace:' ','' }}',
-                mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
-                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
-            
         {% endif %} 
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
