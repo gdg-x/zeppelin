@@ -10,7 +10,8 @@
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
-            {% for teamMember in sortedTeam %} {% if teamMember.team != null %}
+            {% assign organizers = sortedTeam | where: 'type', 'team' %}
+            {% for teamMember in organizers %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
@@ -32,13 +33,13 @@
                     </figure>
                 </div>
             </div>
-            {% endif %} {% endfor %}
+            {% endfor %}
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
-            {% assign volunteers = sortedTeam | where: 'volunteer',true %}
-            {% if volunteers | size > 0 %}
-            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Volunteers</h4>
-            {% for teamMember in volunteers %} {% if teamMember.volunteer %}
+            {% assign mcs = sortedTeam | where: 'type', 'mc' %}
+            {% if mcs | size > 0 %}
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">MCs</h4>
+            {% for teamMember in mcs %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
@@ -60,9 +61,39 @@
                     </figure>
                 </div>
             </div>
-            {% endif %} {% endfor %} {% endif %}
+            {% endfor %} {% endif %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            {% assign volunteers = sortedTeam | where: 'type', 'volunteer' %}
+            {% if volunteers | size > 0 %}
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Volunteers</h4>
+            {% for teamMember in volunteers %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                                <span class="position">{{ teamMember.title }}</span>
+                            </div>
+                            {% for social in teamMember.social %}
+                            <a href="{{ social["link"] }}" target="_blank">
+                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %} {% endif %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
             <p>
-              <a href="https://www.freepik.com/free-photos-vectors/business" style="color: #aaa;">Business image created by Jcomp - Freepik.com</a>
+                <a href="https://www.freepik.com/free-photos-vectors/business" style="color: #aaa;">Business image created by Jcomp - Freepik.com</a>
             </p>
         </div>
     </div>
