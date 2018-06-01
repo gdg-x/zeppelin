@@ -137,45 +137,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/dokun24"}
 -
-  id: "15"
-  name: "Marcy"
-  surname: "Regalado"
-  title: "UX Design Lead"
-  company: "Fidelity Investments"
-  bio: |
-   Marcy is a UX Design Lead at Fidelity Investments, where she currently is leading design and implementation of various innovative features for Fidelity mobile apps, wearables, website, and emerging platforms such as smart home devices. In her spare time, Marcy is a UX consultant working on the design and development of mobile apps and websites, mentorship for women in tech, sound designer and curator as a DJ, technology conference MCee, and an active Tufts alum.
-  thumbnailUrl: MarcyRegalado.jpg
-  rockstar: false
-  mc: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/marcyregalado"}
--
-  id: "9"
-  name: "Andyy"
-  surname: "Hope"
-  title: "Software Engineer"
-  company: "Facebook"
-  bio: |
-   Andyy is a Software Engineer at Facebook and is also the founder of [Wu-Tang Clang](http://wutangclang.org/) which is a learn-to-code fundraiser, keeps a technical blog of Swift on [Medium](http://medium.com/@AndyyHope). Previously he was the organiser of [Playgrounds Conference](http://playgroundscon.com/).
-  thumbnailUrl: AndyyHope.jpg
-  rockstar: false
-  mc: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/AndyyHope"}
--
-  id: "10"
-  name: "Garric"
-  surname: "Nahapetian"
-  title: "iOS Engineer"
-  company: "Tinder"
-  bio: |
-   Garric is an iOS Engineer at Tinder as well as the host of The SwiftCoders Podcast and the founder of the Learn Swift {CITY} group of meet ups.
-  thumbnailUrl: GarricNahapetian.jpg
-  rockstar: false
-  mc: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/garricn"}
--
   id: "11"
   name: "Ish"
   surname: "Shabazz"
@@ -340,17 +301,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/WittedHaddock"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/wittedhaddock/"}
--
-  id: "27"
-  name: "Alexandrea"
-  surname: "Mellen"
-  bio: |
-   Alexandrea Mellen is a technical content marketer at callstats.io. She has developed multiple iOS applications for her company, Terrapin Computing, as well as several freelance projects.
-  thumbnailUrl: AlexandreaMellen.jpg
-  rockstar: false
-  mc: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/alexandreamel"}
 -
   id: "28"
   name: "Brad"
