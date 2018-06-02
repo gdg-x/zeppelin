@@ -55,17 +55,16 @@ layout: compress
         
             if (useragent.indexOf('iPhone') != -1 || useragent.indexOf('Android') != -1 ) {
             mapdiv.style.width = '100%';
-            mapdiv.style.height = '100%';
             } else {
             mapdiv.style.width = '600px';
-            mapdiv.style.height = '800px';
             }
         }
         function initMap() {
             var map = new google.maps.Map(document.getElementById('canvas-map'), {
                 center: coordinates,
-                zoom: 19,
+                zoom: 18,
             });
+            map.panTo({lat:38.7203,lng: -9.149948});
             var marker = new google.maps.Marker({position: coordinates, map: map});
         }
         
