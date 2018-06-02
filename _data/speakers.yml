@@ -214,6 +214,7 @@
    Pat Butkiewicz is an iOS developer turned DevOps engineer that has been building mobile apps, and the infrastructure to support them for 6 years at Intrepid Pursuits in Cambridge, MA. Daily responsibilities include mentoring junior developers, managing the mobile continuous integration/deployment pipeline, and working with clients on various cloud platforms. Most importantly I'm responsible for maintaining our continuous integration environment as well as improving on existing mobile development processes through automation. Together with a small team, we build tools and maintain a small fleet of Jenkins servers for 75+ mobile and web developers.
   thumbnailUrl: PatButkiewicz.jpg
   rockstar: false
+  social: []
 -
   id: "19"
   name: "David"
