@@ -103,6 +103,7 @@ eventPlaceLat: "38.720760"
 eventPlaceLong: "-9.149948"
 mapCenterCoordinates: "38.720693, -9.150502"
 mapMobileCenterCoordinates: "38.720693, -9.150502"
+mapsAPIKey: "AIzaSyCSGveF4v_i-5RWdl_y9-ynD2fLV1slpHs"
 
 # Venue Block
 venueBlockTitle: "Galeria"
@@ -110,14 +111,6 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organização"

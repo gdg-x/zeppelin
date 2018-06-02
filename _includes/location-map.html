@@ -1,18 +1,24 @@
 <!-- Begin Location Section -->
 <section id="location-map" class="location-map">
+    <h3>{{site.locationBlockTitle}}</h3>
+    <div class="location-description">
+            <p>{{site.eventLocationName}} - {{site.eventStreetAddress}}</p> 
+            <p>{{site.eventPostalCode}}, {{site.eventAddressCountry}}</p>
+            <p><span class="strong">Horário: </span> Das {{ site.eventStartTime }} às {{ site.eventEndTime }}</p>
+    </div>
     <div id="canvas-map" class="canvas-map"></div>
-    <div class="content-wrapper">
+    <!--div class="content-wrapper">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
-                    <h4>{{ site.locationBlockTitle }}</h4>
+                    <h5>{{ site.locationBlockTitle }}</h5>
                     <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
                         <li>{{ site.eventStreetAddress }}</li>
                         <li>{{site.eventPostalCode}}</li>
                         <li>{{site.eventAddressCountry}}</li>
                     </ul>
-                    <h4>Horário</h4>
+                    <h5>Horário</h5>
                     <ul>
                         <li>Das {{ site.eventStartTime }} às {{ site.eventEndTime }}</li>
                     </ul>
@@ -21,6 +27,6 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div-->
 </section>
 <!-- End Location Section -->

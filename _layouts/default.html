@@ -62,16 +62,15 @@ layout: compress
             }
         }
         function initMap() {
-            detectBrowser();
             var map = new google.maps.Map(document.getElementById('canvas-map'), {
                 center: coordinates,
-                zoom: 19
+                zoom: 19,
             });
             var marker = new google.maps.Marker({position: coordinates, map: map});
         }
         
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSGveF4v_i-5RWdl_y9-ynD2fLV1slpHs&callback=initMap"async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{site.mapsAPIKey}}&callback=initMap"async defer></script>
     {% endif %}
     <script>
         Waves.displayEffect();
@@ -123,8 +122,6 @@ layout: compress
             });
         </script>
     {% endif %}
-
-    {% include schema-event.html %}
 </body>
 
 </html>
