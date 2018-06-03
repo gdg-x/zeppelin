@@ -208,3 +208,21 @@
   type: mc
   social:
     - {name: "twitter", link: "https://twitter.com/garricn"}
+
+-
+  id: "17"
+  name: "Dakota"
+  surname: "Kim"
+  title: "Full Stack Developer"
+  thumbnailUrl: DakotaKim.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/skelegram"}
+
+-
+  id: "18"
+  name: "Ari"
+  surname: "Roshko"
+  title: "Team Player"
+  thumbnailUrl: AriRoshko.jpg
+  type: volunteer
