@@ -28,7 +28,7 @@
   bio: |
    Craig Clayton is a Sr. iOS Engineer at [Adept Mobile](http://adeptmobi.com/), which specializes in building mobile experiences primarily for NBA & NFL teams. Craig also volunteers as the organizer of the [Suncoast iOS meetup group](http://www.meetup.com/Suncoast-iOS/) in the Tampa/St. Petersburg area, and prepares presentations and hands-on talks for the community. On top of all that, Craig is also the owner of [Cocoa Academy](http://cocoa.academy/), which specializes in iOS video courses.
   thumbnailUrl: CraigClayton.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/thedevme"}
 -
@@ -40,7 +40,7 @@
   bio: |
    Currently a software engineer at Pivotal Labs, Sean Olszewski focuses on practicing test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. When he’s not working on projects for clients, he can be found at meet ups in the Boston area, or organizing the two meet ups he runs: Learn Swift Boston, and XP Boston. Feel free to ask Sean any testing or audio questions you might have!
   thumbnailUrl: SeanOlszewski.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/__chefski__"}
     - {name: "github", link: "https://github.com/seanrolszewski"}
@@ -53,7 +53,7 @@
   bio: |
    Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.
   thumbnailUrl: MattDias.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
@@ -65,7 +65,7 @@
   bio: |
     Alex is a seasoned iOS consultant who’s been building iOS apps, top to bottom, client to server, over the last 7 years. Alex is an author of [The iOS Interview Guide](http://iosinterviewguide.com/) and a co-host at [Inside iOS Dev](http://insideiosdev.com/) podcast. Currently he’s focusing on his consulting work and on leveling up iOS developers by teaching them architecture and design patterns best practices.
   thumbnailUrl: AlexBush.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "site", link: "http://m.smartcloud.io/"}
     - {name: "site", link: "http://insideiosdev.com/"}
@@ -106,7 +106,7 @@
   bio: |
    Sarp is an independent iOS developer, designer and entrepreneur. He co-founded the two popular apps, Typorama and Videorama, which got more than 6M downloads worldwide, reaching $1M annual revenue. His work has been featured by Apple, TechCrunch, ProductHunt, Entrepreneur Magazine, Popular Science and many other online and printed news sources. Sarp is an expert in building self-funded, bootstrapped app businesses, and passionate about sharing his knowledge and experiences throughout his journey.
   thumbnailUrl: SarpErdag.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/sarperdag/"}
     - {name: "facebook", link: "https://www.facebook.com/sarperdag"}
@@ -120,7 +120,7 @@
   bio: |
    Joshua Greene is a long-time author and technical editor for RayWenderlich.com. He is the lead author of [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials) and co-author of [tvOS Apprentice](https://store.raywenderlich.com/products/tvos-apprentice). Joshua is very passionate about writing maintainable code, and he's an advocate for design patterns and test driven development.
   thumbnailUrl: JoshuaGreene.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/jrg_developer"}
 -
@@ -133,7 +133,7 @@
     David Okun is a mobile software developer turned developer advocate for IBM in Austin, Texas.
     David has been primarily focused on iOS mobile software, but is also interested in web technology such as Node.js. He's shared over 35 projects with the community on GitHub. David's favorite thing to do is to teach, and he loves an opportunity to clearly explain how something works, and walk someone through it.
   thumbnailUrl: DavidOkun.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/dokun24"}
 -
@@ -144,7 +144,7 @@
   bio: |
    Ish has been an independent iOS App Developer since 2010. He works full time as a network engineer and spends practically every moment outside of that developing apps or working on something app-related. His apps have been featured by Apple, Starbucks, App Advice, iMore, and Daring Fireball. Ish’s story was featured in the documentary App: The Human Story. He is currently working on Capsicum, a daily planner and notebook.
   thumbnailUrl: IshShabazz.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ishabazz"}
 
@@ -178,7 +178,7 @@
   bio: |
    Rob is co-author of iOS Programming Pushing the Limits, and maintainer of the RNCryptor encryption format. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight. Today, he shapes music over Bluetooth for Logitech, explores old ideas in new languages, and tries to figure out how all of this applies to Swift.
   thumbnailUrl: RobNapier.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/cocoaphony"}
     - {name: "site", link: "http://robnapier.net/"}
@@ -189,7 +189,7 @@
   bio: |
    Michael is a proud generalist who loves learning about everything. He's making the Kidfund app happen so saving for your kids is as easy as it should be. He travels almost exclusively for the food, and to identify bilingual puns.
   thumbnailUrl: MichaelHelmbrecht.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/mrh_is"}
     - {name: "site", link: "https://mrh.is/"}
@@ -197,10 +197,11 @@
   id: "17"
   name: "Lou"
   surname: "Franco"
+  company: "Trello"
   bio: |
    Lou Franco is on the Trello iOS Team at Atlassian and is the Mobile Editor for Smashing Magazine. In his spare time, he runs, volunteers as a Big Brother, and writes about iOS on App-o-Mat. He lives with his wife in Northampton, MA.
   thumbnailUrl: LouFranco.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/loufranco"}
     - {name: "site", link: "https://trello.com/"}
@@ -210,29 +211,32 @@
   id: "18"
   name: "Pat"
   surname: "Butkiewicz"
+  company: "Intrepid"
   bio: |
    Pat Butkiewicz is an iOS developer turned DevOps engineer that has been building mobile apps, and the infrastructure to support them for 6 years at Intrepid Pursuits in Cambridge, MA. Daily responsibilities include mentoring junior developers, managing the mobile continuous integration/deployment pipeline, and working with clients on various cloud platforms. Most importantly I'm responsible for maintaining our continuous integration environment as well as improving on existing mobile development processes through automation. Together with a small team, we build tools and maintain a small fleet of Jenkins servers for 75+ mobile and web developers.
   thumbnailUrl: PatButkiewicz.jpg
-  rockstar: false
+  rockstar: true
   social: []
 -
   id: "19"
   name: "David"
   surname: "Ohayon"
+  company: "Verily"
   bio: |
    David Ohayon is an iOS and firmware engineer at Verily. Prior to that, I worked on the Fabric product suite for Twitter and was later acquired by Google. I love to snowboard, travel, and play with my big pupper, Frankie.
   thumbnailUrl: DavidOhayon.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ohayon"}
 -
   id: "20"
   name: "Hung"
   surname: "Truong"
+  company: "Lyft"
   bio: |
    Hung is an iOS Engineer at Lyft where he converts free snacks and coffee into lots of Swift code that moves cars and people around. He has been hacking on iOS since before the original iPhone OS 2.1 SDK was released in 2008. His hobbies include brewing cold brew coffee, photography and being the social media manager and growth hacker for his corgi, Sodapop.
   thumbnailUrl: HungTruong.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "site", link: "http://www.hung-truong.com/blog/"}
     - {name: "twitter", link: "http://www.twitter.com/hungtruong/"}
@@ -242,30 +246,33 @@
   id: "21"
   name: "Ayal"
   surname: "Spitz"
+  company: "Intrepid"
   bio: |
    Ayal Spitz has 25+ years’ experience in mobile computing, distributed software, emerging technologies, and technology fusion. Over the course of his career he has focused on solving problems in new and unique ways. As a senior principal software engineer at Intrepid Pursuits he is focused on raising the level of engineering craftsmanship and code quality. Prior to working at Intrepid, Ayal worked for government, military, and commercial clients bringing mobile computing to bear on their problem set.
   thumbnailUrl: AyalSpitz.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/aspitz"}
 -
   id: "22"
   name: "Jeff"
   surname: "Kelley"
+  company: "Detroit Labs"
   bio: |
    Jeff Kelley is a developer at Detroit Labs, where he builds apps in Swift but still has a soft spot for Objective-C. Author of Developing Apps for Apple Watch and Learn Cocoa Touch for iOS, he’s been working with iOS since its infancy in 2008. Jeff is passionate about building usable apps, the open-source community around Apple platforms, and will talk your ear off about electric cars and clean energy. Jeff loves raising his two kids and two dogs, Detroit, and organizing the Motor City CocoaHeads group.
   thumbnailUrl: JeffKelley.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/slaunchaman"}
 -
   id: "23"
   name: "Harlan"
   surname: "Haskins"
+  company: "Google"
   bio: |
    Harlan is a recent graduate of RIT, and an engineer on Google’s Swift Language Support Team. He is a former Apple intern on Swift, where he created SwiftSyntax. He also co-founded LLVMSwift, an organization devoted to making tools to facilitate compiler development in Swift.
   thumbnailUrl: HarlanHaskins.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/harlanhaskins"}
     - {name: "github", link: "https://github.com/harlanhaskins"}
@@ -273,20 +280,22 @@
   id: "24"
   name: "Neem"
   surname: "Serra"
+  company: "Slalom"
   bio: |
    Neem Serra is a mobile developer at Slalom in St. Louis. She teaches and mentors at a variety of non-profit organizations such as Software Carpentry. As the lead of the Google Women Techmakers group in St. Louis, she started the St. Louis Techies Project to highlight the diversity of technical people in St. Louis. Neem loves to bake, read comics, and host craft nights.
   thumbnailUrl: NeemSerra.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/TeamNeem"}
 -
   id: "25"
   name: "Todd"
   surname: "Burner"
+  company: "Google"
   bio: |
    Todd Burner is a Developer Advocate on the Firebase team. He previously worked on other teams in Google Cloud Platform, at Twitter, and a few mobile-first startups. He spends his time helping developers get up and running with open source and Google projects on GitHub and Stack Overflow, as well as meeting developers in person across the world.
   thumbnailUrl: ToddBurner.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/toddlovesthis"}
     - {name: "github", link: "https://github.com/tkburner"}
@@ -299,7 +308,7 @@
 
    Recently he has become interested in empowering and better tooling the "small guys" that all SaaS has so far ignored: senior citizens, immigrants, and people who Just Don't Know by starting the Wallace Murry Phone Co. Wallace Murry is the only wireless phone provider based in MA. Wallace Murry doesn't sell your data to advertisers like AT&T et al, puts on events/sessions at low-income community centers that promote digital literacy (how to use a mouse, keyboard, email, google maps, etc), won't sell you an unlimited data plan if you don't need it, and is staffed with people from your local community who pick up the phone instantly if you call with any questions related to your phone (or beyond!).
   thumbnailUrl: JamesGraham.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/WittedHaddock"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/wittedhaddock/"}
@@ -310,7 +319,8 @@
   bio: |
    Brad Smith is a Senior iOS Engineer at Wayfair. He is a southern transplant into New England that is still coming to terms with weather other than "Hot" and "Very Hot". He has worked on iOS at various mobile agencies and product companies over the last 5 years. While not writing and reviewing code, he spends his time snowboarding, playing ultimate, and eating lots of yummy food.
   thumbnailUrl: BradSmith.jpg
-  rockstar: false
+  rockstar: true
+  company: "WayFair"
   social:
     - {name: "twitter", link: "https://twitter.com/bsmithers11"}
     - {name: "github", link: "https://github.com/bsmith11"}
@@ -332,7 +342,8 @@
   bio: |
    Arthur is one of the lead iOS engineers at The Washington Post. He currently leads mobile development on the "Arc Publishing" team, building native iOS and Android apps for news publishers around the world. He has also taught Swift & Objective-C at various code schools, acted as a technical reviewer on books on Swift, and over the last 6 years, has authored a couple dozen open source libraries for the iOS community. Before leaving his Ph.D. program, he was an experimental nuclear physicist who worked underground colliding subatomic and subnuclear particles.
   thumbnailUrl: ArthurSabintsev.jpg
-  rockstar: false
+  rockstar: true
+  company: "The Washington Post"
   social:
     - {name: "twitter", link: "https://twitter.com/ArtSabintsev"}
     - {name: "github", link: "http://github.com/ArtSabintsev"}
@@ -345,6 +356,7 @@
    Ray is CTO of Element55 in Cambridge, MA. Element55 provides automatic and mobile time capture solutions to major professional service firms around the world. Ray's initial background was as a quantitative analyst at dotcom-era startups, but after a shift to software, Ray has been developing developers to make products in data and mobile since the days of Blackberry. Machine learning has brought this full circle!
   thumbnailUrl: RayDeck.jpg
   rockstar: false
+  company: "Element55"
   social:
     - {name: "twitter", link: "https://twitter.com/ray_deck"}
     - {name: "github", link: "https://github.com/rhdeck"}
@@ -356,7 +368,8 @@
   bio: |
    Alex is the tech lead of Google's Swift Language Support team, the primary maintainer of google/swift, and responsible for various open-sourced and to-be-open-sourced Swift tools such as swift-format.
   thumbnailUrl: AlexanderLash.jpg
-  rockstar: false
+  company: "Google"
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/lexlash"}
     - {name: "github", link: "https://github.com/abl"}
