@@ -367,6 +367,19 @@
   complexity: "advanced"
   speakers: ["30"]
 -
+  id: "056"
+  title: "Powering Mobile eCommerce via Data Science"
+  description: |
+   Ever wonder why a website is recommending that hot pink dress shirt to you? What happens when you’re browsing and tap into a product you like? It’s all part of the fine tuned machine which is data science.
+   This talk will detail how Rue La La has used data science to drive revenue, enhance personalized shopping and provide an engaging mobile app experience. We hope that by the end of this talk all attendees will have an understanding of big data, machine learning and the impact it is having on eCommerce at large.
+  outcome: |
+   - Basic understanding of data science
+   - Why combining UX with data science is so important
+   - How mobile and data science are powering the future of ecommerce
+  subtype: presentation
+  complexity: "intermediate"
+  speakers: ["60", "61"]
+-
   id: "027"
   title: "Artificial Intelligence in Swift"
   description: |

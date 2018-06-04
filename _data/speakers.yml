@@ -283,6 +283,7 @@
   id: "25"
   name: "Todd"
   surname: "Burner"
+  company: "Google"
   bio: |
    Todd Burner is a Developer Advocate on the Firebase team. He previously worked on other teams in Google Cloud Platform, at Twitter, and a few mobile-first startups. He spends his time helping developers get up and running with open source and Google projects on GitHub and Stack Overflow, as well as meeting developers in person across the world.
   thumbnailUrl: ToddBurner.jpg
@@ -290,6 +291,30 @@
   social:
     - {name: "twitter", link: "https://twitter.com/toddlovesthis"}
     - {name: "github", link: "https://github.com/tkburner"}
+-
+  id: "60"
+  name: "Glen"
+  surname: "Yi"
+  company: "Rue La La"
+  bio: |
+   Glen Yi is the lead iOS engineer at Rue La La. He graduated in Computer Engineering from the University of Toronto, some lifetime ago, and has been doing iOS development since 2012. Likes the Toronto Blue Jays, Maple Leafs except when they’re losing game 7s, and the Toronto Raptors when they’re not getting swept.
+  thumbnailUrl: glen.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/glenyi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/glenyi/"}
+    - {name: "github", link: "https://github.com/glenyi"}
+-
+  id: "61"
+  name: "Mehrnoosh"
+  surname: "Sameki"
+  company: "Rue La La"
+  bio: |
+   Mehrnoosh Sameki is a data scientist at Rue La La. She received her PhD in computer science from Boston University. Following the completion of her degree in August 2017, she moved to her current role, which combines her passion for data science, machine learning and fashion!  She is interested in incorporating data science and machine learning in retail space to drive revenue and enhance personalized shopping experiences of Rue La La’s 20M members. In her spare time, she enjoys trying new food recipes, watching documentaries, and reading about interior design and house decoration.
+  thumbnailUrl: sameki.png
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mehrnoosh-sameki-a2a02245/"}
 -
   id: "26"
   name: "James"
