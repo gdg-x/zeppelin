@@ -56,7 +56,7 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "bricks-pride.jpg"
+heroImage: "bricks-pride-optimized.jpg"
 heroTitle: "SwiftFest <typeout>  2018" # TODO: typeout?
 eventDate: "June 18–19, 2018"
 typeoutTextValues: '"", "Boston", "Swift", "Engineering", "Community", "Beantown", "iOS", "Excellence"'
