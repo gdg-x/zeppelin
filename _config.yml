@@ -56,7 +56,7 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "bricks.jpg"
+heroImage: "bricks-pride.jpg"
 heroTitle: "SwiftFest <typeout>  2018" # TODO: typeout?
 eventDate: "June 18–19, 2018"
 typeoutTextValues: '"", "Boston", "Swift", "Engineering", "Community", "Beantown", "iOS", "Excellence"'
@@ -136,60 +136,50 @@ ticketsTitle: "Tickets"
 ticketsInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th–19th) and exhibitor booths, a ticket to the official conference party on June 18th for you and a guest, morning snack, lunch, and afternoon snack on both days."
 ticketsOffers:
  -
-  name: "Super Early Bird"
-  price: "299"
-  priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-  buyButtonText: "Sold Out!"
-  validFrom: "2018-1-1T00:00"
-  validThrough: "2018-04-20T23:59"
-  soldOut: false
-  disabled: false
+   name: "Student"
+   price: "99"
+   priceCurrency: "USD"
+   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+   buyButtonText: "Buy Now"
+   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
+   validFrom: "2018-1-1T00:00"
+   validThrough: "2018-06-18T9:00"
+   soldOut: false
+   disabled: false
+   soldOutText: "Sold Out"
  -
-  name: "Early Bird"
-  price: "399"
-  priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-  buyButtonText: "Sales Ended!"
-  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
-  validFrom: "2018-04-21T00:00"
-  validThrough: "2018-05-11T23:59"
-  soldOut: false
-  disabled: false
+   name: "Group Ticket"
+   price: "299"
+   priceCurrency: "USD each"
+   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+   buyButtonText: "Buy Now"
+   additionalInfo: "May be purchased in groups of 4."
+   validFrom: "2018-1-1T00:00"
+   validThrough: "2018-06-08T23:59"
+   soldOut: false
+   disabled: false
  -
-  name: "Regular Bird"
+  name: "In Time Bird"
   price: "499"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
   buyButtonText: "Buy Now"
   additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
   validFrom: "2018-04-11T00:00"
-  validThrough: "2018-06-01T23:59"
+  validThrough: "2018-06-08T23:59"
   soldOut: false
   disabled: false
  -
-  name: "Student"
-  price: "99"
+  name: "Regular Ticket"
+  price: "599"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
-  validFrom: "2018-1-1T00:00"
-  validThrough: "2018-06-18T9:00"
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
+  validFrom: "2018-06-09T00:00"
+  validThrough: "2018-06-16T23:59"
   soldOut: false
-  disabled: false
-  soldOutText: "Sold Out"
- -
-   name: "Group Ticket"
-   price: "249.75"
-   priceCurrency: "USD each"
-   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-   buyButtonText: "Buy Now"
-   additionalInfo: "May be purchased in groups of 4."
-   validFrom: "2018-1-1T00:00"
-   validThrough: "2018-05-31T23:59"
-   soldOut: false
-   disabled: false
+  disabled: true
 
 # Footer
 socialLinks:
@@ -243,9 +233,8 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://www.reverehotel.com/", text: "The Revere Hotel (Official SwiftFest Hotel)"}
+     - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel (Official SwiftFest Hotel)"}
      - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
-     - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel"}
      - {link: "http://www.wboston.com/", text: "W Boston"}
      - {link: "https://www.airbnb.com/s/Boston--MA", text: "Airbnb"}
    -
