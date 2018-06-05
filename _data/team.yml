@@ -22,6 +22,16 @@
     - {name: "github", link: "https://github.com/ZevEisenberg"}
     - {name: "site", link: "https://ZevEisenberg.com/"}
 -
+  id: "2"
+  name: "Luis"
+  surname: "Alberto"
+  title: "Mobile developer"
+  thumbnailUrl: LuisAlberto.jpg
+  type: volunteer
+  social:
+    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
+-
   id: "3"
   name: "Lucy"
   surname: "Monahan"
@@ -59,7 +69,6 @@
   type: team
   social:
     - {name: "github", link: "https://github.com/SeanROlszewski/"}
-
 -
   id: "7"
   name: "Andres"
@@ -71,25 +80,6 @@
     - {name: "twitter", link: "https://twitter.com/ajpinedam"}
     - {name: "github", link: "https://github.com/ajpinedam"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
--
-  id: "10"
-  name: "Barbara"
-  surname: "Menicucci"
-  title: "Event Manager"
-  thumbnailUrl: BarbaraMenicucci.jpg
-  type: team
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/barbara-menicucci-57ab939a/"}
--
-  id: "2"
-  name: "Luis"
-  surname: "Alberto"
-  title: "Mobile developer"
-  thumbnailUrl: LuisAlberto.jpg
-  type: volunteer
-  social:
-    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
 -
   id: "8"
   name: "Paul"
@@ -110,6 +100,15 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/284779163"}
 -
+  id: "10"
+  name: "Barbara"
+  surname: "Menicucci"
+  title: "Event Manager"
+  thumbnailUrl: BarbaraMenicucci.jpg
+  type: team
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/barbara-menicucci-57ab939a/"}
+-
   id: "11"
   name: "Bryan"
   surname: "Ryczek"
@@ -119,7 +118,6 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/bryanryczek/"}
     - {name: "twitter", link: "https://twitter.com/bryanryczek"}
-
 -
   id: "12"
   name: "Yohanna"
@@ -129,7 +127,6 @@
   type: volunteer
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/yohanna-ramirez-bbba9791/"}
-
 -
   id: "13"
   name: "Jose Gregorio"
@@ -140,7 +137,6 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jose-gregorio-taveras-taveras-16738952/"}
     - {name: "twitter", link: "https://twitter.com/JGTaveras"}
-
 -
   id: "14"
   name: "Mythri"
@@ -150,7 +146,6 @@
   type: volunteer
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/my3vshenoy/"}
-
 -
   id: "15"
   name: "Chris"
@@ -160,7 +155,6 @@
   type: volunteer
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/chrisbuonocore/"}
-
 -
   id: "16"
   name: "Alexandrea"
@@ -184,7 +178,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/marcyregalado"}
 -
-  id: "9"
+  id: "18"
   name: "Andyy"
   surname: "Hope"
   title: "Software Engineer"
@@ -196,7 +190,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/AndyyHope"}
 -
-  id: "10"
+  id: "19"
   name: "Garric"
   surname: "Nahapetian"
   title: "iOS Engineer"
@@ -208,3 +202,20 @@
   type: mc
   social:
     - {name: "twitter", link: "https://twitter.com/garricn"}
+-
+  id: "20"
+  name: "Dakota"
+  surname: "Kim"
+  title: "Full Stack Developer"
+  thumbnailUrl: DakotaKim.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/skelegram"}
+-
+  id: "21"
+  name: "Ari"
+  surname: "Roshko"
+  title: "Team Player"
+  thumbnailUrl: AriRoshko.jpg
+  type: volunteer
+  social: []
