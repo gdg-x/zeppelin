@@ -470,12 +470,6 @@
   subtype: presentation
   speakers: []
 -
-  id: "998"
-  title: "Workshop to be announced"
-  description: "More speakers coming soon!"
-  subtype: workshop
-  speakers: []
--
   id: "1511"
   title: "The workshop continues…"
   description: "Each workshop is at least 90 minutes"
