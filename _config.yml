@@ -33,10 +33,6 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
 
 # Navigation
 navigationLinks:
@@ -44,9 +40,9 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Torna-te orador"}
+ - {link: "#", text: "Torna-te orador"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Torna-te orador"}
+ - {link: "#", text: "Torna-te orador"}
 
 # Hero Block
 heroImage: "hero-test-2.png"
@@ -114,7 +110,7 @@ venueSmallImage3: "venue_3.jpg"
 
 # Partners Block
 organizersTitle: "Organização"
-partnersTitle: "Patrocionadores"
+partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Como Patrocinar a Conferência?"
 
 # Subscribe Block
