@@ -398,3 +398,16 @@
     - {name: "twitter", link: "https://twitter.com/lexlash"}
     - {name: "github", link: "https://github.com/abl"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/alexlash/"}
+-
+  id: "33"
+  name: "Alicia"
+  surname: "Carr"
+  bio: |
+   Alicia is an activist, mentor, grandmother, and self-taught developer from Georgia. After learning to code online, she built an app to support women who are victims of domestic violence across the United States.
+  thumbnailUrl: AliciaCarr.jpg
+  company: "Purple Evolution"
+  title: "CEO/Founder"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/fineblkwoman"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pevoapp/"}

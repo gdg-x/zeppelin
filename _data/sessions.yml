@@ -442,6 +442,21 @@
   complexity: "intermediate"
   speakers: ["23", "32"]
 -
+  id: "031"
+  title: "Closing Keynote: Using Your Superpowers for Good to Change the World!"
+  description: |
+   A 16 year old inspired me to learn to code.
+
+   This lit the fuse that would take me on an amazing journey through challenges and victories while creating an app to help victims escape domestic violence and abuse.
+
+   This is my story.
+
+   This is the story of how someone with no coding experience got their app approved for the app store. There were challenges along the way which were far outweighed by the success, impact and achievements. Since its release, the social impact of the application has been incredible. Then a global technology giant came knocking, which brought a new life of excitement as well as being completely overwhelming. This story serves as an example of why women should be recognized as an equal and important part of the tech community.
+
+   Come meet the Oprah of technology.
+  subtype: presentation
+  speakers: ["33"]
+-
   id: "999"
   title: "Talk to be announced"
   description: "More speakers coming soon!"
