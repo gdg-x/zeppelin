@@ -481,3 +481,7 @@
   description: "No talk or workshop in this time slot."
   subtype: meta
   speakers: []
+-
+  id: "888"
+  title: "Opening Remarks"
+  description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements from Giorgio Natili, SwiftFest team lead."

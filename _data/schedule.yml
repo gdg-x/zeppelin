@@ -6,6 +6,11 @@
     - {title: "Workshops", color: "#90be4e"}
   timeslots:
     - {
+      startTime: "2018-06-18T09:45:00-04:00",
+      endTime: "2018-06-18T10:00:00-04:00",
+      sessionIds: ["888"]
+    }
+    - {
       startTime: "2018-06-18T10:00:00-04:00",
       endTime: "2018-06-18T11:00:00-04:00",
       sessionIds: ["001"]
