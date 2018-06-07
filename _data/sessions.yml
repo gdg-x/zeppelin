@@ -6,7 +6,7 @@
   description: "O melhor momento para falar com oradores e participantes"
 -
   id: 201
-  title: "Lunch Break"
+  title: "Almoço"
   place: "Sala de almoço"
   service: true
 
@@ -26,6 +26,10 @@
   id: 204
   title: "Sorteio"
   language: pt
+
+-
+  id: 205
+  title: "Receção"
 
 
 -
