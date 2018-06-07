@@ -1,44 +1,44 @@
 - 
   id: 2
-  name: "Clive"
-  surname: "Bates"
+  name: "Em"
+  surname: "Atualização"
   company: "Experimentus"
   title: "Managing Consultant and Lead TMMi Assessor"
   bio: "Having been in the testing industry for many years now, I have a great deal of practical experience in all aspects of testing including the theory and hold a real passion for the industry, which I believe comes over when I talk to people about testing. I am also a firm believer that we should have a view on where “our” industry is going by reading articles, listening to others, and thinking about what could be in the future. All linked to process improvement…."
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/clive-bates-1875aaa/"}
 - 
   id: 3
-  name: "Barış"
-  surname: "Sarıalioğlu"
+  name: "Em"
+  surname: "Atualização"
   company: "Keytorc Software Testing Services"
   title: "Managing partner"
   bio: "Baris has over 15 years of experience as an information systems professional. He is highly experienced in software development, project management, business analysis, and software testing. Baris also has diverse experience spanning several industries, including telecommunications, defense, banking and finance, semiconductor manufacturing, and aviation. Based on this broad experience, he has been involved in several challenging projects and had the chance to work in several different countries, including Turkey, the United States, Russia, Germany, China, and Greece. He has written articles and papers on software development, quality assurance, and software testing, and he regularly attends international and national conferences as a speaker, panelist, moderator, and contributor. In 2013, he published his first book, Software Testing Tips, in which he shared his experiences and vision about various software testing issues. Later-wards in 2015, he published his second book, Mobile Testing Tips, where he addressed many important areas as; Mobile Testing Techniques, Mobile Testing Tools, Mobile Test Automation and Mobile Performance Testing."
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/barissarialioglu/"}
 - 
   id: 4
-  name: "Maaret"
-  surname: "Pyhäjärvi"
+  name: "Em"
+  surname: "Atualização"
   company: "Granlund Oy"
   title: "Testing specialist"
   bio: 'Maaret Pyhäjärvi is a software specialist with emphasis on testing. She works with a 10-person software development team at Granlund Oy as the testing specialist. On the side, she delivers hands-on testing trainings and consults on testing through Altom Consulting Oy. In addition to being an exploratory tester extraordinaire who teaches testing effectively in a mob testing format, she is an international conference speaker and an experienced organizer, facilitator and volunteer with various non-profit communities (Agile Finland, Software Testing Finland, Learn with Llew, Speak Easy, European Testing Conference) and book author, blogger and tweeter.'
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/maaret/"}
 - 
   id: 5
-  name: "Ard"
-  surname: "Kramer"
+  name: "Em"
+  surname: "Atualização"
   company: "Alten Nederland"
   title: "Software tester"
   bio: "I am a software tester from the Netherlands and I am working for Alten Nederland since 2008. I call myself a Qualisopher which stands for someone “who loves truth and wisdom and at the same time is decisive to improve man and his environment” . This means I am interested in the world around us, to see what I can learn and I can apply in software testing. That is one of the reason why I tell stories in books and at (test) conferences such as EuroSTAR, Expo:QA, Belgium Testing Days, CAST and Testnet conferences. My dream is to participate, as a good qualisopher, in all kind of projects such as sports, culture or software testing. Projects which add value to our community: I want to inspire other people by cooperation, fun and empathy and hopefully bring light in someone's life."
-  thumbnailUrl: MateuszHerych.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/ardkramer/"}
@@ -66,89 +66,89 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
 - 
   id: 8
-  name: "Tiago"
-  surname: "Honorato"
+  name: "Em"
+  surname: "Atualização"
   company: "Noesis"
   title: "QM Manager"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/tiagohonorato/"}
 - 
   id: 9
-  name: "António"
-  surname: "Barros"
+  name: "Em"
+  surname: "Atualização"
   company: "OutSystems"
   title: "Product Manager"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/falebarros/"}
 - 
   id: 10
-  name: "Miguel"
-  surname: "Real"
+  name: "Em"
+  surname: "Atualização"
   company: "Micro Focus"
   title: "Business Consultant"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/falebarros/"}
 - 
   id: 11
-  name: "Sérgio"
-  surname: "Freire"
+  name: "Em"
+  surname: "Atualização"
   company: "XPand IT"
   title: "Product Manager"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/falebarros/"}
 - 
   id: 12
-  name: "Filipe Nuno"
-  surname: "Carlos"
+  name: "Em"
+  surname: "Atualização"
   company: "WinTrust"
   title: "Managing Partner"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/falebarros/"}
 - 
   id: 13
-  name: "Bernardo"
-  surname: "Marques"
+  name: "Em"
+  surname: "Atualização"
   company: "Feedzai"
   title: "Software Engineer in Test"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/falebarros/"}
 - 
   id: 14
-  name: "João Valença"
-  surname: "Marques"
+  name: "Em"
+  surname: "Atualização"
   company: "Feedzai"
   title: "Software Engineer in Test"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/falebarros/"}
 - 
   id: 15
-  name: "Ana"
-  surname: "Paiva"
+  name: "Em"
+  surname: "Atualização"
   company: "FEUP"
   title: "Professora Auxiliar"
   bio: "Lorem Ipsum."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/falebarros/"}
