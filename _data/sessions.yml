@@ -457,6 +457,13 @@
   subtype: presentation
   speakers: ["33"]
 -
+  id: "032"
+  title: "Swift, Juggling, &amp; You"
+  description: |
+   Juggling is often used as a metaphor to represent the idea of dividing your attention between multiple tasks at once. But not this time! This is a talk about actual juggling, the math behind it, and the exercise of representing that math in Swift.
+  subtype: presentation
+  speakers: ["34"]
+-
   id: "999"
   title: "Talk to be announced"
   description: "More speakers coming soon!"

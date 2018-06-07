@@ -411,3 +411,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/fineblkwoman"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pevoapp/"}
+-
+  id: "34"
+  name: "Zev"
+  surname: "Eisenberg"
+  bio: |
+   Zev was raised by clowns, but he ran away to join the circuits.
+  thumbnailUrl: ZevEisenberg.jpg
+  company: "Raizlabs, a Rightpoint company"
+  title: "iOS Developer"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/zeveisenberg"}
