@@ -39,6 +39,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
+ - {permalink: "/workshops/", text: "Workshops"}
 bottomNavigationLinks:
  - {link: "#", text: "Torna-te orador"}
 rightNavigationButtons:

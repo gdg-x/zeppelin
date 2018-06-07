@@ -1,0 +1,27 @@
+- 
+  date: "2018-11-20"
+  dateReadable: "20 de novembro"
+  tracks: 
+    - {title: "Workshops", color: "#90be4e"}
+  timeslots: 
+    - {
+    	startTime: "09:00",
+    	endTime: "18:00",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "17:00",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "18:00",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "20:30",
+    	sessionIds: [004]
+    }
+
