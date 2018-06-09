@@ -1,60 +1,230 @@
-- 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+-
+  id: "0"
+  name: "Matt"
+  surname: "Dias"
+  title: "Community lead"
+  thumbnailUrl: MattDias.jpg
+  type: team
+  social:
+    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
+    - {name: "github", link: "https://github.com/mdiasdev"}
+-
+  id: "1"
+  name: "Zev"
+  surname: "Eisenberg"
+  title: "Tech lead"
+  thumbnailUrl: ZevEisenberg.jpg
+  type: team
+  bio: |
+   Zev was raised by clowns, but he ran away to join the circuits.
+  social:
+    - {name: "twitter", link: "https://twitter.com/ZevEisenberg"}
+    - {name: "github", link: "https://github.com/ZevEisenberg"}
+    - {name: "site", link: "https://ZevEisenberg.com/"}
+-
+  id: "2"
+  name: "Luis"
+  surname: "Alberto"
+  title: "Mobile developer"
+  thumbnailUrl: LuisAlberto.jpg
+  type: volunteer
+  social:
+    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
+-
+  id: "3"
+  name: "Lucy"
+  surname: "Monahan"
+  title: "Speakers liaison"
+  thumbnailUrl: LucyMonahan.jpg
+  type: team
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
+    - {name: "twitter", link: "https://twitter.com/sofetching"}
+-
+  id: "4"
+  name: "Giorgio"
+  surname: "Natili"
+  title: "Idea maker, team lead"
+  thumbnailUrl: GiorgioNatili.jpg
+  type: team
+  social:
+    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
+-
+  id: "5"
+  name: "Jeff"
+  surname: "O’Leary"
+  title: "Content lead"
+  thumbnailUrl: JeffOLeary.jpg
+  type: team
+  social:
+    - {name: "github",link: "https://github.com/joleary1987"}
+-
+  id: "6"
+  name: "Sean"
+  surname: "Olszewski"
+  title: "Development lead"
+  thumbnailUrl: SeanOlszewski.jpg
+  type: team
+  social:
+    - {name: "github", link: "https://github.com/SeanROlszewski/"}
+-
+  id: "7"
+  name: "Andres"
+  surname: "Pineda"
+  title: "Volunteers coordinator"
+  thumbnailUrl: AndresPineda.jpg
+  type: team
+  social:
+    - {name: "twitter", link: "https://twitter.com/ajpinedam"}
+    - {name: "github", link: "https://github.com/ajpinedam"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
+-
+  id: "8"
+  name: "Paul"
+  surname: "Bruce"
+  title: "Open space coordinator"
+  thumbnailUrl: PaulBruce.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/paulsbruce"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paulsbruce/"}
+-
+  id: "9"
+  name: "Barbara"
+  surname: "Van"
+  title: "iOS Developer"
+  thumbnailUrl: BarbaraVanaki.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/284779163"}
+-
+  id: "10"
+  name: "Barbara"
+  surname: "Menicucci"
+  title: "Event Manager"
+  thumbnailUrl: BarbaraMenicucci.jpg
+  type: team
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/barbara-menicucci-57ab939a/"}
+-
+  id: "11"
+  name: "Bryan"
+  surname: "Ryczek"
+  title: "Mobile Developer"
+  thumbnailUrl: BryanRyczek.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bryanryczek/"}
+    - {name: "twitter", link: "https://twitter.com/bryanryczek"}
+-
+  id: "12"
+  name: "Yohanna"
+  surname: "Ramirez"
+  title: "Operations Manager"
+  thumbnailUrl: YohannaRamirez.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yohanna-ramirez-bbba9791/"}
+-
+  id: "13"
+  name: "Jose Gregorio"
+  surname: "Taveras"
+  title: "Mobile Developer"
+  thumbnailUrl: JoseTaveras.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jose-gregorio-taveras-taveras-16738952/"}
+    - {name: "twitter", link: "https://twitter.com/JGTaveras"}
+-
+  id: "14"
+  name: "Mythri"
+  surname: "Shenoy"
+  title: "iOS Developer"
+  thumbnailUrl: MythriShenoy.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/my3vshenoy/"}
+-
+  id: "15"
+  name: "Chris"
+  surname: "Buonocore"
+  title: "Software Engineer"
+  thumbnailUrl: ChrisBuonocore.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chrisbuonocore/"}
+-
+  id: "16"
+  name: "Alexandrea"
+  surname: "Mellen"
+  bio: |
+   Alexandrea Mellen is a technical content marketer at callstats.io. She has developed multiple iOS applications for her company, Terrapin Computing, as well as several freelance projects.
+  thumbnailUrl: AlexandreaMellen.jpg
+  type: mc
+  social:
+    - {name: "twitter", link: "https://twitter.com/alexandreamel"}
+-
+  id: "17"
+  name: "Marcy"
+  surname: "Regalado"
+  title: "UX Design Lead"
+  company: "Fidelity Investments"
+  bio: |
+   Marcy is a UX Design Lead at Fidelity Investments, where she currently is leading design and implementation of various innovative features for Fidelity mobile apps, wearables, website, and emerging platforms such as smart home devices. In her spare time, Marcy is a UX consultant working on the design and development of mobile apps and websites, mentorship for women in tech, sound designer and curator as a DJ, technology conference MCee, and an active Tufts alum.
+  thumbnailUrl: MarcyRegalado.jpg
+  type: mc
+  social:
+    - {name: "twitter", link: "https://twitter.com/marcyregalado"}
+-
+  id: "18"
+  name: "Andyy"
+  surname: "Hope"
+  title: "Software Engineer"
+  company: "Facebook"
+  bio: |
+   Andyy is a Software Engineer at Facebook and is also the founder of [Wu-Tang Clang](http://wutangclang.org/) which is a learn-to-code fundraiser, keeps a technical blog of Swift on [Medium](http://medium.com/@AndyyHope). Previously he was the organiser of [Playgrounds Conference](http://playgroundscon.com/).
+  thumbnailUrl: AndyyHope.jpg
+  type: mc
+  social:
+    - {name: "twitter", link: "https://twitter.com/AndyyHope"}
+-
+  id: "19"
+  name: "Garric"
+  surname: "Nahapetian"
+  title: "iOS Engineer"
+  company: "Tinder"
+  bio: |
+   Garric is an iOS Engineer at Tinder as well as the host of The SwiftCoders Podcast and the founder of the Learn Swift {CITY} group of meet ups.
+  thumbnailUrl: GarricNahapetian.jpg
+  rockstar: false
+  type: mc
+  social:
+    - {name: "twitter", link: "https://twitter.com/garricn"}
+-
+  id: "20"
+  name: "Dakota"
+  surname: "Kim"
+  title: "Full Stack Developer"
+  thumbnailUrl: DakotaKim.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/skelegram"}
+-
+  id: "21"
+  name: "Ari"
+  surname: "Roshko"
+  title: "Team Player"
+  thumbnailUrl: AriRoshko.jpg
+  type: volunteer
+  social: []
+-
+  id: "22"
+  name: "Hari"
+  surname: "Ganesan"
+  title: "Software Engineer"
+  bio: "Hari Ganesan is currently a software engineer at Drafted. Previously, he founded his own mobile app startup, which he worked on for several years as a CTO. He then worked on a mobile analytics SDK for a couple years as both an engineer and a product manager. More recently, he’s been using his background in both analytics and startups to help work on a recruiting startup out of Cambridge focused on improving referrals. In his spare time, he likes to read books, play games, and tinker around with the newest web technologies."
+  thumbnailUrl: HariGanesan.jpg
+  type: volunteer
+  social: []

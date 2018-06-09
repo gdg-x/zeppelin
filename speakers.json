@@ -1,0 +1,6 @@
+---
+---
+{%- assign keynote_speaker = site.data.speakers | where: 'id', '1' %}
+{%- assign all_speakers_without_keynote = site.data.speakers | where_exp: 'speaker', 'speaker.id != "1"' | sort: "surname" %}
+{%- assign all_speakers = keynote_speaker | concat: all_speakers_without_keynote %}
+{{- all_speakers | jsonify }}

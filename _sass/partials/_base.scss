@@ -25,16 +25,17 @@ $h3-font-size: 5 * $base-font-size;
 $h4-font-size: 3.125 * $base-font-size;
 $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
+$h7-font-size: 1.3 * $base-font-size;
 
 // Colors
-$main-color: #03a9f4;
+$main-color: #ff422a;
 $link-color: $main-color;
 $link-lighten-amount: 20%;
 $base-background-color: #fff;
 $base-section-background-color: $link-color;
-$primary-color: #4285f4;
-$primary-color-hover: #3266d5;
-$icon-fill-color: #8b8b8b;
+$primary-color: #fbac3f;
+$primary-color-hover: #ff422a;
+$icon-fill-color: #fbac3f;
 
 // Sizes
 $min-section-height: 350px;

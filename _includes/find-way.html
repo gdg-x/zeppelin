@@ -12,7 +12,7 @@
             </div>
             <div class="location-result">
                 <span id="result-name" class="result-name"></span>
-                <span>to DevFest</span>
+                <span>to SwiftFest</span>
                 <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
                     <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
                 </svg>
@@ -44,7 +44,7 @@
                 </li>
             </ul>
             <div class="clearfix"></div>
-            <a href="https://maps.google.com/maps?ll={{ site.eventPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.eventStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.eventAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
+            <a href="https://maps.google.com/maps?key={{ site.googleMapsAPIKey }}&ll={{ site.eventPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.eventStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.eventAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
         </div>
     </div>
 </section>
