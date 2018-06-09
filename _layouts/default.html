@@ -45,8 +45,18 @@ layout: compress
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/'%}
+    {% if page.permalink == '/' or page.permalink == '/hotel/'%}
     <script>
+        {% if page.permalink == '/' %}
+            console.log("in root");
+            var zoomAmount = 14;
+            var panCoord = {lat:38.71,lng: -9.149948}; 
+        {% else %}
+            console.log("in hotel");
+            var zoomAmount = 18;
+            var panCoord = {lat:38.7203,lng: -9.149948}; 
+        {% endif %}
+
         var icon = '{{ site.baseurl }}/img/other/map-marker.svg';
         var coordinates = {lat: 38.720760, lng: -9.149948};
         function detectBrowser() {
@@ -62,9 +72,9 @@ layout: compress
         function initMap() {
             var map = new google.maps.Map(document.getElementById('canvas-map'), {
                 center: coordinates,
-                zoom: 18,
+                zoom: zoomAmount,
             });
-            map.panTo({lat:38.7203,lng: -9.149948});
+            map.panTo(panCoord);
             var marker = new google.maps.Marker({position: coordinates, map: map});
         }
         

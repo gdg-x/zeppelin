@@ -40,10 +40,20 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/hotel/", text: "Hotel"}
 bottomNavigationLinks:
  - {link: "#", text: "Torna-te orador"}
 rightNavigationButtons:
  - {link: "#", text: "Torna-te orador"}
+
+#Hotel
+hotelPermaLink: "/hotel/"
+carouselImage1: "AltisGrand_01.jpg"
+carouselImage2: "AltisGrand_02.jpg"
+hotelThumbnails:
+  - {src: "AltisGrand_03.jpg"}
+  - {src: "AltisGrand_04.jpg"}
+  - {src: "AltisGrand_05.jpg"}
 
 # Hero Block
 heroImage: "hero-test-2.png"
@@ -59,14 +69,9 @@ heroButtons:
 aboutTitle: "Sobre o Testing Portugal"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", 
-      text: ["A PSTQB – Associação Portuguesa de Testes de Software irá realizar, no próximo dia 21 de novembro de 2018, no ALTIS Grand Hotel, em Lisboa, a 9ª edição da Conferência Testing Portugal.",
-          "A Conferência contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência.",
-          "A área de Testes acompanha a indústria de software na evolução e adaptação a novos paradigmas.",
-          "A Conferência Testing Portugal proporciona a oportunidade, para muitos única, de acesso ao conhecimento disponibilizado por alguns dos internacionalmente reconhecidos e conceituados gurus da área de testes.",
-          "O objetivo da Conferência é o de permitir que profissionais focados na qualidade do seu software possam trocar experiências com alguns dos maiores gurus internacionais, conhecer as novas tendências na área para melhor se prepararem para as acolher e partilhar as suas próprias experiências pessoais com a comunidade.",
-          "A Conferência é dirigida a todos os profissionais envolvidos na Garantia da Qualidade do Software, desde o Software Tester, passando pelo Test Manager, até ao próprio decisor – CEO e CIO.",
-          "Estarão presentes um variado leque de empresas, representativas do nosso tecido empresarial em todas as suas vertentes: geográfica – de Braga a Lisboa, passando por Coimbra; área de negócio – Financeiro, Administração Pública, Telecomunicações e Media, Manufactura e Distribuição, e outros;dimensão (pequenas, médias e grandes empresas); de empresas já estabelecidas no mercado a start-ups.",
-          "A conferência foi aberta a clientes finais bem como a prestadores de serviços"]}
+      text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 21 de novembro de 2018, no ALTIS Grand Hotel, em Lisboa, a 9ª edição da Conferência Testing Portugal.",
+          "A Conferência, como hábito, contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência.",
+          "Reserve já o seu lugar!"]}
  - {title: "Workshops", image: "workshop.jpg", text: ["Workshops dados por líderes mundiais na área de testes de software!"] }
 
 # Statistic Block
