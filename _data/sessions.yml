@@ -485,4 +485,5 @@
   id: "888"
   title: "Opening Remarks"
   description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements from Giorgio Natili, SwiftFest team lead."
+  subtype: meta
   speakers: []
