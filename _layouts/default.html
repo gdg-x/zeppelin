@@ -48,11 +48,9 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hotel/'%}
     <script>
         {% if page.permalink == '/' %}
-            console.log("in root");
             var zoomAmount = 14;
             var panCoord = {lat:38.71,lng: -9.149948}; 
         {% else %}
-            console.log("in hotel");
             var zoomAmount = 18;
             var panCoord = {lat:38.7203,lng: -9.149948}; 
         {% endif %}
