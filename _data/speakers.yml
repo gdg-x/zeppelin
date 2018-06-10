@@ -96,7 +96,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mitrevski"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/martin-mitrevski-01134755"}
-    - {name: "website", link: "https://martinmitrevski.com"}
+    - {name: "site", link: "https://martinmitrevski.com"}
 -
   id: "8"
   name: "Sarp"
