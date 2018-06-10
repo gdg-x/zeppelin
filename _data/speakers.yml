@@ -350,16 +350,19 @@
     - {name: "twitter", link: "https://twitter.com/bsmithers11"}
     - {name: "github", link: "https://github.com/bsmith11"}
 -
-  id: "29"
-  name: "Agis"
-  surname: "Tsaraboulidis"
+  id: "66"
+  name: "Jayesh"
+  surname: "Kawli"
   bio: |
-   Agis Tsaraboulidis is the co-founder and CTO of Iris Health - a modern day critical health service. As an engineer, he is focused on building products that have large and positive impact. In his spare time, you’ll find him working on side projects, taking photographs or reading a book.
-  thumbnailUrl: AgisTsaraboulidis.jpg
+   Hello, I am Jayesh Kawli. I live in Boston, Massachusetts. Currently, I am working at Wayfair as a Senior iOS developer. I have been writing iOS apps for more than 4 years. At Wayfair, I work with checkout and shipping team which is responsible for handling cart, payments, loyalty and gift cards in the application. Previously at Wayfair, I worked on the Platforms team which handles core architecture, network/data layer and general performance optimization of the application.
+
+   In my spare time, I like to work on side-projects and open source libraries. Currently, I am learning to speak Spanish and it's going really well. I also write a blog at https://jayeshkawli.ghost.io which touches active topics in iOS development along with occasional off-topics such as food, travel and web development. My open source projects can be found on my GitHub page.
+  thumbnailUrl: JayeshKawli.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/agisilaosts"}
-    - {name: "site", link: " https://agisilaos.github.io"}
+    - {name: "github", link: "https://github.com/jayesh15111988"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jayeshkawli/"}
+    - {name: "site", link: "https://jayeshkawli.ghost.io"}
 -
   id: "30"
   name: "Arthur"
