@@ -219,3 +219,12 @@
   thumbnailUrl: AriRoshko.jpg
   type: volunteer
   social: []
+-
+  id: "22"
+  name: "Hari"
+  surname: "Ganesan"
+  title: "Software Engineer"
+  bio: "Hari Ganesan is currently a software engineer at Drafted. Previously, he founded his own mobile app startup, which he worked on for several years as a CTO. He then worked on a mobile analytics SDK for a couple years as both an engineer and a product manager. More recently, he’s been using his background in both analytics and startups to help work on a recruiting startup out of Cambridge focused on improving referrals. In his spare time, he likes to read books, play games, and tinker around with the newest web technologies."
+  thumbnailUrl: HariGanesan.jpg
+  type: volunteer
+  social: []
