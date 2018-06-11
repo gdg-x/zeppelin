@@ -380,6 +380,21 @@
   complexity: "intermediate"
   speakers: ["60", "61"]
 -
+  id: "057"
+  title: "Code Reviews – Establishing a Quality Culture"
+  description: |
+   Writing code is a combination of creativity and logic. Every developer wants to make sure their work is feature-perfect, bug-free, and provides a delightful experience to the end user. But how do they make sure that their code maintains the quality they consistently strive for? How can they write code that is maintainable, stable, and offers a learning opportunity to other team members? In this presentation, Jayesh Kawli will describe the process of reviewing code and how it helps to write high quality, crash-free code that is confidently written and thoroughly assessed.
+
+   When asking "When should my code go through code review?", the answer should be "Every time you change the codebase!". A change to even one line of code can cause catastrophic effects to app quality and customer satisfaction, which has a direct impact on company revenue. "What is the process for code review?" There are many answers to this question and we will discuss some of the more successful strategies that have been used to date.
+  outcome: |
+   - What is code reviewing?
+   - Why is it important and how should it be incorporated into the development lifecycle?
+   - Identification of key factors that the reviewer should look into while reviewing code
+   - Essential skills for better communication and sharing of ideas
+  subtype: presentation
+  complexity: "intermediate"
+  speakers: ["66"]
+-
   id: "027"
   title: "Artificial Intelligence in Swift"
   description: |
