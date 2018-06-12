@@ -232,3 +232,12 @@
   thumbnailUrl: HariGanesan.jpg
   type: volunteer
   social: []
+-
+  id: "23"
+  name: "Yasmin"
+  surname: "Lindholm"
+  title: "iOS Engineer"
+  thumbnailUrl: YasminLindholm.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yasmin-lindholm-a1a13880/"}
