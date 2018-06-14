@@ -161,16 +161,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/chrisbuonocore/"}
 -
   id: "16"
-  name: "Alexandrea"
-  surname: "Mellen"
-  bio: |
-   Alexandrea Mellen is a technical content marketer at callstats.io. She has developed multiple iOS applications for her company, Terrapin Computing, as well as several freelance projects.
-  thumbnailUrl: AlexandreaMellen.jpg
-  type: mc
-  social:
-    - {name: "twitter", link: "https://twitter.com/alexandreamel"}
--
-  id: "17"
   name: "Marcy"
   surname: "Regalado"
   title: "UX Design Lead"
