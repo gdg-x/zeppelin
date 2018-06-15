@@ -142,14 +142,6 @@
   complexity: "Intermediate"
 
 -
-  id: "010"
-  title: "Swift's Future Belongs To Those Who Show Up"
-  description: |
-   Swift Evolution is an exhausting thing: high traffic, some signal to noise issues, and a lot of work to follow the ins outs and details. Without voices from the wider developer community, it may not serve the interests you prioritize in your day to day work. From safety to convenience, migration to stability, here's how you can be a part of the process even if you only have a very little time to spend. Apple's open sourced language represents the first time there's a fully open bug reporting system and a way for anyone no matter their background to have their opinions heard and considered. If you're new to Swift Evolution or gave up on it in frustration, let Erica Sadun show you how to make the most of your limited time in having a say in the future of the language.
-  subtype: presentation
-  speakers: ["13"]
-  complexity: "Intermediate"
--
   id: "011"
   title: "Great Forms 101"
   description: |
