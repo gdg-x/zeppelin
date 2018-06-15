@@ -231,3 +231,16 @@
   type: volunteer
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/yasmin-lindholm-a1a13880/"}
+-
+  id: "24"
+  name: "Melissa"
+  surname: "Yee"
+  title: "Program Manager and Editor"
+  company: "StartHub"
+  thumbnailUrl: MelissaYee.jpg
+  rockstar: false
+  type: mc
+  social:
+    - {name: "twitter", link: "https://twitter.com/StartHubBoston"}
+    - {name: "facebook", link: "https://www.facebook.com/starthubboston/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/melissa-yee-68673415/"}
