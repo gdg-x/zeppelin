@@ -62,6 +62,9 @@
   type: team
   social:
     - {name: "github",link: "https://github.com/joleary1987"}
+    - {name: "twitter", link: "https://twitter.com/jepecito"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jeffreyoleary"}
+
 -
   id: "6"
   name: "Sean"
