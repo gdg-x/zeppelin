@@ -40,7 +40,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/workshops/", text: "Workshops"}
- - {permalink: "/hotel/", text: "Hotel"}
 bottomNavigationLinks:
  - {link: "#", text: "Torna-te orador"}
 rightNavigationButtons:
@@ -48,8 +47,8 @@ rightNavigationButtons:
 
 #Hotel
 hotelPermaLink: "/hotel/"
-carouselImage1: "AltisGrand_01.jpg"
-carouselImage2: "AltisGrand_02.jpg"
+carouselImage1: "carrousel_1.png"
+carouselImage2: "carrousel_2.png"
 hotelThumbnails:
   - {src: "AltisGrand_03.jpg"}
   - {src: "AltisGrand_04.jpg"}
