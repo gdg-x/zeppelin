@@ -18,7 +18,7 @@
 								<li>{{ listItem }}</li>
 							{% endfor %}
 
-							<li><a href="{{ticketsOffer.mail.link}}" target="_blank" style="color:#8b8b8b;">{{ticketsOffer.mail.text}}</a></li>
+							<li><a href="{{ticketsOffer.mail.link}}" target="_blank">{{ticketsOffer.mail.text}}</a></li>
 						</ul>
 						{% if ticketsOffer.soldOut == true %}
 						<span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
