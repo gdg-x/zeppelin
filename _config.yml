@@ -41,10 +41,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/workshops/", text: "Workshops"}
 bottomNavigationLinks:
- - {link: "#", text: "Torna-te orador"}
+ - {permalink: "/call-for-speakers/", text: "Torna-te orador"}
 rightNavigationButtons:
- - {link: "#", text: "Torna-te orador"}
- - {link: "/testingportugal2018/#tickets", text: "Inscrever-me"}
+ - {permalink: "/call-for-speakers/", text: "Torna-te orador"}
+ - {permalink: "/#tickets", text: "Inscrever-me"}
 
 #Hotel
 hotelPermaLink: "/hotel/"
@@ -62,7 +62,7 @@ eventDate: "21 de novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
 typeoutFallback: "Portugal"
 heroButtons:
- - {link: "#", text: "Torna-te Orador"}
+ - {permalink: "/call-for-speakers/", text: "Torna-te Orador"}
  - {permalink: "/#tickets", text: "Comprar bilhetes"}
 
 # About Block
@@ -183,7 +183,7 @@ footerBlocks:
     - {text: "1070-159 Lisboa"}
     - {text: "PORTUGAL"}
 
-privacyPolicyLink: "/privacy-policy/"
+privacyPolicy: {link: "/privacy-policy/", text: "Política de Privacidade" } 
 
 # Speakers List Block
 showSessions: true
