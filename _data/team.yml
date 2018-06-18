@@ -247,3 +247,12 @@
     - {name: "twitter", link: "https://twitter.com/StartHubBoston"}
     - {name: "facebook", link: "https://www.facebook.com/starthubboston/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/melissa-yee-68673415/"}
+-
+  id: "25"
+  name: "Kalen"
+  surname: "Hammann"
+  title: "Software Engineer | App Developer"
+  thumbnailUrl: KalenHammann.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kalenhammann/"}
