@@ -181,5 +181,7 @@ footerBlocks:
     - {text: "1070-159 Lisboa"}
     - {text: "PORTUGAL"}
 
+privacyPolicyLink: "/privacy-policy/"
+
 # Speakers List Block
 showSessions: true
