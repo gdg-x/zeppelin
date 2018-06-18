@@ -21,14 +21,7 @@
 						{% if ticketsOffer.soldOut == true %}
 						<span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
 						{% elsif ticketsOffer.disabled != true %}
-							{% if ticketsOffer.typeform == true %}
-						<a class="typeform-share button" href="https://renatocampos1.typeform.com/to/L8MD0m" data-mode="popup" 
-	style="max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;" target="_blank">{{ticketsOffer.buyButtonText}} </a> 
-	<script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/";
-	 if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
-							{% else %}
-							<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
-							{% endif %}
+						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 						{% else %}
 		           		{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
 						<span class="button disabled fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</span>
@@ -38,6 +31,5 @@
             {% endfor %}
 		</div>
 	</div>
-	<iframe src="https://www.last2ticket.com/embed/e/923" frameborder="0" style="width:950px;height:750px"></iframe>
 </section>
 <!-- End Tickets Section -->

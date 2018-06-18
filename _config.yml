@@ -121,26 +121,13 @@ c4sponsorsUrl: "/sponsors"
 
 # Tickets Block
 ticketsTitle: "Inscrições"
-ticketsInfo: "Os bilhetes garantem acesso à conferência, coffe brakes e almoço."
+ticketsInfo: "Os bilhetes garantem acesso à conferência, coffee brakes e almoço."
 ticketsOffers:
- -
-  name: "Inscrição normal"
-  price: "85"
-  priceCurrency: "EUR"
-  ticketsNumber: "400"
-  buyButtonLink: "https://renatocampos1.typeform.com/to/L8MD0m"
-  typeform: true
-  buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Entrada na Conferência Testing Portugal 2018, com acesso a todas as refeições e documentação", "Para mais informações, contacte:", "testing.portugal@pstqb.pt"]
-  validFrom: "2018-04-11T10:00"
-  validThrough: "2018-10-30T23:59"
  -
   name: "Associado Profissional"
   price: "60"
   priceCurrency: "EUR"
   ticketsNumber: "400"
-  ribbon: "-30%"
-  featured: true
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
   typeform: false
   buyButtonText: "Inscrever-se Agora"
@@ -148,6 +135,17 @@ ticketsOffers:
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
   disabled: false
+ -
+  name: "Inscrição normal"
+  price: "85"
+  priceCurrency: "EUR"
+  ticketsNumber: "400"
+  buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
+  featured: true
+  buyButtonText: "Inscrever-se Agora"
+  ticketContentList: ["Entrada na Conferência Testing Portugal 2018, com acesso a todas as refeições e documentação", "Para mais informações, contacte:", "testing.portugal@pstqb.pt"]
+  validFrom: "2018-04-11T10:00"
+  validThrough: "2018-10-30T23:59"
  -
   name: "Associado Estudante"
   price: "10"
