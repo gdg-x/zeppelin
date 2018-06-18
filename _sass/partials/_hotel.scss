@@ -1,15 +1,23 @@
 .how-to-arrive{
-    li{
-        list-style-type: none;
-        list-style-position: inside;
-    }
     ul{
-        text-align: left;
-        margin-left: 4em;
-        padding-left: 0;
+        padding: 0;
         margin-top: 2em;
+        text-align: center;
+        list-style: inside;
+        list-style-type: none;
     }
     h4 {
         color: $main-color;
+    }
+    ol{
+        list-style-type: decimal;
+    }
+    .metro-line{
+        text-align: left;
+        font-weight: 400;
+        margin-left: 10em;
+        @media (max-width: 767px) {
+            margin-left: 5px;
+        }
     }
 }
