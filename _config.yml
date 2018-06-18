@@ -43,8 +43,9 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/call-for-speakers/", text: "Torna-te orador"}
 rightNavigationButtons:
+ - {permalink: "/#tickets", text: "Comprar bilhetes"}
  - {permalink: "/call-for-speakers/", text: "Torna-te orador"}
- - {permalink: "/#tickets", text: "Inscrever-me"}
+
 
 #Hotel
 hotelPermaLink: "/hotel/"
@@ -166,22 +167,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/PSTQB", icon: "twitter"}
  - {link: "https://www.facebook.com/pstqb/", icon: "facebook"}
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "https://www.pstqb.pt/", text: "Associação Portuguesa de Testes de Software"}
- -
-  title: "Contactos"
-  links:
-   - {link: "mailto:info@pstqb.pt", text: "info@pstqb.pt"}
  
-  elements:
-    - {text: "T: (+351) 211 37 40 40"}
-    - {text: "Avenida José Malhoa, 16 F, Piso 1 - Bloco A"}
-    - {text: "Edifício Europa"}
-    - {text: "1070-159 Lisboa"}
-    - {text: "PORTUGAL"}
 
 privacyPolicy: {link: "https://www.pstqb.pt/politicaprivacidade", text: "Política de Privacidade" } 
 

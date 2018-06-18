@@ -1,24 +1,13 @@
 <!-- Begin Footer -->
 <footer id="footer" class="footer">
+	<h5 style="text-align: center">Contactos</h5>
 	<div class="row">
-		{% for block in site.footerBlocks %}
-        {% assign colWidth = 12 | divided_by: forloop.length %}
-		<div class="col-md-{{ colWidth }} col-xs-6">
-			<h5>{{ block.title }}</h5>
-			<ul>
-				{% for linkElement in block.links %}
-				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
-				{% endfor %}
-				{% for element in block.elements %}
-				<li>{{ element.text }}</li>
-				{% endfor %}
-			</ul>
-		</div>
-		{% endfor %}
+		<p style="text-align: center"><a>PSTQB - Associação Portuguesa de Testes de Software</a></p>
+		<p style="text-align: center">T: (+351) 213 510 540 | E: <a href="mailto:info@pstqb.pt">info@pstqb.pt</a> | S: <a href="https://www.psqtb.pt">www.pstqb.pt</a></p>
 	</div>
 	<div class="row">
-		<div class="col-md-6 col-xs-12">
-			<ul class="social-links">
+		<div class="col-12">
+			<ul class="social-links" style="text-align: center">
 				{% for social in site.socialLinks %}
 				<li>
 					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
@@ -33,7 +22,7 @@
 	</div>
 	<div class="row">
 		<div class="col-12">
-			<p style="text-align: center;">Conferência Testing Portugal 2018 | Associação Portuguesa de Testes de Software | <a href="{{ site.privacyPolicy.link }}">{{ site.privacyPolicy.text}}</a></p>
+			<p style="text-align: center;">Conferência Testing Portugal 2018 | <a href="{{ site.privacyPolicy.link }}">{{ site.privacyPolicy.text}}</a></p>
 		</div>
 	</div>
 </footer>
