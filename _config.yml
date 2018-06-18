@@ -183,7 +183,7 @@ footerBlocks:
     - {text: "1070-159 Lisboa"}
     - {text: "PORTUGAL"}
 
-privacyPolicy: {link: "/privacy-policy/", text: "Política de Privacidade" } 
+privacyPolicy: {link: "https://www.pstqb.pt/politicaprivacidade", text: "Política de Privacidade" } 
 
 # Speakers List Block
 showSessions: true
