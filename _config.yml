@@ -133,7 +133,7 @@ ticketsOffers:
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
   typeform: false
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:"]
+  ticketContentList: ["Inscrição enquanto Associado Profissional. O valor refere-se à quota anual, permitindo o acesso grátis a todos os eventos.", "Para mais informações, contacte:"]
   mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt} 
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
@@ -158,7 +158,7 @@ ticketsOffers:
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
   mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt} 
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: [" Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:"]
+  ticketContentList: ["Inscrição enquanto Associado Estudante. O valor refere-se à quota anual, permitindo o acesso grátis a todos os eventos.", "Para mais informações, contacte:"]
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
   disabled: false
