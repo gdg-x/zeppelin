@@ -132,7 +132,8 @@ ticketsOffers:
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
   typeform: false
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:", "associados@pstqb.pt"]
+  ticketContentList: ["Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:"]
+  mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt} 
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
   disabled: false
@@ -144,7 +145,8 @@ ticketsOffers:
   buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
   featured: true
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Entrada na Conferência Testing Portugal 2018, com acesso a todas as refeições e documentação", "Para mais informações, contacte:", "testing.portugal@pstqb.pt"]
+  ticketContentList: ["Entrada na Conferência Testing Portugal 2018, com acesso a todas as refeições e documentação", "Para mais informações, contacte:"]
+  mail: {link: "mailto:testing.portugal@pstqb.pt", text: testing.portugal@pstqb.pt} 
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
  -
@@ -153,9 +155,9 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: "50"
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
-  typeform: false
+  mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt} 
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: [" Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:", "associados@pstqb.pt"]
+  ticketContentList: [" Valor de Quota anual, para associados PSTQB, com acesso grátis a todos os eventos", "Para mais informações, contacte:"]
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
   disabled: false
