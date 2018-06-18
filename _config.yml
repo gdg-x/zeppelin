@@ -44,6 +44,7 @@ bottomNavigationLinks:
  - {link: "#", text: "Torna-te orador"}
 rightNavigationButtons:
  - {link: "#", text: "Torna-te orador"}
+ - {link: "/testingportugal2018/#tickets", text: "Inscrever-me"}
 
 #Hotel
 hotelPermaLink: "/hotel/"
