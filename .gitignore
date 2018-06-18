@@ -7,6 +7,9 @@ _site/
 ### Sass ###
 .sass-cache
 
+### Automation ###
+_automation/
+
 ### Windows ###
 # Windows image file caches
 Thumbs.db

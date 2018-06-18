@@ -61,7 +61,7 @@ eventDate: "21 de novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
 typeoutFallback: "Portugal"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Torna-te Orador"}
+ - {link: "#", text: "Torna-te Orador"}
  - {permalink: "/#tickets", text: "Comprar bilhetes"}
 
 # About Block
@@ -117,12 +117,7 @@ venueSmallImage3: "venue_3.jpg"
 organizersTitle: "Organização"
 partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Como Patrocinar a Conferência?"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscreve para atualizações"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "A inscrição está aberta até fim de outubro. O número de bilhetes é limitado. Fica atento!"
+c4sponsorsUrl: "/sponsors"
 
 # Tickets Block
 ticketsTitle: "Inscrições"
