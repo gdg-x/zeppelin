@@ -187,3 +187,6 @@ privacyPolicy: {link: "/privacy-policy/", text: "Política de Privacidade" }
 
 # Speakers List Block
 showSessions: true
+
+# Speakers
+callForSpeakersLink: /call-for-speakers/
