@@ -1,11 +1,11 @@
 .top-section {
     position: relative;
-    min-height: 100px;
+    min-height: 60px;
     padding-top: 0;
-    padding-bottom: 20px;
+    padding-bottom: 0;
     background: $base-section-background-color;
     @media (max-width: 767px) {
-        min-height: 100px;
+        min-height: 60px;
         padding: 0;
     }
     .gradient-overlay {
@@ -14,19 +14,20 @@
     &.enable-overlay .gradient-overlay {
         opacity: 1;
     }
-}
-.jumbotron {
-    position: relative;
-    left: 26px;
-    margin: 30px 0 0 0;
-    background: 0;
-    @media (max-width: 767px) {
-        left: 13px;
-        margin-top: 30px;
-        padding-left: 0;
-        padding-bottom: 5px;
-    }
-    @media screen and  (min-width: 768px) {
-        padding-bottom: 0;
+    .jumbotron {
+        position: relative;
+        left: 26px;
+        margin: 30px 0 0 0;
+        background: 0;
+        padding-top:12px;
+        @media (max-width: 767px) {
+            left: 13px;
+            margin-top: 30px;
+            padding-left: 0;
+            padding-bottom: 5px;
+        }
+        @media screen and  (min-width: 768px) {
+            padding-bottom: 0;
+        }
     }
 }
