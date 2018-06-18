@@ -119,7 +119,7 @@ venueSmallImage3: "venue_3.jpg"
 organizersTitle: "Organização"
 partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Como Patrocinar a Conferência?"
-c4sponsorsUrl: "/sponsors"
+c4sponsorsUrl: "/assets/CadernoPT_V8.pdf"
 
 # Tickets Block
 ticketsTitle: "Inscrições"
