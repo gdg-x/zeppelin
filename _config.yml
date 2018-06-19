@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Testing Portugal 2018"
 email: "testingportugal@pstqb.pt"
 description: "Testing Portugal é uma conferência anual sobre testes de software"
-baseurl: "/testingportugal2018"
+baseurl: ""
 url: "https://pstqb.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-116477690-1" #updated
