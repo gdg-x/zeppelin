@@ -1,0 +1,194 @@
+eventDate: "February 28th, 2018 - Espoo, Helsinki (Finland)"
+applicationForm: "https://goo.gl/forms/VwLM8Z30L7r8SHJx1"
+mentorsForm: "https://goo.gl/forms/d375GZpHY5zEmGLH2"
+descriptionTitle: "ngGirls @ ngVikings"
+descriptionBlock:
+ - {title: "Who is it for?", template: "ngVikings2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ngVikings2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "ngVikings", description: "ngVikings 2018", link: "https://ngvikings.org/", imageUrl: "ngvikings.png"}
+     - {name: "Wunderdog", description: "Wunderdog", link: "https://wunder.dog/", imageUrl: "wunderdog.jpg"}
+     - {name: "AzureAdvocates", description: "AzureAdvocates", link: "https://twitter.com/azureadvocates", imageUrl: "bit_microsoft.png"}
+#     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
+
+
+posts:
+  - {title: "ngGirls is back with the Vikings!",
+     content: "After the huge success of ngGirls @ ngVikings 2017, which was the second event of ngGirls, we come back
+      to collaborate with the great Viking team! Join us and become a part of this amazing conference and community."}
+
+
+mentors:
+
+-
+  id: 1
+  name: "Revital"
+  surname: "Friedman"
+  title: "&nbsp;"
+  company: "Organizer"
+  description: "I've always wanted to combine my love for advance technologies with my willing to help other girls in the Tech world.
+  I have volunteered as a mentor in the first ngGirls workshop, and there I found my way to share my knowledge and help other girls to join the wonderful family of Angular."
+  bio: "Revital Friedman is a passionate Full-stack developer.
+        In the army she has served in the special intelligence technology unit, called Unit 8200.
+        Revital has been a software developer for the last five years, currently working at Taptica as a front end developer, using Angular as the main platform."
+  thumbnailUrl: Revital_Friedman.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://il.linkedin.com/in/revital-friedman-16b79488"}
+
+- id: 2
+  name: "Robert"
+  surname: "Willemelis"
+  title: "&nbsp;"
+  company: "Organizer"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 3
+  name: "Tadeja"
+  surname: "Firman"
+  company: "&nbsp;"
+  bio: "<p>I love to develop at work and in my free time. 
+</p>"
+  thumbnailUrl: tadeja.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+- id: 4
+  name: "Katerina"
+  surname: "Skroumpelou"
+  company: "&nbsp;"
+  bio: "<p>I am a front end web developer, I love Angular, and I want to bring more girls/women in the tech industry!
+</p>"
+  thumbnailUrl: katerina.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/psybercity"}
+
+- id: 5
+  name: "Ana"
+  surname: "Cidre"
+  company: "&nbsp;"
+  bio: "<p>My name is Ana Cidre and I am a frontend developer.
+</p><p>
+I started learning Angular thanks to my own mentor’s advice, so I know how much positive impact a mentor can have on someone’s life. As a mentor at ngGirls, I would love to help others figure out if learning Angular is the right path for them.
+</p><p>
+As a woman in tech, I understand how intimidating it can be to start a tech career. Helping other women improve their technical skills and growing their self-confidence means a lot to me.
+</p>"
+  thumbnailUrl: ana.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AnaCidre_"}
+
+- id: 6
+  name: "Vitalii"
+  surname: "Bobrov"
+  company: "&nbsp;"
+  bio: "<p>
+Vitalii is a Front-end engineer from Ukraine with more than 5 years of experience in web development. He started his career with PHP & Drupal CMF and later realized that JavaScript and front-end are the exiting most things technologies. Currently, Vitalii lives in Poland, in the old nice city called Wroclaw. In delays of work at office and open source projects maintenance, he loves to spend time with his wife and little daughter, play different musical instruments and driving.
+</p>"
+  thumbnailUrl: vitalii.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/bobrov1989"}
+
+- id: 7
+  name: "Orestes"
+  surname: "Carracedo"
+  company: "&nbsp;"
+  bio: "<p>
+Full-Stack Software Developer. Build software, change the world. Let's get more people to build better software for a better world.
+</p>"
+  thumbnailUrl: orestes.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/OrestesCA"}
+
+- id: 8
+  name: "Maria"
+  surname: "Sibinescu"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: maria.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xx"}
+
+- id: 9
+  name: "Sebastian"
+  surname: "Florian"
+  company: "&nbsp;"
+  bio: "<p>I'm Sebastian, a 29 year old front-end engineer working in Copenhagen, DK
+</p><p>
+I think programming is rapidly becoming a required tool in everyday life, and one of the most satisfying things you can do with this tool is web development. Immediate feedback, quick prototyping and great frameworks make it a great choice for beginners as well. 
+</p><p>
+I mentor for some great organizations in Copenhagen, and have mentored for ngGirls in the past, and I think it's an important initiative to tackle the unjustified imbalance in the tech world.
+</p><p>
+Outside of that, I try to travel as often as possible, bad puns, and since I have no musical talents, just started taking piano lessons.
+</p>"
+  thumbnailUrl: sebastian.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/SebFlorian"}
+
+- id: 10
+  name: "Chris"
+  surname: "Trzesniewski"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: chris.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ktrz__"}
+
+- id: 11
+  name: "David"
+  surname: "Müllerchen"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: david.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/webdave_de"}
+
+- id: 12
+  name: "Ionut"
+  surname: "Vizitiu"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: ionut.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ionut_vizitiu"}
+
+
+
+- id: 14
+  name: "And You?"
+  surname: ""
+  title: "&nbsp;"
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}

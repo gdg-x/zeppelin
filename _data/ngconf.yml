@@ -1,0 +1,124 @@
+eventDate: "April 4th, 2017, Salt Lake City, UT"
+applicationForm: "https://goo.gl/forms/233Omb8LaVzlPpWG3"
+mentorsForm: "https://goo.gl/forms/dK621tXUEPstUdKe2"
+ngconfSite: "https://www.ng-conf.org/"
+descriptionTitle: "ngGirls @ ng-conf"
+descriptionBlock:
+ - {title: "Who is it for?", template: "ngconf/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ngconf/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+posts:
+- title: "Diversity Support - Ticket Donation"
+- content: "
+<p class='post-body'>
+  We're happy to announce the diversity support program! ng-conf participants can donate a ticket to help us get
+  underrepresented groups to the conference. For each full-price ticket donated by ngGirls mentors,
+  ng-conf brings two ngGirls participants to the conference! Thanks ng-conf for making this happen and huge
+  thanks to the mentors!
+</p>
+"
+
+mentors:
+
+- id: 21
+  name: 'Shravanthi'
+  surname: 'Manohar'
+  thumbnailUrl: Shravanthi.jpeg
+  title: "Software Engineer"
+  company: "Adobe Systems"
+  bio: "<p>I'm a developer at Adobe, I'm passionate about coding and want to make a great impact on society
+  through technology. I would love to see more girls on the tech scene.</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/shravanthi16"}
+
+- id: 22
+  name: 'Kalyani'
+  surname: 'Yerra'
+  thumbnailUrl: Kalyani.jpg
+  title: "Sr Software Architect"
+  company: "Premier Inc"
+  bio: "<p>I am a Software Architect providing architectural direction and managing technical teams for the
+  Premier Inc organization, with an extensive knowledge in web application development,
+  and client server development for the health care industry. </p>"
+  social:
+  social:
+  - {name: "linkedin", link: "https://www.linkedin.com/in/Kalyaniyerra/"}
+  - {name: "twitter", link: "https://www.twitter.com/Yerra_Kalyani"}
+
+#- id: 23
+#  name: 'Sarah'
+#  surname: 'Graham'
+#  thumbnailUrl:
+#  title: "Developer"
+#  company: "Jolt"
+#  bio: 	"<p>After studying media/visual arts and working as an English teacher and translator in Japan,
+#  I got excited about the creative and collaborative opportunities tech opens up at the Tokyo Hackerspace
+#  where members were using their knowledge to make (and program) incredible stuff and help others.
+#  After moving back to the U.S., I studied coding on my own, with the help of programmer friends,
+#  and through organizations like Girl Develop It to try to build a Japanese learning game.
+#  To accelerate my progress and a career change, I enrolled in an after-work MEAN-stack web programming
+#  course at Coding Campus (now V School). After successfully building the first version of the game for my
+#  final project, I got my first programming job at Jolt (<a href='joltup.com' target='_blank'>joltup.com</a>),
+#  a quickly-growing company that helps businesses organize operations and interact with their employees
+#  more effectively.</p>
+#  <p>I'm participating in ngGirls because I personally know how hard it is to be introduced to
+#  programming--even in our Information Age--and how important mentorship is to bridging that gap.</p>"
+#  social:
+#  - {name: "twitter", link: "https://www.twitter.com/sarahcodez"}
+
+- id: 24
+  name: 'Kristie'
+  surname: 'Giles'
+  thumbnailUrl: Kristie.jpg
+  title: "Front-End Software Engineer Technical Lead"
+  company: "Western Governors University"
+  bio: "<p>After studying visual design, Kristie just wanted to learn enough about development to
+  make some basic websites, but she found that writing code was a great creative outlet and kept
+  wanting to learn more. She currently works as a front-end software engineer tech lead at Western
+  Governors University, mentoring a dev team that builds student- and staff-facing web applications with Angular.
+  She enjoys CSS, reusable components, and cat GIFs.</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/kristiegiles"}
+
+- id: 25
+  name: 'Bonnie'
+  surname: 'Brennan'
+  thumbnailUrl: Bonnie.jpeg
+  title: "Software Developer"
+  company: "Freelance"
+  bio: "<p>Bonnie is a Senior Developer in Houston, Texas and the founder of the ngHouston Angular meetup.
+  She is also the co-founder of CodeBridge, an organization she runs with her teenage daughter to plan and
+  teach free coding workshops for women and girls at local universities. She enjoys teaching others and loves
+  encouraging more women and girls to learn programming.</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/bonnster75"}
+
+- id: 26
+  name: 'Uri'
+  surname: 'Goldshtein'
+  thumbnailUrl: Uri.png
+  title: "Programmer"
+  company: "Meteor Development Group"
+  bio: "<p>Working in open source for many years.
+           Done angular-meteor, apollo-angular, graphql-subscriptions and more...</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/urigoldshtein"}
+
+- id: 27
+  name: 'Craig'
+  surname: 'Nishina'
+  thumbnailUrl: Craig.jpg
+  title: "Software Engineer Tools and Infrastructure"
+  company: "Google"
+  bio: "<p>Craig works as a Software Engineer in Tools and Infrastructure at Google and a former
+  member of the Protractor team. Before Craig became a developer,
+  he had a previous career as a civil engineer.</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/cnishina"}
+
+#- id: 28
+#  name: 'Amanda'
+#  surname: 'Haynes'
+#  social:
+#  - {name: "twitter", link: "https://www.twitter.com/a_mandala_"}

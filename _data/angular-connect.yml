@@ -1,0 +1,84 @@
+eventDate: "November 6th, 2017, London"
+applicationForm: "https://goo.gl/forms/zhpK932g8b5lFqB43"
+mentorsForm: "https://goo.gl/forms/sZ3tif1fC0ea9Ku13"
+descriptionTitle: "ngGirls @ AngularConnect"
+descriptionBlock:
+ - {title: "Who is it for?", template: "angular-connect/angular-connect-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+# - {title: "Schedule", template: "angular-connect/angular-connect-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "angular-connect/angular-connect-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "ngArhus", description: "ngArhus - Angular Meetup group in Århus, Denmark",
+        link: "https://www.meetup.com/ngAarhus/", imageUrl: "ngAarhus.png", width: '70px'}
+     - {name: "AngularConnect", description: "AngularConnect 2017 conference",
+        link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops",
+        imageUrl: "angular-connect.png"}
+     - {name: "futureCodersSE", description: "futureCodersSE - non-profit aiming to help to build a
+     community of young software developers",
+        link: "http://www.futurecoders.org.uk/", imageUrl: "fcLogo.png"}
+
+
+posts:
+  - {title: "ngGirls is teaming up with futureCodersSE!",
+     content: "<p>
+     ngGirls @ AngularConnect is happy to welcome a group of young students from the futureCodersSE program.
+     Attending the ngGirls workshop will give the girls from futureCodersSE an opportunity to work in a learning space with adults,
+      to network and to develop their skills.
+     </p>
+     <p><a href='http://www.futurecoders.org.uk/' target='_blank'>
+     <img src='/img/partners/fcLogo.png' title='futureCodersSE' alt='futureCodersSE' width='140px'>
+     </a></p>
+     <p><b><a href='http://www.futurecoders.org.uk/' target='_blank'>futureCodersSE</a>
+      is a non-profit aiming to help to build a community of young software developers.</b>
+      They do this through an end-to-end process –
+      <ul>
+          <li>inspire young people to want to prepare for a career in development by organising careers
+          events, hackathons, visits to businesses and to industry events</li>
+
+          <li>run coding workshops where young people can learn from scratch and can build their skills</li>
+
+          <li>run a work-experience programme where young people work in development teams 2 days per week for
+          3 months or more, guided by volunteers and professional tech leads, practice Agile and Scrum,
+           and deliver projects for charities,
+          non-profits and social startups</li>
+          <li>certificate participants from their work experience programme and work closely with employers
+          to recommend young people for apprenticeships or junior positions.</li>
+      </ul>
+      <a href='http://www.futurecoders.org.uk/' target='_blank'>Learn more about futureCodersSE</a>
+                </p>"}
+
+mentors:
+
+
+- id: 1
+  name: "Robert"
+  surname: "Willemelis"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+
+
+- id: 2
+  name: "And You?"
+  surname: ""
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/sZ3tif1fC0ea9Ku13" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true

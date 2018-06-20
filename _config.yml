@@ -2,6 +2,8 @@
 gems:
 - jekyll-sitemap
 safe: false
+plugins_dir:
+  - jekyll-redirect-from
 
 # Build Settings
 markdown: kramdown
@@ -10,99 +12,174 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "ngGirls"
+email: "info@ng-girls.com"
+description: "ngGirls is an organization that aims to increase diversity in Tech"
+baseurl: ""
+url: "http://ng-girls.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: "AIzaSyCZoEYpnZkkqUryTf4WAYfWNMfQK5xTqCY"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "ngGirls"
+organizerAlternateName: "Angular Girls"
+organizerDescription: "ngGirls is an organization that aims to increase diversity in Tech"
+organizerEmail: "info@ng-girls.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://ng-girls.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, angular, google, programming, web, chrome, developers, diversity, javascript, single page application, tel aviv"
+twitterAccount: "@AngularGirls"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: &c4sponsorsUrl "mailto:info@ng-girls.org"
+#c4sponsorsUrl: &c4sponsorsUrl "/assets/ngGirls_sponsors_flyer.pdf"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/#home", text: "Home"}
+ - {permalink: "/#about", text: "About"}
+ - {permalink: "/#description", text: "Be a part"}
+ - {permalink: "/#organizing-team", text: "Team"}
+# - {permalink: "/#location-map", text: "Location"}
+ - {permalink: "/#partners", text: "Partners"}
+ - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
+# - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
+# - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
+# - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
+# - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
+# - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
+# - {permalink: "/NgColombia/", text: "ngGirls @ NgColombia"}
+#  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
+#  - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
+#  - {permalink: "/karlsruhe/", text: "ngGirls @ DevFest Karlsruhe"}
+#  - {permalink: "/rio/", text: "ngGirls @ Rio"}
+#  - {permalink: "/ngAtl/", text: "ngGirls @ ngAtl"}
+#  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
+#  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
+#  - {permalink: "/galicia/", text: "ngGirls @ Galicia"}
+#  - {permalink: "/copenhagen/", text: "ngGirls @ Copenhagen"}
+#  - {permalink: "/karachi/", text: "ngGirls @ Karachi"}
+#  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
+# - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
+# - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
+ - {permalink: "/TLV2018/", text: "ngGirls @ TLV"}
+ - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
+ - {permalink: "/angular-connect2018/", text: "ngGirls @ AngularConnect"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
+# - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
+# more than 2 doesn't look good
+# - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
+# - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
+# - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroImage: "eclipse.png"
+heroTitle: "ngGirls"
+upcomingEvents:
+# - {permalink: "/freiburg/", date: "November 2nd, 2017", location: "Freiburg", name: "ngGirls @ Freiburg"}
+# - {permalink: "/angular-connect/", date: "November 6th, 2017", location: "London", name: "ngGirls @ AngularConnect"}
+# - {permalink: "/NgColombia/", date: "November 11th, 2017", location: "Medellín", name: "ngGirls @ NgColombia"}
+#  - {permalink: "/ngPoland/", date: "November 19th, 2017", location: "Warsaw", name: "ngGirls @ ngPoland"}
+#  - {permalink: "/poznan/", date: "December 9th, 2017", location: "Poznań", name: "ngGirls @ Poznań"}
+#  - {permalink: "/karlsruhe/", date: "December 9th, 2017", location: "Karlsruhe", name: "ngGirls @ DevFest Karlsruhe"}
+#  - {permalink: "/rio/", date: "January 13th, 2018", location: "Rio de Janeiro", name: "ngGirls @ Rio"}
+#  - {permalink: "/ngAtl/", date: "January 30th, 2018", location: "Atlanta, GA", name: "ngGirls @ ngAtl"}
+#  - {permalink: "/ng-europe/", date: "February 3rd, 2018", location: "Paris", name: "ngGirls @ ngEurope"}
+#  - {permalink: "/ngVikings/", date: "February 28th", location: "Espoo, Helsinki", name: "ngGirls @ ngVikings"}
+#  - {permalink: "/galicia/", date: "March 9th", location: "Vigo, Spain", name: "ngGirls @ Galicia"}
+#  - {permalink: "/copenhagen/", date: "March 10th", location: "Copenhagen, Denmark", name: "ngGirls @ Copenhagen"}
+#  - {permalink: "/karachi/", date: "March 17th", location: "Karachi, Pakistan", name: "ngGirls @ Karachi"}
+#  - {permalink: "/ng-conf/", date: "April 17th", location: "Salt Lake City, Utah", name: "ngGirls @ ng-conf"}
+# - {permalink: "/angular_hq/", date: "May 11th", location: "Mountain View, California", name: "ngGirls @ Angular HQ"}
+# - {permalink: "/berlin2018/", date: "May 27th", location: "Berlin", name: "ngGirls @ Berlin"}
+ - {permalink: "/TLV2018/", date: "June 22nd", location: "Tel-Aviv", name: "ngGirls @ TLV"}
+ - {permalink: "/NgTalks/", date: "August 8th", location: "Kharkiv", name: "ngGirls @ NgTalks"}
+ - {permalink: "/angular-connect2018/", date: "November 5th, 2018", location: "London", name: "ngGirls @ AngularConnect"}
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
+# - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
+# - {permalink: "/frontend-con/", text: "ngGirls @ Frontend-Con"}
+# - {permalink: "/devfest-ukraine/", text: "ngGirls @ DevFest Ukraine"}
+# - {permalink: "/freiburg/", text: "ngGirls @ Freiburg"}
+# - {permalink: "/angular-connect/", text: "ngGirls @ AngularConnect"}
+# - {permalink: "/NgColombia/", text: "ngGirls @ NgColombia"}
+#  - {permalink: "/ngPoland/", text: "ngGirls @ ngPoland"}
+#  - {permalink: "/poznan/", text: "ngGirls @ Poznań"}
+#  - {permalink: "/karlsruhe/", text: "ngGirls @ DevFest Karlsruhe"}
+#  - {permalink: "/rio/", text: "ngGirls @ Rio"}
+#  - {permalink: "/ngAtl/", text: "ngGirls @ ngAtl"}
+#  - {permalink: "/ng-europe/", text: "ngGirls @ ngEurope"}
+#  - {permalink: "/ngVikings/", text: "ngGirls @ ngVikings"}
+#  - {permalink: "/galicia/", text: "ngGirls @ Galicia"}
+#  - {permalink: "/copenhagen/", text: "ngGirls @ Copenhagen"}
+#  - {permalink: "/karachi/", text: "ngGirls @ Karachi"}
+#  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
+# - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
+ - {permalink: "/TLV 2018/", text: "ngGirls @ TLV"}
+ - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
+# - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
+ - {permalink: "/angular-connect2018/", text: "ngGirls @ Angular Connect"}
+# - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform", text: "call for mentors"}
+# - {permalink: *c4sponsorsUrl, newTab: true, text: "call for sponsors"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About ngGirls"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "motivation", image: "motivation.png", text: "ngGirls aims to introduce women to the world of technology and increase the diversity. Angular is a great technology to start with. We believe this is a win-win situation!" }
+ - {title: "operation", image: "operation.png", text: "We plan various events and activities in which the participants build and deploy a web application with Angular. We offer guidance to help finding a job in front end development." }
+ - {title: "participation", image: "participation.png", text: "If you're a committed, motivated woman who wants to step into the Web Development world - your place is with us! <br>Want to help? Please get in touch!" }
 
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+# Description Block (Latest News in index)
+descriptionTitle: "Be a Part of ngGirls"
+descriptionBlock:
+ - {title: "Who is it for?", template: "description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
+
+# Organizing Team Block
+organizingTeamImage: "djangogirls1.jpg"
+organizingTeamCount: 2
+organizingTeamTitle: "Organizing Team"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: "djangogirls1.jpg"
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Organizing Team"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
+eventLocationName: "Campus Tel Aviv"
+eventLocationLink: "https://www.campus.co/tel-aviv/"
+eventStreetAddress: "Electra Tower- 34th Floor<br>98 Yigal Alon Street"
+eventAddressLocality: "Tel Aviv"
+eventAddressLocalityRegion: ""
 eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventAddressCountry: "Israel"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "32.0699972,34.7940928"
+mapCenterCoordinates: "32.0692972,34.7910428"
+mapMobileCenterCoordinates: "32.0683802,34.7947528"
+mapUrl: "https://www.google.com/maps/place/Google/@32.0700544,34.7919324,17z/data=!3m1!4b1!4m5!3m4!1s0x151d4b9f106b7d51:0x5d3968071ecd1735!8m2!3d32.0700544!4d34.7941211"
+viewOnMap: "View on Google Maps"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -112,12 +189,6 @@ venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -130,68 +201,21 @@ subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
-
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+
 footerBlocks:
  -
-  title: "Links"
+  title: "Contact us"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "mailto:info@ng-girls.org", text: "info@ng-girls.org"}
  -
-  title: "Contacts"
+  title: ""
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/coc/", text: "Code of Conduct"}
+
+# FAQ
+faqTitle: "Frequently Asked Questions"
 
 # Blog
 blogTitle: "Latest news"
@@ -203,89 +227,4 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+aboutUs: "ngGirls is aims to introduce women to the world of technology and increase the diversity. The organization is inspired by Django Girls."

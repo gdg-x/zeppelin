@@ -1,0 +1,28 @@
+eventDate: "13 de Janeiro de 2018, Rio de Janeiro, Brasil"
+applicationForm: "https://goo.gl/forms/yIb9g7jS3eRyABSQ2"
+mentorsForm: "https://goo.gl/forms/45M8PjGu98avEMTy2"
+
+descriptionTitle: "Sobre o ngGirls Rio"
+descriptionBlock:
+ - {title: "Qual é o público alvo?", template: "rio/description-who-is-it-for.html"}
+ - {title: "Como posso ajudar?", template: "rio/description-can-i-help.html"}
+ - {title: "Programação do evento", template: "rio/description-schedule.html"}
+
+locationTitle: "Como chegar"
+
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Seja um patrocinador do evento"
+partners:
+-
+   group: "Agradecemos o apoio das seguintes empresas:"
+   elements:
+     - {name: "Stone Pagamentos", description: "", link: "http://stone.com.br", imageUrl: "stone_logo.png"}
+     - {name: "Globo.com", description: "", link: "http://globo.com", imageUrl: "globocom_logo.png"}
+     - {name: "CI&T", description: "", link: "http://ciandt.com/br-pt", imageUrl: "ciet_logo.png"}
+     - {name: "C♂aelum", description: "", link: "http://caelum.com.br", imageUrl: "caelum_logo.png"}     
+     - {name: "Stack Overflow", description: "Perguntas e respostas para programadores profissionais e entusiastas", link: "https://pt.stackoverflow.com/", imageUrl: "logo-soportuguese.png"}
+     - {name: "Github", description: "O GitHub é um lugar onde as pessoas armazenam os seus projetos em repositórios", link: "http://github.com", imageUrl: "GitHub-Logo.png"}
+     - {name: "Storm Security", description: "", link: "http://stormsec.com.br", imageUrl: "storm_logo.png"}
+     - {name: "Movile", description: "", link: "http://movile.com.br", imageUrl: "movile_logo.png"}     
+     
+     

@@ -1,0 +1,25 @@
+<!-- Begin FAQ-->
+<section id="faq" class="blog">
+  <div class="content-wrapper text-left">
+    <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+      <div class="col-lg-8 col-md-10 col-xs-12">
+
+        {% for section in site.data.faq %}
+        <article class="row post">
+          <h4>{{ section.title }}</h4>
+
+          {% for item in section.faq %}
+          <div class="post-body">
+            <h5>{{ item.question }}</h5>
+            <p>{{ item.answer }} </p>
+          </div>
+          {% endfor %}
+
+        </article>
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End FAQ -->

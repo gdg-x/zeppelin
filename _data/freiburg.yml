@@ -1,0 +1,149 @@
+eventDate: "November 2nd, 2017, Freiburg<br /> <small>  <span style='color: #f93;'>@reservix, </span> Humboldtsaal <br /> (Humboldtstraße 2, 79098 Freiburg)</small>"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSf-Ca6YLHxQ1SSzxq78RcgplHJezuA_jPxCA2DLxLEFMexkPg/viewform"
+mentorsForm: "https://docs.google.com/forms/d/1231Hbn-nVMg0p4ZuQyFa4m5ExOydxU3hJX1KagQ5Ywg/"
+jsunconfSite: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/"
+descriptionTitle: "ngGirls @ Freiburg"
+descriptionBlock:
+ - {title: "Who is it for?", template: "freiburg/freiburg-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "freiburg/freiburg-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "freiburg/freiburg-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Reservix", description: "Reservix GmbH", link: "https://www.reservix.de", imageUrl: "reservix.png"}
+
+
+mentors:
+
+- id: 1
+  name: "Rozita"
+  surname: "Pourashraf"
+  company: "&nbsp;"
+  bio: "<p>I'm a passionate front-end engineer, love continuously learning, learning by doing and following the brand new web technologies.</p><p>
+
+I'd love to be more involved in Angular community for my interest's sake, and share my web knowledge through other Front-End communities which I'm a member of, such as Front-End meetup in Freiburg, where many young women participate in to exchange Talks about neubee Tech.</p>
+"
+  thumbnailUrl: rozita.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/r_pourashraf"}
+
+- id: 2
+  name: "Stefanie"
+  surname: "Knoth"
+  company: "&nbsp;"
+  bio: "<p>I'm a web developer who is enthusiastic about the possibilities of the internet to bring people together and make the world a better place. I am participating in ngGirls because I want to use my skills to help empowering women and give something back to the community.</p>
+"
+  thumbnailUrl: stefanie.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/sknoth"}
+
+- id: 3
+  name: "Betül"
+  surname: "Stewart"
+  company: "&nbsp;"
+  bio: "<p>I am a developer working as a product developer/project manager that loves teaching others.</p>
+"
+  thumbnailUrl: betuel.png
+  rockstar: true
+
+-
+  id: 4
+  name: "Shmuela"
+  surname: "Jacobs"
+  company: "ngGirls"
+  title: "Web Developer and Consultant, Founder"
+  description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
+  bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
+  thumbnailUrl: Shmuela_AC.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/shmool"}
+    - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
+    - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+
+- id: 5
+  name: "Robert"
+  surname: "Willemelis"
+  company: "&nbsp;"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+
+- id: 6
+  name: "David"
+  surname: "Losert"
+  company: "&nbsp;"
+  bio: "<p>I'm 29 years old web developer living in Munich - but my roots and my heart still lie somewhere in the Black Forest near Freiburg. I am working at Virtual Identity since 2013 mostly with JavaScript and Typescript. I have worked a lot with Angular & Angular2 in the past - these days I mostly work with react & redux.</p>  
+<p>When I moved to Munich 2 years ago, I soon discovered the power of developer communities in meetups and conferences. I was stunned on how much I could learn and grow by so many people who were willing to share their knowledge, opinions, wisdom and, most importantly, their perspectives. I soon wanted to give back to those communities and enable others to experience the same, and so I started to host meetups myself as well as helping organize an annual unconference: the JSCraftCamp (http://jscraftcamp.org)</p>
+<p>As organizer of those events I realized fast that  a lot of times, the audience is not very diverse. I think this is very sad as the real power and potential of those events is - as I mentioned - the different perspectives which you only get WITH diversity.</p>
+<p>Therefore my motivation on being a Mentor to ngGirls is to hopefully help growing a more diverse developers community in which everybody can learn and grow by sharing my experience and giving the participants a save and easy access to web development. And I am sure that I will have the opportunity to learn so much FROM the participants as well.</p>"
+  thumbnailUrl: david.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/david_losert"}
+
+- id: 7
+  name: "Martina"
+  surname: "Kraus"
+  company: "&nbsp;"
+  bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
+"
+  thumbnailUrl: martina.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/wing121"}
+
+- id: 8
+  name: "Michael"
+  surname: "Pereira"
+  company: "&nbsp;"
+  bio: "<p>&nbsp;</p>"
+  thumbnailUrl: michael.png
+  rockstar: true
+
+- id: 9
+  name: "Christian"
+  surname: "Nielebock"
+  company: "&nbsp;"
+  bio: "<p>I'm an enthusiastic web and PHP developer who's always curious about learning new technologies in web development. I'm participating to help others getting knowledge in web development technologies because I think the web is the present and future of user <-> computer interaction. Also I like and force to share knowledge between every kind of developer from beginners to experts.</p>
+"
+  thumbnailUrl: christian.png
+  rockstar: true
+
+- id: 10
+  name: "Ralf"
+  surname: "Hafner"
+  company: "&nbsp;"
+  bio: "<p>I am a front end developer currently working with Angular most of my time. I love meeting like-minded people and share my experience and knowledge about everything related to web development.</p>
+"
+  thumbnailUrl: ralf.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ralfhafner"}
+
+- id: 11
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true

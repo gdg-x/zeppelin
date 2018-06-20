@@ -5,4 +5,10 @@
     p {
         margin-top: 10px;
     }
+    
+    .col-xs-6 {
+    	@media (max-width: 767px) {
+            width: 100%;
+        }
+    }
 }

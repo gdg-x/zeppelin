@@ -1,0 +1,18 @@
+<!-- Begin Description Section -->
+<section id="description" class="latest-news">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h3>{{ site.data.ngconf.descriptionTitle }}</h3>
+			<article class="row">
+				{% for post in site.data.ngconf.descriptionBlock limit:2 %}
+          {% assign postUrl = site.baseurl | append: post.link %}
+					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+						<h6>{{ post.title }}</h6>
+						{% include {{ post.template }} %}
+					</div>
+        {% endfor %}
+			</article>
+		</div>
+	</div>
+</section>
+<!-- End Description Section -->

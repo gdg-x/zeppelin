@@ -25,8 +25,17 @@ layout: compress
     </div>
 
     {% if page.modal != null %} 
-    	{% include speakers-modals.html %} 
-    {% endif %} 
+    	{% include team-modals.html %}
+      {% include NgTalks/mentors-modals.html %}
+      {% include TLV2018/mentors-modals.html %}
+      {% include mtv/mentors-modals.html %}
+      {% include berlin2018/berlin2018-mentors-modals.html %}
+      {% include angular-connect2018/angular-connect2018-mentors-modals.html %}
+      {% include freiburg/freiburg-mentors-modals.html %}
+      {% include angular-connect/angular-connect-mentors-modals.html %}
+      {% include colombia/mentors-modals.html %}
+      {% include poznan/team-modals.html %}
+    {% endif %}
 
     {% if page.permalink == '/schedule/' %}
         {% include sessions-modals.html %} 
@@ -34,11 +43,11 @@ layout: compress
 
     {% include analytics.html %}
     
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="/js/jquery-2.1.1.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
     </script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <script>
     if (typeof($.fn.modal) === 'undefined') {
         document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}><\/script>')
@@ -48,7 +57,7 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?key={{ site.siteVerification }}&v=3.exp&sensor=false"><\/script>')
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}

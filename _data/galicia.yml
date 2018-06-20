@@ -1,0 +1,62 @@
+eventDate: "March 9th, 2018, Vigo, Spain"
+applicationForm: "https://goo.gl/forms/5JXnVyTrit329ljO2"
+mentorsForm: "https://goo.gl/forms/OHwqcDU88o9gV34i2"
+descriptionTitle: "ngGirls @ Galicia"
+descriptionBlock:
+ - {title: "Who is it for?", template: "galicia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "galicia/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "galicia/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+locationTitle: "How to get there?"
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "GalsTech", description: "GalsTech", link: "http://www.galstech.org", imageUrl: "galstech.svg"}
+     - {name: "GDG Vigo", description: "GDG Vigo", link: "https://www.meetup.com/GDGVigo/", imageUrl: "gdg-vigo.svg"}
+
+mentors:
+
+- id: 1
+  name: "Ana"
+  surname: "Cidre"
+  bio:
+  thumbnailUrl: anaC.jpg
+  rockstar: true
+  link: "https://twitter.com/AnaCidre_"
+  social:
+    - {name: "twitter", link: "https://twitter.com/AnaCidre_"}
+
+- id: 2
+  name: "David"
+  surname: "García"
+  bio:
+  thumbnailUrl: davidG.jpg
+  rockstar: true
+  link: "https://twitter.com/Tansitos"
+  social:
+    - {name: "twitter", link: "https://twitter.com/Tansitos"}
+
+- id: 3
+  name: "Orestes"
+  surname: "Carracedo"
+  bio:
+  thumbnailUrl: orestesC.jpg
+  rockstar: true
+  link: "https://twitter.com/OrestesCA"
+  social:
+    - {name: "twitter", link: "https://twitter.com/OrestesCA"}
+
+- id: 4
+  name: "Verónica"
+  surname: "Pérez"
+  bio:
+  thumbnailUrl: veronicaP.jpg
+  rockstar: true
+  link: "https://twitter.com/veropduro"
+  social:
+    - {name: "twitter", link: "https://twitter.com/veropduro"}

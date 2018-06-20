@@ -1,0 +1,62 @@
+eventDate: "December, 9th, 2017, Karlsruhe<br /> <small style='font-size:60%'> Duale Hochschule Karlsruhe (Erzbergerstraße 121, 76133 Karlsruhe)</small>"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfptdPFXXX-u_LKkPXj3UwPxSdoyG8vTNs3fqn19AXZlb7PmA/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSe2I0Jbz89HYg_6zIODy-0TpzpPfKZBSq3r4wrhUQ7dmQU2QA/viewform"
+jsunconfSite: "#"
+descriptionTitle: "ngGirls @ DevFest Karlsruhe"
+descriptionBlock:
+ - {title: "Who is it for?", template: "karlsruhe/karlsruhe-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "karlsruhe/karlsruhe-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "karlsruhe/karlsruhe-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "DHBW", description: "Duale Hochschule Baden-Württemberg", link: "https://www.karlsruhe.dhbw.de/startseite.html", imageUrl: "dhbw-karlsruhe.png"}
+     - {name: "GDGKarlsruhe", description: "Google Developer Group Karlsruhe", link: "https://www.meetup.com/de-DE/GDG-Karlsruhe/", imageUrl: "gdg-karlsruhe.png"}
+     - {name: "WomanTechmakers", description: "Woman Techmakers", link: "https://www.womentechmakers.com/", imageUrl: "woman-techmakers.png"}
+
+
+mentors:
+
+- id: 1
+  name: "Martina"
+  surname: "Kraus"
+  company: "&nbsp;"
+  bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
+"
+  thumbnailUrl: martina.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/wing121"}
+
+
+- id: 2
+  name: "Robert"
+  surname: "Willemelis"
+  company: "&nbsp;"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 3
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
