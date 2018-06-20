@@ -1,0 +1,70 @@
+eventDate: "December 9th, 2017, Poznań, Poland"
+applicationForm: "https://goo.gl/forms/7U4Q2TbR6pksvfID3"
+mentorsForm: "https://goo.gl/forms/x53KFTNevko4RuIW2"
+descriptionTitle: "ngGirls @ Poznań"
+descriptionBlock:
+ - {title: "Who is it for?", template: "poznan/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "poznan/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Briisk", description: "Briisk", link: "http://www.briisk.co/", imageUrl: "briisk-poznan.png"}
+     - {name: "ng-poznan", description: "ng-poznan Angular meetup", link: "https://www.meetup.com/ng-poznan-meetup/", imageUrl: "ng-poznan-logo.jpg"}
+     - {name: "Wake up and Code", description: "Wake up and Code", link: "https://www.facebook.com/wakecode/", imageUrl: "wakeupandcode.png"}
+#     - {name: "Angular Nights", description: "Angular Nights meetup group - learn Angular by coding", link: "http://www.meetup.com/Angular-Nights/", imageUrl: "ngNights.png"}
+#     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
+
+organizingTeamTitle: "ngGirls @ Poznań Team"
+team:
+  -
+    id: 1
+    name: "Shmuela"
+    surname: "Jacobs"
+    company: "ngGirls Founder"
+    title: "Web Developer and Consultant, Founder"
+    description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
+    bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
+    thumbnailUrl: Shmuela_AC.png
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/shmool"}
+      - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
+      - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+  -
+    id: 2
+    name: "Joanna"
+    surname: "Bochyńska"
+    company: "Promotion"
+    bio: "My name is Joanna and few years ago I graduated from Indian Studies and International Business.
+    I worked as Hindi language teacher, later as an analyst and an IT consultant.
+    Any of these job was fully satisfying for me. This is why some time ago I decided to learn coding and
+    started front-end programming course. It turned out that coding is something that I love doing.
+    Last year I spent every free time programming. Today I work as a front-end developer. Few months ago
+    I decided to start writing a blog about changing profession and first steps in IT
+    (https://www.facebook.com/wakecode/). Later on I created FB group which aimed to encourage girls and women
+    to start coding (https://www.facebook.com/groups/programujdziewczyno/). Today the group gathers few thousands of
+    girls who enjoy coding! I know how important it is to have support when you are in the beginning of
+    your programming adventure, this is why I am involved in the coding workshops and related events as a mentor and organizer."
+    thumbnailUrl: Joanna_Bochynska.jpg
+    rockstar: true
+    social:
+
+  -
+    id: 3
+    name: "Joanna"
+    surname: "Chmiel"
+    company: "Organiser"
+    bio: "I'm Joanna. For five years, I was developing a mobile network for T-Mobile in Poland to quit and risk for the IT.
+    From being an intern in a software company, through writing my own applications, I fell in love with software development.
+    Today, though not programming anymore, I'm a partner in a software house. Somewhere between searching for new projects
+    and markets, I organise meetups (ng-poznan - http://www.meetup.com/ng-poznan-meetup), Angular workshops and hackathons. When offline, I read a lot,
+    write stories and am forever finishing my novel."
+    thumbnailUrl: Joanna_Chmiel.jpg
+    rockstar: true
+    social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/chmieljoanna/"}
+      - {name: "twitter", link: "https://twitter.com/joan_na_chmiel"}

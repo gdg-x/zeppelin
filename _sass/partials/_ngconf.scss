@@ -1,0 +1,8 @@
+.top-section-hero .jumbotron .logo.logo-big.ng-conf-logo {
+  background-image: url("../img/other/ngconf-banner.png");
+  width: 870px;
+
+  @media (max-width: 767px) {
+    width: 250px;
+  }
+}

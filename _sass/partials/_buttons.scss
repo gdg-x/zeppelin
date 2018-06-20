@@ -13,4 +13,8 @@
         color: #fff;
         background: $primary-color-hover;
     }
+
+    &.regular-text {
+        text-transform: none;
+    }
 }

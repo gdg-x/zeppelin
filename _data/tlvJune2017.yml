@@ -1,0 +1,173 @@
+eventDate: "June 26th, 2017, Tel Aviv, Israel"
+applicationForm: "https://goo.gl/forms/nHQjU7EOHlFdsAC33"
+mentorsForm: "https://goo.gl/forms/xi0Jy7d6h1uuicBY2"
+descriptionTitle: "ngGirls TLV"
+descriptionBlock:
+ - {title: "Who is it for?", template: "tlvJune2017/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "tlvJune2017/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "AOL", description: "Aol Israel", link: "http://www.aol.co.il", imageUrl: "AOL.png"}
+     - {name: "Angular Nights", description: "Angular Nights meetup group - learn Angular by coding", link: "http://www.meetup.com/Angular-Nights/", imageUrl: "ngNights.png"}
+     - {name: "Pluralsight", description: "Pluralsight - Unlimited Online Developer, IT and Creative Training", link: "https://www.pluralsight.com/", imageUrl: "Pluralsight-logo.png"}
+     - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+     - {name: "WalkMe", description: "WalkMe", link: "http://www.walkme.com/", imageUrl: "WalkMe.png"}
+
+
+#     - {name: "Angular AfterHours", description: "Angular AfterHours meetup group - learn Angular 2 by coding", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "aah.png"}
+mentors:
+- id: 21
+  name: "Robert"
+  surname: "Willemelis"
+  title: "web developer"
+  company: "STRATO AG"
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+  message: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+          (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+          impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+          So it is important to support them.</p>
+          <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+          <p>There are several projects with an impressive diversity support and very good material.<p>
+          <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+          in which he shows how important and good it can be to give something back to the community and how important
+          it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+       "
+  rockstar: true
+  thumbnailUrl: robert.png
+
+- id: 22
+  name: "Minko"
+  surname: "Gechev"
+  title: "Software Engineer"
+  company: "Learn Capital"
+  social:
+    - {name: "twitter", link: "https://twitter.com/mgechev"}
+  bio: "Functional time traveler who enjoys theoretical computer science and its practical applications. Author of the books \"Switching to Angular 2\" and \"Getting Started with Angular\", working on tooling for Angular and TypeScript, speaker and blogger."
+  rockstar: true
+  thumbnailUrl: minko.jpeg
+
+- id: 23
+  name: "Christoffer"
+  surname: "Noring"
+  title: "Fullstack Developer"
+  company: "McKinsey"
+  social:
+    - {name: "twitter", link: "https://twitter.com/chris_noring"}
+  bio: "GDE Angular, Telerik Developer Expert."
+  message: "I believe supporting diversity in tech is the right thing to do. I'm also a mentor of Women Who cCode."
+  rockstar: true
+  thumbnailUrl: chris.jpg
+
+- id: 24
+  name: "Sani"
+  surname: "Yusuf"
+  title: "Founder"
+  company: "Haibrid"
+  social:
+    - {name: "twitter", link: "https://twitter.com/saniyusuf"}
+  bio: "Sani is the founder of Haibrid, a London-based consultancy that offers Ionic training & consultancy. Sani is also the co-organiser of Ionic UK & has spoken about Ionic on 4 continents. A published book author, Sani also recently created the first Ionic 3.0 course online VIA Lynda.COM. When he is not doing geeky stuff, he enjoys food tourism & paddle boarding on the ocean. Ng-Girls is a great organisation and growing up with 7 sisters, I have always been a fan of really getting more female engineers into tech and sending a positive message to the younger generation that they are the future and they are as awesome as anyone out there."
+  rockstar: true
+  thumbnailUrl: sani.jpg
+
+#- id: 20
+#  name: "Tally"
+#  surname: "Barak"
+#  title: "SW"
+#  company: "Yoobic"
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/Tally_barak"}
+#  bio: ""
+#  rockstar: true
+#  thumbnailUrl: Tally.jpg
+#
+#- id: 20
+#  name: "Oren"
+#  surname: "Rubin"
+#  title: "CEO"
+#  company: "Testim.io"
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/shexman"}
+#  bio: ""
+#  rockstar: true
+#  thumbnailUrl: thumbnailUrl.jg
+
+- id: 25
+  name: "Ania"
+  surname: "Mazor"
+  title: "Application developer"
+  company: "Intel"
+  social:
+  message: "I'm working as a full stack developer, and enjoying Angular."
+  rockstar: true
+  thumbnailUrl: ania.jpg
+
+- id: 26
+  name: "Pedro"
+  surname: "Gusman"
+  title: "Web developer"
+  company: "Probot.AI"
+  social:
+    - {name: "twitter", link: "https://twitter.com/PedroGusmans"}
+  message: "I believe in gender diversity especially when it comes to programing. Anyone can learn how to program if they apply themselves to the task. Ability and experience are much more significant the gender :)"
+  rockstar: true
+  thumbnailUrl: pedro.jpg
+
+- id: 27
+  name: "Ari"
+  surname: "Lerner"
+  title: "Author, teacher"
+  company: "Fullstack.io"
+  social:
+    - {name: "twitter", link: "https://twitter.com/auser"}
+  bio: "I write books, code, and have the world's most adorable puppy."
+  rockstar: true
+  thumbnailUrl: ari.jpeg
+
+- id: 28
+  name: "Pascal"
+  surname: "Precht"
+  title: "Co-founder"
+  company: "Thoughtram"
+  social:
+    - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
+  bio: "AKA Mighty Parrot."
+  message: "I'm Pascal. I try to be nice whenever I can. I'm helping out."
+  rockstar: true
+  thumbnailUrl: pascal.jpg
+
+- id: 29
+  name: "Asim"
+  surname: "Hussain"
+  title: "Developer Advocate"
+  company: "Microsoft"
+  social:
+    - {name: "twitter", link: "https://twitter.com/jawache"}
+  bio: "I'm a developer, trainer and speaker with over 16 years experience working for organisations such as the European Space Agency, Google and now Microsoft, where I am a Senior Developer Advocate for Azure.  I'm also Author of the book \"Angular: From Theory to Practice\" and I've taught over 50,000 students Angular, JavaScript and Ionic through my site codecraft.tv."
+  rockstar: true
+  thumbnailUrl: asim.png
+
+- id: 30
+  name: "Naor"
+  surname: "Zveda"
+  title: "Software Engineer"
+  company: "Aol"
+  social:
+  bio: "Working at Aol"
+  rockstar: true
+  thumbnailUrl: naor.jpg
+
+- id: 31
+  name: "Bar"
+  surname: "Cohen"
+  title: "Full Stack Developer"
+  company: "Aol"
+  social:
+  bio: "25 years old, Bsc. in computer science, I worked on IBM and HP before my current job (AOL). I'm participating in ngGirls because I think it's a good platform to increase the diversity in the developers community "
+  rockstar: true
+  thumbnailUrl: bar.jpg

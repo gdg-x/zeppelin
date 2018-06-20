@@ -1,0 +1,237 @@
+eventDate: "May 11, 2018 - Mountain View, California"
+applicationForm: "https://goo.gl/forms/uWRd7qqoFJe6r93v2"
+mentorsForm: "https://goo.gl/forms/ug0LVMOwtfW3HFl43"
+descriptionTitle: "ngGirls @ Angular HQ"
+descriptionBlock:
+ - {title: "Who is it for?", template: "mtv/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "mtv/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-  group: "Hosted by"
+   elements:
+     - {name: "Angular", description: "Angular", link: "https://angular.io/", imageUrl: "angular.svg"}
+-  group: "Photography"
+   elements:
+     - {name: "ngPoland", description: "ngPoland 2018", link: "http://ng-poland.pl/", imageUrl: "ng-poland-logo.svg"}
+
+-  group: "Media Partners"
+   elements:
+     - {name: "The Professional Women's Network of San Francisco (PWN)", description: "The Professional Women's Network of San Francisco (PWN)", link: "https://www.meetup.com/Professional-Womens-Network-of-San-Francisco/", imageUrl: "pwn.jpeg"}
+     - {name: "Women Who Code Silicon Valley", description: "Women Who Code Silicon Valley", link: "https://www.meetup.com/Women-Who-Code-Silicon-Valley/", imageUrl: "wwc.jpeg"}
+     - {name: "Empowered Tech: Inspiring Women for Success in Tech", description: "Empowered Tech: Inspiring Women for Success in Tech", link: "https://www.meetup.com/empowered-tech/", imageUrl: "et.jpeg"}
+     - {name: "Tech Workshops for Women by Women", description: "Tech Workshops for Women by Women", link: "https://www.meetup.com/Tech-Workshops-for-Women-by-Women/", imageUrl: "tech_workshops.png"}
+     - {name: "Creative Women East Bay", description: "Creative Women East Bay", link: "https://www.meetup.com/Creative-Women-EastBay/", imageUrl: "creative_women.png"}
+     - {name: "Women Supporting Women Meetup", description: "Women Supporting Women Meetup", link: "https://www.meetup.com/Women-who-support-women-Meetup/", imageUrl: "wsw.jpeg"}
+     - {name: "Shifting Gears: Women in Career Transition", description: "Shifting Gears: Women in Career Transition", link: "http://patriceperillo.com/", imageUrl: "patrice_shifting_gears.png"}
+
+
+posts:
+  - {title: "ngGirls is coming to Google Headquarters!",
+     content: "We're happy and proud to be hosted by the Angular team itself, in Google Headquarters, Mountain View, CA.
+     The workshop will take place the day after the greatest show in town - Google I/O!"}
+
+
+mentors:
+
+- id: 1
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  title: 'Technical Lead'
+  company: 'Recurship'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/mashhoodr"}
+  thumbnailUrl: "Mashhood.jpg"
+  bio: "Mashhood is the principal technical consultant at Recurship and a Google Developer Expert. He  works with different startups in US and EU to helps them crawl through the technical maze and quickly build amazing products focused around the problems they are trying to solve. He enjoys mentoring and helping people learn about latest web technologies."
+
+- id: 2
+  name: 'Grace'
+  surname: 'Liao'
+  title: 'Developer'
+  company: 'BlackRock'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/Liao_Grace"}
+  thumbnailUrl: "Grace.jpeg"
+  bio: "Developer, dancer, with a passion for life."
+
+- id: 3
+  name: 'Orestes'
+  surname: 'Carracedo'
+  title: 'Software Developer'
+  company: 'codestrand.com'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/OrestesCA"}
+  thumbnailUrl: "Orestes.jpeg"
+  bio: "I'm a software developer and community organiser. I'm also a Co-founder at codestrand and Lighthorse, both consulting companies. <br/>Mentoring people and helping them get started is really rewarding. I'm happy to meet motivated people and be a part of their early career."
+
+- id: 4
+  name: 'Heggy'
+  surname: 'Castaneda'
+  title: 'front-end software developer'
+  company: 'self studying'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/heggyhere"}
+  thumbnailUrl: "Heggy.png"
+  bio: "I love open source Angular community and front-end development.  I want to be part of ever so growing Angular community and learn to build amazing web apps."
+
+- id: 5
+  name: 'Sergey'
+  surname: 'Pugachev'
+  title: 'Full Stack Developer / GDE'
+  company: 'Booking.com'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/spugachev"}
+  thumbnailUrl: "Sergey.webp"
+  bio: "Sergey is a passioned Senior Full Stack Developer and consultant who worked at Google, Microsoft, Intel and Booking.com. He is an author of several books on application development, trainer and an international conference speaker. In 2009-2012 before joining Microsoft, he was a Microsoft MVP (Microsoft Most Valuable Professional)."
+
+- id: 6
+  name: 'Sani'
+  surname: 'Yusuf'
+  title: 'Founder'
+  company: 'Haibrid'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/saniyusuf"}
+  thumbnailUrl: "Sani.jpg"
+  bio: "Sani is the founder of Haibrid, a London-based consultancy that offers Ionic training & consultancy. Sani is also the co-organiser of Ionic UK & has spoken about Ionic on 4 continents. A published book author, Sani also recently created the first Ionic 3.0 course online VIA Lynda.COM. When he is not doing geeky stuff, he enjoys food tourism & paddle boarding on the ocean. Ng-Girls is a great organisation and growing up with 7 sisters, I have always been a fan of really getting more female engineers into tech and sending a positive message to the younger generation that they are the future and they are as awesome as anyone out there."
+
+- id: 7
+  name: 'Leonardo'
+  surname: 'Zizzamia'
+  title: 'Co-Founder / CTO'
+  company: 'Plan'
+  social:
+  - {name: 'twitter', link: "https://twitter.com/zizzamia"}
+  thumbnailUrl: "Leonardo.jpg"
+  bio: "Ciao a tutti! (Hi to all of you)<br/>Few words about me, I’m originally from Taranto (southern Italy) and from the last five years I live in San Francisco. I’m a Co-Founder of Plan (https://getplan.co/), the command center for work life, fully implemented in the latest available version of Angular.<br/>After learning and then applying Angular in London and San Francisco major companies in the last 5 years, I would love being more involved with Angular by working closer with the community.<br/>I truly love Angular for all the functionality it gives me and I’d be honored to help guide other engineers at ngGirls towards this versatile and impressive framework."
+
+- id: 8
+  name: 'Juarez'
+  surname: 'Filho'
+  title: 'Google Developer Expert'
+  company: 'Tidy.com'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/juarezpaf"}
+  thumbnailUrl: "Juarez.jpg"
+  bio: "A traveler who loves to tell his adventures with Web Technologies and Firebase. "
+
+- id: 9
+  name: 'Tara Z.'
+  surname: 'Manicsic'
+  title: 'Developer Advocate'
+  company: 'Progress'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/tzmanics"}
+  thumbnailUrl: "Tara.jpg"
+  bio: "Tara Z. Manicsic is a lifelong student, teacher, and maker. A Developer Advocate for Progress, Google Developer Expert, and international technical speaker, she focuses on conveying the codebase she has learned. In her free time she works in her community to educate and learn from other developers. Tara cares a ton about helping women and girls pursue their programming greatness and can't wait to do this with ngGirls!!"
+
+- id: 10
+  name: 'Diego'
+  surname: 'Coy'
+  title: 'Web Developer'
+  company: 'Globant'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/unjavascripter"}
+  thumbnailUrl: "Diego.jpg"
+  bio: "I'm the founder and organizer of the Angular Colombia Meetup. I've been working with communities teaching what I know about Angular and web technologis in general, in Colombia and the region. My main goal for this year is to increase women's participation in the tech communities, with that in mind I just started the WTM Bogotá group. I want to share what I know with ngGirls and learn everything I can about the group and replicate it here with the 4 communities I manage."
+
+- id: 11
+  name: 'AMahdy'
+  surname: 'AbdelAziz'
+  title: 'Developer Advocate'
+  company: 'Vaadin'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/amahdy7"}
+  thumbnailUrl: "AMahdy.png"
+  bio: "International technical speaker, Oracle Developer Champion, Google developer expert (GDE), trainer and developer advocate. Passionate about Web and Mobile apps development, including PWA, offline-first design, in-browser database, and cross platform tools. www.amahdy.net"
+
+- id: 12
+  name: 'Mana'
+  surname: 'Eini'
+  title: 'Software Engineer'
+  company: 'WGU'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/thesecretofmana"}
+  thumbnailUrl: "Mana.jpeg"
+  bio: "I am a software engineer and a rapper. I enjoy participating in events like ngGirls because I want people to know there are no limits or restrictions to who a developer is and what development can do for your life."
+
+- id: 13
+  name: 'Jeeyun'
+  surname: 'Lim'
+  title: 'Senior UI Engineer'
+  company: 'VMware'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/jeeyunit"}
+  thumbnailUrl: "Jeeyun.jpg"
+  bio: "Jeeyun is a software engineer at VMware and a core contributing member to the Clarity project. She's passionate about UI / UX and doing her part in raising up the next generation of women in tech."
+
+- id: 14
+  name: 'Melisa'
+  surname: 'Im'
+  title: 'Software Engineering Intern'
+  company: 'Adobe'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/immenselyalive"}
+  thumbnailUrl: "Melisa.jpeg"
+  bio: "Hi 👋🏼 my name is Melisa. I avidly believe that blessings are meant to be shared. I received a scholarship from Adobe to study full-stack web development at Galvanize and upon completion of the program I was offered an internship. I have been honored to have had several mentors aid me in my journey and I hope to pay it forward and do the same for ngGirls."
+
+- id: 15
+  name: 'Yahya'
+  surname: 'Elnashef'
+  title: 'Software Analyst/ Data Analyst'
+  company: 'Google'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/Yahya_716"}
+  thumbnailUrl: "Yahya.jpg"
+  bio: "Process oriented software/data analyst, experienced in interpreting and analyzing data to drive growth and innovation, data visualization and building dashboards to furnish insights, analytics, and user behavior needed to make decisions"
+
+#- id: 16
+#  name: 'Sanketa'
+#  surname: 'Bharambe'
+#  title: 'Software Engineer'
+#  company: 'I graduated from New York University, NY, USA'
+#  social:
+#  - {name: 'twitter', link: "https://www.twitter.com/"}
+#  thumbnailUrl:
+#  bio: "I use Angular for my hackathons and would love to help others use Angular"
+
+- id: 17
+  name: 'Aysegul'
+  surname: 'Yonet'
+  title: 'GDE for Angular Team.'
+  company: 'Nrwl.io'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/AysSomething"}
+  thumbnailUrl: "Aysegul.jpg"
+  bio: "Hi ngGirls, I have been a mentor and teacher at many organizations like Girl Develop It, Women Who Code, AnnieCannons. Can't wait to talk angular with you all."
+
+- id: 18
+  name: 'Havisha'
+  surname: 'Tiruvuri'
+  title: 'software engineer intern'
+  company: 'nlightn technologies'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/havtir"}
+  thumbnailUrl: "Havisha.webp"
+  bio: "I am Havisha Tiruvuri. I am participating in ngGirls to support the Women in Tech and  interested to network with other Software Engineers."
+
+#- id: 19
+#  name: 'Moorthi'
+#  surname: 'PV'
+#  title: 'founder, CEO'
+#  company: 'APAIBOT.COM'
+#  social:
+#  - {name: 'twitter', link: "https://www.twitter.com/techbuild"}
+#  thumbnailUrl: "Moorthi.jpg"
+#  bio: "Founder at apaibot.com , ng tracker . Believes in enabling women into tech makes big change ."
+
+- id: 20
+  name: 'Justin'
+  surname: 'Schwartzenberger'
+  title: 'Product Manager and Educator'
+  company: 'Nrwl.io'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/schwarty"}
+  thumbnailUrl: "Justin.jpg"
+  bio: "Justin Schwartzenberger is a product manager and educator at Nrwl.io, where he helps enterprise companies be successful with Angular. He is also a Google Developer Expert for Web Technologies and Angular, the host of the weekly AngularAir live video broadcast, a frequent conference speaker, and an open source contributor.<br/>For all of his passion toward development, his biggest professional joy comes from empowering and educating others. Justin lives on the Central Coast of California with his wife and daughter and, when not developing and mentoring, he travels up and down the California coast in search of surf."
+

@@ -1,0 +1,25 @@
+<!-- Begin Description Section -->
+<section id="description" class="latest-news">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h3>{{ site.data.colombia.descriptionTitle }}</h3>
+  							<p> Creemos que la industria de TI se beneficiará mucho de traer más mujeres a la tecnología.</br>
+   Queremos darte una oportunidad para aprender a programar y convertirte en una programadora.
+  </p>
+  <p>Ofrecemos un taller sin costo en Medellín como parte de 
+		<a href="http://ng-colombia.org/" target="_blank">NG Colombia</a>
+		en colaboración con <a href="https://www.meetup.com/es-ES/Angular-Medellin/" target="_blank">Angular Medellín</a>.</p>
+  <hr>
+			<article class="row">
+				{% for post in site.data.colombia.descriptionBlock limit:4 %}
+          {% assign postUrl = site.baseurl | append: post.link %}
+					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+						<h6>{{ post.title }}</h6>
+						{% include {{ post.template }} %}
+					</div>
+        {% endfor %}
+			</article>
+		</div>
+	</div>
+</section>
+<!-- End Description Section -->

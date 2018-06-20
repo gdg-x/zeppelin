@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Announcing ngGirls TLV!"
+date:   2014-01-21 09:00:00
+isStaticPost: false
+---
+<p class="post-body">
+    <b>Excited to announce an ngGirls workshop in Tel Aviv!</b>
+    <b>We have a dream-team of mentors, world-renowned Web developers!
+    <br>The workshop will be held on Monday, June 26th, at AOL office.
+    <br>All the details and registration are <a href="{{ jsite.baseurl | append: '/TLV-June-2017' }}">here</a>.
+</p>

@@ -1,15 +1,35 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
+<style>
+    .top-section-hero a {
+        color: #f4919f;
+    }
+    .top-section-hero a:hover {
+        color: #f6d3d8;
+    }
+
+</style>
+<section id="home" class="top-section-hero top-section image-section parallax"
+         style="background-image: url('{{ site.baseurl }}/img/sections-background/eclipse.png');">
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
-            <p>{{ site.eventDate }}</p>
-            {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}
+            <div class="logo logo-big"></div>
+            <div class="logo logo-name"></div>
+            <!--{% assign heroText = site.heroTitle %}-->
+            <!--<h1>{{ heroText }}<span class="hidden-xs"></span></h1>-->
+            <p style="line-height: 38px;">
+                Upcoming Events:
+                <div style="font-size: 22px; line-height: 50px">
+                    {% for event in site.upcomingEvents %}
+                    <div style="display: inline-block; width: 400px;"
+                       {% if event.link != null or event.newTab == true %}target="_blank"{% endif %}
+                       title="{{event.name}}">
+                        <a href="{% if event.permalink != null %} {{ event.permalink | prepend: site.baseurl }} {% else %} {{ event.link }} {% endif %}">{{ event.date }}, {{event.location}}</a></div>
+                    {% endfor %}
+                </div>
+            </p>
+
         </div>
     </div>
     <a href="#about" class="explore">

@@ -1,0 +1,30 @@
+eventDate: "August 8th, 2018 - Kharkiv, Ukraine"
+date: "Wednesday, August 8th, 2018"
+location: "Kharkiv, Ukraine"
+deadline: "July 22nd, 2018"
+applicationForm: "https://goo.gl/forms/3CCU8PH09L1bdtNn1"
+mentorsForm: "https://goo.gl/forms/D1UXeJHA85CBpxd72"
+confMessage: 'We are happy to be part of the <a href="https://ngtalks.io/" target="blank">NgTalks conference</a> and offer a free one-day workshop in Kharkiv, Ukraine!'
+descriptionTitle: "ngGirls @ NgTalks"
+descriptionBlock:
+ - {title: "Who is it for?", template: "NgTalks/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "NgTalks/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-  group: "Hosted by"
+   elements:
+     - {name: "NgTalks", description: "NgTalks", link: "https://ngtalks.io/", imageUrl: "NgTalks.png"}
+
+mentors:
+
+- id: 1
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  title: 'Technical Lead'
+  company: 'Recurship'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/mashhoodr"}
+  thumbnailUrl: "Mashhood.jpg"
+  bio: "Mashhood is the principal technical consultant at Recurship and a Google Developer Expert. He  works with different startups in US and EU to helps them crawl through the technical maze and quickly build amazing products focused around the problems they are trying to solve. He enjoys mentoring and helping people learn about latest web technologies."

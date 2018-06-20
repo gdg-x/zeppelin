@@ -1,0 +1,193 @@
+eventDate: "February 3rd, 2018, Paris<br />"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSdTFH-ZW0o7l0Gx_RSNBJf1k01Tm9uP5pYyiefQFOO9ee8Qyg/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSfh0JoHh-VxRGoAFNH14w4Z3xZSDNAMX74JkayajEjSb4zfrw/viewform"
+jsunconfSite: "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/"
+descriptionTitle: "ngGirls @ ngEurope"
+descriptionBlock:
+ - {title: "Who is it for?", template: "ng-europe/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "ng-europe/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ng-europe/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "ng-europe", description: "ng-europe 2018", link: "https://www.ngeurope.org", imageUrl: "ng-europe.png"}
+     - {name: "Digitas Paris", description: "Digitas Paris", link: "https://www.digitaslbi.com/fr-fr/", imageUrl: "digitas_paris.jpg"}
+
+
+mentors:
+
+# - id: 1
+#   name: "Martina"
+#   surname: "Kraus"
+#   company: "&nbsp;"
+#   bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>
+# "
+#   thumbnailUrl: martina.png
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/wing121"}
+
+
+- id: 2
+  name: "Douglas"
+  surname: "Duteil"
+  company: "&nbsp;"
+  bio: "<p>
+First time participating as a mentor for an Angular workshop, thanks a lot Robert Willemelis. </p><p>
+Female, male, white, black, blue, green or purple, I don't care. For me anyone who shares the same passion as me is welcome.</p><p>
+I have grown up contributing to open source not knowing who is contributing, never caring about the person, but caring about the contribution.</p><p>
+Anyway I learnt a lot at from @sarahd0ran, at the AngularConnect (2015 unconf), how important it is to make girls-only events.</p><p>
+So I want to be part of the ng-girls to contribute to it   
+As a close friend of mine says  : 'We really are all Same Same but Different'. 
+Let's have fun :)</p>
+"
+  thumbnailUrl: douglas.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/douglasduteil"}
+
+
+- id: 3
+  name: "Robert"
+  surname: "Willemelis"
+  company: "&nbsp;"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+
+
+- id: 4
+  name: "Wassim"
+  surname: "Chegham"
+  company: "&nbsp;"
+  bio: "
+  "
+  thumbnailUrl: wassim.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/manekinekko"}
+
+- id: 5
+  name: "Jen"
+  surname: "Looper"
+  company: "&nbsp;"
+  bio: "<p>I'm going to speak at ng-Europe; working on NativeScript, machine learning, and other web dev goodies :)</p>"
+  thumbnailUrl: jen.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jenlooper"}
+
+- id: 6
+  name: "Viktoryia"
+  surname: "Rymkevich"
+  company: "&nbsp;"
+  bio: "I am a 2 year experienced web developer"
+  thumbnailUrl: viktoryia.jpg
+  rockstar: true
+
+- id: 7
+  name: "Mashhood"
+  surname: "Rastgar"
+  company: "&nbsp;"
+  bio: "I lead on several web / mobile-web projects at Recurship. Most of our work is in Angular and NodeJS"
+  thumbnailUrl: mashhood.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mashhoodr"}
+
+- id: 8
+  name: "Lamis"
+  surname: "Chebbi"
+  company: "&nbsp;"
+  bio: " I want to follow up constantly with new trends and technologies. I want to   help people learning. I'm a member of Woman who code community.And i have many volunteer experiences. "
+  thumbnailUrl: lamis.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/LamisChebbi"}
+
+- id: 9
+  name: "Olivier"
+  surname: "Leplus"
+  company: "&nbsp;"
+  bio: "Web developer & Traveler. My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies!"
+  thumbnailUrl: olivier.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/olivierleplus"}
+
+- id: 10
+  name: "Aurélie"
+  surname: "Violette"
+  company: "&nbsp;"
+  bio: "I am a freelance web developer in Paris. I work on Angular2 since rc5. I am an Angular fan, use it a lot on pro and personnal projects. I really like to stay up to date, read blogs and follow online courses often. I am also a Nodejs dev. And I play a lot Magic the Gathering as competitive player and judge. Lot of my personnal project are for the magic judge community."
+  thumbnailUrl: aurelie.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/purple_orwel"}
+
+- id: 11
+  name: "Ugochi"
+  surname: "Amako <br /><small>(remote)</small>"
+  company: "&nbsp;"
+  bio: "I'm a front-end web developer and I use Angular 2+, Typescripe and Bootstrap 4 to develop web projects. I'm a passionate girl-tech education activist and I love programming and designing. "
+  thumbnailUrl: ugochi.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/UgochiAmako"}
+
+- id: 12
+  name: "Aslan"
+  surname: "Vatsaev"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: aslan.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/avatsaev"}
+
+- id: 13
+  name: "Philippe"
+  surname: "Martin"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: philippe.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/feloy2"}
+
+- id: 14
+  name: "Annie"
+  surname: "Valla"
+  company: "&nbsp;"
+  bio: "&nbsp;"
+  thumbnailUrl: annie.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+- id: 15
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}

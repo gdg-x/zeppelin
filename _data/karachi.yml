@@ -1,0 +1,208 @@
+eventDate: "March 17th, 2018, Karachi, Pakistan"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSdoU7JJkZSUZixUEc-FfRVmtgkrDvnR1GVeLEr_NxEu-P0zaA/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdV_ijJIeeDi9LQjMv99Veo1NvRbLv1qfUWgNjUE35v44R2ew/viewform"
+descriptionTitle: "ngGirls @ Karachi"
+descriptionBlock:
+ - {title: "Who is it for?", template: "karachi/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "karachi/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+ - {title: "Schedule", template: "karachi/schedule.html", link: "/#schedule", linkTitle: "schedule", text: "Check out the Schedule. "}
+
+
+posts:
+- title: "Announcing ngGirls @ Karachi!"
+- content: "
+  <p class='post-body'>
+    <b>Excited to announce an ngGirls workshop in Karachi, Pakistan!</b>
+    <br>The workshop will be held on Saturday, March 17th, 2018. Application and Call for Mentors are open!
+  </p>
+"
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+   - {name: "Recurship", description: "Recurship", link: "http://recurship.com/", imageUrl: "recurship-2.0.png"}
+   - {name: "Nest I/O", description: "Nest I/O", link: "http://thenestio.com/", imageUrl: "nest_io.png"}
+   - {name: "Genetech Solutions", description: "Genetech Solutions", link: "https://www.genetechsolutions.com", imageUrl: "genetech.jpg"}
+   - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com", imageUrl: "iomechs-logo.gif"}
+   - {name: "Dhinchaks", description: "Dhinchaks", link: "https://www.facebook.com/dhinchakswrapping", imageUrl: "dhinchaks.jpg"}
+   - {name: "Outtabox", description: "Outtabox", link: "https://www.facebook.com/OuttaBoxPK", imageUrl: "outtabox.png"}
+   - {name: "GDG Kolachi", description: "GDG Kolachi", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png"}
+   - {name: "WomenintechPK", description: "WomenintechPK", link: "https://www.facebook.com/groups/WomenInTechPK", imageUrl: "WITPK-Logo.png"}
+
+
+
+mentors:
+
+- id: 1
+  name: 'Zainab'
+  surname: 'Saleem'
+  thumbnailUrl: zainab.jpg
+  role: "Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.twitter.com/zenabSaleemKhan
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/zenabSaleemKhan"}
+
+- id: 2
+  name: 'Robert'
+  surname: 'Willemelis'
+  thumbnailUrl: robert.png
+  role: "Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/robertSPD
+  social:
+  - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 3
+  name: 'Sarah'
+  surname: 'Ahmed'
+  thumbnailUrl: sarah.jpeg
+  role: "Speaker"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/profile.php?id=100012491862049
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100012491862049"}
+
+- id: 4
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  thumbnailUrl: mashhood.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/mashhoodr
+  social:
+  - {name: "twitter", link: "https://twitter.com/mashhoodr"}
+
+- id: 5
+  name: 'Neelam'
+  surname: 'Raheel'
+  thumbnailUrl: neelam.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/neelam.raheel.9
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/neelam.raheel.9"}
+
+- id: 6
+  name: 'Sohaib'
+  surname: 'Nehal'
+  thumbnailUrl: sohaib.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/Sohaib_Nehal
+  social:
+  - {name: "twitter", link: "https://twitter.com/Sohaib_Nehal"}
+
+- id: 7
+  name: 'Talia'
+  surname: 'Asghar'
+  thumbnailUrl: talia.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/taleyamirza
+  social:
+  - {name: "twitter", link: "https://twitter.com/taleyamirza"}
+
+- id: 8
+  name: 'Ahsan'
+  surname: 'Ayaz'
+  thumbnailUrl: ahsan.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Ahsan_ayz
+  social:
+  - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
+
+- id: 9
+  name: 'Javeria'
+  surname: 'Nisar'
+  thumbnailUrl: javeria.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/JavaEria1
+  social:
+  - {name: "facebook", link: "https://twitter.com/JavaEria1"}
+
+- id: 10
+  name: 'Muzammil'
+  surname: 'Bilwani'
+  thumbnailUrl: muzammil.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/muzammil.bilwani
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/muzammil.bilwani"}
+
+- id: 11
+  name: 'Sabrina'
+  surname: 'Ahmed Khan'
+  thumbnailUrl: sabrina.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/sabi.khan.71
+  social:
+  - {name: "twitter", link: "https://www.facebook.com/sabi.khan.71"}
+
+- id: 12
+  name: 'Kazim'
+  surname: 'Homayee'
+  thumbnailUrl: kazim.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/kazimhomayee
+  social:
+  - {name: "twitter", link: "https://twitter.com/kazimhomayee"}
+
+- id: 12
+  name: 'Shanza'
+  surname: 'Khan Shahani'
+  thumbnailUrl: shanza.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/ShanzaKhanShah
+  social:
+  - {name: "twitter", link: "https://twitter.com/ShanzaKhanShah"}
+
+- id: 13
+  name: 'Narain'
+  surname: 'Sagar'
+  thumbnailUrl: narain.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/narainsagar
+  social:
+  - {name: "twitter", link: "https://twitter.com/narainsagar"}
+
+- id: 14
+  name: 'Muneeba'
+  surname: 'Anwar'
+  thumbnailUrl: muneeba.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/MuneebaAnwar
+  social:
+  - {name: "twitter", link: "https://twitter.com/MuneebaAnwar"}
+
+- id: 15
+  name: 'Adeel'
+  surname: 'Hussain'
+  thumbnailUrl: adeel.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/adeel_hussainn
+  social:
+  - {name: "twitter", link: "https://twitter.com/adeel_hussainn"}
+
+- id: 16
+  name: 'Yusra'
+  surname: 'Khatri'
+  thumbnailUrl: yusra.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/yusrakhatri
+  social:
+  - {name: "twitter", link: "https://www.facebook.com/yusrakhatri"}

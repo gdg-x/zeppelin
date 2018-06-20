@@ -1,5 +1,18 @@
 .latest-news {
+    min-height: 0;
+    padding-bottom: 0px;
+
+    .latest-news-title {
+        font-family: "Times New Roman", Times, Serif;
+    }
+
     .post {
         margin-bottom: 40px;
+    }
+
+    .post-body {
+        a {
+            color: #673ab7;
+        }
     }
 }

@@ -11,3 +11,6 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
+### IDEA config files ###
+.idea/

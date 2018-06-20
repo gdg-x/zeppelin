@@ -1,0 +1,131 @@
+eventDate: "June 22nd, 2018 - Tel Aviv, Israel"
+date: "Friday, June 22nd, 2018, between 9:00-16:00,"
+location: "Checkmarx, Tel Aviv, Israel"
+deadline: "June 14th, 2018"
+applicationForm: "https://goo.gl/forms/NiQsCfykvAp7jU0H3"
+mentorsForm: "https://goo.gl/forms/RX3UylamItljMNXF2"
+confMessage: 'We are happy to be hosted by <a href="https://www.checkmarx.com/" target="_blank"><b>Checkmarx</b></a> and offer a free one-day workshop in Tel-Aviv, Israel!'
+descriptionTitle: "ngGirls @ TLV"
+descriptionBlock:
+ - {title: "Who is it for?", template: "TLV2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "TLV2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-  group: "Hosted by"
+   elements:
+     - {name: "Checkmarx", description: "Checkmarx", link: "https://www.checkmarx.com/", imageUrl: "checkmarx.png"}
+
+mentors:
+
+- id: 21
+  name: "Idan"
+  surname: "Nachman"
+  title: "Software Engineer"
+  company: "Checkmarx"
+  bio: "I have 10 years experience in coding, currently work at Checkmarx as a Software Engineer"
+  rockstar: true
+  thumbnailUrl: Idan.png
+
+- id: 22
+  name: "Yossi"
+  surname: "Shwartz"
+  title: "Front end developer"
+  company: "Taptica"
+  social:
+  bio: "Front end developer with over than 4 years of experience in web technologies, such as html5, css3, js, jquery and AngularJs/Angular(2+)  "
+  rockstar: true
+  thumbnailUrl: Yossi.png
+
+
+- id: 23
+  name: "Robert"
+  surname: "Willemelis"
+  title: "web developer"
+  company: "STRATO AG"
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+  bio: "The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+          (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+          impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+          So it is important to support them.</p>
+          <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+          <p>There are several projects with an impressive diversity support and very good material.<p>
+          <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+          in which he shows how important and good it can be to give something back to the community and how important
+          it is to learn from other developers. And I think I could also learn as a mentor from the participants.
+       "
+  rockstar: true
+  thumbnailUrl: robert.png
+
+- id: 24
+  name: "Eliran"
+  surname: "Elnasi"
+  title: "Front end lead at Cisco"
+  company: "Cisco"
+  social:
+  bio: "I'm a Web technologies expert, love working with Angular, Ionic Framework, Google Firebase, Node.js and PHP. Passionate about UX, Reactive programming and IoT."
+  rockstar: true
+  thumbnailUrl: Eliran.png
+
+- id: 26
+  name: "Or"
+  surname: "Chen"
+  title: "Training innovation officer"
+  company: "Idf"
+  social:
+  bio: "You already know me :)"
+  rockstar: true
+  thumbnailUrl: Or.png
+
+- id: 27
+  name: "Sebastian"
+  surname: "Witalec"
+  title: "Senior Developer Advocate"
+  company: "Progress"
+  social:
+  bio: "I work as a Developer Advocate for Progress and I use Angular and NativeScript on a daily basis. I love working with people, so I am sure we are going to have fun together :)"
+  rockstar: true
+  thumbnailUrl: Sebastian.png
+
+- id: 28
+  name: "Tzach"
+  surname: "Ovadia"
+  title: "Front End Architect"
+  company: "Front End Architect"
+  social:
+  bio: "Web developer for the past 8 years"
+  rockstar: true
+  thumbnailUrl: Tzach.png
+
+- id: 29
+  name: "Eliran"
+  surname: "Eliassy"
+  title: "FE Team Lead"
+  company: "Market.co.uk"
+  social:
+  bio: "Experienced Front End developer, specialised in B2C applications. Front End Team Lead @ Market.co.uk. Weekends FE developer @ fashbash.co. Speaker and active community member in Angular Israel"
+  rockstar: true
+  thumbnailUrl: Eliran2.png
+
+- id: 30
+  name: "Eliza"
+  surname: "Krajewska"
+  title: "UI Developer"
+  company: "Grid Dynamics"
+  social:
+  bio: "Master of Computer Science, graduated at Silesia University of Technology. Connected with programming since I was 12. Frontend developer in many companies from startups to the biggest ones. Fascinated by photography, UX and design. In free time I like do sports like running, yoga and *boardings."
+  rockstar: true
+  thumbnailUrl: Eliza.png
+
+- id: 30
+  name: "Nofar"
+  surname: "Baranes"
+  title: "Fullstack developer"
+  company: "Walla! News"
+  social:
+  bio: "I'm 29 years old,work as fullstack developer at walla!news, and I have 5 years practical experience as front-end developer, and in the last year as fullstack developer."
+  rockstar: true
+  thumbnailUrl: Nofar.png
+

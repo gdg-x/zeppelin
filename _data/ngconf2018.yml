@@ -1,0 +1,310 @@
+eventDate: "April 17th, 2018, Salt Lake City, UT"
+applicationForm: "https://goo.gl/forms/XjJeNgtLRcRDRvqZ2"
+mentorsForm: "https://goo.gl/forms/6RtfZlQX0LdT8Lc03"
+ngconfSite: "https://www.ng-conf.org/"
+descriptionTitle: "ngGirls @ ng-conf"
+descriptionBlock:
+ - {title: "Who is it for?", template: "ngconf2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ngconf2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+posts:
+- title: "Announcing ngGirls @ ng-conf - the world's original Angular conference!"
+- content: "
+  <p class='post-body'>
+    <b>Excited to announce an ngGirls workshop in Salt Lake City, Utah, as part of ng-conf!</b>
+    <br><b><a href='https://www.ng-conf.org/' target='_blank'>ng-conf</a></b> is the world's largest Angular conference,
+    providing high quality sessions by Angular core team and community members.
+    <br>The workshop will be held on Tuesday, April 17th, 2018. Application and Call for Mentors are open!
+  </p>
+"
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "ng-conf", description: "ng-conf 2018 - World's original Angular conference", link: "http://www.ng-conf.org/", imageUrl: "ng-conf2018.png"}
+     - {name: "Microsoft", description: "Microsoft Cloud Developer Advocates", link: "https://developer.microsoft.com/en-us/advocates/index.html", imageUrl: "microsoft.png"}
+     - {name: "Auth0", description: "Auth0", link: "https://auth0.com/", imageUrl: "auth0.png"}
+
+
+
+mentors:
+
+- id: 1
+  name: 'Bonnie'
+  surname: 'Brennan'
+  thumbnailUrl: Bonnie.jpeg
+  title: "xx"
+  company: "Instructor"
+  bio: "<p>Bonnie is a Senior Developer in Houston, Texas and the founder of the ngHouston Angular meetup.
+  She is also the co-founder of CodeBridge, an organization she runs with her teenage daughter to plan and
+  teach free coding workshops for women and girls at local universities. She enjoys teaching others and loves
+  encouraging more women and girls to learn programming.</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/bonnster75"}
+
+- id: 2
+  name: 'Robert'
+  surname: 'Willemelis'
+  thumbnailUrl: robert.png
+  title: "xxx"
+  company: "Instructor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/robertSPD"}
+
+- id: 3
+  name: 'Nicole'
+  surname: 'Oliver'
+  thumbnailUrl: nicole_oliver.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm a full-stack web developer currently working at Nintendo. I use my background in design and amateur game development to create fun and intuitive application interfaces. I love exploring code with other developers, and am always thrilled to share what I know!
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/nixallover"}
+
+- id: 4
+  name: 'Ed'
+  surname: 'Pelc'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/ed_pelc"}
+
+- id: 5
+  name: 'Liz'
+  surname: 'Davis Maxfield'
+  thumbnailUrl: liz_davis_maxfield.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Liz Davis Maxfield is a Angular/Ionic developer who loves to learn new things. She spends her day writing language learning apps, spends her afternoons playing with her two kids, and spends her evenings playing the cello. She loves to travel and rock climb and play frisbee... and she loves to code!
+</p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 6
+  name: 'Craig'
+  surname: 'Nishina'
+  thumbnailUrl: craig_nishina.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Craig Nishina is a software engineer at Google working on Ads and previously on the Protractor team. In a previous career, Craig worked as a civil engineer designing buildings, but he much prefers writing code over building structures. Craig is excited to be a mentor with ngGirls because he enjoys working with Angular and wants to support women interested in technology.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/cnishina"}
+
+- id: 7
+  name: 'Mana'
+  surname: 'Eini'
+  thumbnailUrl: mana_eini.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm an artist, activist, creator who was looking for the best ways to influence the world we live in. With the power of technology anyone can change their surroundings and I want to be able to help.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/thesecretofmana"}
+
+- id: 8
+  name: 'Jan-Niklas'
+  surname: 'Wortmann'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I think some of these informations I have already used above. In my free time I love cooking, especially bbq. For example I made some spare ribs last weekend, which lasts about 6 hours, but I enjoyed it really much. Furthermore I like jogging, eventhough I am quite exhausted after a short time :)
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/niklas_wortmann"}
+
+- id: 9
+  name: 'Cathy'
+  surname: 'Callow-H.'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Want more women in the industry; already a teacher; plan to provide internships and mentoring at Betterment Labs, LLC, within a year.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/ccallowheusser"}
+
+- id: 10
+  name: 'Jens'
+  surname: 'Bodal'
+  thumbnailUrl: jens_bodal.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm one of the co-organizers of the Angular Seattle meetup group and I'll be attending ng-conf this year. I welcome the opportunity to give back to the community so I'm more than willing to help out. NOTE: My flight arrives at 8:47AM on the 17th, if this works then I'm happy to be there. I might be able to change my schedule if help is really needed beforehand but I believe my flight was non-refundable.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/jensbodal"}
+
+- id: 11
+  name: 'Cresta'
+  surname: 'Beck'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/CrestaRasmussen"}
+
+- id: 12
+  name: 'Juan'
+  surname: 'Herrera'
+  thumbnailUrl: juan_herrera.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I am Juan and I carried out NgGirls in Colombia. It was an amazing experience and the impact was huge. I'd like to do that again :)
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/jdjuan"}
+
+- id: 13
+  name: 'Samantha'
+  surname: 'Gomez'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/sammieejam"}
+
+- id: 14
+  name: 'Preston'
+  surname: 'Lamb'
+  thumbnailUrl: preston_lamb.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/plambweb"}
+
+- id: 15
+  name: 'Julie'
+  surname: 'Kohler'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Hi, I'm a web developer working in AngularJS. I also love Node.js and am building skills in Java and React. My job is great because I get to create the web, not just consume it. I'm participating in ngGirls because I want to give others a hand in their coding journey. It's often challenging, and sometimes we just need some reassurance or to be pointed in the right direction. In my free time, I enjoy dance and travel.</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/juliecoding"}
+
+- id: 16
+  name: 'Jim'
+  surname: 'Bradshaw'
+  thumbnailUrl: jim_bradshaw.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Would love to get my daughter involved in the nerdom of programming. I am a long time programmer and technology nerd.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/nyronian"}
+
+- id: 17
+  name: 'Pamela'
+  surname: 'Ocampo'
+  thumbnailUrl: pamela_ocampo.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/pmocampo"}
+
+- id: 18
+  name: 'Jim'
+  surname: 'Lu'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I used to teach at a university so I love helping others learn. In my free time, I play with new gadgets, hike Utah’s beautiful mountains.
+</p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 19
+  name: 'Jacquie'
+  surname: 'Howard'
+  thumbnailUrl: jacquie_howard.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I have been programming for 45 years - since I was in High School and still love it. I learn something new every day and enjoy solving problems. It has always bothered me that there are so few women in programming and lately have been taking on mentoring roles when I can. I volunteered with TEALS, worked as a mentor with Thinkful, taught with Kids Code at a local elementary school and most recently attended a SheTech Explorer Day as a mentor for their technical challenge. My current job is at Health Catalyst where I have been doing mainly front end work with Angular and mentoring up and coming software engineers. I am the wife of another software developer and the mother of three more. I am the grandmother of two year old twins and can't wait to see what they will achieve!
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/jacquieslc"}
+
+- id: 20
+  name: 'Josh'
+  surname: 'Waite'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 21
+  name: 'Veronika'
+  surname: 'Thelen'
+  thumbnailUrl: veronica_thelen.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Software engineer turned stay at home mom</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/ver_kat"}
+
+- id: 22
+  name: 'Glen'
+  surname: 'Kingston'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/g_kingston"}
+
+- id: 23
+  name: 'Rachel'
+  surname: 'Noccioli'
+  thumbnailUrl: placeholder.png
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p></p>"
+  social:
+  - {name: "twitter", link: ""}
+
+- id: 24
+  name: 'Bill'
+  surname: 'Odom'
+  thumbnailUrl: bill_odom.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Bill Odom has been a software designer, developer, or systems architect for nearly three decades. For the last several years, he’s served as a consultant, trainer, and senior software developer for organizations large and small all across the US. These days, he divides his time between building large, complex web applications, and teaching other people how to build large, complex web applications. He feels weird writing about himself in the third person.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/wnodom"}
+
+- id: 25
+  name: 'Kim'
+  surname: 'Maida'
+  thumbnailUrl: kim_maida.jpeg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I am an Angular GDE, Angular consultant, speaker, and Technical Content Lead. I'm passionate about women in tech as well as diversity and inclusion, and love teaching and mentoring through tutorials, workshops, and public speaking.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/KimMaida"}
+
+- id: 26
+  name: 'Julie'
+  surname: 'Knowles'
+  thumbnailUrl: julie_knowles.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>Wanting to get more involved in the Angular community and I was looking for something to do on Tuesday and saw this opportunity. Why not offer to help! I realize I might be too late, but thought I'd give it a shot if you still need mentors.
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/Julie_M_Knowles"}
