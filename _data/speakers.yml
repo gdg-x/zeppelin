@@ -20,8 +20,19 @@
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
-- 
+-
   id: 2
+  name: "Baris"
+  surname: "Sarialioglu"
+  company: "Keytorc Software Testing Services"
+  title: "Managing partner"
+  bio: "Baris has over 15 years of experience as an information systems professional. He is highly experienced in software development, project management, business analysis, and software testing.\nBaris also has diverse experience spanning several industries, including telecommunications, defense, banking and finance, semiconductor manufacturing, and aviation. Based on this broad experience, he has been involved in several challenging projects and had the chance to work in several different countries, including Turkey, the United States, Russia, Germany, China, and Greece.\nHe has written articles and papers on software development, quality assurance, and software testing, and he regularly attends international and national conferences as a speaker, panelist, moderator, and contributor. In 2013, he published his first book, Software Testing Tips, in which he shared his experiences and vision about various software testing issues. Later-wards in 2015, he published his second book, Mobile Testing Tips, where he addressed many important areas as; Mobile Testing Techniques, Mobile Testing Tools, Mobile Test Automation and Mobile Performance Testing.\nCurrently, he is the managing partner of Keytorc Software Testing Services, where he holds the responsibilities of delivering test consultancy, outsourced test management, and software testing training (including accredited ISTQB trainings)."
+  thumbnailUrl: BarisSarialioglu.jpeg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/barissarialioglu/"}
+- 
+  id: 3
   name: "Em"
   surname: "Atualização"
   #company: "Experimentus"
@@ -29,15 +40,7 @@
   #bio: "Having been in the testing industry for many years now, I have a great deal of practical experience in all aspects of testing including the theory and hold a real passion for the industry, which I believe comes over when I talk to people about testing. I am also a firm believer that we should have a view on where “our” industry is going by reading articles, listening to others, and thinking about what could be in the future. All linked to process improvement…."
   thumbnailUrl: default.png
   rockstar: true
-- 
-  id: 3
-  name: "Em"
-  surname: "Atualização"
-  #company: "Keytorc Software Testing Services"
-  #title: "Managing partner"
-  #bio: "Baris has over 15 years of experience as an information systems professional. He is highly experienced in software development, project management, business analysis, and software testing. Baris also has diverse experience spanning several industries, including telecommunications, defense, banking and finance, semiconductor manufacturing, and aviation. Based on this broad experience, he has been involved in several challenging projects and had the chance to work in several different countries, including Turkey, the United States, Russia, Germany, China, and Greece. He has written articles and papers on software development, quality assurance, and software testing, and he regularly attends international and national conferences as a speaker, panelist, moderator, and contributor. In 2013, he published his first book, Software Testing Tips, in which he shared his experiences and vision about various software testing issues. Later-wards in 2015, he published his second book, Mobile Testing Tips, where he addressed many important areas as; Mobile Testing Techniques, Mobile Testing Tools, Mobile Test Automation and Mobile Performance Testing."
-  thumbnailUrl: default.png
-  rockstar: true
+
 - 
   id: 4
   name: "Em"
