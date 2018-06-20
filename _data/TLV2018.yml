@@ -119,3 +119,13 @@ mentors:
   rockstar: true
   thumbnailUrl: Eliza.png
 
+- id: 30
+  name: "Nofar"
+  surname: "Baranes"
+  title: "Fullstack developer"
+  company: "Walla! News"
+  social:
+  bio: "I'm 29 years old,work as fullstack developer at walla!news, and I have 5 years practical experience as front-end developer, and in the last year as fullstack developer."
+  rockstar: true
+  thumbnailUrl: Nofar.png
+
