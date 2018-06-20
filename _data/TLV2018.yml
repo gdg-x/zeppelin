@@ -93,7 +93,7 @@ mentors:
   name: "Tzach"
   surname: "Ovadia"
   title: "Front End Architect"
-  company: "Front End Architect"
+  company: "Stuccomedia"
   social:
   bio: "Web developer for the past 8 years"
   rockstar: true
@@ -119,7 +119,7 @@ mentors:
   rockstar: true
   thumbnailUrl: Eliza.png
 
-- id: 30
+- id: 31
   name: "Nofar"
   surname: "Baranes"
   title: "Fullstack developer"
@@ -128,4 +128,16 @@ mentors:
   bio: "I'm 29 years old,work as fullstack developer at walla!news, and I have 5 years practical experience as front-end developer, and in the last year as fullstack developer."
   rockstar: true
   thumbnailUrl: Nofar.png
+
+
+- id: 32
+  name: "Ilya"
+  surname: "Lsky"
+  title: "Fs developer"
+  company: "Fs developer"
+  social:
+  bio: "I've been a programmer since early age. Today I'm a professional developer. Passionate more than ever. Teaching is part of who i am and willing to help."
+  rockstar: true
+  thumbnailUrl: Ilya.png
+
 
