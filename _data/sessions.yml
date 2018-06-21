@@ -9,6 +9,7 @@
   title: "Almoço"
   place: "Sala de almoço"
   service: true
+  description: "O melhor momento para falar com oradores e participantes"
 
 -
   id: 202
