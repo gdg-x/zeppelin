@@ -39,7 +39,7 @@
   #title: "Managing Consultant and Lead TMMi Assessor"
   #bio: "Having been in the testing industry for many years now, I have a great deal of practical experience in all aspects of testing including the theory and hold a real passion for the industry, which I believe comes over when I talk to people about testing. I am also a firm believer that we should have a view on where “our” industry is going by reading articles, listening to others, and thinking about what could be in the future. All linked to process improvement…."
   thumbnailUrl: default.png
-  rockstar: true
+  rockstar: false
 
 - 
   id: 4
@@ -49,7 +49,7 @@
   #title: "Testing specialist"
   #bio: 'Maaret Pyhäjärvi is a software specialist with emphasis on testing. She works with a 10-person software development team at Granlund Oy as the testing specialist. On the side, she delivers hands-on testing trainings and consults on testing through Altom Consulting Oy. In addition to being an exploratory tester extraordinaire who teaches testing effectively in a mob testing format, she is an international conference speaker and an experienced organizer, facilitator and volunteer with various non-profit communities (Agile Finland, Software Testing Finland, Learn with Llew, Speak Easy, European Testing Conference) and book author, blogger and tweeter.'
   thumbnailUrl: default.png
-  rockstar: true
+  rockstar: false
 - 
   id: 5
   name: "Em"
@@ -58,7 +58,7 @@
   #title: "Software tester"
   #bio: "I am a software tester from the Netherlands and I am working for Alten Nederland since 2008. I call myself a Qualisopher which stands for someone “who loves truth and wisdom and at the same time is decisive to improve man and his environment” . This means I am interested in the world around us, to see what I can learn and I can apply in software testing. That is one of the reason why I tell stories in books and at (test) conferences such as EuroSTAR, Expo:QA, Belgium Testing Days, CAST and Testnet conferences. My dream is to participate, as a good qualisopher, in all kind of projects such as sports, culture or software testing. Projects which add value to our community: I want to inspire other people by cooperation, fun and empathy and hopefully bring light in someone's life."
   thumbnailUrl: default.png
-  rockstar: true
+  rockstar: false
 -
   id: 8
   name: "Em"
