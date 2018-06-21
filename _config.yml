@@ -126,19 +126,6 @@ ticketsTitle: "Inscrições"
 ticketsInfo: "Os bilhetes garantem acesso à conferência, coffee brakes e almoço."
 ticketsOffers:
  -
-  name: "Associado Profissional"
-  price: "60"
-  priceCurrency: "EUR"
-  ticketsNumber: "400"
-  buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
-  typeform: false
-  buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Inscrição enquanto Associado Profissional. O valor refere-se à quota anual, permitindo o acesso grátis a todos os eventos.", "Para mais informações, contacte:"]
-  mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt} 
-  validFrom: "2018-04-11T10:00"
-  validThrough: "2018-10-30T23:59"
-  disabled: false
- -
   name: "Inscrição normal"
   price: "85"
   priceCurrency: "EUR"
@@ -151,17 +138,16 @@ ticketsOffers:
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
  -
-  name: "Associado Estudante"
-  price: "10"
+  name: "Inscrição Associado"
+  price: "0"
   priceCurrency: "EUR"
-  ticketsNumber: "50"
-  buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_81b1d5fce3e14b0ebec1f73607257e79.pdf"
-  mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt} 
+  ticketsNumber: "400"
+  buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
   buyButtonText: "Inscrever-se Agora"
-  ticketContentList: ["Inscrição enquanto Associado Estudante. O valor refere-se à quota anual, permitindo o acesso grátis a todos os eventos.", "Para mais informações, contacte:"]
+  ticketContentList: ["Acesso gratuito à Conferência e a todos os eventos organizados pela PSTQB.", "* Se é Associado(a) da PSTQB, irá receber um e-mail com as instruções para se inscrever.","Para mais informações, contacte:"]
+  mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt} 
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
-  disabled: false
 
 # Footer
 socialLinks:

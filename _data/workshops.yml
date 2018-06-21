@@ -1,34 +1,22 @@
 - 
   date: "2018-11-20"
-  dateReadable: "20 de novembro"
+  dateReadable: "20 de novembro - Lisboa, Altis Grand Hotel"
   tracks: 
-    - {title: "Workshops", color: "#90be4e"}
+    - {title: "Workshop1", color: "#90be4e"}
+    - {title: "Workshop2", color: "#90be4e"}
+    - {title: "Workshop3", color: "#90be4e"}
+    - {title: "Workshop4", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "09:00",
     	endTime: "18:00",
-    	sessionIds: [101]
-    }
-    - {
-	    startTime: "09:00",
-    	endTime: "18:00",
-    	sessionIds: [102]
-    }
-    - {
-      startTime: "09:00",
-      endTime: "18:00",
-      sessionIds: [103]
-    }
-    - {
-      startTime: "09:00",
-    	endTime: "18:00",
-    	sessionIds: [104]
+    	sessionIds: [101, 102, 103, 104]
     }
 - 
   date: "2018-11-22"
-  dateReadable: "22 de novembro"
+  dateReadable: "22 de novembro, Coimbra"
   tracks: 
-    - {title: "Workshops", color: "#90be4e"}
+    - {title: "Workshop5", color: "#90be4e"}
   timeslots: 
     - {
 	    startTime: "09:00",
@@ -37,9 +25,9 @@
     }
 - 
   date: "2018-11-23"
-  dateReadable: "23 de novembro"
+  dateReadable: "23 de novembro, Porto"
   tracks: 
-    - {title: "Workshops", color: "#90be4e"}
+    - {title: "Workshop6", color: "#90be4e"}
   timeslots: 
     - {
 	    startTime: "09:00",
