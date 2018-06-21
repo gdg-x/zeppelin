@@ -23,7 +23,7 @@
             {% endfor %}
         </ul>
         {% for rightNavigationButton in site.rightNavigationButtons %}
-        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm hidden-md" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
             {{ rightNavigationButton.text }}
         </a>
         {% endfor %}
