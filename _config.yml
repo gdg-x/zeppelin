@@ -142,7 +142,7 @@ ticketsOffers:
   price: "0"
   priceCurrency: "EUR"
   ticketsNumber: "400"
-  buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
+  buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_8c352a02cc9d4746ba0abd80f5feabdf.pdf"
   buyButtonText: "Inscrever-se Agora"
   ticketContentList: ["Acesso gratuito à Conferência e a todos os eventos organizados pela PSTQB.","Para mais informações, contacte:"]
   mail: {link: "mailto:associados@pstqb.pt", text: associados@pstqb.pt}
