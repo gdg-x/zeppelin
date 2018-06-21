@@ -38,6 +38,7 @@
   title: "Em atualização"
   description: ""
   subtype: workshop
+  mailbody: "Gostaria%20de%20me%20inscrever%20no%20Workshop%201."
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
@@ -48,6 +49,7 @@
   title: "TeSTO"
   description: "Techniques for Software Testing Optimization"
   subtype: workshop
+  mailbody: "Gostaria%20de%20me%20inscrever%20no%20Workshop%202."
   speakers: [6]
   place: "Lisboa, Altis Grand Hotel"
   language: pt
@@ -59,6 +61,7 @@
   title: "Em atualização"
   description: ""
   subtype: workshop
+  mailbody: "Gostaria%20de%20me%20inscrever%20no%20Workshop%203."
   speakers: []
   place: Lisboa, Altis Grand Hotel
   language: en
@@ -69,6 +72,7 @@
   title: "Em atualização"
   description: ""
   subtype: workshop
+  mailbody: "Gostaria%20de%20me%20inscrever%20no%20Workshop%204."
   speakers: []
   place: Lisboa, Altis Grand Hotel
   language: pt
@@ -80,6 +84,7 @@
   title: "Em atualização"
   description: ""
   subtype: workshop
+  mailbody: "Gostaria%20de%20me%20inscrever%20no%20Workshop%205."
   speakers: [2]
   place: Coimbra
   language: en
@@ -91,6 +96,7 @@
   title: "Em atualização"
   description: ""
   subtype: workshop
+  mailbody: "Gostaria%20de%20me%20inscrever%20no%20Workshop%206."
   speakers: [2]
   place: Porto
   language: en
