@@ -28,11 +28,13 @@ layout: compress
     	{% include speakers-modals.html %} 
     {% endif %} 
 
-    {% if page.permalink == '/schedule/' %}
+    {% if page.permalink == '/schedule/' or page.permalink == '/workshops/' %}
         {% include sessions-modals.html %} 
     {% endif %} 
 
     {% include analytics.html %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/owlcarousel/assets/owl.theme.default.min.css">
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
@@ -44,6 +46,7 @@ layout: compress
         document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}><\/script>')
     }
     </script>
+    <script src="{{ site.baseurl }}/owlcarousel/owl.carousel.min.js"></script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/' or page.permalink == '/hotel/'%}
     <script>
@@ -115,6 +118,22 @@ layout: compress
                         animationDelay -= 500;
                     }
                 }
+                $('.owl-carousel').owlCarousel({
+                    loop:true,
+                    margin:10,
+                    nav:true,
+                    responsive:{
+                        0:{
+                            items:1
+                        },
+                        600:{
+                            items:3
+                        },
+                        1000:{
+                            items:5
+                        }
+                    }
+                })
             });
         {% endif %} 
     </script>

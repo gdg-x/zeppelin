@@ -34,44 +34,69 @@
 
 
 -
-  id: 001
+  id: 101
   title: "Em atualização"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [2]
+  place: "Lisboa, Altis Grand Hotel"
   language: en
-  complexity: "Intermediate"
+  price: "A confirmar"
   video: ""
 -
-  id: 002
-  title: "Em atualização"
-  description: ""
+  id: 102
+  title: "TeSTO"
+  description: "Techniques for Software Testing Optimization"
   subtype: workshop
-  speakers: []
-  language: en
-  complexity: "Intermediate" 
-  presentation: ""
-  video: ""
--
-  id: 003
-  title: "Em atualização"
-  description: ""
-  subtype: workshop
-  speakers: []
-  language: en
-  complexity: "Intermediate" 
-  presentation: ""
--
-  id: 004
-  title: "Em atualização"
-  description: ""
-  subtype: workshop
-  speakers: []
+  speakers: [6]
+  place: "Lisboa, Altis Grand Hotel"
   language: pt
-  complexity: "Beginner"
+  price: "Grátis e exclusivo apenas para Associados da PSTQB"
+  presentation: "http://joel-oliveira.appspot.com/training/testo"
+  video: ""
+-
+  id: 103
+  title: "Em atualização"
+  description: ""
+  subtype: workshop
+  speakers: []
+  place: Lisboa, Altis Grand Hotel
+  language: en
+  price: "A confirmar" 
+  presentation: ""
+-
+  id: 104
+  title: "Em atualização"
+  description: ""
+  subtype: workshop
+  speakers: []
+  place: Lisboa, Altis Grand Hotel
+  language: pt
+  price: "A confirmar"
   presentation: ""
   video: ""
-
+-
+  id: 105
+  title: "Em atualização"
+  description: ""
+  subtype: workshop
+  speakers: [2]
+  place: Coimbra
+  language: pt
+  price: "A confirmar"
+  presentation: ""
+  video: ""
+-
+  id: 106
+  title: "Em atualização"
+  description: ""
+  subtype: workshop
+  speakers: [2]
+  place: Porto
+  language: pt
+  price: "A confirmar"
+  presentation: ""
+  video: ""
 -
   id: 005
   title: "Em atualização"

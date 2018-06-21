@@ -13,10 +13,13 @@
 						</div>
 						<h4>{{ session.title }}</h4>
 						{% if session.language != null %}
-						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+						<span class="theme-metadata"><span class="caption">Língua: </span>{{ session.language }}</span>
 						{% endif %}
-						{% if session.complexity != null %}
-						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
+						{% if session.price != null %}
+						<span class="theme-metadata"><span class="caption">Preço: </span>{{ session.price }}</span>
+						{% endif %}
+						{% if session.place != null %}
+						<span class="theme-metadata"><span class="caption">Local: </span>{{ session.place }}</span>
 						{% endif %}
 						{% if session.video %}
 						<div class="theme-video embed-responsive embed-responsive-16by9">

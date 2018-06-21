@@ -7,21 +7,43 @@
     - {
     	startTime: "09:00",
     	endTime: "18:00",
-    	sessionIds: [001]
+    	sessionIds: [101]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "17:00",
-    	sessionIds: [002]
+	    startTime: "09:00",
+    	endTime: "18:00",
+    	sessionIds: [102]
     }
     - {
-        startTime: "14:00",
-        endTime: "18:00",
-        sessionIds: [003]
+      startTime: "09:00",
+      endTime: "18:00",
+      sessionIds: [103]
     }
     - {
-    	startTime: "18:30",
-    	endTime: "20:30",
-    	sessionIds: [004]
+      startTime: "09:00",
+    	endTime: "18:00",
+    	sessionIds: [104]
+    }
+- 
+  date: "2018-11-22"
+  dateReadable: "22 de novembro"
+  tracks: 
+    - {title: "Workshops", color: "#90be4e"}
+  timeslots: 
+    - {
+	    startTime: "09:00",
+    	endTime: "18:00",
+    	sessionIds: [105]
+    }
+- 
+  date: "2018-11-23"
+  dateReadable: "23 de novembro"
+  tracks: 
+    - {title: "Workshops", color: "#90be4e"}
+  timeslots: 
+    - {
+	    startTime: "09:00",
+    	endTime: "18:00",
+    	sessionIds: [106]
     }
 
