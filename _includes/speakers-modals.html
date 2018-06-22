@@ -14,26 +14,23 @@
 						</div>
 						{% if site.showSessions %}
 							{% for session in site.data.sessions %}
-								{% for session_speaker in session.speakers %}
-									{% if session_speaker == speaker.id %}
-										<h4>{{ session.title }}</h4>
-										{% if session.language != null %}
-										<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+								{% if session.subtype != 'workshop' %}
+									{% for session_speaker in session.speakers %}
+										{% if session_speaker == speaker.id %}
+											<h4>{{ session.title }}</h4>
+											{% if session.language != null %}
+											<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+											{% endif %}
+											{% if session.complexity != null %}
+											<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
+											{% endif %}
+											<p class="theme-description">{{ session.description }}</p>
+											{% if session.presentation %}
+											<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+											{% endif %}
 										{% endif %}
-										{% if session.complexity != null %}
-										<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
-										{% endif %}
-										{% if session.video %}
-										<div class="theme-video embed-responsive embed-responsive-16by9">
-										    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
-										</div>
-										{% endif %}
-										<p class="theme-description">{{ session.description }}</p>
-										{% if session.presentation %}
-										<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
-										{% endif %}
-									{% endif %}
-								{% endfor %}		
+									{% endfor %}
+								{% endif %}		
 							{% endfor %}
 							<hr>
 						{% endif %}

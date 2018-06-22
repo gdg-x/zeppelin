@@ -6,7 +6,7 @@
             
                 <div class="owl-carousel owl-theme">
                     {% for session in site.data.sessions %}
-                        {% if session.subtype == 'workshop' %}
+                        {% if session.subtype == 'workshop' and session.speakers.size > 0%}
                         <a href="{{ site.baseurl }}/workshops/">
                             <div class="item track-header-slot">
                                 <div class="slot-content">
