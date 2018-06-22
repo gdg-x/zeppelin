@@ -2,7 +2,7 @@
   id: 6
   name: "Joel"
   surname: "Oliveira"
-  company: "PSTQB"
+  company: "PSTQB – Associação Portuguesa de Testes de Software"
   title: "Presidente"
   bio: "Começou a carreira profissional em 1998 e tendo desempenhado diversas funções nas mais diversas áreas de negócio, foi em 2009 que, após um envolvimento mais próximo com a área de testes de software, criou a primeira comunidade portuguesa online focada em qualidade e testes de software. Um ano mais tarde foi um dos fundadores da PSTQB – Portuguese Software Testing and Qualifications Board e desde 2011 que tem vindo a participar também nos grupos de trabalho do ISTQB®."
   thumbnailUrl: JoelOliveira.jpg
@@ -13,9 +13,9 @@
   id: 7
   name: "Patrícia"
   surname: "Alves"
-  company: "PSTQB"
-  title: "Vice-Presidente"
-  bio: "Lorem Ipsum."
+  company: "PSTQB – Associação Portuguesa de Testes de Software"
+  title: "Vice Presidente"
+  bio: "Patricia Alves, co-founded PSTQB – Associação Portuguesa de Testes de Software in 2010. Currently with the role of Vice President of PSTQB - Portuguese board for ISTQB.  At ISTQB community she is part of Exam Working Group since 2010 and she is also Advanced Level ITP Examiner for an European board. With 20 years of IT experience, 17 of them in Software Testing and Team Management. From their professional experience in IT we remark 10 years in Software Testing within consultancy arena as Business Unit Manager, 2 years leading teams in Switzerland as freelancer and since 2014 leading Siemens Global Test Center from Lisbon."
   thumbnailUrl: PatriciaAlves.jpg
   rockstar: false
   social: 
