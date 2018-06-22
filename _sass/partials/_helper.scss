@@ -12,6 +12,9 @@
         color: rgba(51, 51, 51, .6);
         border-color: rgba(51, 51, 51, .6);
     }
+    :hover{
+        color: $primary-color;
+    }
 }
 .colored {
     color: $primary-color;
