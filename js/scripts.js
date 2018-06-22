@@ -68,7 +68,7 @@
                 $('#bottom-navlinks').removeClass('bottom-navlinks-small').addClass('bottom-navlinks');
             }
         });
-
+/*
         $(function() {
             $('a[href*=#]:not([href=#])').click(function() {
                 if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -87,7 +87,7 @@
             $('a[href=#]').click(function() {
                 event.preventDefault();
             });
-        });
+        });*/
         $(function() {
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
