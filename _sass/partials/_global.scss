@@ -128,6 +128,12 @@ time {
     left: 0;
     background-color: #fff;
 }
+.loader-gif{
+    display: inline-block;
+    position: absolute;
+    top: calc(50% - 512px);
+    left: calc(50% - 512px);
+}
 .loader-gplus {
     display: inline-block;
     position: absolute;
