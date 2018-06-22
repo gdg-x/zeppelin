@@ -14,6 +14,9 @@
                         {% for p in about.text %}
                             <p>{{ p }}</p>
                         {% endfor %}
+                        {% if about.link != null %}
+                        <strong><a href="{{about.link}}">{{about.linkText}}</a></strong>
+                        {% endif %}
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
