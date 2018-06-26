@@ -43,7 +43,7 @@
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
-  price: "A confirmar"
+  price: "Consultar tabela de preços"
   moreinfo: "/assets/AgileTesting.pdf"
 -
   id: 102
@@ -71,7 +71,7 @@
   speakers: [3]
   place: Lisboa, Altis Grand Hotel
   language: en
-  price: "A confirmar" 
+  price: "Consultar tabela de preços" 
   #presentation: ""
 -
   id: 104
@@ -81,7 +81,7 @@
   speakers: []
   place: Lisboa, Altis Grand Hotel
   language: pt
-  price: "A confirmar"
+  price: "Consultar tabela de preços"
   #presentation: ""
   video: ""
 
@@ -95,7 +95,7 @@
   speakers: [2]
   place: Coimbra
   language: en
-  price: "A confirmar"
+  price: "Consultar tabela de preços"
   moreinfo: "/assets/UserExperienceTestingUsability.pdf"
   #presentation: ""
 -
@@ -109,7 +109,7 @@
   speakers: [2]
   place: Porto
   language: en
-  price: "A confirmar"
+  price: Consultar tabela de preços"
   moreinfo: "/assets/TestManagement.pdf"
   #presentation: ""
 -
