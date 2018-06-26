@@ -3,13 +3,13 @@
   title: "Coffee Break"
   place: "Hall"
   service: true
-  description: "O melhor momento para falar com oradores e participantes"
+  descriptions: ["O melhor momento para falar com oradores e participantes"]
 -
   id: 201
   title: "Almoço"
   place: "Sala de almoço"
   service: true
-  description: "O melhor momento para falar com oradores e participantes"
+  descriptions: ["O melhor momento para falar com oradores e participantes"]
 
 -
   id: 202
@@ -36,7 +36,7 @@
 -
   id: 101
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: workshop
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
@@ -46,18 +46,23 @@
 -
   id: 102
   title: "TeSTO"
-  description: "Techniques for Software Testing Optimization"
+  descriptions: ["Techniques for Software Testing Optimization",
+  "Are you doing software testing? And are you doing it optimizing your effort?",
+  "In our days, the demanding to reduce the time to market is becoming almost insane. With the always increasing complexity (risk) of the systems at the same time that we have shorter development cycles (time) with the advent of the agile methodologies, software testers are always under pressure to ensure more quality with less effort (cost). Is it possible?",
+  "Short answer: yes!",
+  "In most of the cases, yes, it is possible. However, the solution is rarely to reduce the testing effort. Instead, you should focus on how to optimize it (delivering more value with the same effort it’s also a way to reduce costs)! In this workshop, we will discuss the main points of waste in the testing activities and put in practice several techniques (and advices) to help on reducing the waste while optimizing the effort.",
+  "This is a practical workshop so you will need a white A4 page, a pencil (or pen) and a windows based laptop because besides the techniques, you will also install and learn how to use a simple web testing automation tool."]
   subtype: workshop
   speakers: [6]
   place: "Lisboa, Altis Grand Hotel"
   language: pt
   price: "Grátis e exclusivo apenas para Associados da PSTQB"
-  presentation: "http://joel-oliveira.appspot.com/training/testo"
+  #presentation: "http://joel-oliveira.appspot.com/training/testo"
   video: ""
 -
   id: 103
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: workshop
   speakers: []
   place: Lisboa, Altis Grand Hotel
@@ -67,7 +72,7 @@
 -
   id: 104
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: workshop
   speakers: []
   place: Lisboa, Altis Grand Hotel
@@ -79,7 +84,7 @@
 -
   id: 105
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: workshop
   speakers: [2]
   place: Coimbra
@@ -90,7 +95,7 @@
 -
   id: 106
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: workshop
   speakers: [2]
   place: Porto
@@ -101,7 +106,7 @@
 -
   id: 005
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: keynote
   speakers: []
   language: pt
@@ -111,7 +116,7 @@
 -
   id: 006
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: diamond
   speakers: []
   language: pt
@@ -121,7 +126,7 @@
 -
   id: 007
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: gold
   speakers: []
   language: pt
@@ -131,7 +136,7 @@
 -
   id: 008
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: gold
   speakers: []
   language: pt
@@ -141,7 +146,7 @@
 -
   id: 009
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: keynote
   speakers: []
   language: en
@@ -151,7 +156,7 @@
 -
   id: 010
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: keynote
   speakers: []
   language: en
@@ -161,7 +166,7 @@
 -
   id: 011
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: callForSpeakers
   speakers: []
   language: pt
@@ -171,7 +176,7 @@
 -
   id: 012
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: callForSpeakers
   speakers: []
   language: en
@@ -181,7 +186,7 @@
 -
   id: 013
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: callForSpeakers
   speakers: []
   language: pt
@@ -191,7 +196,7 @@
 -
   id: 014
   title: "Em atualização"
-  description: ""
+  descriptions: [""]
   subtype: keynote
   speakers: []
   language: en
