@@ -35,14 +35,16 @@
 
 -
   id: 101
-  title: "Em atualização"
-  descriptions: [""]
+  title: "Agile Testing"
+  descriptions: ["The course will provide an overview of Agile Frameworks and the role of the tester while addressing Agile Testing at every stage of the Agile or waterfall/hybrid lifecycle, and various Agile maturity levels.",
+  "The course will help you in boosting your knowledge regarding to testing roles, required skills and latest trends for Lean/Agile Projects.",
+  "The course will help you in learning the best practices and have hands-on testing experience for successful projects."]
   subtype: workshop
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
   price: "A confirmar"
-  video: ""
+  moreinfo: "/assets/AgileTesting.pdf"
 -
   id: 102
   title: "TeSTO"
@@ -61,14 +63,16 @@
   video: ""
 -
   id: 103
-  title: "Em atualização"
-  descriptions: [""]
+  title: "Whole Team Quality: In the same boat or up the creek?"
+  descriptions: ["Those three little words. No, not those three, the other three: “Whole Team Quality”.",
+  "We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?",
+  "In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality."]
   subtype: workshop
-  speakers: []
+  speakers: [3]
   place: Lisboa, Altis Grand Hotel
   language: en
   price: "A confirmar" 
-  presentation: ""
+  #presentation: ""
 -
   id: 104
   title: "Em atualização"
@@ -78,31 +82,36 @@
   place: Lisboa, Altis Grand Hotel
   language: pt
   price: "A confirmar"
-  presentation: ""
+  #presentation: ""
   video: ""
 
 -
   id: 105
-  title: "Em atualização"
-  descriptions: [""]
+  title: "User Experience Testing & Usability"
+  descriptions: ["Course Objective:",
+  "Improving Usability Testing in Global Standards with interactive and practical methods.",
+  "Latest Usability test techniques, methodologies in the courses with sample applications that provide you opportunity to gain skills and practical information."]
   subtype: workshop
   speakers: [2]
   place: Coimbra
   language: en
   price: "A confirmar"
-  presentation: ""
-  video: ""
+  moreinfo: "/assets/UserExperienceTestingUsability.pdf"
+  #presentation: ""
 -
   id: 106
-  title: "Em atualização"
-  descriptions: [""]
+  title: "Test Management"
+  descriptions: ["Course Objective:",
+  "Setting quality goals for the organization, Assessing organizational capabilities, Performing quality risk analysis, Using requirements documents and specifications",
+  "Creating and following test plans, Writing and tracking test cases and suites, Presenting difficult information to management",
+  "Managing bugs reports, Using people resources effectively, Planning and Deciding on Test automation and Tool selection"]
   subtype: workshop
   speakers: [2]
   place: Porto
   language: en
   price: "A confirmar"
-  presentation: ""
-  video: ""
+  moreinfo: "/assets/TestManagement.pdf"
+  #presentation: ""
 -
   id: 005
   title: "Em atualização"

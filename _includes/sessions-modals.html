@@ -29,6 +29,9 @@
 						{% for description in session.descriptions %}
 						<p class="theme-description">{{description}}</p>
 						{% endfor %}
+						{% if session.moreinfo %}
+						<a class="theme-presentation" href="{{session.moreinfo}}" title="More info" target="_black">More info</a>
+						{% endif %}
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
