@@ -36,10 +36,12 @@
 -
   id: 101
   title: "Agile Testing"
-  descriptions: ["The course will provide an overview of Agile Frameworks and the role of the tester while addressing Agile Testing at every stage of the Agile or waterfall/hybrid lifecycle, and various Agile maturity levels.",
-  "The course will help you in boosting your knowledge regarding to testing roles, required skills and latest trends for Lean/Agile Projects.",
-  "The course will help you in learning the best practices and have hands-on testing experience for successful projects."]
+  descriptions: ["Course Objective:",
+  "<ul><li>The course will provide an overview of Agile Frameworks and the role of the tester while addressing Agile Testing at every stage of the Agile or waterfall/hybrid lifecycle, and various Agile maturity levels.</li><li>The course will help you in boosting your knowledge regarding to testing roles, required skills and latest trends for Lean/Agile Projects.</li><li>The course will help you in learning the best practices and have hands-on testing experience for successful projects.</li></ul>",
+  "Intended Audience:",
+  "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>"]
   subtype: workshop
+  warning: "Dos três Workshops (1,5 e 6) apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas"
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
@@ -68,6 +70,7 @@
   "We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?",
   "In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality."]
   subtype: workshop
+
   speakers: [3]
   place: Lisboa, Altis Grand Hotel
   language: en
@@ -89,9 +92,11 @@
   id: 105
   title: "User Experience Testing & Usability"
   descriptions: ["Course Objective:",
-  "Improving Usability Testing in Global Standards with interactive and practical methods.",
-  "Latest Usability test techniques, methodologies in the courses with sample applications that provide you opportunity to gain skills and practical information."]
+  "<ul><li>Improving Usability Testing in Global Standards with interactive and practical methods.</li><li>Latest Usability test techniques, methodologies in the courses with sample applications that provide you opportunity to gain skills and practical information.</li></ul>",
+  "Intended Audience:",
+  "<ul><li>Test Engineers, Usability Experts, Business Analysts, System Analysts, Programmers, Web Designers, Project Managers, Enterprise Architecture Specialists, Software Architects</li></ul>"]
   subtype: workshop
+  warning: "Dos três Workshops (1,5 e 6) apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas"
   speakers: [2]
   place: Coimbra
   language: en
@@ -102,9 +107,10 @@
   id: 106
   title: "Test Management"
   descriptions: ["Course Objective:",
-  "Setting quality goals for the organization, Assessing organizational capabilities, Performing quality risk analysis, Using requirements documents and specifications",
-  "Creating and following test plans, Writing and tracking test cases and suites, Presenting difficult information to management",
-  "Managing bugs reports, Using people resources effectively, Planning and Deciding on Test automation and Tool selection"]
+  "<ul><li>Setting quality goals for the organization, Assessing organizational capabilities, Performing quality risk analysis, Using requirements documents and specifications</li><li>Creating and following test plans, Writing and tracking test cases and suites, Presenting difficult information to management</li><li>Managing bugs reports, Using people resources effectively, Planning and Deciding on Test automation and Tool selection</li></ul>",
+  "Intended Audience:",
+  "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"]
+  warning: "Dos três Workshops (1,5 e 6) apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas"
   subtype: workshop
   speakers: [2]
   place: Porto
@@ -114,14 +120,19 @@
   #presentation: ""
 -
   id: 005
-  title: "Em atualização"
-  descriptions: [""]
+  title: "Letter to myself"
+  descriptions: ["This talk is a letter to myself - and hopefully to other testers at various stages in their careers.",
+  "Our craft is exciting, changeable, important and often underestimated. We ourselves can be alight with passion sometimes and can so easily lose some of that passion when faced with the realities of cost/benefit questions, an acceptance or expectation of inferior work and sheer drudgery in seemingly never changing systems.",
+  "At the same time, the tester role is constantly changing. We have to change or be changed - what can that look like, and how can we choose to react to it?",
+  "I may not be able to answer all these questions but I want to share with you some experiences of my almost 10 years in IT and testing in the form of letter excerpts to myself I wish I could have read when I started.",
+  "Some of the topics:",
+  "<ul><li>you are not 'not technical'</li><li>follow your instinct</li><li>keeping your passion</li><li>the power of biscuits</li><li>your community will save you</li><li>the future hasn't killed you yet</li></ul>",
+  "Participants will hear about ways of keeping their passion and motivation alive and I’ll share experiences that will hopefully help to plan your next steps in your career or on your testing path. I’ll talk about how I deal with being in a technical world when my background is in linguistics, and I’ll reinforce us all in believing that what we do is worthwhile and important."]
   subtype: keynote
-  speakers: []
-  language: pt
-  complexity: "Beginner"
-  presentation: ""
-  video: ""
+  speakers: [3]
+  language: en
+  #presentation: ""
+  #video: ""
 -
   id: 006
   title: "Em atualização"
