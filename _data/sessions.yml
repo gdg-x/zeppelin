@@ -49,7 +49,7 @@
   moreinfo: "/assets/AgileTesting.pdf"
 -
   id: 102
-  title: "TeSTO"
+  title: "TeSTO: Techniques for Software Testing Optimization"
   descriptions: ["Techniques for Software Testing Optimization",
   "Are you doing software testing? And are you doing it optimizing your effort?",
   "In our days, the demanding to reduce the time to market is becoming almost insane. With the always increasing complexity (risk) of the systems at the same time that we have shorter development cycles (time) with the advent of the agile methodologies, software testers are always under pressure to ensure more quality with less effort (cost). Is it possible?",
@@ -65,7 +65,7 @@
   video: ""
 -
   id: 103
-  title: "Whole Team Quality: In the same boat or up the creek?"
+  title: "Leadership for testers in agile teams"
   descriptions: ["Those three little words. No, not those three, the other three: “Whole Team Quality”.",
   "We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?",
   "In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality."]
@@ -120,7 +120,7 @@
   #presentation: ""
 -
   id: 005
-  title: "Letter to myself"
+  title: "Whole team quality – in the same boat or up the creek?"
   descriptions: ["This talk is a letter to myself - and hopefully to other testers at various stages in their careers.",
   "Our craft is exciting, changeable, important and often underestimated. We ourselves can be alight with passion sometimes and can so easily lose some of that passion when faced with the realities of cost/benefit questions, an acceptance or expectation of inferior work and sheer drudgery in seemingly never changing systems.",
   "At the same time, the tester role is constantly changing. We have to change or be changed - what can that look like, and how can we choose to react to it?",
