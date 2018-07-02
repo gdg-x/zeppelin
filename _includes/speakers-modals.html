@@ -12,28 +12,7 @@
 							</svg>
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
-						{% if site.showSessions %}
-							{% for session in site.data.sessions %}
-								{% if session.subtype != 'workshop' %}
-									{% for session_speaker in session.speakers %}
-										{% if session_speaker == speaker.id %}
-											<h4>{{ session.title }}</h4>
-											{% if session.language != null %}
-											<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
-											{% endif %}
-											{% if session.complexity != null %}
-											<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
-											{% endif %}
-											<p class="theme-description">{{ session.description }}</p>
-											{% if session.presentation %}
-											<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
-											{% endif %}
-										{% endif %}
-									{% endfor %}
-								{% endif %}		
-							{% endfor %}
-							<hr>
-						{% endif %}
+						
 						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
@@ -65,6 +44,31 @@
 								</div>
 							</div>
 						</div>
+						<hr>
+						{% if site.showSessions %}
+							{% for session in site.data.sessions %}
+									{% for session_speaker in session.speakers %}
+										{% if session_speaker == speaker.id %}
+											<h4>{{ session.title }}</h4>
+											{% if session.subtype != null %}
+											<span class="theme-metadata"><span class="caption">Tipo: </span>{{ session.subtype }}</span>
+											{% endif %}
+											{% if session.language != null %}
+											<span class="theme-metadata"><span class="caption">Idioma: </span>{{ session.language }}</span>
+											{% endif %}
+											<div class="theme-description">
+												{% for description in session.descriptions %}
+													<p>{{description}}</p>
+												{% endfor %}
+											</div>
+											{% if session.presentation %}
+											<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+											{% endif %}
+										{% endif %}
+									{% endfor %}
+							{% endfor %}
+							
+						{% endif %}
 					</div>
 				</div>
 			</div>

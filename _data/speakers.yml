@@ -16,6 +16,7 @@
   surname: "Alves"
   company: "PSTQB – Associação Portuguesa de Testes de Software"
   title: "Vice Presidente"
+  shortBio: "Has 10 years in Software Testing, 2 years leading teams in Switzerland and since 2014 leading Siemens Global Test Center."
   bio: "Patricia Alves, co-founded PSTQB – Associação Portuguesa de Testes de Software in 2010. Currently with the role of Vice President of PSTQB - Portuguese board for ISTQB.  At ISTQB community she is part of Exam Working Group since 2010 and she is also Advanced Level ITP Examiner for an European board. With 20 years of IT experience, 17 of them in Software Testing and Team Management. From their professional experience in IT we remark 10 years in Software Testing within consultancy arena as Business Unit Manager, 2 years leading teams in Switzerland as freelancer and since 2014 leading Siemens Global Test Center from Lisbon."
   thumbnailUrl: PatriciaAlves.jpg
   rockstar: false
@@ -27,6 +28,7 @@
   surname: "Sarialioglu"
   company: "TesterYou"
   title: "Managing partner"
+  shortBio: "Baris is highly experienced in software development, project management, business analysis, and software testing."
   bio: "Baris has over 15 years of experience as an information systems professional. He is highly experienced in software development, project management, business analysis, and software testing.\nBaris also has diverse experience spanning several industries, including telecommunications, defense, banking and finance, semiconductor manufacturing, and aviation. Based on this broad experience, he has been involved in several challenging projects and had the chance to work in several different countries, including Turkey, the United States, Russia, Germany, China, and Greece.\nHe has written articles and papers on software development, quality assurance, and software testing, and he regularly attends international and national conferences as a speaker, panelist, moderator, and contributor. In 2013, he published his first book, Software Testing Tips, in which he shared his experiences and vision about various software testing issues. Later-wards in 2015, he published his second book, Mobile Testing Tips, where he addressed many important areas as: Mobile Testing Techniques, Mobile Testing Tools, Mobile Test Automation and Mobile Performance Testing.\nCurrently, he is the managing partner of Keytorc Software Testing Services, where he holds the responsibilities of delivering test consultancy, outsourced test management, and software testing training (including accredited ISTQB trainings)."
   thumbnailUrl: BarisSarialioglu.jpg
   rockstar: true
@@ -38,6 +40,7 @@
   surname: "Schladebeck"
   company: "BREDEX GmbH"
   title: "Head of Software Quality and Test Consulting"
+  shortBio: "Alex is an outgoing and passionate team leader, consultant, software tester and product owner. Communicating with people is her main focus."
   bio: "Alex is an outgoing and passionate team leader, consultant, software tester and product owner. Communicating with people is her main focus – something she is fortunate to do frequently in her role as Head of Software Quality and Test Consulting at BREDEX GmbH. Alex comes from a background in language and linguistics, and has been working in IT since 2005. She spends her time coaching testers and developers, consulting customers and helping development teams to improve their quality. She loves working in agile processes, talking about testing and quality, and encouraging communication magic to happen. She no longer describes herself as non-technical, but she still sees her role as translating between different groups of people in IT. You'll usually find Alex talking about quality and how it affects the whole development process, or about her life goal to make testing more appreciated! She's also a frequent speaker at conferences where she likes to share her project experiences and learn from other practitioners."
   thumbnailUrl: AlexandraSchladebeck.jpg
   rockstar: true

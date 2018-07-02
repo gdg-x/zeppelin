@@ -1,56 +1,30 @@
 <!-- Begin Speakers List-->
-<section id="speakers" class="speakers">
-    <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
-            <div class="row text-left appear-animation-trigger">
-                {% for speaker in site.data.speakers %}
-                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
-                    <div class="lily-effect ribbon-activator">
-                        <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
-                                <div class="overlay solid-overlay"></div>
-                                {% if speaker.ribbon != null %}
-                                <ul class="ribbon-wrapper">
-                                    {% for ribbon in speaker.ribbon %}
-                                    <li class="{{ ribbon["abbr"] | downcase }}">
-                                        <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
-                                        <p class="ribbon full-title">{{ ribbon["title"] }}</p>
-                                    </li>
-                                    {% endfor %}
-                                </ul>
-                                {% endif %}
-                                {% if site.showSessions %}
-                                <figcaption>
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
-                                </figcaption>
-                                {% endif %}
-                            </figure>
-                        </div>
-                        <div class="lily-bottom">
-                            <ul class="slider">
-                                {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %} 
-                                    {% for session in site.data.sessions %} 
-                                        {% for session_speaker in session.speakers %} 
-                                            {% if session_speaker == speaker.id %}
-                                            {% assign sessionsNumber = sessionsNumber | plus: 1 %}
-                                                <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
-                                {% else %}
-                                    <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
-                                {% endif %}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-            </div> 
-            <a href="{{ site.callForSpeakersLink | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">Torna-te Orador</a>     
+<section class="section align-center">
+    <div class="container">
+        {% for speaker in site.data.speakers %}
+        <div class="col-sm-3">
+            <div class="speaker" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                <div class="photo-wrapper rounded"><img src="{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}" alt="" class="img-responsive"></div>
+                <h3 class="name">{{speaker.name}} {{speaker.surname}}</h3>
+                {% if speaker.title != null %}
+                <p class="text-alt"><small>{{speaker.title}} @ {{speaker.company}}</small></p>
+                {% endif %}
+                <p class="about">{{speaker.shortBio}}</p>
+
+                <ul class="speaker-socials">
+                    {% for social in speaker.social %}
+                        <li>
+                            <a href="{{social.link}}" target="_blank">
+                                <svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
+                                </svg>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
+        {% endfor %}
     </div>
 </section>
-<!-- End Speakers List -->
+<!--End Speakers List -->

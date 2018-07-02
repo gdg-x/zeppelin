@@ -1,0 +1,44 @@
+.speaker{
+    margin-bottom: 40px;
+    text-align: center;
+    cursor: pointer;
+    .photo-wrapper{
+        margin: 0 auto 20px;
+        display: inline-block;
+        max-width: 100%;
+        width: 200px;
+        height: 200px;
+    }
+    .rounded{
+        border-radius: 50%;
+        overflow: hidden;
+    }
+    .name{
+        margin: 0;
+        padding: 0 0 1em 0;
+        color: $main-color;
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        line-height: 14px;
+        letter-spacing: 0.3em;
+    }
+    .text-alt{
+        margin: 0 0 10px;
+        line-height: 14px;
+        font-size: 14;
+    }
+    .about{
+        padding: 0 15px;
+    }
+    ul.speaker-socials{
+        margin: 0 0 10px;
+        padding: 0;
+        list-style: none;
+    }
+    .speaker-socials > li{
+        padding: 0 10px;
+        display: inline-block;
+        text-align: center;
+    }
+}
