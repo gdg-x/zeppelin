@@ -41,10 +41,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/workshops/", text: "Workshops"}
 bottomNavigationLinks:
- - {permalink: "/call-for-speakers/", text: "Torna-te orador"}
+ - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Comprar bilhetes"}
- - {permalink: "/call-for-speakers/", text: "Torna-te orador"}
+ - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
 
 
 #Hotel
@@ -63,7 +63,7 @@ eventDate: "21 de novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
 typeoutFallback: "Portugal"
 heroButtons:
- - {permalink: "/call-for-speakers/", text: "Torna-te Orador"}
+ - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
  - {permalink: "/#tickets", text: "Comprar bilhetes"}
 
 # About Block
@@ -71,18 +71,16 @@ aboutTitle: "Testing Portugal"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", 
       text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 21 de novembro de 2018, no ALTIS Grand Hotel, em Lisboa, a 9ª edição da Conferência Testing Portugal.",
-          "A Conferência, como hábito, contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência."],
-      link: "#tickets",
-      linkText: "Reserve já o seu lugar!"}
+          "A Conferência, como hábito, contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência."]}
  - {title: "Workshops", image: "workshop.jpg", text: ["Workshops dados por líderes mundiais na área de testes de software!"] }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "450", specialCharacter: "+", info: "inscrições", detail: ""}
- - {count: "400", specialCharacter: "+", info: "presenças", detail: ""}
+ - {count: "400", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "11", specialCharacter: "", info: "oradores", detail: ""}
- - {count: "8", specialCharacter: "+", info: "horas de evento", detail: ""}
+ - {count: "72", specialCharacter: "+", info: "horas de formação", detail: ""}
+ - {count: "6", specialCharacter: "", info: "workshops", detail: ""}
 
 
 # Latest News Block
@@ -127,7 +125,7 @@ ticketsTitle: "Inscrições"
 ticketsInfo: "Os bilhetes garantem acesso à conferência, coffee brakes e almoço."
 ticketsOffers:
  -
-  name: "Inscrição normal"
+  name: "Inscrição Normal"
   price: "85"
   priceCurrency: "EUR"
   ticketsNumber: "400"
@@ -138,7 +136,7 @@ ticketsOffers:
   validFrom: "2018-04-11T10:00"
   validThrough: "2018-10-30T23:59"
  -
-  name: "Inscrição DE Associado *"
+  name: "Inscrição de Associado *"
   price: "0"
   priceCurrency: "EUR"
   ticketsNumber: "400"

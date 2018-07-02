@@ -186,7 +186,7 @@
   id: 011
   title: "Em atualização"
   descriptions: [""]
-  subtype: callForSpeakers
+  subtype: "Call For Speakers"
   speakers: []
   language: pt
   complexity: "Intermediate"
@@ -196,7 +196,7 @@
   id: 012
   title: "Em atualização"
   descriptions: [""]
-  subtype: callForSpeakers
+  subtype: "Call For Speakers"
   speakers: []
   language: en
   complexity: "Intermediate"
@@ -206,7 +206,7 @@
   id: 013
   title: "Em atualização"
   descriptions: [""]
-  subtype: callForSpeakers
+  subtype: "Call For Speakers"
   speakers: []
   language: pt
   complexity: "Intermediate"

@@ -14,9 +14,7 @@
                         {% for p in about.text %}
                             <p>{{ p }}</p>
                         {% endfor %}
-                        {% if about.link != null %}
-                        <strong><a href="{{about.link}}">{{about.linkText}}</a></strong>
-                        {% endif %}
+                        <strong><a href="{{'/schedule/' | prepend: site.baseurl}}">Confira a agenda</a></strong> e <strong><a href="#tickets">reserve já o seu lugar!</a></strong>
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}

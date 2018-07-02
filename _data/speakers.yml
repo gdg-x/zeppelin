@@ -5,10 +5,11 @@
   company: "PSTQB – Associação Portuguesa de Testes de Software"
   title: "Presidente"
   bio: "Começou a carreira profissional em 1998 e tendo desempenhado diversas funções nas mais diversas áreas de negócio, foi em 2009 que, após um envolvimento mais próximo com a área de testes de software, criou a primeira comunidade portuguesa online focada em qualidade e testes de software. Um ano mais tarde foi um dos fundadores da PSTQB – Portuguese Software Testing and Qualifications Board e desde 2011 que tem vindo a participar também nos grupos de trabalho do ISTQB®."
+  shortBio: "'There is more than one way to do it, but do it right the first time!'"
   thumbnailUrl: JoelOliveira.jpg
   rockstar: false
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/joeloliveira"}
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/joeloliveira"}
 - 
   id: 7
   name: "Patrícia"
@@ -19,7 +20,7 @@
   thumbnailUrl: PatriciaAlves.jpg
   rockstar: false
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
 -
   id: 2
   name: "Baris"
@@ -30,7 +31,7 @@
   thumbnailUrl: BarisSarialioglu.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/barissarialioglu/"}
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/barissarialioglu/"}
 - 
   id: 3
   name: "Alexandra"
@@ -41,7 +42,7 @@
   thumbnailUrl: AlexandraSchladebeck.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/alexandraschladebeck/"}
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/alexandraschladebeck/"}
 
 - 
   id: 4
@@ -106,13 +107,3 @@
   #bio: "Lorem Ipsum."
   thumbnailUrl: default.png
   rockstar: false
-- 
-  id: 13
-  name: "Em"
-  surname: "Atualização"
-  #company: "Feedzai"
-  #title: "Software Engineer in Test"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
-
