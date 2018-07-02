@@ -86,6 +86,7 @@
   "<ul><li>you are not 'not technical'</li><li>follow your instinct</li><li>keeping your passion</li><li>the power of biscuits</li><li>your community will save you</li><li>the future hasn't killed you yet</li></ul>",
   "Participants will hear about ways of keeping their passion and motivation alive and I’ll share experiences that will hopefully help to plan your next steps in your career or on your testing path. I’ll talk about how I deal with being in a technical world when my background is in linguistics, and I’ll reinforce us all in believing that what we do is worthwhile and important."]
   speakers: [3]
+  subtype: workshop
   place: Lisboa, Altis Grand Hotel
   language: en
   price: "Consultar tabela de preços" 
@@ -162,7 +163,6 @@
   descriptions: ["Those three little words. No, not those three, the other three: “Whole Team Quality”.",
   "We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?",
   "In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality."]
-  subtype: workshop
   subtype: keynote
   speakers: [3]
   language: en
