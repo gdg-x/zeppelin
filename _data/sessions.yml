@@ -35,18 +35,30 @@
 
 -
   id: 101
-  title: "Agile Testing"
-  descriptions: ["Course Objective:",
+  title: "Agile Testing | User Experience Testing & Usability | Test Management"
+  descriptions: ["<h4>Agile Testing</h4>",
+  "<strong>Course Objective</strong>:",
   "<ul><li>The course will provide an overview of Agile Frameworks and the role of the tester while addressing Agile Testing at every stage of the Agile or waterfall/hybrid lifecycle, and various Agile maturity levels.</li><li>The course will help you in boosting your knowledge regarding to testing roles, required skills and latest trends for Lean/Agile Projects.</li><li>The course will help you in learning the best practices and have hands-on testing experience for successful projects.</li></ul>",
-  "Intended Audience:",
-  "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>"]
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>",
+  "<h4>User Experience Testing & Usability</h4>",
+  "<strong>Course Objective</strong>:",
+  "<ul><li>Improving Usability Testing in Global Standards with interactive and practical methods.</li><li>Latest Usability test techniques, methodologies in the courses with sample applications that provide you opportunity to gain skills and practical information.</li></ul>",
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Test Engineers, Usability Experts, Business Analysts, System Analysts, Programmers, Web Designers, Project Managers, Enterprise Architecture Specialists, Software Architects</li></ul>",
+  "<h4>Test Management</h4>",
+  "<strong>Course Objective</strong>:",
+  "<ul><li>Setting quality goals for the organization, Assessing organizational capabilities, Performing quality risk analysis, Using requirements documents and specifications</li><li>Creating and following test plans, Writing and tracking test cases and suites, Presenting difficult information to management</li><li>Managing bugs reports, Using people resources effectively, Planning and Deciding on Test automation and Tool selection</li></ul>",
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
+  ]
   subtype: workshop
-  warning: "Dos três Workshops (1,5 e 6) apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas"
+  warning: "Dos três Workshops apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
   price: "Consultar tabela de preços"
-  moreinfo: "/assets/AgileTesting.pdf"
+  moreinfo: "/assets/TesterYou_Trainings.pdf"
 -
   id: 102
   title: "TeSTO: Techniques for Software Testing Optimization"
@@ -92,33 +104,57 @@
 
 -
   id: 105
-  title: "User Experience Testing & Usability"
-  descriptions: ["Course Objective:",
+  title: "Agile Testing | User Experience Testing & Usability | Test Management"
+  descriptions: ["<h4>Agile Testing</h4>",
+  "<strong>Course Objective</strong>:",
+  "<ul><li>The course will provide an overview of Agile Frameworks and the role of the tester while addressing Agile Testing at every stage of the Agile or waterfall/hybrid lifecycle, and various Agile maturity levels.</li><li>The course will help you in boosting your knowledge regarding to testing roles, required skills and latest trends for Lean/Agile Projects.</li><li>The course will help you in learning the best practices and have hands-on testing experience for successful projects.</li></ul>",
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>",
+  "<h4>User Experience Testing & Usability</h4>",
+  "<strong>Course Objective</strong>:",
   "<ul><li>Improving Usability Testing in Global Standards with interactive and practical methods.</li><li>Latest Usability test techniques, methodologies in the courses with sample applications that provide you opportunity to gain skills and practical information.</li></ul>",
-  "Intended Audience:",
-  "<ul><li>Test Engineers, Usability Experts, Business Analysts, System Analysts, Programmers, Web Designers, Project Managers, Enterprise Architecture Specialists, Software Architects</li></ul>"]
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Test Engineers, Usability Experts, Business Analysts, System Analysts, Programmers, Web Designers, Project Managers, Enterprise Architecture Specialists, Software Architects</li></ul>",
+  "<h4>Test Management</h4>",
+  "<strong>Course Objective</strong>:",
+  "<ul><li>Setting quality goals for the organization, Assessing organizational capabilities, Performing quality risk analysis, Using requirements documents and specifications</li><li>Creating and following test plans, Writing and tracking test cases and suites, Presenting difficult information to management</li><li>Managing bugs reports, Using people resources effectively, Planning and Deciding on Test automation and Tool selection</li></ul>",
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
+  ]
   subtype: workshop
-  warning: "Dos três Workshops (1,5 e 6) apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas"
+  warning: "Dos três Workshops apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
   speakers: [2]
   place: Coimbra
   language: en
   price: "Consultar tabela de preços"
-  moreinfo: "/assets/UserExperienceTestingUsability.pdf"
+  moreinfo: "/assets/TesterYou_Trainings.pdf"
   #presentation: ""
 -
   id: 106
-  title: "Test Management"
-  descriptions: ["Course Objective:",
+  title: "Agile Testing | User Experience Testing & Usability | Test Management"
+  descriptions: ["<h4>Agile Testing</h4>",
+  "<strong>Course Objective</strong>:",
+  "<ul><li>The course will provide an overview of Agile Frameworks and the role of the tester while addressing Agile Testing at every stage of the Agile or waterfall/hybrid lifecycle, and various Agile maturity levels.</li><li>The course will help you in boosting your knowledge regarding to testing roles, required skills and latest trends for Lean/Agile Projects.</li><li>The course will help you in learning the best practices and have hands-on testing experience for successful projects.</li></ul>",
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>",
+  "<h4>User Experience Testing & Usability</h4>",
+  "<strong>Course Objective</strong>:",
+  "<ul><li>Improving Usability Testing in Global Standards with interactive and practical methods.</li><li>Latest Usability test techniques, methodologies in the courses with sample applications that provide you opportunity to gain skills and practical information.</li></ul>",
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Test Engineers, Usability Experts, Business Analysts, System Analysts, Programmers, Web Designers, Project Managers, Enterprise Architecture Specialists, Software Architects</li></ul>",
+  "<h4>Test Management</h4>",
+  "<strong>Course Objective</strong>:",
   "<ul><li>Setting quality goals for the organization, Assessing organizational capabilities, Performing quality risk analysis, Using requirements documents and specifications</li><li>Creating and following test plans, Writing and tracking test cases and suites, Presenting difficult information to management</li><li>Managing bugs reports, Using people resources effectively, Planning and Deciding on Test automation and Tool selection</li></ul>",
-  "Intended Audience:",
-  "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"]
-  warning: "Dos três Workshops (1,5 e 6) apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas"
+  "<strong>Intended Audience</strong>:",
+  "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
+  ]
+  warning: "Dos três Workshops apresentados, apenas será realizado o que terá mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
   subtype: workshop
   speakers: [2]
   place: Porto
   language: en
   price: Consultar tabela de preços"
-  moreinfo: "/assets/TestManagement.pdf"
+  moreinfo: "/assets/TesterYou_Trainings.pdf"
   #presentation: ""
 -
   id: 005

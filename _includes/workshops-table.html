@@ -1,25 +1,6 @@
 <!-- Begin Workshops Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-        <div class="col-lg-8 col-md-10 col-md-offset-1 panel panel-default">
-            <!-- Default panel contents -->
-            <div class="panel-heading">Tabela de Preços *</div>
-            
-            <!-- Table -->
-            <table class="table-stripped" style="width:100%;">
-                <thead>
-                    <tr><th>Workshops</th><th>P.V.P</th><th>Early Bird (-10%)</th></tr>
-                </thead>
-                <tbody>
-                    <tr><td>Valor de Venda</td><td>500,00€</td><td>450,00€</td></tr>
-                    <tr><td>Associado inscrito em 2018 <strong>(-10%)</strong></td><td>450,00€</td><td>405,00€</td></tr>
-                    <tr><td>Associado inscrito em 2017 ou anterior <strong>(-35%)</strong></td><td>325,00€</td><td>292,00€</td></tr>
-                </tbody>
-            </table>
-        </div>
-        <div class="col-lg-8 col-md-10 col-md-offset-1">
-            <p>* Preços por omissão. Deverá verificar em cada workshop a indicação relativa ao preço.</p>
-        </div>
         {% for day in site.data.workshops %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -97,6 +78,25 @@
             {% endfor %}
         </div>
         {% endfor %}
+        <div class="col-lg-8 col-md-10 col-md-offset-1 panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading">Tabela de Preços *</div>
+            
+            <!-- Table -->
+            <table class="table-stripped" style="width:100%;">
+                <thead>
+                    <tr><th>Workshops</th><th>P.V.P</th><th>Early Bird (-10%)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>Valor de Venda</td><td>500,00€</td><td>450,00€</td></tr>
+                    <tr><td>Associado inscrito em 2018 <strong>(-10%)</strong></td><td>450,00€</td><td>405,00€</td></tr>
+                    <tr><td>Associado inscrito em 2017 ou anterior <strong>(-35%)</strong></td><td>325,00€</td><td>292,00€</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-8 col-md-10 col-md-offset-1">
+            <p>* Preços por omissão. Deverá verificar em cada workshop a indicação relativa ao preço.</p>
+        </div>
     </div>
 </section>
 <!-- End Workshops Section -->
