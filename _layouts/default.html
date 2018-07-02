@@ -36,7 +36,7 @@ layout: compress
     {% include analytics.html %}
     <link rel="stylesheet" href="{{ site.baseurl }}/owlcarousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/owlcarousel/assets/owl.theme.default.min.css">
-    
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/ideal-image-slider.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
@@ -49,6 +49,18 @@ layout: compress
     </script>
     <script src="{{ site.baseurl }}/owlcarousel/owl.carousel.min.js"></script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
+    {% if page.permalink == '/' %}
+    <script src="{{site.baseurl}}/js/ideal-image-slider.min.js"></script>
+    <script>
+    var slider = new IdealImageSlider.Slider({
+        selector: '#slider',
+        height: 512,
+        interval: 4000,
+        effect: 'fade'
+    });
+    slider.start();
+    </script>
+    {% endif %}
     {% if page.permalink == '/' or page.permalink == '/hotel/'%}
     <script>
         {% if page.permalink == '/' %}
