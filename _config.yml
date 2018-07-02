@@ -71,8 +71,11 @@ aboutTitle: "Testing Portugal"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", 
       text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 21 de novembro de 2018, no ALTIS Grand Hotel, em Lisboa, a 9ª edição da Conferência Testing Portugal.",
-          "A Conferência, como hábito, contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência."]}
- - {title: "Workshops", image: "workshop.jpg", text: ["Workshops dados por líderes mundiais na área de testes de software!"] }
+          "A Conferência, como hábito, contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência.",
+          "<strong><a href='/schedule/' | prepend: baseurl>Confira a agenda</a></strong> e <strong><a href='#tickets'>reserve já o seu lugar!</a></strong>"]}
+ - {title: "Workshops", image: "workshop.jpg",
+      text: ["Workshops dados por líderes mundiais na área de testes de software!",
+            "<strong><a href='/workshops/' | prepend: baseurl >Confira os workshops!</a></strong>"] }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
