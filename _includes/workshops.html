@@ -3,12 +3,6 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>Workshops</h3>
-            <section id="workshops-introduction">
-                <p>A par da conferência, a PSTQB promove todos os anos workshops relacionados com a área de testes de software.</p>
-                <p>Todos os workshops são pagos, excepto o Workshop2, que é grátis e exclusivo apenas para Associados da PSTQB.</p>
-                <p>A tabela de preços encontra-se no fundo desta página.</p>
-                <p>As inscrições devem ser feitas via email.</p>
-            </section>
                 <div class="owl-carousel owl-theme">
                     {% for session in site.data.sessions %}
                         {% if session.subtype == 'workshop' and session.speakers.size > 0%}

@@ -1,0 +1,81 @@
+
+.package-column{
+    -webkit-transition: background 0.25s ease-in-out;
+    -moz-transition: background 0.25s ease-in-out;
+    -o-transition: background 0.25s ease-in-out;
+    transition: background 0.25s ease-in-out;
+    position: relative;
+    padding: 47px 15px 43px;
+    margin-bottom: 1em;
+    text-align: center;
+    border: 1px solid #e9e9e9;
+    overflow: hidden;
+    .package-title{
+        color: $main-color;
+        font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-weight: 700;
+        font-size: 20px;
+    }
+    .package-price{
+        font-size: 70px;
+        font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-weight: 700;
+        line-height: 1;
+        color: #262627;
+        .currency{
+            font-size: 45px;
+            vertical-align: top;
+            line-height: 1;
+        }
+    }
+    .package-detail{
+        -webkit-transition: color 0.2s ease;
+        -moz-transition: color 0.2s ease;
+        -o-transition: color 0.2s ease;
+        transition: color 0.2s ease;
+        padding: 23px 0 17px;
+        vertical-align: baseline;
+        ul{
+            margin: 0 0 10px;
+            list-style: none;
+            li{
+                line-height: 29px;
+                margin-bottom: 7px;
+                .check-icon{
+                    margin-right: 10px;
+                    color: #91d539;
+                }
+            }    
+        }
+    }
+    .sale-label{
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        position: absolute;
+        top: -12px;
+        left: -57px;
+        display: inline-block;
+        width: 150px;
+        padding-top: 25px;
+        font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        text-align: center;
+        line-height: 30px;
+        color: #ffffff;
+    }
+    &.special-column{
+        border-color: $main-color;
+        .package-price{
+            color: $main-color;
+        }
+        .sale-label{
+            background-color: $main-color;
+        }
+    }
+
+}
+
