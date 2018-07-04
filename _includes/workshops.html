@@ -9,6 +9,7 @@
                         <a href="{{ site.baseurl }}/workshops/">
                             <div class="item track-header-slot">
                                 <div class="slot-content">
+                                    <span class="slot-date">{{session.date}}</span>
                                     <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                     <ul class="slot-speakers">
                                         {% for speaker in site.data.speakers %}

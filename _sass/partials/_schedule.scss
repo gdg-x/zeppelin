@@ -117,6 +117,9 @@ $small-label-width: 80px;
         font-size: 18px;
     }
 }
+.slot-date {
+    color: #555;
+}
 .track-header-title {
     @extend .slot-title;
 }

@@ -36,8 +36,12 @@
         padding: 23px 0 17px;
         vertical-align: baseline;
         ul{
-            margin: 0 0 10px;
+            margin: 0 auto;
             list-style: none;
+            text-align: left;
+            display: -moz-inline-stack;
+            display: inline-block;
+            zoom: 1;
             li{
                 line-height: 29px;
                 margin-bottom: 7px;
