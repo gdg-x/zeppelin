@@ -123,11 +123,12 @@ c4sponsorsUrl: "/assets/CadernoPT_V8.pdf"
 # Tickets Block
 ticketsTitle: "Inscrições"
 ticketsInfo: "Os bilhetes garantem acesso à conferência, coffee brakes e almoço."
-ticketsComment: "* Se é Associado(a) da PSTQB, irá receber um e-mail com as instruções para se inscrever."
+ticketsComments: ["* Valor isento de IVA, ao abrigo do art. 9º n.º 14 do C.I.V.A.",
+"* Se é Associado(a) da PSTQB, irá receber um e-mail com as instruções para se inscrever."]
 ticketsMail: {link: "mailto:testing.portugal@pstqb.pt", text: testing.portugal@pstqb.pt} 
 ticketsOffers:
  -
-  name: "Inscrição Normal"
+  name: "Inscrição Normal *"
   price: "85"
   currency: "€"
   buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
