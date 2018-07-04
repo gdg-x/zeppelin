@@ -78,7 +78,7 @@ aboutBlock:
             "<strong><a href='/workshops/' | prepend: baseurl >Confira os workshops!</a></strong>"] }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "conference-chairs.jpg"
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "11", specialCharacter: "", info: "oradores", detail: ""}
@@ -90,7 +90,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "conference-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Oradores em Destaque"
 rockstarSpeakersButtonText: "Ver todos os oradores"
