@@ -129,24 +129,37 @@ ticketsOffers:
  -
   name: "Inscrição Normal"
   price: "85"
-  priceCurrency: "EUR"
-  ticketsNumber: "400"
+  currency: "€"
   buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
   buyButtonText: "Inscrever-se Agora"
   ticketContentList: ["Entrada na Conferência Testing Portugal 2018", "Acesso a todas as refeições e documentação"]
-  validFrom: "2018-04-11T10:00"
-  validThrough: "2018-10-30T23:59"
  -
   name: "Inscrição de Associado *"
   price: "0"
-  priceCurrency: "EUR"
-  ticketsNumber: "400"
+  currency: "€"
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_8c352a02cc9d4746ba0abd80f5feabdf.pdf"
   featured: true
   buyButtonText: "Inscrever-se Agora"
   ticketContentList: ["Entrada na Conferência Testing Portugal 2018","Acesso a todas as refeições e documentação","Acesso a todos os eventos organizados pela PSTQB."]
-  validFrom: "2018-04-11T10:00"
-  validThrough: "2018-10-30T23:59"
+
+# Workshops
+workshopTickets:
+  -
+    name: "Valor de venda"
+    price: "500"
+    earlyBirdPrice: "450"
+    currency: "€"
+  -
+    name: "Associado inscrito em 2018"
+    price: "450"
+    earlyBirdPrice: "405"
+    currency: "€"
+  -
+    name: "Associado inscrito em 2017 ou anterior"
+    price: "325"
+    earlyBirdPrice: "292"
+    currency: "€"
+
 
 # Footer
 socialLinks:

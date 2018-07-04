@@ -4,7 +4,7 @@
         <div id="workshops-introduction">
             <p>A par da conferência, a PSTQB promove todos os anos workshops relacionados com a área de testes de software.</p>
             <p>Todos os workshops são pagos, excepto o Workshop2, que é grátis e exclusivo apenas para Associados da PSTQB.</p>
-            <p>A <a href="#price-table">tabela de preços</a> encontra-se no fundo desta página.</p>
+            <p>Os <a href="#prices">preços</a> encontram-se no fundo desta página.</p>
             <p><strong>As inscrições devem ser feitas enviando um email para <a href="mailto:testing.portugal@pstqb.pt">testing.portugal@pstqb.pt</a></strong></p>
         </div>
         {% for day in site.data.workshops %}
@@ -84,26 +84,27 @@
             {% endfor %}
         </div>
         {% endfor %}
-        <div id="price-table" class="col-lg-8 col-md-10 col-md-offset-1 panel panel-default">
-            <!-- Default panel contents -->
-            <div class="panel-heading">Tabela de Preços</div>
-            
-            <!-- Table -->
-            <table class="table-stripped" style="width:100%;">
-                <thead>
-                    <tr><th>Workshops</th><th>P.V.P</th><th>Early Bird (-10%)</th></tr>
-                </thead>
-                <tbody>
-                    <tr><td>Valor de Venda</td><td>500,00€</td><td>450,00€</td></tr>
-                    <tr><td>Associado inscrito em 2018 <strong>(-10%)</strong></td><td>450,00€</td><td>405,00€</td></tr>
-                    <tr><td>Associado inscrito em 2017 ou anterior <strong>(-35%)</strong></td><td>325,00€</td><td>292,00€</td></tr>
-                </tbody>
-            </table>
-        </div>
-        <div class="col-lg-8 col-md-10 col-md-offset-1">
+        
+        <div id="prices" class="col-lg-8 col-md-8 col-md-offset-2">
+            <h3>Preços</h3>
+            {% for ticket in site.workshopTickets %}
+                <div class="col-md-4 col-8">
+                    <div class="package-column">
+                        <h6 class="package-title">{{ticket.name}}</h6>
+                        <div class="package-price">
+                            {{ticket.price}}<span class="currency">{{ticket.currency}}</span>
+                        </div>
+                        <h6>Early Bird (-10%)</h6>
+                        <div class="package-price">
+                            {{ticket.earlyBirdPrice}}<span class="currency">{{ticket.currency}}</span>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
             <p>Aos valores supramencionados, acresce o I.V.A. à taxa normal em vigor.</p>
             <p>Data limite <strong>Early Bird</strong>: 31 de julho de 2018</p>
         </div>
+            
     </div>
 </section>
 <!-- End Workshops Section -->
