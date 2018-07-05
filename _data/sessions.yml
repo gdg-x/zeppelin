@@ -148,7 +148,7 @@
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
-  price: "Consultar tabela de preços"
+  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
   date: 21 de novembro
 -
@@ -164,7 +164,7 @@
   speakers: [6]
   place: "Lisboa, Altis Grand Hotel"
   language: pt
-  price: "Grátis e exclusivo apenas para Associados da PSTQB"
+  price: "<strong>Grátis e exclusivo apenas para Associados da PSTQB</strong>"
   #presentation: "http://joel-oliveira.appspot.com/training/testo"
   date: 21 de novembro
 -
@@ -181,7 +181,7 @@
   subtype: workshop
   place: Lisboa, Altis Grand Hotel
   language: en
-  price: "Consultar tabela de preços" 
+  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
   #presentation: ""
   date: 21 de novembro
 -
@@ -191,8 +191,8 @@
   subtype: workshop
   speakers: []
   place: Lisboa, Altis Grand Hotel
-  language: pt
-  price: "Consultar tabela de preços"
+  language: en
+  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
   #presentation: ""
   video: ""
 
@@ -220,7 +220,7 @@
   speakers: [2]
   place: Coimbra
   language: en
-  price: "Consultar tabela de preços"
+  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
   #presentation: ""
   date: 22 de novembro
@@ -248,7 +248,7 @@
   speakers: [2]
   place: Porto
   language: en
-  price: Consultar tabela de preços"
+  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
   #presentation: ""
   date: 23 de novembro
