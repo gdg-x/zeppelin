@@ -10,7 +10,12 @@
         color: $main-color;
     }
     ol{
+        margin: 0 auto;
         list-style-type: decimal;
+        text-align: left;
+        display: -moz-inline-stack;
+        display: inline-block;
+        zoom: 1;
     }
     .metro-line{
         text-align: left;
