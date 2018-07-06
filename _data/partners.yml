@@ -10,6 +10,6 @@
 - 
   group: "Silver"
   elements:
-    - {name: "iSQI", description: "International Software Quality Institute", link: "https://isqi.org/es/en/", imageUrl: "isqi.png"}
+    - {name: "iSQI", description: "International Software Quality Institute", link: "https://isqi.org", imageUrl: "isqi.png"}
     #- {name: "WinTrust", description: "WinTrust", link: "http://www.wintrust.pt/", imageUrl: "wintrust.png"}
     #- {name: "InnoWave Technologies", description: "InnoWave Technologies", link: "http://www.innowave-technologies.com/", imageUrl: "innowave.png"}
