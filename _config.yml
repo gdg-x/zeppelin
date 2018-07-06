@@ -42,10 +42,11 @@ navigationLinks:
  - {permalink: "/workshops/", text: "Workshops"}
 bottomNavigationLinks:
  - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
+ - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i> WhatsApp"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Comprar bilhetes"}
  - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
- - {link: "https://wa.me/+351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i>"}
+ - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i>"}
 
 
 #Hotel
@@ -167,7 +168,8 @@ workshopTickets:
 socialLinks:
  - {link: "https://twitter.com/PSTQB", icon: "twitter"}
  - {link: "https://www.facebook.com/pstqb/", icon: "facebook"}
-whatsappNumber: "+351916106876"
+ - {link: "https://www.linkedin.com/company/pstqb/", icon: "linkedin"}
+whatsappNumber: "351916106876"
  
 
 privacyPolicy: {link: "https://www.pstqb.pt/politicaprivacidade", text: "Política de Privacidade" } 
