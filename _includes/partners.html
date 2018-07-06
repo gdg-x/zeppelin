@@ -18,7 +18,7 @@
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h4>{{ partner.group }}</h4>
-            <!--ul class="list-inline">
+            <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
@@ -26,11 +26,12 @@
                     </a>
                 </li>
                 {% endfor %}
-            </ul-->
+            </ul>
+            {% if partner.group != "Silver" %}
             <ul class="list-inline">
                 <li>Em Atualização</li>
             </ul>
-           
+            {% endif %}
             {% endfor %}
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.partnersC4sponsorsButton }}</a>
         </div>
