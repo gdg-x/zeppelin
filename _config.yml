@@ -6,31 +6,35 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Build IT Right 2018"
+email: "bitrconference@gmail.com"
+description: "Build IT Right is a conference for people interested in
+IT based in Newcastle Upon Tyne"
+baseurl: "/bitr"
+url: "https://bitr.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Fiona Hobbs"
+organizerAlternateName: "Chris Howe-Jones"
+organizerDescription: "Software Developers, Agile/Lean coaches with a
+strong interest in promoting software development in the North East of
+England."
+organizerEmail: "bitrconference@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, bitr, BuildITRight, software, programming,
+agile, lean, developers, newcastle, tyne and wear, north east england"
+twitterAccount: "@bitr"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -56,20 +60,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "Build IT Right <typeout> 2018"
+eventDate: "21st November, 2018"
+typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
+typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Build IT Right"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "An IT
+ conference in the North East of England that focuses on how to build
+ software with latest tools, languages and approaches! Awesome
+ speakers and lots of fun!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -120,7 +125,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organisers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -187,7 +192,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:bitrconference@gmail.com", text: "bitrconference@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -203,7 +208,10 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "The North East of England and Newcastle Upon Tyne in
+particular has a long tradition of software development. This
+conference is intended to showcase the best talent in the region while
+challenging established precedent in how software is built."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

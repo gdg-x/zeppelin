@@ -41,13 +41,19 @@ and run next command from root folder:
 
 ```bash
   bundle install
-```  
+```
 
 To start Jekyll run:
 ```bash
     jekyll serve -w
 ```
-Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:4000/zeppelin/ (on Windows)
+or possibly
+
+``` bash
+    bundle exec serve -w
+```
+
+Site will be available at http://127.0.0.1:4000/bitr/ or http://localhost:4000/bitr/ (on Windows)
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
