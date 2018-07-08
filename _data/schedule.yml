@@ -1,50 +1,57 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+-
+  date: "2018-11-21"
+  dateReadable: "21st November"
+  tracks:
+    - {title: "Development Process", color: "#90be4e"}
+    - {title: "Development Technologies", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "08:30",
+    	endTime: "09:30",
+    	sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+    	startTime: "09:30",
+    	endTime: "10:30",
+    	sessionIds: [002]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
+        startTime: "10:35",
+        endTime: "11:25",
+        sessionIds: [003, 003]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:15",
+    	sessionIds: [003, 003]
+    }
+    - {
+    	startTime: "12:15",
+    	endTime: "13:30",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [003, 003]
+    }
+    - {
+    	startTime: "14:20",
+    	endTime: "15:05",
+    	sessionIds: [003, 003]
+    }
+    - {
+    	startTime: "15:05",
+    	endTime: "15:25",
     	sessionIds: [307]
     }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	startTime: "15:25",
+    	endTime: "16:15",
+    	sessionIds: [003, 003]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "16:20",
+    	endTime: "17:20",
+    	sessionIds: [006]
     }

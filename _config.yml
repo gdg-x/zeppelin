@@ -70,18 +70,16 @@ heroButtons:
 # About Block
 aboutTitle: "About Build IT Right"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "An IT
- conference in the North East of England that focuses on how to build
- software with latest tools, languages and approaches! Awesome
- speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "An IT conference in the North East of England that focuses on
+ how to build software with latest tools, languages and approaches! Awesome speakers and lots of fun!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "9", specialCharacter: "+", info: "hours", detail: "of discussions on effective software development"}
+ - {count: "12", specialCharacter: "+", info: "speakers", detail: "from UK and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus the most interesting 'water cooler' talk outside the talks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

@@ -4,9 +4,8 @@ title:  "Call for Papers"
 date:   2018-07-07 18:00:00
 isStaticPost: false
 ---
-Build IT Right 2018 will be held 21st of November in Newcastle Upon
-Tyne. If you want to be part of this great event as a speaker you've
-come to the right place.
+Build IT Right 2018 will be held 21st of November in Newcastle Upon Tyne. If you want to be part of this great event in
+the North East as a speakeryou've come to the right place.
 
 #### Presenters – who should speak at the Build IT Right Conference?
 
