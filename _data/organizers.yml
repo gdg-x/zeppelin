@@ -1,10 +1,9 @@
 - 
-  group: "Main organizer"
+  group: "Main organiser"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "BeaconHouse", description: "BeaconHouse Professional Conferences and Events", link: "http://www.beaconhouse-events.co.uk/", imageUrl: "beaconhouse-logo.png"}
 - 
-  group: "Co-organizers"
+  group: "Co-organisers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Opencast Software", description: "Opencast Software", link: "http://opencastsoftware.com/", imageUrl: "opencast-logo.png"}
+    - {name: "DevCycle", description: "DevCycle Software Development and Lean Agile Coaching", link: "http://devcycle.co.uk/", imageUrl: "DevCycleLogo.jpg", width: 100px;}

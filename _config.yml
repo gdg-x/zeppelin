@@ -58,10 +58,10 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "newcastle-bridges.jpg"
 heroTitle: "Build IT Right <typeout> 2018"
 eventDate: "21st November, 2018"
-typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
+#typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
