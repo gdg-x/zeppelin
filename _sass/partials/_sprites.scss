@@ -1,14 +1,18 @@
 .logo {
-    background-image: url($logos-sprite);
+    //background-image: url($logos-sprite);
     background-repeat: no-repeat;
+    background-size: contain;
     &.logo-dark {
-    	background-position: 0 -1px;
+        //background-position: 0 -1px;
+        background-image: url('../img/logos/BITR_logo_dark.png');
     }
     &.logo-gray {
-    	background-position: 0 -63px;
+        //background-position: 0 -63px;
+        background-image: url('../img/logos/BITR_logo_grey.png');
 	}
 	&.logo-light {
-	    background-position: 0 -127px;
+        //background-position: 0 -127px;
+        background-image: url('../img/logos/BITR_logo_light.png');
 	}
 }
 .icon {
