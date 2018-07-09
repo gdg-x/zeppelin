@@ -17,7 +17,7 @@ the North East as a speakeryou've come to the right place.
 * non profit organisations promoting software development related
   activites in the North East of England.
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent programme committee assesses the proposals and selects the actual conference talks.<br/>
 
 #### Themes and topics – what do we expect?
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
@@ -34,12 +34,12 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Software Architecture done right
 * Technical Infrastructure in modern software development
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 14, 2018
+#### Please submit your proposals [here](http://bit.ly/2NzkBtb).
+__Deadline__ is 21st September, 2018
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters after September 21, 2014.<br/>
+The programme committee picks the most interesting talk proposals and informs the selected submitters after 21st September, 2018.<br/>
 
 #### Any questions?
 Email organizers at [bitrconference@gmail.com](mailto:bitrconference@gmail.com)
