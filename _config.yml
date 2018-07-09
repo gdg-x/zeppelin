@@ -61,7 +61,7 @@ eventDate: "November, 2018"
 typeoutTextValues: '"", "Season", "Manila", "Cebu", "Philippines"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/testcon17", text: "Become a speaker"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
