@@ -226,9 +226,10 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Newcastle"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Newcastle International Airport is situated to the west of the city. It is easily reachable by car, public transport or taxi. More information is available at the <a href="https://www.newcastleairport.com/getting-here">airport website</a>.'}
+ - {title: "Public Transit", information: 'Newcastle is well served by public transport including local bus rotues and the metro train transit system. See the
+ <a href="https://www.nexus.org.uk/">Nexus website</a> for more details.'}
+ - {title: "Hotels", information: 'Newcastle has lots of great hotels and hostels. More information can be found in the questions section below.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -236,24 +237,18 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://bit.ly/2L1b78j", text: "Crowne Plaza Newcastle"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "TBC"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "TBC"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "TBC"}
    -
     title: "Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://bit.ly/2L1b78j", text: "Crowne Plaza Newcastle"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://bit.ly/2L1b78j", text: "Crowne Plaza Newcastle"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
