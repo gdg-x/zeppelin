@@ -76,10 +76,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "9", specialCharacter: "+", info: "hours", detail: "of discussions on effective software development"}
- - {count: "12", specialCharacter: "+", info: "speakers", detail: "from UK and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus the most interesting 'water cooler' talk outside the talks"}
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "15", specialCharacter: "+", info: "hours", detail: "of discussions on effective software development"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from UK and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus the most interesting 'water cooler' talk outside the talks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -137,47 +137,47 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
+  name: "Standard"
+  price: "£150"
+  priceCurrency: ""
+  ticketsNumber: "200"
+  ribbon: "Full price"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
+  validFrom: "2018-09-01T00:00"
+  validThrough: "2018-11-20T23:59"
+  disabled: true
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  name: "Early Bird"
+  price: "£99"
+  priceCurrency: ""
+  ticketsNumber: "50"
+  ribbon: "-33%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
+  validFrom: "2018-07-10T10:00"
+  validThrough: "2018-08-31T23:59"
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  name: "Minorities / Students"
+  price: "£99"
+  priceCurrency: ""
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  additionalInfo: "Students require a valid student email address at time of purchase."
+  ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
+  validFrom: "2018-07-10T10:00"
+  validThrough: "2018-11-20T23:59"
+  #soldOut: true
+  #soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/bitrconf", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
