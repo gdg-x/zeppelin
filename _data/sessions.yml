@@ -138,8 +138,7 @@
 -
   id: 101
   title: "Agile Testing"
-  descriptions: ["<h4>Agile Testing</h4>",
-  "<strong>Course Objective</strong>:",
+  descriptions: ["<strong>Course Objective</strong>:",
   "<ul><li>The course will provide an overview of Agile Frameworks and the role of the tester while addressing Agile Testing at every stage of the Agile or waterfall/hybrid lifecycle, and various Agile maturity levels.</li><li>The course will help you in boosting your knowledge regarding to testing roles, required skills and latest trends for Lean/Agile Projects.</li><li>The course will help you in learning the best practices and have hands-on testing experience for successful projects.</li></ul>",
   "<strong>Intended Audience</strong>:",
   "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>",
@@ -148,14 +147,13 @@
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
-  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
+  price: "<a href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
   date: 21 de novembro
 -
   id: 102
   title: "TeSTO: Techniques for Software Testing Optimization"
-  descriptions: ["Techniques for Software Testing Optimization",
-  "Are you doing software testing? And are you doing it optimizing your effort?",
+  descriptions: ["Are you doing software testing? And are you doing it optimizing your effort?",
   "In our days, the demanding to reduce the time to market is becoming almost insane. With the always increasing complexity (risk) of the systems at the same time that we have shorter development cycles (time) with the advent of the agile methodologies, software testers are always under pressure to ensure more quality with less effort (cost). Is it possible?",
   "Short answer: yes!",
   "In most of the cases, yes, it is possible. However, the solution is rarely to reduce the testing effort. Instead, you should focus on how to optimize it (delivering more value with the same effort it’s also a way to reduce costs)! In this workshop, we will discuss the main points of waste in the testing activities and put in practice several techniques (and advices) to help on reducing the waste while optimizing the effort.",
@@ -181,7 +179,7 @@
   subtype: workshop
   place: Lisboa, Altis Grand Hotel
   language: en
-  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
+  price: "<a href='#prices'>Consultar tabela de preços</a>"
   #presentation: ""
   date: 21 de novembro
 -
@@ -192,7 +190,7 @@
   speakers: []
   place: Lisboa, Altis Grand Hotel
   language: en
-  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
+  price: "<a href='#prices'>Consultar tabela de preços</a>"
   #presentation: ""
   video: ""
 
@@ -220,7 +218,7 @@
   speakers: [2]
   place: Coimbra
   language: en
-  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
+  price: "<a href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
   #presentation: ""
   date: 22 de novembro
@@ -248,7 +246,7 @@
   speakers: [2]
   place: Porto
   language: en
-  price: "<a onclick='closeModal()' href='#prices'>Consultar tabela de preços</a>"
+  price: "<a href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
   #presentation: ""
   date: 23 de novembro

@@ -1,0 +1,149 @@
+<!-- Begin Workshops Section -->
+<section id="schedule" class="schedule">
+    <div class="content-wrapper">
+        
+        <div class="container">
+            <div id="workshops-introduction">
+                <div class="alert alert-info" role="alert">Inscrições limitadas!</div>
+                <div class="alert alert-info" role="alert">Não perca o Early Bird até dia 31 de julho de 2018</div>
+            </div>
+            <div class="workshops-table">
+            <!-- Navigation by day start -->
+            <div class="nav-wrapper">
+                <ul class="nav nav-schedule">
+                    {% for day in site.data.workshops %}
+                        
+                        <li {% if forloop.first == true %} class="active" {% endif %}><a href="#{{day.tabid}}" data-toggle="tab"><h5 class="highlight">{{day.dateReadable}}</h5><p class="text-alt">{{day.date}} - {{day.place}}</p></a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!-- Navigation by day end -->
+
+            <!-- First level content start -->
+            <div class="tab-content">
+                {% for day in site.data.workshops %}
+                <!-- Day 1 content start -->
+                <div id="{{day.tabid}}" class="tab-pane fade {% if forloop.first %} active {% endif %} in">
+
+                    <!-- Navigation by auditorium start -->
+                    <div class="nav-wrapper">
+                        <ul class="nav nav-schedule">
+                            {% for track in day.tracks %}
+                                
+                            <li {% if forloop.first %} class="active" {% endif %}>
+                                <a href="#{{track.tabid}}" data-toggle="tab">{{track.title}}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <!-- Navigation by auditorium start -->
+
+                    <!-- Second level content start -->
+                    <div class="tab-content tab-content-schedule">
+                        {% for track in day.tracks %}
+                        <div id="{{track.tabid}}" class="tab-pane fade {% if forloop.first %} active {% endif %} in">
+                            {% assign trackIndex = forloop.index0 %}
+                            <!-- Accordion start -->
+                            <div class="panel-group" id="{{track.tabid}}_timeline">
+                                {% for timeslot in day.timeslots %}
+                                <!-- Lecture start -->
+                                {% assign sessionId = timeslot.sessionIds[trackIndex] %}
+                                {% for session in site.data.sessions %}
+                                {% if sessionId == session.id %}
+                                    <div class="panel schedule-item">
+                                        <div class="lecture-icon-wrapper">
+                                            <i class="fas fa-wrench"></i>
+                                        </div>
+                                        <a data-toggle="collapse" data-parent="#{{track.tabid}}_timeline" href="#{{track.tabid}}_time1" class="schedule-item-toggle">
+                                            <strong class="time highlight"><span class="icon icon-office-24"></span>{{timeslot.startTime}}-{{timeslot.endTime}}</strong>
+                                            <h6 class="title">{{session.title}}<i class="icon icon-arrows-06"></i></h6>
+                                        </a>
+                                        <div>
+                                            <a href="mailto:testing.portugal@pstqb.pt?subject=Inscri%C3%A7%C3%A3o%20em%20Workshop{{session.id | modulo: 100}}"
+                                                class="btn btn-primary waves-effect waves-button waves-light" style="margin-bottom:1em;">Inscrever-me
+                                            </a>
+                                        </div>
+                                        <div id="{{track.tabid}}_time1" class="panel-collapse collapse in schedule-item-body">
+                                                {% if session.warning != null %}
+                                                <div class="alert alert-warning" role="alert">{{session.warning}}</div>
+                                                {% endif %}
+                                                {% if session.language != null %}
+                                                <span class="theme-metadata"><span class="caption">Idioma: </span>{{ session.language }}</span>
+                                                {% endif %}
+                                                {% if session.price != null %}
+                                                <span class="theme-metadata"><span class="caption">Preço: </span>{{ session.price }}</span>
+                                                {% endif %}
+                                                {% if session.place != null %}
+                                                <span class="theme-metadata"><span class="caption">Local: </span>{{ session.place }}</span>
+                                                {% endif %}
+                                                <hr>
+                                                {% for description in session.descriptions %}
+                                                <p class="theme-description">{{description}}</p>
+                                                {% endfor %}
+                                                {% if session.moreinfo %}
+                                                <a class="theme-presentation" href="{{session.moreinfo}}" title="More info" target="_black">More info</a>
+                                                {% endif %}
+                                                {% if session.presentation %}
+                                                <a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+                                                {% endif %}
+                                                <ul class="speakers-list">
+                                                    {% for speaker in site.data.speakers %}
+                                                        {% for session_speaker in session.speakers %}
+                                                            {% if session_speaker == speaker.id %}
+                                                            <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                                            <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
+                                                                <span class="speaker-position">{{ speaker.company }}</span>
+                                                            </p>
+                                                            </li>
+                                                            {% endif %}
+                                                        {% endfor %}    
+                                                    {% endfor %}
+                                                </ul>
+                                                
+                                        </div>
+                                    </div>
+                                {% break %}
+                                {% endif %}
+                                {% endfor %}
+                            </div>
+                            {% endfor %}
+                            <!-- Accordion end -->
+
+                        </div>
+                        {% endfor %}
+
+                    </div>
+                    <!-- Second level content end -->
+
+                </div>
+                <!-- Day 1 content end -->
+                {% endfor %}
+            </div>
+            <!-- First level content end -->
+
+        </div>
+        <div id="prices" class="col-sm-10 col-sm-offset-1">
+            <h3>Preços</h3>
+            {% for ticket in site.workshopTickets %}
+                <div class="col-xs-12 col-sm-4">
+                    <div class="package-column">
+                        <h6 class="package-title">{{ticket.name}}</h6>
+                        <div class="package-price">
+                            {{ticket.price}}<span class="currency">{{ticket.currency}}</span>
+                        </div>
+                        <h6>Early Bird (-10%)</h6>
+                        <div class="package-price">
+                            {{ticket.earlyBirdPrice}}<span class="currency">{{ticket.currency}}</span>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+            <p>Aos valores supramencionados, acresce o I.V.A. à taxa normal em vigor.</p>
+            <p>Data limite <strong>Early Bird</strong>: 31 de julho de 2018</p>
+            
+        </div>
+    </div>
+            
+    </div>
+</section>
+<!-- End Workshops Section -->

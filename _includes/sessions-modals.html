@@ -85,13 +85,4 @@
 		</div>
 	{% endfor %}
 </div>
-<script>
-	function closeModal(){
-		let element = event.srcElement;
-		while(!element.classList.contains('modal')){
-			element = element.parentElement;
-		}
-		$('#'+element.id).modal('hide');
-	}
-</script>
 <!-- End Speakers Modals -->
