@@ -10,6 +10,8 @@
             <div class="workshops-table">
             <!-- Navigation by day start -->
             <div class="nav-wrapper">
+                <span class="nav-current"><h5 class="highlight">{{site.data.workshops.first.dateReadable}}</h5>
+                    <p class="text-alt">{{site.data.workshops.first.date}} - {{site.data.workshops.first.place}}</p></span>
                 <ul class="nav nav-schedule">
                     {% for day in site.data.workshops %}
                         
@@ -27,7 +29,8 @@
 
                     <!-- Navigation by auditorium start -->
                     <div class="nav-wrapper">
-                        <ul class="nav nav-schedule">
+                        <span class="nav-current">{{day.tracks.first.title}}</span>
+                        <ul id="workshops-tracks" class="nav nav-schedule">
                             {% for track in day.tracks %}
                                 
                             <li {% if forloop.first %} class="active" {% endif %}>
@@ -55,51 +58,51 @@
                                             <i class="fas fa-wrench"></i>
                                         </div>
                                         <a data-toggle="collapse" data-parent="#{{track.tabid}}_timeline" href="#{{track.tabid}}_time1" class="schedule-item-toggle">
-                                            <strong class="time highlight"><span class="icon icon-office-24"></span>{{timeslot.startTime}}-{{timeslot.endTime}}</strong>
-                                            <h6 class="title">{{session.title}}<i class="icon icon-arrows-06"></i></h6>
+                                            <strong class="time highlight"><i class="far fa-clock"></i> {{timeslot.startTime}}-{{timeslot.endTime}}</strong>
+                                            <h6 class="title">{{session.title}}<i class="icon fas fa-angle-down"></i></h6>
                                         </a>
-                                        <div>
-                                            <a href="mailto:testing.portugal@pstqb.pt?subject=Inscri%C3%A7%C3%A3o%20em%20Workshop{{session.id | modulo: 100}}"
-                                                class="btn btn-primary waves-effect waves-button waves-light" style="margin-bottom:1em;">Inscrever-me
-                                            </a>
-                                        </div>
+                                        
                                         <div id="{{track.tabid}}_time1" class="panel-collapse collapse in schedule-item-body">
-                                                {% if session.warning != null %}
-                                                <div class="alert alert-warning" role="alert">{{session.warning}}</div>
-                                                {% endif %}
-                                                {% if session.language != null %}
-                                                <span class="theme-metadata"><span class="caption">Idioma: </span>{{ session.language }}</span>
-                                                {% endif %}
-                                                {% if session.price != null %}
-                                                <span class="theme-metadata"><span class="caption">Preço: </span>{{ session.price }}</span>
-                                                {% endif %}
-                                                {% if session.place != null %}
-                                                <span class="theme-metadata"><span class="caption">Local: </span>{{ session.place }}</span>
-                                                {% endif %}
-                                                <hr>
-                                                {% for description in session.descriptions %}
-                                                <p class="theme-description">{{description}}</p>
+                                            <div>
+                                                <a href="mailto:testing.portugal@pstqb.pt?subject=Inscri%C3%A7%C3%A3o%20em%20Workshop{{session.id | modulo: 100}}"
+                                                    class="btn btn-primary waves-effect waves-button waves-light" style="margin-bottom:1em;margin-top:1em;">Inscrever-me
+                                                </a>
+                                            </div>
+                                            {% if session.warning != null %}
+                                            <div class="alert alert-warning" role="alert">{{session.warning}}</div>
+                                            {% endif %}
+                                            {% if session.language != null %}
+                                            <span class="theme-metadata"><span class="caption">Idioma: </span>{{ session.language }}</span>
+                                            {% endif %}
+                                            {% if session.price != null %}
+                                            <span class="theme-metadata"><span class="caption">Preço: </span>{{ session.price }}</span>
+                                            {% endif %}
+                                            {% if session.place != null %}
+                                            <span class="theme-metadata"><span class="caption">Local: </span>{{ session.place }}</span>
+                                            {% endif %}
+                                            <hr>
+                                            {% for description in session.descriptions %}
+                                            <p class="theme-description">{{description}}</p>
+                                            {% endfor %}
+                                            {% if session.moreinfo %}
+                                            <a class="theme-presentation" href="{{session.moreinfo}}" title="More info" target="_black">More info</a>
+                                            {% endif %}
+                                            {% if session.presentation %}
+                                            <a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+                                            {% endif %}
+                                            <ul class="speakers-list">
+                                                {% for speaker in site.data.speakers %}
+                                                    {% for session_speaker in session.speakers %}
+                                                        {% if session_speaker == speaker.id %}
+                                                        <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                                        <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
+                                                            <span class="speaker-position">{{ speaker.company }}</span>
+                                                        </p>
+                                                        </li>
+                                                        {% endif %}
+                                                    {% endfor %}    
                                                 {% endfor %}
-                                                {% if session.moreinfo %}
-                                                <a class="theme-presentation" href="{{session.moreinfo}}" title="More info" target="_black">More info</a>
-                                                {% endif %}
-                                                {% if session.presentation %}
-                                                <a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
-                                                {% endif %}
-                                                <ul class="speakers-list">
-                                                    {% for speaker in site.data.speakers %}
-                                                        {% for session_speaker in session.speakers %}
-                                                            {% if session_speaker == speaker.id %}
-                                                            <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
-                                                            <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
-                                                                <span class="speaker-position">{{ speaker.company }}</span>
-                                                            </p>
-                                                            </li>
-                                                            {% endif %}
-                                                        {% endfor %}    
-                                                    {% endfor %}
-                                                </ul>
-                                                
+                                            </ul>
                                         </div>
                                     </div>
                                 {% break %}
@@ -147,3 +150,46 @@
     </div>
 </section>
 <!-- End Workshops Section -->
+<script>
+    function toggleList(event){
+        let target = event.target;
+        while(target.className != 'nav-wrapper'){
+            target = target.parentNode;
+        }
+        let list = target.children[1];
+        if (list.style.display == 'block') {
+            list.style.display = '';
+        }else{
+            list.style.display = 'block';
+        }
+    }
+
+    function updateCurrentElement(event){
+        console.log(event);
+        let targetListItem = event.target;
+        while(targetListItem.localName != 'li'){
+            targetListItem = targetListItem.parentNode;
+        }
+        let navWrapper = targetListItem.parentNode;
+        while(navWrapper.className != 'nav-wrapper'){
+            navWrapper = navWrapper.parentNode;
+        }
+        let navCurrent = navWrapper.children[0];
+        let navSchedule = navWrapper.children[1];
+        if (targetListItem.children[0].children.length > 0){
+            navCurrent.children[0].innerHTML = targetListItem.children[0].children[0].innerHTML;
+            navCurrent.children[1].innerHTML = targetListItem.children[0].children[1].innerHTML;
+        } else{
+            navCurrent.innerHTML = targetListItem.children[0].innerHTML;
+        }
+        
+        navSchedule.style.display = '';
+    }
+
+    let navCurrents = [...document.getElementsByClassName("nav-current")];
+    navCurrents.forEach(n => n.addEventListener('click', toggleList));
+
+    let navLists = [...document.getElementsByClassName("nav-schedule")];
+    navLists.forEach(list => list.addEventListener('click', updateCurrentElement));
+    
+</script>
