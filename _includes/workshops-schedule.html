@@ -165,8 +165,8 @@
     }
 
     function updateCurrentElement(event){
-        console.log(event);
         let targetListItem = event.target;
+        if (targetListItem.localName == 'ul') return;
         while(targetListItem.localName != 'li'){
             targetListItem = targetListItem.parentNode;
         }
