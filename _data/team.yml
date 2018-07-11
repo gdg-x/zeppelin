@@ -2,9 +2,9 @@
   id: 0
   name: "Fiona"
   surname: "Hobbs"
-  title: "Sponsors and Speakers Manager"
+  title: "Programme Committee President"
   thumbnailUrl: fionahobbs.jpg
-  team: true
+  subTeam: true
   ribbon:
     - {abbr: "", title: "Head of Technology, Opencast"}
   social:
@@ -16,7 +16,7 @@
   surname: "Howe-Jones"
   title: "Community Organiser"
   thumbnailUrl: chris.jpg
-  team: true
+  subTeam: true
   ribbon:
     - {abbr: "Tech Nav", title: "Technical Navigator"}
   social:
@@ -33,4 +33,22 @@
   social:
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 3
+  name: "Cat"
+  surname: "Coulter"
+  title: "Organiser"
+  thumbnailUrl: cat.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+-
+  id: 3
+  name: "Sophie"
+  surname: "FLanagan"
+  title: "Organiser"
+  thumbnailUrl: sophie.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
 -
