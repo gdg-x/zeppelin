@@ -238,6 +238,12 @@
         position: relative;
         border: none;
         padding: 90px 100px 80px 80px;
+        @media(max-width:767px){
+            padding: 35px 20px;
+        }
+        @media (max-width: 480px){
+            padding: 35px 0;
+        }
         .panel-group{
             margin-bottom: 0;
         }
@@ -247,6 +253,14 @@
             min-height: 65px;
             padding: 0 0 0 104px;
             background-color: transparent;
+            @media(max-width: 767px){
+                margin-bottom: 30px;
+                padding-left: 0;
+            }
+            @media (max-width: 767px){
+                margin-bottom: 30px;
+                padding-left: 70px;
+            }
             .lecture-icon-wrapper{
                 position: absolute;
                 vertical-align: middle;
@@ -263,6 +277,14 @@
                 border-radius: 50%;
                 overflow: hidden;
                 border-color: $main-color;
+                @media (max-width: 480px){
+                    top: 27px;
+                    left: 0;
+                    width: 30px;
+                    height: 30px;
+                    font-size: 16px;
+                    line-height: 28px;
+                }
             }
             .schedule-item-toggle{
                 margin-bottom: 0;
