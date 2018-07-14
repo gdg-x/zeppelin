@@ -27,10 +27,6 @@ Conference staff will be happy to help participants contact hotel/venue security
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-######Contacts:
-
-- xxxxxxx, +38 063 863 20 62, [xxxxxxxxxx](mailto:xxxxxxxx@gmail.com)
-
 Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & The Ada Initiative
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

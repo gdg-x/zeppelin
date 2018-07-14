@@ -120,7 +120,7 @@ venueFeatures: ["Spa and fitness suite", "WIFI in all rooms and public areas", "
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "bitrconf"
-twitterFeed: "http://"
+twitterFeed: "http://twitter.com/bitrconf"
 
 # Partners Block
 organizersTitle: "Organisers"
@@ -130,7 +130,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://github.us18.list-manage.com/subscribe/post?u=440fd2edca6e5128f8dd511bf&amp;id=883fca8761"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -177,16 +177,16 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/bitrconf", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.beaconhouse-events.co.uk", text: "Beacon House Events"}
+   - {link: "https://www.ihg.com/crowneplaza/hotels/gb/en/newcastle-upon-tyne/nclsq/hoteldetail", text: "Crowne Plaza Newcastle"}
  -
   title: "Contacts"
   links:
