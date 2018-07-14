@@ -64,8 +64,9 @@ eventDate: "21st November, 2018"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
- - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "/assets/TODO.pdf", text: "Become a sponsor"}
+ - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About Build IT Right"
@@ -113,7 +114,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Crowne Plaza Hotel"
-venueFeatures: ["TBC", "TBC", "Located in the Stephenson Quarter in the city center"]
+venueFeatures: ["Spa and fitness suite", "WIFI in all rooms and public areas", "Located in the Stephenson Quarter in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
