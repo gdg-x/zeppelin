@@ -1,17 +1,16 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2018-07-07 18:00:00
+date:   2018-07-16 08:00:00
 isStaticPost: false
 ---
-Build IT Right 2018 will be held 21st of November in Newcastle Upon Tyne. If you want to be part of this great event in
-the North East as a speakeryou've come to the right place.
+Build IT Right 2018 will be held 21st of November in Newcastle Upon Tyne. If you want to be part of this great event in the North East as a speaker you've come to the right place.
 
 #### Presenters – who should speak at the Build IT Right Conference?
 
 * developers, testers, software architects with an opinion on how to
   build software 'right'.
-* agile/lean coaches, scrum master or product owners
+* agile/lean coaches, scrum masters or product owners
 * companies developing software (apps, tools, frameworks etc.) with a presence in the North East of England
 * computer science or software engineering research institutions with a presence in the North East of England
 * non profit organisations promoting software development related
@@ -20,17 +19,24 @@ the North East as a speakeryou've come to the right place.
 If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent programme committee assesses the proposals and selects the actual conference talks.<br/>
 
 #### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+Our team prepared some topic suggestions but if you have any cool ideas you want to share not from this list, feel free
+to submit them as well.
 
 ##### Software Development Process
 
-* User Experience Design
-* User Research
-* Agile or Lean methods
+* Agile methods
+* Lean software techniques
+* Experience reports from Agile coaches, Product Owners & other
+  agile/lean stakeholders
+
+##### User Experience and User Research
+
+* User Experience design
+* User Research techniques
 
 ##### Software Development Technology
 
-* Languages, frameworks or libraries and who they improve development
+* Languages, frameworks or libraries and how they improve development
 * Software Architecture done right
 * Technical Infrastructure in modern software development
 
