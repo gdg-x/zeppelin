@@ -2,8 +2,9 @@
   date: "2018-11-21"
   dateReadable: "21st November"
   tracks:
-    - {title: "Development Process", color: "#90be4e"}
-    - {title: "Development Technologies", color: "#03a9f4"}
+    - {title: "Development Process", color: "#50FA7B"}
+    - {title: "Development Technologies", color: "#44475A"}
+    - {title: "UX & UR", color: "#EDEDED"}
   timeslots:
     - {
     	startTime: "08:30",
@@ -18,12 +19,12 @@
     - {
         startTime: "10:35",
         endTime: "11:25",
-        sessionIds: [003, 003]
+        sessionIds: [003, 003, 003]
     }
     - {
     	startTime: "11:30",
     	endTime: "12:15",
-    	sessionIds: [003, 003]
+        sessionIds: [003, 003, 003]
     }
     - {
     	startTime: "12:15",
@@ -33,12 +34,12 @@
     - {
     	startTime: "13:30",
     	endTime: "14:15",
-    	sessionIds: [003, 003]
+        sessionIds: [003, 003, 003]
     }
     - {
     	startTime: "14:20",
     	endTime: "15:05",
-    	sessionIds: [003, 003]
+        sessionIds: [003, 003, 003]
     }
     - {
     	startTime: "15:05",
@@ -48,7 +49,7 @@
     - {
     	startTime: "15:25",
     	endTime: "16:15",
-    	sessionIds: [003, 003]
+        sessionIds: [003, 003, 003]
     }
     - {
     	startTime: "16:20",
