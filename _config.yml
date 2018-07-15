@@ -52,6 +52,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 rightNavigationButtons:
@@ -219,8 +220,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "54.967145, -1.616574"
+logisticsMapMobileCenterCoordinates: "54.967145, -1.616574"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
@@ -252,15 +253,21 @@ directionDetailsWideCards:
      - {link: "http://bit.ly/2L1b78j", text: "Crowne Plaza Newcastle"}
 
 # Hackathon
-hackathonTitle: "Hackathon"
+hackathonTitle: "Hack-NE-thing"
 enableHackathon: true
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "Alexa Skills Kit Challenge", image: "echo-dot.jpg", details: "Help out a charity by building an app using the Alexa Skills Kit. Come up with an
+ idea for how to contribute to local North East charities using Alexa. Build something in a lunchtime.&nbsp;<a href
+ ='https://developer.amazon.com/alexa-skills-kit'>Alexa Skills Kit</a>"}
+ - {title: "Mobile App Challenge", image: "iphone.jpg", details: "Help out a charity by building a mobile app using whatever technology you fancy. Come up with an
+ idea for how to contribute to local North East charities. Assemble a team of fellow attendees with a mix of UX, development
+ and testing skills and see what you can build in an hour or so."}
+ - {title: "Come up with your own idea", image: "question-mark.jpg", details: "Help out a charity by building whatever you like using whatever technology you fancy. Come up with an
+ idea for how to contribute to local North East charities. Assemble a team of fellow attendees with a mix of UX, development
+ and testing skills and see what you can build in an hour or so."}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -269,24 +276,25 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "Watch this space!", image: "echo-dot.jpg", info: "Watch this space for announcements on prizes."}
+ # - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ # - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ # - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonLocationName: "Crowne Plaza Newcastle"
+hackathonLocationLink: "http://bit.ly/2L1b78j"
+hackathonStreetAddress: "Hawthorn Square, Forth Street"
+hackathonAddressLocality: "Newcastle Upon Tyne"
+hackathonAddressLocalityRegion: "Tyne and Wear"
+hackathonPostalCode: "NE1 3SA"
+hackathonAddressCountry: "United Kingdom"
+hackathonTimeTitle: "Hack-NE-thing"
+hackathonStartTime: "2018-11-21T12:30"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2018-11-21T14:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonPlaceCoordinates: "54.967145, -1.616574"
+hackathonMapCenterCoordinates: "54.967145, -1.616574"
+hackathonMapMobileCenterCoordinates: "54.967145, -1.616574"
