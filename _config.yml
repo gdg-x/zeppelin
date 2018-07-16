@@ -141,7 +141,7 @@ ticketsOffers:
  -
   name: "Standard"
   price: "£150"
-  priceCurrency: ""
+  priceCurrency: "+ VAT"
   ticketsNumber: "200"
   ribbon: "Full price"
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -153,7 +153,7 @@ ticketsOffers:
  -
   name: "Early Bird"
   price: "£99"
-  priceCurrency: ""
+  priceCurrency: "+ VAT"
   ticketsNumber: "50"
   ribbon: "-33%"
   featured: true
@@ -163,9 +163,9 @@ ticketsOffers:
   validFrom: "2018-07-10T10:00"
   validThrough: "2018-08-31T23:59"
  -
-  name: "Minorities / Students"
+  name: "Concessionary"
   price: "£99"
-  priceCurrency: ""
+  priceCurrency: "+ VAT"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"

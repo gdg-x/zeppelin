@@ -26,14 +26,21 @@ $h4-font-size: 3.125 * $base-font-size;
 $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
 
+// bitr colors
+$bitr-green: #50FA7B;
+$bitr-darker-green: rgb(70, 198, 102);
+$bitr-slate: #44475A;
+$bitr-purple: #AE79F6;
+$bitr-pink: #F85CBA;
+
 // Colors
-$main-color: #03a9f4;
-$link-color: $main-color;
+$main-color: $bitr-slate;
+$link-color: $bitr-darker-green;
 $link-lighten-amount: 20%;
 $base-background-color: #fff;
-$base-section-background-color: $link-color;
-$primary-color: #4285f4;
-$primary-color-hover: #3266d5;
+$base-section-background-color: $bitr-slate;
+$primary-color: $bitr-green;
+$primary-color-hover: $bitr-darker-green;
 $icon-fill-color: #8b8b8b;
 
 // Sizes
