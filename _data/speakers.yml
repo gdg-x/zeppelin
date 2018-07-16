@@ -37,6 +37,6 @@
   title: "TBC"
   bio: "TBD."
   thumbnailUrl: tbd.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/"}

@@ -3,20 +3,21 @@
   name: "Fiona"
   surname: "Hobbs"
   title: "Programme Committee President"
-  thumbnailUrl: fionahobbs.jpg
-  subTeam: true
+  thumbnailUrl: fiona-hobbs.jpg
+  team: true
   ribbon:
     - {abbr: "", title: "Head of Technology, Opencast"}
   social:
     - {name: "twitter", link: "https://twitter.com/nonimay"}
     - {name: "github", link: "https://github.com/nonimay"}
+    - {name: "site", link: "http://opencastsoftware.com/"}
 -
   id: 1
   name: "Chris"
   surname: "Howe-Jones"
   title: "Community Organiser"
   thumbnailUrl: chris.jpg
-  subTeam: true
+  team: true
   ribbon:
     - {abbr: "Tech Nav", title: "Technical Navigator"}
   social:
@@ -28,11 +29,11 @@
   name: "Dave"
   surname: "Sarginson"
   title: "Programme Committee"
-  thumbnailUrl: dave.jpg
+  thumbnailUrl: sarg.jpg
   subTeam: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/SarginsonD"}
+    - {name: "github", link: "https://github.com/ShaolinSarg"}
 -
   id: 3
   name: "Cat"
@@ -41,7 +42,9 @@
   thumbnailUrl: cat.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/BeaconHouseEvts"}
+    - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
+    - {name: "site", link: "http://www.beaconhouse-events.co.uk"}
 -
   id: 3
   name: "Sophie"
@@ -50,5 +53,7 @@
   thumbnailUrl: sophie.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/BeaconHouseEvts"}
+    - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
+    - {name: "site", link: "http://www.beaconhouse-events.co.uk"}
 -
