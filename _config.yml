@@ -41,7 +41,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/2NzkBtb"
-c4sponsorsUrl: "/assets/TODO.pdf"
+c4sponsorsUrl: "/assets/BITR_Sponsorship_Pack.pdf"
 
 
 # Navigation
@@ -70,7 +70,7 @@ eventDate: "21st November, 2018"
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/TODO.pdf", text: "Become a sponsor"}
+ - {link: "assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
  - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 
 # About Block
