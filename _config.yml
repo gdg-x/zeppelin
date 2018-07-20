@@ -55,11 +55,11 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/TODO.pdf", text: "Become a sponsor"}
+ - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
  - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/TODO.pdf", text: "Become a sponsor"}
+ - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
  - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 
 # Hero Block
