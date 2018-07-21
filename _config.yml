@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "STP PhTestCon <typeout> 2018"
 eventDate: "November, 2018"
-typeoutTextValues: '"", "Season", "Manila", "Cebu", "Philippines"'
+typeoutTextValues: '"", "Season", "Manila", "Philippines"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
