@@ -20,15 +20,17 @@
     - {name: "site", link: "http://www.continuous-delivery.co.uk"}
 -
   id: 3
-  name: "TBC"
-  surname: "TBC"
-  company: "TBC"
-  title: "TBC"
-  bio: "TBD."
-  thumbnailUrl: tbd.jpg
+  name: "Simon"
+  surname: "Brown"
+  company: "CodingTheArchitecture"
+  title: "Founder and Director"
+  bio: "Simon is an independent consultant specialising in software architecture, and the author of \"Software Architecture for Developers\" (a developer-friendly guide to software architecture, technical leadership and the balance with agility). He is also the creator of the C4 software architecture model, which is a simple approach for creating maps of your code. Simon is a regular speaker at international software development conferences, travelling the world to help organisations visualise and document their software architecture.
+"
+  thumbnailUrl: simon-brown.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/simonbrown"}
+    - {name: "site", link: "http://codingthearchitecture.com/"}
 -
   id: 4
   name: "TBC"
