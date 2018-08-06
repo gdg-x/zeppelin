@@ -148,7 +148,7 @@ ticketsOffers:
   priceCurrency: "+ VAT"
   ticketsNumber: "200"
   ribbon: "Full price"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
   validFrom: "2018-09-01T00:00"
@@ -161,7 +161,7 @@ ticketsOffers:
   ticketsNumber: "50"
   ribbon: "-33%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
   validFrom: "2018-07-10T10:00"
@@ -171,7 +171,7 @@ ticketsOffers:
   price: "£99"
   priceCurrency: "+ VAT"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   additionalInfo: "Students require a valid student email address at time of purchase."
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
