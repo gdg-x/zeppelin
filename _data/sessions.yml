@@ -17,17 +17,17 @@
   service: true
 -
   id: 002
-  title: "Keynote Speech TBD"
+  title: "Keynote Speech 1"
   description: "TBD"
   subtype: keynote
-  speakers: [1]
+  speakers: [2]
   language: en
   complexity: "Intermediate"
   presentation: ""
   video: ""
 -
   id: 003
-  title: "TBD"
+  title: "Session 1 [TBD]"
   description: "TBD."
   subtype: presentation
   speakers: [1]
@@ -36,31 +36,61 @@
   presentation: ""
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 006
-  title: "Closing Keynote Speech TBD"
-  description: "TBD"
-  subtype: keynote
+  title: "Session 2 [TBD]"
+  description: "TBD."
+  subtype: presentation
   speakers: [1]
   language: en
+  complexity: "Beginner"
+  presentation: ""
+  video: ""
+-
+  id: 005
+  title: "Session 3 [TBD]"
+  description: "TBD."
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Expert"
+  presentation: ""
+  video: ""
+-
+  id: 006
+  title: "Keynote 2"
+  description: "TBD"
+  subtype: keynote
+  speakers: [4]
+  language: en
   complexity: "Intermediate"
+  presentation: ""
+  video: ""
+-
+  id: 007
+  title: "Keynote 3"
+  description: "TBD"
+  subtype: keynote
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: ""
+-
+  id: 008
+  title: "Session 4 [TBD]"
+  description: "TBD."
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Expert"
+  presentation: ""
+  video: ""
+-
+  id: 009
+  title: "Session 5 [TBD]"
+  description: "TBD."
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Expert"
   presentation: ""
   video: ""
