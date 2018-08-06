@@ -1,4 +1,16 @@
 -
+  id: 1
+  name: "TBD"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: tbd.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/davefarley77"}
+    - {name: "site", link: "http://www.continuous-delivery.co.uk"}
+-
   id: 2
   name: "Dave"
   surname: "Farley"
