@@ -17,7 +17,7 @@
   service: true
 -
   id: 002
-  title: "Keynote Speech 1"
+  title: "Keynote 1"
   description: "TBD"
   subtype: keynote
   speakers: [2]
