@@ -45,12 +45,16 @@
     - {name: "site", link: "http://codingthearchitecture.com/"}
 -
   id: 4
-  name: "TBC"
-  surname: "TBC"
-  company: "TBC"
-  title: "TBC"
-  bio: "TBD."
-  thumbnailUrl: tbd.jpg
-  rockstar: false
+  name: "Timandra"
+  surname: "Harkness"
+  company: ""
+  title: "Science Writer/Broadcaster"
+  bio: "Timandra Harkness is a science writer, broadcaster and comedian, who has been writing and performing on scientific, mathematical and statistical topics since the latter days of the 20th Century. Her book acclaimed Big Data: does size matter? was published by Bloomsbury in 2016.
+
+Timandra is a regular on BBC Radio 4, writing and presenting BBC Radio 4’s FutureProofingseries and documentaries such as 'Data, Data Everywhere', and 'Personality Politics'. She was also resident reporter on the social psychology series 'The Human Zoo'.
+
+In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death', with stand-up mathematician Matt Parker, which was a sell-out hit at the Edinburgh Fringe before touring the rest of the UK and Australia. Science comedy since then includes the solo show ‘Brainsex', cabarets and gameshows."
+  thumbnailUrl: Timandra-Harkness.jpg
+  rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/TimandraHarknes"}
