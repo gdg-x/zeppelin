@@ -100,9 +100,9 @@ eventAddressCountry: "Philippines"
 eventStartTime: "2018-11-17T08:00"
 eventDoorTime: "07:00"
 eventEndTime: "2018-11-17T18:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "14.552954, 121.049704"
+mapCenterCoordinates: "14.552954, 121.049704"
+mapMobileCenterCoordinates: "14.552954, 121.049704"
 
 # Venue Block
 venueBlockTitle: "Venue"
