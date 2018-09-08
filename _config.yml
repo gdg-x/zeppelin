@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebookSTP: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "http://bit.ly/phtestcon2018"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Season", "Manila", "Philippines"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
- #- {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About STP PhTestCon"
@@ -89,17 +89,17 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+locationBlockTitle: "WCC (BGC)"
+eventLocationName: "Willis Towers Watson, 23rd Floor"
+#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "30th Street corner 7th Avenue"
+eventAddressLocality: "BGC"
+eventAddressLocalityRegion: "Taguig"
+eventPostalCode: ""
+eventAddressCountry: "Philippines"
+eventStartTime: "2018-11-17T08:00"
+eventDoorTime: "07:00"
+eventEndTime: "2018-11-17T18:00"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -110,13 +110,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "WTW Conference Hall"
+venueFeatures: ["1 huge hall", "Doulby Digital Surround EX audio system", "Located inside WTW Office at W City Center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "phtestcon2018"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -132,45 +132,47 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and snacks."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  price: "2500"
+  priceCurrency: "PHP"
+  ticketsNumber: "40"
+  ribbon: "-40%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
+  validFrom: "2018-09-18T00:01"
+  validThrough: "2018-10-10T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  name: "Regular Rate"
+  price: "3500"
+  priceCurrency: "PHP"
+  ticketsNumber: "80"
+  ribbon:
+  #featured: true
+  buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
+  validFrom: "2018-10-11T00:01"
+  validThrough: "2018-11-15T23:59"
+  disabled: true
+ -
+  name: "Early Bird"
+  price: "2500"
+  priceCurrency: "PHP"
+  ticketsNumber: "40"
+  ribbon: "-40%"
+  featured: true
+  buyButtonLink: "http://bit.ly/phtestcon2018ticket"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
+  validFrom: "2018-09-18T00:01"
+  validThrough: "2018-10-10T23:59"
+  disabled: true
 
 # Footer
 socialLinks:
@@ -187,7 +189,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:softwaretestingphilippines@gmail.com", text: "softwaretestingphilippines@gmail.com"}
+   - {link: "mailto:softwaretestingphilippines@gmail.com", text: "GMAIL"}
  -
   title: "FAQ"
   links:
