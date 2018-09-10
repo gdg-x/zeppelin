@@ -28,11 +28,9 @@
   surname: "Pestelos"
   company: "ING"
   title: "Head of Agile COE-GSO "
-  bio: "<p align=\"justify\">I am a coach, trainer, mentor, and consultant to executives and product teams in The Philippines and Southeast Asia on agile development, software quality, innovation, and change leadership. Among my top clients are publicly-listed global investment banks and telcos, an Asian gaming enterprise, and Australia-based startups.
+  bio: "<p align=\"justify\">Ian leads the agile center of expertise for one of the top international banks. He also facilitates workshops and consults on agile management, change strategies, and software quality through his company, Agility.ph.
         <br><br>
-        I'm a Management 3.0 facilitator and practitioner, co-instructor of the Black Box Software Testing courses in the Association for Software Testing (USA), Member Board of Directors to UX Philippines, Co-Founder of Software Testing Philippines, and Technical Council member of the Philippine Software Industry Association (PSIA).
-        <br><br>
-        I also hold a Master of Technology Management from University of the Philippines, and has spoken at various conferences in Singapore, Vietnam, Indonesia, and The Philippines."
+        Ian is co-founder of Software Testing Philippines, board member of UX Philippines, and technical council member of Philippine Software Industry Association. He holds Master of Technology Management from University of the Philippines, and has spoken at conferences in Singapore, Vietnam, Indonesia, and The Philippines."
   thumbnailUrl: IanPestelos.jpg
   rockstar: true
   #ribbon:
