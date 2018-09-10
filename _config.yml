@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "170", specialCharacter: "+", info: "attendees", detail: "from NCR"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Testing topics"}
+ - {count: "14", specialCharacter: "+", info: "speakers", detail: "from different companies"}
+ - {count: "3", specialCharacter: "", info: "parallel talks", detail: "plus games and raffles"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -122,7 +122,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
