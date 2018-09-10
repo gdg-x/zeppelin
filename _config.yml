@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "WCC (BGC)"
 eventLocationName: "Willis Towers Watson, 23rd Floor"
-#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "https://www.phtestcon.com/"
 eventStreetAddress: "30th Street corner 7th Avenue"
 eventAddressLocality: "BGC"
 eventAddressLocalityRegion: "Taguig"
