@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "STP PhTestCon <typeout> 2018"
-eventDate: "November, 2018"
+eventDate: "November 17, 2018"
 typeoutTextValues: '"", "Season", "Manila", "Philippines"'
 typeoutFallback: "Season"
 heroButtons:
