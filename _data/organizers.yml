@@ -1,7 +1,7 @@
 - 
   group: "Volunteers"
   elements: 
-    - {name: "STP Core Group", description: STP Core Group - Volunteer Group of STP", link: "https://www.facebook.com/groups/softwaretestingphilippines", imageUrl: "stpcore.png"}
+    - {name: "STP Core Group", description: STP Core Group - Volunteer Group of STP", link: "https://www.facebook.com/groups/softwaretestingphilippines", imageUrl: "stpcore2.png"}
 #-
   #group: "Co-organizers"
   #elements:
