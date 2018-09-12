@@ -90,11 +90,41 @@
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #  - {name: "site", link: "http://olostan.name/"}
 -
-  id: 7
+  id: 8
   name: "Lady Rose"
   surname: "Cruz"
   title: "Registration Team Officer"
   thumbnailUrl: ladyRoseCruz.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Ara"
+  surname: "Abina"
+  title: "General Ops Officer"
+  thumbnailUrl: araAbina.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 10
+  name: "Karlo"
+  surname: "Bitao"
+  title: "General Ops Officer"
+  thumbnailUrl: karloBitao.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 11
+  name: "Patrick"
+  surname: "Tongson"
+  title: "General Ops Officer"
+  thumbnailUrl: patTongson.jpg
   subTeam: true
   #social:
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}

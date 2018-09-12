@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "WTW Conference Hall"
-venueFeatures: ["1 huge hall", "Doulby Digital Surround EX audio system", "Located inside WTW Office at W City Center"]
+venueFeatures: ["1 huge hall", "Digital audio system", "Located inside WTW Office at W City Center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
