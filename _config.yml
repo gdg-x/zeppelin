@@ -18,7 +18,7 @@ url: "https://www.phtestcon.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-123711923-1"
 googleAnalyticsSiteUrl: "phtestcon.com"
-siteVerification: "LIzILgaK3lyHjkcHmsYSKyUX7ZM91tcnft4YcXh1RPo"
+siteVerification: "CI-Fzu86h4BanNIRPYJbsm0SShbA7DveLHGXvp1i-KI"
 
 # Organizer Info
 organizerName: "STP Core"
@@ -144,7 +144,7 @@ ticketsOffers:
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
   ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
-  validFrom: "2018-09-18T00:01"
+  validFrom: "2018-09-21T00:01"
   validThrough: "2018-10-10T23:59"
   disabled: true
  -
@@ -170,7 +170,7 @@ ticketsOffers:
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
   ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
-  validFrom: "2018-09-18T00:01"
+  validFrom: "2018-09-21T00:01"
   validThrough: "2018-10-10T23:59"
   disabled: true
 
