@@ -143,7 +143,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
+  ticketContentList: ["Software Testing Philippines", "Volunteer-organized software testing conference", "#PHTESTCON2018"]
   validFrom: "2018-09-21T00:01"
   validThrough: "2018-10-10T23:59"
   disabled: true
@@ -156,7 +156,7 @@ ticketsOffers:
   #featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
+  ticketContentList: ["Software Testing Philippines", "Volunteer-organized software testing conference", "#PHTESTCON2018"]
   validFrom: "2018-10-11T00:01"
   validThrough: "2018-11-15T23:59"
   disabled: true
@@ -169,7 +169,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Software Testing Philippines", "Leading volunteer-organized software testing conference", "#PHTESTCON2018"]
+  ticketContentList: ["Software Testing Philippines", "Volunteer-organized software testing conference", "#PHTESTCON2018"]
   validFrom: "2018-09-21T00:01"
   validThrough: "2018-10-10T23:59"
   disabled: true
