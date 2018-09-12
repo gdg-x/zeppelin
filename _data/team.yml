@@ -2,7 +2,7 @@
   id: 0
   name: "Ian"
   surname: "Pestelos"
-  title: "STP Program Manager"
+  title: "Program Manager"
   thumbnailUrl: IanPestelos.jpg
   team: true
   #ribbon:
@@ -52,7 +52,7 @@
   id: 4
   name: "Michelle"
   surname: "Lagare"
-  title: "Program Manager"
+  title: "Program Committee"
   thumbnailUrl: michelleLagare2.jpg
   team: true
   #social:
@@ -73,7 +73,7 @@
   id: 6
   name: "Kevin"
   surname: "Badilla"
-  title: "Designer and Program Committee"
+  title: "Designer and Program Consultant"
   thumbnailUrl: kevinBadilla.jpg
   team: true
   #social:
@@ -83,7 +83,7 @@
   id: 7
   name: "Len"
   surname: "Canlas"
-  title: "Program Manager"
+  title: "Program Committee"
   thumbnailUrl: lenCanlas.jpg
   team: true
   #social:
