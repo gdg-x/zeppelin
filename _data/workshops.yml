@@ -7,7 +7,6 @@
     - {title: "Workshop1", tabid: "workshop1_tab"}
     - {title: "Workshop2", tabid: "workshop2_tab"}
     - {title: "Workshop3", tabid: "workshop3_tab"}
-    - {title: "Workshop4", tabid: "workshop4_tab"}
   timeslots: 
     - {
     	startTime: "09:00",

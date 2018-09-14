@@ -1,7 +1,8 @@
 - 
   group: "Diamond"
   elements: 
-    #- {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/", imageUrl: "noesis.jpg"}
+    - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/pt/homepage", imageUrl: "noesis.jpg"}
+    - {name: "WinTrust", description: "WinTrust", link: "https://wintrust.tech/", imageUrl: "wintrust.png"}
 - 
   group: "Gold"
   elements: 
