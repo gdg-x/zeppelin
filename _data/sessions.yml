@@ -39,8 +39,6 @@
   subtype: keynote
   speakers: []
   language: en
-  #presentation: ""
-  #video: ""
 -
   id: 006
   title: "Keynote Speaker 2"
@@ -48,8 +46,6 @@
   subtype: keynote
   speakers: []
   language: en
-  presentation: ""
-  video: ""
 -
   id: 007
   title: "Keynote Speaker 3"
@@ -57,8 +53,6 @@
   subtype: keynote
   speakers: []
   language: en
-  presentation: ""
-  video: ""
 -
   id: 008
   title: "Keynote Speaker 4"
@@ -66,8 +60,6 @@
   subtype: keynote
   speakers: []
   language: en
-  presentation: ""
-  video: ""
 -
   id: 009
   title: "Speaker Diamond 1"
@@ -75,8 +67,6 @@
   subtype: diamond
   speakers: []
   language: en
-  presentation: ""
-  video: ""
 -
   id: 010
   title: "Speaker Diamond 2"
@@ -84,8 +74,6 @@
   subtype: diamond
   speakers: []
   language: en
-  presentation: ""
-  video: ""
 -
   id: 011
   title: "Speaker Diamond 3"
@@ -93,8 +81,6 @@
   subtype: "diamond"
   speakers: []
   language: en
-  presentation: ""
-  video: ""
 -
   id: 012
   title: "Em atualização"
@@ -102,8 +88,6 @@
   subtype: "Call For Speakers"
   speakers: []
   language: en
-  presentation: ""
-  video: ""
 -
   id: 013
   title: "Keynote Speaker 5"
@@ -111,10 +95,34 @@
   subtype: "keynote"
   speakers: []
   language: en
-  presentation: ""
-  video: ""
-
-
+-
+  id: 020
+  title: "Call for Speakers 1"
+  descriptions: [""]
+  subtype: "callforspeakers"
+  speakers: []
+  language: en
+-
+  id: 021
+  title: "Call for Speakers 2"
+  descriptions: [""]
+  subtype: "callforspeakers"
+  speakers: []
+  language: en
+-
+  id: 022
+  title: "Call for Speakers 3"
+  descriptions: [""]
+  subtype: "callforspeakers"
+  speakers: []
+  language: en
+-
+  id: 023
+  title: "Call for Speakers 4"
+  descriptions: [""]
+  subtype: "callforspeakers"
+  speakers: []
+  language: en
 -
   id: 101
   title: "Agile Testing"
@@ -163,7 +171,6 @@
   place: Lisboa, Altis Grand Hotel
   language: en
   price: "<a href='#prices'>Consultar tabela de preços</a>"
-  #presentation: ""
   date: 21 de novembro
 -
   id: 104
@@ -174,9 +181,6 @@
   place: Lisboa, Altis Grand Hotel
   language: en
   price: "<a href='#prices'>Consultar tabela de preços</a>"
-  #presentation: ""
-  video: ""
-
 -
   id: 105
   title: "Agile Testing | User Experience Testing & Usability | Test Management"
@@ -203,7 +207,6 @@
   language: en
   price: "<a href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
-  #presentation: ""
   date: 22 de novembro
 -
   id: 106
@@ -231,7 +234,6 @@
   language: en
   price: "<a href='#prices'>Consultar tabela de preços</a>"
   moreinfo: "/assets/TesterYou_Trainings.pdf"
-  #presentation: ""
   date: 23 de novembro
 
   #-
@@ -244,4 +246,4 @@
   #speakers: [3]
   #language: en
   #presentation: ""
-  #video: ""
+  #

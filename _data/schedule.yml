@@ -2,7 +2,8 @@
   date: "2018-11-21"
   dateReadable: "21 de novembro"
   tracks: 
-    - {title: "Conferência", color: "#90be4e"}
+    - {title: "Main", color: "#90be4e"}
+    - {title: "Call for Speakers", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "08:30",
@@ -41,24 +42,32 @@
     }
     - {
     	startTime: "13:10",
-    	# endtime: "14:45",
     	sessionIds: [201]
     }
     - {
     	startTime: "14:40",
-    	# endtime: "15:15",
-    	sessionIds: [009]
+    	sessionIds: [009,020]
+    }
+    - {
+    	startTime: "15:00",
+    	sessionIds: [009,021]
+    }
+    - {
+    	startTime: "15:10",
+    	sessionIds: [010,021]
     }
     - {
     	startTime: "15:20",
-    	# endtime: "15:35",
-    	sessionIds: [010]
+    	sessionIds: [010,022]
     }
     - {
-    	startTime: "15:40",
-    	# endtime: "15:55",
-    	sessionIds: [011]
-    }
+			startTime: "15:40",
+			sessionIds: [011,023]
+		}
+    - {
+			startTime: "16:00",
+			sessionIds: [011]
+		}
     - {
     	startTime: "16:10",
     	# endtime: "16:25",
