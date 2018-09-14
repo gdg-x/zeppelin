@@ -132,7 +132,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and snacks."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and snacks."
 ticketsOffers:
  -
   name: "Early Bird"
