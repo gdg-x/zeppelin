@@ -79,6 +79,6 @@
   title: "TBD"
   bio: "<p align=\"justify\">TBD"
   thumbnailUrl: dummy-male.jpg
-  rockstar: true
+  rockstar: false
   #social:
   #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
