@@ -1,4 +1,12 @@
 -
+  id: 999
+  title: "TBD"
+  description: "<p align=\"justify\">TBD"
+  subtype: presentation
+  speakers: [99]
+  language: en
+  complexity: "Intermediate"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
@@ -6,8 +14,40 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch Break + Ice Breaker"
   place: "Dining room"
+  service: false
+-
+  id: 504
+  title: "Ice Breaker"
+  place: "Plenary Hall"
+  service: true
+-
+  id: 505
+  title: "Introduction and STP Core Group"
+  place: "Plenary Hall"
+  service: true
+  description: "Karla Emaden and Rabby Calicdan"
+-
+  id: 506
+  title: "Willis Towers Watson"
+  place: "Plenary Hall"
+  service: true
+-
+  id: 507
+  title: "Keynote"
+  place: "Plenary Hall"
+  service: true
+-
+  id: 500
+  title: "Room Transition"
+  place: "Plenary Hall"
+  service: true
+  description: "The best time to think what talk are you most interested."
+-
+  id: 508
+  title: "Raffles and Closing Remarks"
+  place: "Plenary Hall"
   service: true
 -
   id: 001
@@ -79,3 +119,4 @@
   speakers: [7]
   language: en
   complexity: "Intermediate"
+

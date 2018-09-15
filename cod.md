@@ -13,7 +13,7 @@ STP prides itself on being an open, respectful, and inclusive community. That me
 If someone is bothering you, please tell STP Core members immediately and they will take care of it. We want to maintain STP event/s awesomeness.
 
 
-######Contacts:
+Contacts:
 
 - STP Core Email, [softwaretestingphilippines@gmail.com](mailto:softwaretestingphilippines@gmail.com)
 
