@@ -129,3 +129,13 @@
   #social:
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 12
+  name: "Karla"
+  surname: "Emaden"
+  title: "Host"
+  thumbnailUrl: karlaEmaden.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
