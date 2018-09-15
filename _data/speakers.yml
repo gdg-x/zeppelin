@@ -1,15 +1,4 @@
 -
-  id: 99
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
-  bio: "<p align=\"justify\">TBD"
-  thumbnailUrl: dummy-male.jpg
-  rockstar: true
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
   id: 3
   name: "Hector"
   surname: "Hernandez"
@@ -82,3 +71,14 @@
   #social:
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 99
+  name: "TBD"
+  surname: "TBD"
+  company: "TBD"
+  title: "TBD"
+  bio: "<p align=\"justify\">TBD"
+  thumbnailUrl: dummy-male.jpg
+  rockstar: true
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
