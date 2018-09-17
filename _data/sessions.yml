@@ -132,6 +132,7 @@
   "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>",
   ]
   subtype: workshop
+  soldout: true
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
