@@ -44,13 +44,13 @@
   name: "BJ Edward"
   surname: "Taduran"
   company: "Voyager Innovations, Inc."
-  title: "Information Security Officer"
+  title: "Lead Information Security Officer"
   bio: "<p align=\"justify\">He is the chief in charge for the security of the PayMaya Issuing and other mobile financial services platforms within Voyager. As an information security officer, they create and follow a strategy to fully implement their chosen security framework for the company. He coordinates the implementations to identify assets, protect those assets, detect threats, respond to attacks and recover losses.
         <br><br>
         He is a certified payment-card industry security implementer who has helped in all aspects of the PCI DSS requirements to get PayMaya certified for the past two years.
         <br><br>
         His experience is heavy towards software engineering and management, with a strong web technologies background and team lead track record among agile teams for his 10+ years of experience in different well-known Information Technology companies. He is also a graduate of Masters in Technology Management at the top university in the Philippines."
-  thumbnailUrl: dummy-male.jpg
+  thumbnailUrl: bjTaduran.jpg
   rockstar: true
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
