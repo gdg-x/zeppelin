@@ -2,7 +2,7 @@
   group: "Diamond"
   elements: 
     - {name: "Altran", description: "Altran", link: "https://www.altran.com/pt/pt-pt/", imageUrl: "altran.png"}
-    - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/pt/homepage", imageUrl: "noesis.jpg"}
+    - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/pt/homepage", imageUrl: "noesis.png"}
     - {name: "Innowave", description: "Innowave", link: "https://innowave.tech/", imageUrl: "innowave.png"}
 - 
   group: "Gold"

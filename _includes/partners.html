@@ -18,7 +18,7 @@
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h4>{{ partner.group }}</h4>
-            <ul class="list-inline">
+            <ul class="flex-list">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">

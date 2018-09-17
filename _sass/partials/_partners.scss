@@ -22,4 +22,14 @@
             filter: grayscale(0);
         }
     }
+    .flex-list{
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 65px;
+        align-items: center;
+        justify-content: space-around;
+        li{
+            list-style: none;
+        }
+    }
 }
