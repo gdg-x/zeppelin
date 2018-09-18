@@ -59,12 +59,14 @@
   #  - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Kristine"
-  surname: "Afroilan"
-  company: "The Chronicle of Higher Education (Washington, DC)"
-  title: "Senior Test Engineer"
-  bio: ""
-  thumbnailUrl: dummy-female.jpg
+  name: "James Marvin"
+  surname: "Yu"
+  company: "Willis Towers Watson"
+  title: "Test Solution Architect"
+  bio: "<p align=\"justify\">James is currently a Test Solution Architect at Willis Towers Watson. His responsibilities include providing technical leadership for the overall automation strategy and automation frameworks of the HR Portal global product development team.
+                             <br><br>
+                             James was a former Software Engineer / Technical Lead and his work experience comprise of providing support and project development work for different areas such as finance, consumer research, global business planning, SharePoint implementation, product supply and forecast, business intelligence, and desktop applications. He led a virtual team providing global support for global travel and expense accounting and purchasing card solutions, acted as a project developer and technical resource for major projects, led CAB meetings with the business/IT, and conducted joint technical integration efforts with other IT functions."
+  thumbnailUrl: jameMarvinYu.jpg
   rockstar: true
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

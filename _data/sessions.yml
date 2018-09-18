@@ -55,8 +55,8 @@
   description: "<p align=\"justify\">To often load and performance testing for our application is put aside up till the last minute wherein issues are now harder and more expensive to fix. In this talk, I will go through the process my team implements to catch performance issues as early as possible."
   subtype: workshop
   speakers: [3]
-  language: en
-  complexity: "Intermediate"
+  #language: en
+  #complexity: "Intermediate"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
@@ -68,8 +68,8 @@
                 In my opinion, the best efficient approach to this problem is to observe how our email clients like Mozilla Thunderbird and other Android email clients seamlessly fetch our emails across various webmail providers - which is via IMAP(S). This presentation will talk about the whats and the hows of automating email verifications using IMAP(S), more specifically using Robot Framework’s IMAP Library."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
+  #language: en
+  #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -82,8 +82,8 @@
                 In my opinion, the best efficient approach to this problem is to exploit the Perfness’s REST SMS Gateway Android app. This app does not require rooted Android device, Internet connectivity, money, nor being UI-dependent. This presentation will talk about the whats and the hows of automating, both sending and receiving, SMS using the aforementioned Android app and the Android Debug Bridge (ADB)."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
+  #language: en
+  #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
@@ -95,8 +95,8 @@
                 In this talk I’ll share how we built a high-quality digital bank without dedicated testers, and what it means to the future of software testing."
   subtype: presentation
   speakers: [5]
-  language: en
-  complexity: "Intermediate"
+  #language: en
+  #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -107,16 +107,16 @@
                 Specifically,  different attack combinations will be emulated in real time through a trojan attack on multiple virtual machines."
   subtype: presentation
   speakers: [6]
-  language: en
-  complexity: "Intermediate"
+  #language: en
+  #complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
-  title: "Advanced Topic: Going Selenium-less!"
-  description: "<p align=\"justify\">Data seeding is a big challenge when doing automated checks. Oftentimes, we let Selenium do all the work. Got an edit account test? Let Selenium do the sign-up first, and then have it proceed with the edit. How many times has the edit scenario failed because sign-up is not working? As your test suite becomes larger, debugging these failures becomes expensive. In this workshop, I will show you how to seed data using an HTTP client."
+  title: "Building an Effective Test Automation Framework for Modern Software Architectures"
+  description: "<p align=\"justify\">As many companies continue to embrace automation, it’s easy to fall into the trap of doing automation for the sake of automating. In this topic, the speaker will talk about tools and techniques on how to build an effective test automation framework that can be used by applications built through RESTful APIs, how to integrate automated testing into DevOps, how to conduct in-sprint automation for continuous testing across the enterprise; and test automation mistakes that need to be avoided."
   subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Intermediate"
+  #language: en
+  #complexity: "Intermediate"
 
