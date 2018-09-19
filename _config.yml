@@ -139,7 +139,7 @@ ticketsOffers:
   price: "2500"
   priceCurrency: "PHP"
   ticketsNumber: "30"
-  ribbon: "-29%"
+  #ribbon: "-29%"
   featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
@@ -165,7 +165,7 @@ ticketsOffers:
   price: "2500"
   priceCurrency: "PHP"
   ticketsNumber: "30"
-  ribbon: "-29%"
+  #ribbon: "-29%"
   featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
