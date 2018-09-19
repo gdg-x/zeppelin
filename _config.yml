@@ -85,7 +85,7 @@ statisticBlock:
  - {count: "400", specialCharacter: "+", info: "participantes", detail: ""}
  - {count: "11", specialCharacter: "", info: "oradores", detail: ""}
  - {count: "72", specialCharacter: "+", info: "horas de formação", detail: ""}
- - {count: "6", specialCharacter: "", info: "workshops", detail: ""}
+ - {count: "5", specialCharacter: "", info: "workshops", detail: ""}
 
 
 # Latest News Block
