@@ -40,6 +40,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/training/", text: "Formação"}
+
 bottomNavigationLinks:
  - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
  - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i> WhatsApp"}
