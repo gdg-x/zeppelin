@@ -45,11 +45,10 @@
   surname: "Taduran"
   company: "Voyager Innovations, Inc."
   title: "Lead Information Security Officer"
-  bio: "<p align=\"justify\">He is the chief in charge for the security of the PayMaya Issuing and other mobile financial services platforms within Voyager. As an information security officer, they create and follow a strategy to fully implement their chosen security framework for the company. He coordinates the implementations to identify assets, protect those assets, detect threats, respond to attacks and recover losses.
-        <br><br>
-        He is a certified payment-card industry security implementer who has helped in all aspects of the PCI DSS requirements to get PayMaya certified for the past two years.
-        <br><br>
-        His experience is heavy towards software engineering and management, with a strong web technologies background and team lead track record among agile teams for his 10+ years of experience in different well-known Information Technology companies. He is also a graduate of Masters in Technology Management at the top university in the Philippines."
+  bio: "<p align=\"justify\">BJ Taduran, or most commonly known as Bujo, is a CompTIA and PCI SSC certified information security professional.
+                             He had a 12-year career as a programmer and most of those years he was the team lead of agile development teams.
+                             As an information security professional, he used to re-test and verify vulnerability findings of bounty hunters.
+                             He has a fair share of finding hackable parts of software and fixing them. Now he is leading the security team of one of the top digital financial products in the country, PayMaya. He aspires to, later on, contribute to securing our government systems."
   thumbnailUrl: bjTaduran.jpg
   rockstar: true
   #ribbon:
