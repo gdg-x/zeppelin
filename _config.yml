@@ -138,20 +138,20 @@ ticketsOffers:
   name: "Early Bird"
   price: "2500"
   priceCurrency: "PHP"
-  ticketsNumber: "30"
+  #ticketsNumber: "30"
   #ribbon: "-29%"
   featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
   ticketContentList: ["Software Testing Philippines", "Volunteer-organized software testing conference", "#PHTESTCON2018"]
   validFrom: "2018-09-21T00:01"
-  validThrough: "2018-10-15T23:59"
+  validThrough: "2018-10-15"
   disabled: false
  -
   name: "Regular Rate"
   price: "3500"
   priceCurrency: "PHP"
-  ticketsNumber: "80"
+  #ticketsNumber: "80"
   ribbon:
   #featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
@@ -164,14 +164,14 @@ ticketsOffers:
   name: "Early Bird"
   price: "2500"
   priceCurrency: "PHP"
-  ticketsNumber: "30"
+  #ticketsNumber: "30"
   #ribbon: "-29%"
   featured: true
   buyButtonLink: "http://bit.ly/phtestcon2018ticket"
   buyButtonText: "Buy Now"
   ticketContentList: ["Software Testing Philippines", "Volunteer-organized software testing conference", "#PHTESTCON2018"]
   validFrom: "2018-09-21T00:01"
-  validThrough: "2018-10-15T23:59"
+  validThrough: "2018-10-15"
   disabled: false
 
 # Footer
