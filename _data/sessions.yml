@@ -119,4 +119,12 @@
   speakers: [7]
   #language: en
   #complexity: "Intermediate"
+-
+  id: 007
+  title: "Evolving User Testing"
+  description: "<p align=\"justify\">As many companies continue to embrace automation, it’s easy to fall into the trap of doing automation for the sake of automating. In this topic, the speaker will talk about tools and techniques on how to build an effective test automation framework that can be used by applications built through RESTful APIs, how to integrate automated testing into DevOps, how to conduct in-sprint automation for continuous testing across the enterprise; and test automation mistakes that need to be avoided.The session focus is on building the abilities of business professionals to be a highly productive member of solution validation.  An examination of present shortcomings,  modification of engagement behavior and skill development will be discussed."
+  subtype: presentation
+  speakers: [8]
+  #language: en
+  #complexity: "Intermediate"
 

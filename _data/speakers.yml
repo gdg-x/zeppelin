@@ -73,6 +73,20 @@
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #  - {name: "site", link: "http://olostan.name/"}
 -
+  id: 8
+  name: "Jerry"
+  surname: "Durant"
+  company: "3rdLAW International"
+  title: "Chairman & Founder"
+  bio: "<p align=\"justify\">For four decades Jerry has been instrumental in shaping and advancing professional engineering enterprises at the international level.  He started his career in software and test engineering that has evolved into the development of venture enterprises in outsourcing services and serial innovation based venter enterprises.  Jerry is both degreed and certified, has lectured in over 90 nations and is regularly published in a variety of publications.  To his credit he authored both the Testing Tools Reference Guide and the Impact Sourcing Implementation Guide which was commissioned by the Rockefeller Foundation (Bellagio, IT).  He is presently working on his next book \"The Art of Play\"."
+  thumbnailUrl: jerryDurant.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
   id: 99
   name: "TBD"
   surname: "TBD"
