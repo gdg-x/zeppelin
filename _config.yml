@@ -55,12 +55,12 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
- - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
+ - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
- - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
+ - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
 
 # Hero Block
 heroImage: "newcastle-bridges.jpg"
@@ -70,8 +70,8 @@ eventDate: "4th April, 2019"
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
- - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
+ - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
 
 # About Block
 aboutTitle: "About Build IT Right"
