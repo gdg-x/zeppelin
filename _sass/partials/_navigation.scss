@@ -153,6 +153,10 @@ nav {
         opacity: 0;
         transform: translateY(-50px);
     }
+    &.right-nav-button-slide {
+        opacity: 0;
+        transform: translateX(50px);
+    }
 }
 .icon-menu {
     width: 20px;
