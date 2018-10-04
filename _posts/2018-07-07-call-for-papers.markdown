@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2018-07-16 08:00:00
 isStaticPost: false
 ---
-Build IT Right 2018 will be held 21st of November in Newcastle Upon Tyne. If you want to be part of this great event in the North East as a speaker you've come to the right place.
+Build IT Right 2019 will be held 4th of April in Newcastle Upon Tyne. If you want to be part of this great event in the North East as a speaker you've come to the right place.
 
 #### Presenters – who should speak at the Build IT Right Conference?
 
@@ -41,11 +41,11 @@ to submit them as well.
 * Technical Infrastructure in modern software development
 
 #### Please submit your proposals [here](http://bit.ly/2NzkBtb).
-__Deadline__ is 21st September, 2018
+__Deadline__ is 4th February, 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The programme committee picks the most interesting talk proposals and informs the selected submitters after 21st September, 2018.<br/>
+The programme committee picks the most interesting talk proposals and informs the selected submitters after 4th February, 2019.<br/>
 
 #### Any questions?
 Email organizers at [bitrconference@gmail.com](mailto:bitrconference@gmail.com)
