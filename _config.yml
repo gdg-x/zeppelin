@@ -153,8 +153,9 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
-  validFrom: "2018-09-01T00:00"
-  validThrough: "2018-11-20T23:59"
+  validFrom: "2019-01-01T00:00"
+  #validThrough: "2018-11-20T23:59"
+  validThrough: "2019-04-03T23:59"
   disabled: true
  -
   name: "Early Bird"
@@ -167,7 +168,8 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
   validFrom: "2018-07-10T10:00"
-  validThrough: "2018-08-31T23:59"
+  #validThrough: "2018-08-31T23:59"
+  validThrough: "2019-04-03T23:59"
  -
   name: "Concessionary"
   price: "£99"
@@ -178,7 +180,8 @@ ticketsOffers:
   additionalInfo: "Students require a valid student email address at time of purchase."
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
   validFrom: "2018-07-10T10:00"
-  validThrough: "2018-11-20T23:59"
+  #validThrough: "2018-11-20T23:59"
+  validThrough: "2019-04-03T23:59"
   #soldOut: true
   #soldOutText: "Sold Out"
 
@@ -234,7 +237,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Newcastle"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Newcastle International Airport is situated to the west of the city. It is easily reachable by car, public transport or taxi. More information is available at the <a href="https://www.newcastleairport.com/getting-here">airport website</a>.'}
+ - {title: "From the Airport", information: 'Newcastle International Airport is situated to the north of the city. It is easily reachable by car, public transport or taxi. More information is available at the <a href="https://www.newcastleairport.com/getting-here">airport website</a>.'}
  - {title: "Public Transit", information: 'Newcastle is well served by public transport including local bus routes and the metro train transit system. See the
  <a href="https://www.nexus.org.uk/">Nexus website</a> for more details.'}
  - {title: "Hotels", information: 'Newcastle has lots of great hotels and hostels. More information can be found in the questions section below.'}
