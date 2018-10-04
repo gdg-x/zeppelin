@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
 
 
 # Site Settings
-title: "Build IT Right 2018"
+title: "Build IT Right 2019"
 email: "bitrconference@gmail.com"
 description: "Build IT Right is a conference for people interested in
 IT based in Newcastle Upon Tyne"
@@ -54,13 +54,14 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
  - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
+ - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
  - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
+
 
 # Hero Block
 heroImage: "newcastle-bridges.jpg"
@@ -69,9 +70,9 @@ eventDate: "4th April, 2019"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
  - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
+ - {link: "assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Build IT Right"
@@ -105,9 +106,9 @@ eventAddressLocality: "Newcastle Upon Tyne"
 eventAddressLocalityRegion: "Tyne and Wear"
 eventPostalCode: "NE1 3SA"
 eventAddressCountry: "United Kingdom"
-eventStartTime: "2018-11-21T09:30"
+eventStartTime: "2019-04-04T09:30"
 eventDoorTime: "08:30"
-eventEndTime: "2018-11-21T19:00"
+eventEndTime: "2019-04-04T19:00"
 eventPlaceCoordinates: "54.967145, -1.616574"
 mapCenterCoordinates: "54.967145, -1.616574"
 mapMobileCenterCoordinates: "54.967145, -1.616574"
@@ -130,7 +131,7 @@ twitterFeed: "http://twitter.com/bitrconf"
 # Partners Block
 organizersTitle: "Organisers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Be a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -140,7 +141,8 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricing"
-ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
+# ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Standard"
@@ -190,7 +192,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.beaconhouse-events.co.uk", text: "Beacon House Events"}
+   - {link: "http://www.beaconhouse-events.co.uk", text: "BeaconHouse Events"}
    - {link: "https://www.ihg.com/crowneplaza/hotels/gb/en/newcastle-upon-tyne/nclsq/hoteldetail", text: "Crowne Plaza Newcastle"}
  -
   title: "Contacts"
@@ -296,9 +298,9 @@ hackathonAddressLocalityRegion: "Tyne and Wear"
 hackathonPostalCode: "NE1 3SA"
 hackathonAddressCountry: "United Kingdom"
 hackathonTimeTitle: "Hack-NE-thing"
-hackathonStartTime: "2018-11-21T12:30"
+hackathonStartTime: "2019-04-04T12:30"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2018-11-21T14:00"
+hackathonEndTime: "2019-04-04T14:00"
 viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "54.967145, -1.616574"
 hackathonMapCenterCoordinates: "54.967145, -1.616574"
