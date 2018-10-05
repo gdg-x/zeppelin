@@ -1,11 +1,18 @@
+# - 
+#   group: "Gold sponsors"
+#   elements: 
+#     - {name: "Dynamo", description: "Dynamo, Growing the North East IT economy", link: "http://www.dynamonortheast.co.uk/kids-digital-maker-party/", imageUrl: "Dynamo Primary Pant164 No Strap.eps"}
+#     - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid logo_solo.eps"}
+# - 
+#   group: "Silver sponsors"
+#   elements: 
+#     - {name: "Your Logo Here", description: "Your Logo Here", link: "assets/BITR_Sponsorship_Pack.pdf", imageUrl: "your-logo.png", width: "120px"}
+#     - {name: "Your Logo Here", description: "Your Logo Here", link: "assets/BITR_Sponsorship_Pack.pdf", imageUrl: "your-logo.png", width: "120px"}
+#     - {name: "Your Logo Here", description: "Your Logo Here", link: "assets/BITR_Sponsorship_Pack.pdf", imageUrl: "your-logo.png", width: "120px"}
+
 - 
-  group: "Gold sponsors"
+  group: ""
   elements: 
-    - {name: "Your Logo Here", description: "Your Logo Here", link: "#", imageUrl: "your-logo.png"}
-    - {name: "Your Logo Here", description: "Your Logo Here", link: "#", imageUrl: "your-logo.png"}
-- 
-  group: "Silver sponsors"
-  elements: 
-    - {name: "Your Logo Here", description: "Your Logo Here", link: "#", imageUrl: "your-logo.png", width: "120px"}
-    - {name: "Your Logo Here", description: "Your Logo Here", link: "#", imageUrl: "your-logo.png", width: "120px"}
-    - {name: "Your Logo Here", description: "Your Logo Here", link: "#", imageUrl: "your-logo.png", width: "120px"}
+    - {name: "Dynamo", description: "Dynamo, Growing the North East IT economy", link: "http://www.dynamonortheast.co.uk/kids-digital-maker-party/", imageUrl: "Dynamo Primary Pant164 No Strap.eps"}
+    - {name: "Your Logo Here", description: "Your Logo Here", link: "assets/BITR_Sponsorship_Pack.pdf", imageUrl: "your-logo.png"}
+    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid logo_solo.eps"}

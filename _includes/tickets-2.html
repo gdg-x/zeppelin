@@ -2,7 +2,8 @@
 <section id="tickets" class="tickets-2">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.ticketsTitle }}</h3>
+			<!-- <h3>{{ site.ticketsTitle }}</h3> -->
+			<p style="margin-top:-150px;margin-bottom:100px;"><h5>{{ site.ticketsSubTitle }}</h5></p> 
 			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
 			{% assign animationDelay = 0 %}
             {% for ticketsOffer in site.ticketsOffers %}
@@ -29,8 +30,9 @@
 								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 							</span>
 							{% else %}
-		           			{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-							<p class="ticket-fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
+							   {% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
+							   {% assign ticketName = ticketsOffer.name %}
+							<p class="ticket-fallback">{{ ticketName }} ticket sales begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
 							{% endif %}
 						</div>
 					</div>

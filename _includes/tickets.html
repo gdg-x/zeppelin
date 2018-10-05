@@ -23,8 +23,9 @@
 						{% elsif ticketsOffer.disabled != true %}
 						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 						{% else %}
-		           		{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-						<span class="button disabled fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</span>
+						   {% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
+						   {% assign ticketName = ticketsOffer.name %}
+						<span class="button disabled fallback">{{ ticketName }} ticket sales begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</span>
 						{% endif %}
 					</div>
 				</div>
