@@ -41,7 +41,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         float: left;
         width: 185px;
         height: 60px;
-        margin-right: 20px;
+        margin-right: 10px;
         transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
@@ -52,7 +52,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 .logo-navbar {
     width: 185px;
     height: 60px;
-    margin: 8px 20px 0 -10px;
+    margin: 8px 10px 0 0;
     transform: scale(.6);
     vertical-align: middle;
 }

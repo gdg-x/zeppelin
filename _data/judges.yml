@@ -4,7 +4,7 @@
   surname: ""
   company: ""
   title: ""
-  thumbnailUrl: tbd.jpg
+  thumbnailUrl: #
   social:
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "github", link: "https://github.com/"}
@@ -14,7 +14,7 @@
   surname: ""
   company: ""
   title: ""
-  thumbnailUrl: tbd.jpg
+  thumbnailUrl: #
   social:
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "github", link: "https://github.com/"}

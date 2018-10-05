@@ -45,12 +45,6 @@
                 buyButton.addClass('right-nav-button-hidden');
             }
 
-            /* if (scroll >= $('.top-section').height()) {
-                buyButton.removeClass('right-nav-button-hidden');
-            } else if (scroll < $('.top-section').height()){
-                buyButton.addClass('right-nav-button-hidden');
-            } */
-
             $('.slot').each(function() {
                 var currentPosition = $(this).offset().top - scroll;
                 var offsetActivator = topOffset + $(this).find('.slot-title').height();
@@ -62,20 +56,31 @@
 
         $(window).resize(function() {
 
+            var scroll = $(this).scrollTop();
             var buyButton = $('.right-nav-button');
+
+            if (scroll < $('.top-section').height()) {
+                buyButton.addClass('right-nav-button-hidden');
+            } else {
+                buyButton.removeClass('right-nav-button-hidden');
+            }
+
+            if ($(window).width() < 1250){
+                buyButton.addClass('right-nav-button-slide'); 
+            } else {
+                buyButton.removeClass('right-nav-button-slide');
+            }
 
             if ($(window).width() > 1500) { 
                 $('.effect-wrapper').addClass('col-lg-3');               
             } else {
                 $('.effect-wrapper').removeClass('col-lg-3');             
             }
-            if ($(window).width() < 1250) {
+            if ($(window).width() < 768) {
                 $('.same-height').css('height', '100%');
-                $('.timeslot-label').addClass('stick-label');
-                buyButton.addClass('right-nav-button-slide'); 
+                $('.timeslot-label').addClass('stick-label'); 
             } else {
                 $('.timeslot-label').removeClass('stick-label');
-                buyButton.removeClass('right-nav-button-slide');
                 if (container.hasClass('st-menu-open')) {
                     container.removeClass('st-menu-open');
                     $('body').css('overflow', 'auto');
@@ -184,7 +189,6 @@
                 }
             });
         }
-
 
         //Side menu
         var container = $('.st-container');

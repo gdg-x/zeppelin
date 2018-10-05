@@ -41,11 +41,11 @@ to submit them as well.
 * Technical Infrastructure in modern software development
 
 #### Please submit your proposals [here](http://bit.ly/2NzkBtb).
-__Deadline__ is 4th February, 2019
+__Deadline__ 25th January, 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The programme committee picks the most interesting talk proposals and informs the selected submitters after 4th February, 2019.<br/>
+The programme committee picks the most interesting talk proposals and informs the selected submitters after 25th January, 2019.<br/>
 
 #### Any questions?
 Email organizers at [bitrconference@gmail.com](mailto:bitrconference@gmail.com)

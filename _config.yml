@@ -54,13 +54,13 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
- - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
+ - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
- - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
+ - {link: "/assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
+ - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 
 
 # Hero Block
@@ -70,8 +70,8 @@ eventDate: "4th April, 2019"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
- - {link: "http://bit.ly/2NzkBtb", text: "Be a speaker"}
- - {link: "assets/BITR_Sponsorship_Pack.pdf", text: "Be a sponsor"}
+ - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "assets/BITR_Sponsorship_Pack.pdf", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -120,7 +120,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Crowne Plaza Hotel"
-venueFeatures: ["Spa and fitness suite", "WIFI in all rooms and public areas", "Located in the Stephenson Quarter in the city center"]
+venueFeatures: ["Spa and fitness suite", "Wi-Fi in all rooms and public areas", "Located in the Stephenson Quarter in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -130,8 +130,9 @@ twitterFeed: "http://twitter.com/bitrconf"
 
 # Partners Block
 organizersTitle: "Organisers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Be a sponsor"
+#partnersTitle: "Partners"
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -141,6 +142,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricing"
+ticketsSubTitle: "Additional information"
 # ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
@@ -153,7 +155,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
-  validFrom: "2019-01-01T00:00"
+  validFrom: "2019-02-01T00:00"
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
   disabled: true
@@ -213,6 +215,10 @@ discusShortName: "bitrconf"
 
 # Speakers List Block
 showSessions: true
+
+# Speakers EU Dev Fund
+fundTitle: "In association with"
+fundImage: "EU-ERDF-EN-2000px.png"
 
 # Team Block
 teamBlockTitle: "About us"
