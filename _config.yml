@@ -50,9 +50,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:gdgzagreb@gmail.com", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:gdgzagreb@gmail.com", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "5", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "4", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "1", specialCharacter: "", info: "track", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
