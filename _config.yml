@@ -134,43 +134,43 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
+ # -
+ #  name: "Early Bird"
+ #  price: "350"
+ #  priceCurrency: "UAH"
+ #  ticketsNumber: "150"
+ #  ribbon: "-5%"
+ #  buyButtonLink: "http://dfua.ticketforevent.com/"
+ #  buyButtonText: "Buy Now"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2014-08-25T10:00"
+ #  validThrough: "2014-09-30T23:59"
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Regular"
+  price: "Not available"
+  # priceCurrency: "HRK"
   ticketsNumber: "100"
-  ribbon: "-20%"
+  # ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  # buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["Conference", "Coffee breaks", "Lunch"]
+  validFrom: "2018-11-01T00:00"
+  validThrough: "2018-11-30T23:59"
   disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+ # -
+ #  name: "Student"
+ #  price: "200"
+ #  priceCurrency: "UAH"
+ #  ticketsNumber: "50"
+ #  buyButtonLink: "http://dfua.ticketforevent.com/"
+ #  buyButtonText: "Buy Now"
+ #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2014-08-20T10:00"
+ #  validThrough: "2014-10-23T23:59"
+ #  soldOut: true
+ #  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
