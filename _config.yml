@@ -165,6 +165,18 @@ workshopTickets:
     earlyBirdPrice: "292"
     currency: "€"
 
+# Course price table
+courseTickets:
+  -
+    name: "Valor de venda com exame"
+    price: "1650"
+    earlyBirdPrice: "1320"
+    currency: "€"
+  -
+    name: "Associado"
+    price: "1320"
+    earlyBirdPrice: "1056"
+    currency: "€"
 
 # Footer
 socialLinks:

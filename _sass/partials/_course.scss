@@ -2,3 +2,17 @@
     text-align: justify;
     margin-left: 4em;
 }
+
+.subtitle{
+    margin: 0;
+    padding: 0 0 1em 0;
+    color: $main-color;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 3em;
+    letter-spacing: 0.3em;
+}
+.center-text{
+    text-align: center;
+}

@@ -1,6 +1,7 @@
 <section id="course" class="course">
     <div class="container">
-        <h3>About the Course</h3>
+        <h4>Formação ISTQB(R) Advanced Level - Test Manager</h4>
+        <h5 class="subtitle">About the course</h5>
         <p>The <b>ISTQB Advanced Test Manager</b> course extends the broad understanding of testing acquired at Foundation
             Level to enable the role of Test Manager to be performed.</p>
 
@@ -28,7 +29,7 @@
 
 
 
-        <h4>Who is it for?</h4>
+        <h5 class="subtitle">Who is it for?</h5>
         <p>The ISTQB Certified Test Manager Advanced Level is principally aimed at test practitioners who have achieved
             an advanced point in their careers in software testing and are expecting to be actively involved in the
             management of any aspect of software testing, and who want to increase their test management knowledge and
@@ -38,7 +39,7 @@
             a deeper understanding of software testing, such as project managers, quality managers, software
             development managers, business analysts and management consultants.</p>
 
-        <h4>About ISTQB and the ‘Certified Tester’ Scheme</h4>
+        <h5 class="subtitle">About ISTQB and the ‘Certified Tester’ Scheme</h5>
         <p>Founded in 2002, ISTQB (International Software Testing Qualifications Board) is a not-for-profit association
             comprising 47 national boards (including the UKTB) covering 71 countries worldwide. ISTQB has defined the
             Advanced certification as part of their ‘Certified Tester’ scheme that, with over 240,000 certifications,
@@ -55,7 +56,7 @@
         </ul>
 
 
-        <h4>Entry Requirements</h4>
+        <h5 class="subtitle">Entry Requirements</h5>
         <p>The entry requirements for the Certified Tester Advanced Level Test Manager qualification are that the
             candidate must hold the <b>ISTQB Foundation certificate</b> and it is also suggested that candidates have a
             minimum of <b>3 years</b> testing experience.</p>
@@ -63,7 +64,7 @@
         <p>Note that it is recommended that you attend an accredited training course run by an accredited training
             provider, as the overall exam pass rates are notably higher for candidates attending such courses.</p>
 
-        <h4>The Exam</h4>
+        <h5 class="subtitle">The Exam</h5>
         <p>The exam is taken after the course.</p>
 
         <ul>
@@ -74,7 +75,7 @@
         </ul>
 
 
-        <h4>Course Objectives</h4>
+        <h5 class="subtitle">Course Objectives</h5>
         <p>The objectives for the <b>Certified Tester Advanced Level</b> qualification are to:</p>
         <ul>
             <li>Gain recognition for testing as an essential and professional software engineering specialization;</li>
@@ -88,6 +89,27 @@
             <li>Provide an opportunity for testers and those with an interest in testing to acquire an internationally
                 recognized qualification in the subject.</li>
         </ul>
-
+        <div id="prices" class="col-sm-10 col-sm-offset-1">
+            <h3 class="center-text">Preços</h3>
+            {% for ticket in site.courseTickets %}
+                <div class="col-xs-12 col-sm-6">
+                    <div class="package-column">
+                        <h6 class="package-title">{{ticket.name}}</h6>
+                        <div class="package-price">
+                            {{ticket.price}}<span class="currency">{{ticket.currency}}</span>
+                        </div>
+                        <h6>Early Bird (-20%)</h6>
+                        <div class="package-price">
+                            {{ticket.earlyBirdPrice}}<span class="currency">{{ticket.currency}}</span>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+            <p class="center-text">Aos valores supramencionados, acresce o I.V.A. à taxa normal em vigor.</p>
+            <p class="center-text">Data limite <strong>Early Bird</strong>: em atualização</p>
+            
+        </div>
     </div>
+
+    
 </section>
