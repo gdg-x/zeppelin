@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "STP PhTestCon 2018"
 email: "softwaretestingphilippines@gmail.com"
-description: "STP PhTestCon is a yearly event for testing practiotioners in the Philippines"
+description: "STP PhTestCon is a yearly event for testing practitioners in the Philippines. Organized by Software Testing Philippines - Core Group who are passionate testing and quality leaders and practitioners who aims to build a strong testing industry in The Philippines through meetups, trainings, conferences, and events."
 baseurl: ""
 url: "https://www.phtestcon.com"
 permalink: "/blog/:title"
