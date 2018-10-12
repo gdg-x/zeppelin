@@ -16,3 +16,39 @@
 .center-text{
     text-align: center;
 }
+
+.people-img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    @media (max-width: 767px) {
+        width: 120px;
+        height: 120px;
+        margin: 10px auto;
+    }
+}
+
+.name {
+    margin-bottom: 9px;
+    font-size: 17px;
+    font-weight: $bold;
+    color: $modal-highlight-color;
+}
+.position {
+    font-weight: $regular;
+    color: $modal-color;
+}
+.about {
+    text-align: justify;
+}
+.social {
+    padding: 0;
+    list-style: none;
+    @media (max-width: 767px) {
+        text-align: center;
+    }
+    li {
+        display: inline-block;
+        padding-right: 3px;
+    }
+}

@@ -89,6 +89,36 @@
             <li>Provide an opportunity for testers and those with an interest in testing to acquire an internationally
                 recognized qualification in the subject.</li>
         </ul>
+
+        <!-- Course master -->
+        <div class="row">
+            <h5 class="subtitle">Course Trainer</h5>
+            <div class="col-md-2 col-sm-2">
+                <div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: 'AgelinaSamaroo.jpeg' }})"></div>
+            </div>
+            <div class="col-md-10 col-sm-10">
+                <p class="name">Agelina Samaroo
+                    <span class="position">Managing Director, Pinta Education Ltd</span>
+                </p>
+                <p class="about">
+                    Over 20 years experience in engineering, software development, quality assurance and training. 
+                    Career aim is to encourage engineers across all disciplines to reach the highest levels of professional recognition through training, coaching and mentoring.
+                    She is an avid supporter of testing qualifications and is a co-author of the two highly successful BCS books on software testing - 
+                    a BCS-ISTQB Foundation in Software Testing and a BCS Intermediate in Software Testing.  Both highly rated on Amazon.
+                </p>
+                <ul class="social">
+                    <li>
+                        <a href="https://www.linkedin.com/in/angelina-samaroo-fiet-1a84342/" target="_blank">
+                            <svg class="icon icon-{{ social[linkedin] }}" viewBox="0 0 30 32">
+                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social[linkedin] }}"></use>
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
         <div id="prices" class="col-sm-10 col-sm-offset-1">
             <h3 class="center-text">Preços</h3>
             {% for ticket in site.courseTickets %}
@@ -109,6 +139,7 @@
             <p class="center-text">Data limite <strong>Early Bird</strong>: 31 de outubro</p>
             
         </div>
+        
     </div>
 
     
