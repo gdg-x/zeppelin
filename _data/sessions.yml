@@ -127,4 +127,22 @@
   speakers: [8]
   #language: en
   #complexity: "Intermediate"
+-
+  id: 008
+  title: "Software Engineering in Test Automation"
+  description: "<p align=\"justify\">Many times automation testers are taught how to code. But not how to code properly. In this talk, we will tackle software engineering principles that can be applied when developing test automation suites."
+  subtype: presentation
+  speakers: [9]
+  #language: en
+  #complexity: "Intermediate"
+-
+  id: 009
+  title: "Advanced Appium Workshop"
+  description: "<p align=\"justify\">We will learn about advanced appium concepts in this workshop. We will have a look at how to write a single script for Android, iOS and mobile web apps.
+                                     <br><br>
+                                     We will also learn about how to implement complex touch action gestures with mobile apps. And we will study about how to implement parallel and distribute tests with appium."
+  subtype: workshop
+  speakers: [10]
+  #language: en
+  #complexity: "Intermediate"
 

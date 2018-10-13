@@ -87,6 +87,34 @@
   #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
   #  - {name: "site", link: "http://olostan.name/"}
 -
+  id: 9
+  name: "Kath"
+  surname: "Rollo"
+  company: "Cambridge University Press - Manila"
+  title: "Test Analyst"
+  bio: "<p align=\"justify\">An agile practitioner, I am mainly a Java developer specializing in test automation using Selenium, Cucumber, JUnit, and TestNG. I published my first article in the LinkedIn Publishing platform to begin a series of technical articles for software testing."
+  thumbnailUrl: katherineRollo.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 10
+  name: "Syam"
+  surname: "Sasi"
+  company: "Carousell PVT LTD Singapore"
+  title: "QA Engineer"
+  bio: "<p align=\"justify\">Syam Sasi is a Quality Assurance Engineer at Carousell, Singapore. He is the founder of Singapore Appium meetup. He has created the Relative XPath Helper chrome extension which has more than 10000 users.  Syam has implemented various test strategies and architected automated test suites for mobile, web and hybrid applications."
+  thumbnailUrl: syamSasi.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
   id: 99
   name: "TBD"
   surname: "TBD"
