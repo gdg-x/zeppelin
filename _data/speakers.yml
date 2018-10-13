@@ -111,8 +111,8 @@
   rockstar: true
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social:
-  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
   #  - {name: "site", link: "http://olostan.name/"}
 -
   id: 99
