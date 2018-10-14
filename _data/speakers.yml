@@ -115,6 +115,22 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
   #  - {name: "site", link: "http://olostan.name/"}
 -
+  id: 11
+  name: "Kevin"
+  surname: "Badilla"
+  company: "MonstarLab Philippines"
+  title: "Quality Assurance Manager"
+  bio: "<p align=\"justify\">Kevin leads the growing QA group of Monstar Lab Philippines. As a testing practitioner, he's involved in different industries like Airline, Relocation, Manufacturing, and on-demand services from local and international clients.
+                             <br><br>
+                             He’s also a member of the Core Group of Software Testing Philippines. In the recent Testathon PH 2018 event, he bagged the awards \"Best QA: Runner Up\" and \"Best QA Team\"."
+  thumbnailUrl: kevinBadilla.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
   id: 99
   name: "TBD"
   surname: "TBD"

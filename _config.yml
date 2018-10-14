@@ -74,9 +74,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "170", specialCharacter: "+", info: "attendees", detail: "from NCR"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from NCR and Clark Pampanga"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Testing topics"}
- - {count: "14", specialCharacter: "+", info: "speakers", detail: "from different companies"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from different companies"}
  - {count: "3", specialCharacter: "", info: "parallel talks", detail: "plus games and raffles"}
 
 # Latest News Block
@@ -132,7 +132,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and snacks."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch, snacks and raffles."
 ticketsOffers:
  -
   name: "Early Bird"

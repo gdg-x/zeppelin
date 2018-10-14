@@ -145,4 +145,14 @@
   speakers: [10]
   #language: en
   #complexity: "Intermediate"
+-
+  id: 010
+  title: "Tester Level Up! - Bug Prevention"
+  description: "<p align=\"justify\">This talk will focus on how a tester can add a new skill on his arsenal that can greatly contribute value to his team - bug prevention.
+                                     <br><br>
+                                     Here we'll discuss what are the benefits of preventing bugs, finding bugs at early stages and the ways how a tester can do this."
+  subtype: presentation
+  speakers: [11]
+  #language: en
+  #complexity: "Intermediate"
 
