@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
+ #- {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
+ #- {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "November 17, 2018"
 typeoutTextValues: '"", "Season", "Manila", "Philippines"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
+ #- {link: "http://bit.ly/phtestcon2018", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
