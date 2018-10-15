@@ -79,6 +79,7 @@ aboutBlock:
           "<strong><a href='/schedule/' | prepend: baseurl>Confira a agenda</a></strong> e <strong><a href='#tickets'>reserve já o seu lugar!</a></strong>"]}
  - {title: "Workshops", image: "workshop.jpg",
       text: ["Workshops dados por líderes mundiais na área de testes de software!",
+             "As workshops em Lisboa já estão esgotadas, mas ainda há vagas para as workshops de Coimbra e Porto!",
             "<strong><a href='/workshops/' | prepend: baseurl >Confira os workshops!</a></strong>"] }
 
 # Statistic Block
