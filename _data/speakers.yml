@@ -59,12 +59,13 @@
   rockstar: false
 - 
   id: 5
-  name: "Em"
-  surname: "Atualização"
-  #company: "Alten Nederland"
-  #title: "Software tester"
-  #bio: "I am a software tester from the Netherlands and I am working for Alten Nederland since 2008. I call myself a Qualisopher which stands for someone “who loves truth and wisdom and at the same time is decisive to improve man and his environment” . This means I am interested in the world around us, to see what I can learn and I can apply in software testing. That is one of the reason why I tell stories in books and at (test) conferences such as EuroSTAR, Expo:QA, Belgium Testing Days, CAST and Testnet conferences. My dream is to participate, as a good qualisopher, in all kind of projects such as sports, culture or software testing. Projects which add value to our community: I want to inspire other people by cooperation, fun and empathy and hopefully bring light in someone's life."
-  thumbnailUrl: default.png
+  name: "Olivier"
+  surname: "Denoo"
+  company: "ps_testware SAS"
+  title: "VP"
+  shortBio: "For 20 years he is an international speaker who spoke at Test-IT Africa; SQA-days; BA-days; JFIE; TestWarez; ReQuest, SEETEST; STF; Iqnite; JFTL; JMTL; JTTL; Analyst-days; Quality Week; Eurostar; Dasia…"
+  bio: "Olivier is the VP of ps_testware SAS, the French subsidiary of ps_testware group. His role is to develop business, recruit the local expert team, build sustainable partnerships, promote software testing and ps_testware. He is also involved in auditing test projects and organizations and provides high-level consultancy and support. Olivier is the President of the CFTL - the French ISTQB Board and also currently is the Governance Officer of the ISTQB. For 20 years he is an international speaker who spoke at Test-IT Africa; SQA-days; BA-days; JFIE; TestWarez; ReQuest, SEETEST; STF; Iqnite; JFTL; JMTL; JTTL; Analyst-days; Quality Week; Eurostar; Dasia… He's also actively participating in the development of new certification schemes, like IQBBA (Business Analysis), IREB (requirements engineering), IBUQ (usability) or more recently the "7 skills for effective teams" (soft skills and team organization)."
+  thumbnailUrl: OlivierDenoo.jpg
   rockstar: false
 -
   id: 8
