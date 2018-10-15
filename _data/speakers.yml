@@ -1,4 +1,43 @@
 - 
+  id: 3
+  name: "Alexandra"
+  surname: "Schladebeck"
+  company: "BREDEX GmbH"
+  title: "Head of Software Quality and Test Consulting"
+  #shortBio: "Alex is an outgoing and passionate team leader, consultant, software tester and product owner. Communicating with people is her main focus."
+  bio: "Alex is an outgoing and passionate team leader, consultant, software tester and product owner. Communicating with people is her main focus – something she is fortunate to do frequently in her role as Head of Software Quality and Test Consulting at BREDEX GmbH. Alex comes from a background in language and linguistics, and has been working in IT since 2005. She spends her time coaching testers and developers, consulting customers and helping development teams to improve their quality. She loves working in agile processes, talking about testing and quality, and encouraging communication magic to happen. She no longer describes herself as non-technical, but she still sees her role as translating between different groups of people in IT. You'll usually find Alex talking about quality and how it affects the whole development process, or about her life goal to make testing more appreciated! She's also a frequent speaker at conferences where she likes to share her project experiences and learn from other practitioners."
+  thumbnailUrl: AlexandraSchladebeck.jpg
+  rockstar: true
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/alexandraschladebeck/"}
+
+-
+  id: 2
+  name: "Baris"
+  surname: "Sarialioglu"
+  company: "TesterYou"
+  title: "Managing partner"
+  #shortBio: "Baris is highly experienced in software development, project management, business analysis, and software testing."
+  bio: "Baris has over 15 years of experience as an information systems professional. He is highly experienced in software development, project management, business analysis, and software testing.\nBaris also has diverse experience spanning several industries, including telecommunications, defense, banking and finance, semiconductor manufacturing, and aviation. Based on this broad experience, he has been involved in several challenging projects and had the chance to work in several different countries, including Turkey, the United States, Russia, Germany, China, and Greece.\nHe has written articles and papers on software development, quality assurance, and software testing, and he regularly attends international and national conferences as a speaker, panelist, moderator, and contributor. In 2013, he published his first book, Software Testing Tips, in which he shared his experiences and vision about various software testing issues. Later-wards in 2015, he published his second book, Mobile Testing Tips, where he addressed many important areas as: Mobile Testing Techniques, Mobile Testing Tools, Mobile Test Automation and Mobile Performance Testing.\nCurrently, he is the managing partner of Keytorc Software Testing Services, where he holds the responsibilities of delivering test consultancy, outsourced test management, and software testing training (including accredited ISTQB trainings)."
+  thumbnailUrl: BarisSarialioglu.jpg
+  rockstar: true
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/barissarialioglu/"}
+
+- 
+  id: 4
+  name: "Damien"
+  surname: "Walsh"
+  company: "SmartBear"
+  title: "Manager, Technical Sales Engineer"
+  #shortBio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ."
+  bio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ. Today Damien is responsible for SmartBear’s technology strategy across its International markets. Having seen how software development and testing has evolved from supporting IT infrastructures, to driving competitive strategies and ultimately to redefining business models, Damien brings his thoughts to an every changing testing world."
+  thumbnailUrl: DamienWalsh.jpg
+  rockstar: true
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/damien-walsh-3754176"}
+
+- 
   id: 6
   name: "Joel"
   surname: "Oliveira"
@@ -10,79 +49,49 @@
   rockstar: false
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/joeloliveira"}
-- 
-  id: 7
-  name: "Patrícia"
-  surname: "Alves"
-  company: "PSTQB – Associação Portuguesa de Testes de Software"
-  title: "Vice Presidente"
-  shortBio: "Has 10 years in Software Testing, 2 years leading teams in Switzerland and since 2014 leading Siemens Global Test Center."
-  bio: "Patricia Alves, co-founded PSTQB – Associação Portuguesa de Testes de Software in 2010. Currently with the role of Vice President of PSTQB - Portuguese board for ISTQB.  At ISTQB community she is part of Exam Working Group since 2010 and she is also Advanced Level ITP Examiner for an European board. With 20 years of IT experience, 17 of them in Software Testing and Team Management. From their professional experience in IT we remark 10 years in Software Testing within consultancy arena as Business Unit Manager, 2 years leading teams in Switzerland as freelancer and since 2014 leading Siemens Global Test Center from Lisbon."
-  thumbnailUrl: PatriciaAlves.jpg
-  rockstar: false
-  social: 
-    - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
+
 -
-  id: 2
-  name: "Baris"
-  surname: "Sarialioglu"
-  company: "TesterYou"
-  title: "Managing partner"
-  shortBio: "Baris is highly experienced in software development, project management, business analysis, and software testing."
-  bio: "Baris has over 15 years of experience as an information systems professional. He is highly experienced in software development, project management, business analysis, and software testing.\nBaris also has diverse experience spanning several industries, including telecommunications, defense, banking and finance, semiconductor manufacturing, and aviation. Based on this broad experience, he has been involved in several challenging projects and had the chance to work in several different countries, including Turkey, the United States, Russia, Germany, China, and Greece.\nHe has written articles and papers on software development, quality assurance, and software testing, and he regularly attends international and national conferences as a speaker, panelist, moderator, and contributor. In 2013, he published his first book, Software Testing Tips, in which he shared his experiences and vision about various software testing issues. Later-wards in 2015, he published his second book, Mobile Testing Tips, where he addressed many important areas as: Mobile Testing Techniques, Mobile Testing Tools, Mobile Test Automation and Mobile Performance Testing.\nCurrently, he is the managing partner of Keytorc Software Testing Services, where he holds the responsibilities of delivering test consultancy, outsourced test management, and software testing training (including accredited ISTQB trainings)."
-  thumbnailUrl: BarisSarialioglu.jpg
-  rockstar: true
-  social: 
-    - {icon: "linkedin", link: "https://www.linkedin.com/in/barissarialioglu/"}
-- 
-  id: 3
-  name: "Alexandra"
-  surname: "Schladebeck"
-  company: "BREDEX GmbH"
-  title: "Head of Software Quality and Test Consulting"
-  shortBio: "Alex is an outgoing and passionate team leader, consultant, software tester and product owner. Communicating with people is her main focus."
-  bio: "Alex is an outgoing and passionate team leader, consultant, software tester and product owner. Communicating with people is her main focus – something she is fortunate to do frequently in her role as Head of Software Quality and Test Consulting at BREDEX GmbH. Alex comes from a background in language and linguistics, and has been working in IT since 2005. She spends her time coaching testers and developers, consulting customers and helping development teams to improve their quality. She loves working in agile processes, talking about testing and quality, and encouraging communication magic to happen. She no longer describes herself as non-technical, but she still sees her role as translating between different groups of people in IT. You'll usually find Alex talking about quality and how it affects the whole development process, or about her life goal to make testing more appreciated! She's also a frequent speaker at conferences where she likes to share her project experiences and learn from other practitioners."
-  thumbnailUrl: AlexandraSchladebeck.jpg
+  id: 8
+  name: "Johan"
+  surname: "Steyn"
+  company: "Special Interest Group - Artificial Intelligence (IITPSA)"
+  title: "Chair"
+  #shortBio: "Johan is a business development specialist who has been selling technology products and services in South Africa and Europe over the last 20 years."
+  bio: "Johan is a business development specialist who has been selling technology products and services in South Africa and Europe over the last 20 years. During the last decade, his focus turned to the Software Quality Assurance and Testing market. He worked in senior roles for global consulting firms and is currently working at Nedbank as Senior Manager: Enterprise Quality Assurance. For more info see his website: <a href='https://www.thebusinessoftesting.com'>www.thebusinessoftesting.com</a> or on Twitter: <a href='https://twitter.com/tboftesting'>@tboftesting</a>"
+  thumbnailUrl: JohanSteyn.jpg
   rockstar: true
   social:
-    - {icon: "linkedin", link: "https://www.linkedin.com/in/alexandraschladebeck/"}
-
-- 
-  id: 4
-  name: "Damien"
-  surname: "Walsh"
-  company: "SmartBear"
-  title: "Manager, Technical Sales Engineer"
-  shortBio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ."
-  bio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ. Today Damien is responsible for SmartBear’s technology strategy across its International markets. Having seen how software development and testing has evolved from supporting IT infrastructures, to driving competitive strategies and ultimately to redefining business models, Damien brings his thoughts to an every changing testing world."
-  thumbnailUrl: DamienWalsh.jpg
-  rockstar: true
-  social:
-    - {icon: "linkedin", link: "https://www.linkedin.com/in/damien-walsh-3754176"}
-
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/johanosteyn/"}
+    - {icon: "twitter", link: "https://twitter.com/tboftesting"}
+    - {icon: "site", link: "https://www.thebusinessoftesting.com"}
 - 
   id: 5
   name: "Olivier"
   surname: "Denoo"
   company: "ps_testware SAS"
   title: "VP"
-  shortBio: "For 20 years he is an international speaker who spoke at Test-IT Africa; SQA-days; BA-days; JFIE; TestWarez; ReQuest, SEETEST; STF; Iqnite; JFTL; JMTL; JTTL; Analyst-days; Quality Week; Eurostar; Dasia…"
+  #shortBio: ""
   bio: "Olivier is the VP of ps_testware SAS, the French subsidiary of ps_testware group. His role is to develop business, recruit the local expert team, build sustainable partnerships, promote software testing and ps_testware. He is also involved in auditing test projects and organizations and provides high-level consultancy and support. Olivier is the President of the CFTL - the French ISTQB Board and also currently is the Governance Officer of the ISTQB. For 20 years he is an international speaker who spoke at Test-IT Africa; SQA-days; BA-days; JFIE; TestWarez; ReQuest, SEETEST; STF; Iqnite; JFTL; JMTL; JTTL; Analyst-days; Quality Week; Eurostar; Dasia… He's also actively participating in the development of new certification schemes, like IQBBA (Business Analysis), IREB (requirements engineering), IBUQ (usability) or more recently the '7 skills for effective teams' (soft skills and team organization)."
   thumbnailUrl: OlivierDenoo.jpg
   rockstar: true
   social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/olivier-denoo-2884a5/"}
     - {icon: "email", link: "mailto:olivier.denoo@pstestware.com"}
     - {icon: "site", link: "http://www.olivier-denoo.net/"}
-  
--
-  id: 8
-  name: "Em"
-  surname: "Atualização"
-  #company: "Noesis"
-  #title: "QM Manager"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
+- 
+  id: 7
+  name: "Patrícia"
+  surname: "Alves"
+  company: "PSTQB – Associação Portuguesa de Testes de Software"
+  title: "Vice Presidente"
+  #shortBio: "Has 10 years in Software Testing, 2 years leading teams in Switzerland and since 2014 leading Siemens Global Test Center."
+  bio: "Patricia Alves, co-founded PSTQB – Associação Portuguesa de Testes de Software in 2010. Currently with the role of Vice President of PSTQB - Portuguese board for ISTQB.  At ISTQB community she is part of Exam Working Group since 2010 and she is also Advanced Level ITP Examiner for an European board. With 20 years of IT experience, 17 of them in Software Testing and Team Management. From their professional experience in IT we remark 10 years in Software Testing within consultancy arena as Business Unit Manager, 2 years leading teams in Switzerland as freelancer and since 2014 leading Siemens Global Test Center from Lisbon."
+  thumbnailUrl: PatriciaAlves.jpg
   rockstar: false
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
+
+
 - 
   id: 9
   name: "Em"

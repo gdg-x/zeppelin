@@ -34,8 +34,13 @@
 
 -
   id: 005
-  title: "Keynote Speaker 1"
-  descriptions: [""]
+  title: "Whole team quality – in the same boat or up the creek?"
+  descriptions: ["
+  <p>Those three little words. No, not those three, the other three:</p>
+  <p>“<strong>Whole Team Quality</strong>.”</p>
+  <p>We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?</p>
+  <p>In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality.</p>
+"]
   subtype: keynote
   speakers: [3]
   language: en
@@ -84,10 +89,14 @@
   language: en
 -
   id: 008
-  title: "Keynote Speaker 4"
-  descriptions: [""]
+  title: "Artificial Intelligence: The Future of Testing Software"
+  descriptions: ["
+  <p><strong>Abstract:<strong></p>
+  <p>Adopting Artificial Intelligence in testing is a must for organisations. Their survival in the medium term relies on this. But many organisations have a low maturity in managing the quality of their software applications. Faced with arbitrary test data and with many still embarking on the journey to shift left with test automation, very few have the faintest idea where to start.</p>
+  <p>What do we do with all the hype around Artificial Intelligence? Which of the myriad voices and doomsayers do we believe? How do we determine which of the vendors pitching their offerings can be trusted? What are the first steps to take to embark on a successful Artificial Intelligence journey?</p>
+  "]
   subtype: keynote
-  speakers: []
+  speakers: [8]
   language: en
 -
   id: 009
@@ -195,7 +204,8 @@
   "<ul><li>Communicating the value and role of testing</li>",
   "<li>Testers as the communication glue for various stakeholders and within the team: talking about testing, risk and quality at the right level for the right audience</li>",
   "<li>Enablement: Teaching, coaching, coercing and encouraging others within the team to take on quality-related tasks and to support the value of the product through testing</li>",
-  "<li>What testers and other team members can do together, resulting in better and more efficient results</li></ul>"]
+  "<li>What testers and other team members can do together, resulting in better and more efficient results</li></ul>",
+  "The workshop will focus on hands-on exercises and activities."]
   speakers: [3]
   soldout: true
   subtype: workshop
