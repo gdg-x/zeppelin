@@ -49,12 +49,13 @@
 
 - 
   id: 4
-  name: "Em"
-  surname: "Atualização"
-  #company: "Granlund Oy"
-  #title: "Testing specialist"
-  #bio: 'Maaret Pyhäjärvi is a software specialist with emphasis on testing. She works with a 10-person software development team at Granlund Oy as the testing specialist. On the side, she delivers hands-on testing trainings and consults on testing through Altom Consulting Oy. In addition to being an exploratory tester extraordinaire who teaches testing effectively in a mob testing format, she is an international conference speaker and an experienced organizer, facilitator and volunteer with various non-profit communities (Agile Finland, Software Testing Finland, Learn with Llew, Speak Easy, European Testing Conference) and book author, blogger and tweeter.'
-  thumbnailUrl: default.png
+  name: "Damien"
+  surname: "Walsh"
+  company: "SmartBear"
+  title: "Manager, Technical Sales Engineer"
+  shortBio: "Damien is an software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ."
+  bio: 'Damien is an software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ. Today Damien is responsible for SmartBear’s technology strategy across it’s International markets. Having seen how software development and testing has evolved from supporting IT infrastructures, to driving competitive strategies and ultimately to redefining business models, Damien brings his thoughts to an every changing testing world.'
+  thumbnailUrl: DamienWalsh.jpg
   rockstar: false
 - 
   id: 5
