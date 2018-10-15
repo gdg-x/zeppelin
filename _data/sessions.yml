@@ -37,21 +37,50 @@
   title: "Keynote Speaker 1"
   descriptions: [""]
   subtype: keynote
-  speakers: []
+  speakers: [3]
   language: en
 -
   id: 006
-  title: "Keynote Speaker 2"
-  descriptions: [""]
+  title: "7 skills to drive a successful team"
+  descriptions: ["
+  <ul>
+  <li>Are you working in Agile mode and facing problems on how to align your team?</li>
+  <li>Are you missing soft skills and communication training to help you support your hard skills?</li>
+  <li>Do you think hard skills are necessary but not making it all?</li>
+  <li>Are you involved in business analysis, quality?</li>
+  <li>Are you a team leader, a manager, a product owner, a project leader?</li>
+  <li>Do you think projects and products are made by people?</li>
+  <li>Do you think projects and products are made for people?</li>
+  <li>Do you think company culture, values, emotions need to be taken care of?</li>
+  <li>Do you think it is sometimes hard to explain oneself, sell the idea to others, get listened to?</li>
+  <li>Do you fear to develop the wrong product, unusable functionality?</li>
+  <li>Do you think that stories and packaging are sometimes as valuable as contents when it comes to tell/sell?</li>
+  <li>Do you get a hard time when it comes to innovate, find and develop ideas?</li>
+  <li>Do you fear to miss what your users really want? Do you feel hard to get a grip on them?</li>
+  </ul>
+  <p>If you answered <strong>YES for at least two of those questions, this short presentation is for you</strong>.</p>
+  <p>It is a 40 minutes eye opener supporting a whole model and concept developed for more than on year by 4 successful professionals in IT, Testing, BA, Requirements engineering, usability and psychology. This is a no-nonsense approach based on renowned approaches and standards, aiming at helping you within you project/product/service development journey. Let’s 7 skills and succeed together, as a team.</p>"]
   subtype: keynote
-  speakers: []
+  speakers: [5]
   language: en
 -
   id: 007
-  title: "Keynote Speaker 3"
-  descriptions: [""]
+  title: "End-to-end testing: The Top Down approach"
+  descriptions: ["
+<p><strong>Abstract</strong>: I have talked to many people for all walks of life, some have specific testing requirements like web or mobile, others want to have that extra little feature where they can say WOW it does that. I have talked about, heard stories and help address issues with testing applications. Whether we are doing it now or not, end-to-end testing is something we all should be doing especially in the day and age of more and more systems becoming integrated.</p>
+
+<p>In this discussion I will talk about:</p>
+<ul>
+<li>What is end-to-end testing
+<li>Who is doing end-to-end testing and why
+<li>Stories from the fire-side
+<li>Common Mistakes
+</ul>
+<p>The audience should come out of the session knowing a little more about why they would do end-to-end testing and how we can learn from others mistakes as we become more involved in the bigger picture rather than just siloed into function UI testing or backend API testing.</p>
+
+<p>Join me for a journey with some bumps and corners along the way but at the end of it we should be all on the straight road to a successful testing environment.</p>"]
   subtype: keynote
-  speakers: []
+  speakers: [4]
   language: en
 -
   id: 008
@@ -93,7 +122,7 @@
   title: "Keynote Speaker 5"
   descriptions: [""]
   subtype: "keynote"
-  speakers: []
+  speakers: [2]
   language: en
 -
   id: 020

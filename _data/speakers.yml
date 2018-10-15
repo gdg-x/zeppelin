@@ -53,10 +53,13 @@
   surname: "Walsh"
   company: "SmartBear"
   title: "Manager, Technical Sales Engineer"
-  shortBio: "Damien is an software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ."
-  bio: 'Damien is an software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ. Today Damien is responsible for SmartBear’s technology strategy across it’s International markets. Having seen how software development and testing has evolved from supporting IT infrastructures, to driving competitive strategies and ultimately to redefining business models, Damien brings his thoughts to an every changing testing world.'
+  shortBio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ."
+  bio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ. Today Damien is responsible for SmartBear’s technology strategy across its International markets. Having seen how software development and testing has evolved from supporting IT infrastructures, to driving competitive strategies and ultimately to redefining business models, Damien brings his thoughts to an every changing testing world."
   thumbnailUrl: DamienWalsh.jpg
-  rockstar: false
+  rockstar: true
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/damien-walsh-3754176"}
+
 - 
   id: 5
   name: "Olivier"
@@ -64,9 +67,13 @@
   company: "ps_testware SAS"
   title: "VP"
   shortBio: "For 20 years he is an international speaker who spoke at Test-IT Africa; SQA-days; BA-days; JFIE; TestWarez; ReQuest, SEETEST; STF; Iqnite; JFTL; JMTL; JTTL; Analyst-days; Quality Week; Eurostar; Dasia…"
-  bio: "Olivier is the VP of ps_testware SAS, the French subsidiary of ps_testware group. His role is to develop business, recruit the local expert team, build sustainable partnerships, promote software testing and ps_testware. He is also involved in auditing test projects and organizations and provides high-level consultancy and support. Olivier is the President of the CFTL - the French ISTQB Board and also currently is the Governance Officer of the ISTQB. For 20 years he is an international speaker who spoke at Test-IT Africa; SQA-days; BA-days; JFIE; TestWarez; ReQuest, SEETEST; STF; Iqnite; JFTL; JMTL; JTTL; Analyst-days; Quality Week; Eurostar; Dasia… He's also actively participating in the development of new certification schemes, like IQBBA (Business Analysis), IREB (requirements engineering), IBUQ (usability) or more recently the "7 skills for effective teams" (soft skills and team organization)."
+  bio: "Olivier is the VP of ps_testware SAS, the French subsidiary of ps_testware group. His role is to develop business, recruit the local expert team, build sustainable partnerships, promote software testing and ps_testware. He is also involved in auditing test projects and organizations and provides high-level consultancy and support. Olivier is the President of the CFTL - the French ISTQB Board and also currently is the Governance Officer of the ISTQB. For 20 years he is an international speaker who spoke at Test-IT Africa; SQA-days; BA-days; JFIE; TestWarez; ReQuest, SEETEST; STF; Iqnite; JFTL; JMTL; JTTL; Analyst-days; Quality Week; Eurostar; Dasia… He's also actively participating in the development of new certification schemes, like IQBBA (Business Analysis), IREB (requirements engineering), IBUQ (usability) or more recently the '7 skills for effective teams' (soft skills and team organization)."
   thumbnailUrl: OlivierDenoo.jpg
-  rockstar: false
+  rockstar: true
+  social:
+    - {icon: "email", link: "mailto:olivier.denoo@pstestware.com"}
+    - {icon: "site", link: "http://www.olivier-denoo.net/"}
+  
 -
   id: 8
   name: "Em"
