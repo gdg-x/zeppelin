@@ -19,6 +19,8 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+mapsApiKey: "AIzaSyD_zDPwT6ZNrgDSLoVke3vML8KPc8QXUOY"
+
 
 # Organizer Info
 organizerName: "GDG Floripa"
@@ -46,7 +48,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -87,28 +88,28 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "Localização"
+eventLocationName: "Softplan"
+eventLocationLink: "https://www.softplan.com.br/"
+eventStreetAddress: "Av. Luiz Boiteux Piazza, 1302"
+eventAddressLocality: "Florianópolis"
+eventAddressLocalityRegion: "Santa Catarina"
+eventPostalCode: "88056-000"
+eventAddressCountry: "Brasil"
+eventStartTime: "2018-12-08T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2018-12-08T18:00"
+eventPlaceCoordinates: "-27.431612, -48.442021"
+mapCenterCoordinates: "-27.431612, -48.442021"
+mapMobileCenterCoordinates: "-27.431612, -48.442021"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Local"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Softplan"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
