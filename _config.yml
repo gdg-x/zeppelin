@@ -43,11 +43,11 @@ navigationLinks:
  - {permalink: "/course/", text: "Formação"}
 
 bottomNavigationLinks:
- - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
+ - {permalink: "/call-for-speakers/", text: "Call For Speakers (closed)", disabled: true}
  - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i> WhatsApp"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Comprar bilhetes"}
- - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
+ - {permalink: "/call-for-speakers/", text: "Call For Speakers (closed)", disabled: true}
  - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i>"}
 
 
@@ -67,7 +67,7 @@ eventDate: "21 de novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
 typeoutFallback: "Portugal"
 heroButtons:
- - {permalink: "/call-for-speakers/", text: "Call For Speakers"}
+ - {permalink: "/call-for-speakers/", text: "Call For Speakers (closed)", disabled: true}
  - {permalink: "/#tickets", text: "Comprar bilhetes"}
 
 # About Block
