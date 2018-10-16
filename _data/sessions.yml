@@ -37,7 +37,7 @@
   title: "Whole team quality – in the same boat or up the creek?"
   descriptions: ["
   <p>Those three little words. No, not those three, the other three:</p>
-  <p>“<strong>Whole Team Quality</strong>.”</p>
+  <p>“<strong>Whole Team Quality!</strong>”</p>
   <p>We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?</p>
   <p>In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality.</p>
 "]
@@ -70,20 +70,19 @@
   language: en
 -
   id: 007
-  title: "End-to-end testing: The Top Down approach"
+  title: "DevOps: A Future Proof to Testing"
   descriptions: ["
-<p><strong>Abstract</strong>: I have talked to many people for all walks of life, some have specific testing requirements like web or mobile, others want to have that extra little feature where they can say WOW it does that. I have talked about, heard stories and help address issues with testing applications. Whether we are doing it now or not, end-to-end testing is something we all should be doing especially in the day and age of more and more systems becoming integrated.</p>
-
-<p>In this discussion I will talk about:</p>
+<p><strong>Abstract:</strong>
+<p>“<strong>The art of simplicity is a puzzle of complexity.</strong>”</p>
+<p>This is how I see testing going with the advancements in testing where we will in the near future see more and more AI driven testing incorporated into a DevOps environment.</p>
+<p>We will discuss:
 <ul>
-<li>What is end-to-end testing
-<li>Who is doing end-to-end testing and why
-<li>Stories from the fire-side
-<li>Common Mistakes
-</ul>
-<p>The audience should come out of the session knowing a little more about why they would do end-to-end testing and how we can learn from others mistakes as we become more involved in the bigger picture rather than just siloed into function UI testing or backend API testing.</p>
-
-<p>Join me for a journey with some bumps and corners along the way but at the end of it we should be all on the straight road to a successful testing environment.</p>"]
+  <li>The World of DevOps</li>
+  <li>6 steps in DevOps</li>
+  <li>Making the Cultural Transition to DevOps</li>
+  <li>DevOps and where the future lies AI style</li>
+</ul></p>
+"]
   subtype: keynote
   speakers: [4]
   language: en

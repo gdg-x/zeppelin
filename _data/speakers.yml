@@ -30,7 +30,7 @@
   surname: "Walsh"
   company: "SmartBear"
   title: "Manager, Technical Sales Engineer"
-  #shortBio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ."
+  shortBio: "'The art of simplicity is a puzzle of complexity.'"
   bio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ. Today Damien is responsible for SmartBear’s technology strategy across its International markets. Having seen how software development and testing has evolved from supporting IT infrastructures, to driving competitive strategies and ultimately to redefining business models, Damien brings his thoughts to an every changing testing world."
   thumbnailUrl: DamienWalsh.jpg
   rockstar: true
@@ -64,6 +64,7 @@
     - {icon: "linkedin", link: "https://www.linkedin.com/in/johanosteyn/"}
     - {icon: "twitter", link: "https://twitter.com/tboftesting"}
     - {icon: "site", link: "https://www.thebusinessoftesting.com"}
+
 - 
   id: 5
   name: "Olivier"
@@ -78,6 +79,7 @@
     - {icon: "linkedin", link: "https://www.linkedin.com/in/olivier-denoo-2884a5/"}
     - {icon: "email", link: "mailto:olivier.denoo@pstestware.com"}
     - {icon: "site", link: "http://www.olivier-denoo.net/"}
+
 - 
   id: 7
   name: "Patrícia"
@@ -91,7 +93,6 @@
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
 
-
 - 
   id: 9
   name: "Em"
@@ -101,6 +102,7 @@
   #bio: "Lorem Ipsum."
   thumbnailUrl: default.png
   rockstar: false
+
 - 
   id: 10
   name: "Em"
@@ -110,6 +112,7 @@
   #bio: "Lorem Ipsum."
   thumbnailUrl: default.png
   rockstar: false
+
 - 
   id: 11
   name: "Em"
@@ -119,12 +122,43 @@
   #bio: "Lorem Ipsum."
   thumbnailUrl: default.png
   rockstar: false
+
 - 
   id: 12
   name: "Em"
   surname: "Atualização"
   #company: "WinTrust"
   #title: "Managing Partner"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: default.png
+  rockstar: false
+
+- 
+  id: 13
+  name: "Em"
+  surname: "Atualização"
+  #company: "Company"
+  #title: "Title"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: default.png
+  rockstar: false
+
+- 
+  id: 14
+  name: "Em"
+  surname: "Atualização"
+  #company: "Company"
+  #title: "Title"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: default.png
+  rockstar: false
+
+- 
+  id: 15
+  name: "Em"
+  surname: "Atualização"
+  #company: "Company"
+  #title: "Title"
   #bio: "Lorem Ipsum."
   thumbnailUrl: default.png
   rockstar: false
