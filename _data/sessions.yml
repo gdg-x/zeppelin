@@ -37,7 +37,7 @@
   title: "Whole team quality – in the same boat or up the creek?"
   descriptions: ["
   <p>Those three little words. No, not those three, the other three:</p>
-  <p>“<strong>Whole Team Quality</strong>.”</p>
+  <p>“<strong>Whole Team Quality!</strong>”</p>
   <p>We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?</p>
   <p>In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality.</p>
 "]
@@ -72,7 +72,16 @@
   id: 007
   title: "DevOps: A Future Proof to Testing"
   descriptions: ["
-<p><strong>Abstract</strong>: Software quality is the backbone of any successful application, but too often takes the backseat to delivering on time. In this session, the audience will get an insight into the cultural transition of DevOps, what the benefits are and how to deploy.</p>
+<p><strong>Abstract:</strong>
+<p>“<strong>The art of simplicity is a puzzle of complexity.</strong>”</p>
+<p>This is how I see testing going with the advancements in testing where we will in the near future see more and more AI driven testing incorporated into a DevOps environment.</p>
+<p>We will discuss:
+<ul>
+  <li>The World of DevOps</li>
+  <li>6 steps in DevOps</li>
+  <li>Making the Cultural Transition to DevOps</li>
+  <li>DevOps and where the future lies AI style</li>
+</ul></p>
 "]
   subtype: keynote
   speakers: [4]
