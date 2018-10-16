@@ -30,7 +30,7 @@
   surname: "Walsh"
   company: "SmartBear"
   title: "Manager, Technical Sales Engineer"
-  #shortBio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ."
+  shortBio: "'The art of simplicity is a puzzle of complexity.'"
   bio: "Damien is a software industry veteran of twenty years who has played key roles within large enterprise software companies throughout EMEA, APAC and ANZ. Today Damien is responsible for SmartBear’s technology strategy across its International markets. Having seen how software development and testing has evolved from supporting IT infrastructures, to driving competitive strategies and ultimately to redefining business models, Damien brings his thoughts to an every changing testing world."
   thumbnailUrl: DamienWalsh.jpg
   rockstar: true
