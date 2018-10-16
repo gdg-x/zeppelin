@@ -14,7 +14,7 @@ title: "Testing Portugal 2018"
 email: "testingportugal@pstqb.pt"
 description: "Testing Portugal é uma conferência anual sobre testes de software"
 baseurl: ""
-url: "https://pstqb.github.io"
+url: "https://testingportugal.pstqb.pt"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-116477690-1" #updated
 googleAnalyticsSiteUrl: "ineeve.github.io"
@@ -29,9 +29,7 @@ organizerEmail: "testingportugal@pstqb.pt"
 # Head
 metaKeywords: "event, tests, software, programming, developers, automation, conference"
 twitterAccount: "@PSTQB"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImage: "/img/seo/sharing.png"
 
 
 # Navigation
