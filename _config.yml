@@ -125,8 +125,9 @@ venueImages: ["venue_0.jpg","venue_1.jpg","venue_2.jpg","venue_3.jpg","venue_4.j
 
 # Partners Block
 organizersTitle: "Organização"
-partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: "Como Patrocinar a Conferência?"
+sponsorsTitle: "Patrocinadores"
+partnersTitle: "Parceiros"
+sponsorsC4sponsorsButton: "Como Patrocinar a Conferência?"
 c4sponsorsUrl: "/assets/CadernoPT_V8.pdf"
 
 # Tickets Block

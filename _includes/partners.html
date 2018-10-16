@@ -7,35 +7,49 @@
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                <li {% if element.width !=null %}style="width: {{ element.width }};" {% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}"
+                            alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
             </ul>
             {% endfor %}
-            <h3>{{ site.partnersTitle }}</h3>
-            {% for partner in site.data.partners %}
-            <h4>{{ partner.group }}</h4>
+            <h3>{{ site.sponsorsTitle }}</h3>
+            {% for sponsor in site.data.sponsors %}
+            <h4>{{ sponsor.group }}</h4>
             <ul class="flex-list">
-                {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                {% for element in sponsor.elements %}
+                <li {% if element.width !=null %}style="width: {{ element.width }};" {% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}"
+                            alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
             </ul>
-            {% if partner.group == "Gold" %}
+            {% if sponsor.group == "Gold" %}
             <ul class="list-inline">
                 <li>Em Atualização</li>
             </ul>
             {% endif %}
             {% endfor %}
-            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.partnersC4sponsorsButton }}</a>
+            <h3>{{ site.partnersTitle }}</h3>
+            <ul class="flex-list">
+                {{site.data.partners.elements.length}}
+                {% for element in site.data.partners %}
+                <li {% if element.width !=null %}style="width: {{ element.width }};" {% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}"
+                            alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float"
+                target="_blank">{{ site.sponsorsC4sponsorsButton }}</a>
         </div>
-    </div> 
+    </div>
 </section>
 <!-- End Partners Section -->
-
