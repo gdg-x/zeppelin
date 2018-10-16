@@ -61,7 +61,7 @@ hotelThumbnails:
   - {src: "AltisGrand_05.jpg"}
 
 # Hero Block
-heroImage: "hero-test-2.png"
+heroImage: "hero-test.png"
 heroTitle: "Testing <typeout> 2018"
 eventDate: "21 de novembro de 2018"
 typeoutTextValues: '"", "Portugal", "Software"'
