@@ -242,7 +242,7 @@
   "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
   ]
   subtype: workshop
-  warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
+  warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de uma das Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
   speakers: [2]
   place: Coimbra
   language: en
@@ -268,7 +268,7 @@
   "<strong>Intended Audience</strong>:",
   "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
   ]
-  warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de um dos Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
+  warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de uma das Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
   subtype: workshop
   speakers: [2]
   place: Porto

@@ -80,7 +80,7 @@ aboutBlock:
  - {title: "Workshops", image: "workshop.jpg",
       text: ["Workshops dados por líderes mundiais na área de testes de software!",
              "As workshops em Lisboa já estão esgotadas, mas ainda há vagas para as workshops de Coimbra e Porto!",
-            "<strong><a href='/workshops/' | prepend: baseurl >Confira os workshops!</a></strong>"] }
+            "<strong><a href='/workshops/' | prepend: baseurl >Confira as workshops!</a></strong>"] }
  - {title: "Formação", image: "course.png",
       text: ["Na semana anterior à conferência não perca o curso ISTQB escolhido e com um valor promocional da PSTQB (com exame).",
              "Este ano, vamos realizar o curso ISTQB Advanced Test Manager que estende a compreensão sobre testes de software adquirida no Foundation de modo a permitir a execução das funções de um Test Manager.",
