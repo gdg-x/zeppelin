@@ -1,60 +1,141 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Ian"
+  surname: "Pestelos"
+  title: "Program Manager"
+  thumbnailUrl: IanPestelos.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+  #  - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+  #  - {name: "github", link: "https://github.com/zasadnyy"}
+  #  - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Rabby"
+  surname: "Calicdan"
+  title: "Communications and Program Committee"
+  thumbnailUrl: rabbyCalicdan2.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+  #  - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Derick"
+  surname: "Mag-Isa"
+  title: "Communications and Program Committee"
+  thumbnailUrl: derickMagIsa.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+  #  - {name: "twitter", link: "https://twitter.com/p1f"}
+  #  - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 3
+  name: "Kim"
+  surname: "Deloria"
+  title: "Communications Manager"
+  thumbnailUrl: kimDeloria.jpg
+  team: true
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+  #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "Michelle"
+  surname: "Lagare"
+  title: "Program Committee"
+  thumbnailUrl: michelleLagare2.jpg
+  team: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 5
+  name: "Mc"
+  surname: "Gagan"
+  title: "Designer and Web Consultant"
+  thumbnailUrl: mcGagan.jpg
+  team: true
+  social:
+    - {name: "github", link: "https://github.com/magagan"}
+    - {name: "site", link: "https://www.mcaurielgagan.com"}
+    - {name: "linkedin", link: "www.linkedin.com/in/mc-auriel-gagan"}
+-
+  id: 6
+  name: "Kevin"
+  surname: "Badilla"
+  title: "Designer and Program Consultant"
+  thumbnailUrl: kevinBadilla.jpg
+  team: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Len"
+  surname: "Canlas"
+  title: "Program Committee"
+  thumbnailUrl: lenCanlas.jpg
+  team: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 8
+  name: "Lady Rose"
+  surname: "Cruz"
+  title: "Registration Team Officer"
+  thumbnailUrl: ladyRoseCruz.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Ara"
+  surname: "Abina"
+  title: "General Ops Officer"
+  thumbnailUrl: araAbina.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 10
+  name: "Karlo"
+  surname: "Bitao"
+  title: "General Ops Officer"
+  thumbnailUrl: karloBitao.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 11
+  name: "Patrick"
+  surname: "Tongson"
+  title: "General Ops Officer"
+  thumbnailUrl: patTongson.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 12
+  name: "Karla"
+  surname: "Emaden"
+  title: "Host"
+  thumbnailUrl: karlaEmaden.jpg
+  subTeam: true
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}

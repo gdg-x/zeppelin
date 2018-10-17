@@ -1,67 +1,157 @@
-- 
+-
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Hector"
+  surname: "Hernandez"
+  company: "Willis Towers Watson"
+  title: "Test Solution Architect"
+  bio: "<p align=\"justify\">Test Solutions Architect responsible for the design, construction, implementation and maintenance of testing frameworks. I also work as a Performance Test Engineer and is in-charge of creating, maintaining and monitoring load and performance tests (LPT) for web applications."
+  thumbnailUrl: HectorHernandez.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Nyker Matthew"
+  surname: "King"
+  company: "Altus Digital Capital"
+  title: "Quality Engineer Manager"
+  bio: "<p align=\"justify\">Nyker Matthew King is currently a Quality Engineer Manager in Altus Digital Capital and a former Senior Quality Engineer in Voyager Innovations, Inc. Nyker has an extensive technical expertise in both automated and manual testing using various tools and technologies. He is a seasoned tester in both black-box and grey-box testing of web, REST API, Android, iOS, Augmented Reality applications. He enjoys rediscovering known technologies and sews them to form innovative technologies which he shares among his fellow software engineers. He is known for specializing in Robot Framework, conducting Proof of Concept activities, and eating tons of free food."
+  thumbnailUrl: NykerMatthewKing.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+  #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Ian"
+  surname: "Pestelos"
+  company: "ING"
+  title: "Head of Agile COE-GSO "
+  bio: "<p align=\"justify\">Ian leads the agile center of expertise for one of the top international banks. He also facilitates workshops and consults on agile management, change strategies, and software quality through his company, Agility.ph.
+        <br><br>
+        Ian is co-founder of Software Testing Philippines, board member of UX Philippines, and technical council member of Philippine Software Industry Association. He holds Master of Technology Management from University of the Philippines, and has spoken at conferences in Singapore, Vietnam, Indonesia, and The Philippines."
+  thumbnailUrl: IanPestelos.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+  #ribbon:
+  #  - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+  #  - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "BJ Edward"
+  surname: "Taduran"
+  company: "Voyager Innovations, Inc."
+  title: "Lead Information Security Officer"
+  bio: "<p align=\"justify\">BJ Taduran, or most commonly known as Bujo, is a CompTIA and PCI SSC certified information security professional.
+                             He had a 12-year career as a programmer and most of those years he was the team lead of agile development teams.
+                             As an information security professional, he used to re-test and verify vulnerability findings of bounty hunters.
+                             He has a fair share of finding hackable parts of software and fixing them. Now he is leading the security team of one of the top digital financial products in the country, PayMaya. He aspires to, later on, contribute to securing our government systems."
+  thumbnailUrl: bjTaduran.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+  #  - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "James Marvin"
+  surname: "Yu"
+  company: "Willis Towers Watson"
+  title: "Test Solution Architect"
+  bio: "<p align=\"justify\">James is currently a Test Solution Architect at Willis Towers Watson. His responsibilities include providing technical leadership for the overall automation strategy and automation frameworks of the HR Portal global product development team.
+                             <br><br>
+                             James was a former Software Engineer / Technical Lead and his work experience comprise of providing support and project development work for different areas such as finance, consumer research, global business planning, SharePoint implementation, product supply and forecast, business intelligence, and desktop applications. He led a virtual team providing global support for global travel and expense accounting and purchasing card solutions, acted as a project developer and technical resource for major projects, led CAB meetings with the business/IT, and conducted joint technical integration efforts with other IT functions."
+  thumbnailUrl: jameMarvinYu.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 8
+  name: "Jerry"
+  surname: "Durant"
+  company: "3rdLAW International"
+  title: "Chairman & Founder"
+  bio: "<p align=\"justify\">For four decades Jerry has been instrumental in shaping and advancing professional engineering enterprises at the international level.  He started his career in software and test engineering that has evolved into the development of venture enterprises in outsourcing services and serial innovation based venter enterprises.  Jerry is both degreed and certified, has lectured in over 90 nations and is regularly published in a variety of publications.  To his credit he authored both the Testing Tools Reference Guide and the Impact Sourcing Implementation Guide which was commissioned by the Rockefeller Foundation (Bellagio, IT).  He is presently working on his next book \"The Art of Play\"."
+  thumbnailUrl: jerryDurant.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Kath"
+  surname: "Rollo"
+  company: "Cambridge University Press - Manila"
+  title: "Test Analyst"
+  bio: "<p align=\"justify\">An agile practitioner, I am mainly a Java developer specializing in test automation using Selenium, Cucumber, JUnit, and TestNG. I published my first article in the LinkedIn Publishing platform to begin a series of technical articles for software testing."
+  thumbnailUrl: katherineRollo.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 10
+  name: "Syam"
+  surname: "Sasi"
+  company: "Carousell PVT LTD Singapore"
+  title: "QA Engineer"
+  bio: "<p align=\"justify\">Syam Sasi is a Quality Assurance Engineer at Carousell, Singapore. He is the founder of Singapore Appium meetup. He has created the Relative XPath Helper chrome extension which has more than 10000 users.  Syam has implemented various test strategies and architected automated test suites for mobile, web and hybrid applications."
+  thumbnailUrl: syamSasi.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 11
+  name: "Kevin"
+  surname: "Badilla"
+  company: "MonstarLab Philippines"
+  title: "Quality Assurance Manager"
+  bio: "<p align=\"justify\">Kevin leads the growing QA group of Monstar Lab Philippines. As a testing practitioner, he's involved in different industries like Airline, Relocation, Manufacturing, and on-demand services from local and international clients.
+                             <br><br>
+                             He’s also a member of the Core Group of Software Testing Philippines. In the recent Testathon PH 2018 event, he bagged the awards \"Best QA: Runner Up\" and \"Best QA Team\"."
+  thumbnailUrl: kevinBadilla.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 12
+  name: "Michaelangelo"
+  surname: "Dela Cruz"
+  company: "NuWorks Interactive Labs, Inc."
+  title: "QA Team Lead"
+  bio: "<p align=\"justify\">I am currently a QA Team Lead at NuWorks Interactive Labs, Inc. My responsibilities include identifying team objectives and managing team members and improving individual performance development through coaching and mentoring. I also work on improving quality assurance process and implementing new tools, methodologies and quality assurance innovations. I started the automation testing in NuWorks using Robot Framework and load and performance testing using JMeter."
+  thumbnailUrl: michaelAngeloDelaCruz.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
+  id: 99
+  name: "TBD"
+  surname: "TBD"
+  company: "TBD"
+  title: "TBD"
+  bio: "<p align=\"justify\">TBD"
+  thumbnailUrl: dummy-male.jpg
+  rockstar: false
+  #social:
+  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

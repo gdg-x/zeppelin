@@ -1,4 +1,12 @@
 -
+  id: 999
+  title: "TBD"
+  description: "<p align=\"justify\">TBD"
+  subtype: presentation
+  speakers: [99]
+  language: en
+  complexity: "Intermediate"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
@@ -6,54 +14,145 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch Break + Ice Breaker"
   place: "Dining room"
+  service: false
+-
+  id: 504
+  title: "Ice Breaker"
+  place: "Plenary Hall"
+  service: true
+-
+  id: 505
+  title: "Introduction and STP Core Group"
+  place: "Plenary Hall"
+  service: true
+  description: "Karla Emaden and Rabby Calicdan"
+-
+  id: 506
+  title: "Willis Towers Watson"
+  place: "Plenary Hall"
+  service: true
+-
+  id: 507
+  title: "Keynote"
+  place: "Plenary Hall"
+  service: true
+-
+  id: 500
+  title: "Room Transition"
+  place: "Plenary Hall"
+  service: true
+  description: "The best time to think what talk are you most interested."
+-
+  id: 508
+  title: "Raffles and Closing Remarks"
+  place: "Plenary Hall"
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Effective and Efficient Load and Performance Testing"
+  description: "<p align=\"justify\">To often load and performance testing for our application is put aside up till the last minute wherein issues are now harder and more expensive to fix. In this talk, I will go through the process my team implements to catch performance issues as early as possible."
   subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [3]
+  #language: en
+  #complexity: "Intermediate"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Scavenging the Mailbox: Automating Email Verifications"
+  description: "<p align=\"justify\">Test automation engineers have encountered numerous headaches in dealing with testing email verifications.
+                <br><br>
+                Some test automation engineers have been caught in snare where they tackled the problem using email retrieval via REST APIs like Mailosaur and GMail. However, this approach made the automation engineers dependent on the webmail provider. Furthermore, if the APIs of these webmail providers change, though very seldom, automation engineers need to adjust their scripts. Moreover, usage of Mailosaur API comes with a cost. To make things worst, I’ve seen automation engineers relying on Selenium to scrape the emails; which is very time expensive and very brittle.
+                <br><br>
+                In my opinion, the best efficient approach to this problem is to observe how our email clients like Mozilla Thunderbird and other Android email clients seamlessly fetch our emails across various webmail providers - which is via IMAP(S). This presentation will talk about the whats and the hows of automating email verifications using IMAP(S), more specifically using Robot Framework’s IMAP Library."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "Surviving a Paranoid Girlfriend: Automating SMS Interactions"
+  description: "<p align=\"justify\">Test automation engineers have encountered numerous headaches in dealing with automating SMS interactions.
+                <br><br>
+                Some test automation engineers have been caught in snare where they tackled the problem using the mmssms.db database file of a rooted Android device. Some uses CodeOn’s SMS Gateway API which requires an Internet connectivity to access their server. Some uses paid version of third party SMS Gateway APIs like Twilio. To make things worst, I’ve seen some automation engineers relying on Appium to scrape the SMS; which is very time expensive and very brittle.
+                <br><br>
+                In my opinion, the best efficient approach to this problem is to exploit the Perfness’s REST SMS Gateway Android app. This app does not require rooted Android device, Internet connectivity, money, nor being UI-dependent. This presentation will talk about the whats and the hows of automating, both sending and receiving, SMS using the aforementioned Android app and the Android Debug Bridge (ADB)."
+  subtype: presentation
+  speakers: [4]
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Complexity, Testing Without Testers, and the Future of Software Testing"
+  description: "<p align=\"justify\">Complexity science informs us why there is a massive-progressive paradigm shift in software testing: favorability of automation, QA commodification, obsolescence of specialist testers, and devops-ification of QE (and why your ISTQB certification is useless).
+                <br><br>
+                The reason? Humanity’s ruthless quest to reduce uncertainty.
+                <br><br>
+                In this talk I’ll share how we built a high-quality digital bank without dedicated testers, and what it means to the future of software testing."
+  subtype: presentation
+  speakers: [5]
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Adversary Emulation System"
+  description: "<p align=\"justify\">Adversary Emulation System is an emerging automation practice in the information security field to test different attack scenarios inside our computers and see its effects from an adversarial point of view.
+                In this talk an opensource tool will be introduced called Caldera.
+                Specifically,  different attack combinations will be emulated in real time through a trojan attack on multiple virtual machines."
+  subtype: presentation
+  speakers: [6]
+  #language: en
+  #complexity: "Intermediate"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Building an Effective Test Automation Framework for Modern Software Architectures"
+  description: "<p align=\"justify\">As many companies continue to embrace automation, it’s easy to fall into the trap of doing automation for the sake of automating. In this topic, the speaker will talk about tools and techniques on how to build an effective test automation framework that can be used by applications built through RESTful APIs, how to integrate automated testing into DevOps, how to conduct in-sprint automation for continuous testing across the enterprise; and test automation mistakes that need to be avoided."
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #language: en
+  #complexity: "Intermediate"
+-
+  id: 007
+  title: "Evolving User Testing"
+  description: "<p align=\"justify\">The session focus is on building the abilities of business professionals to be a highly productive member of solution validation.  An examination of present shortcomings,  modification of engagement behavior and skill development will be discussed."
+  subtype: presentation
+  speakers: [8]
+  #language: en
+  #complexity: "Intermediate"
+-
+  id: 008
+  title: "Software Engineering in Test Automation"
+  description: "<p align=\"justify\">Many times automation testers are taught how to code. But not how to code properly. In this talk, we will tackle software engineering principles that can be applied when developing test automation suites."
+  subtype: presentation
+  speakers: [9]
+  #language: en
+  #complexity: "Intermediate"
+-
+  id: 009
+  title: "Advanced Appium Workshop"
+  description: "<p align=\"justify\">We will learn about advanced appium concepts in this workshop. We will have a look at how to write a single script for Android, iOS and mobile web apps.
+                                     <br><br>
+                                     We will also learn about how to implement complex touch action gestures with mobile apps. And we will study about how to implement parallel and distribute tests with appium."
+  subtype: workshop
+  speakers: [10]
+  #language: en
+  #complexity: "Intermediate"
+-
+  id: 010
+  title: "Tester Level Up! - Bug Prevention"
+  description: "<p align=\"justify\">This talk will focus on how a tester can add a new skill on his arsenal that can greatly contribute value to his team - bug prevention.
+                                     <br><br>
+                                     Here we'll discuss what are the benefits of preventing bugs, finding bugs at early stages and the ways how a tester can do this."
+  subtype: presentation
+  speakers: [11]
+  #language: en
+  #complexity: "Intermediate"
+
