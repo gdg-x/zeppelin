@@ -276,14 +276,11 @@
   moreinfo: "/assets/TesterYou_Trainings.pdf"
   date: 23 de novembro
 
-  #-
-  #id: 005
-  #title: "Whole team quality – in the same boat or up the creek?"
-  #descriptions: ["Those three little words. No, not those three, the other three: “Whole Team Quality”.",
-  #"We know that successful agile teams live and breathe by this principle. But what does it actually mean in practice – and what does it not definitely not mean?",
-  #"In this keynote, I’ll look at techniques teams can use to evolve their testers and developers and to empower the team to (want to) be responsible for quality together – without suggesting that what we really need is just a great super role that can do everything. I’ll tell some stories about things that have and haven’t worked and I’ll address some of the questions and fears that come up when we talk about whole team quality."]
-  #subtype: keynote
-  #speakers: [3]
-  #language: en
-  #presentation: ""
-  #
+-
+  id: 999
+  title: "Intelligent Testing - Applying Artificial Intelligence to Optimize the Testing Process"
+  descriptions: ["Descrição: em atualização"]
+  subtype: keynote
+  speakers: [9]
+  language: en
+
