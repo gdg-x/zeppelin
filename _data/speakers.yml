@@ -131,6 +131,20 @@
   #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
   #  - {name: "site", link: "http://olostan.name/"}
 -
+  id: 12
+  name: "Michaelangelo"
+  surname: "Dela Cruz"
+  company: "NuWorks Interactive Labs, Inc."
+  title: "QA Team Lead"
+  bio: "<p align=\"justify\">I am currently a QA Team Lead at NuWorks Interactive Labs, Inc. My responsibilities include identifying team objectives and managing team members and improving individual performance development through coaching and mentoring. I also work on improving quality assurance process and implementing new tools, methodologies and quality assurance innovations. I started the automation testing in NuWorks using Robot Framework and load and performance testing using JMeter."
+  thumbnailUrl: michaelAngeloDelaCruz.jpg
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  #social:
+  #  - {name: "linkedin", link: "https://www.linkedin.com/in/syam-sasi/"}
+  #  - {name: "site", link: "http://olostan.name/"}
+-
   id: 99
   name: "TBD"
   surname: "TBD"
