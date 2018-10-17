@@ -66,6 +66,18 @@
     - {icon: "site", link: "https://www.thebusinessoftesting.com"}
 
 - 
+  id: 9
+  name: "Khalid"
+  surname: "Sebti"
+  company: "Altran"
+  title: "VP of Aricent’s Testing Service Line"
+  bio: "Khalid Sebti is Vice President of Aricent’s Testing Service Line, an Altran Group company, and as such, he oversees Testing Services business worldwide. Prior to joining Altran, Khalid run HP’s DevOps, Mobile and Testing practices, and was Chief Executive Officer of CrossTest, a pioneer in the Agile software testing space. Khalid spent the larger part of his career with ORACLE and IBM in a variety of product development and go-to-market roles both in Europe and in the US. As a thought leader in the testing space, Khalid is a frequent speaker at industry events including a recent IDC webinar around new AI/ML enabled testing approaches. Khalid holds a MSc. in Computer Science from the French Aeronautics & Space Engineering School, and an MBA from INSEAD."
+  thumbnailUrl: KhalidSebti.png
+  rockstar: false
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/khalid-sebti-39a63/"}
+
+- 
   id: 5
   name: "Olivier"
   surname: "Denoo"
@@ -92,16 +104,6 @@
   rockstar: false
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
-
-- 
-  id: 9
-  name: "Em"
-  surname: "Atualização"
-  #company: "OutSystems"
-  #title: "Product Manager"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
 
 - 
   id: 10
