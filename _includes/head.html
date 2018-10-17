@@ -19,7 +19,7 @@
     <meta property="og:site_name" content="{{ site.title }}" /> 
     <meta property="og:type" content="website" /> 
     <meta property="og:url" content="{{ site.url }}" />
-    <meta property="og:image" content="{{ site.socialImage | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="{% if page.seo != null %}{{ page.seo | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.socialImage | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
     <meta property="og:description" content="{{ site.description }}" /> 
     
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>    
