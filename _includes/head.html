@@ -15,12 +15,12 @@
     <meta name="twitter:description" content="{{ site.description }}">
     <meta name="twitter:image:src" content="{% if page.seo != null %}{{ page.seo | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.socialImage | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
     <!-- Social: Open Graph -->
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
+    <meta property="og:title" name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
     <meta property="og:site_name" content="{{ site.title }}" /> 
     <meta property="og:type" content="website" /> 
     <meta property="og:url" content="{{ site.url }}" />
-    <meta property="og:image" content="{% if page.seo != null %}{{ page.seo | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.socialImage | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
-    <meta property="og:description" content="{{ site.description }}" /> 
+    <meta property="og:image" name="image" content="{% if page.seo != null %}{{ page.seo | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.socialImage | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+    <meta property="og:description" name="description" content="{{ site.description }}" /> 
     
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>    
     <meta name="theme-color" content="#2b5797">
