@@ -13,7 +13,7 @@
     <meta name="twitter:site" content="{{ site.twitterAccount }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image:src" content="{{ site.socialImage | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="twitter:image:src" content="{% if page.seo != null %}{{ page.seo | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.socialImage | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
     <!-- Social: Open Graph -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
     <meta property="og:site_name" content="{{ site.title }}" /> 
