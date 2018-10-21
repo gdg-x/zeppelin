@@ -47,8 +47,7 @@
 -
   id: 006
   title: "7 skills to drive a successful team"
-  descriptions: ["
-  <ul>
+  descriptions: ["<ul>
   <li>Are you working in Agile mode and facing problems on how to align your team?</li>
   <li>Are you missing soft skills and communication training to help you support your hard skills?</li>
   <li>Do you think hard skills are necessary but not making it all?</li>
@@ -71,9 +70,7 @@
 -
   id: 007
   title: "DevOps: A Future Proof to Testing"
-  descriptions: ["
-<p><strong>Abstract:</strong>
-<p>“<strong>The art of simplicity is a puzzle of complexity.</strong>”</p>
+  descriptions: ["<p>“<strong>The art of simplicity is a puzzle of complexity.</strong>”</p>
 <p>This is how I see testing going with the advancements in testing where we will in the near future see more and more AI driven testing incorporated into a DevOps environment.</p>
 <p>We will discuss:
 <ul>
@@ -81,19 +78,15 @@
   <li>6 steps in DevOps</li>
   <li>Making the Cultural Transition to DevOps</li>
   <li>DevOps and where the future lies AI style</li>
-</ul></p>
-"]
+</ul></p>"]
   subtype: keynote
   speakers: [4]
   language: en
 -
   id: 008
   title: "Artificial Intelligence: The Future of Testing Software"
-  descriptions: ["
-  <p><strong>Abstract:<strong></p>
-  <p>Adopting Artificial Intelligence in testing is a must for organisations. Their survival in the medium term relies on this. But many organisations have a low maturity in managing the quality of their software applications. Faced with arbitrary test data and with many still embarking on the journey to shift left with test automation, very few have the faintest idea where to start.</p>
-  <p>What do we do with all the hype around Artificial Intelligence? Which of the myriad voices and doomsayers do we believe? How do we determine which of the vendors pitching their offerings can be trusted? What are the first steps to take to embark on a successful Artificial Intelligence journey?</p>
-  "]
+  descriptions: ["<p>Adopting Artificial Intelligence in testing is a must for organisations. Their survival in the medium term relies on this. But many organisations have a low maturity in managing the quality of their software applications. Faced with arbitrary test data and with many still embarking on the journey to shift left with test automation, very few have the faintest idea where to start.</p>
+  <p>What do we do with all the hype around Artificial Intelligence? Which of the myriad voices and doomsayers do we believe? How do we determine which of the vendors pitching their offerings can be trusted? What are the first steps to take to embark on a successful Artificial Intelligence journey?</p>"]
   subtype: keynote
   speakers: [8]
   language: en
@@ -127,8 +120,17 @@
   language: en
 -
   id: 013
-  title: "Keynote Speaker 5"
-  descriptions: [""]
+  title: "User Experience (UX) Testing is not Rocket Science!"
+  descriptions: ["<p>For some reason, people not involved with the field of User Experience and Usability have the idea that user experience testing in general is as difficult as rocket science—especially for mobile and the constraints it comes with.</p>
+<p>I hear from people that the main reasons for not conducting user experience tests are that they don’t have the know-how, “enough” time, and, most commonly, the budget. Of course, some approaches can be very difficult, take a lot of time, and be very expensive. But they don’t have to be. With this session, I will discuss some of the approaches we (as TesterYou) use for user experience testing to keep all these factors as low as possible. I'll also address how mobile usability testing differs from desktop usability testing.</p>
+<p>Hopefully the attendees will leave the session with an understanding of how to choose their user experience testing approach and how to select their targeted users, test scenarios and usability testing tools.</p>
+<strong>Key Benefits</strong>
+<ul>
+<li>Understanding the Agile World and Digitalization</li>
+<li>Observing, Understanding and Interpreting the Users and Their Behavior</li>
+<li>Establishing the right User Experience Testing Strategy (Defining the Personas and Prioritizing the Test Scenarios)</li>
+<li>Choosing the right UX Testing Techniques & Tools</li>
+</ul>"]
   subtype: "keynote"
   speakers: [2]
   language: en
