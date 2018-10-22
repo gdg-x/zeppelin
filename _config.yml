@@ -171,6 +171,9 @@ workshopTickets:
     earlyBirdPrice: "292"
     currency: "€"
 
+# Course
+courseSoldout: true
+
 # Course price table
 courseTickets:
   -
