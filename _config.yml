@@ -13,11 +13,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Croatia 2018"
 email: "gdgzagreb@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "https://gdg-zagreb.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-71034344-2"
+googleAnalyticsSiteUrl: "devfesthr.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
