@@ -78,6 +78,18 @@
     - {icon: "linkedin", link: "https://www.linkedin.com/in/khalid-sebti-39a63/"}
 
 - 
+  id: 10
+  name: "Margarida"
+  surname: "Leite"
+  company: "Hitachi Vantara"
+  title: "Team Leader of QA Maintenance team"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: MargaridaLeite.jpg
+  rockstar: false
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/margaridaleite/"}
+
+- 
   id: 5
   name: "Olivier"
   surname: "Denoo"
@@ -105,15 +117,6 @@
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
 
-- 
-  id: 10
-  name: "Em"
-  surname: "Atualização"
-  #company: "Micro Focus"
-  #title: "Business Consultant"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
 
 - 
   id: 11

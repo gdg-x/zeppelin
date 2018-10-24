@@ -128,10 +128,10 @@
   language: en
 -
   id: 020
-  title: "Call for Speakers 1"
-  descriptions: [""]
+  title: "The testing challenges of a bigdata product integrated in a IOT project"
+  descriptions: ["<p>Hitachi has a huge product based in bigdata integrations that allows clients to process a large quantity of data in a small period. The business analytics empower business users with interactive, real-time visual data analysis and predictive modeling, with minimal IT support. They have a community edition that is free and develop a simpler product easy to understand and get inputs of the community to create a powerful tool that can help clients to improve their business. One of the major advantage of the community is to get answers from technical experts, discover insights from IoT thought leaders, and make connections with industry peers. The enterprise edition of the product enables users to ingest, blend, cleanse and prepare diverse data from any source. With visual tools to eliminate coding and complexity, Hitachi puts the best quality data at the fingertips of IT and the business. Dynamic and reusable data integration templates enable users to create transformations on the fly and accelerate time to value by uncovering real-time insights into a wide range of use cases, modernizing processing, and gaining control of the increasing volume of data. The product integration to IoT is a simple process, that has no coding requirement or complexity, and can accelerate some business or reduce response time of the company to some challenges.  IoT, identifies the advanced devices connectivity, systems and services beyond the class web and network connections of information technology systems (IT and PCs). IoT includes many protocols, many devices environments, and even more applications. Testing this product and their infinity integrations and platforms is a huge challenge, since we must carry about usability, security, connectivity, performance, compatibility of different software versions, different platforms and Databases.</p>"]
   subtype: "callforspeakers"
-  speakers: []
+  speakers: [10]
   language: en
 -
   id: 021
