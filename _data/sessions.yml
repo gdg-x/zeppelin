@@ -135,11 +135,12 @@
   language: en
 -
   id: 021
-  title: "Call for Speakers 2"
-  descriptions: [""]
+  title: "Testes de Software no segmento de Ciências da Vida"
+  descriptions: ["O segmento de Ciências da Vida é composto pelas indústrias farmacêutica, farmoquímica, dispositivos médicos, produtos para a saúde, cosméticos e inclusive a veterinária, bem como pelos prestadores de serviço especializado tais como logística, medicina diagnóstica, estudos clínicos, hospitais, laboratórios de análise físico-química e tantos outros que direta ou indiretamente participam da cadeia de desenvolvimento, produção e distribuição de produtos que afetam a saúde do ser humano.",
+  "Nesta sessão, vamos compartilhar com o público informações sobre a importância dos testes de software neste segmento, onde a consequência de um teste escrito sem o uso das técnicas adequadas pode ser, no pior caso, a perda de vidas humanas."]
   subtype: "callforspeakers"
-  speakers: []
-  language: en
+  speakers: [11]
+  language: pt
 -
   id: 022
   title: "Call for Speakers 3"

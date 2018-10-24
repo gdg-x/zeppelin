@@ -38,6 +38,18 @@
     - {icon: "linkedin", link: "https://www.linkedin.com/in/damien-walsh-3754176"}
 
 - 
+  id: 11
+  name: "Flavio "
+  surname: "Kawakami"
+  company: "Doctor Bit Consulting"
+  title: "Sócio Consultor"
+  bio: "<p>Flavio Kawakami, formado em Tecnologia Mecânica – Processos de Produção pela FATEC São Paulo e em Administração de Empresas pela Fundação Getúlio Vargas, nos últimos 30 anos atuou como executivo em indústrias listadas pela Fortune Global 500 tais como Asea Brown Boveri, Magneti Marelli, Philip Morris, Kraft Foods e Laboratórios Wyeth, e desde 2005 atua como Sócio Consultor na Doctor Bit na área de Tecnologia da Informação, no Brasil e no Exterior.</p><p>Possui ampla experiência no uso da TI em indústrias, com experiência na automação de processos, implantação de ERP, administração de infraestrutura, treinamento de equipes e em qualidade de software.</p>"
+  thumbnailUrl: FlavioKawakami.jpg
+  rockstar: false
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/flaviokawakami/"}
+
+- 
   id: 6
   name: "Joel"
   surname: "Oliveira"
@@ -116,17 +128,6 @@
   rockstar: false
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
-
-
-- 
-  id: 11
-  name: "Em"
-  surname: "Atualização"
-  #company: "XPand IT"
-  #title: "Product Manager"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
 
 - 
   id: 12
