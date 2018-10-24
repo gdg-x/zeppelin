@@ -10,6 +10,17 @@
   rockstar: true
   social:
     - {icon: "linkedin", link: "https://www.linkedin.com/in/alexandraschladebeck/"}
+- 
+  id: 14
+  name: "Antoine"
+  surname: "Craske"
+  company: "La Redoute"
+  title: "Dev Lead"
+  bio: "Antoine is passionate about strategy, innovation, technology, agility, organization and systems. He is leading an IT Development Center in Portugal focused on building platforms with fast learning, fast design and fast delivery. Antoine has been co-founding the Cerberus application, and is also member of the working group TICE in Portugal area working on valorising the technology and digital ecosystem."
+  thumbnailUrl: AntoineCraske.jpg
+  rockstar: false
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/antoine-craske-15621435/"}
 
 -
   id: 2
@@ -36,6 +47,18 @@
   rockstar: true
   social:
     - {icon: "linkedin", link: "https://www.linkedin.com/in/damien-walsh-3754176"}
+
+- 
+  id: 13
+  name: "Filipa"
+  surname: "Nogueira"
+  company: "La Redoute"
+  title: "Tech Lead"
+  bio: "Filipa Nogueira works as a Tech Lead on the IT department of La Redoute in Leiria where her tasks include team and project management, quality evaluation and reporting, and product development. She is also a Ph.D. candidate of the Doctoral Program in Information Science and Technology, at University of Coimbra and a member of the Centre for Informatics and Systems of the University of Coimbra (CISUC), Portugal. Her current main research interest focuses in the concepts related to Software Maintainability, Software Reliability and Software Testing; at her work, Filipa is also applying her research on real scenarios attempting to leverage different methodologies and technologies to improve the quality of products and processes."
+  thumbnailUrl: FilipaNogueira.jpg
+  rockstar: false
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/filipa-nogueira-8098b529/"}
 
 - 
   id: 11
@@ -140,26 +163,6 @@
   rockstar: false
   social:
     - {icon: "linkedin", link: "https://www.linkedin.com/in/tuhinsubhramitra/"}
-
-- 
-  id: 13
-  name: "Em"
-  surname: "Atualização"
-  #company: "Company"
-  #title: "Title"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
-
-- 
-  id: 14
-  name: "Em"
-  surname: "Atualização"
-  #company: "Company"
-  #title: "Title"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
 
 - 
   id: 15
