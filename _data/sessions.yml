@@ -135,6 +135,13 @@
   language: en
 -
   id: 021
+  title: "Call for Speakers 2"
+  descriptions: [""]
+  subtype: "callforspeakers"
+  speakers: []
+  language: en
+-
+  id: 022
   title: "Testes de Software no segmento de Ciências da Vida"
   descriptions: ["O segmento de Ciências da Vida é composto pelas indústrias farmacêutica, farmoquímica, dispositivos médicos, produtos para a saúde, cosméticos e inclusive a veterinária, bem como pelos prestadores de serviço especializado tais como logística, medicina diagnóstica, estudos clínicos, hospitais, laboratórios de análise físico-química e tantos outros que direta ou indiretamente participam da cadeia de desenvolvimento, produção e distribuição de produtos que afetam a saúde do ser humano.",
   "Nesta sessão, vamos compartilhar com o público informações sobre a importância dos testes de software neste segmento, onde a consequência de um teste escrito sem o uso das técnicas adequadas pode ser, no pior caso, a perda de vidas humanas."]
@@ -142,20 +149,14 @@
   speakers: [11]
   language: pt
 -
-  id: 022
+  id: 023
   title: "How I automate negative tests"
   descriptions: ["Negative Tests/Sad Tests/Alternate Tests are always tricky to automate - it&#39;s different than automating a positive/happy path test. Initially, while the negative test is developed often it&#39;s productive but over time as the application/testable product changes the negative tests may result in false positives or altogether irrelevant!",
   "In this talk, I like to share my experiences using real-life project examples that helped me to come up with concrete negative assertions, assertions that were relevant to the expected behavior of the application. I would share with actual and/or pseudo code examples to demonstrate the assertions. The talk would describe the lessons that I learned over time, resulting in better negative assertions."]
   subtype: "callforspeakers"
   speakers: [12]
   language: en
--
-  id: 023
-  title: "Call for Speakers 4"
-  descriptions: [""]
-  subtype: "callforspeakers"
-  speakers: []
-  language: en
+
 -
   id: 101
   title: "Agile Testing"
