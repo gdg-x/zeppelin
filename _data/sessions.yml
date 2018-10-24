@@ -143,10 +143,11 @@
   language: pt
 -
   id: 022
-  title: "Call for Speakers 3"
-  descriptions: [""]
+  title: "How I automate negative tests"
+  descriptions: ["Negative Tests/Sad Tests/Alternate Tests are always tricky to automate - it&#39;s different than automating a positive/happy path test. Initially, while the negative test is developed often it&#39;s productive but over time as the application/testable product changes the negative tests may result in false positives or altogether irrelevant!",
+  "In this talk, I like to share my experiences using real-life project examples that helped me to come up with concrete negative assertions, assertions that were relevant to the expected behavior of the application. I would share with actual and/or pseudo code examples to demonstrate the assertions. The talk would describe the lessons that I learned over time, resulting in better negative assertions."]
   subtype: "callforspeakers"
-  speakers: []
+  speakers: [12]
   language: en
 -
   id: 023
