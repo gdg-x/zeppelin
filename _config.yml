@@ -90,7 +90,7 @@ aboutBlock:
 statisticBlockImage: "conference-chairs.jpg"
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "11", specialCharacter: "", info: "oradores", detail: ""}
+ - {count: "16", specialCharacter: "", info: "oradores", detail: ""}
  - {count: "72", specialCharacter: "+", info: "horas de formação", detail: ""}
  - {count: "5", specialCharacter: "", info: "workshops", detail: ""}
 
