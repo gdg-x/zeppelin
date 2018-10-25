@@ -166,6 +166,26 @@
 
 - 
   id: 15
+  name: "Nuno"
+  surname: "Sousa"
+  company: "Noesis"
+  title: "Senior Consultant"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: default.png
+  rockstar: false
+
+- 
+  id: 16
+  name: "Luís"
+  surname: "Calado"
+  company: "Microsoft"
+  title: "Cloud Solution Architect"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: default.png
+  rockstar: false
+  
+  - 
+  id: 17
   name: "Em"
   surname: "Atualização"
   #company: "Company"
