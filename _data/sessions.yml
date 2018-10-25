@@ -138,7 +138,7 @@
   title: "96% successful daily releases with 5000+ regression tests!"
   descriptions: ["The key guideline for valuable and efficient DevOps chains is feedback: to receive feedback as soon as possible in the implementation chain allows enterprises to reduce costs and augment business value. Thus, the impacts of quick feedback are not visible only by IT departments, but also by business teams and customers. As software development is mainly a human-based task, programs suffer from a phenomenon called bugs. Moreover, as exhaustive testing is deemed as impossible, IT teams’ ambition is to maximize the testing automation. La Redoute IT reaches for this goal through Cerberus, an in-house tool, which performs functional automated tests and that is a pivotal component of the CI/CD pipelines."]
   subtype: "callforspeakers"
-  speakers: [13]
+  speakers: [13,14]
   language: en
 -
   id: 022
