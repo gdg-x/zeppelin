@@ -111,7 +111,15 @@
   rockstar: true
   social:
     - {icon: "linkedin", link: "https://www.linkedin.com/in/khalid-sebti-39a63/"}
-
+-
+  id: 16
+  name: "Luís"
+  surname: "Calado"
+  company: "Microsoft"
+  title: "Cloud Solution Architect"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: default.png
+  rockstar: false
 - 
   id: 10
   name: "Margarida"
@@ -123,7 +131,15 @@
   rockstar: false
   social:
     - {icon: "linkedin", link: "https://www.linkedin.com/in/margaridaleite/"}
-
+-
+  id: 15
+  name: "Nuno"
+  surname: "Sousa"
+  company: "Noesis"
+  title: "Senior Consultant"
+  #bio: "Lorem Ipsum."
+  thumbnailUrl: default.png
+  rockstar: false
 - 
   id: 5
   name: "Olivier"
@@ -163,28 +179,8 @@
   rockstar: false
   social:
     - {icon: "linkedin", link: "https://www.linkedin.com/in/tuhinsubhramitra/"}
-
-- 
-  id: 15
-  name: "Nuno"
-  surname: "Sousa"
-  company: "Noesis"
-  title: "Senior Consultant"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
-
-- 
-  id: 16
-  name: "Luís"
-  surname: "Calado"
-  company: "Microsoft"
-  title: "Cloud Solution Architect"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
   
-  - 
+-
   id: 17
   name: "Em"
   surname: "Atualização"
