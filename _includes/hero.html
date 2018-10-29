@@ -14,7 +14,7 @@
             <h2>
             <p>{{ site.heroSubtitle }}</p>
             <p>Building a New Horizon</p>
-            <p><i>Thanks for joining us and see you again 2019!<i></p>
+            <p>TU Vienna, Kuppelsaal</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}

@@ -66,9 +66,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers Vienna"
-heroSubtitle: "10 March 2018"
-eventDate: "10 March 2018"
-eventDateISO: "2018-03-10T09:30+01:00"
+heroSubtitle: "9 March 2019"
+eventDate: "9 March 2019"
+eventDateISO: "2019-03-09T09:30+01:00"
 # typeoutTextValues: '"", "2014", "2015"'
 # typeoutFallback: "2015"
 heroButtons:
@@ -113,9 +113,9 @@ eventAddressLocality: "Vienna"
 eventAddressLocalityRegion: "Vienna"
 eventPostalCode: "1040"
 eventAddressCountry: "Austria"
-eventStartTime: "2018-03-10T10:00"
+eventStartTime: "2019-03-09T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2018-03-10T19:00"
+eventEndTime: "2019-03-09T19:00"
 eventPlaceCoordinates: "48.1989203,16.369706"
 mapCenterCoordinates: "48.1989203,16.369706"
 mapMobileCenterCoordinates: "48.1989203,16.369706"
@@ -132,7 +132,7 @@ venueFeatures: ["What to say", "about the location", "where it is"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "wtmvie18"
+twitterHashTag: "wtmvie19"
 twitterFeed: "/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
