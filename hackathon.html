@@ -2,9 +2,12 @@
 layout: default
 title: Hack-NE-thing
 permalink: /hackathon/
+image: hackathon.jpg
 ---
 
- {% include top-section.html %}
+{% include top-section.html %}
+
+{% if site.enableHackathon == true %}
 
  {% include about-hackathon.html %}
 
@@ -15,3 +18,5 @@ permalink: /hackathon/
  {% include hackathon-location.html %}
 
  {% include partners.html %}
+
+{% endif %}
