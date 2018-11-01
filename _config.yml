@@ -161,7 +161,7 @@ ticketsOffers:
   validFrom: "2019-02-01T00:00"
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
-  disabled: true
+  soldOut: false
  -
   name: "Early Bird"
   price: "£99"
@@ -175,6 +175,7 @@ ticketsOffers:
   validFrom: "2018-07-10T10:00"
   #validThrough: "2018-08-31T23:59"
   validThrough: "2019-04-03T23:59"
+  soldOut: false
  -
   name: "Concessionary"
   price: "£99"
@@ -187,8 +188,7 @@ ticketsOffers:
   validFrom: "2018-07-10T10:00"
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
-  #soldOut: true
-  #soldOutText: "Sold Out"
+  soldOut: false
 
 # Footer
 socialLinks:

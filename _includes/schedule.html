@@ -145,7 +145,12 @@
                                 {% if slot == session.id and session.service == null %}
                                 <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
-                                    <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}; background: {{ day.tracks[slotIndex].background }}">
+                                    {% if session.subtype != "keynote" %}
+                                    {% assign color = day.tracks[slotIndex].background %}
+                                    {% else %}
+                                    {% assign color = #ffffff %}
+                                    {% endif %}
+                                    <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}; background: {{ color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
                                         <ul class="slot-speakers">

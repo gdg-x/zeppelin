@@ -6,7 +6,8 @@
 			<p style="margin-top:-150px;margin-bottom:100px;"><h5>{{ site.ticketsSubTitle }}</h5></p> 
 			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
 			{% assign animationDelay = 0 %}
-            {% for ticketsOffer in site.ticketsOffers %}
+			{% for ticketsOffer in site.ticketsOffers %}
+			{% assign length = forloop.length %}
 	            <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 	            	<div class="row">
 						<div class="col-sm-6 col-xs-12">
@@ -22,19 +23,65 @@
 						<div class="col-sm-3 col-xs-12">
 							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
 						</div>
-						<div class="col-sm-3 col-xs-12">
-							{% if ticketsOffer.soldOut == true %}
-							<p class="ticket-sold-out">{{ ticketsOffer.soldOutText }}</p>
-							{% elsif ticketsOffer.disabled != true %}
-							<span class="bordered dark-border button">
-								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
+
+						{% assign dateFrom = ticketsOffer.validFrom | date: '%s' %}
+						{% assign dateTo = ticketsOffer.validThrough | date: '%s' %}
+						{% assign soldOut = ticketsOffer.soldOut %}
+						{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
+						{% assign ticketValidFromDate = ticketValidFrom[0] | date: "%-d %B %Y" %}
+						{% assign ticketValidFromTime = ticketValidFrom[1] %}
+						{% assign ticketName = ticketsOffer.name %}
+						{% assign buyLink = ticketsOffer.buyButtonLink %}	
+						<!-- id values cannot coincide with id values in tickets.html so have included multiple of 100 offset -->
+						{% assign indexOffset100 = forloop.index | plus: 100 %}
+						{% assign indexOffset200 = forloop.index | plus: 200 %}
+						
+						<div class="col-sm-3 col-xs-12">					
+							<span id='{{ indexOffset200 }}'>
+								{% if soldOut == true %}
+								<p id='{{ indexOffset100 }}'></p>
+								{% else %}
+								<a id='{{ indexOffset100 }}'></a>
+								{% endif %}
 							</span>
-							{% else %}
-							   {% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-							   {% assign ticketName = ticketsOffer.name %}
-							<p class="ticket-fallback">{{ ticketName }} ticket sales begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
-							{% endif %}
 						</div>
+
+						<script>
+							var length = '{{ length }}';
+							var i = '{{ indexOffset100 }}';
+							var j = '{{ indexOffset200 }}';
+							var now = Math.round(new Date().getTime() / 1000);
+							var dateFrom = '{{ dateFrom }}';
+							var dateTo = '{{ dateTo }}';
+							var soldOut = '{{ soldOut }}';
+							var ticketValidFromDate = '{{ ticketValidFromDate }}';
+							var ticketValidFromTime = '{{ ticketValidFromTime }}';
+							var ticketName = '{{ ticketName }}';	
+							var buyLink = '{{ buyLink }}';													
+				
+							if (now > dateTo) {
+								document.getElementById(i).className = "ticket-sold-out";	
+								document.getElementById(i).style.color = "#000000";				
+								document.getElementById(i).innerHTML = "No Longer Available";
+							}
+							else if (soldOut == "true") {
+								document.getElementById(i).className = "ticket-sold-out";
+								document.getElementById(i).style.color = "#000000";	
+								document.getElementById(i).innerHTML = "Sold Out";
+							}	
+							else if (now > dateFrom) {
+								document.getElementById(j).className = "bordered dark-border button";
+								document.getElementById(i).className = "waves-effect waves-button";
+								document.getElementById(i).href = buyLink;
+								document.getElementById(i).target = "_blank";
+								document.getElementById(i).innerHTML = "Buy Now";
+							}
+							else {
+								document.getElementById(i).className = "ticket-sold-out";
+								document.getElementById(i).style.color = "#000000";	
+								document.getElementById(i).innerHTML = ticketName + " ticket sales begin on " + ticketValidFromDate + " at " + ticketValidFromTime;
+							}				
+						</script>
 					</div>
 				</div>
 			{% assign animationDelay = animationDelay | plus:250 %}
