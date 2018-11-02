@@ -2,3 +2,4 @@
 - {name: "QualityTalks", description: "QualityTalks - Meetups", link: "https://www.linkedin.com/company/qualitytalks/", imageUrl: "quality-talks.png"}
 - {name: "TestWarez", description: "TestWarez - Conference for QA experts", link: "https://www.testwarez.pl/", imageUrl: "testwarez.png"}
 - {name: "TEST-IT Africa", description: "SASTQB TEST-IT Africa International Conference", link: "http://testitafrica.com/", imageUrl: "test-it-africa.png"}
+- {name: "TestCrunch", description: "Konference TestCrunch 2018", link: "http://testcrunch.cz/", imageUrl: "test-crunch.png"}
