@@ -10,11 +10,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
+# TODO: change verification
 title: "GDG DevFest Croatia 2018"
 email: "gdgzagreb@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/"
-url: "https://gdg-zagreb.github.io"
+url: "https://devfesthr.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-71034344-2"
 googleAnalyticsSiteUrl: "devfesthr.com"
@@ -23,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Zagreb"
 organizerAlternateName: "Google Developer Group Zagreb"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about technology with passion."
 organizerEmail: "gdgzagreb@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/GDG-Zagreb/"
@@ -36,6 +37,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
+# change sponsorship url
 c4pUrl: "mailto:gdgzagreb@gmail.com"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
@@ -114,10 +116,10 @@ venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# tweetsFeedImage: "twitter-feed.jpg"
+# tweetsFeedTitle: "What's Up?"
+# twitterHashTag: "devfest"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
