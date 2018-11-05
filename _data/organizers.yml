@@ -1,9 +1,9 @@
--
-  group: "Main organizer"
-  elements:
-    - {name: "GDG Zagreb", description: "GDG Zagreb - Open and volunteer geek community", link: "https://www.meetup.com/gdg-zagreb", imageUrl: "gdg-zagreb.svg"}
-    - {name: "WTM Croatia", description: "Women Techmakers Croatia - Women in tech community", link: "https://www.meetup.com/Women-Techmakers-Croatia/", imageUrl: "wtm-cro.svg"}
-    
+# -
+#   group: "Main organizer"
+#   elements:
+#     - {name: "GDG Zagreb", description: "GDG Zagreb - Open and volunteer geek community", link: "https://www.meetup.com/gdg-zagreb", imageUrl: "gdg-zagreb.svg"}
+#     - {name: "WTM Croatia", description: "Women Techmakers Croatia - Women in tech community", link: "https://www.meetup.com/Women-Techmakers-Croatia/", imageUrl: "wtm-cro.svg"}
+
   # group: "Co-organizers"
   # elements:
   #   - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
