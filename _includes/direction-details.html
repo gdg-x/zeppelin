@@ -20,7 +20,7 @@
                 
                 {% for wideCard in site.directionDetailsWideCards %}
                 <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
-                    <div class="card questions">
+                    <div class="card questions" id="questions">
                         <h4>{{ wideCard.title }}</h4>
                         {% for subCard in wideCard.subCards %}
                         {% assign wideCardColWidth = 12 | divided_by: forloop.length %}

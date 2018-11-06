@@ -7,9 +7,9 @@ image: hackathon.jpg
 
 {% include top-section.html %}
 
-{% if site.enableHackathon == true %}
+{% include about-hackathon.html %}
 
- {% include about-hackathon.html %}
+{% if site.enableHackathon == true %}
 
  {% include judges.html %}
 
