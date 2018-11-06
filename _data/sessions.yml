@@ -101,7 +101,7 @@
   title: "Speaker Diamond 3: NOESIS"
   descriptions: [""]
   subtype: "diamond"
-  speakers: []
+  speakers: [15,16]
   language: en
 -
   id: 012
