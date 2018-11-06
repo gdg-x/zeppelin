@@ -69,7 +69,7 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "GDG DevFest brings together the world class experts in Android, Web and Cloud technologies to Zagreb, Croatia a day full of sessions. The largest Google tech conference worldwide is organized and brought to Croatia by GDG Zagreb & Women Techmakers Croatia" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
@@ -77,8 +77,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "5", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "4", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "5", specialCharacter: "+", info: "hours", detail: "hours around web, mobile and cloud technology"}
+ - {count: "4", specialCharacter: "+", info: "speakers", detail: "from Croatia and all over the world"}
  - {count: "1", specialCharacter: "", info: "track", detail: "plus entertainment lounge"}
 
 # Latest News Block
