@@ -96,7 +96,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 2
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "World class speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -246,10 +246,10 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Newcastle"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Newcastle International Airport is situated to the north of the city. It is easily reachable by car, public transport or taxi. More information is available at the <a href="https://www.newcastleairport.com/getting-here">airport website</a>.'}
- - {title: "Public Transit", information: 'Newcastle is well served by public transport including local bus routes and the metro train transit system. See the
- <a href="https://www.nexus.org.uk/">Nexus website</a> for more details.'}
- - {title: "Hotels", information: 'Newcastle has lots of great hotels and hostels. More information can be found in the questions section below.'}
+ - {title: "From the Airport", information: 'Newcastle International Airport is situated six miles north-west of the city. It is easily reachable by car, public transport or taxi. More information is available on the <a href="https://www.newcastleairport.com/getting-here" target="_blank">airport website</a>.'}
+ - {title: "Public Transit", information: 'Newcastle is well served by public transport including local bus routes and the Tyne and Wear Metro. See the
+ <a href="https://www.nexus.org.uk/" target="_blank">Nexus website</a> for more details.'}
+ - {title: "Hotels", information: 'Newcastle has lots of great hotels and hostels. More information can be found in the <a href="#questions">questions</a> section below.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
