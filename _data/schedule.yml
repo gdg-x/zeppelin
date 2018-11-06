@@ -56,7 +56,7 @@
     }
     - {
         startTime: "15:40",
-        endtime: "16:10"
+        endtime: "16:10",
         sessionIds: [011,404]
     }
     - {
