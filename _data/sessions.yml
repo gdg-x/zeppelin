@@ -84,21 +84,21 @@
   language: en
 -
   id: 009
-  title: "Speaker Diamond 1"
+  title: "Speaker Diamond 1: Wintrust"
   descriptions: [""]
   subtype: diamond
   speakers: []
   language: en
 -
   id: 010
-  title: "Speaker Diamond 2"
-  descriptions: [""]
+  title: "Speaker Diamond 2: Altran"
+  descriptions: ["Intelligent Testing - Applying Artificial Intelligence to Optimize the Testing Process"]
   subtype: diamond
-  speakers: []
+  speakers: [9]
   language: en
 -
   id: 011
-  title: "Speaker Diamond 3"
+  title: "Speaker Diamond 3: NOESIS"
   descriptions: [""]
   subtype: "diamond"
   speakers: []
@@ -274,8 +274,8 @@
   date: 23 de novembro
 -
   id: 999
-  title: "Intelligent Testing - Applying Artificial Intelligence to Optimize the Testing Process"
-  descriptions: ["Descrição: em atualização"]
-  subtype: partner
-  speakers: [9]
+  title: ""
+  descriptions: [""]
+  subtype: "Call For Speakers"
+  speakers: []
   language: en
