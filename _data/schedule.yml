@@ -4,7 +4,6 @@
   tracks: 
     - {title: "Main", color: "#90be4e"}
     - {title: "Call for Speakers", color: "#03a9f4"}
-    - {title: "Call for Speakers", color: "#03a9f4"}
   timeslots:
     - {
         startTime: "08:30",
@@ -48,17 +47,17 @@
     - {
         startTime: "14:40",
         endtime: "15:10",
-        sessionIds: [009,020,021]
+        sessionIds: [009,020]
     }
     - {
         startTime: "15:10",
         endtime: "15:40",
-        sessionIds: [010,022,023]
+        sessionIds: [010,021]
     }
     - {
         startTime: "15:40",
         endtime: "16:10",
-        sessionIds: [011,404,404]
+        sessionIds: [011,022]
     }
     - {
         startTime: "16:10",
