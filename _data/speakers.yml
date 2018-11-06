@@ -168,18 +168,18 @@
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
 
-- 
-  id: 12
-  name: "Tuhin"
-  surname: "Mitra"
-  company: "Mendix"
-  title: "Test Engineer"
-  bio: "<p>I am Tuhin, currently working as a Test Engineer in a product development company called Mendix at Rotterdam, Netherlands. I was born and raised in Kolkata, India – started my career as Test Analyst back in 2009 post my graduation. Testing to me is a culmination of thought process and preparations – effective, creative, and fast – that help me to validate the software or application properly, eventually providing a valuable feedback to my team.</p><p>Cooking, reading, exploring restaurants, Netflix, running, sports, Spotify, classical music – are the things that help me awake, apart from work, when I am not sleeping.</p>"
-  thumbnailUrl: TuhinMitra.jpg
-  rockstar: false
-  social:
-    - {icon: "linkedin", link: "https://www.linkedin.com/in/tuhinsubhramitra/"}
-  
+#- 
+#  id: 12
+#  name: "Tuhin"
+#  surname: "Mitra"
+#  company: "Mendix"
+#  title: "Test Engineer"
+#  bio: "<p>I am Tuhin, currently working as a Test Engineer in a product development company called Mendix at Rotterdam, Netherlands. I was born and raised in Kolkata, India – started my career as Test Analyst back in 2009 post my graduation. Testing to me is a culmination of thought process and preparations – effective, creative, and fast – that help me to validate the software or application properly, eventually providing a valuable feedback to my team.</p><p>Cooking, reading, exploring restaurants, Netflix, running, sports, Spotify, classical music – are the things that help me awake, apart from work, when I am not sleeping.</p>"
+#  thumbnailUrl: TuhinMitra.jpg
+#  rockstar: false
+#  social:
+#    - {icon: "linkedin", link: "https://www.linkedin.com/in/tuhinsubhramitra/"}
+#  
 -
   id: 17
   name: "Em"
