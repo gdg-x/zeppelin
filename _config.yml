@@ -160,7 +160,7 @@ ticketsOffers:
   ticketContentList: ["Conference", "Job speed date", "Lunch"]
   validFrom: "2018-11-01T10:00"
   validThrough: "2018-12-1T23:59"
-  disabled: true
+  # disabled: true
  -
   name: "Regular"
   price: "350"
