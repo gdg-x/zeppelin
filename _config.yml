@@ -59,7 +59,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2018"
-eventDate: "30. November, 2018"
+eventDate: "1. December, 2018"
 typeoutTextValues: '"", "Season", "Croatia"'
 typeoutFallback: "Season"
 heroButtons:
@@ -99,9 +99,9 @@ eventAddressLocality: "Zagreb"
 eventAddressLocalityRegion: "Grad Zagreb"
 eventPostalCode: "10000 "
 eventAddressCountry: "Croatia"
-eventStartTime: "2018-11-30T10:00"
+eventStartTime: "2018-12-01T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2018-11-30T15:00"
+eventEndTime: "2018-12-01T14:00"
 eventPlaceCoordinates: "45.8074235,15.9549643"
 mapCenterCoordinates: "45.8074235,15.9549643"
 mapMobileCenterCoordinates: "45.8074235,15.9549643"
