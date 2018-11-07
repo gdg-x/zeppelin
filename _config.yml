@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 # TODO: change verification
 title: "GDG DevFest Croatia 2018"
-email: "gdgzagreb@gmail.com"
+email: "devfest.croatia@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/"
 url: "https://devfesthr.com"
@@ -25,7 +25,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Zagreb"
 organizerAlternateName: "Google Developer Group Zagreb"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about technology with passion."
-organizerEmail: "gdgzagreb@gmail.com"
+organizerEmail: "devfest.croatia@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/GDG-Zagreb/"
 
@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # change sponsorship url
-c4pUrl: "mailto:gdgzagreb@gmail.com"
+c4pUrl: "mailto:devfest.croatia@gmail.com"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -52,7 +52,7 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "mailto:gdgzagreb@gmail.com", text: "Become a speaker"}
+ - {link: "mailto:devfest.croatia@gmail.com", text: "Become a speaker"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -63,7 +63,7 @@ eventDate: "1. December, 2018"
 typeoutTextValues: '"", "Season", "Croatia"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "mailto:gdgzagreb@gmail.com", text: "Become a speaker"}
+ - {link: "mailto:devfest.croatia@gmail.com", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -222,7 +222,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdgzagreb@gmail.com", text: "gdgzagreb@gmail.com"}
+   - {link: "mailto:devfest.croatia@gmail.com", text: "devfest.croatia@gmail.com"}
  -
   title: "FAQ"
   links:
