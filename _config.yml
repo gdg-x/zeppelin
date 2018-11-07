@@ -69,9 +69,28 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "GDG DevFest brings together the world class experts in Android, Web and Cloud technologies to Zagreb, Croatia a day full of sessions. The largest Google tech conference worldwide is organized and brought to Croatia by GDG Zagreb & Women Techmakers Croatia" }
- - {title: "Show and tell", image: "hackathon.jpg", text: "Show off your projects, tell your story, see what others are working on!" }
+ - {title: "Conference", image: "conference.jpg", text: "GDG DevFest brings together the world class experts in Android, Web and Cloud technologies to Zagreb, Croatia!
+• Google Developer Experts - Speakers and Mentors
+• Talks and Seasons
+• Show and tell booths with the best tech companies in Croatia
+• Job speed dating
+
+...a day full of tech surprises!
+
+Google tech conference organized and brought to Croatia by GDG Zagreb & Women Techmakers Croatia.
+" }
+ - {title: "Show and tell", image: "hackathon.jpg", text: "Show off your projects, tell your story, see what others are working on!
+Lobby full of companies and startups showing off their work in awesome HUB385! Look, mingle, learn, try and be impressed by some of the best technology innovations around!" }
  - {title: "Job speed date", image: "workshop.jpg", text: "You get 4–5 minutes with each company and then move on. It aims for both companies and developers to see what’s out there." }
+ - {title: "IT kviz", image: "quiz.jpg", text: "Imagine this:
+One big screen... 30 pick-the-right-answer questions... 3-5 person on a team... One paper...
+
+Do you have what it takes? Does your squad know more that those geeks at the table next to you? Only one way to find out, Let's Go!
+
+The winning team gets to have a really cool Google gift and Eternal Glory in IT Heaven!
+
+(Food & Drink are Yes but Googling answers is a No)
+"}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
