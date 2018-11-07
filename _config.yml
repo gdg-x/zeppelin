@@ -54,7 +54,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "mailto:gdgzagreb@gmail.com", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "mailto:gdgzagreb@gmail.com", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
