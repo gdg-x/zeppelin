@@ -70,8 +70,8 @@ heroButtons:
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "GDG DevFest brings together the world class experts in Android, Web and Cloud technologies to Zagreb, Croatia a day full of sessions. The largest Google tech conference worldwide is organized and brought to Croatia by GDG Zagreb & Women Techmakers Croatia" }
- - {title: "Show and tell", image: "workshop.jpg", text: "Show off your projects, tell your story, see what others are working on!" }
- - {title: "Job speed date", image: "hackathon.jpg", text: "You get 4–5 minutes with each company and then move on. It aims for both companies and developers to see what’s out there." }
+ - {title: "Show and tell", image: "hackathon.jpg", text: "Show off your projects, tell your story, see what others are working on!" }
+ - {title: "Job speed date", image: "workshop.jpg", text: "You get 4–5 minutes with each company and then move on. It aims for both companies and developers to see what’s out there." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
