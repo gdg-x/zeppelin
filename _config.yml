@@ -83,7 +83,7 @@ Google tech conference organized and brought to Croatia by GDG Zagreb & Women Te
 Lobby full of companies and startups showing off their work in awesome HUB385!<br>
 Look, mingle, learn, try and be impressed by some of the best technology innovations around!" }
  - {title: "Job speed date", image: "workshop.jpg", text: "You get 4–5 minutes with each company and then move on. It aims for both companies and developers to see what’s out there." }
- - {title: "IT kviz", image: "quiz.jpg", text: "Imagine this:<br>
+ - {title: "IT kviz", image: "quiz.jpg", text: 'Imagine this:<br>
 One big screen... 30 pick-the-right-answer questions... 3-5 person on a team... One paper...<br>
 <br>
 Do you have what it takes? Does your squad know more that those geeks at the table next to you? Only one way to find out, Let's Go!<br>
@@ -92,8 +92,7 @@ The winning team gets to have a really cool Google gift and Eternal Glory in IT 
 <br>
 (Food & Drink are Yes but Googling answers is a No)<br>
 <br>
-Powered by <a href="http://hrkviz.hr/">hrkviz.hr</a>
-"}
+Powered by <a href="http://hrkviz.hr/">hrkviz.hr</a>'}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
