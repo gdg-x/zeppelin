@@ -154,7 +154,6 @@ ticketsOffers:
   priceCurrency: "HRK"
   ticketsNumber: "150"
   ribbon: "-70%"
-  featured: true
   buyButtonLink: "https://www.entrio.hr/event/devfest-croatia-2018-5664"
   buyButtonText: "Buy Now"
   ticketContentList: ["Conference", "Job speed date", "Lunch"]
@@ -166,6 +165,7 @@ ticketsOffers:
   price: "250"
   priceCurrency: "HRK"
   ticketsNumber: "20"
+  ribbon: "-30%"
   buyButtonLink: "https://www.entrio.hr/event/devfest-croatia-2018-5664"
   buyButtonText: "Buy Now"
   featured: true
