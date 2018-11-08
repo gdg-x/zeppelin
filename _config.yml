@@ -169,17 +169,6 @@ ticketsOffers:
   ticketContentList: ["Conference", "Job speed date", "Lunch", "* Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"]
   validFrom: "2018-11-01T10:00"
   validThrough: "2018-12-1T23:59"
- -
-  name: "Women"
-  price: "100"
-  priceCurrency: "HRK"
-  ticketsNumber: "150"
-  ribbon: "-70%"
-  buyButtonLink: "https://www.entrio.hr/event/devfest-croatia-2018-5664"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Conference", "Job speed date", "Lunch"]
-  validFrom: "2018-11-01T10:00"
-  validThrough: "2018-12-1T23:59"
   # disabled: true
  -
   name: "Early bird"
