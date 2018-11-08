@@ -4,3 +4,5 @@
 - {name: "TEST-IT Africa", description: "SASTQB TEST-IT Africa International Conference", link: "http://testitafrica.com/", imageUrl: "test-it-africa.png"}
 - {name: "TestCrunch", description: "Konference TestCrunch", link: "http://testcrunch.cz/", imageUrl: "test-crunch.png"}
 - {name: "Nordic Testing Days", description: "Nordic Testing Days - International Testing Conference", link: "https://nordictestingdays.eu/", imageUrl: "ntd2019.png"}
+- {name: "ISEC", description: "ISEC - Instituto Superior de Engenharia de Coimbra", link: "https://www.isec.pt/", imageUrl: "isec.png"}
+- {name: "ISEC Academy", description: "Coimbra Engineering Academy isec.pt", link: "https://www.isec.pt/pt/estudar/academia-de-engenharia/", imageUrl: "isec-academy.jpg"}
