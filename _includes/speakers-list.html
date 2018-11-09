@@ -51,8 +51,16 @@
                 {% endfor %}
             </div> 
             <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" style="margin:0px 50px" target="_blank">Become a speaker </a>                       
-            <p style="margin-top:75px;"><h5>{{ site.fundTitle }}</h5></p> 
-            <img src="{{ site.baseurl }}/img/speakers/{{ site.fundImage }}" height="128" >
+            <p style="margin-top:75px;"><h5>{{ site.supportTitle }}</h5></p> 
+            <ul class="list-inline">
+                {% for image in site.supportImages %}
+                    <li>
+                        <a href="{{ image.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/speakers/{{ image.imageUrl }}" title="{{ image.description }}" alt="{{ image.name }}" height="128" style="margin:20px 50px 0px 50px">
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
         </div>
     </div>
 </section>

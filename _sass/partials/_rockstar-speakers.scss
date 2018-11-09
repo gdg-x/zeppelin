@@ -31,3 +31,14 @@ $small-rockstar-image-size: 120px;
         height: $small-rockstar-image-size;
     }
 }
+
+.list-inline {   
+
+    img {
+        transition: $base-transition;
+        filter: grayscale(1);
+        &:hover {
+            filter: grayscale(0);
+        }
+    }
+}

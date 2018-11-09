@@ -43,7 +43,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "http://bit.ly/2NzkBtb"
 c4sponsorsUrl: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -219,9 +218,11 @@ discusShortName: "bitrconf"
 # Speakers List Block
 showSessions: true
 
-# Speakers EU Dev Fund
-fundTitle: "With support from"
-fundImage: "EU-ERDF-EN-2000px.png"
+# Speakers Support
+supportTitle: "With support from"
+supportImages:
+- {name: "Dynamo", description: "Dynamo, Growing the North East IT economy", link: "http://www.dynamonortheast.co.uk/kids-digital-maker-party/", imageUrl: "Dynamo_Primary_Pant164_No_Strap.png"}
+- {name: "ERDF", description: "European Regional Development Fund", link: "http://ec.europa.eu/regional_policy/en/funding/erdf/", imageUrl: "EU-ERDF-EN-2000px.png"}
 
 # Team Block
 teamBlockTitle: "About us"
