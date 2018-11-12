@@ -182,10 +182,34 @@
 #  
 -
   id: 17
-  name: "Em"
-  surname: "Atualização"
-  #company: "Company"
-  #title: "Title"
-  #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
+  name: "Filipe"
+  surname: "Nuno Carlos"
+  company: "WinTrust – Quality Assurance by InnoWave"
+  title: "CEO"
+  bio: "Filipe Nuno Carlos started his career in 1990. In 2000, he takes on the Management of a Unit that offers Software Testing and Quality Assurance Professional Services.
+<br/>In 2006, he founded WinTrust, focused on the niche market of software testing and certification. In 2010 he was also one of the founders of PSTQB (ISTQB Portuguese Chapter), taking on its Presidency until 2016.
+<br/>He has a degree in Electrical and Computer Engineering and an MBA in Information Management. He is also certified by ISTQB®, TMMi and iSQI."
+  thumbnailUrl: FilipeNunoCarlos.png
+  rockstar: true
+
+  id: 18
+  name: "Adam"
+  surname: "Eld"
+  company: "InnoWave UK"
+  title: "Managing Director"
+  bio: "Adam Eld is the Managing Director of InnoWave UK, part of the InnoWave group of companies – a leading global technology and consulting company. Adam is responsible for developing and executing a long-term growth strategy for InnoWave UK that includes overseeing all testing services projects and bringing InnoWave’s testing products to the UK market. 
+<br/>Adam began his career in staffing, managing large scale testing projects for FTSE 100 companies including BT, Sky, Vodafone, Marks & Spencers and Nokia to name a few. 
+<br/>He is super passionate about sales management, international expansion, strategy, innovation and technology.  Since joining InnoWave in 2016, Adam has played a key part in developing the go-to-market strategy for their flagship test automaton product - InnSpect."
+  thumbnailUrl: AdamEld.png
+  rockstar: true
+ 
+  id: 19
+  name: "Ricardo"
+  surname: "Santos"
+  company: "WinTrust – Quality Assurance by InnoWave"
+  title: "Product Manager"
+  bio: "Ricardo Santos is Product Owner / Manager at WinTrust and he is responsible for the technical requirements, user experience and the evolution roadmap of InnSpect (test automation solution). He is also responsible to incorporate new trends and R&D results into our products, namely AI functionalities.
+<br/>Ricardo has a comprehensive academic path, from a technical computer degree and electro-mechanic course in TAP Air Portugal to international academic experience while undergoing his commercial airline pilot degree. Those experiences gave him a broader knowledge in different academic subjects. 
+<br/>Ricardo IT professional experience started at the largest Portuguese telecom company as quality assurance / software tester. Since 2014, after joining InnoWave and, recently WinTrust, he has been gradually taking on more challenging roles and has been an important player in the success of InnSpect. He is also a CMMI3 process owner for Products Verification and Validation of software development followed by the whole company."
+  thumbnailUrl: RicardoSantos.png
+  rockstar: true
