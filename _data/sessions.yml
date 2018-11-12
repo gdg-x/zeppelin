@@ -84,10 +84,10 @@
   language: en
 -
   id: 009
-  title: "Speaker Diamond 1: Wintrust"
-  descriptions: [""]
+  title: "Sharing Experiences: How AI can change the way companies buy and suppliers sell?"
+  descriptions: ["<p>This presentation touches the transformation that WinTrust has assisted in the market landscape and it is moderated by Filipe Nuno Carlos. At first, he will illustrate how WinTrust changed in the last 12 months to address market needs. Secondly, he asks the UK Managing Director to explain how companies is changing the procurement process and what enterprise companies expect from a service provider (based on a real experience). Thirdly, he asks the InnSpect Product Manager to provide his opinion regarding the impact of AI in the testing teams and in the buyers’ perspective.</p><p>If you enjoy interviews supported by specialists explaining the future trends, this session is for you.</p>"]
   subtype: diamond
-  speakers: []
+  speakers: [17,18,19]
   language: en
 -
   id: 010
