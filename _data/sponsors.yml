@@ -5,11 +5,6 @@
     - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/pt/homepage", imageUrl: "noesis.png"}
     - {name: "WinTrust", description: "WinTrust – Quality Assurance by InnoWave", link: "https://wintrust.tech/", imageUrl: "wintrust.png"}
 - 
-  group: "Gold"
-  elements: 
-    #- {name: "MicroFocus", description: "MicroFocus", link: "https://www.microfocus.com/pt-br/", imageUrl: "microfocus.svg", width: "150px"}
-    #- {name: "XpandIT", description: "XpandIT", link: "https://www.xpand-it.com/pt-pt/", imageUrl: "xpandit.png", width: "150px"}
-- 
   group: "Silver"
   elements:
     - {name: "iSQI", description: "International Software Quality Institute", link: "https://isqi.org", imageUrl: "isqi.png"}

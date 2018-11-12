@@ -127,6 +127,7 @@ venueImages: ["venue_0.jpg","venue_1.jpg","venue_2.jpg","venue_3.jpg","venue_4.j
 organizersTitle: "Organização"
 sponsorsTitle: "Patrocinadores"
 partnersTitle: "Parceiros"
+academicPartnersTitle: "Parceiros Académicos"
 sponsorsC4sponsorsButton: "Como Patrocinar a Conferência?"
 c4sponsorsUrl: "/assets/CadernoPT_V8.pdf"
 

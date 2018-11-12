@@ -1,0 +1,5 @@
+- {name: "ISEC", description: "ISEC - Instituto Superior de Engenharia de Coimbra", link: "https://www.isec.pt/", imageUrl: "isec.png"}
+- {name: "ISEC Academy", description: "Coimbra Engineering Academy isec.pt", link: "https://www.isec.pt/pt/estudar/academia-de-engenharia/", imageUrl: "isec-academy.jpg"}
+- {name: "Instituto Politécnico de Setúbal", description: "Escola Superior de Tecnologia de Setúbal - Instituto Politécnico de Setúbal", link: "http://www.si.ips.pt/ips_si/web_page.inicial", imageUrl: "ests.jpg"}
+- {name: "Polytechnic Institute of Guarda", description: "Polytechnic Institute of Guarda", link: "http://www.ipg.pt/website/", imageUrl: "ipg.jpg"}
+- {name: "Politécnico de Leiria", description: "Politécnico de Leiria", link: "https://www.ipleiria.pt/home/", imageUrl: "ipleiria.png"}
