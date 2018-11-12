@@ -8,7 +8,9 @@
 <br/>Adam began his career in staffing, managing large scale testing projects for FTSE 100 companies including BT, Sky, Vodafone, Marks & Spencers and Nokia to name a few. 
 <br/>He is super passionate about sales management, international expansion, strategy, innovation and technology.  Since joining InnoWave in 2016, Adam has played a key part in developing the go-to-market strategy for their flagship test automaton product - InnSpect."
   thumbnailUrl: AdamEld.png
-  rockstar: true 
+  rockstar: true
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/innowaveadam/"}
 - 
   id: 3
   name: "Alexandra"
@@ -79,6 +81,8 @@
 <br/>He has a degree in Electrical and Computer Engineering and an MBA in Information Management. He is also certified by ISTQB®, TMMi and iSQI."
   thumbnailUrl: FilipeNunoCarlos.png
   rockstar: true
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/filipe-nuno-carlos-916499/"}
 - 
   id: 11
   name: "Flavio "
@@ -205,3 +209,5 @@
 <br/>Ricardo IT professional experience started at the largest Portuguese telecom company as quality assurance / software tester. Since 2014, after joining InnoWave and, recently WinTrust, he has been gradually taking on more challenging roles and has been an important player in the success of InnSpect. He is also a CMMI3 process owner for Products Verification and Validation of software development followed by the whole company."
   thumbnailUrl: RicardoSantos.png
   rockstar: true
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/ricardo-santos-b2b390a9/"}
