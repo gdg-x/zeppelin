@@ -4,6 +4,7 @@
 - {name: "ISEC Academy", description: "Coimbra Engineering Academy isec.pt", link: "https://www.isec.pt/pt/estudar/academia-de-engenharia/", imageUrl: "isec-academy.jpg"}
 - {name: "Instituto Politécnico de Setúbal", description: "Escola Superior de Tecnologia de Setúbal - Instituto Politécnico de Setúbal", link: "http://www.si.ips.pt/ips_si/web_page.inicial", imageUrl: "ests.jpg"}
 - {name: "Polytechnic Institute of Guarda", description: "Polytechnic Institute of Guarda", link: "http://www.ipg.pt/website/", imageUrl: "ipg.jpg"}
+- {name: "Politécnico de Leiria", description: "Politécnico de Leiria", link: "https://www.ipleiria.pt/home/", imageUrl: "ipleiria.png"}
 - {name: "TestWarez", description: "TestWarez - Conference for QA experts", link: "https://www.testwarez.pl/", imageUrl: "testwarez.png"}
 - {name: "TEST-IT Africa", description: "SASTQB TEST-IT Africa International Conference", link: "http://testitafrica.com/", imageUrl: "test-it-africa.png"}
 - {name: "TestCrunch", description: "Konference TestCrunch", link: "http://testcrunch.cz/", imageUrl: "test-crunch.png"}
