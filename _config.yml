@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Croatia 2018"
 email: "devfest.croatia@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/"
+baseurl: ""
 url: "https://devfesthr.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-71034344-2"
