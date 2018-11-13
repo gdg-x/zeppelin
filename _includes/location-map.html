@@ -18,11 +18,13 @@
                         </li>
                     </ul>
                 </div>
+                {% if site.eventLocationFindWayArrows %}
                 <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
                 </a>
+                {% endif %}
             </div>
         </div>
     </div>

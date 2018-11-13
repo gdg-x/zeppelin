@@ -20,7 +20,7 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-71034344-2"
 googleAnalyticsSiteUrl: "devfesthr.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
-
+googleMapsApiKey: "AIzaSyAtzzB7A1rC3e27_lHmEB6AevYpsYmdJCU"
 # Organizer Info
 organizerName: "GDG Zagreb"
 organizerAlternateName: "Google Developer Group Zagreb"
@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/GDG-Zagreb/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, zagreb"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -114,7 +114,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 eventLocationName: "HUB385"
 locationBlockTitle: "Location"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "https://hub385.com/"
 eventStreetAddress: "Petračićeva 6"
 eventAddressLocality: "Zagreb"
 eventAddressLocalityRegion: "Grad Zagreb"
@@ -126,6 +126,7 @@ eventEndTime: "2018-12-01T14:00"
 eventPlaceCoordinates: "45.8074235,15.9549643"
 mapCenterCoordinates: "45.8074235,15.9549643"
 mapMobileCenterCoordinates: "45.8074235,15.9549643"
+eventLocationFindWayArrows: false
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -133,8 +134,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "At awesome HUB385"
+venueFeatures: ["First floor: Show - And - Tell and Job - Speed - Dating area!", "Second floor: Sessions, Talks, Quiz and so much more!"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
