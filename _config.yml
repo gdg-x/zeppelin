@@ -20,7 +20,7 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-71034344-2"
 googleAnalyticsSiteUrl: "devfesthr.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
-
+googleMapsApiKey: "AIzaSyAtzzB7A1rC3e27_lHmEB6AevYpsYmdJCU"
 # Organizer Info
 organizerName: "GDG Zagreb"
 organizerAlternateName: "Google Developer Group Zagreb"
