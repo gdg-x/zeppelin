@@ -1,3 +1,4 @@
+- {name: "Delta Q", description: "Delta Q - a vida começa agora", link: "https://www.mydeltaq.com/", imageUrl: "delta.jpg"}
 - {name: "TICE.Leiria", description: "TICE.Leiria - Meetups", link: "https://www.tice.pt/", imageUrl: "tice-leiria.png"}
 - {name: "QualityTalks", description: "QualityTalks - Meetups", link: "https://www.linkedin.com/company/qualitytalks/", imageUrl: "quality-talks.png"}
 - {name: "TestWarez", description: "TestWarez - Conference for QA experts", link: "https://www.testwarez.pl/", imageUrl: "testwarez.png"}
@@ -6,4 +7,4 @@
 - {name: "Nordic Testing Days", description: "Nordic Testing Days - International Testing Conference", link: "https://nordictestingdays.eu/", imageUrl: "ntd2019.png"}
 - {name: "Belgrade Test Conference", description: "Belgrade Test Conference", link: "https://bg-testconference.rs/", imageUrl: "bg-testconference.png"}
 - {name: "Testing United", description: "Testing United - your testing conference", link: "https://testingunited.com/", imageUrl: "testingunited.png"}
-- {name: "Delta Q", description: "Delta Q - a vida começa agora", link: "https://www.mydeltaq.com/", imageUrl: "delta.jpg"}
+- {name: "SQA Days EU", description: "SQA European Days", link: "https://sqadays.eu/en/index", imageUrl: "sqadayseu.png"}
