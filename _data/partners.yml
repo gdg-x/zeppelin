@@ -21,3 +21,14 @@
 #     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 #     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 #     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+
+ -
+  group: "Partners"
+  elements:
+    - {name: "Perpetuum", description: "Perpetuum", link: "https://www.perpetuum.hr/", imageUrl: "perpetuum.png"}
+    - {name: "Hub385", description: "Hub385", link: "https://hub385.com/", imageUrl: "hub385.png"}
+ -
+  group: "Media sponsors"
+  elements:
+    - {name: "Vox Feminae", description: "Vox Feminae", link: "https://voxfeminae.net/", imageUrl: "vox-feminae.png"}
+    - {name: "TedX", description: "TedX", link: "http://tedxzagreb.com/", imageUrl: "tedx-zagreb.png"}
