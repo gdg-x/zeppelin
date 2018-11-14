@@ -65,7 +65,7 @@ typeoutFallback: "Season"
 heroButtons:
  - {link: "mailto:devfest.croatia@gmail.com", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
-
+ - {link: "/GDG_DevFest_Croatia_2018_Partnership_Proposition.pdf", text: "Sponsor us"}
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
