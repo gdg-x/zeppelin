@@ -2,7 +2,7 @@ task default: %w[css jekyll json]
 
 task :css do
   Dir.chdir('_sass') do
-    system "bundle exec compass compile -c config.rb -e production --force"
+    system "compass compile -c config.rb -e production --force"
   end
 end
 
@@ -14,5 +14,5 @@ task :json do
 end
 
 task :jekyll do
-  system "bundle exec jekyll build"
+  system "jekyll build"
 end
