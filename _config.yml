@@ -77,7 +77,7 @@ aboutBlock:
           "<strong><a href='/schedule/' | prepend: baseurl>Confira a agenda</a></strong> e <strong><a href='#tickets'>reserve já o seu lugar!</a></strong>"]}
  - {title: "Workshops", image: "workshop.jpg",
       text: ["Workshops dados por líderes mundiais na área de testes de software!",
-             "As workshops em Lisboa já estão esgotadas, mas ainda há vagas para as workshops de Coimbra e Porto!",
+             "As workshops já estão esgotadas!",
             "<strong><a href='/workshops/' | prepend: baseurl >Confira as workshops!</a></strong>"] }
  - {title: "Formação", image: "course.png",
       text: ["Na semana anterior à conferência não perca o curso ISTQB escolhido e com um valor promocional da PSTQB (com exame).",

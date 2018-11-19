@@ -63,8 +63,8 @@
                                         </a>
                                         
                                         <div id="{{track.tabid}}_time1" class="panel-collapse collapse in schedule-item-body">
-                                            {%if session.soldout %}
-                                            <div class="soldout">ESGOTADO</div>
+                                            {%if session.status != null %}
+                                            <div class="status">{{session.status}}</div>
                                             {% else %}
                                             <div>
                                                 <a href="mailto:testing.portugal@pstqb.pt?subject=Inscri%C3%A7%C3%A3o%20em%20Workshop{{session.id | modulo: 100}}"

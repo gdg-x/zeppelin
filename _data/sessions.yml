@@ -166,7 +166,7 @@
     "<ul><li>Agile Team Members, Test Engineers, QA Specialists, Business Analysts, System Analysts, Software Engineers, Test Managers, Project Managers, Enterprise Architects</li></ul>",
   ]
   subtype: workshop
-  soldout: true
+  status: "ESGOTADO"
   speakers: [2]
   place: "Lisboa, Altis Grand Hotel"
   language: en
@@ -176,7 +176,7 @@
 -
   id: 102
   title: "TeSTO: Techniques for Software Testing Optimization"
-  soldout: true
+  status: "ESGOTADO"
   descriptions: ["Are you doing software testing? And are you doing it optimizing your effort?",
     "In our days, the demanding to reduce the time to market is becoming almost insane. With the always increasing complexity (risk) of the systems at the same time that we have shorter development cycles (time) with the advent of the agile methodologies, software testers are always under pressure to ensure more quality with less effort (cost). Is it possible?",
     "Short answer: yes!",
@@ -203,7 +203,7 @@
     "<li>What testers and other team members can do together, resulting in better and more efficient results</li></ul>",
     "The workshop will focus on hands-on exercises and activities."]
   speakers: [3]
-  soldout: true
+  status: "ESGOTADO"
   subtype: workshop
   place: Lisboa, Altis Grand Hotel
   language: en
@@ -240,6 +240,7 @@
   subtype: workshop
   warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de uma das Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
   speakers: [2]
+  status: "CANCELADO"
   place: Coimbra
   language: en
   price: "<a href='#prices'>Consultar tabela de preços</a>"
@@ -264,6 +265,7 @@
     "<strong>Intended Audience</strong>:",
     "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
   ]
+  status: "CANCELADO"
   warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de uma das Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
   subtype: workshop
   speakers: [2]
