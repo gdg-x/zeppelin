@@ -238,7 +238,7 @@
     "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
   ]
   subtype: workshop
-  warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de uma das Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
+  warning: "A workshop foi cancelada devido a não ter sido registado o número mínimo de inscrições."
   speakers: [2]
   status: "CANCELADO"
   place: Coimbra
@@ -266,7 +266,7 @@
     "<ul><li>Test Managers, Test Leads, Test Engineers, Agile Team Members, QA Specialists, Project Managers, Business Analysts, System Analysts, Software Engineers</li></ul>"
   ]
   status: "CANCELADO"
-  warning: "Dos três Workshops apresentados, apenas será realizado o que tiver mais inscrições. Para a viabilização de uma das Workshops, são necessários, no minimo, 6 pessoas devidamente inscritas."
+  warning: "A workshop foi cancelada devido a não ter sido registado o número mínimo de inscrições."
   subtype: workshop
   speakers: [2]
   place: Porto
