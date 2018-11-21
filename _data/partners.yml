@@ -25,7 +25,7 @@
  -
   group: "Partners"
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.hr/intl/en/about/", imageUrl: "google.svg"}
     - {name: "Perpetuum", description: "Perpetuum", link: "https://www.perpetuum.hr/", imageUrl: "perpetuum.png"}
     - {name: "Hub385", description: "Hub385", link: "https://hub385.com/", imageUrl: "hub385.png"}
  -
