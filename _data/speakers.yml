@@ -138,8 +138,10 @@
   company: "Microsoft"
   title: "Cloud Solution Architect"
   #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
+  thumbnailUrl: LuisCalado.png
+  rockstar: true
+  social:
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/elcalado/"}
 - 
   id: 10
   name: "Margarida"
@@ -158,8 +160,8 @@
   company: "Noesis"
   title: "Senior Consultant"
   #bio: "Lorem Ipsum."
-  thumbnailUrl: default.png
-  rockstar: false
+  thumbnailUrl: NunoSousa.png
+  rockstar: true
 - 
   id: 5
   name: "Olivier"
