@@ -26,6 +26,14 @@ In this session we will talk about best practices, how indexing works and how to
   speakers: [4]
   language: en
   complexity: "Intermediate"
+-
+  id: 003
+  title: "Title: TBA"
+  description: "Description: TBA"
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
 # -
   # id: 002
   # title: "Building Cloud-powered wearable Apps"

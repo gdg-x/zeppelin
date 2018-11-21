@@ -23,6 +23,21 @@ He is involved with the W3C as well as the global web and JavaScript developer c
   social:
     - {name: "twitter", link: "https://twitter.com/abaotic"}
     - {name: "github", link: "https://github.com/abaotic"}
+-
+  id: 5
+  name: "Biljana"
+  surname: "Cerin"
+  company: "Ostendo Consulting"
+  title: "Founder & Director"
+  bio: 'Biljana Cerin is the Director of Ostendo Consulting, which was founded 2011 in London, U.K. and Zagreb, Croatia. The company provides information security and risk management, IT governance, and GDPR and other compliance regulations related consulting services.
+Ms. Cerin has more than 18 years’ experience in leading successful projects for clients in financial, telecommunication, government, oil and gas, energy, biotechnology, higher education, and IT services sectors worldwide.
+Her primary focus is on the smooth execution of projects, deliver of high quality of services and achievement of visible results. Her professional goal is to ensure information security and compliance is seen as a business enabler when meeting legal and regulatory requirements (such as GDPR, HIPAA, GMP Annex 11, PCI DSS).
+Ms. Cerin is Member of the ((ISC)2 Board of Directors, President of the (ISC)2 Croatia Chapter, a frequent speaker at leading international information security conferences, and the bearer of CISSP, CISA, CISM, CGEIT, CBCP and PMP professional certifications.'
+  thumbnailUrl: BiljanaCerin.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/biljanacerin"}
+    - {name: "twitter", link: "https://twitter.com/biljana_cerin"}
 # -
 #   id: 5
 #   name: "Mateusz"
