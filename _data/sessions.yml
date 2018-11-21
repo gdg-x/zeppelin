@@ -18,6 +18,14 @@ In this session we will talk about best practices, how indexing works and how to
   speakers: [3]
   language: en
   complexity: "Intermediate"
+-
+  id: 002
+  title: "Application signing and key management - Do it right!"
+  description: "Want your Android application to have a long and happy existence? Want to keep your end users and organisation safe? Join us and learn more about mitigating future problems by using Google Play App Signing and best practices regarding key management."
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
 # -
   # id: 002
   # title: "Building Cloud-powered wearable Apps"

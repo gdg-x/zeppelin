@@ -11,19 +11,18 @@ He is involved with the W3C as well as the global web and JavaScript developer c
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/g33konaut"}
-# -
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   company: "Lemberg Solutions Limited"
-#   title: "Android Developer"
-#   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   rockstar: true
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 4
+  name: "Ana"
+  surname: "Baotić"
+  company: "Asseco SEE"
+  title: "Project Manager"
+  bio: 'Ana is a software engineer with over 6 years experience in Android. During college she focused on various e-learning projects and plagiarism detection. After getting her Masters degree in CS, she started developing for Android at an Zagreb-based agency, working on various projects in the telecommunication, medical and travel industry. After switching to mobile banking and security, in 2016 she took the role of Technical Manager of Mobile banking. She is currently working as a Project Manager at Asseco SEE. In addition to coding, she loves organising workshops and working directly with clients, helping to close the gap between the technical and practical in the mobile industry. Apart from coding and public speaking, she enjoys spending time with her family and traveling.'
+  thumbnailUrl: AnaBaotic.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/abaotic"}
+    - {name: "github", link: "https://github.com/abaotic"}
 # -
 #   id: 5
 #   name: "Mateusz"
