@@ -1,3 +1,4 @@
+- {name: "Blue Dimension", description: "Blue Dimension - Overall understanding", link: "http://bluedimension.pt/", imageUrl: "bluedimension.png"}
 - {name: "Delta Q", description: "Delta Q - a vida começa agora", link: "https://www.mydeltaq.com/", imageUrl: "delta.jpg"}
 - {name: "TICE.Leiria", description: "TICE.Leiria - Meetups", link: "https://www.tice.pt/", imageUrl: "tice-leiria.png"}
 - {name: "QualityTalks", description: "QualityTalks - Meetups", link: "https://www.linkedin.com/company/qualitytalks/", imageUrl: "quality-talks.png"}
@@ -9,3 +10,4 @@
 - {name: "Testing United", description: "Testing United - your testing conference", link: "https://testingunited.com/", imageUrl: "testingunited.png"}
 - {name: "SQA Days EU", description: "SQA European Days", link: "https://sqadays.eu/en/index", imageUrl: "sqadayseu.png"}
 - {name: "SQA Days", description: "SQA Days", link: "https://sqadays.com/en/index", imageUrl: "sqadays.png"}
+- {name: "DSTB Conference", description: "DSTB Conference", link: "https://dstb.dk/konference-2019/", imageUrl: "dstb.png"}
