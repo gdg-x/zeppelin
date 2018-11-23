@@ -172,24 +172,11 @@ ticketsOffers:
   validThrough: "2018-12-1T23:59"
   # disabled: true
  -
-  name: "Early bird"
-  price: "250"
-  priceCurrency: "HRK"
-  ticketsNumber: "20"
-  ribbon: "-30%"
-  buyButtonLink: "https://www.entrio.hr/event/devfest-croatia-2018-5664"
-  buyButtonText: "Buy Now"
-  featured: true
-  ticketContentList: ["Conference", "Job speed date", "Lunch", "* This offer is valid only for first 20 tickets."]
-  validFrom: "2018-11-01T10:00"
-  validThrough: "2018-12-1T23:59"
-  # soldOut: true
-  # soldOutText: "Sold Out"
- -
   name: "Regular"
   price: "350"
   priceCurrency: "HRK"
   ticketsNumber: "250"
+  featured: true
   buyButtonLink: "https://www.entrio.hr/event/devfest-croatia-2018-5664"
   buyButtonText: "Buy Now"
   ticketContentList: ["Conference", "Job speed date", "Lunch"]
@@ -197,6 +184,19 @@ ticketsOffers:
   validThrough: "2018-12-1T23:59"
   # soldOut: true
   # soldOutText: "Sold Out"
+ -
+  name: "Early bird"
+  price: "250"
+  priceCurrency: "HRK"
+  ticketsNumber: "20"
+  ribbon: "-30%"
+  buyButtonLink: "https://www.entrio.hr/event/devfest-croatia-2018-5664"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Conference", "Job speed date", "Lunch", "* This offer is valid only for first 20 tickets."]
+  validFrom: "2018-11-01T10:00"
+  validThrough: "2018-12-1T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
