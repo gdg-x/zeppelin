@@ -60,6 +60,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2018"
 eventDate: "1. December, 2018"
+eventTime: "09:00 - 14:00"
+eventLocation: "HUB385"
 typeoutTextValues: '"", "Season", "Croatia"'
 typeoutFallback: "Season"
 heroButtons:
