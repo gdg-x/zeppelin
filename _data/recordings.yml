@@ -1,4 +1,47 @@
 -
+  id: "new-frontiers-in-tissue-engineering"
+  title: "New frontiers in Tissue Engineering"
+  description: ""
+  subtype: "presentation"
+  youtube: "_VsJLeVq3Dw"
+  year: "2018"
+  speakers: ["minu-karthika-ganesan"]
+  thumbnailUrl: "new-frontiers-in-tissue-engineering.jpg"
+-
+  id: "agile-transformation"
+  title: "Agile Transformation"
+  description: ""
+  subtype: "presentation"
+  youtube: "kbwmgkNMwD0"
+  year: "2018"
+  speakers: ["tanja-ollinger"]
+  thumbnailUrl: "agile-transformation.jpg"
+-
+  id: "building-bridges-neuro-inspired-technologies"
+  title: "Building Bridges: Neuro-inspired Technologies"
+  description: ""
+  subtype: "presentation"
+  youtube: "Qbi8IGX_M9c"
+  year: "2018"
+  speakers: ["sabria-lagoun"]
+  thumbnailUrl: "building-bridges.jpg"
+-
+  id: "scalable-process-execution-cloud"
+  title: "Scalable Business Process Execution in the Cloud"
+  description: ""
+  youtube: "9Sq2RVCrbns"
+  year: "2018"
+  speakers: ["gerta-sheganaku"]
+  thumbnailUrl: "scalable-process-execution-cloud.jpg"
+-
+  id: "mammoth-hunt-women"
+  title: "The mammoth hunt for women*: What archaeology taught me about bringing diversity to tech-communities"
+  description: ""
+  youtube: "5oUo12r10Wg"
+  year: "2018"
+  speakers: ["sonja-fischbauer"]
+  thumbnailUrl: "mammoth-hunt-women.jpg"
+-
   id: "dont-just-lean-in"
   title: "Don’t just “Lean in” – follow your passion"
   description: ""
