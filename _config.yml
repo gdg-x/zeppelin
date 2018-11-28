@@ -46,9 +46,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/livestream/", text: "Livestream"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/call/", text: "Call for Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/kids-workshops/", text: "Kids' Workshop (2016)"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/recordings/", text: "Recordings"}
@@ -223,11 +223,11 @@ blogCommentsEnabled: false
 discusShortName: "wtmvienna"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The core team of Women Techmakers Vienna 2018 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2018 an event where everyone is welcome and we can reach fruitful outcomes together."
+aboutUs: "The core team of Women Techmakers Vienna 2019 consists of enthusiastic volunteers that are trying to make a difference in the world of STEM. The core team has different responsibilities and together with the support of collaborators (also volunteers) and sponsors we are working on making Women Techmakers Vienna 2019 an event where everyone is welcome and we can reach fruitful outcomes together."
 
 #Workshop for kids Block
 kidsWStitel: "Learn Game programming by using Scratch"

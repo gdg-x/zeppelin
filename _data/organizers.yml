@@ -6,8 +6,8 @@
   group: "Partners"
   elements:
     - {name: "TU Wien - Faculty for Informatics", description: "TU Wien - Faculty for Informatics", link: "http://www.informatik.tuwien.ac.at/", imageUrl: "informatics-logo.png", width: "180px"}
-    - {name: "i2c", description: "innovation incubation center", link: "https://i2c.ec.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "200px"}
-    - {name: "Hakuma", description: "Hakuma", link: "http://www.hakuma.at/", imageUrl: "hakuma-logo.png", width: "120px"}
-    - {name: "ANDSoy", description: "ANDSoy", link: "https://www.andsoy.com/", imageUrl: "andsoy-logo.jpg", width: "100px"}
-    - {name: "Wirtschaftsagentur", description: "Wirtschaftsagentur", link: "https://wirtschaftsagentur.at/", imageUrl: "businessagency-logo.gif", width: 130px}
-    - {name: "Women in Vienna", description: "Women of Vienna", link: "http://www.womenofvienna.org/", imageUrl: "wov-logo.png", width: "100px"}
+#    - {name: "i2c", description: "innovation incubation center", link: "https://i2c.ec.tuwien.ac.at/", imageUrl: "i2center-logo.jpg", width: "200px"}
+#    - {name: "Hakuma", description: "Hakuma", link: "http://www.hakuma.at/", imageUrl: "hakuma-logo.png", width: "120px"}
+#    - {name: "ANDSoy", description: "ANDSoy", link: "https://www.andsoy.com/", imageUrl: "andsoy-logo.jpg", width: "100px"}
+#    - {name: "Wirtschaftsagentur", description: "Wirtschaftsagentur", link: "https://wirtschaftsagentur.at/", imageUrl: "businessagency-logo.gif", width: 130px}
+    - {name: "Women of Vienna", description: "Women of Vienna", link: "http://www.womenofvienna.org/", imageUrl: "wov-logo.png", width: "100px"}
