@@ -42,6 +42,44 @@
   speakers: ["sonja-fischbauer"]
   thumbnailUrl: "mammoth-hunt-women.jpg"
 -
+  id: "benefits-teaching-kids-code"
+  title: "The benefits of teaching kids to code"
+  description: ""
+  youtube: "uiqqZB8vHKY"
+  year: "2017"
+  speakers: ["ramon-huidobro"]
+  thumbnailUrl: "benefits-teaching-kids-code.jpg"
+-
+  id: "making-voice-heard-opensource"
+  title: "Making your voice heard: OpenSource needs you"
+  description: ""
+  youtube: "63y7IGKw-ac"
+  year: "2017"
+  speakers: ["laura-gaetano"]
+  thumbnailUrl: "making-voice-heard-opensource.jpg"
+-
+  id: "leading-vuca-world"
+  title: "Leading in a VUCA world"
+  description: ""
+  youtube: "6FpiIo6g0o8"
+  year: "2017"
+  speakers: ["tanja-ollinger"]
+  thumbnailUrl: "leading-vuca-world.jpg"
+-
+  id: "thriving-macondo-vr"
+  title: "Thriving in the Macondo: VR storytelling workshops for women"
+  year: "2017"
+  youtube: "0_DzDuQqReA"
+  speakers: ["josephine-dorado"]
+  thumbnailUrl: "thriving-macondo-vr.jpg"
+-
+  id: "five-elements-urban-architecture"
+  title: "Five elements of urban architecture"
+  year: "2017"
+  youtube: "C6pObviEk-w"
+  speakers: ["kristina-kiesel"]
+  thumbnailUrl: "five-elements-urban-architecture.jpg"
+-
   id: "dont-just-lean-in"
   title: "Don’t just “Lean in” – follow your passion"
   description: ""
