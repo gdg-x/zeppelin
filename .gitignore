@@ -12,4 +12,7 @@ _site/
 Thumbs.db
 ehthumbs.db
 
+### MacOS ###
+.DS_Store
+
 node_modules
