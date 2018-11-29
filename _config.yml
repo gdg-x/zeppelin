@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Floripa 2018"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "gdgfloripa@gmail.com"
+description: "GDG DevFest é um conjunto de eventos ao redor do mundo"
 baseurl: "/devfest"
-url: "https://gdg-x.github.io"
+url: "https://gdg-floripa.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -60,23 +60,23 @@ eventDate: "08 de Dezembro, 2018"
 typeoutTextValues: '"", "Floripa", "Santa Catarina", "Florianópolis"'
 typeoutFallback: 'Floripa'
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Comprar ingressos"}
 
-# About Block
-aboutTitle: "About GDG DevFest"
-aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+# # About Block
+# aboutTitle: "About GDG DevFest"
+# aboutBlock:
+#  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+#  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+# statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "180", specialCharacter: "+", info: "participantes", detail: "de todos os lugares"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "de muita tecnologia"}
+ - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "de todo o país"}
+ - {count: "3", specialCharacter: "", info: "trilhas paralelas", detail: "e áreas para networking"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -84,8 +84,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Destaques"
+rockstarSpeakersButtonText: "TODOS OS PALESTRANTES"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -107,16 +107,14 @@ mapMobileCenterCoordinates: "-27.431612, -48.442021"
 venueBlockTitle: "Local"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueSmallImage2: "venue_2.png"
 venueTitle: "Softplan"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: []
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+tweetsFeedTitle: "Esperamos por você!"
+twitterHashTag: "DevFestFloripa"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -130,67 +128,50 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Ingressos"
+ticketsInfo: "Ingressos garantem acesso a todas as palestras (sujeito à lotação das salas), sorteios e coffee break."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Primeiro Lote"
+  price: "40"
+  priceCurrency: "R$"
   ticketsNumber: "100"
   ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.sympla.com.br/devfest-2018---gdg-floripa__408152"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2018-11-20T10:00"
+  validThrough: "2018-11-28T23:59"
   soldOut: true
-  soldOutText: "Sold Out"
+  soldOutText: "Encerrado"
+
+ -
+  name: "Segundo Lote"
+  price: "50"
+  priceCurrency: "R$"
+  ticketsNumber: "80"
+  featured: true
+  buyButtonLink: "https://www.sympla.com.br/devfest-2018---gdg-floripa__408152"
+  buyButtonText: "Comprar"
+  validFrom: "2018-11-29T10:00"
+  validThrough: "2018-12-07T23:59"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://www.facebook.com/groups/gdgfloripa/", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://www.meetup.com/pt-BR/GDGFloripa/", text: "GDG Floripa"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgfloripa@gmail.com", text: "gdgfloripa@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Latest news"
