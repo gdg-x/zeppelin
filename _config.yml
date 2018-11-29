@@ -60,8 +60,8 @@ eventDate: "08 de Dezembro, 2018"
 typeoutTextValues: '"", "Floripa", "Santa Catarina", "Florianópolis"'
 typeoutFallback: 'Floripa'
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Comprar ingressos"}
 
 # # About Block
 # aboutTitle: "About GDG DevFest"
@@ -114,9 +114,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+tweetsFeedTitle: "Esperamos por você!"
+twitterHashTag: "DevFestFloripa"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -130,53 +129,38 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Ingressos"
+ticketsInfo: "Ingressos garantem acesso a todas as palestras (sujeito à lotação das salas), sorteios e coffee break."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Primeiro Lote"
+  price: "40"
+  priceCurrency: "R$"
   ticketsNumber: "100"
   ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.sympla.com.br/devfest-2018---gdg-floripa__408152"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2018-11-20T10:00"
+  validThrough: "2018-11-28T23:59"
   soldOut: true
-  soldOutText: "Sold Out"
+  soldOutText: "Encerrado"
+
+ -
+  name: "Segundo Lote"
+  price: "50"
+  priceCurrency: "R$"
+  ticketsNumber: "80"
+  featured: true
+  buyButtonLink: "https://www.sympla.com.br/devfest-2018---gdg-floripa__408152"
+  buyButtonText: "Comprar"
+  validFrom: "2018-11-29T10:00"
+  validThrough: "2018-12-07T23:59"
 
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
