@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Floripa 2018"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "gdgfloripa@gmail.com"
+description: "GDG DevFest é um conjunto de eventos ao redor do mundo"
 baseurl: "/devfest"
-url: "https://gdg-x.github.io"
+url: "https://gdg-floripa.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -84,8 +84,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Destaques"
+rockstarSpeakersButtonText: "TODOS OS PALESTRANTES"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -107,10 +107,9 @@ mapMobileCenterCoordinates: "-27.431612, -48.442021"
 venueBlockTitle: "Local"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueSmallImage2: "venue_2.png"
 venueTitle: "Softplan"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: []
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -158,23 +157,21 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.facebook.com/groups/gdgfloripa/", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://www.meetup.com/pt-BR/GDGFloripa/", text: "GDG Floripa"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgfloripa@gmail.com", text: "gdgfloripa@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Latest news"
