@@ -1,67 +1,247 @@
-- 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+- id: 1
+  name: 'Walmyr'
+  surname: 'Carvalho'
+  company: 'Kusudama'
+  title: 'Desenvolvedor + Designer'
+  bio: 'Walmyr Carvalho é desenvolvedor Android há 8 anos, trabalhou em empresas como Hotel Urbano, 99 e Loggi, é um dos Google Developer Experts de Android no Brasil, criador e organizador do Kotlin Meetup São Paulo e Android Dev BR, maior comunidade brasileira de Android no Slack, com mais de 5 mil membros.'
+  thumbnailUrl: WalmirCarvalho.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+    - {
+        abbr: 'GDE',
+        title: 'Google Developer Expert',
+        url: 'https://developers.google.com/experts/people/walmyr-carvalho',
+      }
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/walmyrcarvalho' }
+    - { name: 'linkedin', link: 'https://linkedin.com/in/walmyrcarvalho' }
+- id: 2
+  name: 'Filipe'
+  surname: 'Nunes'
+  company: "Let's Go"
+  title: 'Mobile Specialist'
+  bio: "<p>Desenvolvedor desde os 14 anos. Formado em sistemas. Fundador da Let's Go, desenvolvedor full stack. Organizador do GDG Porto Alegre, Leader Jam.</p><p>Evangelista do open source, envolvido em projetos como FISL e HacktoberFest Palestrante em escolas técnicas, universidades e eventos como, Google IO Extend, TDCs e GDGs. Participante de projetos e empresas como IBM, SAP dentre outras. Mais de 15 projetos públicos e em execução.</p>"
+  thumbnailUrl: FilipeNunes.jpg
+  rockstar: false
+  ribbon:
+    - {
+        abbr: 'GDG',
+        title: 'GDG Porto Alegre',
+        url: 'https://www.meetup.com/pt-BR/GDG-Porto-Alegre/',
+      }
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/FilipeFNunes' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/filipe-nunes-185a1278/' }
+    - { name: 'github', link: 'https://github.com/ksdrof500' }
+- id: 3
+  name: 'Hobbert'
+  surname: 'Evergreen'
+  company: "EverThink"
+  title: 'CEO'
+  bio: "Psicólogo formado pela USP, pós graduado em Engenharia de Automação Industrial pelo SENAI, atualmente é CEO da EveThink, uma StartUP de Robótica Inteligente"
+  thumbnailUrl: HobbertEvergreen.jpg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/hobbertevergreen' }
+- id: 4
+  name: 'Maisa'
+  surname: 'Fonseca'
+  company: "ArcTouch"
+  title: 'Agile Project Manager'
+  bio: "<p>Maisa Fonseca é uma eterna estudante e agilista apaixonada.</p><p>Cursando Análise e Desenvolvimento de Sistemas depois de uma temporada em Letras, trabalha na ArcTouch como gerente de projeto e facilitadora ágil.</p>"
+  thumbnailUrl: MaisaFonseca.jpg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'www.linkedin.com/in/maisalfonseca' }
+- id: 5
+  name: 'Douglas'
+  surname: 'Drumond'
+  company: "Pixeon"
+  title: 'Coordenador'
+  bio: "<p>Gerente de mobile na Pixeon e moderador da comunidade Android Dev BR.</p><p>Graduado em Ciência da Computação pela Unicamp, trabalho com Android desde 2010 e passei por todas as camadas: desde código de modem, o próprio Android framework até chegar em desenvolvimento de aplicativos.</p><p>Em relação às empresas, já trabalhei em startups de 3 pessoas, gigantes como IBM e empresas dos mais diversos portes, como Movile e 99, incluindo uma agência em Cupertino, California.</p>"
+  thumbnailUrl: DouglasDrumond.jpeg
+  rockstar: false
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/douglasdrumz' }
+- id: 6
+  name: 'Rodrigo'
+  surname: 'Branas'
+  company: "AgileCode"
+  title: 'CEO'
+  bio: "<p>Arquiteto de software, professor, palestrante e autor, especializado na linguagem JavaScript.</p><p>Formado em Ciências da Computação na UFSC e MBA em gestão de projetos pela FGV, atua há mais de 15 anos no mercado de desenvolvimento de software, participando de projetos tanto no Brasil quanto no exterior.</p><p>Atualmente é co-fundador e CTO da Gennera Apps, uma empresa especializada no desenvolvimento de soluções para gestão educacional com mais de 700 clientes em todo o país, e também fundador e professor da AgileCode.</p><p>Apresentou mais de 100 palestras em eventos e participou da formação de mais de 1.000 profissionais. Além disso, é autor do livro AngularJS Essentials, vendido em todo o mundo, e também de diversos artigos da revista Java Magazine, uma das publicações mais importantes do país, sobre a linguagem Java.</p><p>No YouTube, mantém um canal sobre a linguagem JavaScript, Angular, Node.js, Grunt, Gulp, Bower e muito mais!</p>"
+  thumbnailUrl: RodrigoBranas.jpeg
+  rockstar: false
+  social:
+    - { name: 'youtube', link: 'https://youtube.com/rodrigobranas' }
+- id: 7
+  name: 'André Fernando'
+  surname: 'Faggion'
+  company: "Softplan"
+  title: 'Analista de Negócios Especialista'
+  bio: "<p>Graduado em Processamento de Dados pelo CEFET-PR com especializações em Gestão Pública e Engenharia de Sistemas. Possui MBA em Gestão Estratégica, Inovação e Conhecimento e também em Comportamento Organizacional de Gestão de Pessoas.</p><p>Atua há 25 anos na área de tecnologia, passando por desenvolvimento, análise de sistemas, análise de negócios, coordenação de equipes de produto e desenvolvimento. Atualmente é analista de negócios especialista na Softplan onda há 8 anos está trabalha com o sistema de Procuradorias Judiciais - SAJ Procuradorias.</p>"
+  thumbnailUrl: AndreFaggion.jpg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/afaggion/' }
+- id: 8
+  name: 'Bianca'
+  surname: 'Brancaleone'
+  company: "GS Solutions"
+  title: 'UX Specialist'
+  bio: "<p>Comecei minha minha jornada em TI criando sites como dever de casa no ensino médio. Entrei no mercado há 14 anos, me graduei em design de multimídia, me especializei em arquitetura de informação e hoje trabalho como Especialista em UX.</p><p>Faço parte do programa Google Developer Experts na área de Design de Produto, sou Sprint Master certificada pelo Google, uma das líderes do GDG e WTM de Sorocaba e sócia de um e-commerce focado no público desenvolvedor e geek, o Eu Compraria.</p>"
+  thumbnailUrl: BiancaBrancaleone.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {
+        abbr: 'GDE',
+        title: 'Google Developer Expert',
+        url: 'https://developers.google.com/experts/people/bianca-brancaleone',
+      }
+    - {
+        abbr: 'GDG',
+        title: 'GDG Sorocaba',
+        url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
+      }
+    - {
+        abbr: 'WTM',
+        title: 'Women Techmakers',
+        url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
+      }
+  social:
+    - { name: 'facebook', link: 'https://www.facebook.com/bianca.brancaleone' }
+- id: 9
+  name: 'Guilherme'
+  surname: 'Serrano'
+  company: "GS Solutions (freelancer)"
+  title: 'Sócio / dev'
+  bio: "Trabalha com desenvolvimento web desde 2004 - pagando as contas em dia nos últimos 6 anos só com freelas."
+  thumbnailUrl: GuilhermeSerrano.jpg
+  rockstar: false
+  ribbon:
+    - {
+        abbr: 'GDG',
+        title: 'GDG Sorocaba',
+        url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
+      }
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/gserrano' }
+- id: 10
+  name: 'Luciano Antonio'
+  surname: 'Borguetti Faustino'
+  company: "Neoway Tecnologia"
+  title: 'BlackOps'
+  bio: "<p>Atuo há mais de 18 anos com sistema operacional Unix-like (GNU Linux, FreeBSD, OpenBSD).</p><p>Atualmente meu foco de trabalho está na construção/arquitetura de soluções Multi Cloud Provider e na criação e disseminação da cultura e boas praticas de DevOps (infra estrutura como código, automação, continuous integration, continuous delivery, monitoramento, operação, etc).</p><p>Também atuo ativamente na organização de eventos e compartilhamento de conhecimento nas comunidades de DevOps, Cloud Compute, Docker, entre outras, em Florianópolis.</p>"
+  thumbnailUrl: LucianoFaustino.jpg
+  rockstar: false
+  social:
+    - { name: 'github', link: 'https://github.com/lborguetti' }
+- id: 11
+  name: 'Evaldo'
+  surname: 'Felipe'
+  company: "Neoway Tecnologia"
+  title: 'BlackOps'
+  bio: ""
+  thumbnailUrl: EvaldoFelipe.png
+  rockstar: false
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/evaldofelipe' }
+- id: 12
+  name: 'Fabio'
+  surname: 'Jascone'
+  company: "Softplan"
+  title: 'Executivo de Novos Negócios'
+  bio: "<p>Entusiasta de metodologias ágeis e filosofia Lean. Por mais de 10 anos liderou grandes times de desenvolvimento de software.</p><p>Na Senior, em Blumenau/SC, contribuiu ativamente com a transformação ágil na implementação do Scrum, Kanban e SAFe. Atuou como Lean-Agile Coach e atualmente no papel de Product Manager na Softplan, em Florianópolis.</p><p>Certificado Professional ScrumMaster pela Scrum org (PSM I). Management 3.0. Kanban Management Professional (KMP I + II). Escritor amador, com texto publicado em mídias digitais e na revista RH e Gestão. Palestrante por prazer.</p><p>Graduado em Ciências da Computação na FURB, pós-graduado em Gestão de Pessoas pelo INPG e Gestão Empresarial pela FGV, e mestrando em Administração na UFSC.</p>"
+  thumbnailUrl: FabioJascone.jpeg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/fabiojascone/' }
+- id: 13
+  name: 'Alline'
+  surname: 'Oliveira'
+  company: "Crebit"
+  title: 'CEO / CTO'
+  bio: "<p>Alline Oliveira é certificada Google Developer Expert devido a seu trabalho em Cloud Computing.</p><p>Já desenvolveu para Nike, Citibank, Qualcomm, Universidade da California, TAM, dentre outras. Hoje é CEO e CTO da fintech Crebit.</p>"
+  thumbnailUrl: AllineOliveira.jpg
+  rockstar: true
+  ribbon:
+    - {
+        abbr: 'GDE',
+        title: 'Google Developer Expert',
+        url: 'https://developers.google.com/experts/people/alline-oliveira',
+      }
+  social:
+    - { name: 'google-plus', link: 'https://plus.google.com/+AllineOliveiraS' }
+    - { name: 'twitter', link: 'https://twitter.com/allineo' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/allineo/' }
+- id: 14
+  name: 'Rafael'
+  surname: 'Leandro'
+  company: "Involves"
+  title: 'Desenvolvedor iOS'
+  bio: "Desde 2012 desenvolvendo para plataformas da Apple, trabalhei desde a área educacional até a área de saúde, publicando diversos apps na loja."
+  thumbnailUrl: RafaelLeandro.jpeg
+  rockstar: false
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/CRF_Rafa' }
+    - { name: 'github', link: 'https://github.com/raafas' }
+- id: 15
+  name: 'Laura'
+  surname: 'Carvalho'
+  company: "ArcTouch"
+  title: 'Software Engineer'
+  bio: "Bacharel em Ciências da Computação (UFU), atuo em desenvolvimento desde antes da graduação. Já programei pra web, desktop e hoje me dedico à programação mobile, especificamente iOS."
+  thumbnailUrl: LauraCarvalho.jpeg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://linkedin.com/in/laura-barbosa-de-carvalho-45578220/' }
+- id: 16
+  name: 'Khalil'
+  surname: 'Ayache Almeida'
+  company: "IBM"
+  title: 'Android Engineer'
+  bio: "Desenvolvedor Android há 2 anos, atua como consultor na IBM, ajuda e é ajudado no slack da comunidade"
+  thumbnailUrl: KhalilAyache.jpeg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://linkedin.com/in/khalilayache/' }
+- id: 17
+  name: 'Gustavo'
+  surname: 'Silva Monteiro'
+  company: "Psafe"
+  title: 'Desenvolvedor Mobile'
+  bio: "<p>Comecei a trabalhar com mobile na Psafe em 2015, como desenvolvedor, trabalhei no Battery(economia de bateria) por 1 ano e hoje trabalho no Security(antivirus), ambos produtos da empresa.</p><p>Atualmente busco participar mais da comunidade, tentando compartilhar conhecimentos e experiências, também pesquiso sobre IA, para criar novas tecnologias para os produtos.</p>"
+  thumbnailUrl: GustavoMonteiro.jpeg
+  rockstar: false
+  social:
+    - { name: 'twitter', link: 'https://twitter.com/OGustavoDev' }
+    - { name: 'github', link: 'https://github.com/pteroto' }
+- id: 18
+  name: 'Gleidson Antônio'
+  surname: 'Cardoso da Silva'
+  company: "Softplan"
+  title: 'Cientista de Dados'
+  bio: "<p>Exercito engenharia de software desde 2001, trabalho com desenvolvimento web desde 2005, com pesquisa desde 2006, ciência de dados desde 2015.</p><p>Possuo experiência como desenvolvedor, pesquisador (banco de dados e inteligência artificial), projetista de sistemas, arquiteto de software, cientista de dados, líder de equipe técnica e empreendedor.</p>"
+  thumbnailUrl: GleidsonSilva.jpeg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://linkedin.com/in/gleidsondasilva/' }
+- id: 19
+  name: 'Edson'
+  surname: 'Menegatti'
+  company: "Speakap"
+  title: 'Desenvolvedor Android Senior'
+  bio: "Desenvolvedor Android senior, formado em Engenharia de Controle e Automação pela UFSC. Comecei a trabalhar com Android em 2014 na Cheesecake Labs de Florianópolis e logo em seguida me mudei para a Holanda onde trabalhei em duas empresas: Picnic, um supermarcado completamente virtual, e Speakap, uma rede social corporativa."
+  thumbnailUrl: EdsonMenegatti.jpg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://linkedin.com/in/edson.menegatti' }
+- id: 20
+  name: 'Bárbara'
+  surname: 'Cabral'
+  company: "Barbara Cabral Consultoria e Serviços de TI"
+  title: 'QA Engineer'
+  bio: "<p>QA Engineer, atua há mais de 10 anos na área de TI, nos quais pelo menos 8 deles com Agile Testing. Apaixonada pelas comunidades na área de TI, mentora em qualidade, blogueira e palestrante.</p><p>Atualmente co-organiza o GUTS-SC e QA Ladies, é mentora no RailsGirls Floripa e apoia as comunidades de Mulheres na área</p>"
+  thumbnailUrl: BarbaraCabral.jpeg
+  rockstar: false
+  social:
+    - { name: 'linkedin', link: 'https://linkedin.com/in/barbaracabral/' }
