@@ -7,14 +7,14 @@
   thumbnailUrl: WalmirCarvalho.jpg
   rockstar: true
   ribbon:
-    - {
-        abbr: 'GDE',
-        title: 'Google Developer Expert',
-        url: 'https://developers.google.com/experts/people/walmyr-carvalho',
-      }
+      - {
+            abbr: 'GDE',
+            title: 'Google Developer Expert',
+            url: 'https://developers.google.com/experts/people/walmyr-carvalho',
+        }
   social:
-    - { name: 'twitter', link: 'https://twitter.com/walmyrcarvalho' }
-    - { name: 'linkedin', link: 'https://linkedin.com/in/walmyrcarvalho' }
+      - { name: 'twitter', link: 'https://twitter.com/walmyrcarvalho' }
+      - { name: 'linkedin', link: 'https://linkedin.com/in/walmyrcarvalho' }
 - id: 2
   name: 'Filipe'
   surname: 'Nunes'
@@ -24,224 +24,239 @@
   thumbnailUrl: FilipeNunes.jpg
   rockstar: false
   ribbon:
-    - {
-        abbr: 'GDG',
-        title: 'GDG Porto Alegre',
-        url: 'https://www.meetup.com/pt-BR/GDG-Porto-Alegre/',
-      }
+      - {
+            abbr: 'GDG',
+            title: 'GDG Porto Alegre',
+            url: 'https://www.meetup.com/pt-BR/GDG-Porto-Alegre/',
+        }
   social:
-    - { name: 'twitter', link: 'https://twitter.com/FilipeFNunes' }
-    - { name: 'linkedin', link: 'https://www.linkedin.com/in/filipe-nunes-185a1278/' }
-    - { name: 'github', link: 'https://github.com/ksdrof500' }
+      - { name: 'twitter', link: 'https://twitter.com/FilipeFNunes' }
+      - {
+            name: 'linkedin',
+            link: 'https://www.linkedin.com/in/filipe-nunes-185a1278/',
+        }
+      - { name: 'github', link: 'https://github.com/ksdrof500' }
 - id: 3
   name: 'Hobbert'
   surname: 'Evergreen'
-  company: "EverThink"
+  company: 'EverThink'
   title: 'CEO'
-  bio: "Psicólogo formado pela USP, pós graduado em Engenharia de Automação Industrial pelo SENAI, atualmente é CEO da EveThink, uma StartUP de Robótica Inteligente"
+  bio: 'Psicólogo formado pela USP, pós graduado em Engenharia de Automação Industrial pelo SENAI, atualmente é CEO da EveThink, uma StartUP de Robótica Inteligente'
   thumbnailUrl: HobbertEvergreen.jpg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://www.linkedin.com/in/hobbertevergreen' }
+      - {
+            name: 'linkedin',
+            link: 'https://www.linkedin.com/in/hobbertevergreen',
+        }
 - id: 4
   name: 'Maisa'
   surname: 'Fonseca'
-  company: "ArcTouch"
+  company: 'ArcTouch'
   title: 'Agile Project Manager'
-  bio: "<p>Maisa Fonseca é uma eterna estudante e agilista apaixonada.</p><p>Cursando Análise e Desenvolvimento de Sistemas depois de uma temporada em Letras, trabalha na ArcTouch como gerente de projeto e facilitadora ágil.</p>"
+  bio: '<p>Maisa Fonseca é uma eterna estudante e agilista apaixonada.</p><p>Cursando Análise e Desenvolvimento de Sistemas depois de uma temporada em Letras, trabalha na ArcTouch como gerente de projeto e facilitadora ágil.</p>'
   thumbnailUrl: MaisaFonseca.jpg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'www.linkedin.com/in/maisalfonseca' }
+      - { name: 'linkedin', link: 'www.linkedin.com/in/maisalfonseca' }
 - id: 5
   name: 'Douglas'
   surname: 'Drumond'
-  company: "Pixeon"
+  company: 'Pixeon'
   title: 'Coordenador'
-  bio: "<p>Gerente de mobile na Pixeon e moderador da comunidade Android Dev BR.</p><p>Graduado em Ciência da Computação pela Unicamp, trabalho com Android desde 2010 e passei por todas as camadas: desde código de modem, o próprio Android framework até chegar em desenvolvimento de aplicativos.</p><p>Em relação às empresas, já trabalhei em startups de 3 pessoas, gigantes como IBM e empresas dos mais diversos portes, como Movile e 99, incluindo uma agência em Cupertino, California.</p>"
+  bio: '<p>Gerente de mobile na Pixeon e moderador da comunidade Android Dev BR.</p><p>Graduado em Ciência da Computação pela Unicamp, trabalho com Android desde 2010 e passei por todas as camadas: desde código de modem, o próprio Android framework até chegar em desenvolvimento de aplicativos.</p><p>Em relação às empresas, já trabalhei em startups de 3 pessoas, gigantes como IBM e empresas dos mais diversos portes, como Movile e 99, incluindo uma agência em Cupertino, California.</p>'
   thumbnailUrl: DouglasDrumond.jpeg
   rockstar: false
   social:
-    - { name: 'twitter', link: 'https://twitter.com/douglasdrumz' }
+      - { name: 'twitter', link: 'https://twitter.com/douglasdrumz' }
 - id: 6
   name: 'Rodrigo'
   surname: 'Branas'
-  company: "AgileCode"
+  company: 'AgileCode'
   title: 'CEO'
-  bio: "<p>Arquiteto de software, professor, palestrante e autor, especializado na linguagem JavaScript.</p><p>Formado em Ciências da Computação na UFSC e MBA em gestão de projetos pela FGV, atua há mais de 15 anos no mercado de desenvolvimento de software, participando de projetos tanto no Brasil quanto no exterior.</p><p>Atualmente é co-fundador e CTO da Gennera Apps, uma empresa especializada no desenvolvimento de soluções para gestão educacional com mais de 700 clientes em todo o país, e também fundador e professor da AgileCode.</p><p>Apresentou mais de 100 palestras em eventos e participou da formação de mais de 1.000 profissionais. Além disso, é autor do livro AngularJS Essentials, vendido em todo o mundo, e também de diversos artigos da revista Java Magazine, uma das publicações mais importantes do país, sobre a linguagem Java.</p><p>No YouTube, mantém um canal sobre a linguagem JavaScript, Angular, Node.js, Grunt, Gulp, Bower e muito mais!</p>"
+  bio: '<p>Arquiteto de software, professor, palestrante e autor, especializado na linguagem JavaScript.</p><p>Formado em Ciências da Computação na UFSC e MBA em gestão de projetos pela FGV, atua há mais de 15 anos no mercado de desenvolvimento de software, participando de projetos tanto no Brasil quanto no exterior.</p><p>Atualmente é co-fundador e CTO da Gennera Apps, uma empresa especializada no desenvolvimento de soluções para gestão educacional com mais de 700 clientes em todo o país, e também fundador e professor da AgileCode.</p><p>Apresentou mais de 100 palestras em eventos e participou da formação de mais de 1.000 profissionais. Além disso, é autor do livro AngularJS Essentials, vendido em todo o mundo, e também de diversos artigos da revista Java Magazine, uma das publicações mais importantes do país, sobre a linguagem Java.</p><p>No YouTube, mantém um canal sobre a linguagem JavaScript, Angular, Node.js, Grunt, Gulp, Bower e muito mais!</p>'
   thumbnailUrl: RodrigoBranas.jpeg
   rockstar: false
   social:
-    - { name: 'youtube', link: 'https://youtube.com/rodrigobranas' }
+      - { name: 'youtube', link: 'https://youtube.com/rodrigobranas' }
 - id: 7
   name: 'André Fernando'
   surname: 'Faggion'
-  company: "Softplan"
+  company: 'Softplan'
   title: 'Analista de Negócios Especialista'
-  bio: "<p>Graduado em Processamento de Dados pelo CEFET-PR com especializações em Gestão Pública e Engenharia de Sistemas. Possui MBA em Gestão Estratégica, Inovação e Conhecimento e também em Comportamento Organizacional de Gestão de Pessoas.</p><p>Atua há 25 anos na área de tecnologia, passando por desenvolvimento, análise de sistemas, análise de negócios, coordenação de equipes de produto e desenvolvimento. Atualmente é analista de negócios especialista na Softplan onda há 8 anos está trabalha com o sistema de Procuradorias Judiciais - SAJ Procuradorias.</p>"
+  bio: '<p>Graduado em Processamento de Dados pelo CEFET-PR com especializações em Gestão Pública e Engenharia de Sistemas. Possui MBA em Gestão Estratégica, Inovação e Conhecimento e também em Comportamento Organizacional de Gestão de Pessoas.</p><p>Atua há 25 anos na área de tecnologia, passando por desenvolvimento, análise de sistemas, análise de negócios, coordenação de equipes de produto e desenvolvimento. Atualmente é analista de negócios especialista na Softplan onda há 8 anos está trabalha com o sistema de Procuradorias Judiciais - SAJ Procuradorias.</p>'
   thumbnailUrl: AndreFaggion.jpg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://www.linkedin.com/in/afaggion/' }
+      - { name: 'linkedin', link: 'https://www.linkedin.com/in/afaggion/' }
 - id: 8
   name: 'Bianca'
   surname: 'Brancaleone'
-  company: "GS Solutions"
+  company: 'GS Solutions'
   title: 'UX Specialist'
-  bio: "<p>Comecei minha minha jornada em TI criando sites como dever de casa no ensino médio. Entrei no mercado há 14 anos, me graduei em design de multimídia, me especializei em arquitetura de informação e hoje trabalho como Especialista em UX.</p><p>Faço parte do programa Google Developer Experts na área de Design de Produto, sou Sprint Master certificada pelo Google, uma das líderes do GDG e WTM de Sorocaba e sócia de um e-commerce focado no público desenvolvedor e geek, o Eu Compraria.</p>"
+  bio: '<p>Comecei minha minha jornada em TI criando sites como dever de casa no ensino médio. Entrei no mercado há 14 anos, me graduei em design de multimídia, me especializei em arquitetura de informação e hoje trabalho como Especialista em UX.</p><p>Faço parte do programa Google Developer Experts na área de Design de Produto, sou Sprint Master certificada pelo Google, uma das líderes do GDG e WTM de Sorocaba e sócia de um e-commerce focado no público desenvolvedor e geek, o Eu Compraria.</p>'
   thumbnailUrl: BiancaBrancaleone.jpg
   rockstar: true
   ribbon:
-    - {
-        abbr: 'GDE',
-        title: 'Google Developer Expert',
-        url: 'https://developers.google.com/experts/people/bianca-brancaleone',
-      }
-    - {
-        abbr: 'GDG',
-        title: 'GDG Sorocaba',
-        url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
-      }
-    - {
-        abbr: 'WTM',
-        title: 'Women Techmakers',
-        url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
-      }
+      - {
+            abbr: 'GDE',
+            title: 'Google Developer Expert',
+            url: 'https://developers.google.com/experts/people/bianca-brancaleone',
+        }
+      - {
+            abbr: 'GDG',
+            title: 'GDG Sorocaba',
+            url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
+        }
+      - {
+            abbr: 'WTM',
+            title: 'Women Techmakers',
+            url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
+        }
   social:
-    - { name: 'facebook', link: 'https://www.facebook.com/bianca.brancaleone' }
+      - {
+            name: 'facebook',
+            link: 'https://www.facebook.com/bianca.brancaleone',
+        }
 - id: 9
   name: 'Guilherme'
   surname: 'Serrano'
-  company: "GS Solutions (freelancer)"
+  company: 'GS Solutions (freelancer)'
   title: 'Sócio / dev'
-  bio: "Trabalha com desenvolvimento web desde 2004 - pagando as contas em dia nos últimos 6 anos só com freelas."
+  bio: 'Trabalha com desenvolvimento web desde 2004 - pagando as contas em dia nos últimos 6 anos só com freelas.'
   thumbnailUrl: GuilhermeSerrano.jpg
   rockstar: false
   ribbon:
-    - {
-        abbr: 'GDG',
-        title: 'GDG Sorocaba',
-        url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
-      }
+      - {
+            abbr: 'GDG',
+            title: 'GDG Sorocaba',
+            url: 'https://www.meetup.com/pt-BR/GDG-Sorocaba/',
+        }
   social:
-    - { name: 'twitter', link: 'https://twitter.com/gserrano' }
+      - { name: 'twitter', link: 'https://twitter.com/gserrano' }
 - id: 10
   name: 'Luciano Antonio'
   surname: 'Borguetti Faustino'
-  company: "Neoway Tecnologia"
+  company: 'Neoway Tecnologia'
   title: 'BlackOps'
-  bio: "<p>Atuo há mais de 18 anos com sistema operacional Unix-like (GNU Linux, FreeBSD, OpenBSD).</p><p>Atualmente meu foco de trabalho está na construção/arquitetura de soluções Multi Cloud Provider e na criação e disseminação da cultura e boas praticas de DevOps (infra estrutura como código, automação, continuous integration, continuous delivery, monitoramento, operação, etc).</p><p>Também atuo ativamente na organização de eventos e compartilhamento de conhecimento nas comunidades de DevOps, Cloud Compute, Docker, entre outras, em Florianópolis.</p>"
+  bio: '<p>Atuo há mais de 18 anos com sistema operacional Unix-like (GNU Linux, FreeBSD, OpenBSD).</p><p>Atualmente meu foco de trabalho está na construção/arquitetura de soluções Multi Cloud Provider e na criação e disseminação da cultura e boas praticas de DevOps (infra estrutura como código, automação, continuous integration, continuous delivery, monitoramento, operação, etc).</p><p>Também atuo ativamente na organização de eventos e compartilhamento de conhecimento nas comunidades de DevOps, Cloud Compute, Docker, entre outras, em Florianópolis.</p>'
   thumbnailUrl: LucianoFaustino.jpg
   rockstar: false
   social:
-    - { name: 'github', link: 'https://github.com/lborguetti' }
+      - { name: 'github', link: 'https://github.com/lborguetti' }
 - id: 11
   name: 'Evaldo'
   surname: 'Felipe'
-  company: "Neoway Tecnologia"
+  company: 'Neoway Tecnologia'
   title: 'BlackOps'
-  bio: ""
+  bio: ''
   thumbnailUrl: EvaldoFelipe.png
   rockstar: false
   social:
-    - { name: 'twitter', link: 'https://twitter.com/evaldofelipe' }
+      - { name: 'twitter', link: 'https://twitter.com/evaldofelipe' }
 - id: 12
   name: 'Fabio'
   surname: 'Jascone'
-  company: "Softplan"
+  company: 'Softplan'
   title: 'Executivo de Novos Negócios'
-  bio: "<p>Entusiasta de metodologias ágeis e filosofia Lean. Por mais de 10 anos liderou grandes times de desenvolvimento de software.</p><p>Na Senior, em Blumenau/SC, contribuiu ativamente com a transformação ágil na implementação do Scrum, Kanban e SAFe. Atuou como Lean-Agile Coach e atualmente no papel de Product Manager na Softplan, em Florianópolis.</p><p>Certificado Professional ScrumMaster pela Scrum org (PSM I). Management 3.0. Kanban Management Professional (KMP I + II). Escritor amador, com texto publicado em mídias digitais e na revista RH e Gestão. Palestrante por prazer.</p><p>Graduado em Ciências da Computação na FURB, pós-graduado em Gestão de Pessoas pelo INPG e Gestão Empresarial pela FGV, e mestrando em Administração na UFSC.</p>"
+  bio: '<p>Entusiasta de metodologias ágeis e filosofia Lean. Por mais de 10 anos liderou grandes times de desenvolvimento de software.</p><p>Na Senior, em Blumenau/SC, contribuiu ativamente com a transformação ágil na implementação do Scrum, Kanban e SAFe. Atuou como Lean-Agile Coach e atualmente no papel de Product Manager na Softplan, em Florianópolis.</p><p>Certificado Professional ScrumMaster pela Scrum org (PSM I). Management 3.0. Kanban Management Professional (KMP I + II). Escritor amador, com texto publicado em mídias digitais e na revista RH e Gestão. Palestrante por prazer.</p><p>Graduado em Ciências da Computação na FURB, pós-graduado em Gestão de Pessoas pelo INPG e Gestão Empresarial pela FGV, e mestrando em Administração na UFSC.</p>'
   thumbnailUrl: FabioJascone.jpeg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://www.linkedin.com/in/fabiojascone/' }
+      - { name: 'linkedin', link: 'https://www.linkedin.com/in/fabiojascone/' }
 - id: 13
   name: 'Alline'
   surname: 'Oliveira'
-  company: "Crebit"
+  company: 'Crebit'
   title: 'CEO / CTO'
-  bio: "<p>Alline Oliveira é certificada Google Developer Expert devido a seu trabalho em Cloud Computing.</p><p>Já desenvolveu para Nike, Citibank, Qualcomm, Universidade da California, TAM, dentre outras. Hoje é CEO e CTO da fintech Crebit.</p>"
+  bio: '<p>Alline Oliveira é certificada Google Developer Expert devido a seu trabalho em Cloud Computing.</p><p>Já desenvolveu para Nike, Citibank, Qualcomm, Universidade da California, TAM, dentre outras. Hoje é CEO e CTO da fintech Crebit.</p>'
   thumbnailUrl: AllineOliveira.jpg
   rockstar: true
   ribbon:
-    - {
-        abbr: 'GDE',
-        title: 'Google Developer Expert',
-        url: 'https://developers.google.com/experts/people/alline-oliveira',
-      }
+      - {
+            abbr: 'GDE',
+            title: 'Google Developer Expert',
+            url: 'https://developers.google.com/experts/people/alline-oliveira',
+        }
   social:
-    - { name: 'google-plus', link: 'https://plus.google.com/+AllineOliveiraS' }
-    - { name: 'twitter', link: 'https://twitter.com/allineo' }
-    - { name: 'linkedin', link: 'https://www.linkedin.com/in/allineo/' }
+      - {
+            name: 'google-plus',
+            link: 'https://plus.google.com/+AllineOliveiraS',
+        }
+      - { name: 'twitter', link: 'https://twitter.com/allineo' }
+      - { name: 'linkedin', link: 'https://www.linkedin.com/in/allineo/' }
 - id: 14
   name: 'Rafael'
   surname: 'Leandro'
-  company: "Involves"
+  company: 'Involves'
   title: 'Desenvolvedor iOS'
-  bio: "Desde 2012 desenvolvendo para plataformas da Apple, trabalhei desde a área educacional até a área de saúde, publicando diversos apps na loja."
+  bio: 'Desde 2012 desenvolvendo para plataformas da Apple, trabalhei desde a área educacional até a área de saúde, publicando diversos apps na loja.'
   thumbnailUrl: RafaelLeandro.jpeg
   rockstar: false
   social:
-    - { name: 'twitter', link: 'https://twitter.com/CRF_Rafa' }
-    - { name: 'github', link: 'https://github.com/raafas' }
+      - { name: 'twitter', link: 'https://twitter.com/CRF_Rafa' }
+      - { name: 'github', link: 'https://github.com/raafas' }
 - id: 15
   name: 'Laura'
   surname: 'Carvalho'
-  company: "ArcTouch"
+  company: 'ArcTouch'
   title: 'Software Engineer'
-  bio: "Bacharel em Ciências da Computação (UFU), atuo em desenvolvimento desde antes da graduação. Já programei pra web, desktop e hoje me dedico à programação mobile, especificamente iOS."
+  bio: 'Bacharel em Ciências da Computação (UFU), atuo em desenvolvimento desde antes da graduação. Já programei pra web, desktop e hoje me dedico à programação mobile, especificamente iOS.'
   thumbnailUrl: LauraCarvalho.jpeg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://linkedin.com/in/laura-barbosa-de-carvalho-45578220/' }
+      - {
+            name: 'linkedin',
+            link: 'https://linkedin.com/in/laura-barbosa-de-carvalho-45578220/',
+        }
 - id: 16
   name: 'Khalil'
-  surname: 'Ayache Almeida'
-  company: "IBM"
+  surname: 'Ayache'
+  company: 'IBM'
   title: 'Android Engineer'
-  bio: "Desenvolvedor Android há 2 anos, atua como consultor na IBM, ajuda e é ajudado no slack da comunidade"
+  bio: 'Desenvolvedor Android há 2 anos, atua como consultor na IBM, ajuda e é ajudado no slack da comunidade'
   thumbnailUrl: KhalilAyache.jpeg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://linkedin.com/in/khalilayache/' }
+      - { name: 'linkedin', link: 'https://linkedin.com/in/khalilayache/' }
 - id: 17
   name: 'Gustavo'
   surname: 'Silva Monteiro'
-  company: "Psafe"
+  company: 'Psafe'
   title: 'Desenvolvedor Mobile'
-  bio: "<p>Comecei a trabalhar com mobile na Psafe em 2015, como desenvolvedor, trabalhei no Battery(economia de bateria) por 1 ano e hoje trabalho no Security(antivirus), ambos produtos da empresa.</p><p>Atualmente busco participar mais da comunidade, tentando compartilhar conhecimentos e experiências, também pesquiso sobre IA, para criar novas tecnologias para os produtos.</p>"
+  bio: '<p>Comecei a trabalhar com mobile na Psafe em 2015, como desenvolvedor, trabalhei no Battery(economia de bateria) por 1 ano e hoje trabalho no Security(antivirus), ambos produtos da empresa.</p><p>Atualmente busco participar mais da comunidade, tentando compartilhar conhecimentos e experiências, também pesquiso sobre IA, para criar novas tecnologias para os produtos.</p>'
   thumbnailUrl: GustavoMonteiro.jpeg
   rockstar: false
   social:
-    - { name: 'twitter', link: 'https://twitter.com/OGustavoDev' }
-    - { name: 'github', link: 'https://github.com/pteroto' }
+      - { name: 'twitter', link: 'https://twitter.com/OGustavoDev' }
+      - { name: 'github', link: 'https://github.com/pteroto' }
 - id: 18
   name: 'Gleidson Antônio'
   surname: 'Cardoso da Silva'
-  company: "Softplan"
+  company: 'Softplan'
   title: 'Cientista de Dados'
-  bio: "<p>Exercito engenharia de software desde 2001, trabalho com desenvolvimento web desde 2005, com pesquisa desde 2006, ciência de dados desde 2015.</p><p>Possuo experiência como desenvolvedor, pesquisador (banco de dados e inteligência artificial), projetista de sistemas, arquiteto de software, cientista de dados, líder de equipe técnica e empreendedor.</p>"
+  bio: '<p>Exercito engenharia de software desde 2001, trabalho com desenvolvimento web desde 2005, com pesquisa desde 2006, ciência de dados desde 2015.</p><p>Possuo experiência como desenvolvedor, pesquisador (banco de dados e inteligência artificial), projetista de sistemas, arquiteto de software, cientista de dados, líder de equipe técnica e empreendedor.</p>'
   thumbnailUrl: GleidsonSilva.jpeg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://linkedin.com/in/gleidsondasilva/' }
+      - { name: 'linkedin', link: 'https://linkedin.com/in/gleidsondasilva/' }
 - id: 19
   name: 'Edson'
   surname: 'Menegatti'
-  company: "Speakap"
+  company: 'Speakap'
   title: 'Desenvolvedor Android Senior'
-  bio: "Desenvolvedor Android senior, formado em Engenharia de Controle e Automação pela UFSC. Comecei a trabalhar com Android em 2014 na Cheesecake Labs de Florianópolis e logo em seguida me mudei para a Holanda onde trabalhei em duas empresas: Picnic, um supermarcado completamente virtual, e Speakap, uma rede social corporativa."
+  bio: 'Desenvolvedor Android senior, formado em Engenharia de Controle e Automação pela UFSC. Comecei a trabalhar com Android em 2014 na Cheesecake Labs de Florianópolis e logo em seguida me mudei para a Holanda onde trabalhei em duas empresas: Picnic, um supermarcado completamente virtual, e Speakap, uma rede social corporativa.'
   thumbnailUrl: EdsonMenegatti.jpg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://linkedin.com/in/edson.menegatti' }
+      - { name: 'linkedin', link: 'https://linkedin.com/in/edson.menegatti' }
 - id: 20
   name: 'Bárbara'
   surname: 'Cabral'
-  company: "Barbara Cabral Consultoria e Serviços de TI"
+  company: 'Barbara Cabral Consultoria e Serviços de TI'
   title: 'QA Engineer'
-  bio: "<p>QA Engineer, atua há mais de 10 anos na área de TI, nos quais pelo menos 8 deles com Agile Testing. Apaixonada pelas comunidades na área de TI, mentora em qualidade, blogueira e palestrante.</p><p>Atualmente co-organiza o GUTS-SC e QA Ladies, é mentora no RailsGirls Floripa e apoia as comunidades de Mulheres na área</p>"
+  bio: '<p>QA Engineer, atua há mais de 10 anos na área de TI, nos quais pelo menos 8 deles com Agile Testing. Apaixonada pelas comunidades na área de TI, mentora em qualidade, blogueira e palestrante.</p><p>Atualmente co-organiza o GUTS-SC e QA Ladies, é mentora no RailsGirls Floripa e apoia as comunidades de Mulheres na área</p>'
   thumbnailUrl: BarbaraCabral.jpeg
   rockstar: false
   social:
-    - { name: 'linkedin', link: 'https://linkedin.com/in/barbaracabral/' }
+      - { name: 'linkedin', link: 'https://linkedin.com/in/barbaracabral/' }
