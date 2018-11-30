@@ -9,13 +9,13 @@
 - id: 1
   name: 'David Tiago'
   surname: 'Conceicao'
-  title: '---'
-  thumbnailUrl: avatar.png
+  title: 'Android Application Engineer'
+  thumbnailUrl: DavidConceicao.jpg
   team: true
   social:
-      - { name: 'twitter', link: 'https://twitter.com/#' }
-      - { name: 'facebook', link: 'http://fb.com/#' }
-      - { name: 'github', link: 'https://github.com/#' }
+      - { name: 'twitter', link: 'http://twitter.com/davidtiagocon' }
+      - { name: 'github', link: 'http://github.com/davidtcdeveloper' }
+      - { name: 'site', link: 'https://medium.com/@davidtiagocon' }
 - id: 2
   name: 'Fernanda'
   surname: 'Rabello'
@@ -29,15 +29,15 @@
             link: 'https://facebook.com/profile.php?id=100002362329469',
         }
 - id: 3
-  name: 'Paula Caroline'
-  surname: 'da Rosa'
-  title: '---'
-  thumbnailUrl: avatar.png
+  name: 'Paula'
+  surname: 'Rosa'
+  title: 'Android developer'
+  thumbnailUrl: PaulaRosa.jpeg
   team: true
   social:
-      - { name: 'twitter', link: 'https://twitter.com/#' }
-      - { name: 'facebook', link: 'http://fb.com/#' }
-      - { name: 'github', link: 'https://github.com/#' }
+      - { name: 'twitter', link: 'https://twitter.com/_paulacr' }
+      - { name: 'github', link: 'http://github.com/paulacr' }
+      - { name: 'site', link: 'https://medium.com/@Paula.Rosa' }
 - id: 4
   name: 'Ramon'
   surname: 'Rabello'
