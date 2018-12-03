@@ -19,7 +19,11 @@
                             {% endfor %}
                         </ul>
                     </div>
+                    {% if ticketsOffer.soldout %}
+                    <span class="strong">{{ticketsOffer.buyButtonSoldoutText}}</span>
+                    {% else %}
                     <a href="{{ticketsOffer.buyButtonLink}}" class="btn btn-lg">{{ticketsOffer.buyButtonText}}</a>
+                    {% endif %}
                 </div>
             </div>
             {% endfor %}

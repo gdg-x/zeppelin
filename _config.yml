@@ -44,7 +44,7 @@ bottomNavigationLinks:
  - {permalink: "/call-for-speakers/", text: "Call For Speakers (closed)", disabled: true}
  - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i> WhatsApp"}
 rightNavigationButtons:
- - {permalink: "/#tickets", text: "Comprar bilhetes"}
+ - {permalink: "/#tickets", text: "Comprar bilhetes (closed)",  disabled: true}
  - {permalink: "/call-for-speakers/", text: "Call For Speakers (closed)", disabled: true}
  - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i>"}
 
@@ -66,7 +66,7 @@ typeoutTextValues: '"", "Portugal", "Software"'
 typeoutFallback: "Portugal"
 heroButtons:
  - {permalink: "/call-for-speakers/", text: "Call For Speakers (closed)", disabled: true}
- - {permalink: "/#tickets", text: "Comprar bilhetes"}
+ - {permalink: "/#tickets", text: "Comprar bilhetes (closed)",  disabled: true}
 
 # About Block
 aboutTitle: "Testing Portugal"
@@ -142,8 +142,10 @@ ticketsOffers:
   name: "Inscrição Normal *"
   price: "85"
   currency: "€"
+  soldout: true
   buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
   buyButtonText: "Inscrever-se Agora"
+  buyButtonSoldoutText: "Inscrições fechadas"
   ticketContentList: ["Entrada na Conferência Testing Portugal 2018", "Acesso a todas as refeições e documentação"]
  -
   name: "Inscrição de Associado *"
@@ -151,7 +153,9 @@ ticketsOffers:
   currency: "€"
   buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_8abd26af0fe34ec9ba6e4d2a6c0ab7b9.pdf"
   featured: true
+  soldout: true
   buyButtonText: "Inscrever-se Agora"
+  buyButtonSoldoutText: "Inscrições fechadas"
   ticketContentList: ["Entrada na Conferência Testing Portugal 2018","Acesso a todas as refeições e documentação","Acesso a todos os eventos organizados pela PSTQB."]
 
 # Workshops
