@@ -1,59 +1,145 @@
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
+- id: 001
+  title: 'Credenciamento'
+  place: 'Credenciamento'
   service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+- id: 002
+  title: 'Abertura'
+  description: 'Abertura do evento com GDG Floripa e José Papo'
+  subtype: presentation
+  speakers: [21]
+- id: 003
+  title: 'Keynote com Alexandre Costa'
+  description: 'Keynote com Alexandre Costa'
+  subtype: keynote
+  speakers: [22]
+- id: 004
+  title: 'Coffee Break'
+  place: 'Hall'
   service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [35, 36]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+- id: 005
+  title: 'Carreira Android'
+  description: 'Não sabe o que fazer da vida? Quer entrar na carreira de desenvolvedor, mas não tem ideia do que fazer? Às vezes basta começar e corrigir o curso durante a viagem. Veja nessa palestra, que correndo os riscos certos, é possível chegar lá (com exemplos reais). '
   subtype: presentation
-  speakers: [35, 36]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  speakers: [5]
+- id: 006
+  title: 'Mantendo o código saudável'
+  description: 'Esse cenário lhe parece familiar? O sistema nasce bonito, com boa usabilidade, usando as tecnologias mais novas e desafiadoras, com muitas expectativas por parte da área comercial e dos clientes, e com o tempo (às vezes nem tão longo assim) passa a ser difícil mantê-lo. Demora para agregar novas funcionalidades e começa a apresentar muitos defeitos, o que desmotiva os desenvolvedores e deixa a empresa e os clientes insatisfeitos. Bem, todos esses podem ser sintomas de que o código está com a qualidade, no mínimo, questionável. A preocupação com a qualidade do código é uma questão de profissionalismo. Incluir etapas no processo de desenvolvimento e aplicar técnicas simples de refactoring podem nos ajudar a atingir o objetivo de alcançar um produto manutenível a longo prazo, onde todos envolvidos sintam-se satisfeitos com os resultados.'
   subtype: presentation
-  speakers: [35, 36]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [35, 36]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [35, 36]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [23]
+- id: 007
+  title: 'Automatizando a criação de imagens de VMs para garantir conformidade de segurança, métricas e auditoria em ambientes Multi Cloud'
+  description: 'Aqui na Neoway nós ajudamos mais de 14 equipes de desenvolvimento a criar e sustentar sua infra estrutura, porém todas as equipes têm liberdade para fazer as suas próprias escolhas de tecnologias. Atualmente possuímos um ambiente Multi Cloud com mais de 420 instâncias de máquinas virtuais. Nesse cenário como garantir que todos os times estejam dentro das conformidades de segurança estipuladas pela empresa? Como garantir que toda infra estrutura tenha métricas, auditoria e monitoramento básico? Como evitar disparidade técnica e retrabalho? Nessa talk vamos demonstrar como resolvemos esses desafios com a automatização da construção de imagens padrões para as nossas máquinas virtuais.'
+  subtype: presentation
+  speakers: [10, 11]
+- id: 008
+  title: 'Kotlin no Android: desbravando as oportunidades de ponta a ponta!'
+  description: 'Kotlin veio para ficar, e não seria diferente no Android! Mas será que só sair do Java pro Kotlin é o suficiente? Nesse talk, vamos descobrir todas as possibilidades e oportunidades que podemos ter na utilização da linguagem Kotlin em um projeto Android de qualidade. Desde a contrução de interfaces, passando por processos assíncronos e indo até a construção de testes, vamos entender como podemos extrair o máximo dessa linguagem em um projeto moderno de Android!'
+  subtype: presentation
+  speakers: [1]
+- id: 009
+  title: 'Do Monolito aos Microfrontends: Escalando a Arquitetura na Web'
+  description: 'Com o número de clientes aumentando vem a necessidade de escalar a aplicação em todos os sentidos. Nesta palestra, vamos discutir aspectos importantes sobre a evolução da arquitetura, mostrando caminhos para estruturar uma aplicação em constante crescimento e também técnicas para escalar a infraestrutura de forma sustentável, suportando uma quantidade de usuários cada vez maior, sem dores de cabeça.'
+  subtype: presentation
+  speakers: [6]
+- id: 010
+  title: 'Profissional Mediano'
+  description: 'Que tipo de profissional você é ou pretende ser? E a sua carreira, é sustentável? Qual o seu nível de empregabilidade? E como gestor, sua equipe está a caminho do alto desempenho? O objetivo dessa palestra é inspirá-lo na busca por essas respostas e também incentivá-lo em ações para corrigir a rota o quanto antes. Não trata-se de mais uma palestra motivacional. Fala de carreira e gestão, e traz de forma sarcástica as cinco características de um profissional mediano.'
+  subtype: presentation
+  speakers: [12]
+- id: 011
+  title: 'Almoço'
+  place: 'Barió'
+  service: true
+- id: 012
+  title: 'Arquitetura Enxuta com a Google Cloud'
+  description: 'Como testar seus MVPs com o mínimo esforço e o mínimo código possível usando a Google Cloud.'
+  subtype: presentation
+  speakers: [13]
+- id: 013
+  title: 'Dart, sim ele é o pai do Flutter'
+  description: 'Dar um overview no desenvolvimento desta nova tecnologia chamada Flutter e falar um pouco do Dart, e porque esta em constante crescimento no mercado mobile. Em suma, vamos aprender a iniciar nosso aplicativo em Flutter, descobrir seus segredos e comparar com outras tecnologias de criação de aplicativos mobile.'
+  subtype: presentation
+  speakers: [2, 24]
+- id: 014
+  title: 'Pesquisa com usuários - como obter informações sem ser pesquisador'
+  description: 'Dizem que pesquisa é caro e leva tempo, mas precisamos conhecer o mínimo de nossos usuários para desenvolvermos produtos que atendam às necessidades das pessoas. Mesmo sem ser pesquisador, é possível obter informações qualitativas, entender dores, traçar perfis e ver novas possibilidades para nossos produtos e serviços.'
+  subtype: presentation
+  speakers: [8]
+- id: 015
+  title: 'Testes end-to-end de UI com docker'
+  description: 'Vocẽ já pensou em criar testes end-to-end (ou testes de UI) mas se deparou com um ambiente onde o codigo de front e back está distribuído em vários repositórios? Vou explicar o que você precisa fazer para executar seus testes com docker.  '
+  subtype: presentation
+  speakers: [20]
+- id: 016
+  title: 'Crie apps modernas com Android Jetpack'
+  description: 'A plataforma Android completou 10 anos. De lá para cá muita coisa mudou, inclusive a maneira como construímos apps. Esse ano durante o I/O, a Google lançou o Android Jetpack, uma coletânea de componentes e boas práticas para guiar-nos na construção de apps mais modernas. Nessa palestra, irei explicar passo-a-passo - por meio de live coding - como construir uma app utilizando os principais componentes do Android Jetpack, como Architecture Components, Support Libraries, WorkManager e muito mais. Não perca :)'
+  subtype: presentation
+  speakers: [25]
+- id: 017
+  title: 'Devs Tricks To Online Security'
+  description: 'Em um mundo cada vez mais integrado, conectado e com empresas que lucram em cima de seus dados, se torna cada vez mais necessário alguns tipos de cuidados com a nossa presença online e os rastros que deixamos por aí. É em cima desse contexto que exponho algumas dicas, seus benefícios e efeitos colaterais na hora de se comunicar e usar redes sociais.'
+  subtype: presentation
+  speakers: [16]
+- id: 018
+  title: 'Robótica Inteligente com TensorFlow'
+  description: 'A nova geração de robôs está cada vez mais inteligente! Conheça o futuro da Robótica Inteligente nas aplicações industriais, comercias e residenciais!'
+  subtype: presentation
+  speakers: [3]
+- id: 019
+  title: 'Introdução ao Lottie'
+  description: 'Introdução à lib mobile do Airbnb que vem ajudando os desenvolvedores, e também os designers, a implementar animações complexas sem sofrimento.'
+  subtype: presentation
+  speakers: [15]
+- id: 020
+  title: 'Automação residencial na humildade'
+  description: 'Coloque a mão na massa e economize dinheiro fazendo a automação da sua casa no modo humilde usando Linux, Raspberry, microcontroladores, alguns sensores e a criatividade do brasileiro.'
+  subtype: presentation
+  speakers: [14]
+- id: 021
+  title: 'Coffee Break'
+  place: 'Hall'
+  service: true
+- id: 022
+  title: 'Utilizando tensorflow mobile e seus desafios'
+  description: 'Nessa palestra irei falar sobre as dificuldades e cuidados ao implementar um modelo de deep learning utilizando tensorflow. Falarei sobre a evolução do tensorflow mobile, como treinar um modelo de reconhecimento de imagens e como implementar num app, mostrarei também os cuidados com OOM e desempenho ao carregar as imagens para o modelo.'
+  subtype: presentation
+  speakers: [17]
+- id: 023
+  title: 'Ágil pra toda obra'
+  description: 'Curti ágil mas não sou de TI, e agora? Da cozinha ao palco, passando por um estúdio de dublagem, alguns conceitos para ajudar você a ser ágil em qualquer lugar.'
+  subtype: presentation
+  speakers: [4]
+- id: 024
+  title: 'A jornada She’sTech pela diversidade e inclusão'
+  description: ''
+  subtype: presentation
+  speakers: [26]
+- id: 025
+  title: 'Criando modelos de classificação de imagens com o Google AutoML Vision'
+  description: 'A nova geração de machine learning automatizada está vindo com tudo. Nesse talk, vamos mostrar que com o Google Cloud AutoML, ninguém mais precisa ser um expert em machine learning para treinar modelos de alta qualidade afim de reconhecer imagens de acordo com as necessidades dos negócios.'
+  subtype: presentation
+  speakers: [18]
+- id: 026
+  title: 'Inimigo Meu: o recorrente conflito entre gestores de produto e gestores de negócios'
+  description: 'Como gestores de produto, quantas vezes nos deparamos em conflito entre priorizar features importantes para a evolução do produto e features necessárias para fechamentos de negócios ou projetos com “necessidades surpresas”? Nesse talk, abordarei esse assunto com o viés de apresentar as principais habilidades que um product manager precisa ter e utilizar para contornar esse conflitos e minimizar a angústia dos envolvidos.'
+  subtype: presentation
+  speakers: [7]
+- id: 027
+  title: 'A preguiça é a mãe do progresso - Automação de tarefas com JS e NodeJS'
+  description: 'Aqui na Neoway nós ajudamos mais de 14 equipes de desenvolvimento a criar e sustentar sua infra estrutura, porém todas as equipes têm liberdade para fazer as suas próprias escolhas de tecnologias. Atualmente possuímos um ambiente Multi Cloud com mais de 420 instâncias de máquinas virtuais. Nesse cenário como garantir que todos os times estejam dentro das conformidades de segurança estipuladas pela empresa? Como garantir que toda infra estrutura tenha métricas, auditoria e monitoramento básico? Como evitar disparidade técnica e retrabalho? Nessa talk vamos demonstrar como resolvemos esses desafios com a automatização da construção de imagens padrões para as nossas máquinas virtuais.'
+  subtype: presentation
+  speakers: [9]
+- id: 028
+  title: 'Expandindo sua influência com Kotlin Multiplatform'
+  description: 'De forma experimental desde a versão 1.2 da linguagem, Kotlin permite a criação de projetos multiplataforma que favorecem o compartilhamento de código entre diversas plataformas: Android, iOS, Windows, etc. Depois de assistir essa palestra, você vai entender o que é Kotlin Multiplaform e como ele contorna os problemas inerentes de abordagens multiplataforma, como tirar vantagem dessa ferramenta para melhorar o alcance das suas aplicações e quais as limitações atuais.'
+  subtype: presentation
+  speakers: [19]
+- id: 029
+  title: 'Novidades do Chrome DevSummit'
+  description: ''
+  subtype: presentation
+  speakers: [27]
+- id: 030
+  title: 'Encerramento'
+  description: 'Encerramento e partiu Happy Hour'
+  subtype: presentation

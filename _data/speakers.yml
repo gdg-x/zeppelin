@@ -260,3 +260,81 @@
   rockstar: false
   social:
       - { name: 'linkedin', link: 'https://linkedin.com/in/barbaracabral/' }
+- id: 21
+  name: 'José'
+  surname: 'Papo'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
+  social:
+      - { name: 'github', link: 'https://github.com/#' }
+- id: 22
+  name: 'Alexandre'
+  surname: 'Costa'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
+  social:
+      - { name: 'github', link: 'https://github.com/#' }
+- id: 23
+  name: 'Rosana'
+  surname: 'Branas'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
+  social:
+      - { name: 'github', link: 'https://github.com/#' }
+- id: 24
+  name: 'Erik'
+  surname: 'Russef'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
+  social:
+      - { name: 'github', link: 'https://github.com/#' }
+- id: 25
+  name: 'Ramon'
+  surname: 'Rabello'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
+  social:
+      - { name: 'github', link: 'https://github.com/#' }
+- id: 26
+  name: 'Ciranda'
+  surname: 'De Morais'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
+  social:
+      - { name: 'github', link: 'https://github.com/#' }
+- id: 27
+  name: 'Joselito'
+  surname: 'Júnior'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
+  social:
+      - { name: 'github', link: 'https://github.com/#' }
+- id: 99
+  name: 'A'
+  surname: 'DEFINIR'
+  company: ''
+  title: ''
+  bio: ''
+  thumbnailUrl:
+  rockstar: false
