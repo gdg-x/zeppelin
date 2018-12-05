@@ -13,9 +13,9 @@
 -
   group: ""
   elements:
-    - {name: "Bede", description: "The First Choice Gaming Platform", link: "https://bedegaming.com", imageUrl: "BedeLogo2016 (2).eps"}
+    - {name: "Bede", description: "The First Choice Gaming Platform", link: "https://bedegaming.com", imageUrl: "Bede-Gaming.jpg"}
     - {name: "Dynamo", description: "Dynamo, Growing the North East IT economy", link: "http://www.dynamonortheast.co.uk/kids-digital-maker-party/", imageUrl: "Dynamo_Primary_Pant164_No_Strap.png"}
     # - {name: "Your Logo Here", description: "Your Logo Here", link: "assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", imageUrl: "your-logo.png"}
     - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid_logo_solo.png"}
-    - {name: "Balsamiq", description: "Life's too short for bad software!", link: "https://balsamiq.com", imageUrl: "balsamiq-logo-noborder-print.eps"}
+    - {name: "Balsamiq", description: "Life's too short for bad software!", link: "https://balsamiq.com", imageUrl: "balsamiq-logo-noborder-print.png"}
     
