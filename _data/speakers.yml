@@ -263,60 +263,63 @@
 - id: 21
   name: 'José'
   surname: 'Papo'
-  company: ''
-  title: ''
-  bio: ''
-  thumbnailUrl:
+  company: 'Google'
+  title: 'Developer Relations Program Manager'
+  bio: 'Gerente de relações com startups e desenvolvedores no Google para a América Latina. É mestre em Engenharia da Computação pelo IPT e também atua como professor de pós-graduação na PUC-SP. É co-autor do livro "Métodos Ágeis para Desenvolvimento de Software". Em seus últimos desafios liderou diversas iniciativas para desenvolvedores e startups na Amazon Web Services e na Microsoft. Fala sobre inovação disruptiva, tendências tecnológicas, desenvolvimento mobile, computação em nuvem(SaaS, PaaS e IaaS), agilidade e desenvolvimento de produtos em seu twitter @josepapo.'
+  thumbnailUrl: JosePapo.jpg
   rockstar: false
   social:
       - { name: 'github', link: 'https://github.com/#' }
 - id: 22
   name: 'Alexandre'
   surname: 'Costa'
-  company: ''
+  company: 'ArcTouch'
   title: ''
-  bio: ''
-  thumbnailUrl:
+  bio: 'Desenvolvedor com deficiencia visual apaixonado por tecnologia e evangelista da acessibilidade e inclusão. Microsoft MVP em Development Technologies, TDC RockStar e Mobile Engineer na ArcTouch - Brasil'
+  thumbnailUrl: AlexandreCosta.jpg
   rockstar: false
   social:
       - { name: 'github', link: 'https://github.com/#' }
 - id: 23
   name: 'Rosana'
   surname: 'Branas'
-  company: ''
-  title: ''
-  bio: ''
-  thumbnailUrl:
+  company: 'Dígitro Tecnologia / AgileCode'
+  title: 'Analista de Sistemas / Co-founder'
+  bio: 'Graduada em Ciências da Computação na UFSC e MBA em Gerenciamento de Projetos na FGV. Trabalha com desenvolvimento de software há mais de 15 anos, ocupando atualmente o cargo de Analista de Sistemas na Dígitro Tecnologia. É co-fundadora da AgileCode, empresa de treinamento e consultoria na área de Software.'
+  thumbnailUrl: RosanaBranas.jpeg
   rockstar: false
   social:
       - { name: 'github', link: 'https://github.com/#' }
 - id: 24
   name: 'Erik'
   surname: 'Russef'
-  company: ''
-  title: ''
-  bio: ''
-  thumbnailUrl:
+  company: 'Sites4u'
+  title: 'Web Develop'
+  bio: 'Desenvolvedor full-stack, atuante também na área de infraestrutura e suporte pela J.E Informática. Formando em Analise e Dev. Sistemas, entusiasta em tecnologias mobile. Desenvolvedor Web na Sites4u nos projetos Digifarmz e Vagas Emprego RS. Participante ativo do GDG POA, viciado em chimarrão e café.'
+  thumbnailUrl: ErikRussef.jpg
   rockstar: false
   social:
-      - { name: 'github', link: 'https://github.com/#' }
+      - { name: 'facebook', link: 'https://www.facebook.com/erik.russef' }
+      - { name: 'linkedin', link: 'https://www.linkedin.com/in/erikrussef' }
 - id: 25
   name: 'Ramon'
   surname: 'Rabello'
-  company: ''
-  title: ''
-  bio: ''
-  thumbnailUrl:
+  company: 'ArcTouch'
+  title: 'Master Software Engineer'
+  bio: 'Sou paraense e evangelista Android há 10 anos. Agilista, membro ativo da Comunidade Ágil Tá Safo e um dos Organizers do GDG (Google Developers Group) Belém.Mais de 12 anos de experiência em TI, alguns anos de liderança de times mobile. Já tive oportunidade de trabalhar em vários projetos desafiantes envolvendo Visão Computacional, Realidade Aumentada, Machine Learning, etc.Gosto de compartilhar conhecimento participando de comunidades, palestrando ou escrevendo artigos em blogs e magazines.Atualmente trabalho como Master Software Engineer na ArchTouch (Florianópolis Office).'
+  thumbnailUrl: RamonRabello.jpg
   rockstar: false
   social:
-      - { name: 'github', link: 'https://github.com/#' }
+      - { name: 'twitter', link: 'https://www.twitter.com/ramonrabello' }
+      - { name: 'facebook', link: 'https://facebook.com/ramonrabello' }
+      - { name: 'github', link: 'https://github.com/ramonrabello' }
 - id: 26
   name: 'Ciranda'
   surname: 'De Morais'
-  company: ''
+  company: 'Fundadora do Shes Tech, movimento que visa fortalecer a presença das mulheres na tecnologia, community builder, co-organizadora do Google Business Group BH, já atuou como agente de inovação do programa Minas Digital do Estado de Minas Gerais, é membro do Observatório de Gênero e Raça de Minas Gerais e do Conselho Empresarial da Mulher Empreendedora da ACMinas. Ciranda é mestre em Políticas Sociais e Direção estratégica para Desenvolvimento Sustentável do Território pela Universidade de Bolonha, Itália. Graduada em Publicidade/Propaganda e Relações Públicas pela PUC/MG. Tem mais de 6 anos de experiência empreendedora no setor de varejo e serviços, 5 anos de vivência em países europeus e estágios em ONGs como Ucodep/Oxfam e Auser. Recentemente apresentou sua tese das “Portas de Vidro” no TEDxUFMT, no Tech SuperWomen Summit em San Francisco e no Global Google GDG Community Summit no Googleplex - Vale do Silício.'
   title: ''
   bio: ''
-  thumbnailUrl:
+  thumbnailUrl: CirandaDeMorais.jpg
   rockstar: false
   social:
       - { name: 'github', link: 'https://github.com/#' }
@@ -326,15 +329,7 @@
   company: ''
   title: ''
   bio: ''
-  thumbnailUrl:
+  thumbnailUrl: JoselitoJunior.jpg
   rockstar: false
   social:
       - { name: 'github', link: 'https://github.com/#' }
-- id: 99
-  name: 'A'
-  surname: 'DEFINIR'
-  company: ''
-  title: ''
-  bio: ''
-  thumbnailUrl:
-  rockstar: false
