@@ -326,9 +326,9 @@
 - id: 27
   name: 'Joselito'
   surname: 'Júnior'
-  company: ''
-  title: ''
-  bio: ''
+  company: 'Stone Co'
+  title: 'Analista de Desenvolvimento'
+  bio: 'Joselito é front-ender, community manager no GDG Recife, instrutor na Tampa Works, Analista na Stone, youtuber, podcaster, pernambucano e recifense. Sempre que sobra um tempinho, cria alguns projetos open source e contribuiu em outros, como o Brave Browser e o Ionic. É entrusiasta e usa no seu dia-a-dia PWA, Angular, Ionic, Preact, Next.js, Firebase, AMP e muitos outros pormenores. Já palestrou, organizou e contribuiu em eventos como DevFest, Campus Party, Code in the Dark, JSDay e Front Ins'
   thumbnailUrl: JoselitoJunior.jpg
   rockstar: false
   social:

@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Organização"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "pontehercilioluz.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Floripa", "Santa Catarina", "Florianópolis"'
 typeoutFallback: 'Floripa'
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Comprar ingressos"}
+#  - {permalink: "/#tickets", text: "Comprar ingressos"}
 
 # # About Block
 # aboutTitle: "About GDG DevFest"
@@ -151,9 +151,11 @@ ticketsOffers:
   ticketsNumber: "80"
   featured: true
   buyButtonLink: "https://www.sympla.com.br/devfest-2018---gdg-floripa__408152"
-  buyButtonText: "Comprar"
+  buyButtonText: "Buy Now"
   validFrom: "2018-11-29T10:00"
   validThrough: "2018-12-07T23:59"
+  soldOut: true
+  soldOutText: "Encerrado"
 
 # Footer
 socialLinks:
