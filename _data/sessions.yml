@@ -136,7 +136,7 @@
   speakers: [19]
 - id: 029
   title: 'Novidades do Chrome DevSummit'
-  description: ''
+  description: 'Se tem algo que muda rápido é a web e o ecossistema do JavaScript. Imagina então entrar num caldeirão de novidades e tentar absorver tudo de uma vez? Nessa talk eu vou resumir (ou ao menos tentar) como foi o último Chrome Dev Summit, o que aprendemos com o passado, e o que todo mundo tem haver com isso (até a Microsoft!)'
   subtype: presentation
   speakers: [27]
 - id: 030
