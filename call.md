@@ -42,8 +42,7 @@ highlighting their experiences and achievements.
 We will offer free speaker **coaching** for those who are interested.
 
 _Get ready to send in your proposal! Soon we will open the page for submission._
-All proposals will be carefully reviewed by the Women Techmakers Vienna team and
-you will be contacted if selected for our event.
+All proposals will be carefully reviewed by the Women Teckmakers team and you will be soon updated about the status of your submission.
 
 We are here for you!
 Feel free to contact us for further information or if you need any support
