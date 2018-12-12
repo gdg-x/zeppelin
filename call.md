@@ -7,41 +7,42 @@ isStaticPost: true
 
 ### Our Call for Speakers for WTM Vienna 2019 will open soon!
 
-Women Techmakers Vienna is an event that envisions empowering women
-to pursue careers in the STEM fields; these encompass science, technology,
-engineering, and mathematics.
-Women Techmakers Vienna focuses on raising the public awareness through the
-power of example of existing gender issues and possible solutions.
+Women Techmakers Vienna 2019 is an annual conference targeted at females*, 
+working or planning to pursue a career in the STEM fields; these encompass 
+science, technology, engineering, and mathematics. Our goal is to raise public 
+awareness of existing gender issues through the power of example.
 
 We are in search of engaging speakers and workshop facilitators that can
-provide interesting technical or social-aspect talks and workshops,
-highlighting their experiences.
+provide interesting technical or social impact talks and workshops,
+highlighting their experiences and achievements.
 
-Your _talk_ needs to be in **English** and you will have a time slot of
-**30 minutes**. There will be no Q&A session.
+**Talks**
 
-Your _workshop_ needs to be in **English** and you will have a time slot of
-**60, 90 or 120 minutes.**
+* You will have a **25 minute** slot, including an optional Q&A session.
+* Your _talk_ needs to be in **English**.
+* First time speakers are very welcome!
 
- * _Technical talks_ should be about a subject that belongs to the STEM fields,
- presented in a fun and introductory manner since the attendees might lack
- the speaker's fundamental knowledge on the subject.
- They should highlight your personal achievement and success story,
- more than the technical aspects.
- * _Social-aspect talks_ should demonstrate causes, examples, solutions for
- gender issues and be empowering young (and not only) women that pursue,
- or plan to pursue a career in STEM.
- * _Workshops_ can either be empowering for solutions relevant to gender issues,
- or hands-on workshops for STEM related topics.
+**Workshops**
 
-In order to be selected, we require a short introduction about yourself
-and a draft outline of your talk.
+* You will have a time slot of **60, 90 or 120 minutes.**
+* Your _workshop_ needs to be in **English**.
 
-We will offer speaker coaching for those who are interested.
+**Content**
 
-_Get ready for sending in your proposal! Soon we will open the page for submission._
-All proposals will be carefully reviewed by the Women Techmakers team and
-you will be contacted if selected for our event.
+ _Technical talks and workshops_ should be about a subject that relates to STEM fields,
+ presented in a fun and introductory manner, since our audience is very diverse.
+
+ _Social impact talks and workshops_ should demonstrate causes, examples, solutions for
+ gender issues and empower females* that pursue or plan to pursue a career in STEM. 
+
+**Application** must include
+* a short introduction about yourself
+* a draft outline of your talk or workshop
+
+We will offer free speaker **coaching** for those who are interested.
+
+_Get ready to send in your proposal! Soon we will open the page for submission._
+All proposals will be carefully reviewed by the Women Teckmakers team and you will be soon updated about the status of your submission.
 
 We are here for you!
 Feel free to contact us for further information or if you need any support
