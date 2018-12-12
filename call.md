@@ -7,7 +7,7 @@ isStaticPost: true
 
 ### Our Call for Speakers for WTM Vienna 2019 will open soon!
 
-Women Techmakers Vienna 2019 is an annual conference targeted at females*, 
+Women Techmakers Vienna 2019 is an annual conference targeted at women*, 
 working or planning to pursue a career in the STEM fields; these encompass 
 science, technology, engineering, and mathematics. Our goal is to raise public 
 awareness of existing gender issues through the power of example.
@@ -33,7 +33,7 @@ highlighting their experiences and achievements.
  presented in a fun and introductory manner, since our audience is very diverse.
 
  _Social impact talks and workshops_ should demonstrate causes, examples, solutions for
- gender issues and empower females* that pursue or plan to pursue a career in STEM. 
+ gender issues and empower women* that pursue or plan to pursue a career in STEM. 
 
 **Application** must include
 * a short introduction about yourself
@@ -42,7 +42,7 @@ highlighting their experiences and achievements.
 We will offer free speaker **coaching** for those who are interested.
 
 _Get ready to send in your proposal! Soon we will open the page for submission._
-All proposals will be carefully reviewed by the Women Teckmakers team and you will be soon updated about the status of your submission.
+All proposals will be carefully reviewed by the Women Techmakers team and you will be soon updated about the status of your submission.
 
 We are here for you!
 Feel free to contact us for further information or if you need any support
