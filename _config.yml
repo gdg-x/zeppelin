@@ -57,11 +57,11 @@ navigationLinks:
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
- # - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/call/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
 rightNavigationButtons:
  # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
- # - {permalink: "/call/", text: "Call for Speakers"}
+ - {permalink: "/call/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
 
 # Hero Block
@@ -74,7 +74,7 @@ eventDateISO: "2019-03-09T09:30+01:00"
 # typeoutFallback: "2015"
 heroButtons:
  # - {link: "https://wtm-vienna-2018.eventbrite.com", text: "Register Now"}
- - {permalink: "/call/", text: "Coming soon: Call for Speakers"}
+ - {permalink: "/call/", text: "Call for Speakers"}
  # - {permalink: "/livestream/", text: "Livestream"}
 
 # About Block
