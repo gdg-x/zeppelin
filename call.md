@@ -43,7 +43,7 @@ highlighting their experiences and achievements.
 
 We will offer free speaker **coaching** for those who are interested.
 
-Please send in yout proposal until _31 December 2018_.
+Please send in your proposal until _31 December 2018_.
 All proposals will be carefully reviewed by the Women Techmakers team and you will be soon updated about the status of your submission.
 
 We are here for you!
