@@ -8,7 +8,7 @@
 #    - {name: "Bosch", description: "Bosch - Technik fürs Leben", link: "http://www.bosch-career.at/", imageUrl: "bosch-logo.jpg", width: "240px"}
 #    - {name: "EVB", description: "EBV", link: "https://www.avnet.com", imageUrl: "ebv-logo.jpg", width: "260px"}
     - {name: "TU Gender Competence", description: "TU Gender Competence", link: "https://www.tuwien.ac.at/dle/genderkompetenz/", imageUrl: "tu-gender-competence.jpg", width: "200px"}
-#-
-#  group: "Gold Sponsor"
-#  elements:
-#    - {name: "TTTech", description: "TTTech Computertechnik AG", link: "https://www.tttech.com/", imageUrl: "tttech-logo.jpg", width: "220px"}
+-
+  group: "Gold Sponsor"
+  elements:
+    - {name: "iqcard", description: "iqcard", link: "https://www.iqcard.at/", imageUrl: "iqcard-logo.svg", width: "220px"}
