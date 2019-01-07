@@ -60,7 +60,7 @@
   subtype: keynote
   speakers: [5]
   language: en
-  presentation: /assets/7skills_olivier.pdf
+  presentation: "/assets/7skills_Olivier.pdf"
 -
   id: 007
   title: "DevOps: A Future Proof to Testing"
@@ -76,7 +76,7 @@
   subtype: keynote
   speakers: [4]
   language: en
-  presentation: /assets/DevOps_Damien.pdf
+  presentation: "/assets/DevOps_Damien.pdf"
 -
   id: 008
   title: "Artificial Intelligence: The Future of Testing Software"
@@ -135,7 +135,7 @@
   subtype: "callforspeakers"
   speakers: [10]
   language: en
-  presentation: /assets/BigData_MargaridaLeite.pdf
+  presentation: "/assets/BigData_MargaridaLeite.pdf"
 -
   id: 021
   title: "96% successful daily releases with 5000+ regression tests!"
@@ -143,7 +143,7 @@
   subtype: "callforspeakers"
   speakers: [13,14]
   language: en
-  presentation: /assets/LaRedoute_Cerberus.pdf
+  presentation: "/assets/LaRedoute_Cerberus.pdf"
 -
   id: 022
   title: "Testes de Software no segmento de Ciências da Vida"
