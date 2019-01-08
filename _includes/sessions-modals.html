@@ -1,88 +1,91 @@
 <!-- Begin Sessions Modals -->
 <div class="modals" class="modals">
 	{% for session in site.data.sessions %}
-		<div class="modal fade text-left people-modal" id="sessionDetail-{{ session.id }}" tabindex="-1" role="dialog" aria-labelledby="sessionDetailLabel-{{ session.id }}" aria-hidden="true">
-			<div class="modal-dialog">
-				<div class="modal-content">
-					<div class="modal-body">
-						<div class="close">
-							<svg class="icon icon-cross" viewBox="0 0 32 32">
-								<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
-							</svg>
-							<div class="close-mask" data-dismiss="modal"></div>
+	<div class="modal fade text-left people-modal" id="sessionDetail-{{ session.id }}" tabindex="-1" role="dialog"
+	 aria-labelledby="sessionDetailLabel-{{ session.id }}" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="close">
+						<svg class="icon icon-cross" viewBox="0 0 32 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+						</svg>
+						<div class="close-mask" data-dismiss="modal"></div>
+					</div>
+
+					<h4>{{ session.title }}</h4>
+					{% if session.subtype == 'workshop' %}
+					<div>
+						<a href="mailto:testing.portugal@pstqb.pt?subject=Inscri%C3%A7%C3%A3o%20em%20Workshop{{session.id | modulo: 100}}"
+						 class="btn btn-primary waves-effect waves-button waves-light" style="margin-bottom:1em;">Inscrever-me
+						</a>
+					</div>
+					{% if session.warning != null %}
+					<div class="alert alert-warning" role="alert">{{session.warning}}</div>
+					{% endif %}
+					{% endif %}
+					{% if session.presentation %}
+					<div>
+						<a class="theme-presentation" href="{{session.presentation}}" title="Presentation" target="_blank">Ver apresentação</a>
+					</div>
+					{% endif %}
+					{% if session.language != null %}
+					<span class="theme-metadata"><span class="caption">Idioma: </span>{{ session.language }}</span>
+					{% endif %}
+					{% if session.price != null %}
+					<span class="theme-metadata"><span class="caption">Preço: </span>{{ session.price }}</span>
+					{% endif %}
+					{% if session.place != null %}
+					<span class="theme-metadata"><span class="caption">Local: </span>{{ session.place }}</span>
+					{% endif %}
+					{% for description in session.descriptions %}
+					<p class="theme-description">{{description}}</p>
+					{% endfor %}
+					{% if session.moreinfo %}
+					<a class="theme-presentation" href="{{session.moreinfo}}" title="More info" target="_black">More info</a>
+					{% endif %}
+					<hr>
+					<div class="people-details">
+						{% for speaker in site.data.speakers %}
+						{% for session_speaker in session.speakers %}
+						{% if session_speaker == speaker.id %}
+						<div class="row">
+							<div class="col-md-2 col-sm-2">
+								<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+							</div>
+							<div class="col-md-10 col-sm-10 details">
+								<p class="name">{{ speaker.name }} {{ speaker.surname }}
+									<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+								</p>
+								{% if speaker.ribbon != null %}
+								<div class="modal-ribbon-wrapper">
+									{% for ribbon in speaker.ribbon %}
+									<a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
+									{% endfor %}
+								</div>
+								{% endif %}
+								<p class="about">{{ speaker.bio }}</p>
+								<ul class="social">
+									{% for social in speaker.social %}
+									<li>
+										<a href="{{ social["link"] }}" target="_blank">
+											<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+												<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+											</svg>
+										</a>
+									</li>
+									{% endfor %}
+								</ul>
+							</div>
 						</div>
-						
-						<h4>{{ session.title }}</h4>
-						{% if session.subtype == 'workshop' %}
-						<div>
-							<a href="mailto:testing.portugal@pstqb.pt?subject=Inscri%C3%A7%C3%A3o%20em%20Workshop{{session.id | modulo: 100}}"
-							class="btn btn-primary waves-effect waves-button waves-light" style="margin-bottom:1em;">Inscrever-me
-							</a>
-						</div>
-						{% if session.warning != null %}
-						<div class="alert alert-warning" role="alert">{{session.warning}}</div>
 						{% endif %}
-						{% endif %}
-						{% if session.language != null %}
-						<span class="theme-metadata"><span class="caption">Idioma: </span>{{ session.language }}</span>
-						{% endif %}
-						{% if session.price != null %}
-						<span class="theme-metadata"><span class="caption">Preço: </span>{{ session.price }}</span>
-						{% endif %}
-						{% if session.place != null %}
-						<span class="theme-metadata"><span class="caption">Local: </span>{{ session.place }}</span>
-						{% endif %}
-						{% for description in session.descriptions %}
-						<p class="theme-description">{{description}}</p>
 						{% endfor %}
-						{% if session.moreinfo %}
-						<a class="theme-presentation" href="{{session.moreinfo}}" title="More info" target="_black">More info</a>
-						{% endif %}
-						{% if session.presentation %}
-						<a class="theme-presentation" href="{{session.presentation}}" title="Presentation" target="_blank">View presentation</a>
-						{% endif %}
-						<hr>
-						<div class="people-details">
-							{% for speaker in site.data.speakers %}
-								{% for session_speaker in session.speakers %}
-									{% if session_speaker == speaker.id %}
-									<div class="row">
-										<div class="col-md-2 col-sm-2">
-											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
-										</div>
-										<div class="col-md-10 col-sm-10 details">
-											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
-											</p>
-											{% if speaker.ribbon != null %}
-											<div class="modal-ribbon-wrapper">
-					                            {% for ribbon in speaker.ribbon %}
-					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
-					                            {% endfor %}
-					                        </div>
-					                        {% endif %}
-											<p class="about">{{ speaker.bio }}</p>
-											<ul class="social">
-												{% for social in speaker.social %}
-													<li>
-														<a href="{{ social["link"] }}" target="_blank">
-															<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-																<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
-															</svg>
-														</a>
-													</li>
-												{% endfor %}
-											</ul>
-										</div>
-									</div>
-									{% endif %}
-								{% endfor %}
-							{% endfor %}
-						</div>
+						{% endfor %}
 					</div>
 				</div>
 			</div>
 		</div>
+	</div>
 	{% endfor %}
 </div>
 <!-- End Speakers Modals -->
