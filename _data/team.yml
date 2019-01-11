@@ -16,7 +16,7 @@
   name: "Chris"
   surname: "Howe-Jones"
   title: "Community Organiser"
-  thumbnailUrl: chris.jpg
+  thumbnailUrl: chris.png
   team: true
   ribbon:
     - {abbr: "Tech Nav", title: "Technical Navigator"}
