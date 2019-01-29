@@ -48,18 +48,18 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+# - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
  - {link: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {link: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", text: "Become a sponsor"}
- - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+# - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 
 
 # Hero Block
@@ -69,17 +69,17 @@ eventDate: "4th April, 2019"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
- - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+# - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
  - {link: "assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Build IT Right"
 aboutBlock:
- - {title: "Conference", image: "Simon_Brown.jpg", text: "Build IT Right is a new one day conference with inspirational speakers and 
- exhibition aimed at those building software in the North East. Confirmed speakers include Simon Brown, (creator of C4 software 
- architecture model, founder of Structurizr) and Dave Farley (co-author of Continuous Delivery) and Timandra Harkness as compare. 
- The event will provide delegates with a dedicated day away from their screens, expand knowledge, and be inspired how to adapt to 
+ - {title: "Conference", image: "Simon_Brown.jpg", text: "Build IT Right is a new one day conference with inspirational speakers and
+ exhibition aimed at those building software in the North East. Confirmed speakers include Simon Brown, (creator of C4 software
+ architecture model, founder of Structurizr) and Dave Farley (co-author of Continuous Delivery) and Timandra Harkness as compare.
+ The event will provide delegates with a dedicated day away from their screens, expand knowledge, and be inspired how to adapt to
  emerging trends." }
 
 # Statistic Block
