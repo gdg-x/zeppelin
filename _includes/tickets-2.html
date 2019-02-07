@@ -1,94 +1,98 @@
 <!-- Begin Tickets 2 Section -->
-<section id="tickets" class="tickets-2">
-	<div class="content-wrapper">
-		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<!-- <h3>{{ site.ticketsTitle }}</h3> -->
-			<p style="margin-top:-150px;margin-bottom:100px;"><h5>{{ site.ticketsSubTitle }}</h5></p> 
-			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
-			{% assign animationDelay = 0 %}
-			{% for ticketsOffer in site.ticketsOffers %}
-			{% assign length = forloop.length %}
-	            <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-	            	<div class="row">
-						<div class="col-sm-6 col-xs-12">
-							<p class="title">{{ ticketsOffer.name }}</p>
-							{% if ticketsOffer.additionalInfo != null %}
-								<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
-							{% endif %}
-							{% if ticketsOffer.disabled != true %}
-							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
-								<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
-							{% endif %}
-						</div>
-						<div class="col-sm-3 col-xs-12">
-							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
-						</div>
+{% if site.hideTicketsBlock == false %}
+	<section id="tickets" class="tickets-2">
+		<div class="content-wrapper">
+			<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+				<!-- <h3>{{ site.ticketsTitle }}</h3> -->
+				<p style="margin-top:-150px;margin-bottom:100px;"><h5>{{ site.ticketsSubTitle }}</h5></p> 
+				<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
+				{% assign animationDelay = 0 %}
+				{% for ticketsOffer in site.ticketsOffers %}
+					{% if ticketsOffer.hide == false %}
+					{% assign length = forloop.length %}
+						<div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+							<div class="row">
+								<div class="col-sm-6 col-xs-12">
+									<p class="title">{{ ticketsOffer.name }}</p>
+									{% if ticketsOffer.additionalInfo != null %}
+										<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
+									{% endif %}
+									{% if ticketsOffer.disabled != true %}
+									{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
+										<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
+									{% endif %}
+								</div>
+								<div class="col-sm-3 col-xs-12">
+									<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
+								</div>
 
-						{% assign dateFrom = ticketsOffer.validFrom | date: '%s' %}
-						{% assign dateTo = ticketsOffer.validThrough | date: '%s' %}
-						{% assign soldOut = ticketsOffer.soldOut %}
-						{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-						{% assign ticketValidFromDate = ticketValidFrom[0] | date: "%-d %B %Y" %}
-						{% assign ticketValidFromTime = ticketValidFrom[1] %}
-						{% assign ticketName = ticketsOffer.name %}
-						{% assign buyLink = ticketsOffer.buyButtonLink %}	
-						<!-- id values cannot coincide with id values in tickets.html so have included multiple of 100 offset -->
-						{% assign indexOffset100 = forloop.index | plus: 100 %}
-						{% assign indexOffset200 = forloop.index | plus: 200 %}
+								{% assign dateFrom = ticketsOffer.validFrom | date: '%s' %}
+								{% assign dateTo = ticketsOffer.validThrough | date: '%s' %}
+								{% assign soldOut = ticketsOffer.soldOut %}
+								{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
+								{% assign ticketValidFromDate = ticketValidFrom[0] | date: "%-d %B %Y" %}
+								{% assign ticketValidFromTime = ticketValidFrom[1] %}
+								{% assign ticketName = ticketsOffer.name %}
+								{% assign buyLink = ticketsOffer.buyButtonLink %}	
+								<!-- id values cannot coincide with id values in tickets.html so have included multiple of 100 offset -->
+								{% assign indexOffset100 = forloop.index | plus: 100 %}
+								{% assign indexOffset200 = forloop.index | plus: 200 %}
+								
+								<div class="col-sm-3 col-xs-12">					
+									<span id='{{ indexOffset200 }}'>
+										{% if soldOut == true %}
+										<p id='{{ indexOffset100 }}'></p>
+										{% else %}
+										<a id='{{ indexOffset100 }}'></a>
+										{% endif %}
+									</span>
+								</div>
+
+								<script>
+									var length = '{{ length }}';
+									var i = '{{ indexOffset100 }}';
+									var j = '{{ indexOffset200 }}';
+									var now = Math.round(new Date().getTime() / 1000);
+									var dateFrom = '{{ dateFrom }}';
+									var dateTo = '{{ dateTo }}';
+									var soldOut = '{{ soldOut }}';
+									var ticketValidFromDate = '{{ ticketValidFromDate }}';
+									var ticketValidFromTime = '{{ ticketValidFromTime }}';
+									var ticketName = '{{ ticketName }}';	
+									var buyLink = '{{ buyLink }}';													
 						
-						<div class="col-sm-3 col-xs-12">					
-							<span id='{{ indexOffset200 }}'>
-								{% if soldOut == true %}
-								<p id='{{ indexOffset100 }}'></p>
-								{% else %}
-								<a id='{{ indexOffset100 }}'></a>
-								{% endif %}
-							</span>
+									if (now >= dateTo) {
+										document.getElementById(i).className = "ticket-sold-out";	
+										document.getElementById(i).style.color = "#000000";				
+										document.getElementById(i).innerHTML = "Sales Ended";
+									}
+									else if (soldOut == "true") {
+										document.getElementById(i).className = "ticket-sold-out";
+										document.getElementById(i).style.color = "#000000";	
+										document.getElementById(i).innerHTML = "Sold Out";
+									}	
+									else if (now >= dateFrom) {
+										document.getElementById(j).className = "bordered dark-border button";
+										document.getElementById(i).className = "waves-effect waves-button";
+										document.getElementById(i).href = buyLink;
+										document.getElementById(i).target = "_blank";
+										document.getElementById(i).innerHTML = "Buy Now";
+									}
+									else {
+										document.getElementById(i).className = "ticket-sold-out";
+										document.getElementById(i).style.color = "#000000";	
+										document.getElementById(i).innerHTML = ticketName + " ticket sales begin on " + ticketValidFromDate + " at " + ticketValidFromTime;
+									}				
+								</script>
+							</div>
 						</div>
-
-						<script>
-							var length = '{{ length }}';
-							var i = '{{ indexOffset100 }}';
-							var j = '{{ indexOffset200 }}';
-							var now = Math.round(new Date().getTime() / 1000);
-							var dateFrom = '{{ dateFrom }}';
-							var dateTo = '{{ dateTo }}';
-							var soldOut = '{{ soldOut }}';
-							var ticketValidFromDate = '{{ ticketValidFromDate }}';
-							var ticketValidFromTime = '{{ ticketValidFromTime }}';
-							var ticketName = '{{ ticketName }}';	
-							var buyLink = '{{ buyLink }}';													
-				
-							if (now >= dateTo) {
-								document.getElementById(i).className = "ticket-sold-out";	
-								document.getElementById(i).style.color = "#000000";				
-								document.getElementById(i).innerHTML = "Sales Ended";
-							}
-							else if (soldOut == "true") {
-								document.getElementById(i).className = "ticket-sold-out";
-								document.getElementById(i).style.color = "#000000";	
-								document.getElementById(i).innerHTML = "Sold Out";
-							}	
-							else if (now >= dateFrom) {
-								document.getElementById(j).className = "bordered dark-border button";
-								document.getElementById(i).className = "waves-effect waves-button";
-								document.getElementById(i).href = buyLink;
-								document.getElementById(i).target = "_blank";
-								document.getElementById(i).innerHTML = "Buy Now";
-							}
-							else {
-								document.getElementById(i).className = "ticket-sold-out";
-								document.getElementById(i).style.color = "#000000";	
-								document.getElementById(i).innerHTML = ticketName + " ticket sales begin on " + ticketValidFromDate + " at " + ticketValidFromTime;
-							}				
-						</script>
-					</div>
+					{% assign animationDelay = animationDelay | plus:250 %}
+					{% endif %}
+				{% endfor %}
 				</div>
-			{% assign animationDelay = animationDelay | plus:250 %}
-            {% endfor %}
-            </div>
-            <span class="tickets-info">{{ site.ticketsInfo }}</span>
+				<span class="tickets-info">{{ site.ticketsInfo }}</span>
+			</div>
 		</div>
-	</div>
-</section>
+	</section>
+{% endif %}
 <!-- End Tickets 2 Section -->
