@@ -3,69 +3,77 @@
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
 			<h3>{{ site.ticketsTitle }}</h3>
-            {% for ticketsOffer in site.ticketsOffers %}
-				{% assign length = forloop.length %}
-				{% assign index = forloop.index %}
-	            {% assign colWidth = 12 | divided_by: forloop.length %}
-	            {% assign check = forloop.index | modulo:2 %}
-	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
-	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
-					<div class="pricing-header">
-						<p class="title">{{ ticketsOffer.name }}</p>
-						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
-					</div>
-					<div class="pricing-content">
-						<ul>
-							{% for listItem in ticketsOffer.ticketContentList %}
-							<li>{{ listItem }}</li>
-							{% endfor %}
-						</ul>
+			{% assign count = 0 %}
+			{% for ticketsOffer in site.ticketsOffers %}
+				{% if ticketsOffer.hide == true %}
+					{% assign count = count | plus: 1 %}
+				{% endif %}
+			{% endfor %}
+			{% for ticketsOffer in site.ticketsOffers %}
+				{% if ticketsOffer.hide == false %}	
+					{% assign length = forloop.length | minus: count %}
+					{% assign index = forloop.index %}
+					{% assign colWidth = 12 | divided_by: length %}
+					{% assign check = forloop.index | modulo:2 %}
+					<div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured == true %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == {{ length }} %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
+						{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
+						<div class="pricing-header">
+							<p class="title">{{ ticketsOffer.name }}</p>
+							<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
+						</div>
+						<div class="pricing-content">
+							<ul>
+								{% for listItem in ticketsOffer.ticketContentList %}
+								<li>{{ listItem }}</li>
+								{% endfor %}
+							</ul>
 
-						{% assign dateFrom = ticketsOffer.validFrom | date: '%s' %}
-						{% assign dateTo = ticketsOffer.validThrough | date: '%s' %}
-						{% assign soldOut = ticketsOffer.soldOut %}
-						{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
-						{% assign ticketValidFromDate = ticketValidFrom[0] | date: "%-d %B %Y" %}
-						{% assign ticketValidFromTime = ticketValidFrom[1] %}
-						{% assign ticketName = ticketsOffer.name %}
-						{% assign buyLink = ticketsOffer.buyButtonLink %}
+							{% assign dateFrom = ticketsOffer.validFrom | date: '%s' %}
+							{% assign dateTo = ticketsOffer.validThrough | date: '%s' %}
+							{% assign soldOut = ticketsOffer.soldOut %}
+							{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
+							{% assign ticketValidFromDate = ticketValidFrom[0] | date: "%-d %B %Y" %}
+							{% assign ticketValidFromTime = ticketValidFrom[1] %}
+							{% assign ticketName = ticketsOffer.name %}
+							{% assign buyLink = ticketsOffer.buyButtonLink %}
 
-						<a id='{{ forloop.index }}'></a>		
+							<a id='{{ forloop.index }}'></a>		
 
-						<script>
-							var length = '{{ length }}';
-							var i = '{{ forloop.index }}';
-							var now = Math.round(new Date().getTime() / 1000);
-							var dateFrom = '{{ dateFrom }}';
-							var dateTo = '{{ dateTo }}';
-							var soldOut = '{{ soldOut }}';
-							var ticketValidFromDate = '{{ ticketValidFromDate }}';
-							var ticketValidFromTime = '{{ ticketValidFromTime }}';
-							var ticketName = '{{ ticketName }}';	
-							var buyLink = '{{ buyLink }}';													
-				
-							if (now > dateTo) {
-								document.getElementById(i).className = "button disabled fallback";
-								document.getElementById(i).innerHTML = "Sales Ended";
-							}
-							else if (soldOut == "true") {
-								document.getElementById(i).className = "button disabled fallback";
-								document.getElementById(i).innerHTML = "Sold Out";
-							}	
-							else if (now > dateFrom) {
-								document.getElementById(i).className = "button";
-								document.getElementById(i).href = buyLink;
-								document.getElementById(i).target = "_blank";
-								document.getElementById(i).innerHTML = "Buy Now";
-							}
-							else {
-								document.getElementById(i).className = "button disabled fallback";
-								document.getElementById(i).innerHTML = ticketName + " ticket sales begin on " + ticketValidFromDate + " at " + ticketValidFromTime;
-							}				
-						</script>			
+							<script>
+								var length = '{{ length }}';
+								var i = '{{ forloop.index }}';
+								var now = Math.round(new Date().getTime() / 1000);
+								var dateFrom = '{{ dateFrom }}';
+								var dateTo = '{{ dateTo }}';
+								var soldOut = '{{ soldOut }}';
+								var ticketValidFromDate = '{{ ticketValidFromDate }}';
+								var ticketValidFromTime = '{{ ticketValidFromTime }}';
+								var ticketName = '{{ ticketName }}';	
+								var buyLink = '{{ buyLink }}';													
 					
+								if (now > dateTo) {
+									document.getElementById(i).className = "button disabled fallback";
+									document.getElementById(i).innerHTML = "Sales Ended";
+								}
+								else if (soldOut == "true") {
+									document.getElementById(i).className = "button disabled fallback";
+									document.getElementById(i).innerHTML = "Sold Out";
+								}	
+								else if (now > dateFrom) {
+									document.getElementById(i).className = "button";
+									document.getElementById(i).href = buyLink;
+									document.getElementById(i).target = "_blank";
+									document.getElementById(i).innerHTML = "Buy Now";
+								}
+								else {
+									document.getElementById(i).className = "button disabled fallback";
+									document.getElementById(i).innerHTML = ticketName + " ticket sales begin on " + ticketValidFromDate + " at " + ticketValidFromTime;
+								}				
+							</script>			
+						
+						</div>
 					</div>
-				</div>
+				{% endif %}
             {% endfor %}
 		</div>
 	</div>

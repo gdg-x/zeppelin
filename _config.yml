@@ -143,6 +143,7 @@ subscribeAction: "https://github.us18.list-manage.com/subscribe/post?u=440fd2edc
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
+hideTicketsBlock: true
 ticketsTitle: "Pricing"
 ticketsSubTitle: "Additional information"
 # ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
@@ -153,6 +154,7 @@ ticketsOffers:
   price: "£150"
   priceCurrency: "+ VAT"
   ticketsNumber: "200"
+  featured: true
   ribbon: "Full price"
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
@@ -161,13 +163,14 @@ ticketsOffers:
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
   soldOut: false
+  hide: false
  -
   name: "Early Bird"
   price: "£99"
   priceCurrency: "+ VAT"
   ticketsNumber: "50"
-  ribbon: "-33%"
   featured: true
+  ribbon: "-33%"
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
@@ -175,11 +178,13 @@ ticketsOffers:
   #validThrough: "2018-08-31T23:59"
   validThrough: "2019-02-01T00:00"
   soldOut: false
+  hide: true
  -
   name: "Concessionary"
   price: "£99"
   priceCurrency: "+ VAT"
   ticketsNumber: "50"
+  featured: false
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   additionalInfo: "Students require a valid student email address at time of purchase."
@@ -188,6 +193,7 @@ ticketsOffers:
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
   soldOut: false
+  hide: false
 
 # Footer
 socialLinks:
