@@ -23,8 +23,8 @@ googleAnalyticsSiteUrl: "swiftfest.io"
 siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
 
 # Organizer Info
-organizerName: "Giorgio Natili, Matt Dias, Lucy Monahan, Barbara Menicucci, Jeff O'Leary, Zev Eisenberg, Sean Olszewski, Andres Pineda"
-organizerAlternateName: "SwiftFest Boston 2018"
+organizerName: "Giorgio Natili, Matt Dias, Lucy Monahan, Barbara Menicucci, Alicia V Carr, Sean Olszewski, Andres Pineda, "
+organizerAlternateName: "SwiftFest Boston 2019"
 organizerDescription: "Open and volunteer geek community who create exciting events and share experience about mobile development technology with passion. We do love Swift and everything mobile!"
 organizerEmail: "conference@swiftfest.io"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -44,30 +44,31 @@ c4sponsorsUrl: "mailto:conference@swiftfest.io"
 # Navigation
 navigationLinks:
 # - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/#tickets", text: "Tickets"}
- - {permalink: "/#partners", text: "Sponsors"}
- - {permalink: "/team/", text: "Team"}
+# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+ - {permalink: "/speakers-2018/", text: "Former Speakers"}
+# - {permalink: "/#tickets", text: "Tickets"}
+ - {permalink: "/#partners", text: "Former Sponsors"}
+# - {permalink: "/team/", text: "Team"}
  - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "bricks.jpg"
-heroTitle: "SwiftFest <typeout>  2018" # TODO: typeout?
-eventDate: "June 18–19, 2018"
-typeoutTextValues: '"", "Boston", "Swift", "Engineering", "Community", "Beantown", "iOS", "Excellence"'
+heroImage: "bike.jpg"
+heroTitle: "SwiftFest <typeout>  2019" # TODO: typeout?
+eventDate: "July 29–30, 2019"
+typeoutTextValues: '"", "Boston", "Swift", "Engineering", "Community", "Innovation", "Beantown", "iOS", "Excellence", "Inclusiveness"'
 typeoutFallback: "Boston"
 heroButtons:
- - {permalink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy tickets", target: "_blank"}
+ - {permalink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets", target: "_blank"}
 
 # About Block
 aboutTitle: "About SwiftFest"
 aboutBlock:
- - {title: "Conference", image: "conference.png", text: "<p><strong>SwiftFest</strong> is a different way to experience <strong>iOS development</strong> that brings together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment entirely focused on <strong>Swift</strong>. The most community-driven Swift conference is happening for the first time in <strong>Boston</strong> – <strong>June 18–19</strong>, 2018.</p>" }
+ - {title: "Conference", image: "conference.png", text: "<p><strong>SwiftFest</strong> is a different way to experience <strong>iOS development</strong> that brings together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment entirely focused on <strong>Swift</strong>. The most community-driven Swift conference is happening for the first time in <strong>Boston</strong> – <strong>July 29-30</strong>, 2019.</p>" }
  - {title: "Workshops", image: "workshop.png", text: "At <b>SwiftFest</b> we'll be offering workshops along with talks and networking with some of the most innovative developers in the <b>Swift</b> space. Come along and elevate your <b>Swift</b> and <b>iOS</b> skills!" }
 
 # Statistic Block
@@ -81,14 +82,14 @@ statisticBlock:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Featured Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Former Featured Speakers"
+rockstarSpeakersButtonText: "See all former speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "Calderwood Pavilion"
 eventLocationLink: "https://www.huntingtontheatre.org/about/venue/pavilion/"
-eventStreetAddress: "Calderwood Pavilion<br />527 Tremont Street"
+eventStreetAddress: "527 Tremont Street"
 eventAddressLocality: "Boston"
 eventAddressLocalityRegion: "MA"
 eventPostalCode: "02116"
@@ -117,11 +118,11 @@ twitterHashTag: "swiftfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersTitle: "Former Sponsors"
+partnersC4sponsorsButton: "Become a sponsor for 2019!"
 
 # Supporters Block
-supportersTitle: "Supporters"
+supportersTitle: "Former Supporters"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -133,53 +134,31 @@ subscribeInfo: "Find out about new speaker announcements and other SwiftFest new
 
 # Tickets Block
 ticketsTitle: "Tickets"
-ticketsInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th–19th) and exhibitor booths, a ticket to the official conference party on June 18th for you and a guest, morning snack, lunch, and afternoon snack on both days."
+ticketsInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
 ticketsOffers:
  -
    name: "Student"
    price: "99"
    priceCurrency: "USD"
-   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
    buyButtonText: "Buy Now"
    additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
-   validFrom: "2018-1-1T00:00"
-   validThrough: "2018-06-18T9:00"
+   validFrom: "2019-1-1T00:00"
+   validThrough: "2019-07-28T9:00"
    soldOut: false
    disabled: false
    soldOutText: "Sold Out"
  -
-   name: "Group Ticket"
-   price: "299"
-   priceCurrency: "USD each"
-   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-   buyButtonText: "Buy Now"
-   additionalInfo: "May be purchased in groups of 4."
-   validFrom: "2018-1-1T00:00"
-   validThrough: "2018-06-08T23:59"
-   soldOut: false
-   disabled: false
- -
-  name: "In Time Bird"
-  price: "499"
+  name: "At the Crack of Dawn"
+  price: "199"
   priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
   buyButtonText: "Buy Now"
-  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
-  validFrom: "2018-04-11T00:00"
-  validThrough: "2018-06-08T23:59"
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
+  validFrom: "2019-02-11T00:00"
+  validThrough: "2019-04-08T23:59"
   soldOut: false
   disabled: false
- -
-  name: "Regular Ticket"
-  price: "599"
-  priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (June 18th - 19th) and exhibitor booths, a ticket to the official conference party on June 18th, morning snack, lunch and afternoon snack on both days."
-  validFrom: "2018-06-09T00:00"
-  validThrough: "2018-06-16T23:59"
-  soldOut: false
-  disabled: true
 
 # Footer
 socialLinks:
@@ -201,7 +180,7 @@ footerBlocks:
 
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
@@ -240,7 +219,7 @@ directionDetailsWideCards:
    -
     title: "Registration"
     links:
-     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets", text: "Buy Tickets"}
+     - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy Tickets"}
    -
     title: "Attendance Details"
     links:

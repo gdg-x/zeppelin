@@ -1,0 +1,429 @@
+-
+  id: "1"
+  name: "Susan"
+  surname: "Bennett"
+  company: "Siriously Susan"
+  title: "Voice of Siri"
+  bio: |
+   You may not know Susan Bennett, but you definitely know her voice! Susan is a voice actor and singer whose voice has appeared on hundreds of radio and TV commercials for such clients as McDonald’s, Macy’s, Goodyear, Papa John’s, Fisher Price, and more. She is the voice of Delta Airlines gates worldwide, as well as hundreds of GPS and phone systems, but you probably know her best as the original voice of Siri.
+
+   Susan has appeared on nationally televised programs The Mariah Carey Merriest Christmas Special, The Queen Latifah Show, CNN, Showbiz Tonight, The Jack & Triumph Show, the new To Tell the Truth, and she read the Top Ten list for David Letterman!
+
+   Susan was born in Burlington, Vermont, and spent her youth in New England. She was always interested in music and acting, which she pursued during her four years at Brown University, singing in theater productions, and in the jazz band, “Conglomerate.” Susan was the leader of singing group, The Chattertocks, as well. After graduation, she married NHL hockey player, Curt Bennett, and moved to Atlanta, Georgia, where Curt played for The Atlanta Flames, and Susan began her voiceover and singing career. Susan toured with Burt Bacharach as a backup singer, and later toured and traveled the world with Roy Orbison, also singing backup vocals, with a featured duet. She sang jingles as well for such clients as Coca Cola, Georgia Power, Kroger, and Krystal restaurants. It was after a jingle session that Susan was asked to voice a commercial when the voice talent didn’t show up. She discovered that voiceover was something she did well and enjoyed, so she took voice coaching, got an agent, and started on a career that is still going strong!
+
+   Susan continues to live and work in Atlanta, Georgia, along with second husband guitarist and audio engineer, Rick Hinkle, of Audiocam Music. Susan and Rick had a private event band called “Interactive!” for more than two decades, and they still continue to work together in their 60’s and 70’s rock and soul band, “Boomers Gone Wild!”
+
+   Susan has one child, son Cameron Schuyler Bennett, who lives in Los Angeles. He is a photographer, and also works with social media company, Fanbase."
+  thumbnailUrl: SusanBennett.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://SusanCBennett.com"}
+    - {name: "twitter", link: "https://twitter.com/siriouslysusan"}
+-
+  id: "7"
+  name: "Craig"
+  surname: "Clayton"
+  title: "Senior iOS Engineer"
+  company: "Adept Mobile"
+  bio: |
+   Craig Clayton is a Sr. iOS Engineer at [Adept Mobile](http://adeptmobi.com/), which specializes in building mobile experiences primarily for NBA & NFL teams. Craig also volunteers as the organizer of the [Suncoast iOS meetup group](http://www.meetup.com/Suncoast-iOS/) in the Tampa/St. Petersburg area, and prepares presentations and hands-on talks for the community. On top of all that, Craig is also the owner of [Cocoa Academy](http://cocoa.academy/), which specializes in iOS video courses.
+  thumbnailUrl: CraigClayton.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/thedevme"}
+-
+  id: "3"
+  name: "Sean"
+  surname: "Olszewski"
+  company: "Pivotal Labs"
+  title: "Software Engineer & Consultant"
+  bio: |
+   Currently a software engineer at Pivotal Labs, Sean Olszewski focuses on practicing test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. When he’s not working on projects for clients, he can be found at meet ups in the Boston area, or organizing the two meet ups he runs: Learn Swift Boston, and XP Boston. Feel free to ask Sean any testing or audio questions you might have!
+  thumbnailUrl: SeanOlszewski.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/__chefski__"}
+    - {name: "github", link: "https://github.com/seanrolszewski"}
+-
+  id: "4"
+  name: "Matt"
+  surname: "Dias"
+  company: "Chewy"
+  title: "Senior iOS Engineer"
+  bio: |
+   Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.
+  thumbnailUrl: MattDias.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
+    - {name: "github", link: "https://github.com/mdiasdev"}
+-
+  id: "5"
+  name: "Alex"
+  surname: "Bush"
+  title: "Software Consultant, entrepreneur, book author, and podcaster"
+  bio: |
+    Alex is a seasoned iOS consultant who’s been building iOS apps, top to bottom, client to server, over the last 7 years. Alex is an author of [The iOS Interview Guide](http://iosinterviewguide.com/) and a co-host at [Inside iOS Dev](http://insideiosdev.com/) podcast. Currently he’s focusing on his consulting work and on leveling up iOS developers by teaching them architecture and design patterns best practices.
+  thumbnailUrl: AlexBush.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://m.smartcloud.io/"}
+    - {name: "site", link: "http://insideiosdev.com/"}
+    - {name: "twitter", link: "https://twitter.com/alex_v_bush"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexvbush/"}
+-
+  id: "6"
+  name: "Agnes"
+  surname: "Vasarhelyi"
+  title: "iOS Developer"
+  company: "Topology Eyewear"
+  bio: |
+   Agnes is a Hungarian living in San Francisco, hard at work bringing the high tech revolution to the fashion industry at Topology Eyewear. Meetup and conference organizer in her previous life in Budapest, now busy building premium user experiences on iOS, learning about graphics programming, and hiking the mountains of California in the meantime.
+  thumbnailUrl: AgnesVasarhelyi.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/vasarhelyia"}
+-
+  id: "46"
+  name: "Martin"
+  surname: "Mitrevski"
+  title: "Technical Leader"
+  company: "Netcetera"
+  bio: |
+   Martin works as a technical lead at Netcetera, developing apps in several areas, such as transport, indoor navigation, virtual reality, entertainment and publishing. He is the author of the book “Developing Conversational Interfaces for iOS”. Martin shares his knowledge on his blog martinmitrevski.com and as a conference speaker.
+  thumbnailUrl: MartinMitrevski.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mitrevski"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martin-mitrevski-01134755"}
+    - {name: "site", link: "https://martinmitrevski.com"}
+-
+  id: "8"
+  name: "Sarp"
+  surname: "Erdag"
+  title: "Founder & Lead Developer"
+  company: "Apperto"
+  bio: |
+   Sarp is an independent iOS developer, designer and entrepreneur. He co-founded the two popular apps, Typorama and Videorama, which got more than 6M downloads worldwide, reaching $1M annual revenue. His work has been featured by Apple, TechCrunch, ProductHunt, Entrepreneur Magazine, Popular Science and many other online and printed news sources. Sarp is an expert in building self-funded, bootstrapped app businesses, and passionate about sharing his knowledge and experiences throughout his journey.
+  thumbnailUrl: SarpErdag.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/sarperdag/"}
+    - {name: "facebook", link: "https://www.facebook.com/sarperdag"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sarperdag/"}
+-
+  id: "50"
+  name: "Joshua"
+  surname: "Greene"
+  title: "Author and Technical Editor"
+  company: "RayWenderlich.com"
+  bio: |
+   Joshua Greene is a long-time author and technical editor for RayWenderlich.com. He is the lead author of [Design Patterns by Tutorials](https://store.raywenderlich.com/products/design-patterns-by-tutorials) and co-author of [tvOS Apprentice](https://store.raywenderlich.com/products/tvos-apprentice). Joshua is very passionate about writing maintainable code, and he's an advocate for design patterns and test driven development.
+  thumbnailUrl: JoshuaGreene.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jrg_developer"}
+-
+  id: "51"
+  name: "David"
+  surname: "Okun"
+  title: "Developer Advocate"
+  company: "IBM"
+  bio: |
+    David Okun is a mobile software developer turned developer advocate for IBM in Austin, Texas.
+    David has been primarily focused on iOS mobile software, but is also interested in web technology such as Node.js. He's shared over 35 projects with the community on GitHub. David's favorite thing to do is to teach, and he loves an opportunity to clearly explain how something works, and walk someone through it.
+  thumbnailUrl: DavidOkun.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/dokun24"}
+-
+  id: "11"
+  name: "Ish"
+  surname: "Shabazz"
+  title: "iOS Developer"
+  bio: |
+   Ish has been an independent iOS App Developer since 2010. He works full time as a network engineer and spends practically every moment outside of that developing apps or working on something app-related. His apps have been featured by Apple, Starbucks, App Advice, iMore, and Daring Fireball. Ish’s story was featured in the documentary App: The Human Story. He is currently working on Capsicum, a daily planner and notebook.
+  thumbnailUrl: IshShabazz.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ishabazz"}
+
+-
+  id: "12"
+  name: "Jon-Tait"
+  surname: "Beason"
+  title: "iOS Engineer"
+  company: "Glowforge"
+  bio: |
+   Jon-Tait Beason is a iOS software engineer at Glowforge, maker of a 3D Laser Printer. He has a background in education and enjoys teaching and learning. To that end, he spends a lot of time hanging out in iOS communities where he learns from others and helps engineers starting out.
+  thumbnailUrl: Jon-TaitBeason.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/BugKrusha"}
+-
+  id: "13"
+  name: "Erica"
+  surname: "Sadun"
+  bio: |
+   Erica Sadun writes lots of books. When not writing, she's a full time parent of geeks who are brushing up on their world domination skills. According to her academic dosimeter, she's acquired more education than any self-respecting person might consider wise. She enjoys deep diving into technology and has written, co-written, and contributed to dozens of books about computing and digital media. Sadun has blogged at TUAW, Ars Technica, O'Reilly, and Lifehacker.
+  thumbnailUrl: EricaSadun.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/EricaSadun"}
+    - {name: "site", link: "http://ericasadun.com/"}
+-
+  id: "14"
+  name: "Rob"
+  surname: "Napier"
+  bio: |
+   Rob is co-author of iOS Programming Pushing the Limits, and maintainer of the RNCryptor encryption format. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight. Today, he shapes music over Bluetooth for Logitech, explores old ideas in new languages, and tries to figure out how all of this applies to Swift.
+  thumbnailUrl: RobNapier.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/cocoaphony"}
+    - {name: "site", link: "http://robnapier.net/"}
+-
+  id: "16"
+  name: "Michael"
+  surname: "Helmbrecht"
+  company: "Kidfund"
+  bio: |
+   Michael is a proud generalist who loves learning about everything. He's making the Kidfund app happen so saving for your kids is as easy as it should be. He travels almost exclusively for the food, and to identify bilingual puns.
+  thumbnailUrl: MichaelHelmbrecht.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mrh_is"}
+    - {name: "site", link: "https://mrh.is/"}
+-
+  id: "17"
+  name: "Lou"
+  surname: "Franco"
+  company: "Trello"
+  bio: |
+   Lou Franco is on the Trello iOS Team at Atlassian and is the Mobile Editor for Smashing Magazine. In his spare time, he runs, volunteers as a Big Brother, and writes about iOS on App-o-Mat. He lives with his wife in Northampton, MA.
+  thumbnailUrl: LouFranco.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/loufranco"}
+    - {name: "site", link: "https://trello.com/"}
+    - {name: "site", link: "https://www.smashingmagazine.com/"}
+    - {name: "site", link: "https://app-o-mat.com/"}
+-
+  id: "18"
+  name: "Pat"
+  surname: "Butkiewicz"
+  company: "Intrepid"
+  bio: |
+   Pat Butkiewicz is an iOS developer turned DevOps engineer that has been building mobile apps, and the infrastructure to support them for 6 years at Intrepid Pursuits in Cambridge, MA. Daily responsibilities include mentoring junior developers, managing the mobile continuous integration/deployment pipeline, and working with clients on various cloud platforms. Most importantly I'm responsible for maintaining our continuous integration environment as well as improving on existing mobile development processes through automation. Together with a small team, we build tools and maintain a small fleet of Jenkins servers for 75+ mobile and web developers.
+  thumbnailUrl: PatButkiewicz.jpg
+  rockstar: true
+  social: []
+-
+  id: "19"
+  name: "David"
+  surname: "Ohayon"
+  company: "Verily"
+  bio: |
+   David Ohayon is an iOS and firmware engineer at Verily. Prior to that, I worked on the Fabric product suite for Twitter and was later acquired by Google. I love to snowboard, travel, and play with my big pupper, Frankie.
+  thumbnailUrl: DavidOhayon.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ohayon"}
+-
+  id: "20"
+  name: "Hung"
+  surname: "Truong"
+  company: "Lyft"
+  bio: |
+   Hung is an iOS Engineer at Lyft where he converts free snacks and coffee into lots of Swift code that moves cars and people around. He has been hacking on iOS since before the original iPhone OS 2.1 SDK was released in 2008. His hobbies include brewing cold brew coffee, photography and being the social media manager and growth hacker for his corgi, Sodapop.
+  thumbnailUrl: HungTruong.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.hung-truong.com/blog/"}
+    - {name: "twitter", link: "http://www.twitter.com/hungtruong/"}
+    - {name: "github", link: "https://github.com/hungtruong/"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/hungtruong/"}
+-
+  id: "21"
+  name: "Ayal"
+  surname: "Spitz"
+  company: "Intrepid"
+  bio: |
+   Ayal Spitz has 25+ years’ experience in mobile computing, distributed software, emerging technologies, and technology fusion. Over the course of his career he has focused on solving problems in new and unique ways. As a senior principal software engineer at Intrepid Pursuits he is focused on raising the level of engineering craftsmanship and code quality. Prior to working at Intrepid, Ayal worked for government, military, and commercial clients bringing mobile computing to bear on their problem set.
+  thumbnailUrl: AyalSpitz.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/aspitz"}
+-
+  id: "22"
+  name: "Jeff"
+  surname: "Kelley"
+  company: "Detroit Labs"
+  bio: |
+   Jeff Kelley is a developer at Detroit Labs, where he builds apps in Swift but still has a soft spot for Objective-C. Author of Developing Apps for Apple Watch and Learn Cocoa Touch for iOS, he’s been working with iOS since its infancy in 2008. Jeff is passionate about building usable apps, the open-source community around Apple platforms, and will talk your ear off about electric cars and clean energy. Jeff loves raising his two kids and two dogs, Detroit, and organizing the Motor City CocoaHeads group.
+  thumbnailUrl: JeffKelley.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/slaunchaman"}
+-
+  id: "23"
+  name: "Harlan"
+  surname: "Haskins"
+  company: "Google"
+  bio: |
+   Harlan is a recent graduate of RIT, and an engineer on Google’s Swift Language Support Team. He is a former Apple intern on Swift, where he created SwiftSyntax. He also co-founded LLVMSwift, an organization devoted to making tools to facilitate compiler development in Swift.
+  thumbnailUrl: HarlanHaskins.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/harlanhaskins"}
+    - {name: "github", link: "https://github.com/harlanhaskins"}
+-
+  id: "24"
+  name: "Neem"
+  surname: "Serra"
+  company: "Slalom"
+  bio: |
+   Neem Serra is a mobile developer at Slalom in St. Louis. She teaches and mentors at a variety of non-profit organizations such as Software Carpentry. As the lead of the Google Women Techmakers group in St. Louis, she started the St. Louis Techies Project to highlight the diversity of technical people in St. Louis. Neem loves to bake, read comics, and host craft nights.
+  thumbnailUrl: NeemSerra.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/TeamNeem"}
+-
+  id: "25"
+  name: "Todd"
+  surname: "Burner"
+  company: "Google"
+  bio: |
+   Todd Burner is a Developer Advocate on the Firebase team. He previously worked on other teams in Google Cloud Platform, at Twitter, and a few mobile-first startups. He spends his time helping developers get up and running with open source and Google projects on GitHub and Stack Overflow, as well as meeting developers in person across the world.
+  thumbnailUrl: ToddBurner.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/toddlovesthis"}
+    - {name: "github", link: "https://github.com/tkburner"}
+-
+  id: "60"
+  name: "Glen"
+  surname: "Yi"
+  company: "Rue La La"
+  bio: |
+   Glen Yi is the lead iOS engineer at Rue La La. He graduated in Computer Engineering from the University of Toronto, some lifetime ago, and has been doing iOS development since 2012. Likes the Toronto Blue Jays, Maple Leafs except when they’re losing game 7s, and the Toronto Raptors when they’re not getting swept.
+  thumbnailUrl: GlenYi.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/glenyi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/glenyi/"}
+    - {name: "github", link: "https://github.com/glenyi"}
+-
+  id: "61"
+  name: "Mehrnoosh"
+  surname: "Sameki"
+  company: "Rue La La"
+  bio: |
+   Mehrnoosh Sameki is a data scientist at Rue La La. She received her PhD in computer science from Boston University. Following the completion of her degree in August 2017, she moved to her current role, which combines her passion for data science, machine learning and fashion!  She is interested in incorporating data science and machine learning in retail space to drive revenue and enhance personalized shopping experiences of Rue La La’s 20M members. In her spare time, she enjoys trying new food recipes, watching documentaries, and reading about interior design and house decoration.
+  thumbnailUrl: MehrnooshSameki.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mehrnoosh-sameki-a2a02245/"}
+-
+  id: "26"
+  name: "James"
+  surname: "Graham"
+  bio: |
+   James Graham is a software engineer who deeply enjoys starting and building businesses from scratch. He received a Thiel Fellowship last year for his work on Caffei.net, which is the fastest way to establish a TLS connection between iOS and your api (your commerce app can make a lot more money by becoming way faster!). Used by the largest freelancer marketplace, a large-Boston based travel company, and other commerce companies around the world, Caffeine improves security by making PFS and certificate pinning automatic and free, among others.
+
+   Recently he has become interested in empowering and better tooling the "small guys" that all SaaS has so far ignored: senior citizens, immigrants, and people who Just Don't Know by starting the Wallace Murry Phone Co. Wallace Murry is the only wireless phone provider based in MA. Wallace Murry doesn't sell your data to advertisers like AT&T et al, puts on events/sessions at low-income community centers that promote digital literacy (how to use a mouse, keyboard, email, google maps, etc), won't sell you an unlimited data plan if you don't need it, and is staffed with people from your local community who pick up the phone instantly if you call with any questions related to your phone (or beyond!).
+  thumbnailUrl: JamesGraham.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/WittedHaddock"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wittedhaddock/"}
+-
+  id: "28"
+  name: "Brad"
+  surname: "Smith"
+  bio: |
+   Brad Smith is a Senior iOS Engineer at Wayfair. He is a southern transplant into New England that is still coming to terms with weather other than "Hot" and "Very Hot". He has worked on iOS at various mobile agencies and product companies over the last 5 years. While not writing and reviewing code, he spends his time snowboarding, playing ultimate, and eating lots of yummy food.
+  thumbnailUrl: BradSmith.jpg
+  rockstar: true
+  company: "WayFair"
+  social:
+    - {name: "twitter", link: "https://twitter.com/bsmithers11"}
+    - {name: "github", link: "https://github.com/bsmith11"}
+-
+  id: "66"
+  name: "Jayesh"
+  surname: "Kawli"
+  bio: |
+   Hello, I am Jayesh Kawli. I live in Boston, Massachusetts. Currently, I am working at Wayfair as a Senior iOS developer. I have been writing iOS apps for more than 4 years. At Wayfair, I work with checkout and shipping team which is responsible for handling cart, payments, loyalty and gift cards in the application. Previously at Wayfair, I worked on the Platforms team which handles core architecture, network/data layer and general performance optimization of the application.
+
+   In my spare time, I like to work on side-projects and open source libraries. Currently, I am learning to speak Spanish and it's going really well. I also write a blog at https://jayeshkawli.ghost.io which touches active topics in iOS development along with occasional off-topics such as food, travel and web development. My open source projects can be found on my GitHub page.
+  thumbnailUrl: JayeshKawli.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/jayesh15111988"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jayeshkawli/"}
+    - {name: "site", link: "https://jayeshkawli.ghost.io"}
+-
+  id: "30"
+  name: "Arthur"
+  surname: "Sabintsev"
+  bio: |
+   Arthur is one of the lead iOS engineers at The Washington Post. He currently leads mobile development on the "Arc Publishing" team, building native iOS and Android apps for news publishers around the world. He has also taught Swift & Objective-C at various code schools, acted as a technical reviewer on books on Swift, and over the last 6 years, has authored a couple dozen open source libraries for the iOS community. Before leaving his Ph.D. program, he was an experimental nuclear physicist who worked underground colliding subatomic and subnuclear particles.
+  thumbnailUrl: ArthurSabintsev.jpg
+  rockstar: true
+  company: "The Washington Post"
+  social:
+    - {name: "twitter", link: "https://twitter.com/ArtSabintsev"}
+    - {name: "github", link: "http://github.com/ArtSabintsev"}
+    - {name: "site", link: "http://sabintsev.com/"}
+-
+  id: "31"
+  name: "Ray"
+  surname: "Deck"
+  bio: |
+   Ray is CTO of Element55 in Cambridge, MA. Element55 provides automatic and mobile time capture solutions to major professional service firms around the world. Ray's initial background was as a quantitative analyst at dotcom-era startups, but after a shift to software, Ray has been developing developers to make products in data and mobile since the days of Blackberry. Machine learning has brought this full circle!
+  thumbnailUrl: RayDeck.jpg
+  rockstar: false
+  company: "Element55"
+  social:
+    - {name: "twitter", link: "https://twitter.com/ray_deck"}
+    - {name: "github", link: "https://github.com/rhdeck"}
+    - {name: "linkedin", link: "https://linkedin.com/in/raydeck"}
+-
+  id: "32"
+  name: "Alexander"
+  surname: "Lash"
+  bio: |
+   Alex is the tech lead of Google's Swift Language Support team, the primary maintainer of google/swift, and responsible for various open-sourced and to-be-open-sourced Swift tools such as swift-format.
+  thumbnailUrl: AlexanderLash.jpg
+  company: "Google"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/lexlash"}
+    - {name: "github", link: "https://github.com/abl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexlash/"}
+-
+  id: "33"
+  name: "Alicia"
+  surname: "Carr"
+  bio: |
+   Alicia is an activist, mentor, grandmother, and self-taught developer from Georgia. After learning to code online, she built an app to support women who are victims of domestic violence across the United States.
+  thumbnailUrl: AliciaCarr.jpg
+  company: "Purple Evolution"
+  title: "CEO/Founder"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/fineblkwoman"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pevoapp/"}
+-
+  id: "34"
+  name: "Zev"
+  surname: "Eisenberg"
+  bio: |
+   Zev was raised by clowns, but he ran away to join the circuits.
+  thumbnailUrl: ZevEisenberg.jpg
+  company: "Raizlabs, a Rightpoint company"
+  title: "iOS Developer"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/zeveisenberg"}
