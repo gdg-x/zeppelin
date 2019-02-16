@@ -10,7 +10,7 @@ Diversity is essential to a successful SwiftFest Boston 2018. Everyone from volu
 
 With the help of our generous sponsors SwiftFest Boston 2018 has resources to provide scholarships and stipends for travel-related expenses. If you are an aspiring SwiftFest Boston 2018 attendee requiring financial or logistical assistance then we want to hear from you! 
 
-To apply for available resources please fill out this [SwiftFest Boston 2019 Diversity Initiative form](https://docs.google.com/forms/d/e/1FAIpQLSeIHfPeimU-vA9G-2uPw_ZvEraxVwPiozhrDU6bS2HHEME6oQ/viewform) to tell us about yourself and the assistance you require to attend SwiftFest Boston 2018. The form is simple and private to SwiftFest Boston 2018 organizers. We will accept submissions until May 31, 2018.
+To apply for available resources please fill out this [SwiftFest Boston 2019 Diversity Initiative form](https://goo.gl/forms/3LoEhqhbW5RDDp4X2) to tell us about yourself and the assistance you require to attend SwiftFest Boston 2018. The form is simple and private to SwiftFest Boston 2018 organizers. We will accept submissions until May 31, 2018.
 
 Some examples of our commitment to diversity and inclusiveness:
 
@@ -22,7 +22,7 @@ Join us!
 
 #### Sponsors
 
-Interested in sponsoring SwiftFest Boston 2019 diversity attendees? Just visit our [ticketing](https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469#tickets) site and make a donation to purchase a ticket to support the SwiftFest diversity/inclusion program. All tickets purchased with this promo code will go into a pool of tickets to be used for diversity initiatives.
+Interested in sponsoring SwiftFest Boston 2019 diversity attendees? Just visit our [ticketing](https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets) site and make a donation to purchase a ticket to support the SwiftFest diversity/inclusion program. All tickets purchased with this promo code will go into a pool of tickets to be used for diversity initiatives.
 
 Thank you from SwiftFest Boston 2018!
 

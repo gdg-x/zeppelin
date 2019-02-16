@@ -13,7 +13,7 @@ timezone: 'America/New_York'
 googleMapsAPIKey: "AIzaSyAvGdd7lRTgZrGDwURX87xxBuina1LL43k"
 
 # Site Settings
-title: "SwiftFest 2018"
+title: "SwiftFest 2019"
 email: "conference@swiftfest.io"
 description: "The most community driven Swift conference!"
 baseurl:
@@ -46,21 +46,22 @@ navigationLinks:
 # - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+ - {permalink: "/diversity-inclusion/", text: "D&I"}
+ - {permalink: "/faq/", text: "FAQ"}
  - {permalink: "/speakers-2018/", text: "Former Speakers"}
 # - {permalink: "/#tickets", text: "Tickets"}
  - {permalink: "/#partners", text: "Former Sponsors"}
 # - {permalink: "/team/", text: "Team"}
- - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "bike.jpg"
+heroImage: "BeFunky-SwiftFest.jpg"
 heroTitle: "SwiftFest <typeout>  2019" # TODO: typeout?
 eventDate: "July 29–30, 2019"
-typeoutTextValues: '"", "Boston", "Swift", "Engineering", "Community", "Innovation", "Beantown", "iOS", "Excellence", "Inclusiveness"'
+typeoutTextValues: '"", "Boston ", "Swift ", "Engineering ", "Community ", "Innovation ", "Beantown ", "iOS ", "Excellence ", "Inclusiveness "'
 typeoutFallback: "Boston"
 heroButtons:
  - {permalink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets", target: "_blank"}
@@ -68,7 +69,7 @@ heroButtons:
 # About Block
 aboutTitle: "About SwiftFest"
 aboutBlock:
- - {title: "Conference", image: "conference.png", text: "<p><strong>SwiftFest</strong> is a different way to experience <strong>iOS development</strong> that brings together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment entirely focused on <strong>Swift</strong>. The most community-driven Swift conference is happening for the first time in <strong>Boston</strong> – <strong>July 29-30</strong>, 2019.</p>" }
+ - {title: "Conference", image: "conference.png", text: "<p><strong>SwiftFest</strong> is a different way to experience <strong>iOS development</strong> that brings together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment entirely focused on <strong>Swift</strong>. The most community-driven Swift conference is happening for the second time in <strong>Boston</strong> – <strong>July 29-30</strong>, 2019.</p>" }
  - {title: "Workshops", image: "workshop.png", text: "At <b>SwiftFest</b> we'll be offering workshops along with talks and networking with some of the most innovative developers in the <b>Swift</b> space. Come along and elevate your <b>Swift</b> and <b>iOS</b> skills!" }
 
 # Statistic Block
