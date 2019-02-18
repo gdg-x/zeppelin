@@ -77,9 +77,9 @@ heroButtons:
 aboutTitle: "About Build IT Right"
 aboutBlock:
  - {title: "Conference", image: "Simon_Brown.jpg", text: "Build IT Right is a new one day conference with inspirational speakers and
- exhibition aimed at those building software in the North East. Confirmed speakers include Simon Brown, (creator of C4 software
- architecture model, founder of Structurizr) and Dave Farley (co-author of Continuous Delivery) and Timandra Harkness as compare.
- The event will provide delegates with a dedicated day away from their screens, expand knowledge, and be inspired how to adapt to
+ exhibitions aimed at those building software in the North East. Confirmed speakers include Simon Brown (creator of C4 software
+ architecture model and founder of Structurizr), Dave Farley (co-author of Continuous Delivery) and Timandra Harkness as compere.
+ The event will provide delegates with a dedicated day away from their screens, expand knowledge, and inspire how to adapt to
  emerging trends." }
 
 # Statistic Block
@@ -87,7 +87,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from near and far"}
  - {count: "15", specialCharacter: "+", info: "hours", detail: "of discussions on effective software development"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from UK and beyond"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from the UK and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus the most interesting 'water cooler' talk outside the talks"}
 
 # Latest News Block
@@ -122,7 +122,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Crowne Plaza Hotel"
-venueFeatures: ["Spa and fitness suite", "Wi-Fi in all rooms and public areas", "Located in the Stephenson Quarter in the city center"]
+venueFeatures: ["Spa and fitness suite", "Wi-Fi in all rooms and public areas", "Located in the Stephenson Quarter in the city centre"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

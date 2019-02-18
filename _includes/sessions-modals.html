@@ -38,7 +38,9 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
+												{% if speaker.title != "" and speaker.company != "" %}
 												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+												{% endif %}
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
@@ -50,14 +52,16 @@
 											<p class="about">{{ speaker.bio }}</p>
 											<ul class="social">
 												{% for social in speaker.social %}
-													<li>
-														<a href="{{ social["link"] }}" target="_blank">
-															<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-																<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
-															</svg>
-														</a>
-													</li>
-												{% endfor %}
+													{% if social.link != "" %}
+														<li>
+															<a href="{{ social["link"] }}" target="_blank">
+																<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+																	<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+																</svg>
+															</a>
+														</li>
+													{% endif %}
+												{% endfor %}												
 											</ul>
 										</div>
 									</div>
