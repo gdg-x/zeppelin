@@ -46,3 +46,164 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/TimandraHarknes"}
+-
+  id: 5
+  name: "Jesse"
+  surname: "Carey"
+  company: "Bede Gaming"
+  title: "Director of Solution Architecture"
+  bio: ""
+  thumbnailUrl: Jesse-Cary.png
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 6
+  name: "Chris"
+  surname: "Price"
+  company: "Scott Logic"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: Chris-Price.png
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 7
+  name: "Jon"
+  surname: "McNestrie"
+  company: "Northern Shore Consulting"
+  title: "Coach & Trainer"
+  bio: ""
+  thumbnailUrl: Jon-McNestrie.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 8
+  name: "Jason"
+  surname: "Bell"
+  company: "DWP (Contract)"
+  title: "User Researcher"
+  bio: ""
+  thumbnailUrl: Jason-Bell.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 10
+  name: "Nate"
+  surname: "Sterling"
+  company: "Grid Smarter Cities"
+  title: "Design Strategist"
+  bio: ""
+  thumbnailUrl: Nate_Sterling_headshot.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 11
+  name: "Robert"
+  surname: "Rees"
+  company: "We Got POP"
+  title: "Head of Engineering"
+  bio: ""
+  thumbnailUrl: Robert-Rees.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 12
+  name: "Bartosz"
+  surname: "Jadrzejewski"
+  company: "Scott Logic"
+  title: "Technical Principal"
+  bio: ""
+  thumbnailUrl: bartosz_jedrzejewski_2_small.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 15
+  name: "James"
+  surname: "Murphy"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 16
+  name: "Mark"
+  surname: "Jose"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Mark_Jose_Lightning.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 17
+  name: "Stephen"
+  surname: "Mounsey"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Stephen-Mounsey.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 18
+  name: "Chris"
+  surname: "Howe-Jones"
+  company: "DevCycle Ltd"
+  title: "CEO/CTO and Founder"
+  bio: ""
+  thumbnailUrl: 
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 19
+  name: "Peter"
+  surname: "Grainger"
+  company: "Sage"
+  title: "Senior Engineer"
+  bio: ""
+  thumbnailUrl: Peter-Grainger.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 20
+  name: "Alex"
+  surname: "Lynham"
+  company: "The Co-op"
+  title: "Senior Software Engineer"
+  bio: ""
+  thumbnailUrl: Alex-Lynham.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 21
+  name: "Helena"
+  surname: "Hill"
+  company: "Helena Hill Consulting"
+  title: "Digital & UX Mentor"
+  bio: ""
+  thumbnailUrl: 
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 22
+  name: "Gary"
+  surname: "Fleming"
+  company: "Emphasis Parenthesis Ltd"
+  title: "Agile Development Coach / Software Consultant"
+  bio: ""
+  thumbnailUrl: Gary-Fleming-2.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 23
+  name: "David"
+  surname: "Boyne"
+  company: "CompareTheMarket"
+  title: "Application Architect"
+  bio: ""
+  thumbnailUrl: David-Boyne-2.jpg
+  social:
+    - {name: "twitter", link: ""}
+
