@@ -38,7 +38,11 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												{% if speaker.title != "" and speaker.company != "" %}
+												{% if speaker.title != "" and speaker.company == "" %}
+												<span class="position">{{ speaker.title }}</span>
+												{% elsif speaker.title == "" and speaker.company != "" %}
+												<span class="position">{{ speaker.company }}</span>
+												{% elsif speaker.title != "" and speaker.company != "" %}
 												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
 												{% endif %}
 											</p>
