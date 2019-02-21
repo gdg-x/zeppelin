@@ -222,7 +222,11 @@ We often adopt approaches to continuously deploy our systems, but what if we had
 -
   id: 117
   title: "Using Inner Source to drive innovation, culture and collaboration"
-  description: "Lessons learnt and take-aways from using Inner source to drive growth across an organisation."
+  description: "Open Source software is transforming the world. In 2018 GitHub had over 30 million developers using the platform, sharing ideas, and creating cultures. Over 96 million repositories were created with over 200 million pull requests. The Open Source community have developed principles, techniques and ways of working which I believe can be applied to any organisation.<br/>
+What if we could take the learnings from the Open Source community and apply them to our internal teams and our organisation? What can we learn from these learnings to help us drive innovation, culture and collaboration?<br/>
+People around the world are also observing the lessons that the Open Source community can teach us and have created a new community and set of practices called the InnerSource commons.<br/>
+In this talk, I will share with you how CompareTheMarket is using InnerSource practices to drive our culture, innovation, and collaboration across Peterborough, London & Belarus. I share with you the cultural challenges I’ve faced over the past few years implementing these InnerSource principles and technology we have used to help.<br/>
+Walking away from this talk I’m confident that you can take away some of these ideas and lessons I have learned and hopefully apply these techniques to help you scale and remain flexible for the future."
   type: DP
   subtype: presentation
   speakers: [23]
