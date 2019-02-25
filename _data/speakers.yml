@@ -87,6 +87,16 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
+  id: 9
+  name: "Juan"
+  surname: "Antonio Rodriguez Pozo"
+  company: "Opencast Software"
+  title: "Senior Consultant"
+  bio: ""
+  thumbnailUrl: Juan-Antonio-Rodriguez-Pozo.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
   id: 10
   name: "Nate"
   surname: "Sterling"
