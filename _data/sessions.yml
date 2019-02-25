@@ -111,11 +111,11 @@ Demonstrating value to stakeholders"
   language: en
 -
   id: 104
-  title: "TBA"
-  description: "TBD"
+  title: "Estimations are just a waste"
+  description: "If you say it like that, people will just tend to walk away from you. If we dig a little bit deeper into the reasons for estimating then we find out that the title of this talk is perhaps not as crazy as it seems."
   type: DP
   subtype: presentation
-  speakers: "TBA"
+  speakers: [9]
   language: en
 -
   id: 105
