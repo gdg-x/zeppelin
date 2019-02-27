@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speakers Unveiled"
+title:  "Speakers Revealed!"
 date:   2019-02-27 08:00:00
 isStaticPost: false
 ---
