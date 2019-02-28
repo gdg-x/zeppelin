@@ -10,7 +10,7 @@ The conference is aimed at anyone in the north east building software, and two s
 
 Now a range of other conference speakers have been confirmed:
 
-* Jesse Carey, Head of Application Architecture at Bede Gaming;
+* Jesse Cary, Head of Application Architecture at Bede Gaming;
 * Juan Antonio Rodriguez Pozo, Senior Consultant at Opencast Software;
 * Chris Price, Software Engineer at Scott Logic;
 * Jon McNestrie, Coach and Trainer at Northern Shore Consulting;
