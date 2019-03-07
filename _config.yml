@@ -15,7 +15,7 @@ shortTitle: "DroidconVN19"
 email: "eenriquelopez@gmail.com"
 description: "Register now and be informed of all the news happening at Droidcon Vietnam 2019"
 baseurl: ""
-url: "https://droidconvn.github.io"
+url: "https://droidconvn.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-115063613-1"
 googleAnalyticsSiteUrl: "droidconvn.com"
@@ -213,7 +213,7 @@ blogCommentsEnabled: true
 discusShortName: "droidconvn"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
