@@ -2,26 +2,28 @@
   group: "Platinum"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "logo-google.jpg"}
-- 
-  group: "Gold"
-  elements: 
-
-    - {name: "Firebase", description: "", link: "https://firebase.com", imageUrl: "firebase-logo.png"}
-    - {name: "Uber", description: "", link: "https://www.uber.com/", imageUrl: "uber-logo.jpg"}
-    - {name: "Zalo", description: "Zalo is the new market-leading messaging app with amazing features", link: "https://careers.zalo.me", imageUrl: "zalo.jpg"}
-- 
-  group: "Silver"
-  elements: 
-    - {name: "Grab", description: "Zalo is the new market-leading messaging app with amazing features", link: "https://www.grab.com", imageUrl: "grab-logo.jpg"}
-    - {name: "Commonwealth Bank", description: "The Commonwealth Bank of Australia is an Australian multinational bank with businesses across New Zealand, Asia, the United States and the United Kingdom", link: "https://www.commbank.com.au/about-us/our-company/international-branches/asia.html", imageUrl: "logo-commonwealth.jpg"}
-- 
-  group: "Bronze"
-  elements: 
     - {name: "JetBrains", description: "JetBrains is a software development company whose tools are targeted towards software developers and project managers", link: "https://www.jetbrains.com/", imageUrl: "logo-jetbrains.jpg"}
-- 
-  group: "Startup"
-  elements: 
-    - {name: "Nexmo", description: "", link: "https://www.nexmo.com/", imageUrl: "logo-nexmo.png"}
+# - 
+#   group: "Gold"
+#   elements: 
+
+#     - {name: "Firebase", description: "", link: "https://firebase.com", imageUrl: "firebase-logo.png"}
+#     - {name: "Uber", description: "", link: "https://www.uber.com/", imageUrl: "uber-logo.jpg"}
+#     - {name: "Zalo", description: "Zalo is the new market-leading messaging app with amazing features", link: "https://careers.zalo.me", imageUrl: "zalo.jpg"}
+# - 
+#   group: "Silver"
+#   elements: 
+#     - {name: "Grab", description: "Zalo is the new market-leading messaging app with amazing features", link: "https://www.grab.com", imageUrl: "grab-logo.jpg"}
+#     - {name: "Commonwealth Bank", description: "The Commonwealth Bank of Australia is an Australian multinational bank with businesses across New Zealand, Asia, the United States and the United Kingdom", link: "https://www.commbank.com.au/about-us/our-company/international-branches/asia.html", imageUrl: "logo-commonwealth.jpg"}
+# - 
+#   group: "Bronze"
+#   elements: 
+#     - {name: "JetBrains", description: "JetBrains is a software development company whose tools are targeted towards software developers and project managers", link: "https://www.jetbrains.com/", imageUrl: "logo-jetbrains.jpg"}
+# - 
+#   group: "Startup"
+#   elements: 
+#     - {name: "Nexmo", description: "", link: "https://www.nexmo.com/", imageUrl: "logo-nexmo.png"}
+
 #- {name: "RMIT University", description: "RMIT University Vietnam is the Vietnamese branch of the Australian research university the Royal Melbourne Institute of Technology, known in Australia as RMIT University. It has two campuses located in Ho Chi Minh City and Hanoi", link: "https://www.rmit.edu.vn/", imageUrl: "logo-rmit.jpg"}
 #
 # - 
