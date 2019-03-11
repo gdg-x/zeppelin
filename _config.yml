@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Droidcon Vietnam <typeout>"
-eventDate: "April, 2019"
+eventDate: "July 13th, 2019"
 typeoutTextValues: '"", "2017", "2018", "2019"'
 typeoutFallback: "2019"
 heroButtons:
