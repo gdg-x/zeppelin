@@ -127,7 +127,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 15
+  id: 13
   name: "James"
   surname: "Murphy"
   company: ""
@@ -137,13 +137,33 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 16
+  id: 14
   name: "Mark"
   surname: "Jose"
   company: ""
   title: ""
   bio: ""
   thumbnailUrl: Mark_Jose_Lightning.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 15
+  name: "Steve"
+  surname: "Hobbs"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Steve-Hobbs.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 16
+  name: "Tam"
+  surname: "Mageean"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Tam-Mageean.jpg
   social:
     - {name: "twitter", link: ""}
 -
