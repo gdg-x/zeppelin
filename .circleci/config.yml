@@ -2,23 +2,14 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.5-jessie
+      - image: circleci/ruby:2.5-node-jessie
     environment:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     steps:
       - checkout
       - run:
-          name: Update npm
-          command: 'sudo npm install -g npm@latest'
-      - restore_cache:
-          key: dependency-cache-{{ checksum "package.json" }}
-      - run:
-          name: Install npm wee
-          command: npm install
-      - save_cache:
-          key: dependency-cache-{{ checksum "package.json" }}
-          paths:
-            - node_modules
+          name: Update ruby
+          command: 'bundle install'
       - run:
           name: update git config
           command: git config --global user.email "rockerhieu+circleci@gmail.com" && git config --global user.name "Circle CI"
@@ -27,13 +18,13 @@ jobs:
           command: bundle exec jekyll build
   test:
     docker:
-      - image: circleci/ruby:2.5-jessie
+      - image: circleci/ruby:2.5-node-jessie
     steps:
       - checkout
       - run: /bin/true
   deploy:
     docker:
-      - image: circleci/ruby:2.5-jessie
+      - image: circleci/ruby:2.5-node-jessie
     steps:
       - checkout
       - run: ./deploy.sh
