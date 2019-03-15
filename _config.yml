@@ -203,6 +203,7 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:eenriquelopez@gmail.com", text: "eenriquelopez@gmail.com"}
+   - {link: "mailto:rockerhieu@gmail.com", text: "rockerhieu@gmail.com"}
 #  -
 #   title: "FAQ"
 #   links:
