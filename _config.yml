@@ -140,12 +140,12 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
-  buyButtonLink: "http://ticketbox.vn/event/droidcon-vietnam-2019-69662/44942"
+  buyButtonLink: "https://ticketbox.vn/event/droidcon-vietnam-2019-75060"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
-  soldOut: true
+  validFrom: "2019-03-15T13:00"
+  validThrough: "2019-03-31T23:59"
+  soldOut: false
   soldOutText: "Sold Out"
  -
   name: "Early Bird Tickets"
@@ -153,38 +153,40 @@ ticketsOffers:
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
-  buyButtonLink: "http://ticketbox.vn/event/droidcon-vietnam-2019-69662/44942"
+  buyButtonLink: "https://ticketbox.vn/event/droidcon-vietnam-2019-75060"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2019-04-01T00:00"
+  validThrough: "2019-05-01T00:00"
   soldOut: true
-  soldOutText: "Sold Out"
+  soldOutText: "Ticket Available Soon"
  -
   name: "Regular Tickets"
   price: "450.000"
   priceCurrency: "VND"
   ticketsNumber: "200"
   ribbon: "0%"
-  featured: true
-  buyButtonLink: "http://ticketbox.vn/event/droidcon-vietnam-2019-69662/44942"
+  featured: false
+  buyButtonLink: "https://ticketbox.vn/event/droidcon-vietnam-2019-75060"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  soldOut: true
+  soldOutText: "Ticket Available Soon"
+  validFrom: "2019-05-01T00:00"
+  validThrough: "2019-07-12T23:59"
  -
   name: "Student Tickets"
   price: "200.000"
   priceCurrency: "VND"
   ticketsNumber: "100"
-  buyButtonLink: "http://ticketbox.vn/event/droidcon-vietnam-2019-69662/44942"
+  buyButtonLink: "https://ticketbox.vn/event/droidcon-vietnam-2019-75060"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2019-05-01T00:00"
+  validThrough: "2019-07-12T23:59"
   soldOut: true
-  soldOutText: "Sold Out"
+  soldOutText: "Ticket Available Soon"
 
 # Footer
 socialLinks:
