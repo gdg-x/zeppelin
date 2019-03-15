@@ -37,7 +37,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.jpg"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.jpg"
 
 # Documents
-c4pUrl: "https://goo.gl/YQpsZn"
+c4pUrl: "https://sessionize.com/droidcon-vietnam-2019/"
 c4sponsorsUrl: "https://speakerdeck.com/kikoso/droidcon-vietnam-sponsoring"
 
 # Navigation
@@ -51,9 +51,9 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/YQpsZn", text: "Become a speaker"}
+ - {link: "https://sessionize.com/droidcon-vietnam-2019/", text: "Call for Speakers"}
 rightNavigationButtons:
- - {link: "https://goo.gl/YQpsZn", text: "Become a speaker"}
+ - {link: "https://sessionize.com/droidcon-vietnam-2019/", text: "Call for Speakers"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "July 13th, 2019"
 typeoutTextValues: '"", "2017", "2018", "2019"'
 typeoutFallback: "2019"
 heroButtons:
- - {link: "https://goo.gl/YQpsZn", text: "Become a speaker"}
+ - {link: "https://sessionize.com/droidcon-vietnam-2019/", text: "Call for Speakers"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
