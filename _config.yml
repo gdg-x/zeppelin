@@ -185,7 +185,7 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-05-01T00:00"
   validThrough: "2019-07-12T23:59"
-  soldOut: true
+  soldOut: false
   soldOutText: "Ticket Available Soon"
 
 # Footer
