@@ -88,7 +88,7 @@ statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from near and far"}
  - {count: "15", specialCharacter: "+", info: "hours", detail: "of discussions on effective software development"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from the UK and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus the most interesting 'water cooler' talk outside the talks"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus the most interesting 'water cooler' talk outside the talks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -158,7 +158,7 @@ ticketsOffers:
   ribbon: "Full price"
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
+  ticketContentList: ["Access to all talks", "After drinks reception"]
   validFrom: "2019-02-01T00:00"
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
@@ -173,7 +173,7 @@ ticketsOffers:
   ribbon: "-33%"
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
+  ticketContentList: ["Access to all talks", "After drinks reception"]
   validFrom: "2018-07-10T10:00"
   #validThrough: "2018-08-31T23:59"
   validThrough: "2019-02-01T00:00"
@@ -188,7 +188,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   additionalInfo: "Students require a valid student email address at time of purchase."
-  ticketContentList: ["Access to all talks", "After drinks reception", "Online video access"]
+  ticketContentList: ["Access to all talks", "After drinks reception"]
   validFrom: "2018-07-10T10:00"
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
