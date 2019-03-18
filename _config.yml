@@ -158,7 +158,7 @@ ticketsOffers:
   ribbon: "Full price"
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all talks", "After drinks reception"]
+  ticketContentList: ["Access to all talks"]
   validFrom: "2019-02-01T00:00"
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
@@ -173,7 +173,7 @@ ticketsOffers:
   ribbon: "-33%"
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all talks", "After drinks reception"]
+  ticketContentList: ["Access to all talks"]
   validFrom: "2018-07-10T10:00"
   #validThrough: "2018-08-31T23:59"
   validThrough: "2019-02-01T00:00"
@@ -188,7 +188,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
   buyButtonText: "Buy Now"
   additionalInfo: "Students require a valid student email address at time of purchase."
-  ticketContentList: ["Access to all talks", "After drinks reception"]
+  ticketContentList: ["Access to all talks"]
   validFrom: "2018-07-10T10:00"
   #validThrough: "2018-11-20T23:59"
   validThrough: "2019-04-03T23:59"
