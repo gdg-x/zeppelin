@@ -151,15 +151,15 @@ Demonstrating value to stakeholders"
     Mark Jose - If car mechanics built software
   type: LT
   subtype: presentation
-  speakers: [13, 14]
+  speakers: [13, 14, 15, 16]
   language: en
 -
   id: 109
-  title: "Lightning Talks"
+  title: "Panel Session"
   description: ""
   type: LT
   subtype: presentation
-  speakers: [15, 16]
+  speakers: 
   language: en
 -
   id: 110
