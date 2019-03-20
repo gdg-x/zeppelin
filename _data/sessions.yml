@@ -22,14 +22,14 @@
 -
   id: 002
   title: "Conference Welcome Compere"
-  description: "TBD"
+  description: 
   subtype: keynote
   speakers: [4]
   language: en
 -
   id: 003
   title: "Opening Keynote"
-  description: "TBD"
+  description: 
   subtype: keynote
   speakers: [2]
   language: en
@@ -39,7 +39,7 @@
 -
   id: 007
   title: "Afternoon Keynote"
-  description: "TBD"
+  description: 
   subtype: keynote
   speakers: [4]
   language: en
@@ -49,7 +49,7 @@
 -
   id: 010
   title: "Closing Keynote"
-  description: "TBD"
+  description: 
   subtype: keynote
   speakers: [3]
   language: en
@@ -59,7 +59,7 @@
 -
   id: 011
   title: "Closing Remarks"
-  description: "TBD"
+  description: 
   subtype: keynote
   speakers: [4]
   language: en
@@ -179,11 +179,12 @@ Demonstrating value to stakeholders"
   language: en
 -
   id: 112
-  title: "TBA"
-  description: "TBD"
+  title: "Each year, Fjord produces a Trends report which takes a look at what lies ahead in the next 12 months for business, technology and design."
+  description: "The report identifies 7 trends that Fjord believe will represent new opportunities to redesign existing interactions and create new ones. It raises plenty of fundamental questions, like whether a brand deserves a space in our lives or even, the world. Is the value exchange two-way? Is it doing something more than straining the planet? And how it’s never been easier to unsubscribe or delete, if the answer is no.<br/>
+  Bruno aims to highlight the key takeaways from these trends, before deep diving into one trend he feels particularly passionate about – the Inclusivity Paradox. With consumers expecting to be engaged with as individuals and companies seeking to be more inclusive, is there a risk of inadvertently excluding others? Find out in this 30 minute session."
   type: UXUR
   subtype: presentation
-  speakers: "TBA"
+  speakers: [19]
   language: en
 -
   id: 113
@@ -191,7 +192,7 @@ Demonstrating value to stakeholders"
   description: "Github actions are their take on continuous integration / continuous deployment using plugins.  This talk describes what actions are and how to use them."
   type: DTDO
   subtype: presentation
-  speakers: [19]
+  speakers: [20]
   language: en
 -
   id: 114
@@ -199,7 +200,7 @@ Demonstrating value to stakeholders"
   description: "Serverless is almost as hype as blockchain right now, but what is it good for? Where does it fall flat? This talk combines an experience report of a serverless production system in the enterprise, and one from a solo project."
   type: A
   subtype: presentation
-  speakers: [20]
+  speakers: [21]
   language: en
 -
   id: 115
@@ -209,7 +210,7 @@ During this 40 minute presentation delegates will learn about essential discover
 It is now widely accepted that exceptional user experiences are crucial to organisational success and longevity. One of the main reasons for failure as a software business is neglecting to get this right from the start. The presentation will focus on the foundations of good UX; the importance of user research and testing as well as featuring some key design takeaways and lessons that can be built into user interfaces to increase initial on-boarding and customer retention."
   type: UXUR
   subtype: presentation
-  speakers: [21]
+  speakers: [22]
   language: en
 -
   id: 116
@@ -218,7 +219,7 @@ It is now widely accepted that exceptional user experiences are crucial to organ
 We often adopt approaches to continuously deploy our systems, but what if we had tools that let us continuously upgrade them too; pushing the entropy back a little bit each day."
   type: DTDO
   subtype: presentation
-  speakers: [22]
+  speakers: [23]
   language: en
 -
   id: 117
@@ -230,5 +231,5 @@ In this talk, I will share with you how CompareTheMarket is using InnerSource pr
 Walking away from this talk I’m confident that you can take away some of these ideas and lessons I have learned and hopefully apply these techniques to help you scale and remain flexible for the future."
   type: DP
   subtype: presentation
-  speakers: [23]
+  speakers: [24]
   language: en
