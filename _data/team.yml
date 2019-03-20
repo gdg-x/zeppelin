@@ -46,7 +46,7 @@
     - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
     - {name: "site", link: "http://www.beaconhouse-events.co.uk"}
 -
-  id: 3
+  id: 4
   name: "Sophie"
   surname: "FLanagan"
   title: "Organiser"
@@ -56,4 +56,49 @@
     - {name: "twitter", link: "https://twitter.com/BeaconHouseEvts"}
     - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
     - {name: "site", link: "http://www.beaconhouse-events.co.uk"}
+-
+  id: 5
+  name: "Chris"
+  surname: "Suter"
+  title: "Programme Committee"
+  thumbnailUrl: Chris-Suter.png
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/chris-suter-71876270/?originalSubdomain=uk"}
+-
+  id: 6
+  name: "Helena"
+  surname: "Hill"
+  title: "Programme Committee"
+  thumbnailUrl: Helena-Hill.png
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/HelenaHillUXCX?lang=en"}
+-
+  id: 7
+  name: "Jon"
+  surname: "McNestrie"
+  title: "Programme Committee"
+  thumbnailUrl: Jon-McNestrie.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/JonMcNestrie"}
+-
+  id: 8
+  name: "Paul"
+  surname: "Dinning"
+  title: "Programme Committee"
+  thumbnailUrl: Paul-Dinning.jpg
+  subTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paul-dinning-1273871/"}
+-
+  id: 9
+  name: "Ben"
+  surname: "Lovatt"
+  title: "Programme Committee"
+  thumbnailUrl: Ben-Lovatt-cropped.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Hitchpingu"}
 -
