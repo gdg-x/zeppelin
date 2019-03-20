@@ -37,10 +37,8 @@
   surname: "Harkness"
   company: ""
   title: "Science Writer/Broadcaster"
-  bio: "Timandra Harkness is a science writer, broadcaster and comedian, who has been writing and performing on scientific, mathematical and statistical topics since the latter days of the 20th Century. Her book acclaimed Big Data: does size matter? was published by Bloomsbury in 2016.
-
-Timandra is a regular on BBC Radio 4, writing and presenting BBC Radio 4’s FutureProofingseries and documentaries such as 'Data, Data Everywhere', and 'Personality Politics'. She was also resident reporter on the social psychology series 'The Human Zoo'.
-
+  bio: "Timandra Harkness is a science writer, broadcaster and comedian, who has been writing and performing on scientific, mathematical and statistical topics since the latter days of the 20th Century. Her book acclaimed Big Data: does size matter? was published by Bloomsbury in 2016.<br/>
+Timandra is a regular on BBC Radio 4, writing and presenting BBC Radio 4’s FutureProofingseries and documentaries such as 'Data, Data Everywhere', and 'Personality Politics'. She was also resident reporter on the social psychology series 'The Human Zoo'.<br/>
 In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death', with stand-up mathematician Matt Parker, which was a sell-out hit at the Edinburgh Fringe before touring the rest of the UK and Australia. Science comedy since then includes the solo show ‘Brainsex', cabarets and gameshows."
   thumbnailUrl: Timandra-Harkness.jpg
   rockstar: true
@@ -188,6 +186,16 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
     - {name: "twitter", link: ""}
 -
   id: 19
+  name: "Bruno"
+  surname: "Perez"
+  company: "Accenture"
+  title: "Service Design Lead for Fjord, Design and Innovation"
+  bio: ""
+  thumbnailUrl: Bruno-Perez.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 20
   name: "Peter"
   surname: "Grainger"
   company: "Sage"
@@ -197,7 +205,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 20
+  id: 21
   name: "Alex"
   surname: "Lynham"
   company: "Yapster"
@@ -207,7 +215,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 21
+  id: 22
   name: "Helena"
   surname: "Hill"
   company: "Helena Hill Consulting"
@@ -217,7 +225,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 22
+  id: 23
   name: "Gary"
   surname: "Fleming"
   company: "Emphasis Parenthesis Ltd"
@@ -227,7 +235,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 23
+  id: 24
   name: "David"
   surname: "Boyne"
   company: "CompareTheMarket"
