@@ -42,12 +42,12 @@ c4sponsorsUrl: "https://speakerdeck.com/kikoso/droidcon-vietnam-sponsoring"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "2019"}
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/team/", text: "Team"}
  - {permalink: "/2018", text: "2018"}
 # - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -221,7 +221,7 @@ showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Droidcon is a global developer conference series and a network focusing on the best of Android, and in 2019 it will be coming to Vietnam (again). The idea behind the droidcon conferences is to support the Android platform and create a global network for developers and companies. We offer high-class talks from different parts of the ecosystem, including core development, embedded solutions, augmented reality, business solutions and games. Meet a lot of rockstar international developers and level up your Android game."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

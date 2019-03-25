@@ -11,3 +11,6 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
+# Ignore Mac DS_Store files
+.DS_Store
