@@ -58,3 +58,39 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 10
+  name: "Enrique"
+  surname: "Lopez Manas"
+  title: "Google Developer Expert"
+  thumbnailUrl: EnriqueLopezManas.jpg
+  programCommittee: true
+- 
+  id: 11
+  name: "Hiếu"
+  surname: "Rocker"
+  title: "Google Developer Expert"
+  thumbnailUrl: HieuRocker.jpg
+  programCommittee: true
+- 
+  id: 12
+  name: "Thảo"
+  surname: "Huỳnh Quang"
+  title: "Google Developer Expert"
+  thumbnailUrl: HuynhQuang.jpeg
+  programCommittee: true
+- 
+  id: 13
+  name: "Tuấn"
+  surname: "Nguyễn Minh"
+  title: ""
+  thumbnailUrl: TuanNguyen.jpg
+  programCommittee: true
+- 
+  id: 14
+  name: "Henry"
+  surname: "Tao"
+  title: ""
+  thumbnailUrl: HenryTao.jpg
+  programCommittee: true
+    
