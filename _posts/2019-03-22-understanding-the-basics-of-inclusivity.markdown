@@ -4,7 +4,7 @@ title:  "Understanding the basics of inclusivity"
 date:   2019-03-22 08:00:00
 isStaticPost: false
 ---
-Inclusive design and its power to create meaningful interactions
+**Inclusive design and its power to create meaningful interactions**
 
 At Fjord, we have the opportunity to design the world we want to live in – one that propels us forward, one that works with us and for us. We’re passionate about rethinking how things operate, every day. There’s always a better way, and we make it our business to look for it.
 
