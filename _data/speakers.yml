@@ -166,6 +166,46 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
     - {name: "twitter", link: ""}
 -
   id: 17
+  name: "Sarah"
+  surname: "Stokes"
+  company: "Difrent Group"
+  title: "User Researcher"
+  bio: ""
+  thumbnailUrl: Sarah-Stokes.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 18
+  name: "Laura"
+  surname: "Berry"
+  company: "Bede Gaming"
+  title: "Lead Business Analyst"
+  bio: ""
+  thumbnailUrl: Laura-Berry.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 19
+  name: "Fiona"
+  surname: "Hobbs"
+  company: "Opencast Software"
+  title: "Head of Technology"
+  bio: ""
+  thumbnailUrl: Fiona-Hobbs-2.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 20
+  name: "Nicole"
+  surname: "Avison"
+  company: "Opencast Software"
+  title: "Senior Developer"
+  bio: ""
+  thumbnailUrl: Nicole.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 21
   name: "Stephen"
   surname: "Mounsey"
   company: ""
@@ -175,7 +215,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 18
+  id: 22
   name: "Chris"
   surname: "Howe-Jones"
   company: "DevCycle Ltd"
@@ -185,7 +225,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 19
+  id: 23
   name: "Bruno"
   surname: "Perez"
   company: "Accenture"
@@ -195,7 +235,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 20
+  id: 24
   name: "Peter"
   surname: "Grainger"
   company: "Sage"
@@ -205,7 +245,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 21
+  id: 25
   name: "Alex"
   surname: "Lynham"
   company: "Yapster"
@@ -215,7 +255,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 22
+  id: 26
   name: "Helena"
   surname: "Hill"
   company: "Helena Hill Consulting"
@@ -225,7 +265,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 23
+  id: 27
   name: "Gary"
   surname: "Fleming"
   company: "Emphasis Parenthesis Ltd"
@@ -235,7 +275,7 @@ In 2010 she co-wrote and performed 'Your Days Are Numbered: The Maths of Death',
   social:
     - {name: "twitter", link: ""}
 -
-  id: 24
+  id: 28
   name: "David"
   surname: "Boyne"
   company: "CompareTheMarket"
