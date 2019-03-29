@@ -1,0 +1,79 @@
+<!-- Begin Speakers Modals -->
+<div class="modals" class="modals">
+	{% for speaker in site.data.y2018.speakers %}
+		{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
+		<div class="modal fade text-left people-modal" id="speakerDetail-{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-body">
+						<div class="close">
+							<svg class="icon icon-cross" viewBox="0 0 32 32">
+								<use xlink:href="{{ site.data.y2018.conf.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+							</svg>
+							<div class="close-mask" data-dismiss="modal"></div>
+						</div>
+						
+						<div class="people-details">
+							<div class="row">
+								<div class="col-md-2 col-sm-2">
+									<div class="flow-img img-circle people-img" style="background-image: url({{ site.data.y2018.conf.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+								</div>
+								<div class="col-md-10 col-sm-10 details">
+									<p class="name">{{ speaker.name }} {{ speaker.surname }}
+										<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+									</p>
+									{% if speaker.ribbon != null %}
+									<div class="modal-ribbon-wrapper">
+			                            {% for ribbon in speaker.ribbon %}
+			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+			                            {% endfor %}
+			                        </div>
+			                        {% endif %}
+									<p class="about">{{ speaker.bio }}</p>
+									<ul class="social">
+										{% for social in speaker.social %}
+											<li>
+												<a href="{{ social["link"] }}" target="_blank">
+													<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+														<use xlink:href="{{ site.data.y2018.conf.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+													</svg>
+												</a>
+											</li>
+										{% endfor %}
+									</ul>
+								</div>
+							</div>
+						</div>
+						<hr>
+						{% if site.data.y2018.conf.showSessions %}
+							{% for session in site.data.y2018.sessions %}
+									{% for session_speaker in session.speakers %}
+										{% if session_speaker == speaker.id %}
+											<h4>{{ session.title }}</h4>
+											{% if session.subtype != null %}
+											<span class="theme-metadata"><span class="caption">Tipo: <strong>{{ session.subtype }}</span></strong></span>
+											{% endif %}
+											{% if session.language != null %}
+											<span class="theme-metadata"><span class="caption">Idioma: </span>{{ session.language }}</span>
+											{% endif %}
+											<div class="theme-description">
+												{% for description in session.descriptions %}
+													<p>{{description}}</p>
+												{% endfor %}
+											</div>
+											{% if session.presentation %}
+											<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+											{% endif %}
+										{% endif %}
+									{% endfor %}
+							{% endfor %}
+							
+						{% endif %}
+					</div>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+</div>
+<!-- End Speakers Modals -->

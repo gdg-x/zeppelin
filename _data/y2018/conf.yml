@@ -1,0 +1,188 @@
+
+# Site Settings
+baseurl: "/2018"
+
+# Organizer Info
+organizerName: "PSTQB"
+organizerAlternateName: "Associação Portuguesa de Testes de Software"
+organizerDescription: "Comunidade aberta que partilha a sua experiência na área de testes de software com paixão."
+organizerEmail: "testingportugal@pstqb.pt"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Oradores"}
+ - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/course/", text: "Formação"}
+
+bottomNavigationLinks:
+ - {permalink: "/schedule/", text: "Ver Apresentações"}
+ - {permalink: "/assets/presentations.zip", text: "Descarregar Apresentações"}
+ - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i> WhatsApp"}
+rightNavigationButtons:
+ - {permalink: "/assets/presentations.zip", text: "Descarregar Apresentações"}
+ - {permalink: "/schedule/", text: "Ver Apresentações"}
+ - {link: "https://wa.me/351916106876", text: "<i class='fab fa-whatsapp fa-lg'></i>"}
+
+
+#Hotel
+hotelPermaLink: "/hotel/"
+carouselImage1: "carrousel_1.png"
+carouselImage2: "carrousel_2.png"
+hotelThumbnails:
+  - {src: "AltisGrand_03.jpg"}
+  - {src: "AltisGrand_04.jpg"}
+  - {src: "AltisGrand_05.jpg"}
+
+# Hero Block
+heroImage: "hero-test.png"
+heroTitle: "Testing <typeout> 2018"
+eventDate: "21 de novembro de 2018"
+typeoutTextValues: '"", "Portugal", "Software"'
+typeoutFallback: "Portugal"
+heroButtons:
+ - {permalink: "/schedule/", text: "Ver Apresentações"}
+ - {permalink: "/assets/presentations.zip", text: "Descarregar Apresentações"}
+
+
+# About Block
+aboutTitle: "Testing Portugal"
+aboutBlock:
+ - {title: "Conferência", image: "conference.jpg", 
+      text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 21 de novembro de 2018, no ALTIS Grand Hotel, em Lisboa, a 9ª edição da Conferência Testing Portugal.",
+          "A Conferência, como hábito, contará intervenções de reconhecidos especialistas nacionais e internacionais e com a apresentação de casos de excelência.",
+          "<strong><a href='/schedule/' | prepend: baseurl>Confira a agenda</a></strong> e <strong><a href='#tickets'>reserve já o seu lugar!</a></strong>"]}
+ - {title: "Workshops", image: "workshop.jpg",
+      text: ["Workshops dados por líderes mundiais na área de testes de software!",
+             "As workshops já estão esgotadas!",
+            "<strong><a href='/workshops/' | prepend: baseurl >Confira as workshops!</a></strong>"] }
+ - {title: "Formação", image: "course.png",
+      text: ["Na semana anterior à conferência não perca o curso ISTQB escolhido e com um valor promocional da PSTQB (com exame).",
+             "Este ano, vamos realizar o curso ISTQB Advanced Test Manager que estende a compreensão sobre testes de software adquirida no Foundation de modo a permitir a execução das funções de um Test Manager.",
+             "<strong><a href='/course/' | prepend: baseurl>Não perca os últimos lugares!</a></strong>"
+      ]
+ }
+
+# Statistic Block
+statisticBlockImage: "conference-chairs.jpg"
+statisticBlock:
+ - {count: "500", specialCharacter: "+", info: "participantes", detail: ""}
+ - {count: "17", specialCharacter: "", info: "oradores", detail: ""}
+ - {count: "80", specialCharacter: "+", info: "horas de formação", detail: ""}
+ - {count: "5", specialCharacter: "", info: "workshops", detail: ""}
+
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "conference-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Oradores em Destaque"
+rockstarSpeakersButtonText: "Ver todos os oradores"
+
+# Location Block
+locationBlockTitle: "Localização"
+eventLocationName: "Altis Grand Hotel"
+eventLocationLink: "http://www.altishotels.com/PT/HotelAltisLisboa/"
+eventStreetAddress: "Rua Castilho, 11"
+eventPostalCode: "1269-072 Lisboa"
+eventAddressCountry: "Portugal"
+eventStartTime: "09h:30m"
+eventEndTime: "17h:35m"
+eventPlaceLat: "38.720760"
+eventPlaceLong: "-9.149948"
+mapCenterCoordinates: "38.720693, -9.150502"
+mapMobileCenterCoordinates: "38.720693, -9.150502"
+mapsAPIKey: "AIzaSyCSGveF4v_i-5RWdl_y9-ynD2fLV1slpHs"
+
+# Venue Block
+venueBlockTitle: "Galeria"
+venueImages: ["venue_0.jpg","venue_1.jpg","venue_2.jpg","venue_3.jpg","venue_4.jpg","venue_5.jpg","venue_6.jpg"]
+
+# Partners Block
+organizersTitle: "Organização"
+sponsorsTitle: "Patrocinadores"
+partnersTitle: "Parceiros"
+academicPartnersTitle: "Parceiros Académicos"
+sponsorsC4sponsorsButton: "Como Patrocinar a Conferência?"
+c4sponsorsUrl: "/assets/CadernoPT_V8.pdf"
+
+# Tickets Block
+ticketsTitle: "Inscrições"
+ticketsInfo: "Os bilhetes garantem acesso à conferência, coffee brakes e almoço."
+ticketsComments: ["* Valor isento de IVA, ao abrigo do art. 9º n.º 14 do C.I.V.A.",
+"* Se é Associado(a) da PSTQB, irá receber um e-mail com as instruções para se inscrever."]
+ticketsMail: {link: "mailto:testing.portugal@pstqb.pt", text: testing.portugal@pstqb.pt} 
+ticketsOffers:
+ -
+  name: "Inscrição Normal *"
+  price: "85"
+  currency: "€"
+  soldout: true
+  buyButtonLink: "https://www.last2ticket.com/pt/events/923/sessions/21172/confer%C3%AAncia-testing-portugal-2018"
+  buyButtonText: "Inscrever-se Agora"
+  buyButtonSoldoutText: "Inscrições fechadas"
+  ticketContentList: ["Entrada na Conferência Testing Portugal 2018", "Acesso a todas as refeições e documentação"]
+ -
+  name: "Inscrição de Associado *"
+  price: "0"
+  currency: "€"
+  buyButtonLink: "https://docs.wixstatic.com/ugd/928ecf_8abd26af0fe34ec9ba6e4d2a6c0ab7b9.pdf"
+  featured: true
+  soldout: true
+  buyButtonText: "Inscrever-se Agora"
+  buyButtonSoldoutText: "Inscrições fechadas"
+  ticketContentList: ["Entrada na Conferência Testing Portugal 2018","Acesso a todas as refeições e documentação","Acesso a todos os eventos organizados pela PSTQB."]
+
+# Workshops
+workshopTickets:
+  -
+    name: "Valor de venda"
+    price: "500"
+    earlyBirdPrice: "450"
+    currency: "€"
+  -
+    name: "Associado inscrito em 2018"
+    price: "450"
+    earlyBirdPrice: "405"
+    currency: "€"
+  -
+    name: "Associado inscrito em 2017 ou anterior"
+    price: "325"
+    earlyBirdPrice: "292"
+    currency: "€"
+
+# Course
+courseSoldout: true
+
+# Course price table
+courseTickets:
+  -
+    name: "Valor de venda com exame"
+    price: "1650"
+    earlyBirdPrice: "1320"
+    currency: "€"
+  -
+    name: "Associado"
+    price: "1320"
+    earlyBirdPrice: "1056"
+    currency: "€"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/PSTQB", icon: "twitter"}
+ - {link: "https://www.facebook.com/pstqb/", icon: "facebook"}
+ - {link: "https://www.linkedin.com/company/pstqb/", icon: "linkedin"}
+whatsappNumber: "351916106876"
+ 
+
+privacyPolicy: {link: "https://www.pstqb.pt/politicaprivacidade", text: "Política de Privacidade" } 
+
+# Speakers List Block
+showSessions: true
+
+# Speakers
+callForSpeakersLink: /call-for-speakers/

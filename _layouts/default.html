@@ -5,12 +5,12 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+{% include 2018/head.html %}
 
 <body>
     <div id="preloader" class="preloader">
         <!--div class="loader-gplus"></div!-->
-        <img src="{{site.baseurl}}/img/other/loading.gif" alt="Loading icon" class="loader-gif">
+        <img src="{{site.data.y2018.conf.baseurl}}/img/other/loading.gif" alt="Loading icon" class="loader-gif">
     </div>
 
     <div id="st-container" class="st-container disable-scrolling">
@@ -19,39 +19,39 @@ layout: compress
 
                 {{ content }} 
 
-                {% include footer.html %}
+                {% include 2018/footer.html %}
 
             </div>
         </div>
     </div>
 
     {% if page.modal != null %} 
-    	{% include speakers-modals.html %} 
+    	{% include 2018/speakers-modals.html %} 
     {% endif %} 
 
-    {% if page.permalink == '/schedule/' or page.permalink == '/workshops/' %}
-        {% include sessions-modals.html %} 
+    {% if page.permalink == '/2018/schedule/' or page.permalink == '/2018/workshops/' %}
+        {% include 2018/sessions-modals.html %} 
     {% endif %} 
 
-    {% include analytics.html %}
-    <link rel="stylesheet" href="{{ site.baseurl }}/owlcarousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/owlcarousel/assets/owl.theme.default.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/ideal-image-slider.css">
+    {% include 2018/analytics.html %}
+    <link rel="stylesheet" href="{{ site.data.y2018.conf.baseurl }}/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{ site.data.y2018.conf.baseurl }}/owlcarousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="{{ site.data.y2018.conf.baseurl }}/css/ideal-image-slider.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
-        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
+        window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.data.y2018.conf.baseurl }}><\/script>')
     </script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script>
     if (typeof($.fn.modal) === 'undefined') {
-        document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}><\/script>')
+        document.write('<script src="{{ "/js/bootstrap.min.js" | prepend: site.data.y2018.conf.baseurl }}><\/script>')
     }
     </script>
-    <script src="{{ site.baseurl }}/owlcarousel/owl.carousel.min.js"></script>
-    <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/' %}
-    <script src="{{site.baseurl}}/js/ideal-image-slider.min.js"></script>
+    <script src="{{ site.data.y2018.conf.baseurl }}/owlcarousel/owl.carousel.min.js"></script>
+    <script src="{{ "/js/default.js" | prepend: site.data.y2018.conf.baseurl }}"></script>
+    {% if page.permalink == '/2018/' %}
+    <script src="{{site.data.y2018.conf.baseurl}}/js/ideal-image-slider.min.js"></script>
     <script>
     var slider = new IdealImageSlider.Slider({
         selector: '#slider',
@@ -62,44 +62,47 @@ layout: compress
     slider.start();
     </script>
     {% endif %}
-    {% if page.permalink == '/' or page.permalink == '/hotel/'%}
+    {% if page.permalink == '/2018/' or page.permalink == '/2018/hotel/' %}
     <script>
-        {% if page.permalink == '/' %}
-            var zoomAmount = 14;
-            var panCoord = {lat:38.71,lng: -9.149948}; 
-        {% else %}
-            var zoomAmount = 18;
-            var panCoord = {lat:38.7203,lng: -9.149948}; 
-        {% endif %}
+        {% if page.permalink == '/2018/' or page.permalink == '/2018/hotel/' %}
 
-        var icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-        var coordinates = {lat: 38.720760, lng: -9.149948};
-        function detectBrowser() {
-            var useragent = navigator.userAgent;
-            var mapdiv = document.getElementById("canvas-map");
-        
-            if (useragent.indexOf('iPhone') != -1 || useragent.indexOf('Android') != -1 ) {
-            mapdiv.style.width = '100%';
-            } else {
-            mapdiv.style.width = '600px';
+            {% if page.permalink == '/2018/' %}
+                var zoomAmount = 14;
+                var panCoord = {lat:38.71,lng: -9.149948}; 
+            {% else %}
+                var zoomAmount = 18;
+                var panCoord = {lat:38.7203,lng: -9.149948}; 
+            {% endif %}
+            
+
+            var icon = '{{ site.data.y2018.conf.baseurl }}/img/other/map-marker.svg';
+            var coordinates = {lat: 38.720760, lng: -9.149948};
+            function detectBrowser() {
+                var useragent = navigator.userAgent;
+                var mapdiv = document.getElementById("canvas-map");
+            
+                if (useragent.indexOf('iPhone') != -1 || useragent.indexOf('Android') != -1 ) {
+                mapdiv.style.width = '100%';
+                } else {
+                mapdiv.style.width = '600px';
+                }
             }
-        }
-        function initMap() {
-            var map = new google.maps.Map(document.getElementById('canvas-map'), {
-                center: coordinates,
-                zoom: zoomAmount,
-            });
-            map.panTo(panCoord);
-            var marker = new google.maps.Marker({position: coordinates, map: map});
-        }
-        
+            function initMap() {
+                var map = new google.maps.Map(document.getElementById('canvas-map'), {
+                    center: coordinates,
+                    zoom: zoomAmount,
+                });
+                map.panTo(panCoord);
+                var marker = new google.maps.Marker({position: coordinates, map: map});
+            }
+        {% endif %}
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key={{site.mapsAPIKey}}&callback=initMap"async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{site.data.y2018.conf.mapsAPIKey}}&callback=initMap"async defer></script>
     {% endif %}
     <script>
         Waves.displayEffect();
-        {% if page.permalink == '/' %}            
-            var twitterFeedUrl = '{{ site.twitterFeed }}';
+        {% if page.permalink == '/2018/' %}            
+            var twitterFeedUrl = '{{ site.data.y2018.conf.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
                     if ($(window).width() > 767) {
@@ -112,16 +115,16 @@ layout: compress
                     }
                 });
                 var rockstarSpeakers = [
-                    {% for speaker in site.data.speakers %}
+                    {% for speaker in site.data.y2018.speakers %}
                         {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}",link: "{{speaker.social[0].link}}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}",link: "{{speaker.social[0].link}}", image: "{{ site.data.y2018.conf.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}
                 ];
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),
+                        count = Math.min({{ site.data.y2018.conf.rockstarSpeakersCount }}, rockstarSpeakers.length),
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';
@@ -150,8 +153,8 @@ layout: compress
             });
         {% endif %} 
     </script>
-    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/schedule/' %}
+    <script src="{{ "/js/scripts.min.js" | prepend: site.data.y2018.conf.baseurl }}"></script>
+    {% if page.permalink == '/2018/schedule/' %}
         <script type="text/javascript">
             $(document).ready(function () {
                 var navHeight = $('#top-header').height();

@@ -1,0 +1,30 @@
+<!-- Begin Speakers List-->
+<section class="section align-center">
+    <div class="container flex">
+        {% for speaker in site.data.y2018.speakers %}
+        <div class="col-sm-3">
+            <div class="speaker" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                <div class="photo-wrapper rounded"><img src="{{ site.data.y2018.conf.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}" alt="" class="img-responsive"></div>
+                <h3 class="name">{{speaker.name}} {{speaker.surname}}</h3>
+                {% if speaker.title != null %}
+                <p class="text-alt"><small>{{speaker.title}} @ {{speaker.company}}</small></p>
+                {% endif %}
+                <p class="about">{{speaker.shortBio}}</p>
+
+                <ul class="speaker-socials">
+                    {% for social in speaker.social %}
+                        <li>
+                            <a href="{{social.link}}" target="_blank">
+                                <svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.data.y2018.conf.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
+                                </svg>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<!--End Speakers List -->

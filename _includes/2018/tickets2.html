@@ -1,0 +1,38 @@
+<section id="tickets" class="tickets">
+    <div class="content-wrapper">
+        <h3>{{ site.data.y2018.conf.ticketsTitle }}</h3>
+        <div class="col-lg-6 col-md-8 col-md-offset-2 col-lg-offset-3">
+            
+            {% for ticketsOffer in site.data.y2018.conf.ticketsOffers %}
+            
+            <div class="col-md-6 col-8">
+                <div class="package-column {% if ticketsOffer.featured != null %}special-column{% endif %}">
+                    <span class="sale-label uppercase">Hot!</span>
+                    <h6 class="package-title">{{ticketsOffer.name}}</h6>
+                    <div class="package-price">
+                        {{ticketsOffer.price}}<span class="currency">{{ticketsOffer.currency}}</span>
+                    </div>
+                    <div class="package-detail">
+                        <ul>
+                            {% for content in ticketsOffer.ticketContentList %}
+                            <li><i class="fas fa-check check-icon"></i>{{content}}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    {% if ticketsOffer.soldout %}
+                    <span class="strong">{{ticketsOffer.buyButtonSoldoutText}}</span>
+                    {% else %}
+                    <a href="{{ticketsOffer.buyButtonLink}}" class="btn btn-lg">{{ticketsOffer.buyButtonText}}</a>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+            <div class="col-md-12 col-8">
+                {% for comment in site.data.y2018.conf.ticketsComments %}
+				<p>{{comment}}</p>
+                {% endfor %}
+                <p>Para mais informações contacte: <strong><a href="{{site.data.y2018.conf.ticketsMail.link}}">{{site.data.y2018.conf.ticketsMail.text}}</a></strong></p>
+            </div>
+        </div>
+    </div>
+</section>

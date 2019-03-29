@@ -1,0 +1,14 @@
+<!-- Venue Section -->
+<section id="venue">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.data.y2018.conf.venueBlockTitle }}</h3>
+            <div id="slider">
+                {% for img in site.data.y2018.conf.venueImages %}
+                    <img src="{{ site.data.y2018.conf.baseurl }}/img/venue/{{img}}" alt="Uma imagem da galeria">
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Venue Section -->

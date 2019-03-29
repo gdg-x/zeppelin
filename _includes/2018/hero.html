@@ -1,0 +1,22 @@
+<!-- Begin Hero Section -->
+<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.data.y2018.conf.baseurl }}/img/sections-background/{{ site.data.y2018.conf.heroImage }}');">
+    {% include 2018/navigation.html %}
+    <div class="content-wrapper">
+    <div class="jumbotron">
+        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+            {% assign heroText = site.data.y2018.conf.heroTitle | split:"<typeout>" %}
+            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.data.y2018.conf.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <p>{{ site.data.y2018.conf.eventDate }}</p>
+            {% for button in site.data.y2018.conf.heroButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.data.y2018.conf.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float {% if button.disabled %} disabled {% endif %}" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+        </div>
+    </div>
+    <a href="#about" class="explore">
+        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+            <use xlink:href="{{ site.data.y2018.conf.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+        </svg>
+    </a>
+    </div>
+</section>
+<!-- End Hero Section -->
