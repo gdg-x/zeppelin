@@ -13,21 +13,21 @@
     <meta name="twitter:site" content="{{ site.twitterAccount }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image:src" content="{{ site.data.y2019.conf.socialImage | prepend: site.data.y2019.conf.filesbaseurl | prepend: site.url }}" />
+    <meta name="twitter:image:src" content="{{ site.data.y2019.conf.socialImage | prepend: site.data.y2019.conf.baseurl | prepend: site.url }}" />
     <!-- Social: Open Graph -->
     <meta property="og:title" name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
     <meta property="og:site_name" content="{{ site.title }}" /> 
     <meta property="og:type" content="website" /> 
     <meta property="og:url" content="{{ site.url }}" />
-    <meta property="og:image" name="image" content="{{ site.data.y2019.conf.socialImage | prepend: site.data.y2019.conf.filesbaseurl | prepend: site.url }}" />
+    <meta property="og:image" name="image" content="{{ site.data.y2019.conf.socialImage | prepend: site.data.y2019.conf.baseurl | prepend: site.url }}" />
     <meta property="og:description" name="description" content="{{ site.description }}" /> 
     
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>    
     <meta name="theme-color" content="#2b5797">
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="{{ '/css/main.css' | prepend: site.data.y2019.conf.filesbaseurl }}" rel="stylesheet"> 
-    <link rel="shortcut icon" type="image/png" href="{{site.data.y2019.conf.filesbaseurl}}/img/favicons/favicon.ico"/>
+    <link href="{{ '/css/main.css' | prepend: site.data.y2019.conf.baseurl }}" rel="stylesheet"> 
+    <link rel="shortcut icon" type="image/png" href="{{site.data.y2019.conf.baseurl}}/img/favicons/favicon.ico"/>
   </head>
 
   <body>
@@ -40,7 +40,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     
     {% if page.permalink == '/' %}
-    <script src="{{ site.data.y2019.conf.filesbaseurl }}/js/heroAnimation.js"></script>
+    <script src="{{ site.data.y2019.conf.baseurl }}/js/heroAnimation.js"></script>
     {% endif %}
     
   </body>

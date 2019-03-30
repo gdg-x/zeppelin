@@ -6,7 +6,7 @@
             {% for about in site.data.y2019.conf.aboutBlock %}
             <div class="col-sm">
                 <h5>{{ about.title }}</h5>
-                <img class="rounded-circle mb-2" src="{{ site.data.y2019.conf.filesbaseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                <img class="rounded-circle mb-2" src="{{ site.data.y2019.conf.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
                 {% for p in about.text %}
                     <p>{{ p }}</p>
                 {% endfor %}

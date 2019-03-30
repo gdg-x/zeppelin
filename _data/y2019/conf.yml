@@ -1,6 +1,5 @@
 # Site Settings
-baseurl: "/"
-filesbaseurl: "/2019"
+baseurl: "/2019"
 socialImage: "/2019/img/seo/sharing.png"
 
 
