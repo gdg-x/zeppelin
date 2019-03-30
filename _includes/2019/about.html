@@ -1,0 +1,18 @@
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="container text-center">
+        <h3 class="mb-5">{{ site.data.y2019.conf.aboutTitle }}</h3>
+        <div class="row">
+            {% for about in site.data.y2019.conf.aboutBlock %}
+            <div class="col-sm">
+                <h5>{{ about.title }}</h5>
+                <img class="rounded-circle mb-2" src="{{ site.data.y2019.conf.filesbaseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                {% for p in about.text %}
+                    <p>{{ p }}</p>
+                {% endfor %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End About Section -->

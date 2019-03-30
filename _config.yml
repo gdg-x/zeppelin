@@ -22,6 +22,6 @@ email: "testingportugal@pstqb.pt"
 description: "Testing Portugal é uma conferência anual sobre testes de software"
 
 archiveLinks:
- - {permaLink: "/", text: "2019"}
- - {permaLink: "/2018/", text: "2018"}
+ - {permalink: "/", text: "2019"}
+ - {permalink: "/2018/", text: "2018"}
 

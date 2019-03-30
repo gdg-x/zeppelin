@@ -18,12 +18,12 @@
                 <a class="dropdown-toggle"
                     data-toggle="dropdown"
                     href="#">
-                    Archive
+                    Arquivo
                     <b class="caret"></b>
                     </a>
                 <ul class="dropdown-menu">
                     {% for archiveLink in site.archiveLinks %}
-                    <li><a tabindex="-1" href="{{ archiveLink.permaLink }}">{{ archiveLink.text }}</a></li>
+                    <li><a tabindex="-1" href="{{ archiveLink.permalink }}">{{ archiveLink.text }}</a></li>
                     {% endfor %}
                 </ul>
             </li>
