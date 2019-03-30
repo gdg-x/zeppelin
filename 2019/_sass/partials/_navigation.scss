@@ -1,0 +1,10 @@
+.logo {
+    float: left;
+    width: 185px;
+    height: 60px;
+    margin-right: 20px;
+    vertical-align: middle;
+     @media (max-width: 767px) {
+        transform: scale(.6);
+    }
+}

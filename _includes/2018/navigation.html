@@ -22,8 +22,9 @@
                     <b class="caret"></b>
                     </a>
                 <ul class="dropdown-menu">
-                    <li><a tabindex="-1" href="/">2019</a></li>
-                    <li><a tabindex="-1" href="/2018">2018</a></li>
+                    {% for archiveLink in site.archiveLinks %}
+                    <li><a tabindex="-1" href="{{ archiveLink.permaLink }}">{{ archiveLink.text }}</a></li>
+                    {% endfor %}
                 </ul>
             </li>
         </ul>

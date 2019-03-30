@@ -1,6 +1,7 @@
 
 # Site Settings
 baseurl: "/2018"
+socialImage: "/2018/img/seo/sharing.png"
 
 # Organizer Info
 organizerName: "PSTQB"

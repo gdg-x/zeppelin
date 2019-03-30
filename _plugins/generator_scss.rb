@@ -22,6 +22,9 @@ module Jekyll
 			Dir.chdir File.expand_path('../2018/_sass', File.dirname(__FILE__)) do
 				Compass::Exec::SubCommandUI.new(%w(compile)).run!
 			end
+			Dir.chdir File.expand_path('../2019/_sass', File.dirname(__FILE__)) do
+				Compass::Exec::SubCommandUI.new(%w(compile)).run!
+			end
 		end
 		
   end
