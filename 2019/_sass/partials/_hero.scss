@@ -1,5 +1,12 @@
 .hero {
+    height: 300px;
     .jumbotron {
+        padding: 0;
+        margin: 0;
         background: 0;
+        height: 100%;
+        .container {
+            height: 100%;
+        }
     }
 }

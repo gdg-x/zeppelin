@@ -6,10 +6,10 @@ socialImage: "/2019/img/seo/sharing.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Oradores"}
- - {permalink: "/workshops/", text: "Workshops"}
- - {permalink: "/course/", text: "Formação"}
+ #- {permalink: "/schedule/", text: "Agenda"}
+ #- {permalink: "/speakers/", text: "Oradores"}
+ #- {permalink: "/workshops/", text: "Workshops"}
+ #- {permalink: "/course/", text: "Formação"}
 
  # Hero
 heroImage: hero.jpg
@@ -19,13 +19,14 @@ heroImage: hero.jpg
 aboutTitle: "Sobre o evento"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", 
-      text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 19 de novembro de 2019, no ALTIS Grand Hotel, em Lisboa, a 10ª edição da Conferência Testing Portugal.",
-          "<strong><a href='/schedule/' | prepend: baseurl>Confira a agenda</a></strong> e <strong><a href='#tickets'>reserve já o seu lugar!</a></strong>"]}
+      text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 19 de novembro de 2019, no ALTIS Grand Hotel, em Lisboa, a 10ª edição da Conferência Testing Portugal."
+      #,"<strong><a href='/schedule/' | prepend: baseurl>Confira a agenda</a></strong> e <strong><a href='#tickets'>reserve já o seu lugar!</a></strong>"
+          ]}
  - {title: "Workshops", image: "workshop.jpg",
-      text: ["Workshops no dia 18 de novembro de 2019!",
-            "<strong><a href='/workshops/' | prepend: baseurl >Confira as workshops!</a></strong>"] }
+      text: ["Workshops no dia 18 de novembro de 2019!"
+      #,"<strong><a href='/workshops/' | prepend: baseurl >Confira as workshops!</a></strong>"
+      ]}
  - {title: "Formação", image: "course.png",
-      text: ["Na semana anterior à conferência não perca a formação ISTQB.",
-             "<strong><a href='/course/' | prepend: baseurl>Não perca os últimos lugares!</a></strong>"
-      ]
- }
+      text: ["Na semana anterior à conferência não perca a formação ISTQB."
+      #,"<strong><a href='/course/' | prepend: baseurl>Não perca os últimos lugares!</a></strong>"
+      ]}

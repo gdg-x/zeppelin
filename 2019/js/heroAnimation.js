@@ -5,7 +5,7 @@ function sleep(ms) {
 
 async function loop() {
     let heroTitleDOM = document.querySelector("#heroTitle")
-    const textArray = [heroTitleDOM.textContent, "10ª Edição", "19 de novembro de 2019", "ALTIS Grand Hotel"]
+    const textArray = [heroTitleDOM.textContent, "10ª Edição", "19 de novembro de 2019", "Lisboa, ALTIS Grand Hotel"]
 
     while (true) {
         for (text of textArray) {
