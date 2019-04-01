@@ -1,7 +1,6 @@
 -
   id: 307
   title: "Break"
-  place: "TBC"
   service: true
   # description: "The best time to talk with speakers and attendees"
 -
@@ -11,13 +10,12 @@
 -
   id: 503
   title: "Lunch"
-  place: "TBC"
+  # place: "TBC"
   service: true
 -
   id: 001
   title: "Registration, Refreshments and Exhibition"
   # description: "Conference registration. Check in, get a beverage of your choice and some breakfast. Take the chance to mingle with fellow attendees and speakers."
-  place: "TBC"
   service: true
 -
   id: 002

@@ -18,7 +18,7 @@
                     </div>
                 </div>
             </div>
-            <div class="timeslot track-header">
+            <!-- <div class="timeslot track-header">
                 <div class="track-header-label">Theme</div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
@@ -32,7 +32,7 @@
                         <h5 class="slot-detail track-header-title"></h5>
                     </div>
                 </div>
-            </div>
+            </div> -->
 <!--             <div class="timeslot track-header">
                 <div class="track-header-label">PAX</div>
                 <div class="timeslot-elements flexbox-wrapper">
@@ -85,7 +85,7 @@
                                 {% assign color = day.lightningbackground %}
                                 {% assign borderColor = day.lightningcolor %}
                                 {% endif %}
-                                <div id="session-{{ session.id }}" style="background: {{ color }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">                                  
+                                <div id="session-{{ session.id }}" style="background: {{ color }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.rooms[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">                                  
                                     <div class="color-line" style="background: {{ borderColor }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ borderColor }}; background: {{ color }}">
                                         <!-- <h5 class="slot-title" itemprop="name">{{ session.title }}</h5> -->
@@ -127,6 +127,15 @@
             </div>
             {% endfor %}
         </div>
+        <table align="center">        
+            {% for track in day.tracks %}
+            <tr bgcolor=" {{ track.background }} ">
+                <th style="padding:10px">
+                    {{ track.title }}
+                </th>
+            </tr>                
+            {% endfor %}
+        </table>
         {% endfor %}
     </div>
 </section>
