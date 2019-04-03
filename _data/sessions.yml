@@ -27,7 +27,9 @@
 -
   id: 003
   title: "Opening Keynote"
-  description: 
+  description: "My talk is about the broad topic of “Software Engineering”. Throughout the history of our industry, we have had a variety of attempts to define what Software Engineering means. On the whole I don’t think that these attempts have worked. I wonder if it is time for another attempt. Clearly though, given the history, it needs to be different to previous attempts.<br/>
+  Here is a challenging thought: If we were to attempt to establish the “ground-rules” for our profession, can you imagine the definitions of ”Software Engineering” that will still be true in 100 years’ time? If not they can’t really form the basis of our work; they will be “fashion” rather than “engineering”.<br/>
+  “Why does this matter?”. Without some agreement on what is good, and what is not, it is impossible for us to make any progress. Some ideas are good, some are bad and some we don’t know. Where we know the answers, it makes sense to agree on the good things and stop doing the bad things. Where we don’t know, we need some form of “scale” of “what works” and “what doesn’t”. Any attempt to improve in the absence of such a scale is only a matter of guesswork and opinion."
   subtype: keynote
   speakers: [2]
   language: en
@@ -47,7 +49,7 @@
 -
   id: 010
   title: "Closing Keynote"
-  description: 
+  description: "Software architecture is something that all software developers need to know about, as it underpins much of what we do. However, much of this has been lost over the past ~20 years, and software architecture has fallen out of fashion following the creation of the Manifesto for Agile Software Development, and its widespread misinterpretation. My talk is about the five things that every software developer should know about software architecture. It’s about introducing a new generation of software developers to the essence of software architecture, answering questions such as “how much up front design should we do?” and “what is the role of a software architect in our modern agile world?”."
   subtype: keynote
   speakers: [3]
   language: en
