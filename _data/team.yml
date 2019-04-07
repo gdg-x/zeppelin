@@ -59,38 +59,73 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 10
+  id: 11
+  name: "Britt"
+  surname: "Deyan"
+  title: "Diversity and Inclusion Programs + Social Impact, Google"
+  thumbnailUrl: Britt-Deyan.jpeg
+  programCommittee: true
+- 
+  id: 12
+  name: "Chet"
+  surname: "Haase"
+  title: "Developer Advocate at Google"
+  thumbnailUrl: Chet-Haase.jpeg
+  programCommittee: true
+- 
+  id: 13
   name: "Enrique"
   surname: "Lopez Manas"
   title: "Google Developer Expert"
   thumbnailUrl: EnriqueLopezManas.jpg
   programCommittee: true
 - 
-  id: 11
+  id: 14
+  name: "Florina"
+  surname: "Muntenescu"
+  title: "Android Developer Advocate at Google"
+  thumbnailUrl: Florina-Muntenescu.jpeg
+  programCommittee: true
+- 
+  id: 15
+  name: "Henry"
+  surname: "Tao"
+  title: ""
+  thumbnailUrl: HenryTao.jpg
+  programCommittee: true
+- 
+  id: 16
   name: "Hiếu"
   surname: "Rocker"
   title: "Google Developer Expert"
   thumbnailUrl: HieuRocker.jpg
   programCommittee: true
 - 
-  id: 12
+  id: 17
+  name: "Iñaki"
+  surname: "Villar"
+  title: "Diversity and Inclusion Programs + Social Impact, Google"
+  thumbnailUrl: Inaki-Villar.jpg
+  programCommittee: true
+
+- 
+  id: 18
+  name: "Romain"
+  surname: "Guy"
+  title: "Senior Staff Software Engineer at Google"
+  thumbnailUrl: Romain-Guy.png
+  programCommittee: true
+- 
+  id: 19
   name: "Thảo"
   surname: "Huỳnh Quang"
   title: "Google Developer Expert"
   thumbnailUrl: HuynhQuang.jpeg
   programCommittee: true
 - 
-  id: 13
+  id: 20
   name: "Tuấn"
   surname: "Nguyễn Minh"
   title: ""
   thumbnailUrl: TuanNguyen.jpg
   programCommittee: true
-- 
-  id: 14
-  name: "Henry"
-  surname: "Tao"
-  title: ""
-  thumbnailUrl: HenryTao.jpg
-  programCommittee: true
-    
