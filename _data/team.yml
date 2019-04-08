@@ -61,9 +61,9 @@
 - 
   id: 11
   name: "Britt"
-  surname: "Deyan"
-  title: "Diversity and Inclusion Programs + Social Impact, Google"
-  thumbnailUrl: Britt-Deyan.jpeg
+  surname: "Barak"
+  title: "Google Developer Relation at Next and Google Developer Expert"
+  thumbnailUrl: Britt-Barak.jpg
   programCommittee: true
 - 
   id: 12
@@ -104,7 +104,7 @@
   id: 17
   name: "Iñaki"
   surname: "Villar"
-  title: "Diversity and Inclusion Programs + Social Impact, Google"
+  title: "Google Developer Expert"
   thumbnailUrl: Inaki-Villar.jpg
   programCommittee: true
 
