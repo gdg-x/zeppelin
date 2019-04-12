@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "BITR: A Review"
+date:   2019-04-12 08:00:00
+isStaticPost: false
+---
+MORE than 200 delegates from the region’s leading tech companies attended an inaugural conference aimed at the sector’s ‘do-ers.’
+
+The first Built IT Right (BITR) conference was held  Thursday, April 4 at the Crowne Plaza Hotel in Newcastle.
+
+It was aimed at anyone in the north east building software and had two keynote speakers, Dave Farley, author and founder of Continuous Delivery Ltd, and Simon Brown, author of Software Architecture for Developers.
+
+Presenter, writer and comedian Timandra Harkness, who is currently presenting the BBC Radio 4 technology series Futureproofing, hosted the event and Timandra was also one of the conference speakers.
+
+The conference had four strands: Development Process; Development Technologies, Architecture, and User experience/Research. It started with a speech from Dave Farley who spoke of the advantages of the continuous delivery process.
+
+“Out of a study of 6,000 large projects, 17 per cent went so poorly they threatened the continuation of the company. So the process to drive change in your organisations, or your clients’ organisations must be right. 
+
+“Continuous delivery can be very difficult to do, and can only be done through thousands of little steps – but the good news is that every little step improves things. It’s certainly seen as state-of-the-art in the software development industry and at its root is humanity’s best problem-solving strategies.”
+
+More than 15 other speakers included:  Jesse Carey, Head of Application Architecture at Bede Gaming; Chris Price, Software Engineer at Scott Logic; Jon McNestrie, Coach and Trainer at Northern Shore Consulting; Nate Sterling, Design Strategist, Grid Smarter Cities; Chris Howe-Jones CEO and founder, DevCycle Ltd; Peter Grainger, Senior Engineer at Sage and David Boyne, Application Architect at CompareTheMarket.
+Speaking after the conference Timandra said she’d been impressed by the energy and concentration of delegates: “I’ve done lots of these tech events, but have never had so many delegates who clearly wanted to be there and wanted to learn.”
+
+She said the region’s IT sector appeared to be thriving and growing, and needed to be recognized further afield.
+
+“It’s a region which seems to work together and the IT sector here has an ecosystem that supports and promotes growth. The size of the region helps – large enough to be sustainable, easily identifiable, but small enough to be one community. And it’s clearly not just about the larger companies and organisations, many of the smaller, newer firms have innovation at their core. It’s a community with the right number of innovative companies.”
+
+“The region’s IT sector is a good news story that deserves wider recognition.”
+
+Fiona Hobbs from Opencast Software, who led the organising committee, said: “We were delighted at the response to our first BITR conference and I’d like to thank all of the delegates and speakers for their time and commitment.
+
+“We wanted a conference that would expand delegates’ knowledge and share emerging trends and hopefully that’s what we deserved. Of course, it was a great networking event, but it wasn’t a talking shop and I’m sure every delegate took away a new idea, a new way of working or new inspiration.
+
+“We’ve had some great feedback and we’re already thinking about next year’s event.”
+
+Sponsors for the inaugural event include Opencast Software, Sage, Dynamo North East, Grid Smarter Cities, Accenture, Bede, W@aterstons and balsamiq, and the conference was also supported by the European Regional Development Fund.”
+
+Take a look at the action on the day [here](https://www.tynesight.co.uk/Events-2019/Build-It-Right-Conference-2019/).
