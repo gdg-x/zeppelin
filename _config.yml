@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DIPASS.IO - DIGITAL PASS THROUGHT INNOVATION"
 email: "hello@dipass.io"
 description: "DIPASS.IO setting up digital all around the world"
-baseurl: "/dipassio"
+baseurl: "/zeppelin"
 url: "https://dipass.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-68597845-3"
