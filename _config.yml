@@ -10,33 +10,33 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "DIPASS.IO - DIGITAL PASS THROUGHT INNOVATION"
+email: "hello@dipass.io"
+description: "DIPASS.IO setting up digital all around the world"
 baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+url: "https://dipass.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-68597845-3"
+googleAnalyticsSiteUrl: "dipass.io"
+siteVerification: "CcUTwyZ1Etlp9JHHK6KuuPEz0tBbDpG9rXQQgR05hw8"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Dipassio S.L."
+organizerAlternateName: "Dipassio Developer Group"
+organizerDescription: "We create exciting projects and share experience about technology with passion."
+organizerEmail: "hello@dipass.io"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://dipass.io/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@IoDipass"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "https://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -50,22 +50,22 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Work with us"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Work with us"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "DIPASS.IO <typeout> 2019"
+eventDate: "September - November, 2019"
+typeoutTextValues: '"", "Season", "Spain", "Europe", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Work with us"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Dipass.io"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -127,7 +127,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -282,9 +282,9 @@ hackathonAddressLocalityRegion: "Lvivska"
 hackathonPostalCode: "79000"
 hackathonAddressCountry: "Ukraine"
 hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonStartTime: "2019-10-24T10:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2019-10-25T00:00"
 viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
