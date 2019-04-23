@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Season", "Spain", "Europe", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Work with us"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Dipass.io"
