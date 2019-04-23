@@ -7,6 +7,10 @@ _site/
 ### Sass ###
 .sass-cache
 
+### Npm Node_Modules ###
+
+node_modules
+
 ### Windows ###
 # Windows image file caches
 Thumbs.db
