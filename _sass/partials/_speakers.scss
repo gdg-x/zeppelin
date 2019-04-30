@@ -6,3 +6,12 @@
     margin-bottom: 6px;
   }
 }
+
+#speakers-subtitle {
+  font-style: italic;
+  text-align: center;
+  padding-top: 20px;
+  @media (max-width: 767px) {
+    margin-bottom: 6px;
+  }
+}
