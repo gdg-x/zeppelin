@@ -5,12 +5,11 @@
 -
   group: "Silver Sponsors"
   elements:
-    - {name: "Square", description: "Square", link: "https://squareup.com", imageUrl: "Square.svg"}
+    - {name: "Capital One", description: "Capital One", link: "https://capitalone.com", imageUrl: "CapitalOne.svg"}
+    - {name: "Rue La La", description: "Rue La La", link: "https://www.ruelala.com/", imageUrl: "RueLaLa.svg"}
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Chewy", description: "Chewy", link: "https://www.chewy.com", imageUrl: "Chewy.svg"}
-    - {name: "Intrepid", description: "Intrepid", link: "https://intrepid.io", imageUrl: "Intrepid.png"}
-    - {name: "LinkedIn Learning", description: "LinkedIn Learning", link: "https://www.linkedin.com/learning/", imageUrl: "LinkedInLearning.svg"}
-    - {name: "Rue La La", description: "Rue La La", link: "https://www.ruelala.com/", imageUrl: "RueLaLa.svg", width: "120px"}
-    - {name: "TripAdvisor", description: "TripAdvisor", link: "http://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "120px"}
+    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "Pluralsight.jpg", width: "180px"}
+    - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos.png", width: "110px"}
+    - {name: "TripAdvisor", description: "TripAdvisor", link: "http://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}

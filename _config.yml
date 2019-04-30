@@ -23,7 +23,7 @@ googleAnalyticsSiteUrl: "swiftfest.io"
 siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
 
 # Organizer Info
-organizerName: "Giorgio Natili, Matt Dias, Lucy Monahan, Barbara Menicucci, Alicia V Carr, Sean Olszewski, Andres Pineda, "
+organizerName: "Giorgio Natili, Lucy Monahan, Barbara Menicucci, Alicia V Carr, Andres Pineda, "
 organizerAlternateName: "SwiftFest Boston 2019"
 organizerDescription: "Open and volunteer geek community who create exciting events and share experience about mobile development technology with passion. We do love Swift and everything mobile!"
 organizerEmail: "conference@swiftfest.io"
@@ -31,7 +31,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://swiftfest.io"
 
 # Head
-metaKeywords: "event, swiftfest, boston, programming, swift, apple, ios, macos, tvos, watchos, developers"
+metaKeywords: "event, swiftfest, boston, programming, swift, apple, ios, macos, tvos, watchos, developers, community, conference, learning, affordable, inclusion, diversity, scholarship"
 twitterAccount: "@theSwiftFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -46,11 +46,11 @@ navigationLinks:
 # - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
- - {permalink: "/diversity-inclusion/", text: "D&I"}
  - {permalink: "/faq/", text: "FAQ"}
- - {permalink: "/speakers-2018/", text: "Former Speakers"}
-# - {permalink: "/#tickets", text: "Tickets"}
- - {permalink: "/#partners", text: "Former Sponsors"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/#tickets", text: "Tickets"}
+ - {permalink: "/#partners", text: "Sponsors"}
+ - {permalink: "2018.swiftfest.io", text: "2018"}
 # - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets"}
@@ -64,7 +64,7 @@ eventDate: "July 29–30, 2019"
 typeoutTextValues: '"", "Boston ", "Swift ", "Engineering ", "Community ", "Innovation ", "Beantown ", "iOS ", "Excellence ", "Inclusiveness "'
 typeoutFallback: "Boston"
 heroButtons:
- - {permalink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets", target: "_blank"}
+ - {permalink: "https://forms.gle/arkNh1zYkBb8KjRU6", text: "Submit a talk", target: "_blank"}
 
 # About Block
 aboutTitle: "About SwiftFest"
@@ -83,8 +83,8 @@ statisticBlock:
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Former Featured Speakers"
-rockstarSpeakersButtonText: "See all former speakers"
+rockstarSpeakersTitle: "Featured Speakers"
+rockstarSpeakersButtonText: "See all the speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -119,11 +119,11 @@ twitterHashTag: "swiftfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-partnersTitle: "Former Sponsors"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor for 2019!"
 
 # Supporters Block
-supportersTitle: "Former Supporters"
+supportersTitle: "Supporters"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -224,10 +224,10 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "http://www.sheratonbostonhotel.com", text: "Sheraton Boston Hotel (Official SwiftFest Hotel)"}
+     - {link: "https://www.marriott.com/hotels/hotel-photos/bosdm-courtyard-boston-downtown/", text: "Courtyard Boston Downtown (Official SwiftFest Hotel)"}
      - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
      - {link: "http://www.wboston.com/", text: "W Boston"}
-     - {link: "https://www.airbnb.com/s/Boston--MA", text: "Airbnb"}
+     - {link: "https://www.airbnb.com/s/Boston--MA", text: "AirBnb"}
    -
     title: "Registration"
     links:
@@ -235,4 +235,4 @@ directionDetailsWideCards:
    -
     title: "Attendance Details"
     links:
-     - {link: "https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469", text: "Event Info"}
+     - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233", text: "Event Info"}
