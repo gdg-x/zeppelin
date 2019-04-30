@@ -6,7 +6,8 @@ isStaticPost: true
 image: people.jpg
 ---
 
-We want **SwiftFest** to be, as much as possible, **a safe and productive environment for everyone.** We recognize that an utterly “safe” environment is not achievable for all possible attendees, but we commit to fostering an event that is safer, to the best of our ability. To that end, this Code of Conduct spells out behavioral expectations for all attendees (including staff, speakers, and sponsors) at the conference. SwiftFest Organizers will enforce this code throughout the event. 
+
+We want **SwiftFest** to be, as much as possible, **a safe and productive environment for everyone.** We recognize that an utterly “safe” environment is not achievable for all possible attendees, but we commit to fostering an event that is safer, to the best of our ability. To that end, this Code of Conduct spells out behavioral expectations for all attendees (including staff, speakers, and sponsors) at the conference. SwiftFest Organizers will enforce this code throughout the event.
 
 We hope to provide a great conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, national origin, ethnicity, religion (or lack thereof), or technological choices or experience. We invite you to help us make SwiftFest a place that is welcoming and respectful to all participants. We will not tolerate harassment of conference participants—in person or online.
 
@@ -18,7 +19,7 @@ We expect all participants at SwiftFest to adhere to the Code of Conduct in all 
 
 #### Need Help?
 
-If you have questions or concerns about the Code of Conduct itself, or the behavior of any participants before, during or after the conference, reach out to any person on our safety team. You can identify safety team members by their orange SwiftFest T-shirts. We treat all discussions of the Code of Conduct and related concerns seriously. 
+If you have questions or concerns about the Code of Conduct itself, or the behavior of any participants before, during or after the conference, reach out to any person on our safety team. You can identify safety team members by their orange SwiftFest T-shirts. We treat all discussions of the Code of Conduct and related concerns seriously.
 
 If you are at the event, you can find an organizer by going to the front desk at the entrance to the Calderwood Pavilion or look for persons wearing staff t-shirts.
 
