@@ -33,6 +33,8 @@ If your **employer** can accommodate your **travel expenses**, let us know and t
 
 Also this year, SwiftFest content is distributed in two tracks hosted in the main theatres and four different workshops.
 
+The main topics of the two tracks can be summarized as following.
+
 | Track 1: Swift Soul | | | | Track 2: Swift Overloaded |
 |-|-|-|-|
 |-|-|-|-|
