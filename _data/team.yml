@@ -1,39 +1,4 @@
 -
-  id: "0"
-  name: "Matt"
-  surname: "Dias"
-  title: "Community lead"
-  thumbnailUrl: MattDias.jpg
-  type: team
-  bio: |
-   Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.
-  social:
-    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
-    - {name: "github", link: "https://github.com/mdiasdev"}
--
-  id: "1"
-  name: "Zev"
-  surname: "Eisenberg"
-  title: "Tech lead"
-  thumbnailUrl: ZevEisenberg.jpg
-  type: team
-  bio: |
-   Zev was raised by clowns, but he ran away to join the circuits.
-  social:
-    - {name: "twitter", link: "https://twitter.com/ZevEisenberg"}
-    - {name: "github", link: "https://github.com/ZevEisenberg"}
-    - {name: "site", link: "https://ZevEisenberg.com/"}
--
-  id: "2"
-  name: "Luis"
-  surname: "Alberto"
-  title: "Mobile developer"
-  thumbnailUrl: LuisAlberto.jpg
-  type: volunteer
-  social:
-    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
--
   id: "3"
   name: "Lucy"
   surname: "Monahan"
@@ -54,28 +19,19 @@
     - {name: "twitter", link: "https://twitter.com/giorgionatili"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
 -
-  id: "5"
-  name: "Jeff"
-  surname: "O’Leary"
-  title: "Content lead"
-  thumbnailUrl: JeffOLeary.jpg
-  type: team
-  social:
-    - {name: "github",link: "https://github.com/joleary1987"}
-    - {name: "twitter", link: "https://twitter.com/jepecito"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jeffreyoleary"}
-
--
   id: "6"
-  name: "Sean"
-  surname: "Olszewski"
-  title: "Development lead"
-  thumbnailUrl: SeanOlszewski.jpg
+  name: "Alicia"
+  surname: "Carr"
+  title: "Content Lead"
+  thumbnailUrl: AliciaCarr.jpg
   type: team
   bio: |
-   "Currently a software engineer at Pivotal Labs, Sean Olszewski focuses on practicing test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. When he’s not working on projects for clients, he can be found at meet ups in the Boston area, or organizing the two meet ups he runs: Learn Swift Boston, and XP Boston. Feel free to ask Sean any testing or audio questions you might have!"
+   "Alicia is an activist, mentor, grandmother, and self-taught developer from Georgia. After learning to code online, she built an app to support women who are victims of domestic violence across the United States."
+  company: "Purple Evolution"
+  title: "CEO/Founder"
   social:
-    - {name: "github", link: "https://github.com/SeanROlszewski/"}
+    - {name: "twitter", link: "https://twitter.com/fineblkwoman"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pevoapp/"}
 -
   id: "7"
   name: "Andres"
