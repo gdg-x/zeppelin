@@ -45,7 +45,8 @@ The main topics of the two tracks can be summarized as following.
 | - Kits | | | | - Cross-platform development
 | - Notifications | | | | - Design / UI / UX
 | - Health | | | | - Development culture
-| - TDD | | | | - Tools
+| - Domains and Intents | | | | - Tools
+| - TDD | | | | - Accessibility
 
 ##### 5. Do you offer any scholarship or travel support?
 
