@@ -1,116 +1,116 @@
 -
-  date: "2019-04-04"
-  dateReadable: "4th April"
-  rooms:
-    - {title: "<b>Stephenson Suite</b>"}
-    - {title: "<b>Northumbrian</b>"}
-    - {title: "<b>Rocket</b>"}
-    - {title: "<b>Planet</b>"}
-  tracks:
-    - {title: "Development Process", color: "#003366", background: "#ADD8E6"}
-    - {title: "Development Technologies <br> Dev Ops", color: "#006400", background: "#c1fcc1"}
-    - {title: "Architecture", color: "#D0AF12", background: "#FFF1BA"}
-    - {title: "UX & UR", color: "#D56446", background: "#FFD8B4"}
-  pax:
-    - {title: "300 (Cabaret)"}
-    - {title: "50"}
-    - {title: "100"}
-    - {title: "-"}
-  lightningcolor: "#2f4f4f"
-  lightningbackground: "#d3d3d3"
-  timeslots:
-    - {
-    	startTime: "08:00",
-    	endTime: "",
-    	sessionIds: [001]
-    }
-    - {
-        startTime: "09:00",
-        endTime: "09:15",
-        sessionIds: [002, 999, 999, 999]
-    }
-    - {
-    	startTime: "09:15",
-    	endTime: "10:05",
-    	sessionIds: [003, 999, 999, 999]
-    }
-    - {
-        startTime: "10:05",
-        endTime: "10:15",
-        sessionIds: [308]
-    }
-    - {
-        startTime: "10:15",
-        endTime: "10:55",
-        sessionIds: [100, 101, 102, 103]
-    }
-    - {
-    	startTime: "10:55",
-    	endTime: "11:15",
-        sessionIds: [307]
-    }
-    - {
-    	startTime: "11:15",
-    	endTime: "11:55",
-        sessionIds: [104, 105, 106, 107]
-    }
-    - {
-        startTime: "11:55",
-        endTime: "12:05",
-        sessionIds: [308]
-    }
-    - {
-        startTime: "12:05",
-        endTime: "12:35",
-        sessionIds: [108, 999, 999, 999]
-    }
-    - {
-    	startTime: "12:35",
-    	endTime: "13:45",
-    	sessionIds: [503]
-    }
-    - {
-        startTime: "13:45",
-        endTime: "14:15",
-        sessionIds: [109, 999, 999, 999]
-    }
-    - {
-    	startTime: "14:15",
-    	endTime: "15:00",
-        sessionIds: [007, 999, 999, 999]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "15:10",
-        sessionIds: [308]
-    }
-    - {
-    	startTime: "15:10",
-    	endTime: "15:50",
-        sessionIds: [110, 111, 112, 113]
-    }
-    - {
-    	startTime: "15:50",
-    	endTime: "16:10",
-    	sessionIds: [307]
-    }
-    - {
-    	startTime: "16:10",
-    	endTime: "16:50",
-        sessionIds: [114, 115, 116, 117]
-    }
-    - {
-        startTime: "16:50",
-        endTime: "17:00",
-        sessionIds: [308]
-    }
-    - {
-    	startTime: "17:00",
-    	endTime: "17:50",
-    	sessionIds: [010, 999, 999, 999]
-    }
-    - {
-        startTime: "17:50",
-        endTime: "18:00",
-        sessionIds: [011, 999, 999, 999]
-    }
+  date: "2020-03-26"
+  dateReadable: "26th March"
+#   rooms:
+#     - {title: "<b>Stephenson Suite</b>"}
+#     - {title: "<b>Northumbrian</b>"}
+#     - {title: "<b>Rocket</b>"}
+#     - {title: "<b>Planet</b>"}
+#   tracks:
+#     - {title: "Development Process", color: "#003366", background: "#ADD8E6"}
+#     - {title: "Development Technologies <br> Dev Ops", color: "#006400", background: "#c1fcc1"}
+#     - {title: "Architecture", color: "#D0AF12", background: "#FFF1BA"}
+#     - {title: "UX & UR", color: "#D56446", background: "#FFD8B4"}
+#   pax:
+#     - {title: "300 (Cabaret)"}
+#     - {title: "50"}
+#     - {title: "100"}
+#     - {title: "-"}
+#   lightningcolor: "#2f4f4f"
+#   lightningbackground: "#d3d3d3"
+#   timeslots:
+#     - {
+#     	startTime: "08:00",
+#     	endTime: "",
+#     	sessionIds: [001]
+#     }
+#     - {
+#         startTime: "09:00",
+#         endTime: "09:15",
+#         sessionIds: [002, 999, 999, 999]
+#     }
+#     - {
+#     	startTime: "09:15",
+#     	endTime: "10:05",
+#     	sessionIds: [003, 999, 999, 999]
+#     }
+#     - {
+#         startTime: "10:05",
+#         endTime: "10:15",
+#         sessionIds: [308]
+#     }
+#     - {
+#         startTime: "10:15",
+#         endTime: "10:55",
+#         sessionIds: [100, 101, 102, 103]
+#     }
+#     - {
+#     	startTime: "10:55",
+#     	endTime: "11:15",
+#         sessionIds: [307]
+#     }
+#     - {
+#     	startTime: "11:15",
+#     	endTime: "11:55",
+#         sessionIds: [104, 105, 106, 107]
+#     }
+#     - {
+#         startTime: "11:55",
+#         endTime: "12:05",
+#         sessionIds: [308]
+#     }
+#     - {
+#         startTime: "12:05",
+#         endTime: "12:35",
+#         sessionIds: [108, 999, 999, 999]
+#     }
+#     - {
+#     	startTime: "12:35",
+#     	endTime: "13:45",
+#     	sessionIds: [503]
+#     }
+#     - {
+#         startTime: "13:45",
+#         endTime: "14:15",
+#         sessionIds: [109, 999, 999, 999]
+#     }
+#     - {
+#     	startTime: "14:15",
+#     	endTime: "15:00",
+#         sessionIds: [007, 999, 999, 999]
+#     }
+#     - {
+#         startTime: "15:00",
+#         endTime: "15:10",
+#         sessionIds: [308]
+#     }
+#     - {
+#     	startTime: "15:10",
+#     	endTime: "15:50",
+#         sessionIds: [110, 111, 112, 113]
+#     }
+#     - {
+#     	startTime: "15:50",
+#     	endTime: "16:10",
+#     	sessionIds: [307]
+#     }
+#     - {
+#     	startTime: "16:10",
+#     	endTime: "16:50",
+#         sessionIds: [114, 115, 116, 117]
+#     }
+#     - {
+#         startTime: "16:50",
+#         endTime: "17:00",
+#         sessionIds: [308]
+#     }
+#     - {
+#     	startTime: "17:00",
+#     	endTime: "17:50",
+#     	sessionIds: [010, 999, 999, 999]
+#     }
+#     - {
+#         startTime: "17:50",
+#         endTime: "18:00",
+#         sessionIds: [011, 999, 999, 999]
+#     }

@@ -11,14 +11,15 @@
 #     - {name: "Your Logo Here", description: "Your Logo Here", link: "assets/BITR_Sponsorship_Pack.pdf", imageUrl: "your-logo.png", width: "120px"}
 
 -
-  group: ""
+  year: "2020"
+  elements:
+-
+  year: "2019"
   elements:
     - {name: "Accenture", description: "New insights. Tangible outcomes. New Applied Now", link: "https://www.accenture.com/gb-en", imageUrl: "small_logo.png"}
     - {name: "Bede", description: "The First Choice Gaming Platform", link: "https://bedegaming.com", imageUrl: "Bede-Gaming.jpg"}
     - {name: "Dynamo", description: "Dynamo, Growing the North East IT economy", link: "http://www.dynamonortheast.co.uk/kids-digital-maker-party/", imageUrl: "Dynamo_Primary_Pant164_No_Strap.png"}
-    # - {name: "Your Logo Here", description: "Your Logo Here", link: "assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", imageUrl: "your-logo.png"}
     - {name: "Sage", description: "Software & Solutions for Every Business", link: "https://www.sage.com/en-gb/", imageUrl: "sage.png"}
     - {name: "Waterstons", description: "Performance through technology", link: "https://www.waterstons.com", imageUrl: "image167a69.JPG"}
     - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid_logo_solo.png"}
     - {name: "Balsamiq", description: "Life's too short for bad software!", link: "https://balsamiq.com", imageUrl: "balsamiq-logo-noborder-print.png"}
-    
