@@ -169,3 +169,27 @@
     - {name: "twitter", link: "https://twitter.com/mengto"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/mengto/"}
     - {name: "site", link: "https://designcode.io/"}
+-
+  id: "13"
+  name: "Daniel"
+  surname: "Steinberg"
+  company: "Dim Sum Thinking"
+  title: "Storyteller"
+  bio: |
+   Daniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. You can also find his best-selling books “A Swift Kickstart” and “Dear Elena” on the Editors Cut website. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends.
+  thumbnailUrl: DanielSteinberg.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/dimsumthinking"}
+    - {name: "site", link: "http://dimsumthinking.com/"}
+-
+  id: "14"
+  name: "Jeff"
+  surname: "Kelley"
+  company: "Detroit Labs"
+  bio: |
+   Jeff Kelley is a developer at Detroit Labs, where he builds apps in Swift but still has a soft spot for Objective-C. Author of Developing Apps for Apple Watch and Learn Cocoa Touch for iOS, he’s been working with iOS since its infancy in 2008. Jeff is passionate about building usable apps, the open-source community around Apple platforms, and will talk your ear off about electric cars and clean energy. Jeff loves raising his two kids and two dogs, Detroit, and organizing the Motor City CocoaHeads group.
+  thumbnailUrl: JeffKelley.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/slaunchaman"}
