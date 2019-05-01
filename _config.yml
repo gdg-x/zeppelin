@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
 
 
 # Site Settings
-title: "Build IT Right 2019"
+title: "Build IT Right 2020"
 email: "bitrconference@gmail.com"
 description: "Build IT Right is a conference for people interested in
 IT based in Newcastle Upon Tyne"
@@ -43,6 +43,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "http://bit.ly/2NzkBtb"
 c4sponsorsUrl: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf"
 
+# Sponsors
+sponsorButtonMessage: "Become a sponsor"
+sponsorEmailAddress: "bitrconference@gmail.com"
+sponsorEmailSubject: "I’d like to find out more about sponsoring"
+
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -54,33 +59,48 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
 # - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
- - {link: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", text: "Become a sponsor"}
+ - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", text: "Become a sponsor"}
+ - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
 # - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
 
 
 # Hero Block
 heroImage: "newcastle-bridges.jpg"
-heroTitle: "Build IT Right <typeout> 2019"
-eventDate: "4th April, 2019"
+heroTitle: "Build IT Right <typeout> 2020"
+eventDate: "26th March, 2020"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
 # - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
- - {link: "assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf", text: "Become a sponsor"}
+ - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Build IT Right"
 aboutBlock:
- - {title: "Conference", image: "Simon_Brown.jpg", text: "Build IT Right is a new one day conference with inspirational speakers and
- exhibitions aimed at those building software in the North East. Confirmed speakers include Simon Brown (creator of C4 software
- architecture model and founder of Structurizr), Dave Farley (co-author of Continuous Delivery) and Timandra Harkness as compere.
- The event will provide delegates with a dedicated day away from their screens, expand knowledge, and inspire how to adapt to
- emerging trends." }
+ - {title: "Conference", image: "Simon_Brown.jpg", text: "Build IT Right returns in 2020 with another day of engaging and informative
+  content for all software professionals in the North East. The lightning talks, exhibition and panel session will be back to Keynote
+  speakers will be announced shortly, and once again we’ll have a Call for Papers to fill the tracks, Architecture, Development Process,
+  Development Technologies and UX & UR. The event provides delegates with a dedicated day away from their screens, expand knowledge, and
+  inspire how to adapt to emerging trends." }
+
+# Feedback Block
+feedbackTitle: "Feedback from 2019"
+feedbackBlock:
+  -
+    text: "Well-organised, interesting and thought-provoking content and ideas, and no travel approval required to attend!"
+    person:
+    position: "2019 Delegate"
+
+  -
+    text: "#BITRConf was a fantastic event, and I’ve had a <b>really<b/> fun day"
+    person: "Simon Brown"
+    position: Keynote 2019
+
+
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -108,9 +128,9 @@ eventAddressLocality: "Newcastle Upon Tyne"
 eventAddressLocalityRegion: "Tyne and Wear"
 eventPostalCode: "NE1 3SA"
 eventAddressCountry: "United Kingdom"
-eventStartTime: "2019-04-04T08:00"
+eventStartTime: "2020-03-26T08:00"
 eventDoorTime: "07:30"
-eventEndTime: "2019-04-04T18:00"
+eventEndTime: "2020-03-26T18:00"
 eventPlaceCoordinates: "54.967145, -1.616574"
 mapCenterCoordinates: "54.967145, -1.616574"
 mapMobileCenterCoordinates: "54.967145, -1.616574"
@@ -154,14 +174,14 @@ ticketsOffers:
   price: "£150"
   priceCurrency: "+ VAT"
   ticketsNumber: "200"
-  featured: true
+  featured: false
   ribbon: "Full price"
-  buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-conference-2020-tickets-60809762637?"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks"]
-  validFrom: "2019-02-01T00:00"
+  validFrom: "2019-12-01T10:00"
   #validThrough: "2018-11-20T23:59"
-  validThrough: "2019-04-03T23:59"
+  validThrough: "2020-03-25T23:59"
   soldOut: false
   hide: false
  -
@@ -171,27 +191,27 @@ ticketsOffers:
   ticketsNumber: "50"
   featured: true
   ribbon: "-33%"
-  buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-conference-2020-tickets-60809762637?"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks"]
-  validFrom: "2018-07-10T10:00"
+  validFrom: "2019-05-07T10:00"
   #validThrough: "2018-08-31T23:59"
-  validThrough: "2019-02-01T00:00"
+  validThrough: "2020-11-30T23:59"
   soldOut: false
-  hide: true
+  hide: false
  -
   name: "Concessionary"
   price: "£99"
   priceCurrency: "+ VAT"
   ticketsNumber: "50"
   featured: false
-  buyButtonLink: "https://www.eventbrite.com/e/build-it-right-conference-tickets-47955832185"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-conference-2020-tickets-60809762637?"
   buyButtonText: "Buy Now"
   additionalInfo: "Students require a valid student email address at time of purchase."
   ticketContentList: ["Access to all talks"]
-  validFrom: "2018-07-10T10:00"
+  validFrom: "2019-12-01T10:00"
   #validThrough: "2018-11-20T23:59"
-  validThrough: "2019-04-03T23:59"
+  validThrough: "2020-03-25T23:59"
   soldOut: false
   hide: false
 
@@ -317,9 +337,9 @@ hackathonAddressLocalityRegion: "Tyne and Wear"
 hackathonPostalCode: "NE1 3SA"
 hackathonAddressCountry: "United Kingdom"
 hackathonTimeTitle: "Hack-NE-thing"
-hackathonStartTime: "2019-04-04T12:30"
+hackathonStartTime: "2020-03-26T12:30"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2019-04-04T14:00"
+hackathonEndTime: "2020-03-26T14:00"
 viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "54.967145, -1.616574"
 hackathonMapCenterCoordinates: "54.967145, -1.616574"

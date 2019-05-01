@@ -1,236 +1,236 @@
--
-  id: 307
-  title: "Break"
-  service: true
-  # description: "The best time to talk with speakers and attendees"
--
-  id: 308
-  title: "Changeover"
-  service: true
--
-  id: 503
-  title: "Lunch"
-  # place: "TBC"
-  service: true
--
-  id: 001
-  title: "Registration, Refreshments and Exhibition"
-  # description: "Conference registration. Check in, get a beverage of your choice and some breakfast. Take the chance to mingle with fellow attendees and speakers."
-  service: true
--
-  id: 002
-  title: "Conference Welcome Compere"
-  description: 
-  subtype: keynote
-  speakers: [4]
-  language: en
--
-  id: 003
-  title: "Opening Keynote"
-  description: "My talk is about the broad topic of “Software Engineering”. Throughout the history of our industry, we have had a variety of attempts to define what Software Engineering means. On the whole I don’t think that these attempts have worked. I wonder if it is time for another attempt. Clearly though, given the history, it needs to be different to previous attempts.<br/>
-  Here is a challenging thought: If we were to attempt to establish the “ground-rules” for our profession, can you imagine the definitions of ”Software Engineering” that will still be true in 100 years’ time? If not they can’t really form the basis of our work; they will be “fashion” rather than “engineering”.<br/>
-  “Why does this matter?”. Without some agreement on what is good, and what is not, it is impossible for us to make any progress. Some ideas are good, some are bad and some we don’t know. Where we know the answers, it makes sense to agree on the good things and stop doing the bad things. Where we don’t know, we need some form of “scale” of “what works” and “what doesn’t”. Any attempt to improve in the absence of such a scale is only a matter of guesswork and opinion."
-  subtype: keynote
-  speakers: [2]
-  language: en
-  # complexity: "Intermediate"
-  # presentation: ""
-  # video: ""
--
-  id: 007
-  title: "Afternoon Keynote"
-  description: 
-  subtype: keynote
-  speakers: [4]
-  language: en
-  # complexity: "Intermediate"
-  # presentation: ""
-  # video: ""
--
-  id: 010
-  title: "Closing Keynote"
-  description: "Software architecture is something that all software developers need to know about, as it underpins much of what we do. However, much of this has been lost over the past ~20 years, and software architecture has fallen out of fashion following the creation of the Manifesto for Agile Software Development, and its widespread misinterpretation. My talk is about the five things that every software developer should know about software architecture. It’s about introducing a new generation of software developers to the essence of software architecture, answering questions such as “how much up front design should we do?” and “what is the role of a software architect in our modern agile world?”."
-  subtype: keynote
-  speakers: [3]
-  language: en
-  # complexity: "Intermediate"
-  # presentation: ""
-  # video: ""
--
-  id: 011
-  title: "Closing Remarks"
-  description: 
-  subtype: keynote
-  speakers: [4]
-  language: en
--
-  id: 999
-  title: ""
-  clickable: false
--
-  id: 100
-  title: "An ongoing journey with micro-services and DDD"
-  description: "In only 6 years, Bede Gaming has built a globally competitive gaming platform in Microsoft’s Azure cloud using micro-service architecture. This talk briefly retraces our architectural journey from startup to industry leader, how our optimal team structure was affected by the architecture as we grew and how the influence of Domain Driven Design has more recently impacted our views on the trade-offs of the architecture we chose and how we could optimise it moving forward."
-  type: A
-  subtype: presentation
-  speakers: [5]
-  language: en
-  # presentation: ""
--
-  id: 101
-  title: "Higher or Lower - ML in JS"
-  description: |
-    Machine Learning has had a transformative effect on many industries, but rarely has it been so rapidly adopted as in finance. It can be found identifying fraud, optimising sales targeting, high-frequency trading and far more besides.<br/>
-    This talk focuses on its recent intersection with the web and demonstrates what’s possible right now (with some audience participation!). We'll prove that once again proves you can teach an old dog new tricks and ponder on the future directions this technology might take us.
-  type: DTDO
-  subtype: presentation
-  speakers: [6]
-  language: en
--
-  id: 102
-  title: "U-Kan-Scrum-gile - Enterprise Edition"
-  description: |
-    There has been a rise recently in organisations saying that they 'Do Agile' without fully understanding what they mean. There also seems to be a loss of faith in Scrum and other agile frameworks from people who see them as a way to sell something to large companies; set of rules to follow and then somehow attain success.<br/>
-    This is a very quick tongue in cheek introduction of a fictitious Agile Framework especially designed to appeal to stereotypical senior management with lofty promises.<br/>
-    The idea of snake oil salesmen and turnkey frameworks has continued to poison the 'agile industry' and is making it harder to focus people on good problem solving and iterative delivery.
-  type: DP
-  subtype: presentation
-  speakers: [7]
-  language: en
--
-  id: 103
-  title: "Research without Interface: Down the Rabbit Hole"
-  description: "A brand new service joins the fray, far reaching and business critical, but, there's no interface for our team to test. How did we make sure we were actually meeting the user needs, demonstrate value to stakeholders and even test the thing?
-The talk aims to highlight best practices of user research in a narrative structure based on real life examples of building services.<br/><br/>
-<u>Top level information:</u><br/>
-Grouping needs<br/>
-Demonstrating value to stakeholders"
-  type: UXUR
-  subtype: presentation
-  speakers: [8]
-  language: en
--
-  id: 104
-  title: "Estimations are just a waste"
-  description: "If you say it like that, people will just tend to walk away from you. If we dig a little bit deeper into the reasons for estimating then we find out that the title of this talk is perhaps not as crazy as it seems."
-  type: DP
-  subtype: presentation
-  speakers: [9]
-  language: en
--
-  id: 105
-  title: "A design thinker walks into a tech company…"
-  description: 'A piece of action research documenting the practice and lessons learnt from my first 12 months within Grid embedding Design Thinking into the organisation.<br/>
-  A pragmatic perspective to Design Thinking and its uses in a technology SME!<br/>
-  An extension and development of: <a href="https://medium.com/unstudied/issue-01-new-beginnings-new-challenges-129e2566a1a9" target="_blank">https://medium.com/unstudied/issue-01-new-beginnings-new-challenges-129e2566a1a9</a>'
-  type: UXUR
-  subtype: presentation
-  speakers: [10]
-  language: en
--
-  id: 106
-  title: "Automate all the security"
-  description: "We are a small company but we work with big corporate clients who have heavy Information and Cyber Security procurement processes in place. To avoid crushing development under the weight of 'secure programming practices' and 'security review' we have had to turn to automation and the use of cloud services to provide a regular automated security screening and review service. Using these has helped not just get through enterprise security reviews but also helped us discover issues in our application and build a more secure platform as a result."
-  type: A
-  subtype: presentation
-  speakers: [11]
-  language: en
--
-  id: 107
-  title: "The Joy of Java Microframeworks"
-  description: "Developing Microservices with Java is easier than ever. Learn how fun development can be with Microframeworks like Javalin or Spark Java."
-  type: DTDO
-  subtype: presentation
-  speakers: [12]
-  language: en
--
-  id: 108
-  title: "Lightning Talks"
-  description: |
-    James Murphy - Elm for developer happiness and better code (or why Elm makes me happy)<br/>
-    Mark Jose - If car mechanics built software
-  type: LT
-  subtype: presentation
-  speakers: [13, 14, 15, 16]
-  language: en
--
-  id: 109
-  title: "Panel - Build IT Right: The Future..."
-  description: ""
-  type: LT
-  subtype: presentation
-  speakers: [17, 18, 19, 20]
-  language: en
--
-  id: 110
-  title: "I'm here for an argument, working with conflict in teams"
-  description: "When working with teams there is one constant, conflict. This is a talk packed with practical tips and tools for helping your team deal with conflict in a productive manner."
-  type: DP
-  subtype: presentation
-  speakers: [21]
-  language: en
--
-  id: 111
-  title: "Evolutionary Architecture: what we can learn from nature?"
-  description: "Biological organisms evolve and adapt to their environment. What can we learn from biology and how can we apply this to software design/architecture?"
-  type: A
-  subtype: presentation
-  speakers: [22]
-  language: en
--
-  id: 112
-  title: "The Inclusivity Paradox"
-  description: "Each year, Fjord produces a Trends report which takes a look at what lies ahead in the next 12 months for business, technology and design.<br/>
-  The report identifies 7 trends that Fjord believe will represent new opportunities to redesign existing interactions and create new ones. It raises plenty of fundamental questions, like whether a brand deserves a space in our lives or even, the world. Is the value exchange two-way? Is it doing something more than straining the planet? And how it’s never been easier to unsubscribe or delete, if the answer is no.<br/>
-  Bruno aims to highlight the key takeaways from these trends, before deep diving into one trend he feels particularly passionate about – the Inclusivity Paradox. With consumers expecting to be engaged with as individuals and companies seeking to be more inclusive, is there a risk of inadvertently excluding others? Find out in this 30 minute session."
-  type: UXUR
-  subtype: presentation
-  speakers: [23]
-  language: en
--
-  id: 113
-  title: "Continuous integration using Github actions"
-  description: "Github actions are their take on continuous integration / continuous deployment using plugins.  This talk describes what actions are and how to use them."
-  type: DTDO
-  subtype: presentation
-  speakers: [24]
-  language: en
--
-  id: 114
-  title: "Servers? Where we're going, we don't need servers!"
-  description: "Serverless is almost as hype as blockchain right now, but what is it good for? Where does it fall flat? This talk combines an experience report of a serverless production system in the enterprise, and one from a solo project."
-  type: A
-  subtype: presentation
-  speakers: [25]
-  language: en
--
-  id: 115
-  title: "Designing the Invisible: How to Create Exceptional User Experiences"
-  description: "Creating first impressions that lead to early on-boarding and lasting user engagement should be at the forefront of any plans to create meaningful and profitable software.<br/>
-During this 40 minute presentation delegates will learn about essential discovery tools, good design practice and how defining their proposition in a clear, minimal yet inviting style leads to business success and increased customer acquisition and retention.<br/>
-It is now widely accepted that exceptional user experiences are crucial to organisational success and longevity. One of the main reasons for failure as a software business is neglecting to get this right from the start. The presentation will focus on the foundations of good UX; the importance of user research and testing as well as featuring some key design takeaways and lessons that can be built into user interfaces to increase initial on-boarding and customer retention."
-  type: UXUR
-  subtype: presentation
-  speakers: [26]
-  language: en
--
-  id: 116
-  title: "Fighting Continuous Entropy"
-  description: "Our software lives in an entropic state. The world changes around it: new bugs appear, new versions, new operating systems, new hardware. Our systems must change or face eventual demise.<br/>
-We often adopt approaches to continuously deploy our systems, but what if we had tools that let us continuously upgrade them too; pushing the entropy back a little bit each day."
-  type: DTDO
-  subtype: presentation
-  speakers: [27]
-  language: en
--
-  id: 117
-  title: "Using Inner Source to drive innovation, culture and collaboration"
-  description: "Open Source software is transforming the world. In 2018 GitHub had over 30 million developers using the platform, sharing ideas, and creating cultures. Over 96 million repositories were created with over 200 million pull requests. The Open Source community have developed principles, techniques and ways of working which I believe can be applied to any organisation.<br/>
-What if we could take the learnings from the Open Source community and apply them to our internal teams and our organisation? What can we learn from these learnings to help us drive innovation, culture and collaboration?<br/>
-People around the world are also observing the lessons that the Open Source community can teach us and have created a new community and set of practices called the InnerSource commons.<br/>
-In this talk, I will share with you how CompareTheMarket is using InnerSource practices to drive our culture, innovation, and collaboration across Peterborough, London & Belarus. I share with you the cultural challenges I’ve faced over the past few years implementing these InnerSource principles and technology we have used to help.<br/>
-Walking away from this talk I’m confident that you can take away some of these ideas and lessons I have learned and hopefully apply these techniques to help you scale and remain flexible for the future."
-  type: DP
-  subtype: presentation
-  speakers: [28]
-  language: en
+# -
+#   id: 307
+#   title: "Break"
+#   service: true
+#   # description: "The best time to talk with speakers and attendees"
+# -
+#   id: 308
+#   title: "Changeover"
+#   service: true
+# -
+#   id: 503
+#   title: "Lunch"
+#   # place: "TBC"
+#   service: true
+# -
+#   id: 001
+#   title: "Registration, Refreshments and Exhibition"
+#   # description: "Conference registration. Check in, get a beverage of your choice and some breakfast. Take the chance to mingle with fellow attendees and speakers."
+#   service: true
+# -
+#   id: 002
+#   title: "Conference Welcome Compere"
+#   description: 
+#   subtype: keynote
+#   speakers: [4]
+#   language: en
+# -
+#   id: 003
+#   title: "Opening Keynote"
+#   description: "My talk is about the broad topic of “Software Engineering”. Throughout the history of our industry, we have had a variety of attempts to define what Software Engineering means. On the whole I don’t think that these attempts have worked. I wonder if it is time for another attempt. Clearly though, given the history, it needs to be different to previous attempts.<br/>
+#   Here is a challenging thought: If we were to attempt to establish the “ground-rules” for our profession, can you imagine the definitions of ”Software Engineering” that will still be true in 100 years’ time? If not they can’t really form the basis of our work; they will be “fashion” rather than “engineering”.<br/>
+#   “Why does this matter?”. Without some agreement on what is good, and what is not, it is impossible for us to make any progress. Some ideas are good, some are bad and some we don’t know. Where we know the answers, it makes sense to agree on the good things and stop doing the bad things. Where we don’t know, we need some form of “scale” of “what works” and “what doesn’t”. Any attempt to improve in the absence of such a scale is only a matter of guesswork and opinion."
+#   subtype: keynote
+#   speakers: [2]
+#   language: en
+#   # complexity: "Intermediate"
+#   # presentation: ""
+#   # video: ""
+# -
+#   id: 007
+#   title: "Afternoon Keynote"
+#   description: 
+#   subtype: keynote
+#   speakers: [4]
+#   language: en
+#   # complexity: "Intermediate"
+#   # presentation: ""
+#   # video: ""
+# -
+#   id: 010
+#   title: "Closing Keynote"
+#   description: "Software architecture is something that all software developers need to know about, as it underpins much of what we do. However, much of this has been lost over the past ~20 years, and software architecture has fallen out of fashion following the creation of the Manifesto for Agile Software Development, and its widespread misinterpretation. My talk is about the five things that every software developer should know about software architecture. It’s about introducing a new generation of software developers to the essence of software architecture, answering questions such as “how much up front design should we do?” and “what is the role of a software architect in our modern agile world?”."
+#   subtype: keynote
+#   speakers: [3]
+#   language: en
+#   # complexity: "Intermediate"
+#   # presentation: ""
+#   # video: ""
+# -
+#   id: 011
+#   title: "Closing Remarks"
+#   description: 
+#   subtype: keynote
+#   speakers: [4]
+#   language: en
+# -
+#   id: 999
+#   title: ""
+#   clickable: false
+# -
+#   id: 100
+#   title: "An ongoing journey with micro-services and DDD"
+#   description: "In only 6 years, Bede Gaming has built a globally competitive gaming platform in Microsoft’s Azure cloud using micro-service architecture. This talk briefly retraces our architectural journey from startup to industry leader, how our optimal team structure was affected by the architecture as we grew and how the influence of Domain Driven Design has more recently impacted our views on the trade-offs of the architecture we chose and how we could optimise it moving forward."
+#   type: A
+#   subtype: presentation
+#   speakers: [5]
+#   language: en
+#   # presentation: ""
+# -
+#   id: 101
+#   title: "Higher or Lower - ML in JS"
+#   description: |
+#     Machine Learning has had a transformative effect on many industries, but rarely has it been so rapidly adopted as in finance. It can be found identifying fraud, optimising sales targeting, high-frequency trading and far more besides.<br/>
+#     This talk focuses on its recent intersection with the web and demonstrates what’s possible right now (with some audience participation!). We'll prove that once again proves you can teach an old dog new tricks and ponder on the future directions this technology might take us.
+#   type: DTDO
+#   subtype: presentation
+#   speakers: [6]
+#   language: en
+# -
+#   id: 102
+#   title: "U-Kan-Scrum-gile - Enterprise Edition"
+#   description: |
+#     There has been a rise recently in organisations saying that they 'Do Agile' without fully understanding what they mean. There also seems to be a loss of faith in Scrum and other agile frameworks from people who see them as a way to sell something to large companies; set of rules to follow and then somehow attain success.<br/>
+#     This is a very quick tongue in cheek introduction of a fictitious Agile Framework especially designed to appeal to stereotypical senior management with lofty promises.<br/>
+#     The idea of snake oil salesmen and turnkey frameworks has continued to poison the 'agile industry' and is making it harder to focus people on good problem solving and iterative delivery.
+#   type: DP
+#   subtype: presentation
+#   speakers: [7]
+#   language: en
+# -
+#   id: 103
+#   title: "Research without Interface: Down the Rabbit Hole"
+#   description: "A brand new service joins the fray, far reaching and business critical, but, there's no interface for our team to test. How did we make sure we were actually meeting the user needs, demonstrate value to stakeholders and even test the thing?
+# The talk aims to highlight best practices of user research in a narrative structure based on real life examples of building services.<br/><br/>
+# <u>Top level information:</u><br/>
+# Grouping needs<br/>
+# Demonstrating value to stakeholders"
+#   type: UXUR
+#   subtype: presentation
+#   speakers: [8]
+#   language: en
+# -
+#   id: 104
+#   title: "Estimations are just a waste"
+#   description: "If you say it like that, people will just tend to walk away from you. If we dig a little bit deeper into the reasons for estimating then we find out that the title of this talk is perhaps not as crazy as it seems."
+#   type: DP
+#   subtype: presentation
+#   speakers: [9]
+#   language: en
+# -
+#   id: 105
+#   title: "A design thinker walks into a tech company…"
+#   description: 'A piece of action research documenting the practice and lessons learnt from my first 12 months within Grid embedding Design Thinking into the organisation.<br/>
+#   A pragmatic perspective to Design Thinking and its uses in a technology SME!<br/>
+#   An extension and development of: <a href="https://medium.com/unstudied/issue-01-new-beginnings-new-challenges-129e2566a1a9" target="_blank">https://medium.com/unstudied/issue-01-new-beginnings-new-challenges-129e2566a1a9</a>'
+#   type: UXUR
+#   subtype: presentation
+#   speakers: [10]
+#   language: en
+# -
+#   id: 106
+#   title: "Automate all the security"
+#   description: "We are a small company but we work with big corporate clients who have heavy Information and Cyber Security procurement processes in place. To avoid crushing development under the weight of 'secure programming practices' and 'security review' we have had to turn to automation and the use of cloud services to provide a regular automated security screening and review service. Using these has helped not just get through enterprise security reviews but also helped us discover issues in our application and build a more secure platform as a result."
+#   type: A
+#   subtype: presentation
+#   speakers: [11]
+#   language: en
+# -
+#   id: 107
+#   title: "The Joy of Java Microframeworks"
+#   description: "Developing Microservices with Java is easier than ever. Learn how fun development can be with Microframeworks like Javalin or Spark Java."
+#   type: DTDO
+#   subtype: presentation
+#   speakers: [12]
+#   language: en
+# -
+#   id: 108
+#   title: "Lightning Talks"
+#   description: |
+#     James Murphy - Elm for developer happiness and better code (or why Elm makes me happy)<br/>
+#     Mark Jose - If car mechanics built software
+#   type: LT
+#   subtype: presentation
+#   speakers: [13, 14, 15, 16]
+#   language: en
+# -
+#   id: 109
+#   title: "Panel - Build IT Right: The Future..."
+#   description: ""
+#   type: LT
+#   subtype: presentation
+#   speakers: [17, 18, 19, 20]
+#   language: en
+# -
+#   id: 110
+#   title: "I'm here for an argument, working with conflict in teams"
+#   description: "When working with teams there is one constant, conflict. This is a talk packed with practical tips and tools for helping your team deal with conflict in a productive manner."
+#   type: DP
+#   subtype: presentation
+#   speakers: [21]
+#   language: en
+# -
+#   id: 111
+#   title: "Evolutionary Architecture: what we can learn from nature?"
+#   description: "Biological organisms evolve and adapt to their environment. What can we learn from biology and how can we apply this to software design/architecture?"
+#   type: A
+#   subtype: presentation
+#   speakers: [22]
+#   language: en
+# -
+#   id: 112
+#   title: "The Inclusivity Paradox"
+#   description: "Each year, Fjord produces a Trends report which takes a look at what lies ahead in the next 12 months for business, technology and design.<br/>
+#   The report identifies 7 trends that Fjord believe will represent new opportunities to redesign existing interactions and create new ones. It raises plenty of fundamental questions, like whether a brand deserves a space in our lives or even, the world. Is the value exchange two-way? Is it doing something more than straining the planet? And how it’s never been easier to unsubscribe or delete, if the answer is no.<br/>
+#   Bruno aims to highlight the key takeaways from these trends, before deep diving into one trend he feels particularly passionate about – the Inclusivity Paradox. With consumers expecting to be engaged with as individuals and companies seeking to be more inclusive, is there a risk of inadvertently excluding others? Find out in this 30 minute session."
+#   type: UXUR
+#   subtype: presentation
+#   speakers: [23]
+#   language: en
+# -
+#   id: 113
+#   title: "Continuous integration using Github actions"
+#   description: "Github actions are their take on continuous integration / continuous deployment using plugins.  This talk describes what actions are and how to use them."
+#   type: DTDO
+#   subtype: presentation
+#   speakers: [24]
+#   language: en
+# -
+#   id: 114
+#   title: "Servers? Where we're going, we don't need servers!"
+#   description: "Serverless is almost as hype as blockchain right now, but what is it good for? Where does it fall flat? This talk combines an experience report of a serverless production system in the enterprise, and one from a solo project."
+#   type: A
+#   subtype: presentation
+#   speakers: [25]
+#   language: en
+# -
+#   id: 115
+#   title: "Designing the Invisible: How to Create Exceptional User Experiences"
+#   description: "Creating first impressions that lead to early on-boarding and lasting user engagement should be at the forefront of any plans to create meaningful and profitable software.<br/>
+# During this 40 minute presentation delegates will learn about essential discovery tools, good design practice and how defining their proposition in a clear, minimal yet inviting style leads to business success and increased customer acquisition and retention.<br/>
+# It is now widely accepted that exceptional user experiences are crucial to organisational success and longevity. One of the main reasons for failure as a software business is neglecting to get this right from the start. The presentation will focus on the foundations of good UX; the importance of user research and testing as well as featuring some key design takeaways and lessons that can be built into user interfaces to increase initial on-boarding and customer retention."
+#   type: UXUR
+#   subtype: presentation
+#   speakers: [26]
+#   language: en
+# -
+#   id: 116
+#   title: "Fighting Continuous Entropy"
+#   description: "Our software lives in an entropic state. The world changes around it: new bugs appear, new versions, new operating systems, new hardware. Our systems must change or face eventual demise.<br/>
+# We often adopt approaches to continuously deploy our systems, but what if we had tools that let us continuously upgrade them too; pushing the entropy back a little bit each day."
+#   type: DTDO
+#   subtype: presentation
+#   speakers: [27]
+#   language: en
+# -
+#   id: 117
+#   title: "Using Inner Source to drive innovation, culture and collaboration"
+#   description: "Open Source software is transforming the world. In 2018 GitHub had over 30 million developers using the platform, sharing ideas, and creating cultures. Over 96 million repositories were created with over 200 million pull requests. The Open Source community have developed principles, techniques and ways of working which I believe can be applied to any organisation.<br/>
+# What if we could take the learnings from the Open Source community and apply them to our internal teams and our organisation? What can we learn from these learnings to help us drive innovation, culture and collaboration?<br/>
+# People around the world are also observing the lessons that the Open Source community can teach us and have created a new community and set of practices called the InnerSource commons.<br/>
+# In this talk, I will share with you how CompareTheMarket is using InnerSource practices to drive our culture, innovation, and collaboration across Peterborough, London & Belarus. I share with you the cultural challenges I’ve faced over the past few years implementing these InnerSource principles and technology we have used to help.<br/>
+# Walking away from this talk I’m confident that you can take away some of these ideas and lessons I have learned and hopefully apply these techniques to help you scale and remain flexible for the future."
+#   type: DP
+#   subtype: presentation
+#   speakers: [28]
+#   language: en
