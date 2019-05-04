@@ -1,181 +1,239 @@
 - 
-  id: 4
-  name: "Kai"
-  surname: "Koenig"
-  company: "Ventego Creative"
-  title: "Software Solutions Architect"
-  bio: "<p>I work as a Software Solutions Architect for Ventego Creative in Wellington, New Zealand.</p><p>I co-founded the company with two partners and I'm also the CTO of Zen Ex Machina, a startup in the fields of digital & user experience consultancy based out of Canberra in Australia. My work really comprises a mix of consulting, training, mentoring and actual development work using a range of technologies, common themes being Java, Android, CFML, JavaScript etc.</p><p>I'm well versed in Java and some other JVM-based languages like Clojure or Groovy and recently (re-)discovered the pleasure of writing software in Python and Go. Kotlin has been my language love for the last few years though.</p><p>Other stuff I occasionally do:<ul><li>Write for magazines (currently mainly Heise's iX in Germany) or in my Blog</li><li>Publish a Podcast (2 Developers Down Under) with my friend Mark Mandel from Melbourne and run New Zealand's first Kotlin meetup (Wellington.kt)</li><li>Since 2007 I fly small, single-engine airplanes around New Zealand and sometimes Australia, currently working on my Commercial Pilot License.</li></ul></p><p><a href='http://lanyrd.com/profile/agentk/past/speaking/'>Speaking history</a></p>"
-  thumbnailUrl: KaiKoenig.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/AgentK"}
-- 
-  id: 5
-  name: "David"
-  surname: "Vávra"
-  company: "Step Up Labs"
-  title: "Founder & CEO"
-  bio: "David is a Google Developer Expert for Android and Firebase. He is leading his startup and working on Android architecture of Settle Up. He is a core organizer in GDG Prague and loves open-source, gadgets, and LARP."
-  thumbnailUrl: DavidVavra.jpg
+  id: 1
+  name: "Britt"
+  surname: "Barak"
+  company: "Nexmo, GDE"
+  title: "Nexmo, GDE"
+  bio: "DevRel @ Nexmo; Google Developer Expert for Android; Women Techmakers Israel community lead."
+  thumbnailUrl: BrittBarak.jpeg
   rockstar: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDGPrague/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/vavradav"}
+- 
+  id: 2
+  name: "Hoi"
+  surname: "Lam"
+  company: "Google"
+  title: "Google"
+  bio: "Hoi is the Head of Developer Relations for Android Machine Learning and also a sector executive for the Institution of Engineering and Technology (IET). He was part of the launch team for Wear OS by Google (previously, Android Wear), Chromecast, Google Glass Enterprise Edition, and the Google Beacon Platform.Prior to Google, he founded Exahive to disrupt the mobile commerce market place. Hoi was an Equity Research VP at Deutsche Bank and Citigroup covering technology companies. Before banking, he was a product manager / application architect at Accenture. Hoi holds a Master and Bachelor degree in Space Engineering from the University of Cambridge."
+  thumbnailUrl: HoiLam.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+- 
+  id: 3
+  name: "James"
+  surname: "Daniels"
+  company: "Google"
+  title: "Google"
+  bio: "Developer Relations @Google @Firebase"
+  thumbnailUrl: JamesDaniels.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+- 
+  id: 4
+  name: "Nick"
+  surname: "Skelton"
+  company: "GDE"
+  title: "GDE"
+  bio: "Firebase GDE, Australian based in Germany"
+  thumbnailUrl: NickSkelton.png
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+- 
+  id: 5
+  name: "Sebastian"
+  surname: "Schmidt"
+  company: "Google"
+  title: "Google"
+  bio: "Sebastian Schmidt is an engineer on Firebase's San Francisco-based team, working on the iOS, Android, and Web SDKs for Firestore and the Realtime Database. Prior to joining Firebase, he helped Google App Engine achieve its current scale. Sebastian holds a Masters Degree from Simon Fraser University, Vancouver, Canada."
+  thumbnailUrl: SebastianSchmidt.jpeg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
 - 
   id: 6
-  name: "Taylor"
-  surname: "Ling"
-  company: "The Fabulous"
-  title: " Co-founder"
-  bio: "Taylor is a Digital Product Designer and is always passionate about great user experience. Previously he worked at a 3D printing company on their life-saving medical software before joining Snappymob, a startup in Kuala Lumpur, which allows him to make a difference in the local mobile app development scene by creating high-quality apps that users love. He is also the design co-founder of Fabulous, a habit-forming companion that received Material Design Award from Google Design team."
-  thumbnailUrl: TaylorLing.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/110199935346260350060"}
-    - {name: "twitter", link: "https://twitter.com/taylorling"}
-- 
-  id: 7
-  name: "Eric"
-  surname: "Nguyen"
-  company: "Grab"
-  title: "Software Engineer"
-  bio: "Eric aspires to develop apps that change the world for the better, one aspect at a time. While waiting for his own awesome apps, he works for Grab on the Grab Driver app. Prior to Grab, Eric crafted the Sephora - Beauty Shopping app from scratch. Eric is well-versed in Java but he also speaks other languages like Javascript (mainly ReactJs) and SQL. Although Eric is an introvert, he drinks socially and can be fun at parties either as an organiser or a participant."
-  thumbnailUrl: EricNguyen.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://github.com/eric-grab"}
-- 
-  id: 8
-  name: "Minh"
-  surname: "Nguyen"
-  company: "Grab"
-  title: "Mobile Platform Tech Lead"
-  bio: "My name is Minh, I am Vietnamese but currently, I am working as Software Engineer in Singapore at Grab. I have about 6 years experience working with Android. I love to update the newest technologies and apply the most suitable architecture to our app."
-  thumbnailUrl: MinhNguyen.jpg
-  rockstar: false
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/minhnguyen.gtvt"}
-- 
-  id: 9
-  name: "Nazlina"
-  surname: "Quadir"
-  company: "WTM"
-  title: "Kuala Lumpur WTM Lead"
-  bio: "With the mission to empower more women to stand out and participate more actively within the local science and technology community in Malaysia, Nazlina took on the role to lead the Kuala Lumpur chapter of Women Techmakers, a global program by Google to advocate women in science, technology, engineering and mathematics (STEM). Since there has been changes in the participation of women in the tech communities, she believes that there is an urgent need now to encourage more women to speak at International Tech Conferences and as such she has been invited to speak at several conferences including DroidCon Bangkok event in March 2017, Google Developers Group Summit in San Francisco and Webcamp Penang, Malaysia in May, including Techsauce Global Summit in Bangkok last July. She was also invited to mentor the Startup Weekend Women's Edition organised by Techstars in October this year."
-  thumbnailUrl: NazlinaQuadir.jpg
-  rockstar: true
-- 
-  id: 10
-  name: "Doug"
-  surname: "Stevenson"
+  name: "Yacine"
+  surname: "Rezgui"
   company: "Google"
-  title: "Google Developer Advocate"
-  bio: "Google Developer Advocate with @Firebase. Public speaker. Talk show host. Wordsmith. Old-school gamer. Vegetarian. Craft beer lover."
-  thumbnailUrl: DougStevenson.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://github.com/codingdoug"}
-- 
-  id: 11
-  name: "Denis"
-  surname: "Neklyudov"
-  company: "Google Developer Expert"
-  title: "Google Developer Expert"
-  bio: "Android GDE. Live and work in Singapore."
-  thumbnailUrl: DenisNeklyudov.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://github.com/nekdenis"}
-- 
-  id: 12
-  name: "Hieu"
-  surname: "Rocker"
-  company: "Zalo"
-  title: "Tech Lead of Zalo"
-  bio: "Android GDE. Tech Lead of a secret project at Zalo."
-  thumbnailUrl: HieuRocker.jpg
+  title: "Google"
+  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
+  thumbnailUrl: YacineRezgui.jpg
   rockstar: false
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "github", link: "https://github.com/rockerhieu"}
-- 
-  id: 13
-  name: "Iñaki"
-  surname: "Villar"
-  company: "Agoda"
-  title: "Google Developer Expert"
-  bio: "Android Developer since 7 years ago. I worked with Bank apps in Spain for three years. Later I moved to Ireland to work with apps of Airlines and GSM carriers. Actually I'm living in Thailand working for Agoda. I'm Google Developer Expert and I enjoy being involve with the android community."
-  thumbnailUrl: InyakiVillar.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://github.com/inyaki_mwc"}
-- 
-  id: 14
-  name: "Minh"
-  surname: "Pham"
-  company: "Uber"
-  title: "Staff Engineer at Uber"
-  bio: "Staff Engineer at Uber"
-  thumbnailUrl: MinhPham.jpg
-  rockstar: false
-- 
-  id: 15
-  name: "Son"
-  surname: "Nguyen"
-  company: "Grab"
-  title: "Android Engineer at Grab"
-  thumbnailUrl: SonNguyen.jpg
-  rockstar: false
-- 
-  id: 16
-  name: "Huỳnh"
-  bio: "Thao has been an Android Developer for 4 years and he is currently working for Trusting Social - latest fintech company in Vietnam. He worked on varies of mobile apps, from e-commerce application at Lazada, native application to embedded application."
-  surname: "Quang Thảo"
-  company: "Trusting Social"
-  title: "Android Engineer"
-  thumbnailUrl: HuynhQuang.jpeg
-  rockstar: false
-- 
-  id: 17
-  name: "Enrique"
-  bio: "
-Enrique López Mañas is a Google Developer Expert and independent IT consultant. He has been working with mobile technologies and learning from them since 2007. He is an avid contributor to the open source community and a FLOSS (Free Libre Open Source Software) kind of guy, being among the top 10 open source Java contributors in Germany. He is a part of the Google LaunchPad accelerator, where he participates in Google global initiatives to influence hundreds of the best startups from all around the globe. He is also a big data and machine learning aficionado.
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
 
-In his free time he rides his bike, take pictures, and travels until exhaustion. He also writes literature and enjoys all kinds of arts. He likes to write about himself in third person. You can follow him on Twitter (@eenriquelopez) to stay updated on his latest movements."
-  surname: "Lopez Manas"
-  company: "Google Developer Expert"
-  title: "Google Developer Expert"
-  thumbnailUrl: EnriqueLopezManas.jpg
-  rockstar: true
-- 
-    id: 18
-    name: "Giang"
-    bio: "I am Mobile Lead at CBA solution. I have more than 7 years of experience in mobile application development on Android, 2 years of experience in conducting Android development courses. I also design and develop many large mobile applications for e-commerce, retail, insurance, hospitality, healthcare, banking. Trainer of Android courses and speaker in many seminar on mobile application development."
-    surname: "Vo"
-    company: "CBA"
-    title: "Mobile Lead at CBA"
-    thumbnailUrl: GiangVo.jpg
-    rockstar: false
-- 
-    id: 19
-    name: "Bok"
-    bio: "Bok Thye Yeow has more than a decade of experience developing full stack software solutions across various industries including telco, banking, digital and creative advertising, retail, etc. During his free time, he likes to experiment with new technology or fly his home-made drone. At Google, Bok leads developer programs focusing on professional and enterprise developers. He strongly believes we are only starting to scratch the surface of what's possible with technology in this era and is looking forward to the \"next big thing\" to come!"
-    surname: "Thye Yeow"
-    company: "Google"
-    title: "Google Developer Relations Ecosystem ProDevs Program SEA Lead"
-    thumbnailUrl: Bok.jpg
-    rockstar: false
-- 
-    id: 20
-    name: "Kalyan"
-    bio: "Kalyan Reddy has been a Developer Programs Engineer at Google since 2012 and have been working on various teams such as Google Apps and more recently, the IoT team on the Google Assistant. He started working on Firebase around 2015."
-    surname: "Reddy"
-    company: "Google"
-    title: "Developer Programs Engineer"
-    thumbnailUrl: Kalyan.jpg
-    rockstar: false
+
+
+# - 
+#   id: 5
+#   name: "David"
+#   surname: "Vávra"
+#   company: "Step Up Labs"
+#   title: "Founder & CEO"
+#   bio: "David is a Google Developer Expert for Android and Firebase. He is leading his startup and working on Android architecture of Settle Up. He is a core organizer in GDG Prague and loves open-source, gadgets, and LARP."
+#   thumbnailUrl: DavidVavra.jpg
+#   rockstar: false
+#   ribbon: 
+#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#     - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDGPrague/"}
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/vavradav"}
+# - 
+#   id: 6
+#   name: "Taylor"
+#   surname: "Ling"
+#   company: "The Fabulous"
+#   title: " Co-founder"
+#   bio: "Taylor is a Digital Product Designer and is always passionate about great user experience. Previously he worked at a 3D printing company on their life-saving medical software before joining Snappymob, a startup in Kuala Lumpur, which allows him to make a difference in the local mobile app development scene by creating high-quality apps that users love. He is also the design co-founder of Fabulous, a habit-forming companion that received Material Design Award from Google Design team."
+#   thumbnailUrl: TaylorLing.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#   social: 
+#     - {name: "google-plus", link: "https://plus.google.com/110199935346260350060"}
+#     - {name: "twitter", link: "https://twitter.com/taylorling"}
+# - 
+#   id: 7
+#   name: "Eric"
+#   surname: "Nguyen"
+#   company: "Grab"
+#   title: "Software Engineer"
+#   bio: "Eric aspires to develop apps that change the world for the better, one aspect at a time. While waiting for his own awesome apps, he works for Grab on the Grab Driver app. Prior to Grab, Eric crafted the Sephora - Beauty Shopping app from scratch. Eric is well-versed in Java but he also speaks other languages like Javascript (mainly ReactJs) and SQL. Although Eric is an introvert, he drinks socially and can be fun at parties either as an organiser or a participant."
+#   thumbnailUrl: EricNguyen.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "twitter", link: "https://github.com/eric-grab"}
+# - 
+#   id: 8
+#   name: "Minh"
+#   surname: "Nguyen"
+#   company: "Grab"
+#   title: "Mobile Platform Tech Lead"
+#   bio: "My name is Minh, I am Vietnamese but currently, I am working as Software Engineer in Singapore at Grab. I have about 6 years experience working with Android. I love to update the newest technologies and apply the most suitable architecture to our app."
+#   thumbnailUrl: MinhNguyen.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "facebook", link: "https://www.facebook.com/minhnguyen.gtvt"}
+# - 
+#   id: 9
+#   name: "Nazlina"
+#   surname: "Quadir"
+#   company: "WTM"
+#   title: "Kuala Lumpur WTM Lead"
+#   bio: "With the mission to empower more women to stand out and participate more actively within the local science and technology community in Malaysia, Nazlina took on the role to lead the Kuala Lumpur chapter of Women Techmakers, a global program by Google to advocate women in science, technology, engineering and mathematics (STEM). Since there has been changes in the participation of women in the tech communities, she believes that there is an urgent need now to encourage more women to speak at International Tech Conferences and as such she has been invited to speak at several conferences including DroidCon Bangkok event in March 2017, Google Developers Group Summit in San Francisco and Webcamp Penang, Malaysia in May, including Techsauce Global Summit in Bangkok last July. She was also invited to mentor the Startup Weekend Women's Edition organised by Techstars in October this year."
+#   thumbnailUrl: NazlinaQuadir.jpg
+#   rockstar: true
+# - 
+#   id: 10
+#   name: "Doug"
+#   surname: "Stevenson"
+#   company: "Google"
+#   title: "Google Developer Advocate"
+#   bio: "Google Developer Advocate with @Firebase. Public speaker. Talk show host. Wordsmith. Old-school gamer. Vegetarian. Craft beer lover."
+#   thumbnailUrl: DougStevenson.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://github.com/codingdoug"}
+# - 
+#   id: 11
+#   name: "Denis"
+#   surname: "Neklyudov"
+#   company: "Google Developer Expert"
+#   title: "Google Developer Expert"
+#   bio: "Android GDE. Live and work in Singapore."
+#   thumbnailUrl: DenisNeklyudov.png
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://github.com/nekdenis"}
+# - 
+#   id: 12
+#   name: "Hieu"
+#   surname: "Rocker"
+#   company: "Zalo"
+#   title: "Tech Lead of Zalo"
+#   bio: "Android GDE. Tech Lead of a secret project at Zalo."
+#   thumbnailUrl: HieuRocker.jpg
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#   social:
+#     - {name: "github", link: "https://github.com/rockerhieu"}
+# - 
+#   id: 13
+#   name: "Iñaki"
+#   surname: "Villar"
+#   company: "Agoda"
+#   title: "Google Developer Expert"
+#   bio: "Android Developer since 7 years ago. I worked with Bank apps in Spain for three years. Later I moved to Ireland to work with apps of Airlines and GSM carriers. Actually I'm living in Thailand working for Agoda. I'm Google Developer Expert and I enjoy being involve with the android community."
+#   thumbnailUrl: InyakiVillar.png
+#   rockstar: false
+#   social: 
+#     - {name: "twitter", link: "https://github.com/inyaki_mwc"}
+# - 
+#   id: 14
+#   name: "Minh"
+#   surname: "Pham"
+#   company: "Uber"
+#   title: "Staff Engineer at Uber"
+#   bio: "Staff Engineer at Uber"
+#   thumbnailUrl: MinhPham.jpg
+#   rockstar: false
+# - 
+#   id: 15
+#   name: "Son"
+#   surname: "Nguyen"
+#   company: "Grab"
+#   title: "Android Engineer at Grab"
+#   thumbnailUrl: SonNguyen.jpg
+#   rockstar: false
+# - 
+#   id: 16
+#   name: "Huỳnh"
+#   bio: "Thao has been an Android Developer for 4 years and he is currently working for Trusting Social - latest fintech company in Vietnam. He worked on varies of mobile apps, from e-commerce application at Lazada, native application to embedded application."
+#   surname: "Quang Thảo"
+#   company: "Trusting Social"
+#   title: "Android Engineer"
+#   thumbnailUrl: HuynhQuang.jpeg
+#   rockstar: false
+# - 
+#   id: 17
+#   name: "Enrique"
+#   bio: "
+# Enrique López Mañas is a Google Developer Expert and independent IT consultant. He has been working with mobile technologies and learning from them since 2007. He is an avid contributor to the open source community and a FLOSS (Free Libre Open Source Software) kind of guy, being among the top 10 open source Java contributors in Germany. He is a part of the Google LaunchPad accelerator, where he participates in Google global initiatives to influence hundreds of the best startups from all around the globe. He is also a big data and machine learning aficionado.
+
+# In his free time he rides his bike, take pictures, and travels until exhaustion. He also writes literature and enjoys all kinds of arts. He likes to write about himself in third person. You can follow him on Twitter (@eenriquelopez) to stay updated on his latest movements."
+#   surname: "Lopez Manas"
+#   company: "Google Developer Expert"
+#   title: "Google Developer Expert"
+#   thumbnailUrl: EnriqueLopezManas.jpg
+#   rockstar: true
+# - 
+#     id: 18
+#     name: "Giang"
+#     bio: "I am Mobile Lead at CBA solution. I have more than 7 years of experience in mobile application development on Android, 2 years of experience in conducting Android development courses. I also design and develop many large mobile applications for e-commerce, retail, insurance, hospitality, healthcare, banking. Trainer of Android courses and speaker in many seminar on mobile application development."
+#     surname: "Vo"
+#     company: "CBA"
+#     title: "Mobile Lead at CBA"
+#     thumbnailUrl: GiangVo.jpg
+#     rockstar: false
+# - 
+#     id: 19
+#     name: "Bok"
+#     bio: "Bok Thye Yeow has more than a decade of experience developing full stack software solutions across various industries including telco, banking, digital and creative advertising, retail, etc. During his free time, he likes to experiment with new technology or fly his home-made drone. At Google, Bok leads developer programs focusing on professional and enterprise developers. He strongly believes we are only starting to scratch the surface of what's possible with technology in this era and is looking forward to the \"next big thing\" to come!"
+#     surname: "Thye Yeow"
+#     company: "Google"
+#     title: "Google Developer Relations Ecosystem ProDevs Program SEA Lead"
+#     thumbnailUrl: Bok.jpg
+#     rockstar: false
+# - 
+#     id: 20
+#     name: "Kalyan"
+#     bio: "Kalyan Reddy has been a Developer Programs Engineer at Google since 2012 and have been working on various teams such as Google Apps and more recently, the IoT team on the Google Assistant. He started working on Firebase around 2015."
+#     surname: "Reddy"
+#     company: "Google"
+#     title: "Developer Programs Engineer"
+#     thumbnailUrl: Kalyan.jpg
+#     rockstar: false
