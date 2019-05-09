@@ -54,7 +54,7 @@
                     <div><h1 style="text-align:center">To be announced</h1></div>
                 {% endif %}
             </div> 
-            <!-- <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" style="margin:0px 50px" target="_blank">Become a speaker </a>                        -->
+            <a href="mailto:{{ site.speakerEmailAddress }}?subject={{ site.speakerEmailSubject }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.speakerButtonMessage }}</a>
             <p style="margin-top:75px;"><h5>{{ site.supportTitle }}</h5></p> 
             <ul class="list-inline">
                 {% for image in site.supportImages %}

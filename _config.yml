@@ -43,6 +43,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "http://bit.ly/2NzkBtb"
 c4sponsorsUrl: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf"
 
+# Speakers
+speakerButtonMessage: "Become a speaker"
+speakerEmailAddress: "bitrconference@gmail.com"
+speakerEmailSubject: "I’d like to find out more about speaking"
+
 # Sponsors
 sponsorButtonMessage: "Become a sponsor"
 sponsorEmailAddress: "bitrconference@gmail.com"
@@ -58,13 +63,13 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-# - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about speaking", text: "Become a speaker"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
-# - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about speaking", text: "Become a speaker"}
 
 
 # Hero Block
@@ -74,7 +79,7 @@ eventDate: "26th March, 2020"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
-# - {link: "http://bit.ly/2NzkBtb", text: "Become a speaker"}
+ - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about speaking", text: "Become a speaker"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -83,8 +88,8 @@ aboutTitle: "About Build IT Right"
 aboutBlock:
  - {title: "Conference", image: "Simon_Brown.jpg", text: "Build IT Right returns in 2020 with another day of engaging and informative
   content for all software professionals in the North East. The lightning talks, exhibition and panel session will be back to Keynote
-  speakers will be announced shortly, and once again we’ll have a Call for Papers to fill the tracks, Architecture, Development Process,
-  Development Technologies and UX & UR. The event provides delegates with a dedicated day away from their screens, expand knowledge, and
+  speakers will be announced shortly, and once again we’ll have a Call for Papers to fill the tracks, <b>Architecture</b>, <b>Development Process</b>,
+  <b>Development Technologies</b> and <b>UX & UR</b>. The event provides delegates with a dedicated day away from their screens, expand knowledge, and
   inspire how to adapt to emerging trends." }
 
 # Feedback Block
@@ -160,7 +165,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://github.us18.list-manage.com/subscribe/post?u=440fd2edca6e5128f8dd511bf&amp;id=883fca8761"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Number of tickets are limited - Stay tuned!"
 
 # Tickets Block
 hideTicketsBlock: true
