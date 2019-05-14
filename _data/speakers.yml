@@ -57,15 +57,15 @@
   id: "4"
   name: "Sean"
   surname: "Olszewski"
-  company: "Pivotal Labs"
-  title: "Software Engineer & Consultant"
+  company: "Pivotal"
+  title: "Engineering Practice Lead"
   bio: |
-   Currently a software engineer at Pivotal Labs, Sean Olszewski focuses on practicing test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. When he’s not working on projects for clients, he can be found at meet ups in the Boston area, or organizing the two meet ups he runs: Learn Swift Boston, and XP Boston. Feel free to ask Sean any testing or audio questions you might have!
+   Sean Olszewski is the author of Muter, a mutation testing tool for Swift code. Currently an engineering practice lead at Pivotal, he focuses on the practice of test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. He can be found at meet ups in the Boston area, or organizing his meetup Learn Swift Boston. 
   thumbnailUrl: SeanOlszewski.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/__chefski__"}
-    - {name: "github", link: "https://github.com/seanrolszewski"}
+    - {name: "github", link: "https://github.com/seanrolszewski/muter"}
 -
   id: "5"
   name: "David"
