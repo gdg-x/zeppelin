@@ -193,3 +193,29 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/slaunchaman"}
+-
+  id: "15"
+  name: "Kaitlin"
+  surname: "Mahar"
+  company: "MongoDB"
+  title: "Software Engineer"
+  bio: |
+   Kaitlin is a software engineer living in NYC. She works at MongoDB, where she leads development of the official MongoDB driver for Swift. Outside of work she enjoys doing crossword puzzles, playing with her cats, and trying all of the amazing food and drinks NYC has to offer.
+  thumbnailUrl: kaitlinMahar.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/k__mahar"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kaitlinmahar/"}
+-
+  id: "16"
+  name: "Anne"
+  surname: "Cahalan"
+  company: "Detroit Labs"
+  bio: |
+   Anne is an iOS developer Detroit Labs, where she is constantly delighted by the niftiness of Swift. Passionate about clean code, craft cocktails, and nice yarn, she dreams of an elegantly-designed app that pairs cocktails with knitting patterns. She is contractually required to mention her three-legged cat, Wobbles.
+  thumbnailUrl: AnneCahalan.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/northofnormal"}
+    - {name: "linkedin", link: "https://linkedin.com/in/northofnormal"}
+    - {name: "github", link: "https://github.com/northofnormal"}
