@@ -61,7 +61,7 @@ rightNavigationButtons:
 heroImage: "BeFunky-SwiftFest.jpg"
 heroTitle: "SwiftFest <typeout>  2019" # TODO: typeout?
 eventDate: "July 29–30, 2019"
-typeoutTextValues: '"", "Boston ", "Swift ", "Engineering ", "Community ", "Innovation ", "Beantown ", "iOS ", "Excellence ", "Inclusiveness "'
+typeoutTextValues: '"", "Boston ", "Swift ", "Engineering ", "Community ", "Innovation ", "Open Source ", "Scripting ", "Development ", "Culture ", "Beantown ", "iOS ", "Excellence ", "Inclusiveness "'
 typeoutFallback: "Boston"
 heroButtons:
  - {permalink: "https://forms.gle/arkNh1zYkBb8KjRU6", text: "Submit a talk", target: "_blank"}
