@@ -2,6 +2,7 @@
   group: "Gold Sponsors"
   elements:
     - {name: "Wayfair", description: "Wayfair", link: "https://wayfair.com", imageUrl: "Wayfair.svg"}
+    - {name: "Tinder", description: "Tinder", link: "https://tech.gotinder.com", imageUrl: "TinderWatermark.png"}
 -
   group: "Silver Sponsors"
   elements:
@@ -12,4 +13,8 @@
   elements:
     - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "Pluralsight.jpg", width: "180px"}
     - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos.png", width: "110px"}
-    - {name: "TripAdvisor", description: "TripAdvisor", link: "http://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}
+    - {name: "TripAdvisor", description: "TripAdvisor", link: "https://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}
+-
+  group: "Alleys"
+  elements:
+    - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "110px"}
