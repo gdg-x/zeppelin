@@ -206,6 +206,8 @@
   social:
     - {name: "twitter", link: "https://twitter.com/k__mahar"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/kaitlinmahar/"}
+    - {name: "github", link: "https://github.com/kmahar/"}
+    - {name: "site", link: "https://kaitlin.dev/"}
 -
   id: "16"
   name: "Anne"
