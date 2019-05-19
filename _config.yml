@@ -160,7 +160,7 @@ ticketsOffers:
   validThrough: "2019-04-08T23:59"
   soldOut: true
   disabled: true
- -
+ -image'
   name: "Early Bird"
   price: "299"
   priceCurrency: "USD"
@@ -168,7 +168,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
   validFrom: "2019-02-11T00:00"
-  validThrough: "2019-04-08T23:59"
+  validThrough: "2019-06-08T23:59"
   soldOut: false
   disabled: false
 
