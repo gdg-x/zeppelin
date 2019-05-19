@@ -160,7 +160,6 @@ ticketsOffers:
   validThrough: "2019-04-08T23:59"
   soldOut: true
   disabled: true
- -image'
   name: "Early Bird"
   price: "299"
   priceCurrency: "USD"
