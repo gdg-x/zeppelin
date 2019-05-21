@@ -15,6 +15,6 @@
     - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos.png", width: "110px"}
     - {name: "TripAdvisor", description: "TripAdvisor", link: "https://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}
 -
-  group: "Alleys"
+  group: "Allies"
   elements:
     - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "110px"}
