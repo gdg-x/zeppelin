@@ -221,3 +221,36 @@
     - {name: "twitter", link: "https://twitter.com/northofnormal"}
     - {name: "linkedin", link: "https://linkedin.com/in/northofnormal"}
     - {name: "github", link: "https://github.com/northofnormal"}
+-
+  id: "18"
+  name: "Jason"
+  surname: "Zurita"
+  company: "Warby Parker"
+  title: "iOS Software Engineer"
+  bio: |
+   Jason Zurita is a self-taught software engineer working on internal and external iOS apps at Warby Parker. Having begun his career as an Electrical Engineer, he understands the challenge in changing careers, which is what drives him to try and give back to the tech community (contributing to open source, teaching, blogging, giving talks, etc.).
+
+   He enjoys learning different tech stacks and how they can be put together to create new and interesting projects, the Swift language, tinkering with electronic projects, and going for a walk with his wife, son, and dog.
+  thumbnailUrl: JasonZurita.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jasonalexzurita"}
+    - {name: "linkedin", link: "http://linkedin.com/in/jasonzurita"}
+    - {name: "github", link: "https://github.com/jasonzurita"}
+    - {name: "site", link: "https://jasonzurita.com/blog"}
+
+-
+  id: "20"
+  name: "Leena"
+  surname: "Mansour"
+  company: "Pagerduty"
+  title: "Engineering Manager"
+  bio: |
+   Leena has been building iOS apps for 8 years and is now an Engineering Manager at Pagerduty where she does a lot more talking than development. She's passionate about inclusion, accessibility and helping people grow. When she's not at work, she's probably playing Call of Duty, playing dodgeball or playing with her dogs.
+  thumbnailUrl: LeenaMansour.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/_LeenaM"}
+    - {name: "github", link: "https://github.com/LeenaMansour"}
+
+
