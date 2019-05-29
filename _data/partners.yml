@@ -18,3 +18,4 @@
   group: "Allies"
   elements:
     - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "110px"}
+    - {name: "Zeplin", description: "Zeplin", link: "https://zeplin.io", imageUrl: "Zeplin.png", width: "110px"}
