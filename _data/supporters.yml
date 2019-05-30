@@ -14,10 +14,10 @@
     - {name: "Learn Swift {City}", description: "Learn Swift {City}", link: "https://swiftcoders.org/2017/03/07/learn-swift-la/", imageUrl: "LearnSwiftCity.png"}
     - {name: "MobileTea", description: "Mobile Tea", link: "http://mobiletea.net", imageUrl: "mobiletea.png"}
     - {name: "NSCoderNight", description: "NSCoderNight", link: "http://nscodernight.com", imageUrl: "NSCoderNight.png"}
-    - {name: "try! Swift NYC", description: "try! Swift NYC", link: "https://www.meetup.com/try_SwiftNYC", imageUrl: "tryswift.jpg"}
 -
   group: "General Supporters"
   elements:
+    - {name: "Swift Weekly Brief ", description: "Swift Weekly Brief ", link: "https://swiftweekly.github.io/", imageUrl: "SwiftWeekly.png"}
     - {name: "Big Nerd Ranch", description: "Big Nerd Ranch", link: "https://www.bignerdranch.com", imageUrl: "BigNerdRanch.svg"}
     - {name: "Manning Publications", description: "Manning Publications", link: "https://manning.com", imageUrl: "Manning.png"}
     - {name: "Ray Wenderlich", description: "Ray Wenderlich", link: "https://www.raywenderlich.com", imageUrl: "RayWenderlich.svg"}
