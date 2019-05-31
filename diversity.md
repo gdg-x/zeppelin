@@ -6,11 +6,11 @@ isStaticPost: true
 image: skate.jpg
 ---
 
-Diversity is essential to a successful SwiftFest Boston 2019. Everyone from volunteers to speakers to organizers have a shared goal of bringing people from underrepresented communities to SwiftFest Boston 2018. We hope to provide a great conference experience for everyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, national origin, ethnicity, religion (or lack thereof), or technological choices or experience.
+Diversity is essential to a successful SwiftFest Boston 2019. Everyone from volunteers to speakers to organizers have a shared goal of bringing people from underrepresented communities to SwiftFest Boston 2019. We hope to provide a great conference experience for everyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, national origin, ethnicity, religion (or lack thereof), or technological choices or experience.
 
-With the help of our generous sponsors SwiftFest Boston 2019 has resources to provide scholarships and stipends for travel-related expenses. If you are an aspiring SwiftFest Boston 2018 attendee requiring financial or logistical assistance then we want to hear from you! 
+With the help of our generous sponsors SwiftFest Boston 2019 has resources to provide scholarships and stipends for travel-related expenses. If you are an aspiring SwiftFest Boston 2019 attendee requiring financial or logistical assistance then we want to hear from you! 
 
-To apply for available resources please fill out this [SwiftFest Boston 2019 Diversity Initiative form](https://goo.gl/forms/3LoEhqhbW5RDDp4X2) to tell us about yourself and the assistance you require to attend SwiftFest Boston 2019. The form is simple and private to SwiftFest Boston 2018 organizers. We will accept submissions until May 31, 2019.
+To apply for available resources please fill out this [SwiftFest Boston 2019 Diversity Initiative form](https://goo.gl/forms/3LoEhqhbW5RDDp4X2) to tell us about yourself and the assistance you require to attend SwiftFest Boston 2019. The form is simple and private to SwiftFest Boston 2019 organizers. We will accept submissions until May 31, 2019.
 
 Some examples of our commitment to diversity and inclusiveness:
 
@@ -27,7 +27,7 @@ Interested in sponsoring SwiftFest Boston 2019 diversity attendees? Just visit o
 Thank you from SwiftFest Boston 2019!
 
 #### On-site Resources
-We are doing our best to accommodate all your needs. Here, you can find a list of the resources we are making available to offer everyone a pleasant SwiftFest Boston 2018.
+We are doing our best to accommodate all your needs. Here, you can find a list of the resources we are making available to offer everyone a pleasant SwiftFest Boston 2019.
 
 ##### Nursing Room
 We will be providing a private nursing room at this year’s event to aid in comfort and accessibility for our nursing attendees. The room will be available all days of the event and will be located on-site. For location information, please check with registration or information desk staff on-site.
