@@ -1,0 +1,8 @@
+diamond:
+  - {alt: "noesis", url: "https://static.wixstatic.com/media/928ecf_13b5abbf15274038959aa984e46dbcd4.png/v1/fill/w_328,h_72,al_c,q_80,usm_0.66_1.00_0.01/928ecf_13b5abbf15274038959aa984e46dbcd4.webp"}
+gold:
+  - {alt: "ca_technologies", url: "https://static.wixstatic.com/media/928ecf_31bb32e6f9b54bb58cf7239a4b3104de~mv2.png/v1/fill/w_136,h_117,al_c,q_80,usm_0.66_1.00_0.01/928ecf_31bb32e6f9b54bb58cf7239a4b3104de~mv2.webp"}
+  - {alt: "Hewlett Packard Enterprise", url: "https://static.wixstatic.com/media/928ecf_b328c8ae528e4a079cbb8d672cf7ad22.png/v1/fill/w_220,h_134,al_c,q_80,usm_0.66_1.00_0.01/928ecf_b328c8ae528e4a079cbb8d672cf7ad22.webp"}
+  - {alt: "WinTrust", url: "https://static.wixstatic.com/media/928ecf_1450ebdf5f304289aefe721a1efa3194.png/v1/fill/w_369,h_104,al_c,q_80,usm_0.66_1.00_0.01/928ecf_1450ebdf5f304289aefe721a1efa3194.webp"}
+silver:
+  - {alt: "NovaBase", url: "https://static.wixstatic.com/media/928ecf_a9f83e59e68a4cf782c8c4f61c262641.png/v1/fill/w_230,h_66,al_c,q_80,usm_0.66_1.00_0.01/928ecf_a9f83e59e68a4cf782c8c4f61c262641.webp"}

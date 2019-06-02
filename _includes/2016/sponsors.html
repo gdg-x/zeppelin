@@ -1,0 +1,35 @@
+<div class="container">
+    <div class="row">
+        <h1 style="color:#37B34A; font-size:22px; font-weight: bold">PATROCINADORES</h1>
+    </div>
+
+    <div class="row font_8 mt-2"
+        style="color:#405357;font-style:normal;font-weight:bold;font-size:22px;font-family:raleway,sans-serif;">
+        DIAMOND</div>
+    <div class="row justify-content-around mt-2">
+
+        {% for sponsor in site.data.y2016.sponsors.diamond %}
+        <div class="col"><img alt="{{sponsor.alt}}" src="{{sponsor.url}}"></div>
+        {% endfor %}
+    </div>
+
+    <div class="row font_8 mt-2"
+        style="color:#405357;font-style:normal;font-weight:bold;font-size:22px;font-family:raleway,sans-serif;">
+        GOLD</div>
+    <div class="row justify-content-around mt-2">
+        {% for sponsor in site.data.y2016.sponsors.gold %}
+        <div class="col"><img alt="{{sponsor.alt}}" src="{{sponsor.url}}"></div>
+        {% endfor %}
+    </div>
+
+    <div class="row font_8 mt-2"
+        style="color:#405357;font-style:normal;font-weight:bold;font-size:22px;font-family:raleway,sans-serif;">
+        SILVER</div>
+    <div class="row justify-content-around mt-2">
+
+        {% for sponsor in site.data.y2016.sponsors.silver %}
+        <div class="col"><img alt="{{sponsor.alt}}" src="{{sponsor.url}}"></div>
+        {% endfor %}
+    </div>
+</div>
+<hr>
