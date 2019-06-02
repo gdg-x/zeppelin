@@ -1,0 +1,18 @@
+<div class="container font_7">
+    <div class="col">
+        <h2 style="font-size:20px;" class="font_2">ORADORES</h2>
+
+        {% for speaker in site.data.y2015.speakers %}
+        <div class="mt-2">
+            <p class="font_7"><span style="font-weight:bold;">{{speaker.name}}<br></span>
+            <span style="font-size:15px;">{{speaker.role}}</span></p>
+            {% for description in speaker.bio %}
+            <p style="font-size:15px;">{{description}}</p>
+            {% endfor %}
+
+        </div>
+        {% endfor %}
+        <br>
+    </div>
+</div>
+<hr>

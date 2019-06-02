@@ -27,7 +27,7 @@
 }
 
 .font_8 {
-    font: normal normal normal 15px/1.4em raleway,sans-serif;
+    font: normal normal normal 15px/1.4em raleway, sans-serif;
     font-style: normal;
     font-variant-ligatures: normal;
     font-variant-caps: normal;
@@ -41,6 +41,16 @@
     color: #2F2F2F;
 }
 
+.font_7 {
+    font: normal normal normal 17px/1.4em raleway, sans-serif;
+    color: #2F2F2F;
+}
+
+.font_2 {
+    font: normal normal bold 40px/1.4em raleway,sans-serif;
+    color: #405357;
+}
+
 li {
     font: normal normal normal 15px/1.4em raleway,sans-serif;
     font-size: 15px;
@@ -48,7 +58,6 @@ li {
     font-family: raleway, sans-serif;
     color: #2F2F2F;
 }
-
 .footer a {
     color: #8b8b8b;
 }

@@ -1,0 +1,16 @@
+<div class="container font_7">
+    <div class="col">
+        <h2 style="font-size:20px;" class="font_2">AGENDA</h2>
+        {% for slot in site.data.y2015.schedule %}
+
+        <p style="font-size:15px;font-weight:bold;">{{slot.time}} |&nbsp;{{slot.title}}</p>
+        {% for item in slot.description %}
+        <p style="font-size:15px;">{{item}}</p>
+        {% endfor %}
+
+
+        {% endfor %}
+    </div>
+</div>
+
+<hr>

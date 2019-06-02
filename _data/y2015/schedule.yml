@@ -1,0 +1,129 @@
+-
+  time: "08:30"
+  title: "Recepção dos convidados"
+-
+  time: "09:30"
+  title: "ABERTURA E ISTQB AWARD 2015"
+  description:
+    - "Filipe Carlos, Presidente, PSTQB – Associação Portuguesa de Testes de Software"
+-
+  time: "09:45"
+  title: "QUALITY CHALLENGES IN DIGITALIZED WORLD – TESTING IS NEEDED"
+  description:
+    - "The world is more and more digitalized. There is the revolution of user experience including different mobile devices for connecting to internet. There is the changing business with more and more of the business becoming electronic, based on web services and automatic information sharing between different systems. Most recently there is the Internet of Things / Everything, connecting almost all industries into each other and/or their backend-systems."
+    - "All the interconnectedness and increased demand on speed and ease-of-use suggests additional quality challenges. How can we ensure fast enough, secure and user-friendly information systems?"
+    - "My opinion is that security testing, usability testing and performance testing become a greater focus. Additionally the way of creating software needs to become very quick and tuned to the feedback from user base. This means agile practices on both team level and organization level, DevOps, test automation, exploratory testing and broad competences on testing, software development, business domain knowledge and production environments. We need to be able to try easy and use that information to develop our software further."
+    - "We all experience the changing world, where software takes a bigger role. The quality needs are understood on grass root level, in the lives of each of us, and we try different methodologies and tools to see which will solve the new quality."
+    - "Keynote speaker – Kari Kakkonen, Chair of Finnish Software Testing Board"
+-
+  time: "10:30"
+  title: "QUALIDADE: CUSTO OU VALOR?"
+  description:
+    - "Num contexto de negócio volátil, a necessidade de adaptação e mudança são constantes."
+    - "Como podemos então demonstrar o valor da Qualidade no desenvolvimento de software, de forma a:"
+    - "<ul>
+    <li>alinhar os objectivos estrategicos com a necessidade de investimento na Qualidade;</li>
+    <li>efectuar uma transição sustentada para uma nova abordagem e paradigma que permita medir ganhos de produtividade e reduzir custos;</li>
+    <li>preparar a transição da Organizacao para uma cultura orientada ao Risco;</li>
+    <li>incorporar uma pratica de desenvolvimento de software que assegure: 'Continuous Delivery with Continuous Quality and Continuous Integration';</li>
+    </ul>"
+    - "O objetivo fundamental desta sessão é apresentar uma abordagem metodológica para a construção de uma Framework de Valor da Qualidade."
+    - "Luís Alvim, Service Manager na área de Quality Assurance, Noesis"
+-
+  time: "11:00"
+  title: "NEED FOR SPEED: HOW TO ENABLE YOUR QA TEAMS IN A DEVOPS WORLD"
+  description:
+    - "Businesses today must act with speed and agility, and in software development, this has fueled the rise of Agile methodologies, which embraces a continuous delivery process."
+    - "For software testing, this means developers and testers seek to 'shift left,' and continuously test their applications much earlier in the application development lifecycle. But in today’s distributed environments ensuring continuity is a challenge."
+    - "Join us and discover how HP can help your QA teams to remove their impediments in their way to DevOps adoption."
+    - "Miguel Rial, Business Development Manager – Software Southern Europe, Hewlett Packard Enterprise"
+-
+  time: "11:20"
+  title: "Coffee break"
+-
+  time: "11:50"
+  title: "OUR JOURNEY TO 'CLOUD CADENCE' – HOW MICROSOFT’S PRODUCT DEVELOPMENT PROCESS HAD TO CHANGE IN THE AGILE ERA"
+  description:
+    - "Start with a waterfallian, hierarchical, shrink-wrap software behemoth called Microsoft and grind it through product development practice modernization until it wakes up to the new Agile world. Add experimentation, embrace Open Source principles, change to a data-driven culture, and break up job roles and responsibilities. Stumble along the way, make mistakes, learn and measure as you go. Maybe you end up with a service that accumulates a few million users. This is the story of our journey to DevOps."
+    - "Michael Köster, Sr. Product Marketing Manager, Visual Studio, ALM & DevOps, Microsoft"
+-
+  time: "12:10"
+  title: "COMO O TESTING SUPORTA A SUA ESTRATÉGIA DE IMPLEMENTAÇÃO MULTICANAL?"
+  description:
+    - "A estratégia multicanal de uma empresa é chave para a sua transformação digital. Cada vez mais os utilizadores estão habituados a utilizar dispositivos móveis de forma constante para a realização de micro interacções através de apps ou sites. A estratégia de Testes deve garantir que todos os canais usados pelos utilizadores estão suficientemente testados para evitar que o benefício do imediatismo dado pelo multicanal represente um risco para a empresa."
+    - "Carlos Gutiérrez, Director Solutions Consulting, Borland EMEA – Micro Focus"
+-
+  time: "12:30"
+  title: "PAINEL DEBATE THE ROLE OF QUALITY ASSURANCE AND TESTING IN DIGITAL TRANSFORMATION – SHARING EXPERIENCES"
+  description:
+    - "A Área de Testes acompanha a Indústria de Software na evolução e adaptação aos novos paradigmas, apelidados de 3ª plataforma tecnológica. Este novo paradigma tira partido dos conceitos 'Cloud', 'Mobile', 'Big Data' e 'Social Networks'."
+    - "Convidados:"
+    - "<ul>
+    <li>Luis Desport, Software Delivery and Quality Manager, Farfetch</li>
+    <li>Kaspar Loog, Founder of Browserbite</li>
+    <li>Richard Knight, Principal Consultant, TSG – Testing Solutions Group</li>
+    <li>Moderação – Gabriel Coimbra, Country Manager, IDC Portugal</li>
+    </ul>"
+-
+  time: "13:20"
+  title: "Almoço"
+-
+  time: "14:30"
+  title: "TESTER’S TIRED EYES"
+  description:
+    - "Layout testing has been historically considered to be something that cannot be automated. We will have a look on how this can be done and has been done in cross-browser compatibility area. Secondly, we’ll take a look to research results that compare the available methods to “the average tester”. We will show how high is the actual detection rate in manual/exploratory testing and how well do available automated methods compare?"
+    - "Keynote speaker – Kaspar Loog, Founder of Browserbite"
+-
+  time: "15:05"
+  title: "DIGITAL TRANSFORMATION AND THE FUTURE OF QA & TESTING"
+  description:
+    - "Using the findings from this year’s World Quality Report (World’s largest independent research survey on the status of QA & Testing across the globe and by industry) Mark will discuss the increased needs and demands on Quality Assurance today related to the disruptive change of Digital Transformation; he will also talk about the challenges organisations face with adapting the QA operation to these new demands."
+    - "The take away for participants will be practical recommendations to ponder, discuss and potentially implement within their respective organisations. He will also introduce the free benchmarking site to the audience and ask “How do you compare?” against the data set from 1560 people that were interviewed in the World Quality Report."
+    - "Mark Buenen, VP Global Service Line Testing, MTS Sales&Solutioning, Capgemini"
+-
+  time: "15:25"
+  title: "CONTINUOUS AUTOMATION"
+  description:
+    - "Cristiano Cunha, Test Lead para a área de automação, Farfetch"
+-
+  time: "15:45"
+  title: "CROSS INDEPENDENT TESTING TOOL"
+  description:
+    - "<ul>
+    <li>Pedro Oliveira, Principal Consultant Testing and Quality Assurance, WinTrust</li>
+    <li>Bruno Patriota, IT Consultant, WinTrust</li>
+    </ul>"
+-
+  time: "16:05"
+  title: "Coffee break"
+-
+  time: "16:30"
+  title: "Sorteio de um Apple Watch / Entrega de Prémios"
+-
+  time: "16:40"
+  title: "TESTES AO CONSUMO ENERGÉTICO DE SISTEMAS DE INFORMAÇÃO"
+  description:
+    - "Paulo Matos, Senior Consultant, WinTrust"
+-
+  time: "17:00"
+  title: "SOA TEST ACCELERATOR"
+  description:
+    - "<ul>
+    <li>Paulo Albuquerque, Principal, WinTrust</li>
+    <li>Leonor Bento, Consultant, WinTrust </li>
+    </ul>"
+-
+  time: "17:20"
+  title: "TESTES DE SOFTWARE NA NORMA ISO/IEC 25051"
+  description:
+    - "Joana Vilas Boas, Instituto Politécnico do Cávado e Ave"
+-
+  time: "17:40"
+  title: "SHARING EXPERIENCE IN QA & TESTING"
+  description:
+    - "Keynote speaker – Richard Knight, Principal Consultant, TSG – Testing Solutions Group"
+-
+  time: "18:15"
+  title: "Encerramento"
+  description:
+    - "Patrícia Alves, Vice-Presidente, PSTQB – Associação Portuguesa de Testes de Software"
