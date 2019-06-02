@@ -6,6 +6,7 @@ socialImage: "/2019/img/seo/sharing.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/call-for-speakers", text: "Call for Speakers"}
  #- {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Oradores"}
  #- {permalink: "/workshops/", text: "Workshops"}
@@ -30,3 +31,5 @@ aboutBlock:
       text: ["Na semana anterior à conferência não perca a formação ISTQB."
       #,"<strong><a href='/course/' | prepend: baseurl>Não perca os últimos lugares!</a></strong>"
       ]}
+
+privacyPolicy: {link: "https://www.pstqb.pt/politicaprivacidade", text: "Política de Privacidade" } 
