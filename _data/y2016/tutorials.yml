@@ -1,0 +1,29 @@
+-
+  name: "ISABEL EVANS"
+  img: "https://static.wixstatic.com/media/928ecf_c453a7d58d234896a3b593c7e36433cd~mv2.png/v1/fill/w_166,h_222,al_c,q_80,usm_0.66_1.00_0.01/928ecf_c453a7d58d234896a3b593c7e36433cd~mv2.webp"
+  bio: 
+    - "Independent quality and testing consultant Isabel Evans has more than thirty years of IT experience in quality management and testing in the financial, communications, and software sectors. Her quality management work focuses on encouraging IT teams and customers to work together via flexible processes designed and tailored by the teams that use them. Isabel authored Achieving Software Quality Through Teamwork and chapters in Agile Testing: How to Succeed in an eXtreme Testing Environment."
+  title: "Quality in use: the beating heart of the user experience"
+  description: 
+    - "In today’s business environment, the user experience and the commercial imperatives have become overwhelmingly important. As testers it is vital that we understand quality in use and the user experience, in order that we focus our tests correctly."
+    - "'Quality in use' measures human, business and societal impacts of products (usability, accessibility, flexibility, commercial, safety). This builds to a User Experience (UX) and are underpinned by technical and engineering qualities. For the people selling, supporting or using the products, this is the beating heart of the customer experience. Without these 'big picture' attributes, delivered software will not be acceptable, may result in reduced profits, and may not be legal. In the tutorial, Isabel will use examples from real projects to discuss how to design tests derived from the user personas, contexts of use, and acceptance criteria."
+    - "Participants will learn:"
+    - "<ul>
+    <li>To distinguish the layers of quality that must be designed and built into products, and tested;</li>
+    <li>How to understand and meet the context of use for each customer persona, from the internal quality through quality in use, to the user experience;</li>
+    <li>How to focus testing on customers, end users and the business;</li>
+    <li>How to select attributes from each layer of the user experience pyramid to track and measure during testing;</li>
+    <li>How to agree acceptance criteria for testing internal quality, quality in use and the user experience.</li>
+    </ul>"
+-
+  name: "SERETTA GAMBA & DOROTHY GRAHAM"
+  img: "https://static.wixstatic.com/media/928ecf_01ac2a80dabb4ecca23eeb10c423ba9a~mv2.jpg/v1/fill/w_190,h_144,al_c,q_80,usm_0.66_1.00_0.01/928ecf_01ac2a80dabb4ecca23eeb10c423ba9a~mv2.webp"
+  bio:
+    - "Seretta Gamba has more than 30 years experience in software development and testing. As test manager at Steria Mummert ISS GmbH she was charged in 2001 with the improvement of the test automation process. After studying the current strategies, she developed Command-Driven Testing and a supporting framework, which she presented at EuroSTAR 2005. At EuroSTAR 2009 she presented an enhancement to the framework that enabled the test automation team to “harvest” test case information by supporting manual testing. A description of this experience became Chapter 21 in the book “Experiences of Test Automation” by Dorothy Graham and Mark Fewster. In 2012 she started writing a book about Test Automation Patterns, which she is now working on along with Dorothy Graham on a wiki of Test Automation Patterns."
+    - "Dorothy Graham has been in software testing for over 40 years, and is co-author of 4 books: Software Inspection, Software Test Automation, Foundations of Software Testing and Experiences of Test Automation. She is currently working on the Test Automation Patterns wiki and a new book with Seretta Gamba. Dot was programme chair for EuroSTAR in 1993 and 2009, and has been attending STAR conferences since 1992. She has been on the boards of conferences and publications in software testing, was a founder member of the ISEB Software Testing Board and was a member of the working party that developed the ISTQB Foundation Syllabus. She was awarded the European Excellence Award in Software Testing in 1999 and the first ISTQB Excellence Award in 2012."
+    - "IMPORTANT NOTICE: Laptops required."
+  title: "Test Automation Patterns"
+  description: 
+    - "There are many problems in automating system level test execution. The surprising thing is that many people encounter the same problems, yet they are not aware of common solutions that have worked well for others – these are 'patterns'."
+    - "Seretta Gamba recognized the commonality of these test automation issues and their solutions and, together with Dorothy Graham, has organized them into Test Automation Patterns. Although unit test patterns are known elsewhere, our patterns address more general issues."
+    - "We cover management, process, design and execution patterns to help you recognize common test automation issues and show you how to identify appropriate patterns to solve the problems. Issues such as NO PREVIOUS AUTOMATION,UNREALISTIC EXPECTATIONS, HIGH ROI EXPECTATIONS, or HIGH TEST MAINTENANCE COSTINADEQUATE SUPPORT, HIGH ROI EXPECTATIONS, INADEQUATE DOCUMENTATION, RANDOM AUTOMATION and TOOL DEPENDENCY are addressed by the patterns such as MAINTAINABLE TESTWARE, TOOL INDEPENDENCE and MANAGEMENT SUPPORTshown below. Bring your laptop to gain access to the wiki during the tutorial."

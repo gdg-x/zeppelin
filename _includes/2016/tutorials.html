@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="row">
+        <h1 style="color:#37B34A; font-size:22px; font-weight: bold">TUTORIALS</h1>
+    </div>
+    {% for tutorial in site.data.y2016.tutorials %}
+    <div class="row mt-2">
+        <div class="col-2 mr-4">
+            <img src="{{tutorial.img}}">
+        </div>
+        <div class="col">
+            <p class="font_8"
+                style="color:#405357;font-style:normal;font-weight:bold;font-size:22px;font-family:raleway,sans-serif;">
+                {{tutorial.name}}</p>
+            <p class="font_8" style="font-weight:bold;">BIOGRAFIA</p>
+            {% for bio in tutorial.bio %}
+            <p class="font_8" style="text-align:justify;">{{bio}}</p>
+            {% endfor %}
+            <p class="font_8" style="font-weight:bold;">TÍTULO</p>
+            <p class="font_8" style="text-align:justify;">{{tutorial.title}}</p>
+            {% for description in tutorial.description %}
+            <p class="font_8" style="text-align:justify;">{{description}}</p>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+    <br>
+</div>
