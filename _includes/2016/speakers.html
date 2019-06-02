@@ -1,0 +1,45 @@
+<div class="container">
+    <div class="row">
+        <h1 style="color:#37B34A; font-size:22px; font-weight: bold">KEYNOTE SPEAKERS</h1>
+    </div>
+    {% for speaker in site.data.y2016.keynoteSpeakers %}
+    <div class="row mt-2">
+        <div class="col-2">
+
+            <img
+                src="{{speaker.img}}">
+        </div>
+        <div class="col">
+            <p class="font_8"><span style="color:#37B34A;font-weight:bold;">{{speaker.name}}</span><br />
+                <span style="font-weight:bold;">{{speaker.role}}</span></p>
+            {% for description in speaker.bio %}
+            <p class="font_8" style="text-align:justify;">{{description}}</p>
+            {% endfor %}
+
+        </div>
+    </div>
+    {% endfor %}
+    <br>
+
+    <div class="row">
+        <h1 style="color:#37B34A; font-size:22px; font-weight: bold">ORADORES</h1>
+    </div>
+    {% for speaker in site.data.y2016.speakers %}
+    <div class="row mt-2">
+        <div class="col-2">
+
+            <img
+                src="{{speaker.img}}">
+        </div>
+        <div class="col">
+            <p class="font_8"><span style="color:#37B34A;font-weight:bold;">{{speaker.name}}</span><br />
+                <span style="font-weight:bold;">{{speaker.role}}</span></p>
+            {% for description in speaker.bio %}
+            <p class="font_8" style="text-align:justify;">{{description}}</p>
+            {% endfor %}
+
+        </div>
+    </div>
+    {% endfor %}
+    <br>
+</div>
