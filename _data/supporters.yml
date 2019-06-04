@@ -8,7 +8,7 @@
 -
   group: "Meetups"
   elements:
-    - {name: "CocoaHeads", description: "CocoaHeads", link: "http://cocoaheads.org", imageUrl: "CocoaHeads.png"}
+    - {name: "CocoaHeads Boston", description: "CocoaHeads Boston", link: "https://www.meetup.com/cocoaheads-boston/", imageUrl: "CocoaHeads.png"}
     - {name: "Boston MacTechGroup", description: "Boston MacTechGroup", link: "http://www.mactechgroup.org/", imageUrl: "MacTechGroup.png"}
     - {name: "Brooklyn Swift Developers", description: "Brooklyn Swift Developers", link: "https://www.meetup.com/Brooklyn-Swift-Developers/", imageUrl: "brooklynswiftdevs.png"}
     - {name: "iOSoho", description: "iOSoho", link: "https://www.meetup.com/iOSoho/", imageUrl: "iosoho.png"}
