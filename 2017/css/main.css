@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Raleway Italic'), local('Raleway-Italic'), url(https://fonts.gstatic.com/s/raleway/v13/1Ptsg8zYS_SKggPNyCgISg.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Raleway Bold Italic'), local('Raleway-BoldItalic'), url(https://fonts.gstatic.com/s/raleway/v13/1Ptpg8zYS_SKggPNyCgw9qRPBQ.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v13/1Ptug8zYS_SKggPN-Co.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Raleway Bold'), local('Raleway-Bold'), url(https://fonts.gstatic.com/s/raleway/v13/1Ptrg8zYS_SKggPNwJYtaqE.ttf) format('truetype');
+}
+
+.font_8 {
+    font: normal normal normal 15px/1.4em raleway,sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 15px;
+    line-height: 1.4em;
+    font-family: raleway, sans-serif;
+    color: #2F2F2F;
+}
+
+li {
+    font: normal normal normal 15px/1.4em raleway,sans-serif;
+    font-size: 15px;
+    line-height: 1.4em;
+    font-family: raleway, sans-serif;
+    color: #2F2F2F;
+}
+
+.footer a {
+    color: #8b8b8b;
+}
+
+.centered-top {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.text-over-image {
+    color: white;
+    text-shadow: 2px 2px black
+}
+
+.schedule-time {
+    color: #01344D;
+    font-size: 45px;
+    line-height: 1.2em;
+    text-align: center;
+}
+
+.schedule-session {
+    color: rgb(67, 131, 61);
+    font-weight: bold;
+    margin: 0;
+}
+
+.schedule-speaker-name {
+    color: rgb(1, 52, 77);
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    margin: 0;
+    padding: 0;
+}
+
+.schedule-speaker-role {
+    margin: 0;
+    padding: 0;
+    letter-spacing: 0.05em;
+    color: #01344D;
+    font-size: 12px;
+    line-height: 1.3em;
+}
+
+.schedule-presentation {
+    color: #FF8000;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}

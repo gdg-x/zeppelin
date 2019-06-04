@@ -1,0 +1,64 @@
+<div class="container">
+    <h1 class="text-center">AGENDA</h1>
+    <div class="row">
+        {% assign slots=site.data.y2017.schedule %}
+        {% assign slotsSize=slots | size %}
+        {% assign halfSlots=slotsSize | divided_by: 2 %}
+        <div class="col-6">
+            {% for slot in slots limit:halfSlots %}
+            <div class="row">
+                <div class="col-4">
+                    <h4 class="schedule-time">{{slot.time}}</h4>
+                </div>
+                <div class="col">
+                    {% if slot.session %}
+                    <p class="schedule-session">{{slot.session}}</p>
+                    {% endif %}
+                    {% if slot.speakers %}
+                    {% for speaker in slot.speakers %}
+                    <p class="schedule-speaker-name">{{speaker.name}}</p>
+                    <p class="schedule-speaker-role">{{speaker.role}}</p>
+                    {% endfor %}
+                    {% endif %}
+                    <p class="schedule-title">{{slot.title}}</p>
+                    {% if slot.presentation %}
+                    <p><a class="schedule-presentation" href="{{slot.presentation | prepend: site.data.y2017.conf.baseurl}}">APRESENTAÇÃO</a></p>
+                    {% endif %}
+
+                </div>
+            </div>
+
+            {% endfor %}
+        </div>
+        <div class="col-6">
+
+            {% for slot in slots offset:halfSlots %}
+            <div class="row">
+                    <div class="col-4">
+                        <h4 class="schedule-time">{{slot.time}}</h4>
+                    </div>
+                    <div class="col">
+                        {% if slot.session %}
+                        <p class="schedule-session">{{slot.session}}</p>
+                        {% endif %}
+                        {% if slot.speakers %}
+                        {% for speaker in slot.speakers %}
+                        <p class="schedule-speaker-name">{{speaker.name}}</p>
+                        <p class="schedule-speaker-role">{{speaker.role}}</p>
+                        {% endfor %}
+                        {% endif %}
+                        <p class="schedule-title">{{slot.title}}</p>
+                        {% if slot.presentation %}
+                        <p><a class="schedule-presentation" href="{{slot.presentation | prepend: site.data.y2017.conf.baseurl}}">APRESENTAÇÃO</a></p>
+                        {% endif %}
+    
+                    </div>
+                </div>
+
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
+
+<hr>

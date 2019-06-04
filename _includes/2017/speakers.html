@@ -1,0 +1,19 @@
+<div class="container">
+    <h1 class="text-center">Keynote Speakers</h1>
+    <div class="card-deck">
+        {% for speaker in site.data.y2017.speakers %}
+
+        <div class="card bg-dark text-white">
+            <a href="{{speaker.link}}">
+                <img class="card-img" src="{{speaker.img | prepend: site.data.y2017.conf.baseurl}}" alt="{{speaker.name}}">
+                <div class="card-img-overlay">
+                    <h2 class="card-title text-center text-over-image" >{{speaker.name}}</h2>
+                </div>
+            </a>
+        </div>
+
+        {% endfor %}
+    </div>
+    <br>
+</div>
+<hr>

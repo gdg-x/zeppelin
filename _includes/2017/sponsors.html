@@ -1,0 +1,38 @@
+<div class="container">
+
+    <h1 class="text-center">PATROCINADORES</h1>
+
+
+    <div class="row font_8 mb-4"
+        style="color:#405357;font-style:normal;font-weight:bold;font-size:22px;font-family:raleway,sans-serif;">
+        DIAMOND</div>
+    <div class="row justify-content-around mb-4">
+
+        {% for sponsor in site.data.y2017.sponsors.diamond %}
+        <div class="col"><a href="{{sponsor.link}}"><img alt="{{sponsor.alt}}"
+                    src="{{sponsor.img | prepend: site.data.y2017.conf.baseurl}}"></a></div>
+        {% endfor %}
+    </div>
+
+    <div class="row font_8 mb-4"
+        style="color:#405357;font-style:normal;font-weight:bold;font-size:22px;font-family:raleway,sans-serif;">
+        GOLD</div>
+    <div class="row justify-content-around mb-4">
+        {% for sponsor in site.data.y2017.sponsors.gold %}
+        <div class="col"><a href="{{sponsor.link}}"><img alt="{{sponsor.alt}}"
+                    src="{{sponsor.img | prepend: site.data.y2017.conf.baseurl}}"></a></div>
+        {% endfor %}
+    </div>
+
+    <div class="row font_8 mb-4"
+        style="color:#405357;font-style:normal;font-weight:bold;font-size:22px;font-family:raleway,sans-serif;">
+        SILVER</div>
+    <div class="row justify-content-around mb-4">
+
+        {% for sponsor in site.data.y2017.sponsors.silver %}
+        <div class="col"><a href="{{sponsor.link}}"><img alt="{{sponsor.alt}}"
+                    src="{{sponsor.img | prepend: site.data.y2017.conf.baseurl}}"></a></div>
+        {% endfor %}
+    </div>
+</div>
+<hr>

@@ -1,0 +1,95 @@
+-
+  time: "09:30"
+  session: "Abertura"
+  speakers:
+    - {name: "Patrícia Raquel Alves", role: "Presidente da Direção da PSTQB"}
+-
+  time: "10:00"
+  session: "Keynote Speaker"
+  speakers:
+    - {name: "Ard Kramer", role: "Senior Consultant, Speaker and Trainer at ALTEN"}
+  title: "Test flow: improve yourself with mental training"
+  presentation: "/presentations/ardkramer.pdf"
+-
+  time: "10:45"
+  session: "Patrocinador Diamond"
+  speakers:
+    - {name: "Tiago Honorato", role: "QM Manager at Noesis"}
+    - {name: "António Barros", role: "Product Manager at OutSystems"}
+  title: "No-code Test Automation - New Trends"
+  presentation: "/presentations/nocodetests.pdf"
+-
+  time: "11:15"
+  title: "Coffee Break"
+
+-
+  time: "11:45"
+  session: "Patrocinador Gold"
+  speakers:
+    - {name: "Miguel Rial", role: "Business Consultant, Micro Focus"}
+  title: "New test automation approaches: from legacy to cloud"
+  presentation: "/presentations/new_test_automation_approaches.pdf"
+-
+  time: "12:10"
+  session: "Patrocinador Gold"
+  speakers:
+    - {name: "Sérgio Freire", role: "Product Manager at Xpand IT"}
+  title: "The story behind the creation and rise of Xray, a prominent Test Management App for Jira."
+  presentation: "/presentations/xray.pdf"
+-
+  time: "12:35"
+  session: "Keynote Speaker"
+  speakers:
+    - {name: "Clive Bates", role: "Managing Consultant and Lead TMMi Assessor at Experimentus"}
+  title: "What can TMMi do for me?"
+  presentation: "/presentations/tmmi.pdf"
+-
+  time: "13:15"
+  title: "Almoço"
+-
+  time: "14:45"
+  session: "Keynote Speaker"
+  speakers:
+    - {name: "Maaret Pyhäjärvi", role: "Lead Quality Engineer at F-Secure"}
+  title: "Making Teams Awesome"
+  presentation: "/presentations/make_teams_awesome.pdf"
+-
+  time: "15:15"
+  session: "Call for Speakers"
+  speakers:
+    - {name: "Filipe Nuno Carlos", role: "Managing Partner at WinTrust"}
+  title: "DevOps: How to Address Test Data?"
+  presentation: "/presentations/devops.pdf"
+-
+  time: "15:35"
+  session: "Call for Speakers"
+  speakers:
+    - {name: "Bernardo Marques", role: "Software Engineer in Test at Feedzai"}
+    - {name: "João Valença", role: "Software Engineer in Test at Feedzai"}
+  title: "Planning for Failure @Feedzai"
+  presentation: "/presentations/planning_for_failure.pdf"
+-
+  time: "15:55"
+  title: "Coffee Break"
+-
+  time: "16:25"
+  session: "Call for Speakers"
+  speakers:
+    - {name: "Ana Paiva", role: "Professora Auxiliar, FEUP"}
+  title: "Teste Automático de Processos de Negócio"
+  presentation: "/presentations/etap_pro.pdf"
+-
+  time: "16:45"
+  title: "Sorteio"
+-
+  time: "17:05"
+  session: "Keynote Speakers"
+  speakers:
+    - {name: "Baris Sarialioglu", role: "Managing Partner, Consultant & Trainer"}
+  title: "Mobile Test Automation and The Survival Tips that Actually Work"
+  presentation: "/presentations/mobile_test_automation.pdf"
+-
+  time: "17:35"
+  session: "Encerramento"
+  speakers:
+    - {name: "Joel Oliveira", role: "Vice-Presidente da Direção da PSTQB"}

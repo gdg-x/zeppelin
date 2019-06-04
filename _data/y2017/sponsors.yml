@@ -1,0 +1,8 @@
+diamond:
+  - {alt: "Noesis", img: "/img/sponsors/noesis.webp", link: "https://www.noesis.pt/"}
+gold:
+  - {alt: "Micro Focus", img: "/img/sponsors/microfocus.webp", link: "https://www.microfocus.com/pt-br/home"}
+  - {alt: "XpandIT", img: "/img/sponsors/xpandit.webp", link: "https://www.xpand-it.com/pt-pt/"}
+silver:
+  - {alt: "WinTrust", img: "/img/sponsors/wintrust.webp", link: "https://qualityassurance.innowave.tech/"}
+  - {alt: "InnoWave Technologies", img: "/img/sponsors/innowave.webp", link: "https://innowave.tech/"}
