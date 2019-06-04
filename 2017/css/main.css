@@ -53,11 +53,11 @@ li {
     color: #8b8b8b;
 }
 
-.centered-top {
-    position: absolute;
-    top: 25%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.hero-text {
+    position: relative;
+    width: 100%;
+    filter: drop-shadow(2px 1px 1px #000);
+    transform: translate(0, -450%);
   }
 
 .text-over-image {
