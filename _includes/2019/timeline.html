@@ -1,0 +1,20 @@
+<section id="timeline">
+    <div class="container" id="previousConferences">
+        <h4 class="mb-5">{{ site.data.y2019.conf.timelineTitle }}</h4>
+        <div class="card-deck">
+            {% for conference in site.archiveLinks %}
+
+            <div class="card bg-dark text-white">
+                <a href="{{conference.permalink}}">
+                    <img class="card-img" src="{{conference.img | prepend: site.data.y2019.conf.baseurl}}" alt="{{conference.text}}">
+                    <div class="card-img-overlay">
+                        <p class="card-title">Testing Portugal {{conference.text}}</p>
+                    </div>
+                </a>
+            </div>
+
+            {% endfor %}
+        </div>
+
+    </div>
+</section>

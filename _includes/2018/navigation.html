@@ -11,32 +11,26 @@
         <ul>
             {% for navigationLink in site.data.y2018.conf.navigationLinks %}
             <li>
-                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.data.y2018.conf.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"
+                    href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.data.y2018.conf.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}"
+                    {% if navigationLink.link != null %}target="_blank" {% endif %}>{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
-            <li class="dropdown">
-                <a class="dropdown-toggle"
-                    data-toggle="dropdown"
-                    href="#">
-                    {{ site.archiveText }}
-                    <b class="caret"></b>
-                    </a>
-                <ul class="dropdown-menu">
-                    {% for archiveLink in site.archiveLinks %}
-                    <li><a tabindex="-1" href="{{ archiveLink.permalink }}">{{ archiveLink.text }}</a></li>
-                    {% endfor %}
-                </ul>
-            </li>
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
             {% for bottomNavigationLink in site.data.y2018.conf.bottomNavigationLinks %}
             <li>
-                <a {%if bottomNavigationLink.disabled %} class="disabled" href="#" {% else %} href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.data.y2018.conf.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}{% endif %}>{{ bottomNavigationLink.text }}</a>
+                <a {%if bottomNavigationLink.disabled %} class="disabled" href="#" {% else %}
+                    href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.data.y2018.conf.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}"
+                    {% if bottomNavigationLink.link != null %}target="_blank"
+                    {% endif %}{% endif %}>{{ bottomNavigationLink.text }}</a>
             </li>
             {% endfor %}
         </ul>
         {% for rightNavigationButton in site.rightNavigationButtons %}
-        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.data.y2018.conf.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm hidden-md {% if rightNavigationButton.disabled %} disabled {% endif %}" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.data.y2018.conf.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}"
+            class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm hidden-md {% if rightNavigationButton.disabled %} disabled {% endif %}"
+            {% if rightNavigationButton.link != null %}target="_blank" {% endif %}>
             {{ rightNavigationButton.text }}
         </a>
         {% endfor %}

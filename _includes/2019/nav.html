@@ -13,17 +13,6 @@
           href="{{ navigationLink.permalink | prepend: site.data.y2019.conf.baseurl }}">{{ navigationLink.text }}</a>
       </li>
       {% endfor %}
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"
-          aria-haspopup="true" aria-expanded="false">
-          {{ site.archiveText }}
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          {% for archiveLink in site.archiveLinks %}
-          <a class="dropdown-item" href="{{ archiveLink.permalink }}">{{ archiveLink.text }}</a>
-          {% endfor %}
-        </div>
-      </li>
     </ul>
   </div>
 </nav>

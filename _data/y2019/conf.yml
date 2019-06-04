@@ -7,6 +7,7 @@ socialImage: "/2019/img/seo/sharing.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/call-for-speakers", text: "Call for Speakers"}
+ - {permalink: "#timeline", text: "Conferências Anteriores"}
  #- {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Oradores"}
  #- {permalink: "/workshops/", text: "Workshops"}
@@ -31,5 +32,7 @@ aboutBlock:
       text: ["Na semana anterior à conferência não perca a formação ISTQB."
       #,"<strong><a href='/course/' | prepend: baseurl>Não perca os últimos lugares!</a></strong>"
       ]}
+
+timelineTitle: "Conferências Anteriores"
 
 privacyPolicy: {link: "https://www.pstqb.pt/politicaprivacidade", text: "Política de Privacidade" } 
