@@ -7,7 +7,7 @@
         <div class="col-6">
             {% for slot in slots limit:halfSlots %}
             <div class="row">
-                <div class="col-4">
+                <div class="col-md-4">
                     <h4 class="schedule-time">{{slot.time}}</h4>
                 </div>
                 <div class="col">
@@ -34,7 +34,7 @@
 
             {% for slot in slots offset:halfSlots %}
             <div class="row">
-                    <div class="col-4">
+                    <div class="col-md-4">
                         <h4 class="schedule-time">{{slot.time}}</h4>
                     </div>
                     <div class="col">

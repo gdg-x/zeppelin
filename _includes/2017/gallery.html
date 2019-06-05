@@ -1,25 +1,15 @@
 <div class="container">
-    <div class="row">
-        <h1 style="color:#37B34A; font-size:22px; font-weight: bold">GALERIA</h1>
-    </div>
+    <h1 class="text-center">GALERIA</h1>
+    <div class="text-center">
+        <a style="cursor: pointer; width: 496px; height: 588px;"
+            href="https://www.facebook.com/media/set/?set=a.715577108652682.1073741845.410110829199313&amp;type=1&amp;l=a9d50ee9e7"
+            target="_blank"
+            data-content="https://www.facebook.com/media/set/?set=a.715577108652682.1073741845.410110829199313&amp;type=1&amp;l=a9d50ee9e7"
+            data-type="external" rel="nofollow" id="comp-jb20g6arlink" class="ca1link">
+            <img alt="gallery image" src="{{'/img/gallery_thumbnail.webp' | prepend: site.data.y2017.conf.baseurl}}">
 
-    <div id="carousel" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-            {% for image in site.data.y2017.gallery %}
-            <div class="carousel-item {% if site.data.y2017.gallery.first == image %} active {% endif %}">
-                <img src="{{image}}" class="d-block w-100" alt="...">
-            </div>
-            {% endfor %}
-
-        </div>
-        <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
         </a>
     </div>
+
 </div>
 <hr>
