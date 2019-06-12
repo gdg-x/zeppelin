@@ -238,7 +238,6 @@
     - {name: "linkedin", link: "http://linkedin.com/in/jasonzurita"}
     - {name: "github", link: "https://github.com/jasonzurita"}
     - {name: "site", link: "https://jasonzurita.com/blog"}
-
 -
   id: "20"
   name: "Leena"
@@ -252,5 +251,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/_LeenaM"}
     - {name: "github", link: "https://github.com/LeenaMansour"}
-
-
+-
+  id: "20"
+  name: "Namrata"
+  surname: "Bandekar"
+  company: "Ray Wenderlich"
+  title: "iOS Software Engineer"
+  bio: |
+   Namrata has been building mobile apps for seven years. She is a member of the Ray Wenderlich Tutorial Team and the co-author of ARKit by Tutorials. Apart from making apps, she is passionate about travelling, scuba diving and hiking with her dog.
+  thumbnailUrl: NarataBandekar.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/namratacodes"}
+    - {name: "github", link: "https://github.com/namratabandekar"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/namratabandekar/"}
