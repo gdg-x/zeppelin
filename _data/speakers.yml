@@ -252,7 +252,7 @@
     - {name: "twitter", link: "https://twitter.com/_LeenaM"}
     - {name: "github", link: "https://github.com/LeenaMansour"}
 -
-  id: "20"
+  id: "21"
   name: "Namrata"
   surname: "Bandekar"
   company: "Ray Wenderlich"
@@ -265,3 +265,22 @@
     - {name: "twitter", link: "https://twitter.com/namratacodes"}
     - {name: "github", link: "https://github.com/namratabandekar"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/namratabandekar/"}
+-
+  id: "22"
+  name: "Cavelle"
+  surname: "Benjamin"
+  company: "GE"
+  title: "Director, Technical Risk"
+  bio: |
+   over of technology. Busy bee at a large company. Husband . Father. Coder.
+   Engineer by degree, but learned to code while in undergrad.
+   Leveraged coding to get my job done in almost all of my roles
+   Released first iOS app in 2012 (Babble Ball, sold it)
+   Active in open source (command-line utilities, APIs)
+   Currently working on more iOS apps.
+  thumbnailUrl: CB.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/_thecb4"}
+    - {name: "site", link: "https://thecb4.io"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cavellebenjamin/"}
