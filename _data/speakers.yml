@@ -284,3 +284,27 @@
     - {name: "twitter", link: "https://twitter.com/_thecb4"}
     - {name: "site", link: "https://thecb4.io"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/cavellebenjamin/"}
+-
+  id: "23"
+  name: "Thomas"
+  surname: "Yoon"
+  company: "Tinder"
+  title: "iOS Engineer"
+  bio: |
+   I graduated from UCLA with a CS degree and I've always been inspired by beautiful animations on the iPhone. This was actually one of the reason why I decided to work for Tinder because of its beautiful animations. After joining the revenue team, there was an opportunity to enhance our likes count ticker view to match Robinhood's style and I decided to create it and faced unique challenges.
+  thumbnailUrl: ThomasYoon.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thomasyoonsw/"}
+-
+  id: "24"
+  name: "Sam"
+  surname: "Marshall"
+  company: "Tinder"
+  title: "Senior iOS Engineer"
+  bio: |
+   Sam has over 6 years experience as a professional iOS software developer and has been working at Tinder for 2 years. He is passionate about all things Swift, iOS and writing clean code. Sam co-founded the app Rapchat straight out of college and was the Lead Developer on the project. The app achieved viral success that resulted in over 400,000 downloads in a period of only a few months with no funding whatsoever. Since Rapchat, Sam worked on a 3 man iOS team at Whisper, an app that boasted over 30 million active users. During his time at Tinder, he's been the sole developer responsible for ads on the iOS platform. Driving millions of dollars in revenue each month.
+  thumbnailUrl: SamMarshall.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sam-marshall-1312a8139/"}
