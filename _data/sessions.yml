@@ -15,76 +15,86 @@
   speakers: []
   subtype: meta
 -
+  id: "504"
+  title: "Registrations"
+  place: "Entrance"
+  description: ""
+  service: true
+  speakers: []
+  subtype: meta
+-
   id: "001"
-  title: "Keynote: Accidentally Famous"
-  description: "Okay, it turns out there is an actual human being behind the Siri voice: Susan Bennett, singer, voice actor, and the original voice of Siri on the iPhone 4S and beyond. In her presentation, Susan will give you a peek behind the scenes of the Siri recordings, how they were done, and how the scripts should probably become part of the Smithsonian collection! Susan also talks about the voiceover business, which is how she became the voice of Siri in the first place; she does a lot of different character voices and describes how technology dramatically changed the face of voice recording over the last couple of decades. Finally, Susan discusses the very human emotional challenge of being the voice of Siri, and becoming “Accidentally Famous” as well. Susan’s presentation takes a look at technology from an artist’s point of view…from a human point of view, so relax, bring your lunch and your sense of humor!"
+  title: "Keynote: TBA"
+  description: "TBA"
   outcome: |
-    - How the Siri recordings were done
-    - Where Siri and other digital voices come from
-    - Insight into the voiceover and recording businesses
-    - How to take the “high road” when faced with a challenge!
-  subtype: workshop
+    - TBA
+  subtype: presentation
   speakers: ["1"]
 #  video: "https://video-url-goes-here"
 -
+  id: "002"
+  title: "Keynote: Programming with Purpose"
+  description: "Purpose comes in all sizes, big and small. My small purpose is to get through delivering this talk without embarrassing myself. My big purpose is to help as many people as I can in small ways every day. Notice I said small ways. Why small ways? Because the biggest moments in life tend to happen on the way to your plans. Think about the most significant moments in your life. The pivotal points that changed everything. If you’ve ever fallen in love, there’s a good chance that you never planned for it to happen on the day it did. And later... if it didn’t work out, I bet you didn’t plan that either. This is not to discount plans or goals. I firmly believe in having a plan and setting a destination before you embark on your journey. Goals are necessary. Sort of like the bread on a sandwich. The goals hold it all together but the best parts are of the the middle."
+  subtype: presentation
+  speakers: ["3"]
+-
   id: "003"
-  title: "Back to Front to Left Wrist (2h)"
-  description: "From the onset, Swift was designed to take over the world — or at least the programming world. So it’s no surprise that the development community is excited to bring it’s power to as many platforms as possible. Our eager community was given Swift on Apple platforms, but no sooner than it was open sourced did we get the power to write Swift on Linux (and some people have even figured out how to run it on Android)! In this workshop, we’re going to focus on the first two. Together we’ll build the foundations of a restaurant reservation service. We’ll start by making a server, written in Swift, for our app to interact with. Once we have the server and the app in place, we’ll build a watchOS app so you can use our service without having to dig out your phone!"
+  title: "Learn Swift"
+  description: "Learn how to make an iOS app from scratch using Storyboard and the Swift language. This course is focused on building beautiful user interfaces and custom animations, elevating your product and giving you an insight into iOS development. Learn how to collaborate better with engineers and own the visual implementation of your design.
+
+                Meng To's workshops aim to bridge the gap between design and code
+                Get hands-on experience with step-by-step instructions on how to make beautiful iOS apps and Websites. Gain solid foundations needed to design from scratch, prototype quickly and bring your app ideas to life with easy-to-understand code. No coding experience required."
   outcome: |
-   - How to build and deploy a Swift server, using the Perfect framework
-   - How to build a simple iPhone app that will interact with data from our server
-   - How to more easily debug cross-platform issues
-   - How to build a simple Apple Watch app to expand upon already rich features
+   - TBD
   subtype: workshop
-  complexity: "Intermediate"
-  speakers: ["4"]
+  complexity: "beginner / intermediate"
+  speakers: ["12"]
 -
   id: "004"
-  title: "Patterns &amp; Methodologies for Test Suite Design"
+  title: "To mock ’to mockn a mockingbird’"
   description: |
     For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.
 
     To help you answer these questions, this presentation will go through the development process of a thoroughly tested audio synthesizer and demonstrate patterns and methodologies that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite.
   outcome: |
-   - What metrics to consider when measuring the efficacy of your test suite
-   - How to intentionally indicate a specific part of your codebase is the source of a failure
-   - How a test suite guides your system’s design &amp; eases re-factoring
-   - How system boundaries influence a codebase’s testability
-   - About collaboration, contract, integration, journey &amp; white box/blackbox tests
-   - About system &amp; feature-level testing
+   - You will learn some of the foundations of functional programming
+   - You will root the techniques of modern day functional programming in these ideas from logic
+   - You will see the benefits of using a combinator approach for smoothing and describing some of the flow of logic and control in your applications
   subtype: presentation
-  speakers: ["3"]
+  speakers: ["13"]
   complexity: "Intermediate"
 -
   id: "005"
-  title: "iOS Interviews Don’t Have To Be Hard"
-  description: "iOS technologies are rapidly evolving with every WWDC announcement, and it is increasingly challenging for iOS developers to keep up with the features, innovations, and best practices. It is especially difficult for those preparing for job interviews to navigate the breadth of information available and focus on the most critical topics and skills. Whether you’re a beginner developer seeking that dream job or a seasoned veteran who is ready for a better one — this talk will prepare you to succeed in your next technical iOS interview."
+  title: "How to Include Machine Learning in your iOS App"
+  description: "Machine learning models don’t deliver value on their own. They need to be integrated into a product to improve user experience and fulfill a business need. Fortunately, this is a particularly exciting time to include ML in your mobile apps, thanks to a wealth of new libraries and technologies in this space."
   outcome: |
-   This presentation will give an overview of the most important topics and skills covered in a technical iOS interview including
+   - Why you should include ML in your mobile devices
+   - Architectural + technical considerations for ML on mobile
+   - A walk-through of different tools for integrating ML into your iOS apps
 
-     - typical questions during the various interview stages from phone screens to onsites
-     - critical components of the iOS tech stack: UI, networking, storage, design patterns, etc
-     - contemporary best practices
-     - best resources for preparing for technical interviews
+   We will also walk through an end-to-end app example, demonstrating how Skafos ties it all together to enable enterprise-grade delivery and integration.
 
-   At the end of this session, the audience will be fully ready to tackle their next iOS interview and know where to go to improve their skills and knowledge in specific topics.
   subtype: presentation
-  speakers: ["5"]
+  speakers: ["8"]
 -
   id: "006"
-  title: "The Simple Layout of a Complex Interface"
+  title: "The Rx Code That Broke My Brain (and Changed My Mind)"
   description: |
-   Understanding Auto Layout is your best chance to write UI code you can be proud of. Its power often underestimated, its features easily misused, I find it overall less appreciated than it could be, if more widely understood.
+   After almost five years of working with ReactiveCocoa and RxSwift, I still felt like reactive programming had limited use in my work. But with Swift and RxSwift maturing, I was looking for a way to try it more.
 
-   This talk is aiming to show how relying heavily on Auto Layout makes you move faster and be more confident writing UI code. Working with the safe area, showing off custom UILayoutGuides and making use of the controversal UIStackViews, we will walk through the simple code of a more complex interface together.
+   This spring, a colleague and I decided to use it whole-heartedly on a project. We established some guidelines that led us to an extremely clean Model-View-ViewModel implementation with a declarative ViewController and stateless ViewModel.
+
+   To start, I’ll cover the basic ideas of RxSwift. But this talk is less about Rx operators and more about how to use RxSwift to build a reactive architecture.
+
+   I’ll show some code from two apps—Trello and a new workout app I’m working on.
+
+   If you have no RxSwift experience, in this session I hope to show you some motivating examples that might convince you to give it a try.
+
+   If you’re using Rx, I want to show you some techniques for using it to make MVVM structures that are more testable and easier to maintain.
   outcome: |
-   - How to express layout fast and simple, without touching Interface Builder
-   - How Auto Layout helps to reduce state in your views / view controllers
-   - Why the safe area is great and how to rely on it without knowing what device your code is running on
-   - When to use custom UILayoutGuides and how they help to avoid using numeric values all around
-   - UIStackViews: why they are great, but controversial. How to work with stack views in scrollable layouts
+   - TBA
   subtype: presentation
-  speakers: ["6"]
+  speakers: ["7"]
 -
   id: "007"
   title: "Collaboration by Design! “What’chu talkin’ ‘bout, Willis?”"
@@ -100,27 +110,31 @@
   speakers: ["7"]
 -
   id: "008"
-  title: "Story of 2 indie devs, 1M+ annual revenue"
+  title: "Code Golfing"
   description: |
-   My talk will tell our 3 year story as a 2 person independent developer team making the two popular photo and video editing apps Typorama and Videorama, reaching 6M downloads worldwide, generating 1M+ annual revenue on the App Store. I’ll be talking about both the technical and the business tactics and strategies we used to drive downloads and create products loved and used by millions.
+   Code Golfing is a fun type of recreational programming where “players” strive to achieve the shortest possible source code that implements certain functionality. Using Swift to Code Golf is fun in itself, but there is a lot we can learn from this exercise. Join me in exploring practical takeaways from thinking about each line of Swift code we write!
   outcome: |
-   Learning and using the latest programming technologies and trends is cool, but if you combine that with a business and marketing know-how, developers have a huge potential in their hands to create super profitable micro businesses just on their own. Making a living off the App Store is getting harder each day, and I’ll help the audience learn how to hack their way to success.
+   - What is `Code Golf`.
+   - Code Golfing is fun, but there is a right away and a wrong way — and the right way is really helpful.
+   - Avoid the wrong way of applying a Code Golf mindset to writing code, such as “golfing” our code into something that is totally unreadable or practical like using global variables everywhere.
+   - Learn the advantages of writing fewer lines of code.
+   - More maintainable code and ability to do more with fewer developers — at scale, the more code we write, the more code we need to maintain. So we will inevitably end up writing more code than we can maintain.
+   - Code that can be clearer.
+   - Helps strengthen our Swift skills — I may touch on Code Katas here.
+   - Helps to better assess dependencies. If you use a library, you get charged for every line of code. Instant losing! We should consider the complexity of our dependencies and alternatives such as copying just the lines of code that we need to perform the functionality that we need from that dependency.
+   - How can we write fewer lines of code in Swift (Code Golfing).
+   - Tips ranging from ternary operators, type inference, functional concepts like replacing for loops with variations of map and reducing arrays, ranges, closures, abstraction, free functions, do xib files count as code — programmatic vs interface builder UIs, etc.
+   - Tests help give you a safety net to golf against.
   subtype: presentation
   complexity: "Intermediate"
-  speakers: ["8"]
+  speakers: ["18"]
 -
   id: "009"
-  title: "Immutability: Perks and Quirks"
+  title: "Straying From the Happy Path: Taking Control of Errors in Swift"
   description: |
-   Writing Swift, I have a strong preference for immutable objects, why? Because immutability leads to simplicity and clarity since implicit in an object's creation, is a guarantee that it will never change.
-
-   It is remarkable how much this single, seemingly, simple fact, can make programs easier to verify, and reason about.
-
-   But, in object-oriented environments, blindly defaulting to immutable objects can lead to unintended consequences.
+   Have you ever seen a code comment saying “this should never happen”? Have you ever wondered what would happen if it did? Swift has a diverse set of error-handling capabilities, from using `throw` to send errors up the stack to using a `Result` to handle errors in asynchronous methods. In this talk, we’ll look at the landscape of handling errors in Swift, create new ways of expressing and handling them, and show how even the most impossible code-level situations can have 100% test coverage. Spanning the history of error handling from Objective-C to Combine and SwiftUI, this talk will help you better handle errors in your code, test error-handling code paths, and log errors easily and conveniently.
   outcome: |
-   - Why immutability.
-   - Walk through how I chose an immutable object to solve a problem, how that lead to a perplexing bug, and how I resolved it.
-   - Establish when to consider using immutable objects.
+   - TBD
   subtype: presentation
   complexity: "Advanced"
   speakers: ["12"]
@@ -193,23 +207,24 @@
   speakers: ["18"]
   complexity: "Advanced"
 -
-  id: "014"
+  id: "015"
   title: "Core Bluetooth in Swift: A Primer"
   subtype: presentation
   description: ""
   speakers: ["19"]
 -
-  id: "015"
-  title: "Designing and Building With Accessibility in Mind"
+  id: "014"
+  title: "Testing. Tessing. One. Two."
   description: |
-   Accessibility is an often ignored part of iOS development, partly because much of it is “baked in” to the OS and “just works” most of the time. However, building custom UI elements and interactions can lead to a breakdown of accessibility. In this talk, we’ll explore VoiceOver, the screen reader that allow many disabled users to interact with your app. We’ll walk through a non-accessible app and optimize it for VoiceOver users. Finally, we’ll go over common pitfalls and solutions to keep in mind when designing and building accessible experiences.
+   esting is critical, but can be difficult. In this talk we will explore using Swift’s protocol oriented programming for User Interface testing to create light-weight interfaces that are composed of user behavior and application state. We will discuss the pro’s and con’s of writing tests this way. We will also discuss options for further development of the technique. This talk isn’t just for testers. This talk is also for product managers, designers, developers, and customers! As a use case, will will walk through logging into and using a movie rating app. We will build up a protocol that allows tests to be read as a set of instructions for an actual user. When we are done, we will have a better understanding of behavior driven development, UI testing, and protocol oriented programming in Swift.
   outcome: |
-    - Having a better understanding of VoiceOver.
-    - Understanding how run a quick accessibility audit to find places in your app that could use improvement.
-    - Being able to argue why it’s important to invest in accessibility and have concrete steps on how to make an app easier to use.
+    - A history of testing (the boring stuff)… Agile, Test Driven Development, and Behavior Driven Development
+    -  Swift Protocol Oriented Programming for UI Testing.. Behavior, State and the conversation
+    -  Making it work together... An example
+    -  Learn something… How does this help the conversation
   subtype: presentation
   complexity: "Intermediate"
-  speakers: ["20"]
+  speakers: ["22"]
 -
   id: "016"
   title: "The Art of the Font"
@@ -250,58 +265,46 @@
   speakers: ["14"]
 -
   id: "019"
-  title: "Functional Magic in Swift"
+  title: "What Happens When iOS Turns Against You"
   description: |
-   Do you find yourself creating messy code in order to transform Swift optionals? Do you wish you harnessed the functional power of Swift more? This talk is for you! Come learn about creating elegant code with map, flatMap, filter, and reduce through some cupcake magic. Let's make your code more Swifty!
+   Follow me on a journey of peril and intrigue as I walk you through the most difficult bug of my career. The many frameworks of Cocoa Touch are the cornerstone of modern iOS apps. But what happens when the building blocks start to work against you? I'll take you through the lifecycle of a bug we encountered at Tinder on the eve of the launch of iOS 12. To this day, it is one of the most puzzling and challenging issues I've encountered. The solution to which has wide-ranging implications in any app that utilizes NSUserDefaults. At the end of this session, you will learn steps you can take to avoid a devastating pitfall in Foundation. This issue was discovered in Tinder and I will walk you through a possible solution should you encounter it in your own apps as well.
   outcome: |
-   - Functional programming building blocks
-   - Manipulating collections with four functions: `map`, <del>`flatMap`</del> `compactMap`, `filter`, and `reduce`
-   - Have good examples of how to use them in their code
+   - TBA
   subtype: presentation
   speakers: ["24"]
   complexity: "Intermediate"
 -
   id: "020"
-  title: "State Restoration - It’s like you never left"
+  title: "Protocol Oriented Programming"
   description: |
-   Part of making an iOS app an enjoyable experience involves some magic… err illusion. One of those illusions is that if a user leaves your app and it goes to the background, when they return everything will be exactly as they left it. The reality is that, with few exceptions, your app will actually be suspended, then deallocated by the operating system. Without a little trickery, when users come back to your app they’ll be greeted with a launch screen and have to start their navigation experience from scratch. Join me as we talk about some of the tricks you can use to ensure that when users come back to your app everything appears as if they never left.
+   TBA
   outcome: |
-    - Why state restoration is important.
-    - How to set up basic state restoration using Storyboards.
-    - Best practices for restoring scroll position in TableView and UICollectionViews.
-    - How to leverage the state restoration API for custom situations.
-    - When to forego state restoration and just start over.
-    - A few tricks for improving app launch speed.
+    - TBA
   subtype: presentation
   complexity: "Advanced"
-  speakers: ["11"]
+  speakers: ["6"]
 -
   id: "021"
-  title: "Building an iOS app with Cloud Firestore (1.5h)"
+  title: "Empowering Your Ecosystem"
   description: |
-   In this hands on session you will build a simple iOS app using Firebase Cloud Firestore. We will include topics like getting setup with Firebase, storing data, and advanced queries.
+   The ecosystem of the Swift programming language is at an interesting inflection point. David will talk about his take on some ways forward, as well as how to embrace the opportunity it has to push Swift’s footprint on the software development world into the stratosphere.
   outcome: |
-    - Read and write data to Firestore from an iOS app
-    - Listen to changes in Firestore data in realtime
-    - Use Firebase Authentication and security rules to secure Firestore data
-    - Write complex Firestore queries
-  subtype: workshop
-  complexity: "Advanced"
-  speakers: ["25"]
+    - How other software communities operate and contribute to open source
+    - The key differences between Swift and other communities that makes this inflection point different
+    - How you can create Swift packages today for any platform to boost the community
+  subtype: presentation
+  complexity: "Intermediate"
+  speakers: ["5"]
 -
   id: "023"
-  title: "Developing Conversational Interfaces for iOS"
+  title: "Bringing Robinhood Ticker to Tinder"
   description: |
-   The evolution of user interfaces in mobile apps continues with the most natural way of expressing the user’s wishes - their voice. Understanding what the users say is not an easy task.
-
-   In this talk, you will learn about several speech analysis approaches that help you in this challenging task, from Apple's brand new Core ML and SiriKit, to Google's Dialogflow and Facebook's Wit.ai, along with some well known Natural Language Processing algorithms like the TF-IDF.
+   Tinder's famous LikesYou feature has a golden pill view that shows the number of swipe rights a particular user receives while using the app. Inspired by Robinhood's stock ticker, Tinder has recently upgraded their pill view to have similar sweet scrolling animation. However, since the pill view had letters along with digits, it faced different set of problems. The session will explain how this unique ticker view has been implemented.Through this talk, you will be able to understand what it takes to implement a tickerView like the one from Robinhood and how Tinder has solved the unique set of challenges due to implementing scrolling digits and letters in a single view.
   outcome: |
-    - Introduction to Conversational Interfaces
-    - Getting to know several approaches to understanding language on iOS with Swift
-    - Learn what are the challenges we face when we develop voice responsive apps
+    At the end of this session, you will be able to create a ticker view just like the one from Robinhood and understand how Tinder solved its unique set of problems due to scrolling digits and letters with localization within the same view.
   subtype: presentation
-  complexity: "Advanced"
-  speakers: ["46"]
+  complexity: "intermediate"
+  speakers: ["23"]
 -
   id: "024"
   title: "iOS at Scale(ish)"
@@ -347,17 +350,17 @@
   speakers: ["29"]
 -
   id: "026"
-  title: "Scaling iOS Architecture"
+  title: "Encoding and Decoding in Swift"
   description: |
-   At Arc Publishing, a new venture that is a part of The Washington Post, we have begun building native mobile applications for other news publishers, like The LA Times, The Salt Lake Tribune, and The Globe and Mail, to name a few. We're now in the process of scaling to 50 iOS apps, that have millions of users, wildly different feature sets, and that have to be kept synchronized with each other. To achieve this feat with a small team, we've had to template our architecture and automate our entire development and deployment process. Come learn how we built a scalable white label iOS app architecture in Swift that powers some of the App Store's top 150 news apps.
+   Ever wonder what’s actually going on inside JSONEncoder and JSONDecoder? Why doesn't JSONEncoder conform to the Encoder protocol? What's a CodingKey, and what are all of those "containers" for?
+   This talk will be a deep dive into encoding and decoding in Swift: what all of the related protocols are, how they fit together, and how to use them. You will come away from this talk ready to customize how your Swift types are encoded and decoded, and with the knowledge necessary to start writing encoders and decoders of your own.
   outcome: |
-   - How to think about abstract and meta-type-heavy architecture
-   - How to build modular plug-and-play architecture using Swift
-   - How to properly perform a cost-benefit analysis when choosing open source projects for high visibility apps
-   - How to make optimal use of CocoaPods, BuddyBuild, Jenkins, Fastlane, and custom shell scripts to automate everything and keep all of your codebases synchronized
+   - You will learn how to highly customize how your Swift types are encoded and decoded, and how standard library encoder and decoders work under the hood
+   - You will gain the necessary background knowledge to even write encoders and decoders of your own
+
   subtype: presentation
   complexity: "advanced"
-  speakers: ["30"]
+  speakers: ["15"]
 -
   id: "056"
   title: "Powering Mobile eCommerce via Data Science"
@@ -388,26 +391,14 @@
   speakers: ["66"]
 -
   id: "027"
-  title: "Artificial Intelligence in Swift"
+  title: "You Belong With Me: An Extension Love Story"
   description: |
-   Swift is in a unique position at this moment in AI technology.
-
-   First, machine learning models can run in iOS and with only a few lines of Swift Code. We will discuss
-    1) what machine learning is good for in local apps
-    2) what a machine learning model is,
-    3) how it gets packaged by CoreML, the new iOS format for deploying ML in your app, and
-    4) how to leverage it in your Swift-based apps - without needing to build a lot of specific code!
-
-   Then we will take a look into the future with Swift for Tensorflow, the brand-new technology by Google that would let us leverage our Swift knowledge to create and train new machine intelligence!
+    Extensions allow you to add functionality to a previously existing class, structure, enumeration, or protocol. This gives you the power to add new behavior to your own code, third-party libraries, and even Apple frameworks.  While this sounds simple, extensions allow you to up your Swift game and amplify your code in so many ways!  In this talk, we will explore using extensions to have cleaner code, conform to protocols, add new initializers, extend protocols, and so much more.  We’ll also show off some extensions that you didn’t even know that you wanted.  Fall in love with extensions today!
   outcome: |
-   - What a machine learning model is, why it is useful and why it is not scary
-   - A background on how CoreML packages machine learning models for easy deployment in apps
-   - Methods to apply CoreML models in your apps to leverage machine learning to live analysis (like machine vision!)
-   - Practices for creating new CoreML models custom to your users' situations and needs
-   - A hint of the future- why Swift may be central to the future of deep learning
+   - TBD
   subtype: presentation
-  complexity: "advanced"
-  speakers: ["31"]
+  complexity: "intermediate"
+  speakers: ["9"]
 -
   id: "028"
   title: "Choosing the Right Design Pattern (1.5h)"
@@ -465,11 +456,12 @@
   speakers: ["33"]
 -
   id: "032"
-  title: "Swift, Juggling, &amp; You"
+  title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
   description: |
-   Juggling is often used as a metaphor to represent the idea of dividing your attention between multiple tasks at once. But not this time! This is a talk about actual juggling, the math behind it, and the exercise of representing that math in Swift.
+   After 18 years of ups and downs in the tech industry, Diana Rodriguez has seen good, bad and ugly. Leading worldwide community organisation for a non-profit has been an interesting experience where she found herself advocating for the exact same things she had to stand up for 18 years ago. In a sincere and honest talk about diversity, inclusion and evolution in the tech ecosystem, this isn't a SJW rant. It's an account of the mishaps of a woman in tech who decided to make a difference.
+   (what do you reckon?)
   subtype: presentation
-  speakers: ["34"]
+  speakers: ["2"]
 -
   id: "999"
   title: "Talk to be announced"
@@ -477,8 +469,21 @@
   subtype: presentation
   speakers: []
 -
+  id: "998"
+  title: "Workshop to be announced"
+  description: "More speakers coming soon!"
+  subtype: presentation
+  speakers: []
+
+-
   id: "1511"
   title: "The workshop continues…"
+  description: "Each workshop is at least 90 minutes"
+  subtype: meta
+  speakers: []
+-
+  id: "1512"
+  title: "The workshop ends…"
   description: "Each workshop is at least 90 minutes"
   subtype: meta
   speakers: []
