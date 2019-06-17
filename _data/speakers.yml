@@ -73,8 +73,7 @@
   title: "Developer Advocate"
   company: "IBM"
   bio: |
-    David Okun is a mobile software developer turned developer advocate for IBM in Austin, Texas.
-    David has been primarily focused on iOS mobile software, but is also interested in web technology such as Node.js. He's shared over 35 projects with the community on GitHub. David's favorite thing to do is to teach, and he loves an opportunity to clearly explain how something works, and walk someone through it.
+    David Okun works for IBM and teaches developers how to use Swift on the server, as well as other AI technologies. He is a writer and author for (link: http://raywenderlich.com) raywenderlich.com, and leads the recently formed Server-side Swift team there.
   thumbnailUrl: DavidOkun.jpg
   rockstar: true
   social:
