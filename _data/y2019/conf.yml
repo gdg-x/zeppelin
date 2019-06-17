@@ -18,7 +18,7 @@ heroImage: hero.jpg
 
 # About
 # About Block
-aboutTitle: "Sobre o evento"
+aboutTitle: "Sobre a Conferência"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", 
       text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 19 de novembro de 2019, no ALTIS Grand Hotel, em Lisboa, a 10ª edição da Conferência Testing Portugal."
