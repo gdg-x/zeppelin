@@ -132,7 +132,7 @@
   id: "009"
   title: "Straying From the Happy Path: Taking Control of Errors in Swift"
   description: |
-  Have you ever seen a code comment saying “this should never happen”? Have you ever wondered what would happen if it did? Swift has a diverse set of error-handling capabilities, from using `throw` to send errors up the stack to using a `Result` to handle errors in asynchronous methods. In this talk, we’ll look at the landscape of handling errors in Swift, create new ways of expressing and handling them, and show how even the most impossible code-level situations can have 100% test coverage.
+   Have you ever seen a code comment saying “this should never happen”? Have you ever wondered what would happen if it did? Swift has a diverse set of error-handling capabilities, from using `throw` to send errors up the stack to using a `Result` to handle errors in asynchronous methods. In this talk, we’ll look at the landscape of handling errors in Swift, create new ways of expressing and handling them, and show how even the most impossible code-level situations can have 100% test coverage.
   outcome: |
    Spanning the history of error handling from Objective-C to Combine and SwiftUI, this talk will help you better handle errors in your code, test error-handling code paths, and log errors easily and conveniently. You’ll understand not only how to achieve test coverage of your code’s error paths, but also which tests are important to write to understand your error paths.
   subtype: presentation
