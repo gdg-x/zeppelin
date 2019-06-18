@@ -269,7 +269,7 @@
   description: |
    Follow me on a journey of peril and intrigue as I walk you through the most difficult bug of my career. The many frameworks of Cocoa Touch are the cornerstone of modern iOS apps. But what happens when the building blocks start to work against you? I'll take you through the lifecycle of a bug we encountered at Tinder on the eve of the launch of iOS 12. To this day, it is one of the most puzzling and challenging issues I've encountered. The solution to which has wide-ranging implications in any app that utilizes NSUserDefaults. At the end of this session, you will learn steps you can take to avoid a devastating pitfall in Foundation. This issue was discovered in Tinder and I will walk you through a possible solution should you encounter it in your own apps as well.
   outcome: |
-   - TBA
+   Attendees should expect to walk away with an understanding of the deeper workings of UserDefaults and unexpected, yet commonly experienced, issues with the defaults system.
   subtype: presentation
   speakers: ["24"]
   complexity: "Intermediate"
