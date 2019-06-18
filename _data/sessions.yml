@@ -214,7 +214,7 @@
   speakers: ["19"]
 -
   id: "014"
-  title: "Testing. Tessing. One. Two."
+  title: "Testing. Testing. One. Two."
   description: |
    esting is critical, but can be difficult. In this talk we will explore using Swift’s protocol oriented programming for User Interface testing to create light-weight interfaces that are composed of user behavior and application state. We will discuss the pro’s and con’s of writing tests this way. We will also discuss options for further development of the technique. This talk isn’t just for testers. This talk is also for product managers, designers, developers, and customers! As a use case, will will walk through logging into and using a movie rating app. We will build up a protocol that allows tests to be read as a set of instructions for an actual user. When we are done, we will have a better understanding of behavior driven development, UI testing, and protocol oriented programming in Swift.
   outcome: |
