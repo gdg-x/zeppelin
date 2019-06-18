@@ -395,7 +395,11 @@
   description: |
     Extensions allow you to add functionality to a previously existing class, structure, enumeration, or protocol. This gives you the power to add new behavior to your own code, third-party libraries, and even Apple frameworks.  While this sounds simple, extensions allow you to up your Swift game and amplify your code in so many ways!  In this talk, we will explore using extensions to have cleaner code, conform to protocols, add new initializers, extend protocols, and so much more.  We’ll also show off some extensions that you didn’t even know that you wanted.  Fall in love with extensions today!
   outcome: |
-   - TBD
+   - What extensions are and how to add them to your code
+   - How to use extensions for cleaner code and conforming to protocols
+   - How to use extensions to add a new initializer to a class
+   - How to use an extension to add methods to a protocol
+   - Fun places to add convenience methods
   subtype: presentation
   complexity: "intermediate"
   speakers: ["9"]
