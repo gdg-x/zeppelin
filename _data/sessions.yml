@@ -137,7 +137,7 @@
    Spanning the history of error handling from Objective-C to Combine and SwiftUI, this talk will help you better handle errors in your code, test error-handling code paths, and log errors easily and conveniently. You’ll understand not only how to achieve test coverage of your code’s error paths, but also which tests are important to write to understand your error paths.
   subtype: presentation
   complexity: "Advanced"
-  speakers: ["12"]
+  speakers: ["14"]
 
 -
   id: "022"
