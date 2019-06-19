@@ -283,7 +283,7 @@
 
    This talk assumes familiarity with Swift syntax for generics, protocols, extensions, enums, and first-class functions (such as completion handlers), as well as the basic differences between Swift structs and classes. More advanced topics, including protocols with associated types, enums with associated data, closures, and functions as return types, will be introduced and explained.
   outcome: |
-    - TBA
+    Attendees will learn how to develop generic and reusable code in Swift, starting from concrete implementations and finding the abstractions within. They will learn the vocabulary of generics, including existentials and the many kinds of type erasure. Finally, they will learn the many tools of generic Swift, including protocols, associated types, and generic structs, but also generic functions and most importantly composition of types and functions to make their code more flexible without making it more complex.
   subtype: presentation
   complexity: "Advanced"
   speakers: ["6"]
