@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
  - {permalink: "/faq/", text: "FAQ"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/#tickets", text: "Tickets"}
  - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "https://2018.swiftfest.io", text: "2018"}

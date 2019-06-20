@@ -96,19 +96,6 @@
   subtype: presentation
   speakers: ["7"]
 -
-  id: "007"
-  title: "Collaboration by Design! “What’chu talkin’ ‘bout, Willis?”"
-  description: |
-   A lot of developers are quick to say that designers should learn to develop. To me, being able to design is an important skill to have as a developer. We all know that there is a significant divide when it comes to designers and developers. This split limits us to be better developers because sometimes we do not want to see the other side of things. Sometimes we as developers do not understand the designer's point of view. Developers and designers have different specialties that we can leverage from each other.
-
-   In this talk, I will discuss the different specialties we can take advantage of from both sides. Additionally, I will cover why you should start picking your designer's brain today. Finally, I will discuss how to get started and what tools designers are using today for doing wireframes to iOS app designs.
-  outcome: |
-   - How design helps you as a developer and how each of us can take advantage of both sides
-   - Why you should start picking your designer’s brain
-   - How to get started and what tools designers are using today
-  subtype: presentation
-  speakers: ["7"]
--
   id: "008"
   title: "Code Golfing"
   description: |
@@ -138,57 +125,6 @@
   subtype: presentation
   complexity: "Advanced"
   speakers: ["14"]
-
--
-  id: "022"
-  title: "NSURLProtocol: Stupid Secrets, Scary Swizzling, Sorry Safety"
-  description: |
-   Known as “Apple-sanctioned man-in-the-middle attacks,” the `NSURLProtocol` class is a powerful Foundation abstraction that intercepts network requests at runtime before they hit the URL loading system. It has been used to implement proxy-like functionality, stub HTTP responses, eavesdrop on your 3rd party libraries’ network activity during production deployments, arbitrarily transform `URLRequest`s on the fly, or implement custom protocol schemes. Using this class well requires understanding of how it behaves at runtime, and there are a few runtime gotchas that you must know to handle!
-  outcome: |
-   - How to simplify test suites involving API calls by using `NSURLProtocol` to stub server responses
-   - The ability to see HTTP data that 3rd party libraries and frameworks share with their hosts
-   - A refresher on the few different method dispatch types in Swift
-   - The dark magic that is method swizzling (exchanging method implementations of function pointers at runtime)
-   - How to swizzle their way around a critical bug (Apple erroneously sets all HTTP Bodies to `nil`) in `NSURLProtocol`
-   - The ability to implement API versioning, synthetic responses, remote cache invalidation, and API rerouting on the client (a lighter weight HAProxy or Varnish)
-  subtype: presentation
-  speakers: ["26"]
-  complexity: "Intermediate"
-
--
-  id: "011"
-  title: "Great Forms 101"
-  description: |
-   Let's be honest here: forms are probably not the shining star of your app. But they're one of the first things a user sees, and can huge stumbling blocks to user trust if you don't give them some thought.
-
-   So take your forms from 😡 to 😍! We'll cover UI basics, implementation details, and UX strategies for building the best forms on the App Store, all with real-world details you can take right back to your desk and start using.
-
-   After this, your users might even wish for more forms.
-  outcome: |
-    - Building forms that let your users quickly and easily give you information.
-    - Understanding how to get the data your app needs.
-    - Learning how to get the user back to the app they love.
-  subtype: presentation
-  complexity: "Intermediate"
-  speakers: ["16"]
--
-  id: "012"
-  title: "Sketching UI in Playgrounds"
-  description: |
-   The beginning will be a discussion on the struggle/arguments that iOS developers have over which way is better for creating UIs: Storyboards or Programmatic.
-
-   Then, I'll present a middle ground that is the main topic: building UIs in Playgrounds. This is a technique that the Kickstarter team uses in their app (which is open source), and I use that as a starting point, but I have developed practices around it to make it more accessible.
-
-   We'll talk about some of the benefits you get that neither Storyboards or traditional programmatic UI have (access to app behavior, animations, TDD style, very fast edit/run cycles for prototyping)
-
-   There will be some live-coding to give the feel of what it's like to do this in the context of an app (a playground that is part of a larger app project).
-  outcome: |
-    - Understanding how to work in a hybrid environment with the visual experience you get in a Storyboard, but the benefits you get from a programmatic UI (creating the UI in a playground).
-    - Learning all the tips and tricks to improve your efficiency while working in hybrid mode.
-    - Mastering programmatic UI will be easier because you can see the effect immediately without running the app.
-  subtype: presentation
-  speakers: ["17"]
-  complexity: "Intermediate"
 -
   id: "013"
   title: "Under The Hood: Code Signing on iOS"
@@ -226,43 +162,14 @@
   complexity: "Intermediate"
   speakers: ["22"]
 -
-  id: "016"
-  title: "The Art of the Font"
-  description: |
-   As developers we often take the text rendering system for granted. As a fundamental part of both iOS and macOS we often don't give it a second thought. It's just there. This session will explore: the transition from 7 segment LED text to the beautiful fonts we use today, translate the vocabulary designers use when describing text layout, and conclude by examining TextKit and how to get direct access to font paths.
-  outcome: |
-    A better understanding of
-    - Fonts and font formats.
-    - Text layout vocabulary.
-    - A deeper understanding of text rendering in iOS and macOS.
-  subtype: presentation
-  complexity: "Advanced"
-  speakers: ["21"]
--
-  id: "017"
-  title: "Advanced Dates and Times in Swift"
-  description: |
-   As a developer who’s been bitten time and time again by Daylight Saving Time and related bugs, by now you’ve mastered the art of wrangling dates and times in Swift. Or have you? This talk will cover some of the more inscrutable topics of dates and times: how many seconds are there in a particular year? How do I get a notification to fire at exactly 9:00 AM on the user’s phone? What if my user isn’t using the Gregorian calendar and I want to draw a calendar? In this talk, we’ll cover all this and more, drawing on the Swift standard library and Apple’s system SDKs to manipulate the very fabric of time itself… or at least it’ll feel that way by the time we’re done.
-  outcome: |
-   This session covers more advanced date and time code. An attendee will be able to reliably schedule notifications in the user's local time, find dates in the future, and even work with calendars with different numbers of months, days in the week, and more!
-  subtype: presentation
-  complexity: "Advanced"
-  speakers: ["22"]
--
   id: "018"
-  title: "Secrets and Lies"
+  title: "Talk to be announced"
   description: |
-   Security is hard. It’s filled with complex math and obscure system details, but that isn’t why it’s hard. Security is hard because it requires a different way of thinking. It’s about what systems really do rather than what they’re supposed to do. It’s about making things fail rather than succeed. It’s about controls and response more often than code and algorithms. And at its best it’s invisible and thankless. You never know all the bad things that didn’t happen.
-   Security is critical. In our hyper-connected systems filled with sensitive information, we need developers who understand how to think about security and how to implement secure systems. Security requires expertise, but it can’t just be left to experts. It has to be a part of every stage of development. No one wants to be the next company listed under an embarrassing headline.
+    TBA
   outcome: |
-   - How to think about security and apply it at each stage of development
-   - What problems security can and can’t solve
-   - The basic tools and techniques attackers use
-   - How to make your systems resilient against attack
-   - The difference between encryption and obfuscation and how to use each correctly
-   - How to authenticate users and handle passwords
+    TBA
   subtype: presentation
-  speakers: ["14"]
+  speakers: ["11"]
 -
   id: "019"
   title: "What Happens When iOS Turns Against You"
@@ -311,47 +218,24 @@
   speakers: ["23"]
 -
   id: "024"
-  title: "iOS at Scale(ish)"
+  title: "Talk to be announced"
   description: |
-   Wayfair has one of the largest iOS teams in Boston, with around 40 developers all working on a single product. Our codebase is large, it has a sizable amount of legacy code, and it is extremely active and constantly changing. Because of our size and scale, we are starting to encounter problems that impact our entire iOS team. These include:
-
-    - Code ownership and code quality are tough to define and keep consistent.
-    - Our transition to Swift, while having many benefits, has caused compile times to become a bottleneck for our developers.
-    - As our team and codebase grow, effectively defining and pushing new best practices, architectures, and strategies is becoming more difficult.
-
-   In order to help combat these problems, we decided to start the process of modularizing our codebase.  I believe our work to solve these issues can be applied to teams and organizations of any size. I'm confident that everyone will be able to take something away from my talk, be it big or small, and apply it to their own teams to help them work more efficiently and build great apps.
+   TBA
   outcome: |
-   - How to define code ownership to reduce side effects
-   - How to promote well structured APIs for all areas of our codebase
-   - How to reduce the effects of Swift's compile times
-   - How to push large scale changes across our team and codebase
+   TBA
   subtype: presentation
   complexity: "Advanced"
-  speakers: ["28"]
+  speakers: ["20"]
 -
   id: "025"
-  title: "An Engineer's Code of Ethics"
+  title: "Talk to be announced"
   description: |
-    Development does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad. Ultimately we must judge the weight and value of our work based on that impact.
-
-    We should have a code of ethics in whatever we do because it allows us to measure our decisions against our values. An engineer is first and foremost a human being, but sometimes engineers ignore ethics and ship unethical features or outright products to users. With this talk I will answer some questions such as
-      - What’s the code of ethics of an engineer?
-      - Why many of the engineers that are working on products tend to not follow this code and push “unethical” code to production?
-      - What are some examples of unethical features pushed to production?
-      - What we can do as a community to persuade people to follow this code of ethics?
-
-    The talk will kick off by outlining some of the basic principles an ethical engineer should follow
-      1. A engineer is responsible for the work they put into the world. Engineering is a discipline of action. You are responsible for what you put into the world. It has your name on it.
-      2. An engineer values impact over form. Engineering does not exist in a vacuum. Society is the biggest system we can impact and everything you do is a part of that system, good and bad.
-      3. Accept full responsibility for their own work. If you write code that is unethical you should expect that you will have consequences for your actions.
-      4. Work to develop software and related documents that respect the privacy of those who will be affected by that software. As an engineer you should write software and push code to production that doesn’t violate the privacy of the user.
-    We have a duty as people building products for people on the other end of the screen, to build a product that they can love and trust. But we can only do that if we ourselves are transparent and straightforward in the way we do so and the route we take to get there.
+    TBA
   outcome: |
-    - How we’re in this situation where many companies push unethical features into production
-    - What we can do as a community to prevent that from happening
+    TBA
   subtype: presentation
   complexity: "intermediate"
-  speakers: ["29"]
+  speakers: ["21"]
 -
   id: "026"
   title: "Encoding and Decoding in Swift"
@@ -365,34 +249,6 @@
   subtype: presentation
   complexity: "advanced"
   speakers: ["15"]
--
-  id: "056"
-  title: "Powering Mobile eCommerce via Data Science"
-  description: |
-   Ever wonder why a website is recommending that hot pink dress shirt to you? What happens when you’re browsing and tap into a product you like? It’s all part of the fine tuned machine which is data science.
-   This talk will detail how Rue La La has used data science to drive revenue, enhance personalized shopping and provide an engaging mobile app experience. We hope that by the end of this talk all attendees will have an understanding of big data, machine learning and the impact it is having on eCommerce at large.
-  outcome: |
-   - Basic understanding of data science
-   - Why combining UX with data science is so important
-   - How mobile and data science are powering the future of ecommerce
-  subtype: presentation
-  complexity: "intermediate"
-  speakers: ["60", "61"]
--
-  id: "057"
-  title: "Code Reviews – Establishing a Quality Culture"
-  description: |
-   Writing code is a combination of creativity and logic. Every developer wants to make sure their work is feature-perfect, bug-free, and provides a delightful experience to the end user. But how do they make sure that their code maintains the quality they consistently strive for? How can they write code that is maintainable, stable, and offers a learning opportunity to other team members? In this presentation, Jayesh Kawli will describe the process of reviewing code and how it helps to write high quality, crash-free code that is confidently written and thoroughly assessed.
-
-   When asking "When should my code go through code review?", the answer should be "Every time you change the codebase!". A change to even one line of code can cause catastrophic effects to app quality and customer satisfaction, which has a direct impact on company revenue. "What is the process for code review?" There are many answers to this question and we will discuss some of the more successful strategies that have been used to date.
-  outcome: |
-   - What is code reviewing?
-   - Why is it important and how should it be incorporated into the development lifecycle?
-   - Identification of key factors that the reviewer should look into while reviewing code
-   - Essential skills for better communication and sharing of ideas
-  subtype: presentation
-  complexity: "intermediate"
-  speakers: ["66"]
 -
   id: "027"
   title: "You Belong With Me: An Extension Love Story"
@@ -409,59 +265,11 @@
   speakers: ["9"]
 -
   id: "028"
-  title: "Choosing the Right Design Pattern (1.5h)"
-  description: |
-   Design patterns are reusable solutions to common development problems. They aren't project specific, so you can use them in countless apps. But which design pattern should you use for a particular problem? How do you know if one is better suited than another? If you wrestle with these questions in your own apps, you're in luck! This is exactly what you'll learn in this workshop.
-   You'll first review a few common and niche design patterns. Specifically, you'll go over design patterns that solve similar problems but in different ways. Along the way, you'll learn a thing or two about design patterns, but most importantly, you'll learn a strategy for picking one pattern over another.
-   This will be a hands-on workshop, so make sure you bring your laptop with you!
-  outcome: |
-    - How design pattern use cases often overlap
-    - How to use class diagrams to model real-world app problems
-    - How to judge if a design pattern is a good fit for a problem
-    - How to evaluate one pattern versus another
-  subtype: workshop
-  complexity: "intermediate"
-  speakers: ["50"]
--
-  id: "029"
-  title: "Training Core ML With Your Mobile Camera During A Conference Talk (1.5h)"
-  description: |
-   This will be a collaborative experience - come help David pick some objects to train a CoreML model on stage! We'll use an iPhone camera to take some photos, then we'll use IBM Watson to train the model. After that, with (literally) one line of code, we'll deploy the model into an iOS framework called Lumina to test the model on stage with all of the different objects!
-  outcome: |
-    - How to create a Core ML model with nothing but photos and text labels
-    - How to integrate a Core ML model into an iOS app
-    - How to integrate continuous learning into the above two points for an app that gets smarter as you go
-  subtype: workshop
-  complexity: "intermediate"
-  speakers: ["51"]
--
-  id: "030"
-  title: "Building Great Tools with SwiftSyntax (1.5h)"
-  description: |
-   SwiftSyntax is the Swift project's library for working with Swift source code. In this workshop, you can learn how to rapidly prototype linting and formatting tools from the library's author. No prior knowledge of SwiftSyntax is required, but a good grasp of Swift itself will be necessary.
-   Note that SwiftSyntax is only available in developer snapshots of the Swift toolchain; please install the latest Trunk development (master) toolchain snapshot before the workshop from <https://swift.org/downloads>.
-  outcome: |
-   - The structure of SwiftSyntax and how to use it to parse and generate Swift
-   - How to use SyntaxVisitor to write linting/analysis tools that find real-world issues
-   - How to leverage SyntaxRewriter to automatically enforce code styles
-  subtype: workshop
-  complexity: "intermediate"
-  speakers: ["23", "32"]
--
-  id: "031"
-  title: "Closing Keynote: Using Your Superpowers for Good to Change the World!"
-  description: |
-   A 16 year old inspired me to learn to code.
-
-   This lit the fuse that would take me on an amazing journey through challenges and victories while creating an app to help victims escape domestic violence and abuse.
-
-   This is my story.
-
-   This is the story of how someone with no coding experience got their app approved for the app store. There were challenges along the way which were far outweighed by the success, impact and achievements. Since its release, the social impact of the application has been incredible. Then a global technology giant came knocking, which brought a new life of excitement as well as being completely overwhelming. This story serves as an example of why women should be recognized as an equal and important part of the tech community.
-
-   Come meet the Oprah of technology.
+  title: "Recognize text, facial features, and objects in images with ML Kit for Firebase (1.5h)"
+  description: ""
   subtype: presentation
-  speakers: ["33"]
+  complexity: "intermediate"
+  speakers: ["10"]
 -
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
