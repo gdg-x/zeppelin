@@ -307,3 +307,54 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/sam-marshall-1312a8139/"}
+-
+  id: "25"
+  name: "Nelida"
+  surname: "Velazquez"
+  company: "Detroit Labs"
+  title: "Senior iOS Engineer"
+  bio: |
+   Nelida Velazquez is an Application developer at Detroit Labs who has a passion for tacos and reading code. She’s been a mobile developer for over 10 years, working with major brands both in the United States and in her home country of Mexico. When not coding, she likes to travel and attend conferences around the world.
+  thumbnailUrl: NelidaVelazquez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/tolkiana"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nelida-velazquez-56967014/"}
+-
+  id: "26"
+  name: "Jackson"
+  surname: "MacKenzie"
+  company: "Akamai Technologies"
+  title: "Analyst"
+  bio: |
+   Jackson MacKenzie is an analyst at Akamai and author with Penguin Random House. With half a million followers on social media, his books have sold hundreds of thousands of copies worldwide in thirteen languages. He is passionate about exploring human psychology and releasing the things that hold us back.
+  thumbnailUrl: JacksonMacKenzie.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jackson-mackenzie-602532166/"}
+-
+  id: "27"
+  name: "Dani"
+  surname: "Devesa Derksen-Staats"
+  company: "Skyscanner"
+  title: "Mobile Software Engineer"
+  bio: |
+   I am an iOS developer since I had the chance to, when I had to choose the topic for my Master’s Thesis. I enjoyed the experience so much that that’s what I've been doing for a living ever since. It's been more than seven years now and I am lucky I've been able to learn from a great variety of experiences including working for the BBC helping to build the News and BBC+ apps. Now I am having a great time as a Mobile Software Engineer at Skyscanner, helping millions of users to plan and book their trips with their iOS devices.
+  thumbnailUrl: DaniDevesa.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/dadederk"}
+-
+  id: "28"
+  name: "Calvin"
+  surname: "Chestnut"
+  company: "WeedMaps"
+  title: "Senior iOS Engineer"
+  bio: |
+   Calvin is an Apple enthusiast turned engineer who has been developing iOS apps in the Boston area for five years. After his college start-up was acquired he launched Drink Keeper, a HealthKit app for calculating Blood Alcohol Content.
+   Today he is a Senior Software Engineer with WeedMaps, manages a Vapor and Swift backed server stack, and hosts the CastKit podcast on iOS Development and related tech topics.
+   When not developing he can be found skateboarding to a meetup around Boston, playing Dungeons & Dragons with his college friends, or watching scary movies with his wife and cat at their home in Salem.
+  thumbnailUrl: CalvinChestnut.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/iCalvin"}
