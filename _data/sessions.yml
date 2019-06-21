@@ -78,21 +78,28 @@
   speakers: ["8"]
 -
   id: "006"
-  title: "The Rx Code That Broke My Brain (and Changed My Mind)"
+  title: "The Reactive Code That Broke My Brain and Changed My Mind (just in time for Combine)"
   description: |
-   After almost five years of working with ReactiveCocoa and RxSwift, I still felt like reactive programming had limited use in my work. But with Swift and RxSwift maturing, I was looking for a way to try it more.
+   After almost five years of working with ReactiveCocoa and RxSwift, I still felt like reactive (Rx) programming had limited use in my work. But with Swift and RxSwift maturing, I was looking for a way to try it more.
 
    This spring, a colleague and I decided to use it whole-heartedly on a project. We established some guidelines that led us to an extremely clean Model-View-ViewModel implementation with a declarative ViewController and stateless ViewModel.
 
-   To start, I’ll cover the basic ideas of RxSwift. But this talk is less about Rx operators and more about how to use RxSwift to build a reactive architecture.
+   And when Apple announced Combine at WWDC this year, we were glad we did because this code will convert to SwiftUI/Combine more easily.
 
-   I’ll show some code from two apps—Trello and a new workout app I’m working on.
+   To start, I’ll cover the basic ideas of Rx (RxSwift and Combine). But this talk is less about Rx operators and more about how to use Rx to build a reactive architecture.
 
-   If you have no RxSwift experience, in this session I hope to show you some motivating examples that might convince you to give it a try.
+   I’ll show some code from two apps—Trello (RxSwift) and a new workout app I’m working on (Combine).
+
+   If you have no Rx experience, in this session I hope to show you some motivating examples that might convince you to give it a try.
 
    If you’re using Rx, I want to show you some techniques for using it to make MVVM structures that are more testable and easier to maintain.
   outcome: |
-   - TBA
+   - The basic ideas behind Rx that all Rx libraries share
+   - The "why" for Rx style code 1) how it can be radically different from typical Objected-Oriented structures
+   - How to do Model-View-ViewModel (MVVM) with Rx
+     1) a stateless/pure-functional ViewModel;
+     2) a more declarative View/ViewController
+   - How to unit test the resulting ViewModel
   subtype: presentation
   speakers: ["7"]
 -
@@ -127,32 +134,40 @@
   speakers: ["14"]
 -
   id: "013"
-  title: "Under The Hood: Code Signing on iOS"
+  title: "To the Core of Core NFC"
   description: |
-   Code signing ensures that all mobile apps come from known, trusted sources and haven't been tampered with while in transit to a user's device. Though an integral part of keeping the iOS ecosystem secure, for many developers Apple's code signing methodology remains somewhat cryptic.
+   NFC has been around for a while and we use it every day in things like Apple Pay but how does it work and what features are actually available for developers to use? Until recently NFC was pretty limited on iOS and devs used to struggle to find use cases they could implement in their apps. NFC itself has plenty of applications but we were not able to take full advantage of them because of these limitations but now that Apple has announced tag writing support, the game completely changes. Some of your Android friends might tell you: “Well we have had that for a long time!” and yeah it’s true, but without Apple opening their APIs it was hard for companies to find a compelling case to build apps where only one platform was going to be supported.
 
-   We'll begin by defining code signing at a fundamental level-covering the basics of hashing and public-key cryptography-in order to gain a clear understanding of code signing before diving into Apple's implementation on iOS. Unlike other mobile platforms, code signing on iOS involves additional layers of security; we'll describe the functionality of provisioning profiles, certificates and keychains. We'll dive into why Apple's code signing is mandatory, and how it extends the concept of the chain-of-trust from the operating system to the apps, and prevents third parties from loading any potentially harmful code.
+
+   In this talk, you will learn the basics of Near Field Communication such as tagging, different technologies, and specifications. We will also take a peak to these new features and implement some of them in a quick example and other possible applications.
+
+
+   Join me to see why I think learning about the new Core NFC features are important and the long-lasting implications they will have around the world.
+
   outcome: |
-   - Attendees can expect to walk away with a more firm understanding of why code signing is necessary, what it accomplishes, and how it protects you and your users.
-    - Attendees can expect answers to questions such as:
-     - What’s a keychain for? What are certificates and provisioning profiles?
-     - How do these objects interact during the code signing process?
-     - How does code signing protect me and my users?
-    - We will equip attendees with the knowledge they need to build more complex applications and successfully release apps by creating clarity around Apple’s code signing methodology.
+   - Basics of Near Field communication and tagging, what is NFC? NDEF and the new supported specifications.
+   - Basics of the new Core NFC features and an example of using these features to learn read and write from a tag.
+   - The importance of the latest announcements and why these will have long-lasting implications around the world. Countries like Japan and Germany are already thinking to use this technology to convert their national IDs.
   subtype: presentation
-  speakers: ["18"]
-  complexity: "Advanced"
+  speakers: ["25"]
+  complexity: "Intermediate"
 -
   id: "015"
-  title: "Core Bluetooth in Swift: A Primer"
+  title: "Don't Join a Cult. Learn Mindfulness."
+  description: |
+   Perfectionism. Fear. Guilt. Self-Doubt. These tricky demons can shatter our productivity, silence our best ideas, and block us from our greatest potential. Take back the reins and discover what you’re really capable of. In this talk, you’ll learn the basics of mindfulness through true stories of reptilian cults, imprisoned stalkers, and a very unusual dinner guest.
+  outcome: |
+   - The basics of mindfulness and non-judgmental observation
+   - Introspective tools for becoming comfortable with discomfort
+   - How to not join a cult
   subtype: presentation
   description: ""
-  speakers: ["19"]
+  speakers: ["26"]
 -
   id: "014"
   title: "Testing. Testing. One. Two."
   description: |
-   esting is critical, but can be difficult. In this talk we will explore using Swift’s protocol oriented programming for User Interface testing to create light-weight interfaces that are composed of user behavior and application state. We will discuss the pro’s and con’s of writing tests this way. We will also discuss options for further development of the technique. This talk isn’t just for testers. This talk is also for product managers, designers, developers, and customers! As a use case, will will walk through logging into and using a movie rating app. We will build up a protocol that allows tests to be read as a set of instructions for an actual user. When we are done, we will have a better understanding of behavior driven development, UI testing, and protocol oriented programming in Swift.
+   Testing is critical, but can be difficult. In this talk we will explore using Swift’s protocol oriented programming for User Interface testing to create light-weight interfaces that are composed of user behavior and application state. We will discuss the pro’s and con’s of writing tests this way. We will also discuss options for further development of the technique. This talk isn’t just for testers. This talk is also for product managers, designers, developers, and customers! As a use case, will will walk through logging into and using a movie rating app. We will build up a protocol that allows tests to be read as a set of instructions for an actual user. When we are done, we will have a better understanding of behavior driven development, UI testing, and protocol oriented programming in Swift.
   outcome: |
     - A history of testing (the boring stuff)… Agile, Test Driven Development, and Behavior Driven Development
     -  Swift Protocol Oriented Programming for UI Testing.. Behavior, State and the conversation
@@ -267,9 +282,34 @@
   id: "028"
   title: "Recognize text, facial features, and objects in images with ML Kit for Firebase (1.5h)"
   description: ""
-  subtype: presentation
+  subtype: workshop
   complexity: "intermediate"
   speakers: ["10"]
+-
+  id: "029"
+  title: "Accessibility -> Up to 11!"
+  description: |
+    Let’s go together on a journey to not just create accessible apps, but awesome experiences that absolutely all your users will be able to use and love. How to deal with Dynamic Types and Auto Layout so your UI adapts to any font size the user may prefer; What happens with those hidden actions, which are unveiled with a gesture, when using the app with VoiceOver; What to do when the user wants inverted colors, or reduce motion, or reduce transparency…? Do you know what the Rotor is and what it is used for? And we’ll have to test all this! Let’s find out how.
+
+    It is time to bring the accessibility levels of your app up to eleven!
+  outcome: |
+   TBA
+  subtype: presentation
+  complexity: "Beginner"
+  speakers: ["27"]
+-
+  id: "030"
+  title: "Splitting Views - The Nitty-Gritty of Container View Controllers"
+  description: |
+    When does a `UIView` need a `UIViewController`? The most common answer is to keep one VC per-screen, but the benefits of a ViewController can be felt by any view of any size. In this talk we will take a look at how and why to use Container View Controllers in your apps and discuss best practices and tips for keeping things manageable no matter how many ViewControllers are on screen.
+  outcome: |
+   - Be familiar with Container View Controllers
+   - Know how to set up Container View Controllers programmatically and in Interface Builder
+   - Have formed opinions about what Views would benefit from VCs in their apps
+   - Identify best practices around managing Container View Controllers"
+  subtype: presentation
+  complexity: "Beginner"
+  speakers: ["28"]
 -
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
