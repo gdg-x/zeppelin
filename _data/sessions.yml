@@ -295,7 +295,9 @@
 
     It is time to bring the accessibility levels of your app up to eleven!
   outcome: |
-   TBA
+   - UIAccessibility & VoiceOver: from zero to pro
+   - How Adaptive User Interfaces with Dynamic types & Large Content Viewer works
+   - And more: Smart Inverted Colours, Voice Control, Switch Control, etc.
   subtype: presentation
   complexity: "Beginner"
   speakers: ["27"]
