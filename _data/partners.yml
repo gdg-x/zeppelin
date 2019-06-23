@@ -1,7 +1,7 @@
 -
   group: "Platinum Sponsor"
   elements:
-    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "Pluralsight.jpg", width: "180px"}
+    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "Pluralsight.png"}
 -
   group: "Gold Sponsors"
   elements:
@@ -22,5 +22,5 @@
   group: "Allies"
   elements:
     - {name: "Detroit Labs", description: "Detroit Labs", link: "https://www.detroitlabs.com/", imageUrl: "DetroitLabs.png", width: "90px"}
-    - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "110px"}
+    - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "100px"}
     - {name: "Zeplin", description: "Zeplin", link: "https://zeplin.io", imageUrl: "Zeplin.png", width: "110px"}
