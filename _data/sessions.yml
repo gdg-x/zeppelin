@@ -350,6 +350,19 @@
   complexity: "Beginner"
   speakers: ["31"]
 -
+  id: "035"
+  title: "How We Scaled App Development at Wayfair with 100+ app developers"
+  description: |
+    App development is inherently hard at scale.  On one side, app developers have to create new features that users can use, which in turn helps the business make money. On the other side, app developers need to keep apps fast, consistent, fluid, fun, modular and everything users expect any app to be.  A small app team can do both at once, but as the team scales, keeping focus on these two things equally in a connected way is actually hard, especially at Wayfair with over a hundred app developers and multiple apps across iOS and Android and business areas.  Come listen to our journey so you can learn from how we organized app teams to scale to new heights in order to deliver successful “appy” apps!
+  outcome: |
+   - The challenges of app development at scale
+   - Why a good organization model is important especially at scale
+   - Some organization models to support app development at scale
+   - The steps to get started with your scaling process
+  subtype: presentation
+  complexity: "Beginner"
+  speakers: ["32"]
+-
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
   description: |

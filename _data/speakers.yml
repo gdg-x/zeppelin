@@ -210,19 +210,6 @@
     - {name: "github", link: "https://github.com/kmahar/"}
     - {name: "site", link: "https://kaitlin.dev/"}
 -
-  id: "16"
-  name: "Anne"
-  surname: "Cahalan"
-  company: "Detroit Labs"
-  bio: |
-   Anne is an iOS developer Detroit Labs, where she is constantly delighted by the niftiness of Swift. Passionate about clean code, craft cocktails, and nice yarn, she dreams of an elegantly-designed app that pairs cocktails with knitting patterns. She is contractually required to mention her three-legged cat, Wobbles.
-  thumbnailUrl: AnneCahalan.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/northofnormal"}
-    - {name: "linkedin", link: "https://linkedin.com/in/northofnormal"}
-    - {name: "github", link: "https://github.com/northofnormal"}
--
   id: "18"
   name: "Jason"
   surname: "Zurita"
@@ -398,3 +385,15 @@
   social:
     - {name: "twitter", link: "https://www.twitter.com/kathleenchung"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/kathleen-chung/"}
+-
+  id: "32"
+  name: "Arnaud"
+  surname: "Lucas"
+  company: "Wayfair"
+  title: "Engineering Director"
+  bio: |
+   Arnaud Lucas is an engineering director at Wayfair.  He received his MS in computer science from Université de Technologie de Compiègne in France.  After graduating from university and completing his mandatory military service, he lived in Houston, TX working for early startups in web security and e-commerce.  He then moved to Boston twelve years ago.  With 20 years of software development experience, Arnaud now focuses on scaling the native app organization and two new initiatives at Wayfair: Design Services and Home Services.  He is also helping create the first physical permanent store of Wayfair.  All of them are amazing challenges that he enjoys working on every day.  Wayfair is the largest online home retailer in the US, growing at over 40% YoY, and its native app usage is growing even faster.  When not working, he likes traveling with his two kids, gardening, and making beer (currently a Barley Wine.)  Arnaud is always looking for strong Software Engineers and Leaders that can partner with him in scaling up his engineering teams, web, iOS and Android.
+  thumbnailUrl: ArnaudLucas.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucasarn/"}
