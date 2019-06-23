@@ -178,7 +178,7 @@
   speakers: ["22"]
 -
   id: "018"
-  title: "Talk to be announced"
+  title: "The unreasonable effectiveness and power of VPNs in iOS and other short stories"
   description: |
     TBA
   outcome: |
@@ -233,13 +233,15 @@
   speakers: ["23"]
 -
   id: "024"
-  title: "Talk to be announced"
+  title: "Voiceover On..."
   description: |
-   TBA
+   In a world obsessed with user experience, how much are we thinking about the experience we provide for our visually impaired users? I’ve always strived to make my apps accessible, but merely providing access isn't enough. We should be aspiring to provide an exceptional experience for everyone. I wanted to understand what makes for truly great accessible design, so I turned VoiceOver on for a week...
+
+    In this talk, I’ll share the findings of my experiment. We'll discover the good and bad patterns in commonly-used apps, see what separates the fantastic from the frustrating, and learn about what you can do today to bridge some of the common UX gaps.
   outcome: |
-   TBA
+   Attendees should expect to walk away with an understanding of how they can make their apps more accessible for visually impaired users. They will learn what small code changes to make to improve their apps significantly, what VoiceOver Rotor is and they can leverage it to provide a spectacular experience for their VoiceOver users. Attendees will also, hopefully, walk away with a different perspective when thinking about accessibility.
   subtype: presentation
-  complexity: "Advanced"
+  complexity: "Intermediate"
   speakers: ["20"]
 -
   id: "025"
@@ -310,6 +312,41 @@
   subtype: presentation
   complexity: "Beginner"
   speakers: ["28"]
+-
+  id: "031"
+  title: "SwiftUI: Declarative UI development for the modern era"
+  description: |
+    This talk will introduce the new SwiftUI framework and will provide an overview of how it is used to declaratively build user interfaces across all of the Apple platforms. Emphasis will be given on how user-interface code can be shared between platforms, from the smallest watchOS, through iPhoneOS/iPadOS, and up to macOS & tvOS.
+  outcome: |
+    The attendees will have enough knowledge to start developing apps using the SwiftUI framework.
+  subtype: presentation
+  complexity: "Beginner"
+  speakers: ["29"]
+
+-
+  id: "033"
+  title: "Free Cocoa: hack mobile app and skim the cream"
+  description: |
+    With a set of few simple tools and a bit of enthusiasm, mobile app binary can be read like an open book. My presentation describes practical attack on an iOS app. Realizing how easy the attack can be, is the first step to improve security of your apps.
+  outcome: |
+   - What is https eavesdropping with mitmproxy
+   - How to securing https with ssl-pinning
+   - How to decompiling app using Hopper
+   - How to securing the app with MachObfuscator
+  subtype: presentation
+  complexity: "Intermediate"
+  speakers: ["30"]
+
+-
+  id: "034"
+  title: "Remote Connections: Fostering Relationships in Distributed Teams"
+  description: |
+    It takes more than good internet to be connected to your team when you're working remotely. When you don't share a physical space with your colleagues, you miss out on interpersonal connections which otherwise come for free. This session will cover why these connections are important, and how you and your organization can work to build them.
+  outcome: |
+   The audience should leave with an appreciation for the benefits of good rapport among colleagues, an understanding of potential gaps in communication with their distributed colleagues, and concrete ways to build stronger working relationships in distributed and partially-distributed organizations.
+  subtype: presentation
+  complexity: "Beginner"
+  speakers: ["31"]
 -
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"

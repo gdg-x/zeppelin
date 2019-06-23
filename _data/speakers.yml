@@ -145,6 +145,8 @@
   id: "11"
   name: "James"
   surname: "Graham"
+  company: "Community Phone"
+  title: "Co-Founder"
   bio: |
    James Graham is a software engineer who deeply enjoys starting and building businesses from scratch. He received a Thiel Fellowship last year for his work on Caffei.net, which is the fastest way to establish a TLS connection between iOS and your api (your commerce app can make a lot more money by becoming way faster!). Used by the largest freelancer marketplace, a large-Boston based travel company, and other commerce companies around the world, Caffeine improves security by making PFS and certificate pinning automatic and free, among others.
 
@@ -358,3 +360,41 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://www.twitter.com/iCalvin"}
+-
+  id: "29"
+  name: "Marc"
+  surname: "Prud'hommeaux"
+  company: "Glimpse I/O"
+  title: "Principal Developer"
+  bio: |
+   Marc Prud'hommeaux is the founder and principal developer at Glimpse I/O, which makes database and data visualization apps for the Mac, iPhone, and iPad. He has been a professional software developer for over two decades and has been developing for iOS since 2008, when he released the first ebook reader "Stanza" on the opening day of the Apple App Store. Since then, Marc has worked on various world-class apps such as Amazon Kindle and New York Times Cooking, as well as his own line of macOS and iOS apps. In his spare time he enjoys teaching his daughter Beatrix to fly small airplanes.
+  thumbnailUrl: MarcPrudHommeaux.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcprux/"}
+-
+  id: "30"
+  name: "Kamil"
+  surname: "Borzym"
+  company: "Grupa Allegro"
+  title: "Senior Software Engineer"
+  bio: |
+   Kamil is an iOS software developer. He is very curious of how things work internally, so he likes to decompile frameworks and apps.
+  thumbnailUrl: KamilBorzym.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/kam800"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kamil-borzym-03763473/"}
+-
+  id: "31"
+  name: "Kathleen"
+  surname: "Chung"
+  company: "MetaLab"
+  title: "Senior iOS Engineer"
+  bio: |
+   I'm an iOS engineer based in Toronto, building beautiful interfaces working remotely for MetaLab. I have a special interest in developing effective teams through improving process and building relationships. Outside of work, I'm usually consuming cooking- and cosmetics-related content, or climbing (mostly) plastic rocks.
+  thumbnailUrl: KathleenChung.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/kathleenchung"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kathleen-chung/"}
