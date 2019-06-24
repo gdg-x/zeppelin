@@ -363,7 +363,7 @@
   id: "30"
   name: "Kamil"
   surname: "Borzym"
-  company: "Grupa Allegro"
+  company: "Allegro.pl"
   title: "Senior Software Engineer"
   bio: |
    Kamil is an iOS software developer. He is very curious of how things work internally, so he likes to decompile frameworks and apps.
@@ -377,9 +377,9 @@
   name: "Kathleen"
   surname: "Chung"
   company: "MetaLab"
-  title: "Senior iOS Engineer"
+  title: "iOS Engineer"
   bio: |
-   I'm an iOS engineer based in Toronto, building beautiful interfaces working remotely for MetaLab. I have a special interest in developing effective teams through improving process and building relationships. Outside of work, I'm usually consuming cooking- and cosmetics-related content, or climbing (mostly) plastic rocks.
+   I'm an iOS engineer based in Toronto, building beautiful interfaces working remotely for MetaLab. I have a special interest in developing effective teams through improving process and building relationships. Outside of workf32, I'm usually consuming cooking- and cosmetics-related content, or climbing (mostly) plastic rocks.
   thumbnailUrl: KathleenChung.jpg
   rockstar: true
   social:
