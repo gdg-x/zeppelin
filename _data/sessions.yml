@@ -345,7 +345,9 @@
   description: |
     It takes more than good internet to be connected to your team when you're working remotely. When you don't share a physical space with your colleagues, you miss out on interpersonal connections which otherwise come for free. This session will cover why these connections are important, and how you and your organization can work to build them.
   outcome: |
-   The audience should leave with an appreciation for the benefits of good rapport among colleagues, an understanding of potential gaps in communication with their distributed colleagues, and concrete ways to build stronger working relationships in distributed and partially-distributed organizations.
+   - An appreciation for the benefits of good rapport among colleagues
+   - An understanding of potential gaps in communication with their distributed colleagues
+   - Concrete ways to build stronger working relationships in distributed and partially-distributed organizations
   subtype: presentation
   complexity: "Beginner"
   speakers: ["31"]
