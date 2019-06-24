@@ -15,7 +15,7 @@
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Double Espresso", description: "Double Espresso", link: "https://www.2xe.io", imageUrl: "DoubleEspresso.svg", width: "180px"}
+    - {name: "Double Espresso", description: "Double Espresso", link: "https://www.2xe.io", imageUrl: "DoubleEspresso.svg", width: "240px"}
     - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos.png", width: "110px"}
     - {name: "TripAdvisor", description: "TripAdvisor", link: "https://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}
 -
@@ -23,4 +23,5 @@
   elements:
     - {name: "Detroit Labs", description: "Detroit Labs", link: "https://www.detroitlabs.com/", imageUrl: "DetroitLabs.png", width: "90px"}
     - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "100px"}
+    - {name: "Webtoons", description: "Webtoons", link: "https://www.webtoons.com/en/", imageUrl: "Webtoons.png", width: "100px"}
     - {name: "Zeplin", description: "Zeplin", link: "https://zeplin.io", imageUrl: "Zeplin.png", width: "110px"}
