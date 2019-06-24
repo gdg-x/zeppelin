@@ -404,8 +404,9 @@
   company: "WEBTOON"
   title: "iOS developer"
   bio: |
-   iOS developer at WEBTOON. Researcher & Prototyper of AR.
+   Soojin is an iOS developer based in South Korea, building a comics app WEBTOON for 300M+ global users. He is passionate about Swift and ARKit, and believes AR glasses will one day replace smartphones. Once a business major in university, he learned to code in his spare time, and the first iOS app he crafted was awarded Best of 2015, 2016, and 2017(Yes, three years in a row!) Top Paid Apps in South Korea. He writes about Swift, programming, and mobile apps in his Korean blog.
   thumbnailUrl: SoojinRo.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/soojinro/"}
+    - {name: "site", link: "https://soojin.ro/about"}
