@@ -397,3 +397,15 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucasarn/"}
+-
+  id: "33"
+  name: "Soojin"
+  surname: "Ro"
+  company: "WEBTOON"
+  title: "iOS developer"
+  bio: |
+   iOS developer at WEBTOON. Researcher & Prototyper of AR.
+  thumbnailUrl: SoojinRo.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/soojinro/"}

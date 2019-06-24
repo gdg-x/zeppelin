@@ -365,6 +365,16 @@
   complexity: "Beginner"
   speakers: ["32"]
 -
+  id: "036"
+  title: "Going one step further into ARKit with CoreML and Turi Create"
+  description: |
+    ARKit itself seems to have very limited functionalities. However, I extended what ARKit can do with CoreML when I developed my first AR app, Notable Me(https://itunes.apple.com/kr/app/notable-me/id1453810473?l=en&mt=8). It got featured on ProductHunt(https://www.producthunt.com/posts/notable-me). I will share how I developed this AR app, so other iOS developers can also come up with creative ideas to use ARKit and CoreML. Also, I will share how a mobile developer, who doesn't know how to use Tensorflow, can create custom ML models using Turi Create, Apple's open source library to easily create mlmodels.
+  outcome: |
+   TBA
+  subtype: presentation
+  complexity: "Intermediate"
+  speakers: ["33"]
+-
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
   description: |
