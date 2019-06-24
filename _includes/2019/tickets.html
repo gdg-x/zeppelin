@@ -1,0 +1,32 @@
+<!-- TICKETS -->
+<section id="tickets" class="tickets">
+    <div class="container text-center">
+        <h4 class="mb-5">{{ site.data.y2019.conf.ticketsTitle }}</h4>
+        <div class="row">
+            {% for ticket in site.data.y2019.conf.tickets %}
+            <div class="card col-sm-6">
+                <div class="card-body">
+                    <h5 class="card-title">{{ticket.name}}</h5>
+                    <h4 class="price {% if ticket.featured %} text-success {% endif %}">{{ticket.price}}
+                        {{ticket.currency}}</h4>
+                    <ul>
+                        {% for content in ticket.contentList %}
+                        <li><i class="fas fa-check text-success mr-1"></i>{{content}}</li>
+                        {% endfor %}
+                    </ul>
+
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row mt-2">
+            <ul id="ticketNotes">
+                {% for note in site.data.y2019.conf.ticketsNotes %}
+                <li>{{note}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+
+    </div>
+</section>

@@ -36,3 +36,28 @@ aboutBlock:
 timelineTitle: "Conferências Anteriores"
 
 privacyPolicy: {link: "https://www.pstqb.pt/politicaprivacidade", text: "Política de Privacidade" } 
+
+# Tickets
+ticketsTitle: "Inscrições"
+tickets:
+ -
+  name: "Inscrição Normal"
+  price: "85"
+  currency: "€"
+  soldout: true
+  buyButtonLink: ""
+  buyButtonText: "Inscrever-se Agora"
+  buyButtonSoldoutText: "Inscrições fechadas"
+  contentList: ["Entrada na Conferência Testing Portugal 2019", "Acesso a todas as refeições e documentação"]
+ -
+  name: "Inscrição de Associado *"
+  price: "0"
+  currency: "€"
+  buyButtonLink: ""
+  featured: true
+  soldout: true
+  buyButtonText: "Inscrever-se Agora"
+  buyButtonSoldoutText: "Inscrições fechadas"
+  contentList: ["Entrada na Conferência Testing Portugal 2019","Acesso a todas as refeições e documentação","Acesso a todos os eventos organizados pela PSTQB"]
+
+ticketsNotes: ["* Para ter acesso gratuito à Conferência, deverá garantir que se inscreve (enquanto Associado da PSTQB) até dia 31 de julho de 2019. Inscrições após esta data, não terão acesso grátis à Conferência."]
