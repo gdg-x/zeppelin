@@ -21,7 +21,9 @@
 -
   group: "Allies"
   elements:
+    - {name: "Atlassiam", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "Atlassian.svg", width: "90px"}
     - {name: "Detroit Labs", description: "Detroit Labs", link: "https://www.detroitlabs.com/", imageUrl: "DetroitLabs.png", width: "90px"}
     - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "100px"}
+    - {name: "Slalom", description: "Slalom Consulting", link: "https://www.slalom.com/", imageUrl: "Slalom.png", width: "100px"}
     - {name: "Webtoons", description: "Webtoons", link: "https://www.webtoons.com/en/", imageUrl: "Webtoons.png", width: "100px"}
     - {name: "Zeplin", description: "Zeplin", link: "https://zeplin.io", imageUrl: "Zeplin.png", width: "110px"}
