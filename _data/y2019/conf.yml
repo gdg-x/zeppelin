@@ -42,7 +42,7 @@ ticketsTitle: "Inscrições"
 tickets:
  -
   name: "Inscrição Normal"
-  price: "85"
+  price: "100"
   currency: "€"
   soldout: true
   buyButtonLink: ""
