@@ -410,3 +410,16 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/soojinro/"}
     - {name: "site", link: "https://soojin.ro/about"}
+-
+  id: "34"
+  name: "Michael"
+  surname: "Helmbrecht"
+  company: "Archipelago Analytics"
+  title: "Lead Designer"
+  bio: |
+   Michael is a designer/engineer who enjoys bringing ideas to life & solving any kind of puzzle. He works at Archipelago, designing insurance software. He had a great time at SwiftFest 2018! He never recycles a joke.
+  thumbnailUrl: MichaelHelmbrecht.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/michaelhelmbrecht/"}
+    - {name: "twitter", link: "https://twitter.com/mrh_is"}

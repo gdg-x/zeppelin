@@ -51,7 +51,7 @@
   speakers: ["12"]
 -
   id: "004"
-  title: "To mock ’to mockn a mockingbird’"
+  title: "To mock ’to mock a mockingbird’"
   description: |
     For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.
 
@@ -332,9 +332,9 @@
     With a set of few simple tools and a bit of enthusiasm, mobile app binary can be read like an open book. My presentation describes practical attack on an iOS app. Realizing how easy the attack can be, is the first step to improve security of your apps.
   outcome: |
    - What is https eavesdropping with mitmproxy
-   - How to securing https with ssl-pinning
-   - How to decompiling app using Hopper
-   - How to securing the app with MachObfuscator
+   - How to secure https with ssl-pinning
+   - How to decompile an app using Hopper
+   - How to secure the app with MachObfuscator
   subtype: presentation
   complexity: "Intermediate"
   speakers: ["30"]
@@ -374,6 +374,17 @@
   subtype: presentation
   complexity: "Intermediate"
   speakers: ["33"]
+-
+  id: "037"
+  title: "What time is it? (Seriously, how does your phone know that)"
+  description: |
+   "When you turn on your phone's screen, there's only one thing that's always there every time, reassuring you that everything is in order: the time. But how does your phone know what time it is?
+
+   Through the ages, the question of ""what time is it"" has gone from inconceivable to mildly interesting to extremely difficult to trivial. Let's look at how it got here and how it works today. We'll cover how anyone knows what time it is, how computers think about time, and how your phone stays up to date(/time).
+  subtype: presentation
+  outcome: |
+    You'll learn about an important but oft-overlooked technology, timekeeping. Plus you won't look at your lock screen the same way again.
+  speakers: ["34"]
 -
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
