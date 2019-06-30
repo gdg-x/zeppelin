@@ -150,9 +150,7 @@
   description: |
    Perfectionism. Fear. Guilt. Self-Doubt. These tricky demons can shatter our productivity, silence our best ideas, and block us from our greatest potential. Take back the reins and discover what you’re really capable of. In this talk, you’ll learn the basics of mindfulness through true stories of reptilian cults, imprisoned stalkers, and a very unusual dinner guest.
   outcome: |
-   - The basics of mindfulness and non-judgmental observation
-   - Introspective tools for becoming comfortable with discomfort
-   - How to not join a cult
+    Join author Jackson MacKenzie for a series of bizarre psychological tales that highlight the importance of mindfulness in a stressful world.
   subtype: presentation
   description: ""
   speakers: ["26"]
@@ -240,11 +238,14 @@
   speakers: ["20"]
 -
   id: "025"
-  title: "Talk to be announced"
+  title: "So you want to build an ARKit app"
   description: |
-    TBA
+    ARKit has shown how AR can be integrated into apps to make them more engaging and fun. Although AR has mainly been introduced by games such as Pokémon Go!, it has many practical applications. If you are thinking about using ARKit in your app, this talk is for you.
+    Last year I co-authored the ARKit by Tutorials book, and developed a couple of ARKit apps. This talk covers challenges I experienced building these apps such as ensuring good app performance, handling problematic scenarios and improving plane detection. Learn how to use ARKit to its full potential, keep your AR apps performant and deliver a polished end-user experience.
   outcome: |
-    TBA
+    - You will learn user interface decisions you will need to make when building AR apps
+    - I will share some limitations of ARKit, problems you might face and how to handle them
+    - You will walk away with a basic understanding of how ARKit works and be ready to make awesome AR apps
   subtype: presentation
   complexity: "intermediate"
   speakers: ["21"]
