@@ -108,17 +108,10 @@
   description: |
    Code Golfing is a fun type of recreational programming where “players” strive to achieve the shortest possible source code that implements certain functionality. Using Swift to Code Golf is fun in itself, but there is a lot we can learn from this exercise. Join me in exploring practical takeaways from thinking about each line of Swift code we write!
   outcome: |
-   - What is `Code Golf`.
-   - Code Golfing is fun, but there is a right away and a wrong way — and the right way is really helpful.
-   - Avoid the wrong way of applying a Code Golf mindset to writing code, such as “golfing” our code into something that is totally unreadable or practical like using global variables everywhere.
-   - Learn the advantages of writing fewer lines of code.
-   - More maintainable code and ability to do more with fewer developers — at scale, the more code we write, the more code we need to maintain. So we will inevitably end up writing more code than we can maintain.
-   - Code that can be clearer.
-   - Helps strengthen our Swift skills — I may touch on Code Katas here.
-   - Helps to better assess dependencies. If you use a library, you get charged for every line of code. Instant losing! We should consider the complexity of our dependencies and alternatives such as copying just the lines of code that we need to perform the functionality that we need from that dependency.
-   - How can we write fewer lines of code in Swift (Code Golfing).
-   - Tips ranging from ternary operators, type inference, functional concepts like replacing for loops with variations of map and reducing arrays, ranges, closures, abstraction, free functions, do xib files count as code — programmatic vs interface builder UIs, etc.
-   - Tests help give you a safety net to golf against.
+    - What is Code Golfing?
+    - Code Golfing is fun, but there is a right way and a wrong way — and the right way is really helpful.
+    - Learn the advantages of writing fewer lines of code.
+    - How can we write fewer lines of code in Swift? (edited)
   subtype: presentation
   complexity: "Intermediate"
   speakers: ["18"]
@@ -227,7 +220,9 @@
   description: |
    Tinder's famous LikesYou feature has a golden pill view that shows the number of swipe rights a particular user receives while using the app. Inspired by Robinhood's stock ticker, Tinder has recently upgraded their pill view to have similar sweet scrolling animation. However, since the pill view had letters along with digits, it faced different set of problems. The session will explain how this unique ticker view has been implemented.Through this talk, you will be able to understand what it takes to implement a tickerView like the one from Robinhood and how Tinder has solved the unique set of challenges due to implementing scrolling digits and letters in a single view.
   outcome: |
-    At the end of this session, you will be able to create a ticker view just like the one from Robinhood and understand how Tinder solved its unique set of problems due to scrolling digits and letters with localization within the same view.
+    - How to implement a ticker view that can scroll embedded digits vertically within letters.
+    - How to break a string into individual characters and control the position, width, kerning for each of them while still maintaining support for RTL languages
+    - Further considerations on utilizing DiffableDataSource and NSDiffableDataSourceSnapshot (new iOS 13, Swift 5 API) to implement the ticker
   subtype: presentation
   complexity: "intermediate"
   speakers: ["23"]
@@ -370,7 +365,8 @@
   description: |
     ARKit itself seems to have very limited functionalities. However, I extended what ARKit can do with CoreML when I developed my first AR app, Notable Me(https://itunes.apple.com/kr/app/notable-me/id1453810473?l=en&mt=8). It got featured on ProductHunt(https://www.producthunt.com/posts/notable-me). I will share how I developed this AR app, so other iOS developers can also come up with creative ideas to use ARKit and CoreML. Also, I will share how a mobile developer, who doesn't know how to use Tensorflow, can create custom ML models using Turi Create, Apple's open source library to easily create mlmodels.
   outcome: |
-   TBA
+    - How machine learning frameworks such as CoreML and MLKit can enrich ARKit app.
+    - How to create and fine-tune ML models using Turi Create, even without comprehensive knowledge of machine learning
   subtype: presentation
   complexity: "Intermediate"
   speakers: ["33"]
