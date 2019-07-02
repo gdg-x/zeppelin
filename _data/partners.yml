@@ -5,22 +5,22 @@
 -
   group: "Gold Sponsors"
   elements:
-    - {name: "Wayfair", description: "Wayfair", link: "https://wayfair.com", imageUrl: "Wayfair.svg"}
     - {name: "Tinder", description: "Tinder", link: "https://tech.gotinder.com", imageUrl: "TinderWatermark.png"}
 -
   group: "Silver Sponsors"
   elements:
     - {name: "Capital One", description: "Capital One", link: "https://capitalone.com", imageUrl: "CapitalOne.svg"}
-    - {name: "Rue La La", description: "Rue La La", link: "https://www.ruelala.com/", imageUrl: "RueLaLa.svg"}
+    - {name: "Double Espresso", description: "Double Espresso", link: "https://www.2xe.io", imageUrl: "DoubleEspresso.svg", width: "240px"}
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Double Espresso", description: "Double Espresso", link: "https://www.2xe.io", imageUrl: "DoubleEspresso.svg", width: "240px"}
     - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos.png", width: "110px"}
     - {name: "TripAdvisor", description: "TripAdvisor", link: "https://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}
+    - {name: "Rue La La", description: "Rue La La", link: "https://www.ruelala.com/", imageUrl: "RueLaLa.svg"}
 -
   group: "Allies"
   elements:
+    - {name: "Allegro.pl", description: "Allegro.pl", link: "https://www.allegro.pl/", imageUrl: "Allegro.png", width: "90px"}
     - {name: "Atlassiam", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "Atlassian.svg", width: "90px"}
     - {name: "Detroit Labs", description: "Detroit Labs", link: "https://www.detroitlabs.com/", imageUrl: "DetroitLabs.png", width: "90px"}
     - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "100px"}
