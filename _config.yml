@@ -163,7 +163,7 @@ ticketsOffers:
   disabled: false
   soldOutText: "Sold Out"
  -
-  name: "Early Bird"
+  name: "Super Early Bird"
   price: "299"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
@@ -175,7 +175,7 @@ ticketsOffers:
   disabled: false
   soldOutText: "Sold Out"
  -
-  name: "Regular Bird"
+  name: "Early Bird"
   price: "399"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
