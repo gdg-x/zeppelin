@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "DevOpsDays Sydney - 2019"
 email: "organizers-sydney-2019@devopsdays.org"
@@ -16,6 +15,7 @@ description: "DevOpsDays Sydney is Australia's biggest community-led event!"
 baseurl: ""
 url: "https://devopsdayssydney.org"
 permalink: "/blog/:title"
+mapsApiKey: 'AIzaSyCLvu10NNO6mQ1KGvNT3wQsdpoMvdiOHQg'
 
 # Organizer Info
 organizerName: "DevOps Australia"
