@@ -5,11 +5,11 @@
 - 
   group: "Gold Sponsors"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "", description: "", link: "", imageUrl: "", width: ""}
 - 
   group: "Silver Sponsors"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "", description: "", link: "", imageUrl: ""}
 - 
   group: "Bronze Sponsors"
   elements: 
@@ -17,4 +17,4 @@
 - 
   group: "Special Sponsors"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "", description: "", link: "", imageUrl: ""}

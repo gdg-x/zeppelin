@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DevOpsDays Sydney - 2019"
 email: "organizers-sydney-2019@devopsdays.org"
 description: "DevOpsDays Sydney is Australia's biggest community-led event!"
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 
