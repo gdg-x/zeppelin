@@ -43,7 +43,6 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
@@ -64,7 +63,7 @@ heroButtons:
 # About Block
 aboutTitle: "About DevOpsDays Sydney"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest community-driven DevOps Conference in Australia." }
+ - {title: "Conference", image: "conference.jpg", text: "Devopsdays is a community-organized not-for-profit conference series for DevOps practitioners. It is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

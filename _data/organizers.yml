@@ -1,4 +1,11 @@
 - 
   group: "Organisers"
   elements: 
-    - {name: "Person #1", description: "fjdgklgjdkldfjlk", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Lindsay Holmwood", description: "Engineering Manager at Envato", link: "https://twitter.com/auxesis", imageUrl: "lindsay-holmwood.jpg"}
+    - {name: "Michael Sverdlik", description: "Systems Engineer at Atlassian", link: "https://twitter.com/m1keil", imageUrl: "michael-sverdlik.jpg"}
+    - {name: "Molly Rowe", description: "Community Manager at Vibrato", link: "https://www.linkedin.com/in/mulvinarowe/", imageUrl: "molly-rowe.jpg"}
+    - {name: "Artem Yakimenko", description: "Site Reliability Engineer at Google", link: "https://www.linkedin.com/in/temikus/", imageUrl: "artem-yakimenko.jpg"}
+    - {name: "Jess Belliveau ", description: "Senior Infrastructure Engineer at Apptio", link: "https://twitter.com/JessBelliveau", imageUrl: "jess-belliveau.jpg"}
+    - {name: "Jordan Simonovski", description: "Lead Cloud Engineer at Lendi", link: "https://twitter.com/_jsimonovski", imageUrl: "jordan-simonovski.jpg"}
+    - {name: "Peter Viertel", description: "DevOps Practitioner at NAB", link: "https://www.linkedin.com/in/peter-viertel-3a826b/", imageUrl: "peter-viertel.jpg"}
+    - {name: "Jamie Wilkinson", description: "Site Reliability Engineer at Google", link: "https://twitter.com/jaqx0r", imageUrl: "jamie-wilkinson.jpg"}
