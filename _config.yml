@@ -114,8 +114,8 @@ twitterHashTag: "dodsydney"
 twitterFeed: "https://twitter.com/intent/tweet?button_hashtag=dodsydney&ref_src=twsrc%5Etfw"
 
 # Partners Block
-organizersTitle: "Sponsors"
-partnersTitle: "Partners"
+organizersTitle: "Organisers"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
