@@ -6,7 +6,7 @@
 	}
     .stat {
     	font-size: 100px;
-	    color: $link-color;
+	    color: $primary-color;
 	    @media (min-width: 768px) and (max-width: 991px) {
 	    	font-size: 80px;
 	    }
@@ -19,7 +19,7 @@
 	}
 	hr {
 	    width: 20px;
-	    border-top: 1px solid $link-color;
+	    border-top: 1px solid $primary-color;
 	}
 	.small {
 	    font-size: 15px;
