@@ -1,7 +1,7 @@
 - 
   group: "Platinum Sponsors"
   elements: 
-    - {name: "Lendi", description: "Lendi", link: "https://www.lendi.com.au/", imageUrl: "google.svg"}
+    - {name: "Lendi", description: "Lendi", link: "https://www.lendi.com.au/", imageUrl: "lendi.svg"}
 - 
   group: "Gold Sponsors"
   elements: 
@@ -13,7 +13,7 @@
 - 
   group: "Bronze Sponsors"
   elements: 
-    - {name: "Octopus Deploy", description: "Octopus Deploy", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Octopus Deploy", description: "Octopus Deploy", link: "https://octopus.com/", imageUrl: "octopus.svg"}
 - 
   group: "Special Sponsors"
   elements: 
