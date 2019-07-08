@@ -78,7 +78,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 0
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -172,36 +172,36 @@ logisticsMapMobileCenterCoordinates: "-33.871744, 151.207667"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "direction-details.png"
 directionDetailsTitle: "Get around Sydney"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is very close to they Sydney CBD. It is easily reachable by car, public transport, taxi, or Uber.'}
  - {title: "Hotels", information: 'Sydney has lots of great hotels and hostels. More information will be available later.'}
-# directionDetailsWideCards:
-#  -
-#   title: "Questions?"
-#   subCards:
-#    -
-#     title: "Hotels"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Registration"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Attendance Details"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://www.marriott.com/hotels/travel/sydwi-the-westin-sydney/", text: "Westin Sydney"}
+     - {link: "https://www.icsydney.com.au/", text: "Intercontinental"}
+     - {link: "https://www.hyatt.com/en-US/hotel/australia/hyatt-regency-sydney/sydrs", text: "Hyatt Regency"}
+     - {link: "https://www.panpacific.com/en/hotels-and-resorts/pr-darling-harbour-sydney.html", text: "Park Royal Darling Harbour"}
+  #  -
+  #   title: "Registration"
+  #   links:
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+  #  -
+  #   title: "Attendance Details"
+  #   links:
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
