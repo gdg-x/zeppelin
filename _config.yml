@@ -52,7 +52,7 @@ rightNavigationButtons:
  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "sydney2.jpg"
+heroImage: "sydney.webp"
 heroTitle: "DevOpsDays <typeout> 2019"
 eventDate: "October 10 - October 11, 2019"
 typeoutTextValues: '"Sydney"'
