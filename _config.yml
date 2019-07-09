@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Getting There"}
  - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/conduct/", text: "Conduct"}
 bottomNavigationLinks:
  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
 rightNavigationButtons:
@@ -148,7 +149,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/conduct/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
