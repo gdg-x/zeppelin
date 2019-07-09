@@ -44,6 +44,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
 bottomNavigationLinks:
  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
 rightNavigationButtons:
