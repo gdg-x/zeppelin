@@ -2,19 +2,19 @@
   group: "Platinum Sponsors"
   elements: 
     - {name: "Lendi", description: "Lendi", link: "https://www.lendi.com.au/", imageUrl: "lendi.svg", width: "300px"}
-    
+-
   group: "Gold Sponsors"
-#   elements: 
-#     - {name: "", description: "", link: "", imageUrl: "", width: "300px"}
+  elements: 
+    - {name: "Vibrato", description: "Vibrato", link: "https://www.vibrato.com.au/", imageUrl: "vibrato.jpg", width: "200px"}
 - 
   group: "Silver Sponsors"
-#   elements: 
-#     - {name: "", description: "", link: "", imageUrl: "", width: "200px"}
+  elements: 
+    # - {name: "", description: "", link: "", imageUrl: "", width: "200px"}
 - 
   group: "Bronze Sponsors"
   elements: 
     - {name: "Octopus Deploy", description: "Octopus Deploy", link: "https://octopus.com/", imageUrl: "octopus.svg", width: "100px"}
 - 
   group: "Special Sponsors"
-#   elements: 
-#     - {name: "", description: "", link: "", imageUrl: ""}
+  elements: 
+    # - {name: "", description: "", link: "", imageUrl: ""}
