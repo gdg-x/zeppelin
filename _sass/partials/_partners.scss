@@ -24,6 +24,41 @@
     }
 }
 
+.organisers  {
+    h5 {
+       margin-top: 30px;
+    }
+    .list-inline {
+        margin-bottom: 65px;
+        li {
+            width: 25%;
+            // width: 16%
+            max-width: 200px;
+            margin: 13px 7px;
+            @media (max-width: 767px) {
+                width: 40%;
+                max-width: 160px;
+            }
+        }
+    }
+    img {
+        width: 100%;
+        transition: $base-transition;
+    }
+    .organiser-name {
+        font-weight: bold;
+        font-size: 1.2em;
+        margin-top: 5%;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+    .organiser-description {
+        font-size: 1.2em;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+}
+
 .sponsors {
     h5 {
         margin-top: 30px;
