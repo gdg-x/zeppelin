@@ -8,8 +8,8 @@
                     <h3>{{ site.locationBlockTitle }}</h3>
                     <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
-                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
-                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}, {{ site.eventAddressLocalityRegion }} {{ site.eventPostalCode }} {{ site.eventAddressCountry }}</li>
+                        <li><a href="{{site.eventLocationLink}}">{{site.eventLocationLink}}</a></li>
                         <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -
