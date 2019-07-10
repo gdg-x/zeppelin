@@ -16,6 +16,7 @@ baseurl: ""
 url: "https://www.devopsdayssydney.org"
 permalink: "/blog/:title"
 mapsApiKey: 'AIzaSyCLvu10NNO6mQ1KGvNT3wQsdpoMvdiOHQg'
+googleAnalyticsTrackingId: "UA-134665544-4"
 
 # Organizer Info
 organizerName: "DevOps Australia"
