@@ -25,9 +25,11 @@
 -
   id: "001"
   title: "Keynote: Clean Agile"
-  description: "What was Agile. What is it now? What will it be? And why does it matter?"
+  description: |
+    This talk is about Agile.  What it was, what it is, and what it will be.  This is a back-to-basics talk that covers the history of Agile, what motivated it, and what has happened to it since.  The talk covers the basic practices of Agile, and compares and contrasts those practices with the current menagerie of Agile processes.
   outcome: |
-    - TBA
+    - What was Agile and what is it now
+    - How agaile is evolving and why does it matter
   subtype: presentation
   speakers: ["1"]
 #  video: "https://video-url-goes-here"
