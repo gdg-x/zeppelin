@@ -40,7 +40,7 @@ c4sponsorsUrl: "/assets/DevOpsDays Sydney 2019 - Sponsorship Prospectus.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/agenda/", text: "Agenda"}
+#  - {permalink: "/agenda/", text: "Agenda"}
 #  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Getting There"}
  - {permalink: "/#organisers", text: "Organisers"}
