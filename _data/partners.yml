@@ -20,7 +20,7 @@
 -
   group: "Allies"
   elements:
-    - {name: "Allegro.pl", description: "Allegro.pl", link: "https://www.allegro.pl/", imageUrl: "Allegro.png", width: "90px"}
+    - {name: "Allegro.pl", description: "Allegro.pl", link: "https://allegro.tech", imageUrl: "Allegro.png", width: "90px"}
     - {name: "Atlassiam", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "Atlassian.svg", width: "90px"}
     - {name: "Detroit Labs", description: "Detroit Labs", link: "https://www.detroitlabs.com/", imageUrl: "DetroitLabs.png", width: "90px"}
     - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "DrizlyLogo.svg", width: "100px"}
