@@ -1,10 +1,10 @@
 <!-- Begin Partners Section -->
+<div id="organisers"></div>
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
-            <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
@@ -13,6 +13,7 @@
                     </a>
                 </li>
                 {% endfor %}
+                <div id="sponsors"></div>
             </ul>
             {% endfor %}
             <h3>{{ site.partnersTitle }}</h3>

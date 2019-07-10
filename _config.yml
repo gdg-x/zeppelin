@@ -40,12 +40,11 @@ c4sponsorsUrl: "/assets/DevOpsDays Sydney 2019 - Sponsorship Prospectus.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/agenda/", text: "Agenda"}
+#  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Getting There"}
- - {permalink: "/sponsors/", text: "Sponsors"}
- - {permalink: "/organisers", text: "Organisers"}
+ - {permalink: "/#organisers", text: "Organisers"}
+ - {permalink: "/#sponsors", text: "Sponsors"}
  - {permalink: "/conduct/", text: "Conduct"}
 bottomNavigationLinks:
  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
@@ -95,9 +94,9 @@ eventAddressLocality: "Sydney"
 eventAddressLocalityRegion: "NSW"
 eventPostalCode: "2000"
 eventAddressCountry: "Australia"
-eventStartTime: "2019-10-10T10:00"
+eventStartTime: "2019-10-10T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2019-10-11T20:00"
+eventEndTime: "2019-10-11T17:00"
 eventPlaceCoordinates: "-33.871744, 151.207667"
 mapCenterCoordinates: "-33.871744, 151.207667"
 mapMobileCenterCoordinates: "-33.871744, 151.207667"
@@ -141,16 +140,8 @@ ticketsOffers:
 socialLinks:
  - {link: "https://www.linkedin.com/company/devopsdays-sydney-2019/", icon: "linkedin"}
  - {link: "https://twitter.com/devopsdownunder", icon: "twitter"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:organizers-sydney-2019@devopsdays.org", text: "organizers-sydney-2019@devopsdays.org"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/conduct/", text: "Code of Conduct"}
+ - {link: "mailto:mailto:organizers-sydney-2019@devopsdays.org", icon: "email"}
+
 
 # Blog
 blogTitle: "Latest news"
