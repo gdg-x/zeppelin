@@ -1,4 +1,7 @@
 .statistic {
+	@media (max-width: 767px) {
+		min-height: 0;
+	}
 	.counter {
 		@media (max-width: 767px) {
 			padding-top: 26px;
@@ -24,12 +27,22 @@
 	.small {
 	    font-size: 15px;
 	}
+	ul {
+		@media (max-width: 767px) {
+			padding-left: 0;
+			padding-right: 0;
+	    }
+	}
 	li {
 		display: inline-block;
 		font-size: 1.5em;
 		list-style-type: none;
 		padding: 1em;
 		text-transform: uppercase;
+		@media (max-width: 767px) {
+			font-size: 0.8em;
+			padding: 0.5em;
+	    }
 	}
 	
 	li span {
