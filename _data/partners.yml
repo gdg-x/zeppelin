@@ -5,7 +5,7 @@
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "Vibrato", description: "Vibrato", link: "https://www.vibrato.com.au/", imageUrl: "vibrato.jpg", width: "200px"}
+    - {name: "Vibrato", description: "Vibrato", link: "https://www.vibrato.com.au/", imageUrl: "vibrato.jpg", width: "250px"}
 - 
   group: "Silver Sponsors"
   elements: 
