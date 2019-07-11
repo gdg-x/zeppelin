@@ -183,6 +183,18 @@ ticketsOffers:
   additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
   validFrom: "2019-06-16T00:00"
   validThrough: "2019-07-08T23:59"
+  soldOut: true
+  disabled: false
+  soldOutText: "Sold Out"
+-
+  name: "Regular Bird"
+  price: "499"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
+  validFrom: "2019-07-09T00:00"
+  validThrough: "2019-07-26T23:59"
   soldOut: false
   disabled: false
   soldOutText: "Sold Out"
