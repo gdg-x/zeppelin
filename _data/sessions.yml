@@ -42,10 +42,11 @@
 -
   id: "003"
   title: "Learn Swift"
-  description: "Learn how to make an iOS app from scratch using Storyboard and the Swift language. This course is focused on building beautiful user interfaces and custom animations, elevating your product and giving you an insight into iOS development. Learn how to collaborate better with engineers and own the visual implementation of your design.
+  description: |
+    Learn how to make an iOS app from scratch using Storyboard and the Swift language. This course is focused on building beautiful user interfaces and custom animations, elevating your product and giving you an insight into iOS development. Learn how to collaborate better with engineers and own the visual implementation of your design.
 
                 Meng To's workshops aim to bridge the gap between design and code
-                Get hands-on experience with step-by-step instructions on how to make beautiful iOS apps and Websites. Gain solid foundations needed to design from scratch, prototype quickly and bring your app ideas to life with easy-to-understand code. No coding experience required."
+                Get hands-on experience with step-by-step instructions on how to make beautiful iOS apps and Websites. Gain solid foundations needed to design from scratch, prototype quickly and bring your app ideas to life with easy-to-understand code. No coding experience required.
   outcome: |
    - TBD
   subtype: workshop
@@ -55,13 +56,11 @@
   id: "004"
   title: "To mock ’to mock a mockingbird’"
   description: |
-    For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.
-
-    To help you answer these questions, this presentation will go through the development process of a thoroughly tested audio synthesizer and demonstrate patterns and methodologies that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite.
+    Did you ever notice that there’s no “fun” in Object-Oriented or Protocol-Oriented programming but that functional programming starts with "fun"? In this fast-paced talk we don’t emphasize functional programming because it’s good for you - we look at games and puzzles that go back nearly one hundred years to the invention of combinators. Don’t worry, we’ll get to the useful application part at the end - but let’s begin by just playing.
   outcome: |
-   - You will learn some of the foundations of functional programming
-   - You will root the techniques of modern day functional programming in these ideas from logic
-   - You will see the benefits of using a combinator approach for smoothing and describing some of the flow of logic and control in your applications
+   - The foundations of functional programming
+   - The techniques of modern day functional programming in these ideas from logic
+   - The benefits of using a combinator approach for smoothing and describing some of the flow of logic and control in your applications
   subtype: presentation
   speakers: ["13"]
   complexity: "Intermediate"
