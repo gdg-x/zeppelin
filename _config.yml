@@ -186,7 +186,7 @@ ticketsOffers:
   soldOut: true
   disabled: false
   soldOutText: "Sold Out"
--
+ -
   name: "Regular Bird"
   price: "499"
   priceCurrency: "USD"
