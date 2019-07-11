@@ -1,0 +1,45 @@
+<!-- Begin Statistic Section -->
+<section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.statisticBlockImage }});">
+	<div class="overlay solid-overlay"></div>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+            <div class="container">
+                <h1 id="head">Countdown</h1>
+                <ul>
+                  <li><span id="countdown-days"></span>days</li>
+                  <li><span id="countdown-hours"></span>Hours</li>
+                  <li><span id="countdown-minutes"></span>Minutes</li>
+                  <li><span id="countdown-seconds"></span>Seconds</li>
+                </ul>
+              </div>
+		</div>
+    </div>
+    <script type="text/javascript">
+        function makeTimer() {
+            var endTime = new Date("10 October 2019 8:30:00");			
+			endTime = (Date.parse(endTime) / 1000);
+
+			var now = new Date();
+			now = (Date.parse(now) / 1000);
+
+			var timeLeft = endTime - now;
+
+			var days = Math.floor(timeLeft / 86400); 
+			var hours = Math.floor((timeLeft - (days * 86400)) / 3600);
+			var minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600 )) / 60);
+			var seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
+  
+			if (hours < "10") { hours = "0" + hours; }
+			if (minutes < "10") { minutes = "0" + minutes; }
+			if (seconds < "10") { seconds = "0" + seconds; }
+
+			$("#countdown-days").html(days);
+			$("#countdown-hours").html(hours);
+			$("#countdown-minutes").html(minutes);
+			$("#countdown-seconds").html(seconds);
+        }
+        
+        setInterval(function() { makeTimer(); }, 1000);
+    </script>
+</section>
+<!-- End Statistic Section -->
