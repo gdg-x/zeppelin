@@ -426,3 +426,20 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/iangthomas/"}
     - {name: "twitter", link: "https://twitter.com/iangthomas"}
+-
+  id: "36"
+  name: "Giorgio"
+  surname: "Natili"
+  company: "Amazon Kindle"
+  title: "Engineering Lead"
+  bio: |
+   On paper, I am an engineering lead at Amazon where I work with the layout team of the Kindle organization solving the problem of pre-processing, delivering and rendering the content of millions of books on billions of devices on every supported language.
+
+   In a parallel universe, I foster my vision of an inclusive and diverse community where great training is affordable to everyone. To achieve this goal, I run several conferences (Droidcon Boston and SwiftFest), participate in many meetups in Boston, Seattle, and New York, and speak at conferences covering my favorite topics: Android, Angular, Machine Learning, Swift and TDD.
+
+   I have the honor of being part of the Google Developer Experts program.
+  thumbnailUrl: GiorgioNatili.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili/"}
+    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
