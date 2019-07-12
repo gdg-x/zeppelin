@@ -56,7 +56,11 @@
     - 4:00 List with Data
     - 4:30 Menu Animation and Blur
   outcome: |
-   - TBD
+   - Build an iPhone app from scratch
+   - Adaptive layouts
+   - Animate views and screens
+   - Add gestures and apply 3D transforms
+   - iOS 13 design tips and SF Symbols
   subtype: workshop
   complexity: "beginner / intermediate"
   speakers: ["12"]
@@ -475,6 +479,6 @@
 -
   id: "888"
   title: "Opening Remarks"
-  description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements from Giorgio Natili, SwiftFest team lead."
+  description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements and an overview of the vision and motivations of SwiftFest."
   subtype: meta
-  speakers: [39]
+  speakers: ["039"]
