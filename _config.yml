@@ -78,7 +78,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Swift"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
+ - {count: "30", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "catch the videos later!"} #TODO: tagline appropriate?
 
 # Rockstar Speakers Block

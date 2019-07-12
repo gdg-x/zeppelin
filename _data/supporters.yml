@@ -22,5 +22,6 @@
     - {name: "Big Nerd Ranch", description: "Big Nerd Ranch", link: "https://www.bignerdranch.com", imageUrl: "BigNerdRanch.svg"}
     - {name: "Swift Weekly Brief", description: "Swift Weekly Brief", link: "https://swiftweekly.github.io/", imageUrl: "SwiftWeekly.png"}
     - {name: "iOS Dev Tools", description: "iOS Dev Tools", link: "https://iosdev.tools ", imageUrl: "iOSDevTools.png"}
+    - {name: "Design+Code", description: "Design+Code", link: "https://designcode.io/ ", imageUrl: "Design+Code-Logo-White.png"}
     - {name: "Manning Publications", description: "Manning Publications", link: "https://manning.com", imageUrl: "Manning.png"}
     - {name: "Ray Wenderlich", description: "Ray Wenderlich", link: "https://www.raywenderlich.com", imageUrl: "RayWenderlich.svg"}
