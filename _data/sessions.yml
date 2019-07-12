@@ -41,12 +41,20 @@
   speakers: ["3"]
 -
   id: "003"
-  title: "Learn Swift"
+  title: "SwiftUI Animations and Gestures (4h)"
   description: |
-    Learn how to make an iOS app from scratch using Storyboard and the Swift language. This course is focused on building beautiful user interfaces and custom animations, elevating your product and giving you an insight into iOS development. Learn how to collaborate better with engineers and own the visual implementation of your design.
+    Take your static design to the next level and build real apps with the simplicity of a prototyping tool. The best way for beginners to learn code, and the most efficient way for developers to learn design.
+    This workshop is made for designers and developers who are passionate about collaborating and building real apps for iOS and macOS. It's beginner-friendly, but it's also packed with design tricks and efficient workflows for building great user interfaces and animated interactions.
 
-                Meng To's workshops aim to bridge the gap between design and code
-                Get hands-on experience with step-by-step instructions on how to make beautiful iOS apps and Websites. Gain solid foundations needed to design from scratch, prototype quickly and bring your app ideas to life with easy-to-understand code. No coding experience required.
+    Agenda:
+    - 1:00 Intro
+    - 1:15 Layout and Stacks
+    - 2:00 Components and Visual Effects
+    - 2:30 Gestures and Events
+    - 3:00 Break
+    - 3:30 SF Symbols and Variables
+    - 4:00 List with Data
+    - 4:30 Menu Animation and Blur
   outcome: |
    - TBD
   subtype: workshop
@@ -398,6 +406,28 @@
     - How to evade fears of launching a product “too early”.
   speakers: ["35"]
 -
+  id: "039"
+  title: "Pattern-based Test Suite Design"
+  description: |
+   Testing is hard.
+   Talking about testing is hard.
+   Being committed to testing feels exceptionally hard because it’s hard to do and hard to talk about.
+
+   We oftentimes don’t have vocabulary for describing what were trying to do when we sit down to write test code, and as a community, we don’t discuss the ways in which we can make informed, strategic changes to our test suites as a result of our requirements and desired behavior. The vast opinions and many disparate sources on automated testing also don’t help us navigate this space.
+
+   Based on his experiences engineering countless test suites, Sean Olszewski will outline the problems we have to solve when writing test code, how they differ from the problems you’re solving within your application, and what patterns and metrics exist to simplify and streamline test suite design.
+
+   By the end of this presentation, you’ll have a better vocabulary for describing the fundamental and challenging problems that define automated testing. You’ll also be able to make more reasoned decisions about how you want to evolve your test suite by using patterns and metrics, which ultimately helps you have the utmost confidence in your tests while ensuring you’re still shipping frequently.
+  subtype: presentation
+  outcome: |
+    - Fundamental attributes which describe any test suite
+    - Fundamental problems (like the test oracle problem) that arise when writing automated test suites
+    - A collection of patterns for writing tests & assertions
+    - A collection of metrics you can use to measure your test suite
+    - The benefits and trade-offs of various testing and assertion patterns
+    - A framework to use to make it easier to reason about test & test suite design
+  speakers: ["4"]
+-
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
   description: |
@@ -431,6 +461,12 @@
   subtype: meta
   speakers: []
 -
+  id: "1513"
+  title: "The talk continues..."
+  description: ""
+  subtype: meta
+  speakers: []
+-
   id: "666"
   title: ""
   description: "No talk or workshop in this time slot."
@@ -441,4 +477,4 @@
   title: "Opening Remarks"
   description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements from Giorgio Natili, SwiftFest team lead."
   subtype: meta
-  speakers: []
+  speakers: [39]
