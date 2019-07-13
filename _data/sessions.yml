@@ -264,9 +264,11 @@
    Ever wonder what’s actually going on inside JSONEncoder and JSONDecoder? Why doesn't JSONEncoder conform to the Encoder protocol? What's a CodingKey, and what are all of those "containers" for?
    This talk will be a deep dive into encoding and decoding in Swift: what all of the related protocols are, how they fit together, and how to use them. You will come away from this talk ready to customize how your Swift types are encoded and decoded, and with the knowledge necessary to start writing encoders and decoders of your own.
   outcome: |
-   - You will learn how to highly customize how your Swift types are encoded and decoded, and how standard library encoder and decoders work under the hood
-   - You will gain the necessary background knowledge to even write encoders and decoders of your own
-
+   - Why encoding and decoding are useful
+   - How to encode and decode your Swift types
+   - How to highly customize encoding and decoding behavior
+   - How standard library encoder and decoders work under the hood
+   - Background knowledge needed to write encoders and decoders of your own (e
   subtype: presentation
   complexity: "advanced"
   speakers: ["15"]
