@@ -94,17 +94,12 @@
   title: "The Reactive Code That Broke My Brain and Changed My Mind (just in time for Combine)"
   description: |
    After almost five years of working with ReactiveCocoa and RxSwift, I still felt like reactive (Rx) programming had limited use in my work. But with Swift and RxSwift maturing, I was looking for a way to try it more.
-
    This spring, a colleague and I decided to use it whole-heartedly on a project. We established some guidelines that led us to an extremely clean Model-View-ViewModel implementation with a declarative ViewController and stateless ViewModel.
-
    And when Apple announced Combine at WWDC this year, we were glad we did because this code will convert to SwiftUI/Combine more easily.
 
    To start, I’ll cover the basic ideas of Rx (RxSwift and Combine). But this talk is less about Rx operators and more about how to use Rx to build a reactive architecture.
-
    I’ll show some code from two apps—Trello (RxSwift) and a new workout app I’m working on (Combine).
-
    If you have no Rx experience, in this session I hope to show you some motivating examples that might convince you to give it a try.
-
    If you’re using Rx, I want to show you some techniques for using it to make MVVM structures that are more testable and easier to maintain.
   outcome: |
    - The basic ideas behind Rx that all Rx libraries share
@@ -292,7 +287,14 @@
 -
   id: "028"
   title: "Recognize text, facial features, and objects in images with ML Kit for Firebase (1.5h)"
-  description: ""
+  description: "ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package. Whether you're new or experienced in machine learning, you can easily implement the functionality you need in just a few lines of code. There's no need to have deep knowledge of neural networks or model optimization to get started. In this codelab we will build a sample app using Firebase MLKit for iOS."
+  outcome: |
+    - How to use the ML Kit Text Recognition API to detect text in images
+    -  How to use the ML Kit Face Contour API to identify facial features in images
+    - How to use the ML Kit Cloud Text Recognition API to expand text recognition capabilities (such as non-Latin alphabets) when the device has internet connectivity
+    - How to host a custom pre-trained Tensor Flow Lite model using Firebase
+    - How to use the ML Kit Custom Model API to download the pre-trained TensorFlow Lite model to your app
+    - How to use the downloaded model to run inference and label images
   subtype: workshop
   complexity: "intermediate"
   speakers: ["10"]
@@ -480,5 +482,5 @@
   id: "888"
   title: "Opening Remarks"
   description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements and an overview of the vision and motivations of SwiftFest."
-  subtype: meta
-  speakers: ["039"]
+  subtype: presentation
+  speakers: ["36"]
