@@ -395,6 +395,7 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/soojinro/"}
+    - {name: "twitter", link: "https://www.twitter.com/soojinro/"}
     - {name: "site", link: "https://soojin.ro/about"}
 -
   id: "34"
