@@ -55,6 +55,7 @@
     - 3:30 SF Symbols and Variables
     - 4:00 List with Data
     - 4:30 Menu Animation and Blur
+
   outcome: |
    - Build an iPhone app from scratch
    - Adaptive layouts
@@ -129,7 +130,10 @@
   description: |
    Have you ever seen a code comment saying “this should never happen”? Have you ever wondered what would happen if it did? Swift has a diverse set of error-handling capabilities, from using `throw` to send errors up the stack to using a `Result` to handle errors in asynchronous methods. In this talk, we’ll look at the landscape of handling errors in Swift, create new ways of expressing and handling them, and show how even the most impossible code-level situations can have 100% test coverage.
   outcome: |
-   Spanning the history of error handling from Objective-C to Combine and SwiftUI, this talk will help you better handle errors in your code, test error-handling code paths, and log errors easily and conveniently. You’ll understand not only how to achieve test coverage of your code’s error paths, but also which tests are important to write to understand your error paths.
+    - The history of error handling from Objective-C to Combine and SwiftUI
+    - How to better handle errors in your code, test error-handling code paths, and log errors easily and conveniently
+    - How to achieve test coverage of your code’s error paths
+    - Which tests are important to write to understand your error paths
   subtype: presentation
   complexity: "Advanced"
   speakers: ["14"]
@@ -158,9 +162,9 @@
   description: |
    Perfectionism. Fear. Guilt. Self-Doubt. These tricky demons can shatter our productivity, silence our best ideas, and block us from our greatest potential. Take back the reins and discover what you’re really capable of. In this talk, you’ll learn the basics of mindfulness through true stories of reptilian cults, imprisoned stalkers, and a very unusual dinner guest.
   outcome: |
-    Join author Jackson MacKenzie for a series of bizarre psychological tales that highlight the importance of mindfulness in a stressful world.
+    - A series of bizarre psychological tales
+    - The importance of mindfulness in a stressful world.
   subtype: presentation
-  description: ""
   speakers: ["26"]
 -
   id: "014"
@@ -169,21 +173,11 @@
    Testing is critical, but can be difficult. In this talk we will explore using Swift’s protocol oriented programming for User Interface testing to create light-weight interfaces that are composed of user behavior and application state. We will discuss the pro’s and con’s of writing tests this way. We will also discuss options for further development of the technique. This talk isn’t just for testers. This talk is also for product managers, designers, developers, and customers! As a use case, will will walk through logging into and using a movie rating app. We will build up a protocol that allows tests to be read as a set of instructions for an actual user. When we are done, we will have a better understanding of behavior driven development, UI testing, and protocol oriented programming in Swift.
   outcome: |
     - A history of testing (the boring stuff)… Agile, Test Driven Development, and Behavior Driven Development
-    -  Swift Protocol Oriented Programming for UI Testing.. Behavior, State and the conversation
-    -  Making it work together... An example
-    -  Learn something… How does this help the conversation
+    - Swift Protocol Oriented Programming for UI Testing.. Behavior, State and the conversation
+    - Making it work together
   subtype: presentation
   complexity: "Intermediate"
   speakers: ["22"]
--
-  id: "018"
-  title: "The unreasonable effectiveness and power of VPNs in iOS and other short stories"
-  description: |
-    TBA
-  outcome: |
-    TBA
-  subtype: presentation
-  speakers: ["11"]
 -
   id: "019"
   title: "What Happens When iOS Turns Against You"
@@ -204,7 +198,10 @@
 
    This talk assumes familiarity with Swift syntax for generics, protocols, extensions, enums, and first-class functions (such as completion handlers), as well as the basic differences between Swift structs and classes. More advanced topics, including protocols with associated types, enums with associated data, closures, and functions as return types, will be introduced and explained.
   outcome: |
-    Attendees will learn how to develop generic and reusable code in Swift, starting from concrete implementations and finding the abstractions within. They will learn the vocabulary of generics, including existentials and the many kinds of type erasure. Finally, they will learn the many tools of generic Swift, including protocols, associated types, and generic structs, but also generic functions and most importantly composition of types and functions to make their code more flexible without making it more complex.
+    - How to develop generic and reusable code in Swift, starting from concrete implementations and finding the abstractions within. They will
+    - The vocabulary of generics, including existentials and the many kinds of type erasure
+    - The tools of generic Swift, including protocols, associated types, and generic structs
+    - What are and how to use generic functions and composition of types and functions to write more flexible code without adding complexity
   subtype: presentation
   complexity: "Advanced"
   speakers: ["6"]
@@ -240,7 +237,10 @@
 
     In this talk, I’ll share the findings of my experiment. We'll discover the good and bad patterns in commonly-used apps, see what separates the fantastic from the frustrating, and learn about what you can do today to bridge some of the common UX gaps.
   outcome: |
-   Attendees should expect to walk away with an understanding of how they can make their apps more accessible for visually impaired users. They will learn what small code changes to make to improve their apps significantly, what VoiceOver Rotor is and they can leverage it to provide a spectacular experience for their VoiceOver users. Attendees will also, hopefully, walk away with a different perspective when thinking about accessibility.
+    - How they can make their apps more accessible for visually impaired users
+    - What are the small code changes to make to improve apps significantly
+    - What VoiceOver Rotor is and how to leverage it to provide a spectacular experience for VoiceOver users.
+    - A different perspective when thinking about accessibility.
   subtype: presentation
   complexity: "Intermediate"
   speakers: ["20"]
@@ -268,7 +268,7 @@
    - How to encode and decode your Swift types
    - How to highly customize encoding and decoding behavior
    - How standard library encoder and decoders work under the hood
-   - Background knowledge needed to write encoders and decoders of your own (e
+   - Background knowledge needed to write encoders and decoders of your own
   subtype: presentation
   complexity: "advanced"
   speakers: ["15"]
@@ -401,7 +401,7 @@
   speakers: ["34"]
 -
   id: "038"
-  title: "Cut Corners to Accomplish More: How a minimally viable app, became #1 of Health and Fitness apps."
+  title: "Cut Corners to Accomplish More: How a minimally viable app, became #1 of Health and Fitness apps"
   description: |
    We developers love building fully featured apps and we build them the best way we know; but sometimes this leads us to toil for too long on apps that could have succeeded just as well, with insanely less effort and time.
 
