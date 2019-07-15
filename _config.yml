@@ -141,7 +141,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://www.linkedin.com/company/devopsdays-sydney-2019/", icon: "linkedin"}
  - {link: "https://twitter.com/devopsdownunder", icon: "twitter"}
- - {link: "mailto:mailto:organizers-sydney-2019@devopsdays.org", icon: "email"}
+ - {link: "mailto:organizers-sydney-2019@devopsdays.org", icon: "email"}
 
 
 # Blog
@@ -172,19 +172,29 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.png"
 directionDetailsTitle: "Get around Sydney"
 directionDetailsCards:
+ - title: "Public Transport"
+   information: "Located at the center of Sydney’s CBD, the venue is easily accesibly by public transport. <br><br> Walking times from major transport hubs: <ul> <li>Wynyard station - 8 minutes </li><li> St James stations - 5 mintues </li><li> Town Hall - 2 minutes </li><li> QVB - 1 minute </li></ul>"
+   information2: "<b>Opal Card</b><br>All public transportation in Sydney is paid with the <a href='https://www.opal.com.au/'>Opal card.</a><br>You can buy or recharge Opal card at <a href='https://transportnsw.info/opal-retailers#/'>majority of convenience stores in Sydney</a>, and in few transportation hubs."
  - {title: "From the Airport", information: 'Airport is very close to they Sydney CBD. It is easily reachable by car, public transport, taxi, or Uber.'}
- - {title: "Hotels", information: 'Sydney has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://www.marriott.com/hotels/travel/sydwi-the-westin-sydney/", text: "Westin Sydney"}
-     - {link: "https://www.icsydney.com.au/", text: "Intercontinental"}
-     - {link: "https://www.hyatt.com/en-US/hotel/australia/hyatt-regency-sydney/sydrs", text: "Hyatt Regency"}
-     - {link: "https://www.panpacific.com/en/hotels-and-resorts/pr-darling-harbour-sydney.html", text: "Park Royal Darling Harbour"}
+ - title: "Hotels"
+   information: 'Sydney has lots of great hotels and hostels. More information will be available later.'
+   hotels:
+    - {link: "https://www.marriott.com/hotels/travel/sydwi-the-westin-sydney/", text: "Westin Sydney"}
+    - {link: "https://www.icsydney.com.au/", text: "Intercontinental"}
+    - {link: "https://www.hyatt.com/en-US/hotel/australia/hyatt-regency-sydney/sydrs", text: "Hyatt Regency"}
+    - {link: "https://www.panpacific.com/en/hotels-and-resorts/pr-darling-harbour-sydney.html", text: "Park Royal Darling Harbour"}
+
+#  directionDetailsWideCards:
+#  -
+#   title: "Questions?"
+#   subCards:
+#    -
+#     title: "Hotels"
+#     links:
+#      - {link: "https://www.marriott.com/hotels/travel/sydwi-the-westin-sydney/", text: "Westin Sydney"}
+#      - {link: "https://www.icsydney.com.au/", text: "Intercontinental"}
+#      - {link: "https://www.hyatt.com/en-US/hotel/australia/hyatt-regency-sydney/sydrs", text: "Hyatt Regency"}
+#      - {link: "https://www.panpacific.com/en/hotels-and-resorts/pr-darling-harbour-sydney.html", text: "Park Royal Darling Harbour"}
   #  -
   #   title: "Registration"
   #   links:

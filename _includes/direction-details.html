@@ -13,6 +13,12 @@
                     <div class="card">
                         <h4>{{ card.title }}</h4>
                         <p>{{ card.information }}</p>
+                        <p>{{ card.information2 }}</p>
+                        <ul>
+                        {% for hotel in card.hotels %}
+                        <li><a href="{{ hotel.link }}" target="_blank">{{ hotel.text }}</a></li>
+                        {% endfor %}
+                        </ul>
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
