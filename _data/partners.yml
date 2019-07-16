@@ -16,7 +16,7 @@
   elements:
     - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos.png", width: "110px"}
     - {name: "TripAdvisor", description: "TripAdvisor", link: "https://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}
-    - {name: "Rue Gilt Groupe", description: "Rue Gilt Groupe", link: "https://www.ruelala.com/", imageUrl: "rue-gilt-logo.jpg"}
+    - {name: "Rue Gilt Groupe", description: "Rue Gilt Groupe", link: "https://www.ruelala.com/", imageUrl: "rue-gilt-logo.jpg", width: "120px"}
 -
   group: "Allies"
   elements:
