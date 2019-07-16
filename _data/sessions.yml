@@ -415,24 +415,20 @@
   speakers: ["35"]
 -
   id: "039"
-  title: "Pattern-based Test Suite Design"
+  title: "Optimizing For Testability: Theory, Tools, & Techniques"
   description: |
-   Testing is hard.
-   Talking about testing is hard.
-   Being committed to testing feels exceptionally hard because it’s hard to do and hard to talk about.
+   What makes something “testable”? What does it even mean for something to be “testable”? There is a dizzying amount of patterns, architectures, and practices that claim their superiority due to their impact your application’s testability, but almost always is the definition of testable omitted from the discussion. Worse, people believe that “testable” is a fuzzy word, and as an idea is immeasurable!
 
-   We oftentimes don’t have vocabulary for describing what were trying to do when we sit down to write test code, and as a community, we don’t discuss the ways in which we can make informed, strategic changes to our test suites as a result of our requirements and desired behavior. The vast opinions and many disparate sources on automated testing also don’t help us navigate this space.
+   This session will provide you a concrete definition of testability that is easy to communicate and will show you how testability can be measured empirically. Along the way we’ll go through some automated testing theory, and relate how techniques like dependency injection, centralized state, unidirectional data flow, and interface segregation impact our testability metrics. We’ll also see why the claims that certain architectures are more testable isn’t always true. 
 
-   Based on his experiences engineering countless test suites, Sean Olszewski will outline the problems we have to solve when writing test code, how they differ from the problems you’re solving within your application, and what patterns and metrics exist to simplify and streamline test suite design.
+   After this session, you will be able to improve the testability of any of your modules in a controlled, repeatable, and effective manner. You’ll have a firm theoretical grasp on many automated testing concepts, you will be able to decompose your app’s architecture into a collection of patterns and techniques that reflect its overall testability, and you will sleep better at night knowing that you can write more testable code.
 
-   By the end of this presentation, you’ll have a better vocabulary for describing the fundamental and challenging problems that define automated testing. You’ll also be able to make more reasoned decisions about how you want to evolve your test suite by using patterns and metrics, which ultimately helps you have the utmost confidence in your tests while ensuring you’re still shipping frequently.
   subtype: presentation
   outcome: |
-    - Fundamental attributes which describe any test suite
-    - Fundamental problems (like the test oracle problem) that arise when writing automated test suites
-    - A collection of patterns for writing tests & assertions
-    - A collection of metrics you can use to measure your test suite
-    - The benefits and trade-offs of various testing and assertion patterns
+    - The fundamental attributes which describe any test and test suite
+    - The fundamental problems (like the test oracle problem) that arise when writing automated test suites
+    - A collection of patterns and techniques for improving the testability of your code, regardless of your architecture
+    - A collection of metrics for measuring the testability of your code
     - A framework to use to make it easier to reason about test & test suite design
   speakers: ["4"]
 -
