@@ -1,6 +1,7 @@
 - 
   group: "Platinum Sponsors"
   elements: 
+    - {name: "Buildkite", description: "Buildkite", link: "https://buildkite.com/", imageUrl: "buildkite.svg", width: "200px"}
     - {name: "Lendi", description: "Lendi", link: "https://www.lendi.com.au/", imageUrl: "lendi.svg", width: "300px"}
 -
   group: "Gold Sponsors"
