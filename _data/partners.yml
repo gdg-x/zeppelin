@@ -1,22 +1,23 @@
 -
   group: "Platinum Sponsor"
   elements:
-    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "Pluralsight.png"}
+    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "Pluralsight@3x-8.png"}
 -
   group: "Gold Sponsors"
   elements:
-    - {name: "Tinder", description: "Tinder", link: "https://tech.gotinder.com", imageUrl: "TinderWatermark.png"}
+    - {name: "Tinder", description: "Tinder", link: "https://tech.gotinder.com", imageUrl: "Tinder@3x-8.png"}
 -
   group: "Silver Sponsors"
   elements:
-    - {name: "Capital One", description: "Capital One", link: "https://capitalone.com", imageUrl: "CapitalOne.svg"}
-    - {name: "Double Espresso", description: "Double Espresso", link: "https://www.2xe.io", imageUrl: "DoubleEspresso.svg", width: "240px"}
+    - {name: "Amazon Kindle", description: "Amazon Kindle", link: "https://capitalone.com", imageUrl: "Amazon@3x-8.png"}
+    - {name: "Capital One", description: "Capital One", link: "https://capitalone.com", imageUrl: "CapitalOne@3x-8.png"}
+    - {name: "Double Espresso", description: "Double Espresso", link: "https://www.2xe.io", imageUrl: "DoubleEspresso@3x-8.png", width: "180px"}
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos.png", width: "110px"}
+    - {name: "Rue Gilt Groupe", description: "Rue Gilt Groupe", link: "https://www.ruelala.com/", imageUrl: "Rue@3x-8.png", width: "100px"}
+    - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos@3x-8.png", width: "160px"}
     - {name: "TripAdvisor", description: "TripAdvisor", link: "https://tripadvisor.com", imageUrl: "TripAdvisor.svg", width: "140px"}
-    - {name: "Rue Gilt Groupe", description: "Rue Gilt Groupe", link: "https://www.ruelala.com/", imageUrl: "rue-gilt-logo.jpg", width: "120px"}
 -
   group: "Allies"
   elements:
