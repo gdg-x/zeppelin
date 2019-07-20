@@ -1,7 +1,7 @@
 -
   group: "Platinum Sponsor"
   elements:
-    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "Pluralsight@3x-8.png"}
+    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "PluralSight@3x-8.png"}
 -
   group: "Gold Sponsors"
   elements:
