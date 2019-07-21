@@ -415,21 +415,28 @@
   speakers: ["35"]
 -
   id: "039"
-  title: "Optimizing For Testability: Theory, Tools, & Techniques"
+  title: "Mutation Testing: An Automated Technique for Better Tests"
   description: |
-   What makes something “testable”? What does it even mean for something to be “testable”? There is a dizzying amount of patterns, architectures, and practices that claim their superiority due to their impact your application’s testability, but almost always is the definition of testable omitted from the discussion. Worse, people believe that “testable” is a fuzzy word, and as an idea is immeasurable!
+   As a code base grows, and its test suite covers even more test cases, an important question arises: how do we know our tests are covering every case? Even when practicing test-driven development, some program branches inevitably become omitted from our test suites, a once-effective testing strategy now fails to capture every case, and team churn causes a loss of context on why certain tests were written the way they were. 
 
-   This session will provide you a concrete definition of testability that is easy to communicate and will show you how testability can be measured empirically. Along the way we’ll go through some automated testing theory, and relate how techniques like dependency injection, centralized state, unidirectional data flow, and interface segregation impact our testability metrics. We’ll also see why the claims that certain architectures are more testable isn’t always true. 
-
-   After this session, you will be able to improve the testability of any of your modules in a controlled, repeatable, and effective manner. You’ll have a firm theoretical grasp on many automated testing concepts, you will be able to decompose your app’s architecture into a collection of patterns and techniques that reflect its overall testability, and you will sleep better at night knowing that you can write more testable code.
+   Finding ourselves in this position is stressful at best, and can cause us to question the value of automated testing altogether. 
+   This is where the practice of mutation testing becomes essential.
+   This session will go through an explanation of what mutation testing is, how to use it, how not to use it, and what tooling exists to help us practice automated mutation testing. In addition, the metrics involved with mutation testing will be examined, giving you a sense of how to wield them. By the end of this session, you'll walk away with additional tools, practices, and metrics to help you and your team engineer test suites which more effectively detect bugs and missing functionality. ✅
 
   subtype: presentation
   outcome: |
-    - The fundamental attributes which describe any test and test suite
-    - The fundamental problems (like the test oracle problem) that arise when writing automated test suites
-    - A collection of patterns and techniques for improving the testability of your code, regardless of your architecture
-    - A collection of metrics for measuring the testability of your code
-    - A framework to use to make it easier to reason about test & test suite design
+    📚 A definition of mutation testing and mutation scores
+
+    ❓ How mutation testing works 
+
+    🔍 The difference between mutation scores and code coverage
+
+    ⏱️ When (and when not) to mutation test
+
+    💡 Common patterns and anti-patterns of mutation testing
+    
+    🖥️ Mutation testing tools such as Muter, Stryker, and PITest for Swift, Javascript, Java and Kotlin code
+
   speakers: ["4"]
 -
   id: "032"
