@@ -46,6 +46,7 @@
   id: "3"
   name: "Ish"
   surname: "Shabazz"
+  company: "Illuminated Bits"
   title: "iOS Developer"
   bio: |
    Ish has been an independent iOS App Developer since 2010. He works full time as a network engineer and spends practically every moment outside of that developing apps or working on something app-related. His apps have been featured by Apple, Starbucks, App Advice, iMore, and Daring Fireball. Ish’s story was featured in the documentary App: The Human Story. He is currently working on Capsicum, a daily planner and notebook.
@@ -53,6 +54,7 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ishabazz"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ishmael-shabazz-9651749/"}
 -
   id: "4"
   name: "Sean"
@@ -82,12 +84,14 @@
   id: "6"
   name: "Rob"
   surname: "Napier"
+  company: "Jaybird"
   bio: |
    Rob is co-author of iOS Programming Pushing the Limits, and maintainer of the RNCryptor encryption format. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight. Today, he shapes music over Bluetooth for Logitech, explores old ideas in new languages, and tries to figure out how all of this applies to Swift.
   thumbnailUrl: RobNapier.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/cocoaphony"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rnapier/"}
     - {name: "site", link: "http://robnapier.net/"}
 -
   id: "7"
