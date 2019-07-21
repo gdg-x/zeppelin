@@ -19,3 +19,7 @@
  # group: "Special Sponsors"
   #elements: 
     # - {name: "", description: "", link: "", imageUrl: ""}
+-
+  group: "Coffee Sponsors"
+  elements:
+    - {name: "Code Partners", description: "Code Partners", link: "https://www.code-partners.com/", imageUrl: "code-partners.png", width: "100px"}
