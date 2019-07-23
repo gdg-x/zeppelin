@@ -14,6 +14,9 @@
                         <li><i class="fas fa-check text-success mr-1"></i>{{content}}</li>
                         {% endfor %}
                     </ul>
+                    {% if ticket.buyButtonLink.size > 0 %}
+                    <a href="https://hello.last2ticket.com/event/1903" class="btn btn-primary btn-lg" role="button" target="_blank">{{ticket.buyButtonText}}</a>
+                    {% endif %}
 
                 </div>
             </div>

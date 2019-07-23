@@ -44,8 +44,8 @@ tickets:
   name: "Inscrição Normal"
   price: "100"
   currency: "€"
-  soldout: true
-  buyButtonLink: ""
+  soldout: false
+  buyButtonLink: "https://hello.last2ticket.com/event/1903"
   buyButtonText: "Inscrever-se Agora"
   buyButtonSoldoutText: "Inscrições fechadas"
   contentList: ["Entrada na Conferência Testing Portugal 2019", "Acesso a todas as refeições e documentação"]
@@ -55,7 +55,7 @@ tickets:
   currency: "€"
   buyButtonLink: ""
   featured: true
-  soldout: true
+  soldout: false
   buyButtonText: "Inscrever-se Agora"
   buyButtonSoldoutText: "Inscrições fechadas"
   contentList: ["Entrada na Conferência Testing Portugal 2019","Acesso a todas as refeições e documentação","Acesso a todos os eventos organizados pela PSTQB"]
