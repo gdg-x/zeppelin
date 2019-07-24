@@ -1,0 +1,18 @@
+<section id="partners" class="partners">
+    <div class="container text-center">
+        <h4 class="mb-5">{{ site.data.y2019.conf.partnersTitle }}</h4>
+        <div class="row">
+            {% for partner in site.data.y2019.partners %}
+            <div class="col">
+                <a href="{{ partner.link }}" target="_blank">
+                    <img src="{{site.data.y2019.conf.baseurl}}/img/partners/{{partner.imageUrl}}" />
+                </a>
+            </div>
+
+            {% endfor %}
+        </div>
+
+
+
+    </div>
+</section>
