@@ -14,7 +14,8 @@
 - 
   group: "Bronze Sponsors"
   elements: 
-    - {name: "Octopus Deploy", description: "Octopus Deploy", link: "https://octopus.com/", imageUrl: "octopus.svg", width: "100px"}
+    - {name: "Octopus Deploy", description: "Octopus Deploy", link: "https://octopus.com/", imageUrl: "octopus.svg", width: "150px"}
+    - {name: "Seq", description: "Seq", link: "https://datalust.co/seq", imageUrl: "seq.png", width: "150px"}
 #- 
  # group: "Special Sponsors"
   #elements: 
@@ -22,4 +23,4 @@
 -
   group: "Coffee Sponsors"
   elements:
-    - {name: "Code Partners", description: "Code Partners", link: "https://www.code-partners.com/", imageUrl: "code-partners.png", width: "100px"}
+    - {name: "Code Partners", description: "Code Partners", link: "https://www.code-partners.com/", imageUrl: "code-partners.png", width: "150px"}
