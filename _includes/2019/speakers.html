@@ -1,16 +1,20 @@
 <section id="speakers" class="speakers">
     <div class="container text-center">
-        <h4 class="mb-5">Oradores</h4>
-        <div class="card-columns">
+        <h4 class="mb-5">Oradores em Destaque</h4>
+        <div class="row">
             {% for speaker in site.data.y2019.speakers %}
-            <div class="card speaker-card">
-                <img src="{{ site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl }}"
-                    class="card-img-top" alt="{{ speaker.name }}">
-                <div class="card-body">
-                    <h5 class="card-title">{{ speaker.name }} {{ speaker.surname }}</h5>
-                    <p class="card-text">{{ speaker.title }} @ {{speaker.company}} </p>
-                </div>
+            {% if speaker.rockstar %}
+            <div class="col">
+                <a href="{{ speaker.social.first.link }}" target="_blank">
+                    <img src="{{ site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl }}"
+                        class="speaker-circle" alt="{{ speaker.name }}">
+                    <div class="speaker-details">
+                        <h5 class="speaker-name">{{ speaker.name }} {{ speaker.surname }}</h5>
+                        <p class="speaker-company">{{speaker.company}} </p>
+                    </div>
+                </a>
             </div>
+            {% endif %}
             {% endfor %}
         </div>
     </div>

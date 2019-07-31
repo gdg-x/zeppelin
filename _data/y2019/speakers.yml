@@ -35,3 +35,28 @@
   rockstar: false
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
+- 
+  id: 4
+  name: "Szilard"
+  surname: "Szell"
+  company: "Nokia"
+  title: "DevOps evangelist and Scaled Agile Framework Program Consultant"
+  #shortBio: "Has 10 years in Software Testing, 2 years leading teams in Switzerland and since 2014 leading Siemens Global Test Center."
+  bio: "Szilard Szell’s main goal during the last 18 years has been to help people become addicted to Software Testing, both within Nokia and worldwide. He is a DevOps change agent, Scaled Agile Program Consultant, and Test Coach within NOKIA MOBILE NETWORKS. He holds several ISTQB Certificates, including the Expert Level – Improving the Test Process, as well as DevOps, SAFe, IREB, Scrum Master and Lean Six Sigma certificates. Seem his hobby is to collect certificates, but the truth is he is a collector of LEGO sets!"
+  thumbnailUrl: SzilardSzell.png
+  rockstar: true
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/szellszilard/"}
+    - {icon: "twitter", link: "https://twitter.com/kisszellet"}
+- 
+  id: 5
+  name: "Kristel"
+  surname: "Kruustuk"
+  company: "Testlio"
+  title: "Founder and Chief Testing Officer"
+  bio: ""
+  thumbnailUrl: KristelKruustuk.jpeg
+  rockstar: true
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/kristelviidik/"}
+
