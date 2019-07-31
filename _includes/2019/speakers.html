@@ -1,3 +1,17 @@
-<section>
-    Em Atualização
+<section id="speakers" class="speakers">
+    <div class="container text-center">
+        <h4 class="mb-5">Oradores</h4>
+        <div class="card-columns">
+            {% for speaker in site.data.y2019.speakers %}
+            <div class="card speaker-card">
+                <img src="{{ site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl }}"
+                    class="card-img-top" alt="{{ speaker.name }}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ speaker.name }} {{ speaker.surname }}</h5>
+                    <p class="card-text">{{ speaker.title }} @ {{speaker.company}} </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
 </section>

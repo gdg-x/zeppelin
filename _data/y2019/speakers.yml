@@ -1,0 +1,37 @@
+-
+  id: 1
+  name: "Rik"
+  surname: "Marselis"
+  company: "Sogeti"
+  title: "Testing Expert"
+  bio: "Rik Marselis is a testing expert at Sogeti in the Netherlands. He is a well-appreciated presenter, trainer, author, consultant and coach who supported many organizations and people in improving their testing practice by providing useful tools & checklists, practical support and having in-depth discussions.
+<br/>He is an accredited trainer for ISTQB, TMap- and TPI- certification training courses, but also, Rik has created and delivered many bespoke workshops and training courses. For example, on Intelligent Machines and DevOps testing.
+<br/>Rik is a fellow of Sogeti’s R&D network SogetiLabs. The R&D activities result in white-papers, articles and blogs about IT in general and testing in particular. In 2018 his latest book “Testing in the digital age; AI makes the difference” was published."
+  thumbnailUrl: RikMarselis.jpg
+  rockstar: true
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/rik-marselis-b4a3387/"}
+- 
+  id: 2
+  name: "Joel"
+  surname: "Oliveira"
+  company: "PSTQB – Associação Portuguesa de Testes de Software"
+  title: "Presidente"
+  bio: "Começou a carreira profissional em 1998 e tendo desempenhado diversas funções nas mais diversas áreas de negócio, foi em 2009 que, após um envolvimento mais próximo com a área de testes de software, criou a primeira comunidade portuguesa online focada em qualidade e testes de software. Um ano mais tarde foi um dos fundadores da PSTQB – Portuguese Software Testing and Qualifications Board e desde 2011 que tem vindo a participar também nos grupos de trabalho do ISTQB®."
+  shortBio: "'There is more than one way to do it, but do it right the first time!'"
+  thumbnailUrl: JoelOliveira.jpg
+  rockstar: false
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/joeloliveira"}
+- 
+  id: 3
+  name: "Patrícia"
+  surname: "Alves"
+  company: "PSTQB – Associação Portuguesa de Testes de Software"
+  title: "Vice Presidente"
+  #shortBio: "Has 10 years in Software Testing, 2 years leading teams in Switzerland and since 2014 leading Siemens Global Test Center."
+  bio: "Patricia Alves, co-founded PSTQB – Associação Portuguesa de Testes de Software in 2010. Currently with the role of Vice President of PSTQB - Portuguese board for ISTQB.  At ISTQB community she is part of Exam Working Group since 2010 and she is also Advanced Level ITP Examiner for an European board. With 20 years of IT experience, 17 of them in Software Testing and Team Management. From their professional experience in IT we remark 10 years in Software Testing within consultancy arena as Business Unit Manager, 2 years leading teams in Switzerland as freelancer and since 2014 leading Siemens Global Test Center from Lisbon."
+  thumbnailUrl: PatriciaAlves.jpg
+  rockstar: false
+  social: 
+    - {icon: "linkedin", link: "https://www.linkedin.com/in/patriciaalves34/"}
