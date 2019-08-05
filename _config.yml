@@ -153,7 +153,7 @@ venueFeatures: ["Spa and fitness suite", "Wi-Fi in all rooms and public areas", 
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "bitrconf"
-twitterFeed: "http://twitter.com/bitrconf"
+twitterFeed: "https://twitter.com/bitrconf"
 
 # Partners Block
 organizersTitle: "Organisers"
@@ -181,11 +181,10 @@ ticketsOffers:
   ticketsNumber: "200"
   featured: false
   ribbon: "Full price"
-  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-conference-2020-tickets-60809762637?"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks"]
   validFrom: "2019-12-01T10:00"
-  #validThrough: "2018-11-20T23:59"
   validThrough: "2020-03-25T23:59"
   soldOut: false
   hide: false
@@ -196,11 +195,10 @@ ticketsOffers:
   ticketsNumber: "50"
   featured: true
   ribbon: "-33%"
-  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-conference-2020-tickets-60809762637?"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks"]
   validFrom: "2019-05-07T10:00"
-  #validThrough: "2018-08-31T23:59"
   validThrough: "2020-11-30T23:59"
   soldOut: false
   hide: false
@@ -210,12 +208,11 @@ ticketsOffers:
   priceCurrency: "+ VAT"
   ticketsNumber: "50"
   featured: false
-  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-conference-2020-tickets-60809762637?"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
   buyButtonText: "Buy Now"
   additionalInfo: "Students require a valid student email address at time of purchase."
   ticketContentList: ["Access to all talks"]
   validFrom: "2019-12-01T10:00"
-  #validThrough: "2018-11-20T23:59"
   validThrough: "2020-03-25T23:59"
   soldOut: false
   hide: false

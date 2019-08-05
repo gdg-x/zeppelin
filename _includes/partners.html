@@ -16,20 +16,20 @@
             </ul>
             {% endfor %}
             
-            {% for year in site.data.partners %}                
-                {% if year.elements.size > 0 %}
-                    <h3>{{ year.year }} {{ site.partnersTitle }}</h3>
+            {% for year in site.data.partners %}
+                <h3>{{ site.partnersTitle }}</h3>
+                {% for group in year.groups %}                    
                     <ul class="list-inline">
-                    {% for element in year.elements %}
+                    {% for element in group.elements %}
                     <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                         <a href="{{ element.link }}" target="_blank">
                             <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                         </a>
                     </li>
                     {% endfor %}
-                    </ul>
-                    {% break %}
-                {% endif %}                
+                    </ul>              
+                {% endfor %}
+                {% break %}
             {% endfor %}
             <a href="mailto:{{ site.sponsorEmailAddress }}?subject={{ site.sponsorEmailSubject }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.sponsorButtonMessage }}</a>
         </div>
