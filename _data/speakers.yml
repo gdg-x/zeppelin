@@ -1,16 +1,19 @@
+- 
+  id: 1
+  name: "Nickolas"
+  surname: "Means"
+  company: "GitHub"
+  title: "Senior Engineering Manager"
+  bio: "Nickolas Means loves nothing more than a story of engineering triumph (except maybe a story of engineering disaster). When he's not stuck in a Wikipedia loop reading about plane crashes, he's a Senior Engineering Manager at GitHub working on secure coding and dependency management tools. He works remotely from Austin, TX, and spends his spare time hanging out with his wife and kids, going on runs, and trying to brew the perfect cup of coffee."
+  thumbnailUrl: nmeans.jpg
+  keynote: true
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/nmeans"}
+  ribbon:
+    - {abbr: 'KEYNOTE', title: 'Keynote Speaker', url: "#"}
 # - 
-#   id: 3
-#   name: "Dawid"
-#   surname: "Ostrowski"
-#   company: "Google Poland"
-#   title: "Developer Relations Program Manager"
-#   bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-#   thumbnailUrl: DawidOstrowski.jpg
-#   rockstar: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-# - 
-#   id: 4
+#   id: 2
 #   name: "Dmytro"
 #   surname: "Danylyk"
 #   company: "Lemberg Solutions Limited"

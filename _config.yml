@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/DevOpsDays Sydney 2019 - Sponsorship Prospectus.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 #  - {permalink: "/agenda/", text: "Agenda"}
-#  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Getting There"}
  - {permalink: "/#organisers", text: "Organisers"}
  - {permalink: "/#sponsors", text: "Sponsors"}
@@ -82,7 +82,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

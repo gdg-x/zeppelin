@@ -7,19 +7,19 @@
   group: "Gold Sponsors"
   elements: 
     - {name: "Vibrato", description: "Vibrato", link: "https://www.vibrato.com.au/", imageUrl: "vibrato.jpg", width: "250px"}
-#- 
- # group: "Silver Sponsors"
-  #elements: 
-    # - {name: "", description: "", link: "", imageUrl: "", width: "200px"}
+- 
+ group: "Silver Sponsors"
+ elements: 
+    - {name: "REA Group", description: "REA Group", link: "https://www.rea-group.com/", imageUrl: "reagroup.png", width: "300px"}
 - 
   group: "Bronze Sponsors"
   elements: 
     - {name: "Octopus Deploy", description: "Octopus Deploy", link: "https://octopus.com/", imageUrl: "octopus.svg", width: "150px"}
     - {name: "Seq", description: "Seq", link: "https://datalust.co/seq", imageUrl: "seq.png", width: "150px"}
-#- 
- # group: "Special Sponsors"
-  #elements: 
-    # - {name: "", description: "", link: "", imageUrl: ""}
+- 
+ group: "Ticket Sponsors"
+ elements: 
+    - {name: "REA Group", description: "REA Group", link: "https://www.rea-group.com/", imageUrl: "reagroup.png", width: "200px"}
 -
   group: "Coffee Sponsors"
   elements:
