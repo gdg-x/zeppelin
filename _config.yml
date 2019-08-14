@@ -47,10 +47,10 @@ navigationLinks:
  - {permalink: "/#organisers", text: "Organisers"}
  - {permalink: "/#sponsors", text: "Sponsors"}
  - {permalink: "/conduct/", text: "Conduct"}
-bottomNavigationLinks:
- - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
+# bottomNavigationLinks:
+#  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "sydney.webp"
@@ -59,7 +59,7 @@ eventDate: "October 10 - October 11, 2019"
 typeoutTextValues: '"Sydney"'
 typeoutFallback: "Sydney"
 heroButtons:
- - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
+#  - {link: "https://sessionize.com/dodsyd2019/", text: "Become a speaker"}
  - {link: "/assets/DevOpsDays Sydney 2019 - Sponsorship Prospectus.pdf", text: "Sponsor DevOpsDays"}
  - {permalink: "/#tickets", text: "Purchase tickets"}
 
