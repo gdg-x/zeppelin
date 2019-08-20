@@ -12,6 +12,20 @@
     - {name: "twitter", link: "https://twitter.com/nmeans"}
   ribbon:
     - {abbr: 'KEYNOTE', title: 'Keynote Speaker', url: "#"}
+- 
+  id: 2
+  name: "Donna"
+  surname: "Edwards"
+  company: "Amazon Web Services || CEO @ SHOUTOUT"
+  title: "Partner Manager"
+  bio: "Donna has been enabling technical teams for over twenty years. She is passionate about helping businesses scale, creating great workplace environments where people can thrive. Donna works for AWS as the Partner Manager across WA/SA and was previously the State Delivery Manager at Readify, leading a team of 80. She is the CEO of startup SHOUTOUT - a simple recognition platform designed to help companies create a culture of gratitude. Donna is passionate about community and is a Volunteer for many NFP groups including Women in Technology WA, Muses Code JS, Tech Girls Movement and is a Beacon Foundation mentor. Donna was recognised for her contribution to Professional Services and Community with a 40 under 40 Award in 2019."
+  thumbnailUrl: donnaedwards.jpg
+  keynote: true
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Don_IsGood"}
+  ribbon:
+    - {abbr: 'KEYNOTE', title: 'Keynote Speaker', url: "#"}
 # - 
 #   id: 2
 #   name: "Dmytro"
