@@ -1,72 +1,87 @@
 - 
-  date: '2019-10-10'
-  dateReadable: 'October 10'
-  tracks:
-    - {title: 'To Be Announced', color: "#90be4e"}
+  date: "2019-10-10"
+  dateReadable: "October 10"
+  tracks: 
+    - {title: "Main Track", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "08:00",
+    	endTime: "09:00",
+    	sessionIds: [301]
+    }
+    - {
+      startTime: "09:00",
+      endTime: "09:10",
+      sessionIds: [302]
+    }
+    - {
+    	startTime: "09:10",
+    	endTime: "09:55",
     	sessionIds: [001]
     }
+    - {
+      startTime: "09:55",
+      endTime: "10:00",
+      sessionIds: [401]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:30",
+      sessionIds: [002]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "10:45",
+      sessionIds: [504]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:15",
+    	sessionIds: [003]
+    }
+    - {
+      startTime: "11:15",
+      endTime: "11:20",
+      sessionIds: [402]
+    }
+    - {
+      startTime: "11:20",
+      endTime: "11:50",
+      sessionIds: [004]
+    }
+    - {
+      startTime: "11:50",
+      endTime: "13:15",
+      sessionIds: [503]
+    }
+    - {
+      startTime: "13:15",
+      endTime: "16:45",
+      sessionIds: [505]
+    }
 - 
-  date: '2019-10-11'
-  dateReadable: 'October 11'
-  tracks:
-    - {title: 'To Be Announced', color: "#90be4e"}
+  date: "2019-10-11"
+  dateReadable: "October 11"
+  tracks: 
+    - {title: "Main Track", color: "#90be4e"}
+  timeslots: 
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
+    	sessionIds: [004]
     }
-
-# - 
-#   date: "2014-10-24"
-#   dateReadable: "October 24"
-#   tracks: 
-#     - {title: "Android", color: "#90be4e"}
-#     - {title: "Web & Cloud", color: "#03a9f4"}
-#     - {title: "Community", color: "#e91e63"}
-#   timeslots:
-#     - {
-#     	startTime: "10:00",
-#     	endTime: "10:45",
-#     	sessionIds: [002, 003, 004]
-#     }
-#     - {
-#         startTime: "11:00",
-#         endTime: "11:45",
-#         sessionIds: [003, 404, 004]
-#     }
-#     - {
-#     	startTime: "12:00",
-#     	endTime: "11:45",
-#     	sessionIds: [307]
-#     }
-# - 
-#   date: "2014-10-25"
-#   dateReadable: "October 25"
-#   tracks: 
-#     - {title: "Android", color: "#90be4e"}
-#     - {title: "Web & Cloud", color: "#03a9f4"}
-#   timeslots: 
-#     - {
-#     	startTime: "10:00",
-#     	endTime: "10:45",
-#     	sessionIds: [404, 002]
-#     }
-#     - {
-#     	startTime: "11:00",
-#     	endTime: "11:45",
-#     	sessionIds: [002, 003]
-#     }
-#     - {
-#         startTime: "13:00",
-#         endTime: "13:45",
-#         sessionIds: [003]
-#     }
-#     - {
-#     	startTime: "14:00",
-#     	endTime: "15:00",
-#     	sessionIds: [503]
-#     }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [005]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [006]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:00",
+    	sessionIds: [503]
+    }
