@@ -64,24 +64,59 @@
   dateReadable: "October 11"
   tracks: 
     - {title: "Main Track", color: "#90be4e"}
-  timeslots: 
+  timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [004]
+    	startTime: "08:00",
+    	endTime: "09:00",
+    	sessionIds: [301]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
+      startTime: "09:00",
+      endTime: "09:10",
+      sessionIds: [302]
+    }
+    - {
+    	startTime: "09:10",
+    	endTime: "09:55",
     	sessionIds: [005]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [006]
+      startTime: "09:55",
+      endTime: "10:00",
+      sessionIds: [401]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+      startTime: "10:00",
+      endTime: "10:30",
+      sessionIds: [006]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "10:45",
+      sessionIds: [504]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:15",
+    	sessionIds: [003]
+    }
+    - {
+      startTime: "11:15",
+      endTime: "11:20",
+      sessionIds: [402]
+    }
+    - {
+      startTime: "11:20",
+      endTime: "11:50",
+      sessionIds: [004]
+    }
+    - {
+      startTime: "11:50",
+      endTime: "13:15",
+      sessionIds: [503]
+    }
+    - {
+      startTime: "13:15",
+      endTime: "16:45",
+      sessionIds: [505]
     }

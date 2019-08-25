@@ -43,40 +43,41 @@
   speakers: [1]
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Avengers Assemble - The Thanos Incident"
+  description: "Over the course of the Avengers storyline, everything has been leading up to the ultimate outage—when Thanos snapped his fingers, eliminating half of all life in the universe.<br><br>Come along with me on a journey to perform a retrospective on this greatest of all incidents in the Marvel universe. What were the contributing factors? How could the Avengers have followed better incident response procedures? And can this be reviewed in a truly blameless fashion?<br><br>In this talk, I will revisit the storyline across the Marvel Cinematic Universe that led up to a critical event: the “Snap,” when Thanos removes half of all life in the universe at the end of Avengers: Infinity War, as well as the resolution displayed in Avengers: Endgame. We will explore the activities of the incident response teams (the Avengers, the Guardians of the Galaxy, and more), to discover what they did well, what they could have done better, and why S.H.I.E.L.D. needs to invest in better Incident Response training.<br><br>The audience will learn how to engage in productive Incident Response practices, conduct blameless postmortems, and even why a properly used pager (ala Captain Marvel) can be a key element in successfully navigating even the most dire of universal crises."
   subtype: presentation
-  speakers: [1]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [8]
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Thou shalt not template YAML: Kubernetes Configuration Management with kr8"
+  description: "Launching a Kubernetes cluster is only the first stage of adopting Kubernetes. Kubernetes requires layers of components to create a production-ready platform.<br><br>Installing these components is not a known quantity and the current crop of configuration management tooling, like Puppet, Ansible and Chef don’t understand the abstraction layer of remote APIs.<br><br>Additionally, as the number of Kubernetes clusters you run grows, your ability to install components on them with slight and subtle differences becomes more and more manual. You’re left with snowflake clusters.<br><br>A new crop of tools like Kapitan and Ksonnet have recently come out that attempt to address these issues. We tried several but found significant shortcomings in existing approaches, so we created kr8 :a configuration management tool designed to bring an infrastructure as code philosophy to Kubernetes components.<br><br>This talk will cover the story of how kr8 became necessary for a team of cluster operators, as well as show a practical demo and example of deploying the components needed to build a Kubernetes based platform to multiple clusters across cloud providers, regions and development environments."
   subtype: presentation
-  speakers: [1]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [3]
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Using Metrics to Build High Performance Teams"
+  description: "This talk is about the who, what, when, where and why of team measurement, with the ideal outcome being happier, healthier, more balanced, more engaged and higher performing teams.<br><br>I'll talk about the important things to measure, some things I've seen work, what those data points can tell you and what how you can use that information for the betterment of your teams."
   subtype: presentation
-  speakers: [1]
-  language: en
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [5]
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "TBA"
+  description: "TBA"
+  subtype: keynote
+  speakers: [2]
+-
+  id: 006
+  title: "From Monitoring to Automated Testing of your Infrastructure Code"
+  description: "Don't have time to write automated tests for your infrastructure code? Don't see the point? Or don't know where to start? This talk is for you.<br><br>Now we're writing code to manage our infrastructure with tools like Chef, Puppet, Ansible, etc, we are effectively developing software. One of the wonderful aspects to this is that we have the world of software development quality best practices to draw on in order to achieve a high rate of change while not compromising on reliability. Writing tests for infrastructure code (and having them execute automatically as part of a continuous integration pipeline) is a key element to this, and is the focus for this talk.<br><br>But how do you get started on this? What are some tools to help? How should we think about this problem? This talk will provide an overview of the different types of tests that can be written, from small unit tests to integration and acceptance testing. It will focus on integration testing where existing monitoring checks can provide useful starting point.<br><br>After this talk attendees will:<ul> <li>Better understand the value of automated tests for infrastructure code</li><li>Be motivated to write tests and implement CI pipelines to execute these tests automatically</li><li>Know how to get started with some suggested open source tooling</li></ul>"
   subtype: presentation
-  speakers: [1]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [10]
+# -
+#   id: 005
+#   title: "Test: Interacting with Google Services using nothing but HTML"
+#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#   subtype: presentation
+#   speakers: [1]
+#   language: en
+#   complexity: "Expert"
+#   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
