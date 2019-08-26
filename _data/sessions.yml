@@ -43,8 +43,8 @@
   speakers: [1]
 -
   id: 002
-  title: "Avengers Assemble - The Thanos Incident"
-  description: "Over the course of the Avengers storyline, everything has been leading up to the ultimate outage—when Thanos snapped his fingers, eliminating half of all life in the universe.<br><br>Come along with me on a journey to perform a retrospective on this greatest of all incidents in the Marvel universe. What were the contributing factors? How could the Avengers have followed better incident response procedures? And can this be reviewed in a truly blameless fashion?<br><br>In this talk, I will revisit the storyline across the Marvel Cinematic Universe that led up to a critical event: the “Snap,” when Thanos removes half of all life in the universe at the end of Avengers: Infinity War, as well as the resolution displayed in Avengers: Endgame. We will explore the activities of the incident response teams (the Avengers, the Guardians of the Galaxy, and more), to discover what they did well, what they could have done better, and why S.H.I.E.L.D. needs to invest in better Incident Response training.<br><br>The audience will learn how to engage in productive Incident Response practices, conduct blameless postmortems, and even why a properly used pager (ala Captain Marvel) can be a key element in successfully navigating even the most dire of universal crises."
+  title: "Fight, Flight, or Freeze — Releasing Organizational Trauma"
+  description: "When humans are faced with a traumatic experience, our brains kick in with survival mechanisms. These mechanisms are the familiar fight or flight response, but can also include the freeze response - which occurs when we are terrified or feel that there is no chance of escape.<br><br>In this talk I will explain the background of fight, flight, and freeze, and how it applies to organizations. Based on my own experiences with post-traumatic stress (PTS), I will give examples and suggestions on how to identify your own organizational trauma and how to help heal it.<br><br>Sufferers of post-traumatic stress continue to feel these fight, flight, and freeze responses long after the trauma has passed, because our brains are unable to differentiate between the memory of trauma and an actually occurring event. When activated or triggered, the brain reverts to these behaviors, which are then expressed in the person’s body (through posture, disassociation, muscle tension, etc).<br><br>The same can occur to organizations - once an organization has experienced a trauma (a large outage, say) the “memory” of that trauma leads to a deregulated state whenever activated (by symptoms of similar indicators, such as system alerts, customer issues, and more). The organization will insist on revisiting the same fight, flight, or freeze response as the embedded trauma has caused, which, like a triggered post-traumatic stress sufferer, is a false equivalency.<br><br>One of the treatments for post-traumatic stress is Eye Movement Desensitization and Reprocessing (EMDR), in which the patient’s difficult memories are offset with a positive association that is reinforced through external stimuli. The same can be done for organizations - removing the inaccurate traumatic associations of previous outages and organizational pain through game days, and other techniques, we can reduce the “scar tissue” of our organization and move forward in a balanced manner.<br><br>In this talk I will explain the background of fight, flight, and freeze, and how it applies to organizations. I will give examples and suggestions on how to identify your own organizational trauma and how to help heal it."
   subtype: presentation
   speakers: [8]
 -
@@ -71,6 +71,40 @@
   description: "Don't have time to write automated tests for your infrastructure code? Don't see the point? Or don't know where to start? This talk is for you.<br><br>Now we're writing code to manage our infrastructure with tools like Chef, Puppet, Ansible, etc, we are effectively developing software. One of the wonderful aspects to this is that we have the world of software development quality best practices to draw on in order to achieve a high rate of change while not compromising on reliability. Writing tests for infrastructure code (and having them execute automatically as part of a continuous integration pipeline) is a key element to this, and is the focus for this talk.<br><br>But how do you get started on this? What are some tools to help? How should we think about this problem? This talk will provide an overview of the different types of tests that can be written, from small unit tests to integration and acceptance testing. It will focus on integration testing where existing monitoring checks can provide useful starting point.<br><br>After this talk attendees will:<ul> <li>Better understand the value of automated tests for infrastructure code</li><li>Be motivated to write tests and implement CI pipelines to execute these tests automatically</li><li>Know how to get started with some suggested open source tooling</li></ul>"
   subtype: presentation
   speakers: [10]
+-
+  id: 007
+  title: "TBA"
+  description: "TBA"
+  subtype: presentation
+  # speakers
+-
+  id: 100
+  title: "Sharing: What's in it for me!?"
+  description: "Sharing. It’s one of the four pillars of CAMS. We consume so much shared content but have we ever thought about sharing from the point of view of the Sharer? Why should I share? If I’m constantly sharing information what do I get out of it? What’s in it for me!?<br><br>This lightning talk looks at sharing through the eyes of a Sharer. What benefits do they receive out of sharing? What cultural or psychological benefits are there?"
+  subtype: ignite
+  speakers: [4]
+  presentation: "https://glennsarti.github.io/presentation/sharing-whats-in-it-for-me-ndcsyd/"
+-
+  id: 101
+  title: "Packaging OpenShift Origin Kubernetes Distribution (OKD)"
+  description: "OpenShift Origin project (https://github.com/openshift/origin) is the source of OpenShift, the popular Enterprise Kubernetes distribution. But, how do this software gets packaged and released?<br><br>This lightning talk will explain how the CentOS community structures the SIGs - Special Interest Groups, what automation is used to build and test packages and how the packages are released.<br><br>Finally, we will explain how you can collaborate with the community and the release of packages."
+  subtype: ignite
+  speakers: [6]
+-
+  id: 102
+  title: "Testing - just say no to no"
+  description: "Automated testing (particularly when practiced by developers) has demonstrated value. A lot of things can *seem* like a barrier to entry. I contend that, yes, there are real problems, but people should on no account let it stop them implementing this valuable practice. IOW 'Just say no to no'."
+  subtype: ignite
+  speakers: [9]
+-
+  id: 103
+  title: "Deploying Radically, Democratizing Release"
+  description: "The state of software is driving to get software out the door more quickly, an ever-accelerating pace. We admire companies doing Continuous Integration and Continuous Deployment, even if we aren't there ourselves. What can you do as one person in an organization or one team in a company to make your software ready for the world more quickly?"
+  subtype: ignite
+  speakers: [7]
+-
+  id: 104
+  title: ""
 # -
 #   id: 005
 #   title: "Test: Interacting with Google Services using nothing but HTML"
