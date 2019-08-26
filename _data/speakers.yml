@@ -34,6 +34,8 @@
   title: "Principal Infrastructure Engineer"
   bio: "Lee Briggs is a Senior Infrastructure Engineer at Apptio. With almost 10 years of experience designing, building and maintaining distributed and complex systems, he wears the scars of many deployment tools. When he’s not trying to fit monolithic applications into containers, he playing and watching Soccer and walks with his family and dog, Toby."
   thumbnailUrl: leebriggs.jpg
+  keynote: false
+  rockstar: true
   social:
     - {name: "Twitter", link: "https://twitter.com/briggsl"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/briggsl/"}
@@ -46,6 +48,8 @@
   title: "Senior Software Engineer"
   bio: "Windows Software and Infrastructure Developer with a penchant for DevOps, Puppet, Neo4j or anything Windows related."
   thumbnailUrl: glennsarti.png
+  keynote: false
+  rockstar: true
   social:
     - {name: "Twitter", link: "https://twitter.com/glennsarti"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/glenn-sarti-b0679a101/"}
@@ -58,6 +62,8 @@
   title: "Head of People and Culture"
   bio: "Molly is a people person who has a passion for technology and how it influences our everyday lives. She is currently the Head of People and Culture for RecordPoint and she's loving every action-packed minute of it. Helping people succeed is her ongoing career goal. She aspires to make enough small differences that the molehills become a mountain. When she's not working she's finding a new craft hobby, playing MtG or outside in the sunshine."
   thumbnailUrl: mollyrowe.png
+  keynote: false
+  rockstar: true
   social:
     - {name: "Twitter", link: "https://twitter.com/mulvina_rowe"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/mulvinarowe/"}
@@ -69,6 +75,8 @@
   title: "Consultant"
   bio: "Gleidson Nascimento is a software engineering leader based in Wellington, New Zealand. He has been responsible for delivering automation to large and complex integration environments and for helping CxO-level executives to technically bootstrap start-ups, from ideation all the way to Series C funding.<br><br> He is also an active open-source developer, helping organisations to deliver FOSS solutions to the community, such as Moleculer-go and goa.design. He is also a member of CentOS PaaS SIG.<br><br> Currently, he works at SECTION6 as a Consultant, assisting to foster a continuous learning and improvement culture to its employees. He also publicly speaks at conferences and provides workshops about company culture, automation and communication."
   thumbnailUrl: gleidsonnascimento.jpg
+  keynote: false
+  rockstar: true
   social:
     - {name: "Twitter", link: "https://twitter.com/slaterx"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/gleidson-nascimento-8604009"}
@@ -80,6 +88,8 @@
   title: "Developer Advocate"
   bio: "Heidi is a developer advocate with LaunchDarkly. She delights in working at the intersection of usability, risk reduction, and cutting-edge technology. One of her favorite hobbies is talking to developers about things they already knew but had never thought of that way before. She sews all her conference dresses so that she's sure there is a pocket for the mic."
   thumbnailUrl: heidiwaterhouse.jpg
+  keynote: false
+  rockstar: true
   social:
     - {name: "Twitter", link: "https://twitter.com/wiredferret"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/heidiwaterhouse/"}
@@ -92,6 +102,8 @@
   title: "DevOps Advocate"
   bio: "Matty Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and back when he drove, his license plate actually said “DevOps”.<br><br> Matty has over 20 years experience in IT operations, ranging from large financial institutions such as JPMorganChase and internet firms, including Apartments.com. He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events, including ChefConf, DevOpsDays, Interop, PINK, and others worldwide. Matty is the founder and co-host of the popular <a href='https://www.arresteddevops.com'>Arrested DevOps</a> podcast, as well as a global organizer of the <a href='https://www.devopsdays.org'>DevOpsDays</a> set of conferences.<br><br> He lives in Chicago and has three awesome kids - Henry, Joey, and Sophia, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
   thumbnailUrl: mattystratton.jpg
+  keynote: false
+  rockstar: true
   social:
     - {name: "Twitter", link: "https://twitter.com/mattstratton"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/mattstratton/"}
@@ -105,6 +117,8 @@
   title: "DevOps Manager"
   bio: "Peter McCool was raised by quantum mechanics and so came to regard computers as a tool to do one's dirty work from a young age. He started his IT career in 1995, in desktop support. Since then he's been a UNIX system administrator, various kinds of developer, a tester, and a solution architect, among other things. DevOps, as something that involves all of these things and then some, fascinates him."
   thumbnailUrl: petermccool.jpg
+  keynote: false
+  rockstar: true
 -
   id: 10
   name: "Jesse"
@@ -113,10 +127,11 @@
   title: "Professional Services Engineer"
   bio: "Jesse has worked in large enterprises down to tiny startups in roles such as CTO, Systems Administrator and Software Engineer. Jesse has been striving to automate anything vaguely repetitive looking with computers, and to improve trust, communication and efficiency between dev and ops, since the early days of the world wide web. Jesse co-authored the open source monitoring notification system, Flapjack. Jesse is currently a Professional Services Engineer with Puppet in Australia."
   thumbnailUrl: jessereynolds.jpg
+  keynote: false
+  rockstar: true
   social:
     - {name: "Twitter", link: "https://twitter.com/jessereynolds"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/jessereynolds/"}
-
 # - 
 #   id: 2
 #   name: "Dmytro"
