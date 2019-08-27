@@ -80,20 +80,20 @@
   social:
     - {name: "Twitter", link: "https://twitter.com/slaterx"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/gleidson-nascimento-8604009"}
--
-  id: 7
-  name: "Heidi"
-  surname: "Waterhouse"
-  company: "LaunchDarkly"
-  title: "Developer Advocate"
-  bio: "Heidi is a developer advocate with LaunchDarkly. She delights in working at the intersection of usability, risk reduction, and cutting-edge technology. One of her favorite hobbies is talking to developers about things they already knew but had never thought of that way before. She sews all her conference dresses so that she's sure there is a pocket for the mic."
-  thumbnailUrl: heidiwaterhouse.jpg
-  keynote: false
-  rockstar: true
-  social:
-    - {name: "Twitter", link: "https://twitter.com/wiredferret"}
-    - {name: "LinkedIn", link: "https://www.linkedin.com/in/heidiwaterhouse/"}
-    - {name: "Blog", link: "https://heidiwaterhouse.com/"}
+# -
+#   id: 7
+#   name: "Heidi"
+#   surname: "Waterhouse"
+#   company: "LaunchDarkly"
+#   title: "Developer Advocate"
+#   bio: "Heidi is a developer advocate with LaunchDarkly. She delights in working at the intersection of usability, risk reduction, and cutting-edge technology. One of her favorite hobbies is talking to developers about things they already knew but had never thought of that way before. She sews all her conference dresses so that she's sure there is a pocket for the mic."
+#   thumbnailUrl: heidiwaterhouse.jpg
+#   keynote: false
+#   rockstar: true
+#   social:
+#     - {name: "Twitter", link: "https://twitter.com/wiredferret"}
+#     - {name: "LinkedIn", link: "https://www.linkedin.com/in/heidiwaterhouse/"}
+#     - {name: "Blog", link: "https://heidiwaterhouse.com/"}
 -
   id: 8
   name: "Matty"
@@ -132,6 +132,19 @@
   social:
     - {name: "Twitter", link: "https://twitter.com/jessereynolds"}
     - {name: "LinkedIn", link: "https://www.linkedin.com/in/jessereynolds/"}
+-
+  id: 11
+  name: "Katherine"
+  surname: "Lim"
+  company: "Innablr"
+  title: "Senior Engineer"
+  bio: "Katherine Lim is a Senior Engineer at Innablr. An experienced DevOps Engineer, Katherine has built infrastructure-as-code and worked at the intersection of Development and Operations for the last 20 years."
+  thumbnailUrl: katherinelim.jpg
+  keynote: false
+  rockstar: true
+  social:
+    - {name: "Twitter", link: "https://twitter.com/kml"}
+    - {name: "LinkedIn", link: "https://www.linkedin.com/in/katherinelim/"}
 # - 
 #   id: 2
 #   name: "Dmytro"

@@ -12,12 +12,17 @@
   description: "The organisers welcome you to DevOpsDays Sydney 2019!"
 -
   id: 401
-  title: "Sponsor #1"
+  title: "Sponsor #1 - Lendi"
   place: "Conference Room 1"
   service: true
 -
   id: 402
-  title: "Sponsor #2"
+  title: "Sponsor #2 - BuildKite"
+  place: "Conference Room 1"
+  service: true
+-
+  id: 403
+  title: "Sponsor #3"
   place: "Conference Room 1"
   service: true
 -
@@ -73,10 +78,10 @@
   speakers: [10]
 -
   id: 007
-  title: "TBA"
-  description: "TBA"
+  title: "Effective Onboarding Methods for DevOps Teams"
+  description: "DevOps is a culture of communication and cross-functional collaboration.<br><br>Team members may be new to the company, the team or both.<br>Effective onboarding is key to assist new team members to integrate into their new environment.<br><br>Over the last few years, I've experienced onboarding processes for DevOps teams. I've also helped to improve them.<br><br>This talk will cover why you need to improve your onboarding process, which methods have been the most effective, some pitfalls and the onboarding methods that people hate."
   subtype: presentation
-  # speakers
+  speakers: [11]
 -
   id: 100
   title: "Sharing: What's in it for me!?"
@@ -104,7 +109,8 @@
   speakers: [7]
 -
   id: 104
-  title: ""
+  title: "TBA"
+  description: "TBA"
 # -
 #   id: 005
 #   title: "Test: Interacting with Google Services using nothing but HTML"
