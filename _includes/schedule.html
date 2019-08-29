@@ -42,6 +42,7 @@
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">
                                             {% if session.subtype == "keynote" %}<b>Keynote - </b>{% endif %}
+                                            {% if session.subtype == "ignite" %}<b>Ignite - </b>{% endif %}
                                             {{ session.title }}
                                         </h5>
                                         <span class="slot-language">{{session.language | upcase}}</span>
