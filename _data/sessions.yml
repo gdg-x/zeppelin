@@ -26,6 +26,11 @@
   place: "Conference Room 1"
   service: true
 -
+  id: 404
+  title: "Gold Sponsors"
+  place: "Conference Room 1"
+  service: true
+-
   id: 503
   title: "Lunch Break"
   place: "Hall"
