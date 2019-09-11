@@ -1,0 +1,17 @@
+.sponsors  {
+    
+    img{
+        
+        opacity: 0.3;
+        width: 10%;
+        animation-name: sponsors_anim;
+        animation-duration: 7.5s;
+        animation-fill-mode: forwards;
+
+    }
+    @keyframes sponsors_anim{
+        from {width: 10%; opacity: 0.3;}
+        to {width: 40%; opacity: 0.9;}
+      }
+    
+}

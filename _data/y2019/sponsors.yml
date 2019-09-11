@@ -1,0 +1,6 @@
+- 
+  group: "Diamond"
+  elements: 
+    
+    - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/pt/homepage", imageUrl: "noesis.png"}
+    
