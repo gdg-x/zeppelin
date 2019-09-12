@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Floripa 2019"
+title: "GDG DevFest Sul 2019"
 email: "gdgfloripa@gmail.com"
 description: "GDG DevFest é um conjunto de eventos ao redor do mundo"
-baseurl: "/devfest"
+baseurl: "/devfestsul2019"
 url: "https://gdg-floripa.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
