@@ -314,3 +314,16 @@
   bio: "Liz Keogh is a Lean and Agile consultant based in London. She is a well-known blogger and international speaker, a core member of the BDD community and a passionate advocate of the Cynefin framework and its ability to change mindsets. She has a strong technical background with 20 years’ experience in delivering value and coaching others to deliver, from small start-ups to global enterprises. Most of her work now focuses on Lean, Agile and organizational transformations, and the use of transparency, positive language, well-formed outcomes and safe-to-fail experiments in making change innovative, easy and fun."
   thumbnailUrl: liz-keogh.jpg
   rockstar: true
+-
+  id: 4
+  name: "Anne-Marie"
+  surname: "Imafidon"
+  company: "Stemettes"
+  title: "Co-Founder"
+  bio: |
+    From child prodigy to MBE, Dr Anne-Marie Imafidon is Head Stemette and co-founder of Stemettes, the award-winning social enterprise inspiring the next generation of females into Science, Technology, Engineering, and Mathematics (STEM) roles via a series of impactful events and opportunities.<br/>
+    One of the youngest ever to be awarded a Masters’ degree in Mathematics & Computer Science by the University of Oxford at age 20, Anne-Marie, unsurprisingly, continued to soar. In 2018 alone, she was listed among the top 50 women in tech in the world by Forbes, voted the 5th most influential woman in IT by Computer Weekly and was the recipient of the prestigious Barclays UK ‘Woman of the Year’ award.<br/>
+    2017 saw her featured among the top 50 most inspiring women in tech by Inspiring Fifty (an accolade she received for a second time in 2018). In recognition of her significant influence and achievements, Anne-Marie was awarded an MBE in the 2017 New Year’s Honours for services to young women and STEM sectors. In June of the same year she was also made an Honorary Fellow at Keble College, Oxford.<br/>
+    Not only a champion of getting women into STEM positions, Anne-Marie has previously worked with Goldman Sachs, Hewlett-Packard, Deutsche Bank and Lehman Brothers, amassing a wealth of experience. She is also a recognised thoughtleader in the tech space, regularly appearing in the media as a talking head, and giving talks at tech giants such as SXSW and Founders Forum.
+  thumbnailUrl: Anne-Marie-Imafidon.jpg
+  rockstar: true
