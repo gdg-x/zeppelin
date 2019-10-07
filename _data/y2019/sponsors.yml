@@ -4,3 +4,8 @@
     
     - {name: "Noesis", description: "Noesis", link: "https://www.noesis.pt/pt/homepage", imageUrl: "noesis.png"}
     
+-
+  group: ""
+  elements:
+
+    - {name: "Clariter", description: "Clariter", link: "https://www.claritergroup.com/", imageUrl: "clariter.png"}
