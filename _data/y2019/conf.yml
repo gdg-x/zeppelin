@@ -11,7 +11,7 @@ navigationLinks:
  #- {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Oradores"}
  #- {permalink: "/workshops/", text: "Workshops"}
- #- {permalink: "/course/", text: "Formação"}
+ - {permalink: "/course/", text: "Formação"}
 
  # Hero
 heroImage: banner.png
