@@ -1,0 +1,83 @@
+-
+  id: 001
+  title: "Testing Intelligent Machines"
+  descriptions: ["<p>This workshop is both about testing OF <strong>intelligent</strong> machines and about testing WITH <strong>intelligent machines</strong>.</p>
+  <p>Have you ever tested an intelligent machine before? In this workshop you will experience through discussion, quizzes and hands-on testing what is new about testing artificial intelligence and robotics. You will experience what is different when you test a physical robot (a Lego Mindstorms robot). And you’ll also test an intelligent agent (= chatbot). </p>
+  <p>Also you’ll create your own flightplan towards quality forecasting so you’ll be able to prepare your organization for using AI as a quality assurance tool. And you’ll learn how explainable AI tackles the challenge of knowing what an AI has decided and why.</p> ",
+  "<iframe width='560' height='315' src='https://www.youtube.com/embed/v8dlPiHcWsk' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"]
+  subtype: workshop
+  speakers: [1]
+  language: en
+  
+-
+  id: 002
+  title: "Cloud Testing"
+  descriptions: [<p>Introduction</p>
+  <ul>
+    <li>Introduction to the course</li>
+    <li>Introduction to cloud computing</li>
+    <li>Characterisitcs of cloud service</li>
+  </ul>
+
+  <p>Cloud Technology and terminology</p>
+  <ul>
+    <li>Virtualization as the backbone for cloud</li>
+    <li>…as a Service</li>
+    <li>SaaS, PaaS, IaaS</li>
+    <li>Costs of cloud infrastrcutre</li>
+  </ul>
+
+  <p>Walk in the clouds - Setting up an instance</p>
+  <ul>
+    <li>A commercial cloud hosting service setup</li>
+    <li>Choosing OS, resources, instance type etc.</li>
+    <li>Installation of applications</li>
+    <li>Checking usage and costing</li>
+    <li>Common settings</li>
+    <li>Setting up clustering</li>
+    <li>Setting up Load balancing</li>
+    <li>Networking</li>
+    <li>Security</li>
+    <li>Availability zones</li>
+    <li>Elasticity and autoscaling</li>
+  </ul>
+
+  <p>Docker</p>
+  <ul>
+    <li>Docker introduction</li>
+    <li>Creating and publishing images</li>
+    <li>Docker and Kubernets</li>
+   
+  </ul>
+
+  <p>Testing cloud apps</p>
+  <ul>
+    <li>Data location</li>
+    <li>Application Sharing</li>
+    <li>Multi-tenancy</li>
+    <li>Data ownership, interoperability and portability</li>
+    <li>Security</li>
+    <li>Compliance</li>
+    <li>Disaster recovery</li>
+    <li>Expertise availability</li>
+    <li>Running cost blindness</li>
+    <li>Bandwidth requirement</li>
+    <li>Elasticity and autoscaling</li>
+    <li>Cloud migration testing</li>
+  </ul>
+
+  <p>Disaster Recovery (DR)</p>
+  <ul>
+    <li>Introduction</li>
+    <li>Types of setup </li>
+    <li>Types of scenarios</li>
+    <li>Testing DR</li>
+  </ul>]
+  subtype: workshop
+  speakers: [6]
+  language: en
+  presentation: 
+-
+  id: 003
+  title: 
+  youtubeVideo: https://youtu.be/q5Ob3blPDo4

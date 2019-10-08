@@ -24,11 +24,11 @@ aboutBlock:
       text: ["A PSTQB - Associação Portuguesa de Testes de Software realiza, no próximo dia 19 de novembro de 2019, no ALTIS Grand Hotel, em Lisboa, a 10ª edição da Conferência Testing Portugal."
       #,"<strong><a href='/schedule/' | prepend: baseurl>Confira a agenda</a></strong> e <strong><a href='#tickets'>reserve já o seu lugar!</a></strong>"
           ]}
- - {title: "Workshops", image: "workshop.jpg",
+ - {title: "<a href='/2019/workshops/'>Workshops</a>", image: "workshop.jpg",
       text: ["Workshops no dia 18 de novembro de 2019!"
       #,"<strong><a href='/workshops/' | prepend: baseurl >Confira as workshops!</a></strong>"
       ]}
- - {title: "Formação", image: "course.png",
+ - {title: "<a href='/2019/course/'>Formação</a>", image: "course.png",
       text: ["Na semana anterior à conferência não perca a formação ISTQB."
       #,"<strong><a href='/course/' | prepend: baseurl>Não perca os últimos lugares!</a></strong>"
       ]}
