@@ -1,17 +1,14 @@
 .sponsors  {
     
-    img{
-        
-        opacity: 0.3;
-        width: 10%;
-        animation-name: sponsors_anim;
-        animation-duration: 7.5s;
-        animation-fill-mode: forwards;
-
+    img {
+        opacity: 1;
+        transition: opacity .25s ease-in-out;
+        -moz-transition: opacity .25s ease-in-out;
+        -webkit-transition: opacity .25s ease-in-out;
     }
-    @keyframes sponsors_anim{
-        from {width: 10%; opacity: 0.3;}
-        to {width: 40%; opacity: 0.9;}
-      }
-    
+
+    img:hover {
+      opacity: 0.6;
+    }
+
 }

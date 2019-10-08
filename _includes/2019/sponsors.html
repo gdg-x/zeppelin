@@ -1,0 +1,30 @@
+<section id="sponsors" class="sponsors">
+    {% for section in site.data.y2019.sponsors %}
+    <div class="container text-center mt-4">
+
+
+        <h4 class="mb-3">{{ section.name }}</h4>
+        {% for group in section.groups %}
+        <h5 class="sponsorsGroup">{{ group.name }}</h5>
+        {% if group.name %}
+        
+        {% endif %}
+        <div class="row">
+            {% for sponsor in group.elements %}
+
+            <div class="col">
+                <a href="{{ sponsor.link }}" target="_blank">
+                    <img src="{{site.data.y2019.conf.baseurl}}/img/sponsors/{{sponsor.imageUrl}}" />
+                </a>
+            </div>
+            {% endfor %}
+            {% endfor %}
+        </div>
+
+
+
+
+    </div>
+    {% endfor %}
+
+</section>
