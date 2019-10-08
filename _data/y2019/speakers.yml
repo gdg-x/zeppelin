@@ -59,4 +59,20 @@
   rockstar: true
   social: 
     - {icon: "linkedin", link: "https://www.linkedin.com/in/kristelviidik/"}
-
+-
+  id: 6
+  name: "Vipul"
+  surname: ""
+  company: "Indian Testing Board"
+  title: "President"
+  bio: "<p>Vipul is the President of Indian Testing Board, the ISTQB board for India. He is the founder of TestAIng (pronounced testing – www.testAIng.com) world’s first AI focused testing services company and Verity software – a training company. He is also the convener of STeP-IN forum, a not-for-profit forum for software testers. He is also co-founder of SALT (School of Applied Learning in Testing) a skill assessment company.</p>
+  <p>He has 25 years of experience in various capacities with leading companies. Vipul is currently part of an International Special Interest Group (SIG) on “DevOps and Testing”, “Testing Cloud Apps” as well as “AI and Testing” which is developing certifications for respective subjects. He consults companies on how to test AI based systems and is currently engaged in researching and developing techniques for testing of AI-ML based systems.</p>
+  <p>Vipul co-founded and ran PureTesting, a hugely successful and recognized testing services company from 2004 to 2012 and sold it before beginning his next entrepreneurial journey.</p>
+  <p>He has won several awards including the best paper award at STAREast 2006 and the Logica CMG Triple Star Award for the most original contribution at EuroStar 2005.
+  <br/>He has been a Keynote speaker at many testing conferences worldwide.</p>
+  <p>Vipul invented Q-Patterns, a method of capturing testing knowledge and writing reusable test cases. This method is being used by various organizations across the world.
+  <br/>He is also the inventor of Linguistic Analysis technique for identification of large number of tests from minimal documentation in shortest time possible.</p>"
+  thumbnailUrl: vipul.jpg
+  rockstar: true
+  social:
+    - {}
