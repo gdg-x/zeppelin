@@ -28,7 +28,7 @@ aboutBlock:
       text: ["Workshops no dia 18 de novembro de 2019!"
       #,"<strong><a href='/workshops/' | prepend: baseurl >Confira as workshops!</a></strong>"
       ]}
- - {title: "<a href='/2019/course/'>Formação</a>", image: "course.png",
+ - {title: "Formação", image: "course.png", link: "/course/",
       text: ["Na semana anterior à conferência não perca a formação ISTQB."
       #,"<strong><a href='/course/' | prepend: baseurl>Não perca os últimos lugares!</a></strong>"
       ]}
