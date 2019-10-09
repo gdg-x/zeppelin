@@ -32,7 +32,10 @@
 
                         <img class="rounded-circle mb-2" width="128" height="128"
                             src="{{site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl}}">
-                        <div>{{speaker.name}} {{speaker.surname}}</div>
+                        <div>{{speaker.name}} {{speaker.surname}}
+                            <a class="speaker-social-link" href="{{ speaker.social.first.link }}"><i
+                                    class="fab fa-linkedin-in"></i></a>
+                        </div>
 
                         <div class="text-justify speaker-bio">{{speaker.bio}}</div>
                         {% endif %}
@@ -50,28 +53,31 @@
             </div>
             {% else %}
             <div class="tab-pane fade" id="w{{ session.id }}" role="tabpanel" aria-labelledby="w{{ session.id }}-tab">
-                    <div class="row mt-4">
-                            <div class="col-md-4 text-center">
-                                {% for session_speaker in session.speakers %}
-                                {% for speaker in site.data.y2019.speakers %}
-                                {% if session_speaker == speaker.id %}
-        
-                                <img class="rounded-circle mb-2" width="128" height="128"
-                                    src="{{site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl}}">
-                                <div>{{speaker.name}} {{speaker.surname}}</div>
-        
-                                <div class="text-justify speaker-bio">{{speaker.bio}}</div>
-                                {% endif %}
-                                {% endfor %}
-                                {% endfor %}
-                            </div>
-                            <div class="col-md-8 ">
-                                    <h4>Workshop description</h4>
-                                {% for description in session.descriptions %}
-                                {{ description }}
-                                {% endfor %}
-                            </div>
+                <div class="row mt-4">
+                    <div class="col-md-4 text-center">
+                        {% for session_speaker in session.speakers %}
+                        {% for speaker in site.data.y2019.speakers %}
+                        {% if session_speaker == speaker.id %}
+
+                        <img class="rounded-circle mb-2" width="128" height="128"
+                            src="{{site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl}}">
+                        <div>{{speaker.name}} {{speaker.surname}}
+                            <a class="speaker-social-link" href="{{ speaker.social.first.link }}"><i
+                                    class="fab fa-linkedin-in"></i></a>
                         </div>
+
+                        <div class="text-justify speaker-bio">{{speaker.bio}}</div>
+                        {% endif %}
+                        {% endfor %}
+                        {% endfor %}
+                    </div>
+                    <div class="col-md-8 ">
+                        <h4>Workshop description</h4>
+                        {% for description in session.descriptions %}
+                        {{ description }}
+                        {% endfor %}
+                    </div>
+                </div>
             </div>
             {% endif %}
             {% endif %}
