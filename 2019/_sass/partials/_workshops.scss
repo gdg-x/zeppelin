@@ -1,4 +1,20 @@
 .workshops{
-    ul{list-style: none;}
+    ul{
+        list-style: none;
+        font-weight: $base-font-weight;
+        font-size: $base-font-size;
+        line-height: $base-line-height;
+        padding-left: 10px;
+    }
+
+    .active {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .speaker-bio {
+        font-weight: $light;
+        font-size: $base-font-size;
+    }
     
 }

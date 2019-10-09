@@ -10,7 +10,7 @@ navigationLinks:
  - {permalink: "#timeline", text: "Conferências Anteriores"}
  #- {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Oradores"}
- #- {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/workshops/", text: "Workshops"}
  - {permalink: "/course/", text: "Formação"}
 
  # Hero

@@ -1,37 +1,82 @@
-
 <section id="workshops" class="workshops schedule">
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        {% for session in site.data.y2019.sessions %}
-        {% if session.subtype == 'workshop' and session.speakers.size > 0 %}
+    <h3>Workshops</h3>
+    <div class="container text-justify">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            {% for session in site.data.y2019.sessions %}
+            {% if session.subtype == 'workshop' and session.speakers.size > 0 %}
             {% if forloop.first == true %}
-                <li class="nav-item">
-                    <a class="nav-link active" id="w{{ session.id }}-tab" data-toggle="tab" href="#w{{ session.id }}" role="tab" aria-controls="w{{ session.id }}" aria-selected="true">{{ session.title }}</a>
-                </li>
+            <li class="nav-item">
+                <a class="nav-link active" id="w{{ session.id }}-tab" data-toggle="tab" href="#w{{ session.id }}"
+                    role="tab" aria-controls="w{{ session.id }}" aria-selected="true">{{ session.title }}</a>
+            </li>
             {% else %}
-                <li class="nav-item">
-                        <a class="nav-link" id="w{{ session.id }}-tab" data-toggle="tab" href="#w{{ session.id }}" role="tab" aria-controls="w{{ session.id }}" aria-selected="false">{{ session.title }}</a>
-                    </li>
+            <li class="nav-item">
+                <a class="nav-link" id="w{{ session.id }}-tab" data-toggle="tab" href="#w{{ session.id }}" role="tab"
+                    aria-controls="w{{ session.id }}" aria-selected="false">{{ session.title }}</a>
+            </li>
             {% endif %}
-        {% endif %}
-        {% endfor %}
-      </ul>
-      <div class="tab-content" id="myTabContent">
-        {% for session in site.data.y2019.sessions %}
-        {% if session.subtype == 'workshop' and session.speakers.size > 0 %}
+            {% endif %}
+            {% endfor %}
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            {% for session in site.data.y2019.sessions %}
+            {% if session.subtype == 'workshop' and session.speakers.size > 0 %}
             {% if forloop.first == true %}
-                <div class="tab-pane fade show active" id="w{{ session.id }}"  role="tabpanel" aria-labelledby="w{{ session.id }}-tab" >
-                    {% for description in session.descriptions %}
+            <div class="tab-pane fade show active" id="w{{ session.id }}" role="tabpanel"
+                aria-labelledby="w{{ session.id }}-tab">
+                <div class="row mt-4">
+                    <div class="col-md-4 text-center">
+                        {% for session_speaker in session.speakers %}
+                        {% for speaker in site.data.y2019.speakers %}
+                        {% if session_speaker == speaker.id %}
+
+                        <img class="rounded-circle mb-2" width="128" height="128"
+                            src="{{site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl}}">
+                        <div>{{speaker.name}} {{speaker.surname}}</div>
+
+                        <div class="text-justify speaker-bio">{{speaker.bio}}</div>
+                        {% endif %}
+                        {% endfor %}
+                        {% endfor %}
+                    </div>
+                    <div class="col-md-8 ">
+                        <h4>Workshop description</h4>
+                        {% for description in session.descriptions %}
                         {{ description }}
-                    {% endfor %}
+                        {% endfor %}
+                    </div>
                 </div>
+
+            </div>
             {% else %}
-                <div class="tab-pane fade" id="w{{ session.id }}" role="tabpanel" aria-labelledby="w{{ session.id }}-tab" >
-                    {% for description in session.descriptions %}
-                        {{ description }}
-                    {% endfor %}
-                </div>
+            <div class="tab-pane fade" id="w{{ session.id }}" role="tabpanel" aria-labelledby="w{{ session.id }}-tab">
+                    <div class="row mt-4">
+                            <div class="col-md-4 text-center">
+                                {% for session_speaker in session.speakers %}
+                                {% for speaker in site.data.y2019.speakers %}
+                                {% if session_speaker == speaker.id %}
+        
+                                <img class="rounded-circle mb-2" width="128" height="128"
+                                    src="{{site.data.y2019.conf.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl}}">
+                                <div>{{speaker.name}} {{speaker.surname}}</div>
+        
+                                <div class="text-justify speaker-bio">{{speaker.bio}}</div>
+                                {% endif %}
+                                {% endfor %}
+                                {% endfor %}
+                            </div>
+                            <div class="col-md-8 ">
+                                    <h4>Workshop description</h4>
+                                {% for description in session.descriptions %}
+                                {{ description }}
+                                {% endfor %}
+                            </div>
+                        </div>
+            </div>
             {% endif %}
-        {% endif %}
-        {% endfor %}
-      </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
 </section>

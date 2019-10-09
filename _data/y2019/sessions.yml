@@ -12,14 +12,14 @@
 -
   id: 002
   title: "Cloud Testing"
-  descriptions: [<p>Introduction</p>
+  descriptions: [<h5>Introduction</h5>
   <ul>
     <li>Introduction to the course</li>
     <li>Introduction to cloud computing</li>
     <li>Characterisitcs of cloud service</li>
   </ul>
 
-  <p>Cloud Technology and terminology</p>
+  <h5>Cloud Technology and terminology</h5>
   <ul>
     <li>Virtualization as the backbone for cloud</li>
     <li>…as a Service</li>
@@ -27,7 +27,7 @@
     <li>Costs of cloud infrastrcutre</li>
   </ul>
 
-  <p>Walk in the clouds - Setting up an instance</p>
+  <h5>Walk in the clouds - Setting up an instance</h5>
   <ul>
     <li>A commercial cloud hosting service setup</li>
     <li>Choosing OS, resources, instance type etc.</li>
@@ -42,7 +42,7 @@
     <li>Elasticity and autoscaling</li>
   </ul>
 
-  <p>Docker</p>
+  <h5>Docker</h5>
   <ul>
     <li>Docker introduction</li>
     <li>Creating and publishing images</li>
@@ -50,7 +50,7 @@
    
   </ul>
 
-  <p>Testing cloud apps</p>
+  <h5>Testing cloud apps</h5>
   <ul>
     <li>Data location</li>
     <li>Application Sharing</li>
@@ -66,7 +66,7 @@
     <li>Cloud migration testing</li>
   </ul>
 
-  <p>Disaster Recovery (DR)</p>
+  <h5>Disaster Recovery (DR)</h5>
   <ul>
     <li>Introduction</li>
     <li>Types of setup </li>
