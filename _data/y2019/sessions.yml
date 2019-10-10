@@ -81,3 +81,21 @@
   id: 003
   title: 
   youtubeVideo: https://youtu.be/q5Ob3blPDo4
+-
+  id: 004
+  title: "DevOps Workshop (two moduls of Culture and CI/CD Pipeline design)"
+  descriptions: ["<h5>2 hours - LEGO4DevOps - Introducing DevOps Culture with a game</h5>",
+  "<p>Learning by Doing - Playing - Experiencing</p>",
+  "<p>The workshop enables to understand:</p>",
+  "<ul>
+    <li>the importance of communication between Dev and Ops</li>
+    <li>the importance of collective goals rather then individual objectives</li>
+    <li>the need for collaboration on solving problems</li>
+  </ul>",
+  "<br>",
+  "<h5>5 hours - <a href='https://www.praqma.com/stories/pipeline-card-game/'>Pipeline</a> - The Game that Delivers!</h5>",
+  "<p>A new card game to design Continuous Delivery pipelines</p>",
+  "<p>What testing steps should you include in your Continuous Delivery pipeline? Don’t just string together existing manual processes - use simple, collaborative tools to design something better!</p>"]
+  subtype: workshop
+  speakers: [4] 
+  language: en
