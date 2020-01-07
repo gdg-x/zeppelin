@@ -4,11 +4,10 @@
   -
     elements:
     - {name: "Gluck", description: "", link: "https://www.gluckgames.com", imageUrl: "gluck.png"}
-    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid_logo_solo.png"}
-    - {name: "NCFE", description: "", link: "https://www.ncfe.org.uk/", imageUrl: "NCFE_LOGO.svg"}
+    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid_logo_solo.png"}    
   -
     elements:
-    - {name: "Scott Logic", description: "Altogether Smarter", link: "https://www.scottlogic.com", imageUrl: "scottlogic.jpg"}
+    - {name: "NCFE", description: "", link: "https://www.ncfe.org.uk/", imageUrl: "NCFE_LOGO.svg"}
     - {name: "Waterstons", description: "Performance through technology", link: "https://www.waterstons.com", imageUrl: "image167a69.JPG"}
     - {name: "Turnitin", description: "Education with Integrity", link: "https://www.turnitin.com/", imageUrl: "turnitin-logo.jpg"}
 -
