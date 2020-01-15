@@ -26,16 +26,6 @@
     - {name: "site", link: "http://devcycle.co.uk/"}
 -
   id: 2
-  name: "Dave"
-  surname: "Sarginson"
-  title: "Programme Committee"
-  thumbnailUrl: sarg.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/SarginsonD"}
-    - {name: "github", link: "https://github.com/ShaolinSarg"}
--
-  id: 3
   name: "Cat"
   surname: "Coulter"
   title: "Organiser"
@@ -46,7 +36,7 @@
     - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
     - {name: "site", link: "http://www.beaconhouse-events.co.uk"}
 -
-  id: 4
+  id: 3
   name: "Sophie"
   surname: "FLanagan"
   title: "Organiser"
@@ -57,48 +47,53 @@
     - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
     - {name: "site", link: "http://www.beaconhouse-events.co.uk"}
 -
-  id: 5
-  name: "Chris"
-  surname: "Suter"
-  title: "Programme Committee"
-  thumbnailUrl: Chris-Suter.png
+  id: 4
+  name: "Fay"
+  surname: "Cooper"
+  company: "DWP Digital"
+  title: "Lead Product Manager"
+  thumbnailUrl: Fay_Cooper.jpg
   subTeam: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/chris-suter-71876270/?originalSubdomain=uk"}
+    - {name: "twitter", link: "https://twitter.com/fay_cooper"}
+-
+  id: 5
+  name: "Mark"
+  surname: "Jose"
+  company: "Scott Logic"
+  title: "Technical Principal"
+  thumbnailUrl: Mark_Jose.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/markleejose"}
 -
   id: 6
-  name: "Helena"
-  surname: "Hill"
-  title: "Programme Committee"
-  thumbnailUrl: Helena-Hill.png
+  name: "Dan"
+  surname: "Pudwell"
+  company: "Grid Smarter Cities"
+  title: "Technology Director"
+  thumbnailUrl: Dan_Pudwell.jpg
   subTeam: true
   social:
-    - {name: "twitter", link: "https://twitter.com/HelenaHillUXCX?lang=en"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielpudwell"}
 -
   id: 7
-  name: "Jon"
-  surname: "McNestrie"
-  title: "Programme Committee"
-  thumbnailUrl: Jon-McNestrie.jpg
+  name: "Dan"
+  surname: "Rough"
+  company: "Gluck"
+  title: "Chief Product Development Officer"
+  thumbnailUrl: Dan_Rough.jpg
   subTeam: true
   social:
-    - {name: "twitter", link: "https://twitter.com/JonMcNestrie"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danrough"}
 -
   id: 8
-  name: "Paul"
-  surname: "Dinning"
-  title: "Programme Committee"
-  thumbnailUrl: Paul-Dinning.jpg
+  name: "Danielle"
+  surname: "Stone"
+  company: "JUMP"
+  title: "Lead UX Designer"
+  thumbnailUrl: Danielle_Stone.jpg
   subTeam: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/paul-dinning-1273871/"}
--
-  id: 9
-  name: "Ben"
-  surname: "Lovatt"
-  title: "Programme Committee"
-  thumbnailUrl: Ben-Lovatt-cropped.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/Hitchpingu"}
+    - {name: "twitter", link: "https://twitter.com/urbanherd"}
 -
