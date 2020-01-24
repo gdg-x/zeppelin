@@ -1,236 +1,288 @@
-# -
-#   id: 307
-#   title: "Break"
-#   service: true
-#   # description: "The best time to talk with speakers and attendees"
-# -
-#   id: 308
-#   title: "Changeover"
-#   service: true
-# -
-#   id: 503
-#   title: "Lunch"
-#   # place: "TBC"
-#   service: true
-# -
-#   id: 001
-#   title: "Registration, Refreshments and Exhibition"
-#   # description: "Conference registration. Check in, get a beverage of your choice and some breakfast. Take the chance to mingle with fellow attendees and speakers."
-#   service: true
-# -
-#   id: 002
-#   title: "Conference Welcome Compere"
-#   description: 
-#   subtype: keynote
-#   speakers: [4]
-#   language: en
-# -
-#   id: 003
-#   title: "Opening Keynote"
-#   description: "My talk is about the broad topic of “Software Engineering”. Throughout the history of our industry, we have had a variety of attempts to define what Software Engineering means. On the whole I don’t think that these attempts have worked. I wonder if it is time for another attempt. Clearly though, given the history, it needs to be different to previous attempts.<br/>
-#   Here is a challenging thought: If we were to attempt to establish the “ground-rules” for our profession, can you imagine the definitions of ”Software Engineering” that will still be true in 100 years’ time? If not they can’t really form the basis of our work; they will be “fashion” rather than “engineering”.<br/>
-#   “Why does this matter?”. Without some agreement on what is good, and what is not, it is impossible for us to make any progress. Some ideas are good, some are bad and some we don’t know. Where we know the answers, it makes sense to agree on the good things and stop doing the bad things. Where we don’t know, we need some form of “scale” of “what works” and “what doesn’t”. Any attempt to improve in the absence of such a scale is only a matter of guesswork and opinion."
-#   subtype: keynote
-#   speakers: [2]
-#   language: en
-#   # complexity: "Intermediate"
-#   # presentation: ""
-#   # video: ""
-# -
-#   id: 007
-#   title: "Afternoon Keynote"
-#   description: 
-#   subtype: keynote
-#   speakers: [4]
-#   language: en
-#   # complexity: "Intermediate"
-#   # presentation: ""
-#   # video: ""
-# -
-#   id: 010
-#   title: "Closing Keynote"
-#   description: "Software architecture is something that all software developers need to know about, as it underpins much of what we do. However, much of this has been lost over the past ~20 years, and software architecture has fallen out of fashion following the creation of the Manifesto for Agile Software Development, and its widespread misinterpretation. My talk is about the five things that every software developer should know about software architecture. It’s about introducing a new generation of software developers to the essence of software architecture, answering questions such as “how much up front design should we do?” and “what is the role of a software architect in our modern agile world?”."
-#   subtype: keynote
-#   speakers: [3]
-#   language: en
-#   # complexity: "Intermediate"
-#   # presentation: ""
-#   # video: ""
-# -
-#   id: 011
-#   title: "Closing Remarks"
-#   description: 
-#   subtype: keynote
-#   speakers: [4]
-#   language: en
-# -
-#   id: 999
-#   title: ""
-#   clickable: false
-# -
-#   id: 100
-#   title: "An ongoing journey with micro-services and DDD"
-#   description: "In only 6 years, Bede Gaming has built a globally competitive gaming platform in Microsoft’s Azure cloud using micro-service architecture. This talk briefly retraces our architectural journey from startup to industry leader, how our optimal team structure was affected by the architecture as we grew and how the influence of Domain Driven Design has more recently impacted our views on the trade-offs of the architecture we chose and how we could optimise it moving forward."
-#   type: A
-#   subtype: presentation
-#   speakers: [5]
-#   language: en
-#   # presentation: ""
-# -
-#   id: 101
-#   title: "Higher or Lower - ML in JS"
-#   description: |
-#     Machine Learning has had a transformative effect on many industries, but rarely has it been so rapidly adopted as in finance. It can be found identifying fraud, optimising sales targeting, high-frequency trading and far more besides.<br/>
-#     This talk focuses on its recent intersection with the web and demonstrates what’s possible right now (with some audience participation!). We'll prove that once again proves you can teach an old dog new tricks and ponder on the future directions this technology might take us.
-#   type: DTDO
-#   subtype: presentation
-#   speakers: [6]
-#   language: en
-# -
-#   id: 102
-#   title: "U-Kan-Scrum-gile - Enterprise Edition"
-#   description: |
-#     There has been a rise recently in organisations saying that they 'Do Agile' without fully understanding what they mean. There also seems to be a loss of faith in Scrum and other agile frameworks from people who see them as a way to sell something to large companies; set of rules to follow and then somehow attain success.<br/>
-#     This is a very quick tongue in cheek introduction of a fictitious Agile Framework especially designed to appeal to stereotypical senior management with lofty promises.<br/>
-#     The idea of snake oil salesmen and turnkey frameworks has continued to poison the 'agile industry' and is making it harder to focus people on good problem solving and iterative delivery.
-#   type: DP
-#   subtype: presentation
-#   speakers: [7]
-#   language: en
-# -
-#   id: 103
-#   title: "Research without Interface: Down the Rabbit Hole"
-#   description: "A brand new service joins the fray, far reaching and business critical, but, there's no interface for our team to test. How did we make sure we were actually meeting the user needs, demonstrate value to stakeholders and even test the thing?
-# The talk aims to highlight best practices of user research in a narrative structure based on real life examples of building services.<br/><br/>
-# <u>Top level information:</u><br/>
-# Grouping needs<br/>
-# Demonstrating value to stakeholders"
-#   type: UXUR
-#   subtype: presentation
-#   speakers: [8]
-#   language: en
-# -
-#   id: 104
-#   title: "Estimations are just a waste"
-#   description: "If you say it like that, people will just tend to walk away from you. If we dig a little bit deeper into the reasons for estimating then we find out that the title of this talk is perhaps not as crazy as it seems."
-#   type: DP
-#   subtype: presentation
-#   speakers: [9]
-#   language: en
-# -
-#   id: 105
-#   title: "A design thinker walks into a tech company…"
-#   description: 'A piece of action research documenting the practice and lessons learnt from my first 12 months within Grid embedding Design Thinking into the organisation.<br/>
-#   A pragmatic perspective to Design Thinking and its uses in a technology SME!<br/>
-#   An extension and development of: <a href="https://medium.com/unstudied/issue-01-new-beginnings-new-challenges-129e2566a1a9" target="_blank">https://medium.com/unstudied/issue-01-new-beginnings-new-challenges-129e2566a1a9</a>'
-#   type: UXUR
-#   subtype: presentation
-#   speakers: [10]
-#   language: en
-# -
-#   id: 106
-#   title: "Automate all the security"
-#   description: "We are a small company but we work with big corporate clients who have heavy Information and Cyber Security procurement processes in place. To avoid crushing development under the weight of 'secure programming practices' and 'security review' we have had to turn to automation and the use of cloud services to provide a regular automated security screening and review service. Using these has helped not just get through enterprise security reviews but also helped us discover issues in our application and build a more secure platform as a result."
-#   type: A
-#   subtype: presentation
-#   speakers: [11]
-#   language: en
-# -
-#   id: 107
-#   title: "The Joy of Java Microframeworks"
-#   description: "Developing Microservices with Java is easier than ever. Learn how fun development can be with Microframeworks like Javalin or Spark Java."
-#   type: DTDO
-#   subtype: presentation
-#   speakers: [12]
-#   language: en
-# -
-#   id: 108
-#   title: "Lightning Talks"
-#   description: |
-#     James Murphy - Elm for developer happiness and better code (or why Elm makes me happy)<br/>
-#     Mark Jose - If car mechanics built software
-#   type: LT
-#   subtype: presentation
-#   speakers: [13, 14, 15, 16]
-#   language: en
-# -
-#   id: 109
-#   title: "Panel - Build IT Right: The Future..."
-#   description: ""
-#   type: LT
-#   subtype: presentation
-#   speakers: [17, 18, 19, 20]
-#   language: en
-# -
-#   id: 110
-#   title: "I'm here for an argument, working with conflict in teams"
-#   description: "When working with teams there is one constant, conflict. This is a talk packed with practical tips and tools for helping your team deal with conflict in a productive manner."
-#   type: DP
-#   subtype: presentation
-#   speakers: [21]
-#   language: en
-# -
-#   id: 111
-#   title: "Evolutionary Architecture: what we can learn from nature?"
-#   description: "Biological organisms evolve and adapt to their environment. What can we learn from biology and how can we apply this to software design/architecture?"
-#   type: A
-#   subtype: presentation
-#   speakers: [22]
-#   language: en
-# -
-#   id: 112
-#   title: "The Inclusivity Paradox"
-#   description: "Each year, Fjord produces a Trends report which takes a look at what lies ahead in the next 12 months for business, technology and design.<br/>
-#   The report identifies 7 trends that Fjord believe will represent new opportunities to redesign existing interactions and create new ones. It raises plenty of fundamental questions, like whether a brand deserves a space in our lives or even, the world. Is the value exchange two-way? Is it doing something more than straining the planet? And how it’s never been easier to unsubscribe or delete, if the answer is no.<br/>
-#   Bruno aims to highlight the key takeaways from these trends, before deep diving into one trend he feels particularly passionate about – the Inclusivity Paradox. With consumers expecting to be engaged with as individuals and companies seeking to be more inclusive, is there a risk of inadvertently excluding others? Find out in this 30 minute session."
-#   type: UXUR
-#   subtype: presentation
-#   speakers: [23]
-#   language: en
-# -
-#   id: 113
-#   title: "Continuous integration using Github actions"
-#   description: "Github actions are their take on continuous integration / continuous deployment using plugins.  This talk describes what actions are and how to use them."
-#   type: DTDO
-#   subtype: presentation
-#   speakers: [24]
-#   language: en
-# -
-#   id: 114
-#   title: "Servers? Where we're going, we don't need servers!"
-#   description: "Serverless is almost as hype as blockchain right now, but what is it good for? Where does it fall flat? This talk combines an experience report of a serverless production system in the enterprise, and one from a solo project."
-#   type: A
-#   subtype: presentation
-#   speakers: [25]
-#   language: en
-# -
-#   id: 115
-#   title: "Designing the Invisible: How to Create Exceptional User Experiences"
-#   description: "Creating first impressions that lead to early on-boarding and lasting user engagement should be at the forefront of any plans to create meaningful and profitable software.<br/>
-# During this 40 minute presentation delegates will learn about essential discovery tools, good design practice and how defining their proposition in a clear, minimal yet inviting style leads to business success and increased customer acquisition and retention.<br/>
-# It is now widely accepted that exceptional user experiences are crucial to organisational success and longevity. One of the main reasons for failure as a software business is neglecting to get this right from the start. The presentation will focus on the foundations of good UX; the importance of user research and testing as well as featuring some key design takeaways and lessons that can be built into user interfaces to increase initial on-boarding and customer retention."
-#   type: UXUR
-#   subtype: presentation
-#   speakers: [26]
-#   language: en
-# -
-#   id: 116
-#   title: "Fighting Continuous Entropy"
-#   description: "Our software lives in an entropic state. The world changes around it: new bugs appear, new versions, new operating systems, new hardware. Our systems must change or face eventual demise.<br/>
-# We often adopt approaches to continuously deploy our systems, but what if we had tools that let us continuously upgrade them too; pushing the entropy back a little bit each day."
-#   type: DTDO
-#   subtype: presentation
-#   speakers: [27]
-#   language: en
-# -
-#   id: 117
-#   title: "Using Inner Source to drive innovation, culture and collaboration"
-#   description: "Open Source software is transforming the world. In 2018 GitHub had over 30 million developers using the platform, sharing ideas, and creating cultures. Over 96 million repositories were created with over 200 million pull requests. The Open Source community have developed principles, techniques and ways of working which I believe can be applied to any organisation.<br/>
-# What if we could take the learnings from the Open Source community and apply them to our internal teams and our organisation? What can we learn from these learnings to help us drive innovation, culture and collaboration?<br/>
-# People around the world are also observing the lessons that the Open Source community can teach us and have created a new community and set of practices called the InnerSource commons.<br/>
-# In this talk, I will share with you how CompareTheMarket is using InnerSource practices to drive our culture, innovation, and collaboration across Peterborough, London & Belarus. I share with you the cultural challenges I’ve faced over the past few years implementing these InnerSource principles and technology we have used to help.<br/>
-# Walking away from this talk I’m confident that you can take away some of these ideas and lessons I have learned and hopefully apply these techniques to help you scale and remain flexible for the future."
-#   type: DP
-#   subtype: presentation
-#   speakers: [28]
-#   language: en
+-
+  id: 101
+  title: "Registration, Refreshments and Exhibition"
+  service: true
+-
+  id: 102
+  title: "Conference Welcome"
+  description: 
+  subtype: keynote
+  speakers:
+  language: en
+-
+  id: 103
+  title: "Changeover"
+  service: true
+-
+  id: 104
+  title: "Break"
+  service: true
+-
+  id: 105
+  title: "Lunch"
+  service: true
+-
+  id: 106
+  title: "To Be Announced!"
+  service: true
+-
+  id: 201
+  title: "Keynote: Samuel Newman"
+  description:
+  subtype: keynote
+  speakers: [1]
+  language: en
+-
+  id: 202
+  title: "Lightning Talks"
+  description: |
+    Building your first capability, a retrospective - Fiona Hobbs<br/>
+    Behind the fourth wall - James Leftley<br/>
+    Are personas dead? - Emily Hewitson<br/>
+    Build high performing teams by aplying a product mindset - Ryan Greenhall<br/>
+    It’s all about the Culture - Mark Jose
+  subtype: keynote
+  speakers: [21, 22, 23, 24, 25]
+  language: en
+-
+  id: 203
+  title: "Panel Session - To Be Announced!"
+  description:
+  subtype: keynote
+  speakers:
+  language: en
+-
+  id: 204
+  title: "Keynote: Anne Marie Imafidon"
+  description: "AI and the Future of Work "
+  subtype: keynote
+  speakers: [4]
+  language: en
+-
+  id: 205
+  title: "Keynote: Liz Keogh"
+  description: "AI and the Future of Work "
+  subtype: keynote
+  speakers: [3]
+  language: en
+-
+  id: 206
+  title: "Closing Remarks"
+  description: 
+  subtype: keynote
+  speakers:
+  language: en
+-
+  id: 999
+  title: ""
+  clickable: false
+-
+  id: 001
+  title: "Servers are dead! How architecture in the 2020s is being revolutionised by serverless"
+  description: |
+    <p>Serverless technology is no longer new. But we're quickly reaching the point where it's becoming the default way to build applications. And it's having a profound effecton how do good software architecture. Serverless means big changes in how we must manage performance, state, scale, cost, and so much more. It's a huge, and exciting, opportunity.</p>
+    <p>The BBC now has seven years of serverless experience. Dozens have projects have been made in a serverless way, using either AWS Lambda or in-house solutions. There have been some painful moments - it has not been an easy adoption. But the technology is maturing and best-practice is becoming clearer. Serverless is now the default way that many of the BBC's website and APIs are made. It's faster to develop, more flexible, and can scale to the big moments.</p>
+    <p>So what does good serverless architecture look like? And is it really as performant as containers or servers? In this session we'll explore the potential and the pitfalls. The best-practice, the opportunities, and what it means to software architecture. The serverless revolution is here - let's get the architecture right.</p>
+  type: A
+  subtype: presentation
+  speakers: [5]
+  language: en
+-
+  id: 002
+  title: "First Steps as a DevOps Engineer"
+  description: |
+    <p>This is a talk based on my experiences working as a DevOps Engineer on a mobile app project for a financial institution.</p>
+    <p>The talk itself is anecdotal/not particularly tech heavy and is done using the Takahashi method (one/a few very large words per slide)! It is structured in terms of "seven lessons" that I learnt over the course of the project, which are as follows:
+      <ol>
+        <li>
+          "Don't do everything at once"<br/>
+          I outline the steps we took to overhaul our CI/CD infrastructure, and why it was best to make these changes iteratively rather than all at once.
+        </li>
+        <li>
+          "Don't forget quick hacks"<br/>
+          I describe learning to balance pragmatism/best practises in the context of a quick hack we employed to quickly integrate a mobile device farm into our CI pipeline.
+        </li>
+        <li>
+          "You can't do it all"<br/>
+          I talk about why I wanted to use an infrastructure-as-code tool to deploy our CI/CD infrastructure and why such a tool wasn't the right choice for our project even though it would've been a valuable learning exercise.
+        </li>
+        <li>
+          "Firefighting is real and solutions can be obvious" a.k.a "The Curious Case of the Pending Pipelines"<br/>
+          I recall a firefighting incident in which the solution was extremely obvious but not immediately found...
+        </li>
+        <li>
+          "Be data-driven"<br/>
+          I describe how scraping and programatically analysing CI/CD pipeline data allowed us to optimise the pipelines and identify/monitor infrastructure faults when running ~200 pipeline jobs per day.<br/>
+          This would have been very time consuming and wasteful if done manually.
+        </li>
+        <li>
+          "Saying No"<br/>
+          I talk about the need say no/delegating when working in a support role.
+        </li>
+        <li>
+          "You can't always use your favourite tool"<br/>
+          I talk about deciding to prioritise project needs over my personal preferences in choosing not to use R to analyse CI/CD pipelines.
+        </li>
+      </ol>
+    </p>
+  type: DTDO
+  subtype: presentation
+  speakers: [6]
+  language: en
+-
+  id: 003
+  title: "Chaos Engineering"
+  description: |
+    <p>Chaos Engineering - The unexpected benefits of designing everything to fail. Explains why you would want to implement this into your application from the beginning and how designing systems that fail gives you the freedom to experiment and bring in expertise from outside the software engineering circle.</p>
+  type: A
+  subtype: presentation
+  speakers: [7]
+  language: en
+-
+  id: 004
+  title: "Evolving TDD - Moving past single example tests & Simplicity. The one and only rule."
+  description: |
+    <p>This talk aims to provide the audience with an introduction to property-based testing and the practical steps on how to incorporate Property-Based Testing into a TDD workflow.</p>
+    <p>Applications written using Functional Programming languages and patterns are becoming more and more mainstream.  Clojure, Scala and Haskell are among the growing numbers of purely functional programming languages appearing in Government and hugely successful private sector applications.  Even Java is increasing focus on the Functional paradigm with the inclusion of lambda functions in version 1.8.</p>
+    <p>One of the cornerstones of Functional Programming is pure functions and Property-Based Testing is an exceptionally powerful tool for testing this kind of function.  The ability to have the computer generate example tests and verify the output has led to the discovery of serious bugs in some of our most established libraries.</p>
+    <p>A TDD workflow involves the continual addition of small amounts of tested behaviour into either a new or existing application. The smaller the steps the developer can take, the better.  Driving development with property tests has the tendency to force you to write more behaviour code than your simple example tests would.</p>
+    <p>Following the talk an attendee should have an understanding of what property testing is, where it's useful and what tools are available to implement it.</p>
+    <p>They will see how I incorporate Property-Based Testing into my TDD workflow and how it changes the way I drive my development.</p>
+    <p>It should be number one word in any software developer's dictionary. SIMPLICITY...but it unfortunately isn't. If you do this, if you manage to master simplicity then the rest quite simply doesn't matter, everything else falls into place as if by magic - even your reputation as a software developer!</p>
+    <p>Why on earth is simplicity so important? How do we approach it? How do we make simplicity transpire in every aspect of software development? What is the difference between doing the easiest thing Vs doing the simplest thing?</p>
+    <p>In this talk I will do my absolute best to answer all the questions above and anything else related with it. I will talk about the importance of Test Driven Development to achieve this and also the importance about not philosophising about where things might change in your code, but focusing on making change simple by letting real examples guide you and forgetting about silly outdated guidelines like SOLID.</p>
+    <p>Avoiding "death by object orientation" is a must, the main reason for the mess most codebases end up in is overengineering. It is your duty as a Software Developer to challenge this behaviour and I hope that with this talk will empower software developers to pursue simplicity by focusing on the "now" and "what actually is needed" and then from there, making a judgement on what the simplest implementation possible is.</p>
+  type: DP
+  subtype: presentation
+  speakers: [8,9]
+  language: en
+-
+  id: 005
+  title: "A design thinker cements his place in a tech company"
+  description: |
+    An action-research piece sharing the practice and lessons learnt by the Design team at Grid as they collaborate with the construction industry, local authorities and government to develop a new project. Detailing the design-led approach taken through Grid’s first few phases of our product development process.<br/>
+    Introduction to Nate; Who I am? Why am I speaking? Purpose of the talk<br/>
+    Introduction to Grid:  The Company, what we do<br/>
+    Introduction to “Freight Traffic Control” project: The problem/opportunity, project partners and collaborators.<br/>
+    Grid Process Overview: Our process<br/>
+    Explore: Objectives, Interventions, Participants, Output, Reflections<br/>
+    Research: Objectives, Interventions, Participants, Output, Reflections<br/>
+    Prototype: Objectives, Interventions, Participants, Output. Reflections<br/>
+    Define: Objectives, Interventions, Participants, Output. Reflections<br/>
+    Summary: Output, feedback from the crossfunctional team, business leadership?<br/>
+    Key reflections and lessons learnt<br/>
+    Q+A
+  type: UXUR
+  subtype: presentation
+  speakers: [10]
+  language: en
+-
+  id: 006
+  title: |
+    Prerequisites for Evolutionary Architecture - Chris Howe-Jones<br/>
+    How to build an application for under 100£ - Dan Pudwell
+  description: |
+    Building an Architecture that can adapt to change is challenging. This talk will explore what are the critical factors in an evolutionary architecture & what should be in place to support them.<br/>
+    It's about how we built an application to help disabled passengers get through airports easier.  The crux of the talk is about Serverless but I also touch on various aspects of AWS.
+  type: A
+  subtype: presentation
+  speakers: [11,12]
+  language: en
+-
+  id: 007
+  title: "Building a UX Culture"
+  description: |
+    The mantra of 'move fast and break things' has dominated over the past 10 years and whilst it may work in small organisations, how do you do that if your organisation is massive?</br>
+    UX teams may encounter resistance from managers, developers and even customers, how do we foster a positive relationship where UX is put at the centre of development without becoming a blocker to others?<br/>
+    How can we build successful UX cultures in larger organisations and teams without causing civil war?<br/>
+    This talk looks at the stakeholders involved with approaches and tips to build positive user centred teams of all sizes.
+  type: UXUR
+  subtype: presentation
+  speakers: [13]
+  language: en
+-
+  id: 008
+  title: "Language agnostic coding standards"
+  description: |
+    Micro-services have changed the world, we can ship good software with less hassle than ever. However we are left with lots of smaller repos to maintain. At SaleCycle we use “the best tools for each job”. This includes programming language. We have AWS lambdas, Batch jobs, and ECS services written in C#, F#, Java, Kotlin, Typescript, Javascript, Go, and probably others I don’t know about.<br/>
+    So how do we promote a culture of sharing and collaboration between teams using such a range of languages and technologies?<br/>
+    We begin by defining a generic set of coding principles in which data (arrows) flows through services (boxes). We then discuss how these principles can be applied to different languages, and more remarkably, to both the objective and functional paradigms. The result is that developers can reuse patterns and techniques irrespective of which language or environment they are using.
+  type: A
+  subtype: presentation
+  speakers: [14]
+  language: en
+-
+  id: 009
+  title: "Testing vs Monitoring: build it right in production"
+  description: |
+    TDD helps software engineers learn, understand, and internalise the key principles of good modular design. Testing is good at finding and fixing issues before deploying to production. I was working for companies that the goal is to have 100% test coverage - unit tests, acceptance tests, selenium tests … They are just not enough!<br/>
+    And yet there are still bugs in production. When they are found it’s the greenhouse for the blame culture, the creation of laziness. Moreover, waiting for hour-long selenium tests to finish before production release is intolerable.<br/>
+    To fix the problem and build it right, we, in Uswitch engineering team, make trade-offs between testing and monitoring. For instance, when writing the server application, we don’t need to have a test to mock the server starts. Instead, we ping the production page every minute to ensure HTTP status 200.<br/>
+    Also beneficial from our microservice architecture, we can monitor the percentage of ingress 200 responses to guarantee servers availability. Let alone the bug reporting systems that we use like sentry and airbrake.<br/>
+    Servers working doesn’t mean the business is working. No unit tests can ensure that. To be honest, as long as the company still making profits the CEO won’t care even the servers are down. Therefore on the business level, we have daily analysis reports to track the important KPIs - daily impressions, clicks and conversions.<br/>
+    We should build the testing and monitoring right, test the essential complex business logics while monitoring the crucial things. Having the unit tests to cover core business logics are reasonable, the stock trading backend system definitely needs unit tests for rounding errors before losing thousands of pounds. Trade-off the selenium tests to monitor website 5XX rates would make the frontend development so much easier and can release faster. So, build it right with testing and monitoring.
+  type: DTDO
+  subtype: presentation
+  speakers: [15]
+  language: en
+-
+  id: 010
+  title: "Shiny new product? Keep it well polished with UX"
+  description: |
+    The last two decades have seen the customer take control of the buying process. The growth of digital platforms means they have more choice of how, when and from whom they buy than ever before.  And, it's not just the product that will keep them coming back. From finding your company on Twitter to evangelising your brand, the whole experience and every interaction should shine.<br/>
+    What are the ingredients required to turn your customers into advocates and how, even on the smallest budget, can you keep your new product shiny well after launch?
+  type: DP
+  subtype: presentation
+  speakers: [16]
+  language: en
+-
+  id: 011
+  title: "Self care in the tech workplace (and a bit wider)"
+  description: |
+    Is it selfish to look after ourselves? We all use up our energy (physical, mental & emotional) in different ways at work. How much thought do you give to how you recharge that energy?<br/>
+    We'll explore the concept of self care, some of the things that might fall into it and what companies can to do help their staff.<br/>
+    We'll also have an interactive exercise to encourage you to think about what you do for self care and reflect on what you could do differently.<br/>
+    There will be stickers!
+  type: DP
+  subtype: presentation
+  speakers: [17]
+  language: en
+-
+  id: 012
+  title: "Accessibility 101"
+  description: |
+    A lot of us will know a little about our services, why they should be accessible, and what kind of things we should be doing to make them accessible.<br/>
+    You might know you need to ‘add alt text’ or ‘have a heading hierarchy’, but if you haven’t done them before, will you know or feel confident in implementing them? How do your designs cater for them, and how do you research them with the users they’re intended for? With feedback from your users, how do you adapt your designs if necessary, before building them into your service? And how do you communicate about them with the rest of your team?<br/>
+    Sarah and Mark, a User Researcher and UX Designer with a few years of government experience, will share practical advice about how you design and research these with your users - offering an interactive insight into how research might work.<br/>
+  type: UXUR
+  subtype: presentation
+  speakers: [18,19]
+  language: en
+-
+  id: 013
+  title: "UX, UR and everything in-between"
+  description: |
+    From Graphic Design to Web Design to UX/UI over to AI and UR the demand for the right person for the job is ever-changing. Gone are the days of just having 'that one creative person' who can 'somehow' do everything. Teams are becoming more specialised and niche and skillsets are becoming more diverse.<br/>
+    With the creative/tech industry constantly evolving, I often wonder, how do we keep up? Above I inadvertently mentioned how my roles over the years have changed.<br/>
+    In my talk I would like to talk about the importance of UX, UR and UI in any creative business. How developers can work better with UX and how to better sell your idea to stakeholders and difficult project managers.<br/>
+    Takeaways will improve<br/>
+    <ul>
+      <li>A brief understanding of the creative climate (UX/UI/UR/AI)</li>
+      <li>An understanding of how UX has evolved and how demand has changed</li>
+      <li>How you can fit into the climate and become a creative badass</li>
+      <li>How to adapt your skillset for individual projects</li>
+      <li>How to deal with 'difficult project managers and stakeholders'</li>
+    </ul>
+    This talk will explore my experiences of how UX has helped improve the general outlook of products in a 500+ business!
+  type: UXUR
+  subtype: presentation
+  speakers: [20]
+  language: en
+-
+  id: 014
+  title: "Business Agility Coach at Gousto"
+  description:
+  type: DP
+  subtype: presentation
+  speakers: [2]
+  language: en
