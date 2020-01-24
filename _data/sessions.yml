@@ -180,7 +180,7 @@
   id: 006
   title: |
     Prerequisites for Evolutionary Architecture - Chris Howe-Jones<br/>
-    How to build an application for under 100£ - Dan Pudwell
+    How to build an application for under £100 - Dan Pudwell
   description: |
     Building an Architecture that can adapt to change is challenging. This talk will explore what are the critical factors in an evolutionary architecture & what should be in place to support them.<br/>
     It's about how we built an application to help disabled passengers get through airports easier.  The crux of the talk is about Serverless but I also touch on various aspects of AWS.
