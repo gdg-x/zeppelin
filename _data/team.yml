@@ -3,7 +3,7 @@
   name: "Fiona"
   surname: "Hobbs"
   title: "Programme Committee President"
-  thumbnailUrl: fiona-hobbs.jpg
+  thumbnailUrl: Fiona_Hobbs.jpg
   team: true
   ribbon:
     - {abbr: "", title: "Head of Technology, Opencast"}
@@ -16,7 +16,7 @@
   name: "Chris"
   surname: "Howe-Jones"
   title: "Community Organiser"
-  thumbnailUrl: chris.png
+  thumbnailUrl: Chris_Howe-Jones.png
   team: true
   ribbon:
     - {abbr: "Tech Nav", title: "Technical Navigator"}
@@ -29,7 +29,7 @@
   name: "Cat"
   surname: "Coulter"
   title: "Organiser"
-  thumbnailUrl: cat.jpg
+  thumbnailUrl: Cat_Coulter.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/BeaconHouseEvts"}
@@ -40,7 +40,7 @@
   name: "Sophie"
   surname: "FLanagan"
   title: "Organiser"
-  thumbnailUrl: sophie.jpg
+  thumbnailUrl: Sophie_Flanagan.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/BeaconHouseEvts"}

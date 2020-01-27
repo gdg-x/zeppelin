@@ -1,9 +1,9 @@
 -
   group: "Main organiser"
   elements:
-    - {name: "BeaconHouse", description: "BeaconHouse, Professional Conferences and Events", link: "http://www.beaconhouse-events.co.uk/", imageUrl: "beaconhouse-logo.png"}
+    - {name: "BeaconHouse", description: "BeaconHouse, Professional Conferences and Events", link: "http://www.beaconhouse-events.co.uk/", imageUrl: "BeaconHouse.png"}
 -
   group: "Co-organisers"
   elements:
-    - {name: "Opencast Software", description: "Opencast Software, Technology & software services focused on enterprise systems", link: "http://opencastsoftware.com/", imageUrl: "opencast-logo.png"}
-    - {name: "DevCycle", description: "DevCycle, Software Development and Lean Agile Coaching", link: "http://devcycle.co.uk/", imageUrl: "New_DevCycleLogo.svg", width: 100px;}
+    - {name: "Opencast Software", description: "Opencast Software, Technology & software services focused on enterprise systems", link: "http://opencastsoftware.com/", imageUrl: "Opencast.png"}
+    - {name: "DevCycle", description: "DevCycle, Software Development and Lean Agile Coaching", link: "http://devcycle.co.uk/", imageUrl: "DevCycle.svg", width: 100px;}

@@ -3,22 +3,10 @@
   groups:
   -
     elements:
-    - {name: "Gluck", description: "", link: "https://www.gluckgames.com", imageUrl: "gluck.png"}
-    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid_logo_solo.png"}    
+    - {name: "Gluck", description: "", link: "https://www.gluckgames.com", imageUrl: "Gluck.png"}
+    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "Grid.png"}    
   -
     elements:
-    - {name: "NCFE", description: "", link: "https://www.ncfe.org.uk/", imageUrl: "NCFE_LOGO.svg"}
-    - {name: "Waterstons", description: "Performance through technology", link: "https://www.waterstons.com", imageUrl: "image167a69.JPG"}
-    - {name: "Turnitin", description: "Education with Integrity", link: "https://www.turnitin.com/", imageUrl: "turnitin-logo.jpg"}
--
-  year: 2019
-  groups:
-  -
-    elements:
-    - {name: "Accenture", description: "New insights. Tangible outcomes. New Applied Now", link: "https://www.accenture.com/gb-en", imageUrl: "small_logo.png"}
-    - {name: "Bede", description: "The First Choice Gaming Platform", link: "https://bedegaming.com", imageUrl: "Bede-Gaming.jpg"}
-    - {name: "Dynamo", description: "Dynamo, Growing the North East IT economy", link: "http://www.dynamonortheast.co.uk/kids-digital-maker-party/", imageUrl: "Dynamo_Primary_Pant164_No_Strap.png"}
-    - {name: "Sage", description: "Software & Solutions for Every Business", link: "https://www.sage.com/en-gb/", imageUrl: "sage.png"}
-    - {name: "Waterstons", description: "Performance through technology", link: "https://www.waterstons.com", imageUrl: "image167a69.JPG"}
-    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "grid_logo_solo.png"}
-    - {name: "Balsamiq", description: "Life's too short for bad software!", link: "https://balsamiq.com", imageUrl: "balsamiq-logo-noborder-print.png"}
+    - {name: "NCFE", description: "", link: "https://www.ncfe.org.uk/", imageUrl: "NCFE.svg"}
+    - {name: "Waterstons", description: "Performance through technology", link: "https://www.waterstons.com", imageUrl: "Waterstons.jpg"}
+    - {name: "Turnitin", description: "Education with Integrity", link: "https://www.turnitin.com/", imageUrl: "Turnitin.jpg"}
