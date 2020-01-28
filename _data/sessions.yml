@@ -143,15 +143,16 @@
   language: en
 -
   id: 004
-  title: "Evolving TDD - Moving past single example tests"
+  title: "Evolving TDD - Moving past single example tests & Simplicity, the one and only rule"
   description: |
+    <h5>Evolving TDD - Moving past single example tests.</h5>
     <p>This talk aims to provide the audience with an introduction to property-based testing and the practical steps on how to incorporate Property-Based Testing into a TDD workflow.</p>
     <p>Applications written using Functional Programming languages and patterns are becoming more and more mainstream. Clojure, Scala and Haskell are among the growing numbers of purely functional programming languages appearing in Government and hugely successful private sector applications. Even Java is increasing focus on the Functional paradigm with the inclusion of lambda functions in version 1.8.</p>
     <p>One of the cornerstones of Functional Programming is pure functions and Property-Based Testing is an exceptionally powerful tool for testing this kind of function. The ability to have the computer generate example tests and verify the output has led to the discovery of serious bugs in some of our most established libraries.</p>
     <p>A TDD workflow involves the continual addition of small amounts of tested behaviour into either a new or existing application. The smaller the steps the developer can take, the better. Driving development with property tests has the tendency to force you to write more behaviour code than your simple example tests would.</p>
     <p>Following the talk an attendee should have an understanding of what property testing is, where it's useful and what tools are available to implement it.</p>
     <p>They will see how I incorporate Property-Based Testing into my TDD workflow and how it changes the way I drive my development.
-    <p>Simplicity, the one and only rule.</p>
+    <h5>Simplicity, the one and only rule.</h5>
     <p>It should be number one word in any software developer's dictionary. SIMPLICITY...but it unfortunately isn't. If you do this, if you manage to master simplicity then the rest quite simply doesn't matter, everything else falls into place as if by magic - even your reputation as a software developer!</p>
     <p>Why on earth is simplicity so important? How do we approach it? How do we make simplicity transpire in every aspect of software development? What is the difference between doing the easiest thing Vs doing the simplest thing?</p>
     <p>In this talk I will do my absolute best to answer all the questions above and anything else related with it. I will talk about the importance of Test Driven Development to achieve this and also the importance about not philosophising about where things might change in your code, but focusing on making change simple by letting real examples guide you and forgetting about silly outdated guidelines like SOLID.</p>
