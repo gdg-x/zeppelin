@@ -27,8 +27,10 @@
   service: true
 -
   id: 201
-  title: "Keynote: Samuel Newman"
-  description:
+  title: "Where we’re going, we don’t need servers!"
+  description: |
+    Microservices and Serverless continue to be two of the most hyped terms in our industry. As I’ve explored previously, some of that hype may be justified, but you need to take some time to cut to the heart of what makes them important if you want to get the most out of them. I remain convinced that Serverless technology offers the potential to make teams significantly more productive, but I still find people confused as to what serverless actually is, and whether or not things like Cloud Functions mean we no longer need to worry about microservices, and if we can pretend that servers no longer exist.<br/>
+    In this talk, I’ll try to show just why serverless technology is so powerful, and I’ll also show how it fits in with microservices. As I will show, Microservices and Serverless goes together very well indeed - and that perhaps, just perhaps, you can stop worrying about servers.
   subtype: keynote
   speakers: [1]
   language: en
@@ -94,36 +96,51 @@
   id: 002
   title: "First Steps as a DevOps Engineer"
   description: |
-    <p>This is a talk based on my experiences working as a DevOps Engineer on a mobile app project for a financial institution.</p>
-    <p>The talk itself is anecdotal/not particularly tech heavy and is done using the Takahashi method (one/a few very large words per slide)! It is structured in terms of "seven lessons" that I learnt over the course of the project, which are as follows:
+    <p>In this anecdotal talk I discuss seven lessons that I learnt whilst working as a DevOps Engineer on a mobile app project for a financial institution.</p>
       <ol>
         <li>
-          "Don't do everything at once"<br/>
+          "Don't do everything at once"
+        </li>
+        <li>
           I outline the steps we took to overhaul our CI/CD infrastructure, and why it was best to make these changes iteratively rather than all at once.
         </li>
         <li>
-          "Don't forget quick hacks"<br/>
+          "Don't forget quick hacks"
+        </li>
+        <li>
           I describe learning to balance pragmatism/best practises in the context of a quick hack we employed to quickly integrate a mobile device farm into our CI pipeline.
         </li>
         <li>
-          "You can't do it all"<br/>
+          "You can't do it all"
+        </li>
+        <li>
           I talk about why I wanted to use an infrastructure-as-code tool to deploy our CI/CD infrastructure and why such a tool wasn't the right choice for our project even though it would've been a valuable learning exercise.
         </li>
         <li>
-          "Firefighting is real and solutions can be obvious" a.k.a "The Curious Case of the Pending Pipelines"<br/>
+          "Firefighting is real and solutions can be obvious" a.k.a "The Curious Case of the Pending Pipelines"
+        </li>
+        <li>
           I recall a firefighting incident in which the solution was extremely obvious but not immediately found...
         </li>
         <li>
-          "Be data-driven"<br/>
-          I describe how scraping and programatically analysing CI/CD pipeline data allowed us to optimise the pipelines and identify/monitor infrastructure faults when running ~200 pipeline jobs per day.<br/>
+          "Be data-driven"
+        </li>
+        <li>
+          I describe how scraping and programatically analysing CI/CD pipeline data allowed us to optimise the pipelines and identify/monitor infrastructure faults when running ~200 pipeline jobs per day.
+        </li>
+        <li>
           This would have been very time consuming and wasteful if done manually.
         </li>
         <li>
-          "Saying No"<br/>
+          "Saying No"
+        </li>
+        <li>
           I talk about the need say no/delegating when working in a support role.
         </li>
         <li>
-          "You can't always use your favourite tool"<br/>
+          "You can't always use your favourite tool"
+        </li>
+        <li>
           I talk about deciding to prioritise project needs over my personal preferences in choosing not to use R to analyse CI/CD pipelines.
         </li>
       </ol>
