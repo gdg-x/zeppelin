@@ -65,13 +65,13 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  #- {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about speaking", text: "Become a speaker"}
- - {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
+ #- {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
- - {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
+ #- {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
 
 
 # Hero Block
@@ -81,7 +81,7 @@ eventDate: "26th March, 2020"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
- - {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
+ #- {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
