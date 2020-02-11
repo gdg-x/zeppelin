@@ -65,8 +65,10 @@
   video: "https://www.youtube.com/embed/pvvJDFMWPXU"
 -
   id: 205
-  title: "Keynote: Liz Keogh"
-  description: "AI and the Future of Work "
+  title: "Decision-making for Grown-Ups"
+  description: |
+    <p>In this talk Liz introduces different ways of looking at the world that help us choose the right approach, including Cynefin, a framework for making sense of situations depending on certainty or uncertainty; Wardley Mapping, which lets us understand our organizational and technical structure as it evolves; and Real Options, the principles of which help us to postpone decisions until we have more information.</p>
+    <p>Find out how these lenses and their associated tools are helping leaders and technologists to navigate their changing landscapes and ecosystems with clearer insight, less frustration, less risk and faster delivery.</p>
   subtype: keynote
   speakers: [3]
   language: en
