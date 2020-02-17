@@ -86,10 +86,10 @@ layout: compress
                     }
                 });
                 var rockstarSpeakers = [
-                    {% for speaker in site.data.speakers %}
-                        {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
-                        {% endif %}
+                    {% assign speakers = site.data.speakers | where: 'rockstar', true %}
+                    {% for speaker in speakers %}
+                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}
+                        {% if forloop.index != forloop.length %},{% endif %} 
                     {% endfor %}
                 ];
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});

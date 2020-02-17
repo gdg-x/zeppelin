@@ -4,7 +4,7 @@
   surname: "Hobbs"
   title: "Programme Committee President"
   thumbnailUrl: Fiona_Hobbs.jpg
-  team: true
+  role: organiser
   ribbon:
     - {abbr: "", title: "Head of Technology, Opencast"}
   social:
@@ -17,7 +17,7 @@
   surname: "Howe-Jones"
   title: "Community Organiser"
   thumbnailUrl: Chris_Howe-Jones.png
-  team: true
+  role: organiser
   ribbon:
     - {abbr: "Tech Nav", title: "Technical Navigator"}
   social:
@@ -30,7 +30,7 @@
   surname: "Coulter"
   title: "Organiser"
   thumbnailUrl: Cat_Coulter.jpg
-  team: true
+  role: organiser
   social:
     - {name: "twitter", link: "https://twitter.com/BeaconHouseEvts"}
     - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
@@ -38,10 +38,10 @@
 -
   id: 3
   name: "Sophie"
-  surname: "FLanagan"
+  surname: "Flanagan"
   title: "Organiser"
   thumbnailUrl: Sophie_Flanagan.jpg
-  team: true
+  role: organiser
   social:
     - {name: "twitter", link: "https://twitter.com/BeaconHouseEvts"}
     - {name: "facebook", link: "https://www.facebook.com/BeaconHouseEvts"}
@@ -53,7 +53,7 @@
   company: "DWP Digital"
   title: "Lead Product Manager"
   thumbnailUrl: Fay_Cooper.jpg
-  subTeam: true
+  role: committee
   social:
     - {name: "twitter", link: "https://twitter.com/fay_cooper"}
 -
@@ -63,7 +63,7 @@
   company: "Scott Logic"
   title: "Technical Principal"
   thumbnailUrl: Mark_Jose.jpg
-  subTeam: true
+  role: committee
   social:
     - {name: "twitter", link: "https://twitter.com/markleejose"}
 -
@@ -73,7 +73,7 @@
   company: "Grid Smarter Cities"
   title: "Technology Director"
   thumbnailUrl: Dan_Pudwell.jpg
-  subTeam: true
+  role: committee
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/danielpudwell"}
 -
@@ -83,7 +83,7 @@
   company: "Gluck"
   title: "Chief Product Development Officer"
   thumbnailUrl: Dan_Rough.jpg
-  subTeam: true
+  role: committee
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/danrough"}
 -
@@ -93,7 +93,6 @@
   company: "JUMP"
   title: "Lead UX Designer"
   thumbnailUrl: Danielle_Stone.jpg
-  subTeam: true
+  role: committee
   social:
     - {name: "twitter", link: "https://twitter.com/urbanherd"}
--

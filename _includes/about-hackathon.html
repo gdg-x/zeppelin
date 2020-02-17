@@ -2,7 +2,7 @@
 <section id="about-hackathon" class="about-hackathon">
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
-            {% if site.enableHackathon == true %}
+            {% if site.enableHackathon %}
                 <h3>{{ site.aboutHackathonTitle }}</h3>
                 {% for row in site.hackathonRows %}
                 {% assign check = forloop.index0 | modulo:2 %}
