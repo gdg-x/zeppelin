@@ -257,3 +257,14 @@
   thumbnailUrl: Stephen_Mounsey.png
   social:
     - {name: "twitter", link: ""}
+-
+  id: 27
+  name: "Hannah"
+  surname: "Foxwell"
+  company: "Pivotal Software"
+  title: "Associate Director for Platform Services"
+  bio: |
+    Hannah Foxwell is Associate Director for Platform Services at VMware, where she helps build wildly successful platform teams. A HumanOps champion, a HugOps evangelist, and a DevOps believer, Hannah has spent her career building Platform Teams and using technology to help create great environments for engineers to do their best work.
+  thumbnailUrl: Hannah_Foxwell.jpeg
+  social:
+    - {name: "twitter", link: ""}

@@ -101,49 +101,25 @@
     <p>In this anecdotal talk I discuss seven lessons that I learnt whilst working as a DevOps Engineer on a mobile app project for a financial institution.</p>
       <ol>
         <li>
-          "Don't do everything at once"
+          "Don't do everything at once": I outline the steps we took to overhaul our CI/CD infrastructure, and why it was best to make these changes iteratively rather than all at once.
         </li>
         <li>
-          I outline the steps we took to overhaul our CI/CD infrastructure, and why it was best to make these changes iteratively rather than all at once.
+          "Don't forget quick hacks": I describe learning to balance pragmatism/best practises in the context of a quick hack we employed to quickly integrate a mobile device farm into our CI pipeline.
         </li>
         <li>
-          "Don't forget quick hacks"
+          "You can't do it all": I talk about why I wanted to use an infrastructure-as-code tool to deploy our CI/CD infrastructure and why such a tool wasn't the right choice for our project even though it would've been a valuable learning exercise.
         </li>
         <li>
-          I describe learning to balance pragmatism/best practises in the context of a quick hack we employed to quickly integrate a mobile device farm into our CI pipeline.
+          "Firefighting is real and solutions can be obvious" a.k.a "The Curious Case of the Pending Pipelines": I recall a firefighting incident in which the solution was extremely obvious but not immediately found...
         </li>
         <li>
-          "You can't do it all"
+          "Be data-driven": I describe how scraping and programatically analysing CI/CD pipeline data allowed us to optimise the pipelines and identify/monitor infrastructure faults when running ~200 pipeline jobs per day. This would have been very time consuming and wasteful if done manually.
         </li>
         <li>
-          I talk about why I wanted to use an infrastructure-as-code tool to deploy our CI/CD infrastructure and why such a tool wasn't the right choice for our project even though it would've been a valuable learning exercise.
+          "Saying No": I talk about the need say no/delegating when working in a support role.
         </li>
         <li>
-          "Firefighting is real and solutions can be obvious" a.k.a "The Curious Case of the Pending Pipelines"
-        </li>
-        <li>
-          I recall a firefighting incident in which the solution was extremely obvious but not immediately found...
-        </li>
-        <li>
-          "Be data-driven"
-        </li>
-        <li>
-          I describe how scraping and programatically analysing CI/CD pipeline data allowed us to optimise the pipelines and identify/monitor infrastructure faults when running ~200 pipeline jobs per day.
-        </li>
-        <li>
-          This would have been very time consuming and wasteful if done manually.
-        </li>
-        <li>
-          "Saying No"
-        </li>
-        <li>
-          I talk about the need say no/delegating when working in a support role.
-        </li>
-        <li>
-          "You can't always use your favourite tool"
-        </li>
-        <li>
-          I talk about deciding to prioritise project needs over my personal preferences in choosing not to use R to analyse CI/CD pipelines.
+          "You can't always use your favourite tool": I talk about deciding to prioritise project needs over my personal preferences in choosing not to use R to analyse CI/CD pipelines.
         </li>
       </ol>
     </p>
@@ -304,9 +280,19 @@
   language: en
 -
   id: 014
-  title: "Business Agility Coach at Gousto"
-  description:
+  title: "Building the right “it”"
+  description: |
+    In the world of software development, we spend a lot of time talking about “how to build it right”. But how do we know we’re actually building the right thing?  In this talk I’ll be introducing the concept of the product engineer. The product engineer is problem focused, not solution focused.  The product engineer thinks differently about what to build and how to build it. The product engineer knows that speed matters, and knows how to deliver fast. The produt engineer is not a good engineer. The product engineer is a great engineer.
   type: DP
   subtype: presentation
   speakers: [2]
+  language: en
+-
+  id: 015
+  title: "Reliability Engineering for Humans"
+  description: |
+    The concepts and practices of Site Reliability Engineering are changing the way we build and operate our platforms and enabling us to have more meaningful conversations about availability, service-level objectives, and cost. But what are the benefits for the engineer holding the pager? Can we add a human element to our error budgets? Join Hannah Foxwell to look at Site Reliability Engineering practices through a human lens. Hannah combines SRE with HumanOps and explains how to use SRE practices to improve the health and well-being of your team.
+  type: DTDO
+  subtype: presentation
+  speakers: [27]
   language: en
