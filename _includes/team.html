@@ -7,7 +7,8 @@
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
-            {% for teamMember in site.data.team %} {% if teamMember.team != null %}
+            {% assign teamMembers = site.data.team | where: 'role', 'organiser' %}
+            {% for teamMember in teamMembers %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
@@ -29,11 +30,12 @@
                     </figure>
                 </div>
             </div>
-            {% endif %} {% endfor %}
+            {% endfor %}
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Programme committee</h4>
-            {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
+            {% assign teamMembers = site.data.team | where: 'role', 'committee' | sort: 'surname' %}
+            {% for teamMember in teamMembers %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
@@ -55,7 +57,7 @@
                     </figure>
                 </div>
             </div>
-            {% endif %} {% endfor %}
+            {% endfor %}
         </div>
     </div>
 </section>
