@@ -5,7 +5,7 @@
     - {title: "<b>Stephenson Suite</b>"}
     - {title: "<b>Northumbrian</b>"}
     - {title: "<b>Rocket</b>"}
-    - {title: "<b>Planet</b>"}
+    - {title: "<b>Invicta</b>"}
   tracks:
     - {title: "Development Process", color: "#003366", background: "#ADD8E6"}
     - {title: "Development Technologies <br> Dev Ops", color: "#006400", background: "#c1fcc1"}
