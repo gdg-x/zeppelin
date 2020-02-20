@@ -21,4 +21,5 @@ It’s not exactly a recent innovation but I have been a believer and champion o
 #### What do you think will be the next big thing in software?
 There are so many things I could put here! For me personally I’m just starting to see the benefits of IoT products in my day to day life – for example being able to answer my doorbell via an app when I’m travelling, or turn on the heating when I’m on my way home! I think it’s still in early adopter phase at the moment but pretty soon we’ll see all homes and businesses equipped with internet enabled devices.
 
-Hannah Foxwell is speaking at 10.15am in the Planet room, with her session ‘Reliability Engineering for Humans’
+
+*Hannah Foxwell is speaking at 10.15am in the **Invicta** room, with her session ‘Reliability Engineering for Humans’*
