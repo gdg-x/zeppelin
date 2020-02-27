@@ -23,7 +23,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/agile_geek"}
     - {name: "github", link: "https://github.com/chrishowejones"}
-    - {name: "site", link: "http://devcycle.co.uk/"}
+    - {name: "site", link: "https://www.devcycle.co.uk/"}
 -
   id: 2
   name: "Cat"
