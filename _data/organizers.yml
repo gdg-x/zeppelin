@@ -6,4 +6,4 @@
   group: "Co-organisers"
   elements:
     - {name: "Opencast Software", description: "Opencast Software, Technology & software services focused on enterprise systems", link: "http://opencastsoftware.com/", imageUrl: "Opencast.png"}
-    - {name: "DevCycle", description: "DevCycle, Software Development and Lean Agile Coaching", link: "http://devcycle.co.uk/", imageUrl: "DevCycle.svg", width: 100px;}
+    - {name: "DevCycle", description: "DevCycle, Software Development and Lean Agile Coaching", link: "https://www.devcycle.co.uk/", imageUrl: "DevCycle.svg", width: 120px;}
