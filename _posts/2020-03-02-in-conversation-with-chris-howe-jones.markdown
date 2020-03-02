@@ -4,7 +4,7 @@ title:  "Meet the speaker: Chris Howe-Jones"
 date:   2020-03-02 08:00:00
 isStaticPost: false
 ---
-The Build IT Right meet the speaker series caught up with Chris Howe-Jones. Ahead of her talk, we spoke to Chris about his own experiences and what the future holds...
+The Build IT Right meet the speaker series caught up with Chris Howe-Jones. Ahead of his talk, we spoke to Chris about his own experiences and what the future holds...
 
 #### What is your current role?
 That’s a harder question to answer than you might think! Five years ago I left my role as CTO of Opencast to start my own independent IT Consultancy, DevCycle. Since then I’ve worked with many clients from international organisations to start ups, mainly helping them with Software Development and Architecture with a bit of agile/lean coaching thrown in.
