@@ -9,4 +9,10 @@
     elements:
     - {name: "NCFE", description: "", link: "https://www.ncfe.org.uk/", imageUrl: "NCFE.svg"}
     - {name: "Waterstons", description: "Performance through technology", link: "https://www.waterstons.com", imageUrl: "Waterstons.jpg"}
+    - {name: "RVU", description: "We are RVU", link: "https://www.rvu.co.uk/", imageUrl: "RVU.svg"}
     - {name: "Turnitin", description: "Education with Integrity", link: "https://www.turnitin.com/", imageUrl: "Turnitin.jpg"}
+  -
+    elements:
+    - {name: "JetBrains", description: "Developer Tools for Professionals and Teams", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.png"}
+    - {name: "Sticker Mule", description: "Custom stickers that kick ass", link: "https://www.stickermule.com/uk", imageUrl: "Sticker_Mule.png"}
+    - {name: "DigitalOcean", description: "The developer cloud", link: "https://www.digitalocean.com/", imageUrl: "Digital_Ocean.png"}
