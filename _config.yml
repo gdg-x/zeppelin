@@ -177,31 +177,31 @@ ticketsSubTitle: "Additional information"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
+  name: "Early Bird"
+  price: "£99"
+  priceCurrency: "+ VAT"
+  ticketsNumber: "50"
+  featured: false
+  ribbon: "-33%"
+  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Access to all talks"]
+  validFrom: "2019-05-07T10:00"
+  validThrough: "2019-11-30T23:59"
+  soldOut: false
+  hide: false
+ -
   name: "Standard"
   price: "£150"
   priceCurrency: "+ VAT"
   ticketsNumber: "200"
-  featured: false
+  featured: true
   ribbon: "Full price"
   buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
   buyButtonText: "Buy Now"
   ticketContentList: ["Access to all talks"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-03-25T23:59"
-  soldOut: false
-  hide: false
- -
-  name: "Early Bird"
-  price: "£99"
-  priceCurrency: "+ VAT"
-  ticketsNumber: "50"
-  featured: true
-  ribbon: "-33%"
-  buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all talks"]
-  validFrom: "2019-05-07T10:00"
-  validThrough: "2020-11-30T23:59"
   soldOut: false
   hide: false
  -
