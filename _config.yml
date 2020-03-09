@@ -39,10 +39,6 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "http://bit.ly/2NzkBtb"
-c4sponsorsUrl: "/assets/BITR_2019_Sponsorship&Exhibition_Pack.pdf"
-
 # Speakers
 speakerButtonMessage: "Become a speaker"
 speakerEmailAddress: "bitrconference@gmail.com"
@@ -239,6 +235,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/assets/BITR_Terms_and_Conditions.pdf", text: Terms and Conditions}
 
 # Blog
 blogTitle: "Latest news"
