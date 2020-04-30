@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "BSides Halifax 2020 (Virtual)"
+title: "BSides Halifax Quarantine Edition"
 email: "info@bsideshalifax.ca"
 description: "BSides is a community-driven framework for building events for and by information security community members."
-baseurl: "/"
+baseurl: ""
 url: "https://bsideshalifax.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -30,7 +30,7 @@ organizerLink: "https://bsideshalifax.ca"
 
 # Head
 metaKeywords: "event, BSides, Halifax, Cyber, Security, infosec"
-twitterAccount: "@HalifaxBSides"
+twitterAccount: "@defcon902"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Documents
@@ -41,22 +41,22 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
+#bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "BSides Halifax <typeout> 2020"
 eventDate: "Friday May 22, 2020"
-typeoutTextValues: '"", "Virtual"'
+typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -65,9 +65,16 @@ heroButtons:
 # About Block
 aboutTitle: "About BSides Halifax"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {
+    title: "Conference",
+    image: "conference.jpg",
+    text: "<p>In Halifax, we usually host a conference called AtlSecCon (Atlantic Security Conference) this time of year. And 2020 was going to be the best year ever! It was the tenth anniversary, and everyone was really looking forward to a party... in a big crowded room... with plenty of people constantly breathing in and out...</p>
+<p>Anyway, things have changed, and AtlSecCon's tenth anniversary will now be held in 2020++ (aka 2021). But that doesn't mean security takes a break!</p>
+<p>In fact, since we're all online more than ever, it's the perfect time to examine your personal and professional security posture, to see if there's anything that could be improved, or any holes that need patching.</p>
+<p>We'll be hosting BSides Halifax on May 22nd, and you can attend from the safety of your home/secured bunker/government-mandated temporary quarantine facility by logging on to bsideshalifax.ca at 10AM Atlantic (9AM Eastern).</p>"
+}
+# - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
