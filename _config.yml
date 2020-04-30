@@ -172,20 +172,19 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=HalifaxBSides", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.securitybsides.com/w/page/12194156/FrontPage", text: "Security BSides"}
+   - {link: "https://atlseccon.com", text: "Atlantic Security Conference"}
+   - {link: "https://dc902.ca", text: "DEFCON Halifax"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca"}
  -
   title: "FAQ"
   links:
