@@ -58,9 +58,9 @@ heroTitle: "BSides Halifax <typeout> 2020"
 eventDate: "Friday May 22, 2020"
 typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# heroButtons:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About BSides Halifax"
