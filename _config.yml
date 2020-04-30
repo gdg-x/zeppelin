@@ -30,10 +30,8 @@ organizerLink: "https://bsideshalifax.ca"
 
 # Head
 metaKeywords: "event, BSides, Halifax, Cyber, Security, infosec"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+twitterAccount: "@HalifaxBSides"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
