@@ -2,6 +2,11 @@
   group: "CTF Provider"
   elements:
     - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
+
+-
+  group: "GoToWebinar Provider"
+  elements:
+    - {name: "BlackHills InfoSec", description: "Black Hills Information Security", link: "https://www.blackhillsinfosec.com/", imageUrl: "BHIS.png", width: "200px"}
 -
   group: "Sponsors"
   elements:

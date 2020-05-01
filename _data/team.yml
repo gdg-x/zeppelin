@@ -1,60 +1,118 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Jeff"
+  surname: ""
+  title: "The Captin Now"
+  thumbnailUrl: anonymous-2821433.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/obihann"}
+
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Brad"
+  surname: ""
+  title: "Admiral Ass Kicker and Cash Money Manager"
+  thumbnailUrl: anonymous-2821433.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Nick"
+  surname: ""
+  title: "AtlSecCon Rep and Wrangler of Speakers"
+  thumbnailUrl: anonymous-2821433.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+
+-
+  id: 3
+  name: "Tyler"
+  surname: ""
+  title: "Chief Moderator of the Moderators"
+  thumbnailUrl: anonymous-2821433.jpg
+  team: true
+
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Karen"
+  surname: ""
+  title: "Organizer"
+  thumbnailUrl: anonymous-2821433.jpg
+  team: true
+
+-
+  id: 5
+  name: "Stephen"
+  surname: ""
+  title: "Copywriter and Speaker Handler"
+  thumbnailUrl: anonymous-2821433.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+
+-
+  id: 5
+  name: "Thane"
+  surname: ""
+  title: "Moderator"
+  thumbnailUrl: anonymous-2821433.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+
+# -
+#   id: 0
+#   name: "Vitaliy"
+#   surname: "Zasadnyy"
+#   title: "Sponsors and Speakers Manager"
+#   thumbnailUrl: VitaliyZasadnyy.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#     - {name: "github", link: "https://github.com/zasadnyy"}
+#     - {name: "site", link: "http://zasadnyy.com/"}
+# -
+#   id: 1
+#   name: "Oleh"
+#   surname: "Zasadnyy"
+#   title: "Designer and Web Developer"
+#   thumbnailUrl: OlehZasadnyy.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+#     - {name: "github", link: "https://github.com/ozasadnyy"}
+# -
+#   id: 2
+#   name: "Ostap"
+#   surname: "Andrusiv"
+#   title: "Sponsors and Speakers Manager"
+#   thumbnailUrl: OstapAndrusiv.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+#     - {name: "twitter", link: "https://twitter.com/p1f"}
+#     - {name: "site", link: "http://andrusiv.com/"}
+# -
+#   id: 4
+#   name: "Dmytro"
+#   surname: "Danylyk"
+#   title: "Android Program Committee"
+#   thumbnailUrl: DmytroDanylyk.jpg
+#   subTeam: true
+#   social:
+#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# -
+#   id: 7
+#   name: "Valentyn"
+#   surname: "Shybanov"
+#   title: "Web and Cloud Program Committee"
+#   thumbnailUrl: ValentynShybanov.jpg
+#   subTeam: true
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#     - {name: "site", link: "http://olostan.name/"}
