@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Wil Wheaton's Law (Code of Conduit)
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+"Don't be a jerk" is a fundamental rule of all social spaces. Every other policy for getting along with others is a special case of this rule. Although nobody is expected to ban or block somebody for jerkitude (as that itself would be an instance of such), it's still a bad idea to be a jerk. So don't be one. If a significant number of reasonable people suggest, whether bluntly or politely, that you are being one, the odds are good that you are not entirely in the right.
 
+BSides Halifax (and DC902) is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form.
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+Harassment includes offensive verbal/electronic comments related to personal characteristics or choices, sexual images or comments in public or online spaces, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of talks, Discord chats, electronic meetings, physical meetings or other events, inappropriate physical contact, or unwelcome sexual attention. Participants asked to stop any harassing or bullying behavior are expected to comply immediately.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+If a participant engages in harassing behavior, representatives of the community may take reasonable action they deem appropriate, including warning the offender, expulsion from any BSides Halifax or DC902 event, or expulsion from mailing lists, Discord chats, discussion boards and other electronic communications channels to resolve the issue.
 
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any member of the BSides Halifax or DC902 community, Discord chat admins, website admins, or organizers/representatives of any physical events put on under the auspices of BSides Halifax or  DC902.
 
-######Contacts:
-
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+This Code of Conduct has been adapted from the [Plone Foundation](https://old.plone.org/foundation/materials/foundation-resolutions/code-of-conduct) and [Don't be a jerk](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick)
