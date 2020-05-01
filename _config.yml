@@ -119,10 +119,10 @@ rockstarSpeakersButtonText: "See all speakers"
 # venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# tweetsFeedImage: "twitter-feed.jpg"
+# tweetsFeedTitle: "What's Up?"
+# twitterHashTag: "devfest"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"

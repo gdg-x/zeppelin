@@ -60,19 +60,19 @@ layout: compress
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
-            if ($(window).width() > 767) {
-                var googleMaps = 'index',
-                    eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
-                    centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
-                    mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
-                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-            } else {
-               var staticGoogleMaps = true,
-                eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
-                centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
-                mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
-                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
+            // if ($(window).width() > 767) {
+            //     var googleMaps = 'index',
+            //         eventPlace = new google.maps.LatLng({{ site.eventPlaceCoordinates | replace:' ','' }}),
+            //         centerMap = new google.maps.LatLng({{ site.mapCenterCoordinates | replace:' ','' }}),
+            //         mobileCenterMap = new google.maps.LatLng({{ site.mapMobileCenterCoordinates | replace:' ','' }}),
+            //         icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+            // } else {
+            //    var staticGoogleMaps = true,
+            //     eventPlaceCoordinates = '{{ site.eventPlaceCoordinates | replace:' ','' }}',
+            //     centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
+            //     mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
+            //     icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
+            // }
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
