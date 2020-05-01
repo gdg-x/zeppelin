@@ -12,7 +12,7 @@
   name: "Cristian"
   surname: "Pimentel"
   company: "ResMed"
-  title: "Medical Security Threat Modeling"
+  title: "Medical Device Security Threat Modeling"
   bio: "..."
   thumbnailUrl: anonymous-2821433.jpg
   rockstar: true
@@ -21,7 +21,7 @@
   name: "Mike"
   surname: "Williamson"
   company: "Treasury Board Secretariat"
-  title: "[TBD]"
+  title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
   bio: "..."
   thumbnailUrl: anonymous-2821433.jpg
   rockstar: true

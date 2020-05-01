@@ -136,7 +136,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-# ticketsTitle: "Pricetable"
+ticketsTitle: "Tickets"
 # ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 # ticketsOffers:
 #  -
@@ -255,8 +255,8 @@ showSessions: false
 #      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
-# hackathonTitle: "Hackathon"
-# enableHackathon: true
+hackathonTitle: "Hackathon"
+enableHackathon: true
 
 # Hackathon About Block
 # aboutHackathonTitle: "Meet our themes"

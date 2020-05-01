@@ -3,6 +3,28 @@
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
 			<h3>{{ site.ticketsTitle }}</h3>
+
+            <div id="eventbrite-widget-container-104057223958"></div>
+
+            <script src="https://www.eventbrite.ca/static/widgets/eb_widgets.js%22%3E</script>
+
+            <script type="text/javascript">
+               var exampleCallback = function() {
+                  console.log('Order complete!');
+               };
+
+               window.EBWidgets.createWidget({
+                  // Required
+                  widgetType: 'checkout',
+                  eventId: '104057223958',
+                  iframeContainerId: 'eventbrite-widget-container-104057223958',
+
+                  // Optional
+                  iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                  onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+               });
+            </script>
+
             {% for ticketsOffer in site.ticketsOffers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
 	            {% assign check = forloop.index | modulo:2 %}
