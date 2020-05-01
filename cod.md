@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wil Wheaton's Law (Code of Conduit)
+title: Code of Conduit
 permalink: /cod/
 isStaticPost: true
 ---
