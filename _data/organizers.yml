@@ -5,4 +5,5 @@
 -
   group: "Co-organizers"
   elements:
-    - {name: "AtlSecCon", description: "Atlantic Canada's Non-Profit, Annual Information Security Conference", link: "https://atlseccon.com", imageUrl: "AltSecCon-logo-website.jpg"}
+    - {name: "AtlSecCon", description: "AtlSecCon - Atlantic Canada's Non-Profit, Annual Information Security Conference", link: "https://atlseccon.com", imageUrl: "AltSecCon-logo-website.jpg"}
+    - {name: "WoSEC", description: "WoSEC - Make an Information Security community that empowers women and values their contributions.", link: "https://wearetechwomen.com/wosec-women-of-security/", imageUrl: "wosec.jpg"}

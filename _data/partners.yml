@@ -1,8 +1,8 @@
 -
   group: "CTF Provider"
   elements:
-    - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "120px"}
+    - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
 -
   group: "Sponsors"
   elements:
-    - {name: "GOSecure", description: "GoSecure Managed Detection and Response helps all organizations reduce dwell time by preventing breaches before they happen.", link: "https://www.gosecure.net/", imageUrl: "GS_L_h_red_rgb.png", width: "120px"}
+    - {name: "GOSecure", description: "GoSecure Managed Detection and Response helps all organizations reduce dwell time by preventing breaches before they happen.", link: "https://www.gosecure.net/", imageUrl: "GS_L_h_red_rgb.png", width: "200px"}
