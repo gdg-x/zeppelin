@@ -34,8 +34,8 @@ twitterAccount: "@defcon902"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -58,9 +58,9 @@ heroTitle: "BSides Halifax <typeout> 2020"
 eventDate: "Friday May 22, 2020"
 typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
-# heroButtons:
+heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-#  - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About BSides Halifax"
@@ -145,8 +145,8 @@ ticketsOffers:
   priceCurrency: "CAD"
 #   ticketsNumber: "150"
 #   ribbon: "-5%"
-  buyButtonLink: "#"
-  buyButtonText: "Tickets Avaliable Soon"
+  buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-halifax-2020-virtual-tickets-104057223958?aff=ebdssbeac"
+  buyButtonText: "Buy Now"
   ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "A good feeling about yourself"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
