@@ -1,7 +1,17 @@
 -
   id: 001
-  title: "Intro to CTF"
-  description: "[TBD]"
+  title: "CTF for Beginners"
+  description: "An introduction to web-based capture the flag events for anyone looking to participate for the first time. Techniques and common tools will be discussed with a focus on preparing you for the CTF event being held during this conference.
+
+Topics covered in order, time permitting:
+
+1 | URL Discovery and Forceful Browsing
+2 | Parameter Tampering
+3 | XSS Attacks
+4 | SQL Injection and Data Exfiltration
+5 | XML and XPATH Injection
+
+No previous experience or programming skill is required to get the full benefit of this talk."
   subtype: presentation
   speakers: [1]
   language: en
