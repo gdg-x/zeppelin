@@ -2,7 +2,7 @@
   id: 001
   title: "Keynote"
   description: "[TBD]"
-  speakers: []
+  speakers: [6]
 
 -
   id: 002
@@ -34,7 +34,7 @@ No previous experience or programming skill is required to get the full benefit 
 
 -
   id: 005
-  title: "Medical Security Threat Modeling"
+  title: "[TBD]"
   description: "[TBD]"
   speakers: [2]
 
@@ -42,13 +42,19 @@ No previous experience or programming skill is required to get the full benefit 
   id: 006
   title: "[TBD]"
   description: "[TBD]"
-  speakers: []
+  speakers: [4]
 
 -
   id: 007
   title: "Closing Messages"
   description: "[TBD]"
   speakers: []
+
+-
+  id: 008
+  title: "[TBD]"
+  description: "[TBD]"
+  speakers: [5]
 
 # -
 #   id: 307

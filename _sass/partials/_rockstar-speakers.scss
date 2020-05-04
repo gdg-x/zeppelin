@@ -1,6 +1,18 @@
 $rockstar-image-size: 140px;
 $small-rockstar-image-size: 120px;
 
+#speakers {
+
+
+   .zoe-effect {
+      height: 410px;
+
+      figure {
+         background-repeat: no-repeat;
+      }
+   }
+}
+
 .rockstar-speakers {
     .name {
         font-size: 26px;
