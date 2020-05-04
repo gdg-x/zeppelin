@@ -1,7 +1,7 @@
 -
   id: 0
   name: "Jeff"
-  surname: ""
+  surname: "Hann"
   title: "The Captin Now"
   thumbnailUrl: jeff.jpg
   team: true
@@ -11,15 +11,15 @@
 -
   id: 1
   name: "Brad"
-  surname: ""
+  surname: "Call"
   title: "Admiral Ass Kicker and Cash Money Manager"
-  thumbnailUrl: anonymous-2821433.jpg
+  thumbnailUrl: brad.jpg
   team: true
 
 -
   id: 2
   name: "Nick"
-  surname: ""
+  surname: "Gyorfi"
   title: "AtlSecCon Rep and Wrangler of Speakers"
   thumbnailUrl: anonymous-2821433.jpg
   team: true
@@ -50,13 +50,13 @@
   thumbnailUrl: anonymous-2821433.jpg
   subTeam: true
 
--
-  id: 5
-  name: "Thane"
-  surname: ""
-  title: "Moderator"
-  thumbnailUrl: anonymous-2821433.jpg
-  subTeam: true
+# -
+#   id: 5
+#   name: "Thane"
+#   surname: ""
+#   title: "Moderator"
+#   thumbnailUrl: anonymous-2821433.jpg
+#   subTeam: true
 
 # -
 #   id: 0
