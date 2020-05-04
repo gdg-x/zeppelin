@@ -1,15 +1,5 @@
 -
   id: 0
-  name: "Jeff"
-  surname: "Hann"
-  title: "The Captin Now"
-  thumbnailUrl: jeff.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/obihann"}
-
--
-  id: 1
   name: "Brad"
   surname: "Call"
   title: "Admiral Ass Kicker and Cash Money Manager"
@@ -17,7 +7,24 @@
   team: true
 
 -
+  id: 1
+  name: "Jeff"
+  surname: "Hann"
+  title: "Were not sure but he won't go away"
+  thumbnailUrl: jeff.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/obihann"}
+-
   id: 2
+  name: "Karen"
+  surname: ""
+  title: "Organizer"
+  thumbnailUrl: karen.jpg
+  team: true
+
+-
+  id: 3
   name: "Nick"
   surname: "Gyorfi"
   title: "AtlSecCon Rep and Wrangler of Speakers"
@@ -27,18 +34,10 @@
     - {name: "twitter", link: "https://twitter.com/nickg902"}
 
 -
-  id: 3
+  id: 4
   name: "Tyler"
   surname: ""
   title: "Chief Moderator of the Moderators"
-  thumbnailUrl: anonymous-2821433.jpg
-  team: true
-
--
-  id: 4
-  name: "Karen"
-  surname: ""
-  title: "Organizer"
   thumbnailUrl: anonymous-2821433.jpg
   team: true
 
@@ -47,7 +46,7 @@
   name: "Stephen"
   surname: ""
   title: "Copywriter and Speaker Handler"
-  thumbnailUrl: anonymous-2821433.jpg
+  thumbnailUrl: stephen.jpg
   subTeam: true
 
 # -
