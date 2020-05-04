@@ -1,5 +1,11 @@
 -
   id: 001
+  title: "Keynote"
+  description: "[TBD]"
+  speakers: []
+
+-
+  id: 002
   title: "CTF for Beginners"
   description: "An introduction to web-based capture the flag events for anyone looking to participate for the first time. Techniques and common tools will be discussed with a focus on preparing you for the CTF event being held during this conference.
 
@@ -12,28 +18,37 @@ Topics covered in order, time permitting:
 5 | XML and XPATH Injection
 
 No previous experience or programming skill is required to get the full benefit of this talk."
-  subtype: presentation
   speakers: [1]
-  language: en
-  complexity: "Beginner"
-
--
-  id: 002
-  title: "Medical Security Threat Modeling"
-  description: "[TBD]"
-  subtype: presentation
-  speakers: [2]
-  language: en
-  complexity: "Beginner"
 
 -
   id: 003
+  title: "Break"
+  description: "Eat food, stretch legs."
+  speakers: []
+
+-
+  id: 004
   title: "[TBD]"
   description: "[TBD]"
-  subtype: presentation
   speakers: [3]
-  language: en
-  complexity: "Beginner"
+
+-
+  id: 005
+  title: "Medical Security Threat Modeling"
+  description: "[TBD]"
+  speakers: [2]
+
+-
+  id: 006
+  title: "[TBD]"
+  description: "[TBD]"
+  speakers: []
+
+-
+  id: 007
+  title: "Closing Messages"
+  description: "[TBD]"
+  speakers: []
 
 # -
 #   id: 307
