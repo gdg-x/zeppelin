@@ -13,6 +13,28 @@
                         <!-- <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}"> -->
                         <p>{{ about.text }}</p>
                     </div>
+
+        <!-- Noscript content for added SEO -->
+         <noscript><a href="https://www.eventbrite.ca/e/security-bsides-tickets-104057223958" rel="noopener noreferrer" target="_blank"></noscript>
+            <!-- You can customize this button any way you like -->
+            <button id="eventbrite-widget-modal-trigger-104057223958" type="button">Buy Tickets</button>
+            <noscript></a>Buy Tickets on Eventbrite</noscript>
+
+            <script src="https://www.eventbrite.ca/static/widgets/eb_widgets.js%22%3E</script>
+
+            <script type="text/javascript">
+               var exampleCallback = function() {
+                  console.log('Order complete!');
+               };
+
+               window.EBWidgets.createWidget({
+                  widgetType: 'checkout',
+                  eventId: '104057223958',
+                  modal: true,
+                  modalTriggerElementId: 'eventbrite-widget-modal-trigger-104057223958',
+                  onOrderComplete: exampleCallback
+               });
+            </script>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
