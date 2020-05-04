@@ -89,7 +89,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -150,32 +150,6 @@ ticketsOffers:
   ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "A good feeling about yourself"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
-#  -
-#   name: "Last Chance"
-#   price: "450"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "100"
-#   ribbon: "-20%"
-#   featured: true
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-10-01T00:00"
-#   validThrough: "2014-10-23T23:59"
-#   disabled: true
-#  -
-#   name: "Student"
-#   price: "200"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "50"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-20T10:00"
-#   validThrough: "2014-10-23T23:59"
-#   soldOut: true
-#   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
@@ -193,7 +167,7 @@ footerBlocks:
   links:
    - {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca"}
  -
-  title: "FAQ"
+  title: "Code of Conduct"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
