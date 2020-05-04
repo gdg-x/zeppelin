@@ -14,11 +14,11 @@ title: "BSides Halifax Quarantine Edition"
 email: "info@bsideshalifax.ca"
 description: "BSides is a community-driven framework for building events for and by information security community members."
 baseurl: ""
-url: "https://bsideshalifax.github.io"
+url: "https://bsideshalifax.ca/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "BSides Halifax"
@@ -138,7 +138,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Tickets"
-ticketsInfo: "All proceeds to go Feed Nova Scotia"
+ticketsInfo: "All proceeds go to Feed Nova Scotia"
 ticketsOffers:
  -
   name: "General Admittance"
@@ -148,7 +148,7 @@ ticketsOffers:
 #   ribbon: "-5%"
   buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-halifax-2020-virtual-tickets-104057223958?aff=ebdssbeac"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "A good feeling about yourself"]
+  ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "All proceeds go to Feed Nova Scotia"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
 
