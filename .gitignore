@@ -1,5 +1,7 @@
 ### General ###
 *.lock
+.bundle
+vendor
 
 ### Jekyll ###
 _site/
