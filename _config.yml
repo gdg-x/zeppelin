@@ -145,8 +145,8 @@ ticketsOffers:
   priceCurrency: "CAD"
 #   ticketsNumber: "150"
 #   ribbon: "-5%"
-  buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-tickets-104057223958"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "#"
+  buyButtonText: "Tickets Avaliable Soon"
   ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "A good feeling about yourself"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
