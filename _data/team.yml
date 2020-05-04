@@ -39,7 +39,7 @@
   name: "Karen"
   surname: ""
   title: "Organizer"
-  thumbnailUrl: anonymous-2821433.jpg
+  thumbnailUrl: karen.jpg
   team: true
 
 -
@@ -47,7 +47,7 @@
   name: "Stephen"
   surname: ""
   title: "Copywriter and Speaker Handler"
-  thumbnailUrl: anonymous-2821433.jpg
+  thumbnailUrl: stephen.jpg
   subTeam: true
 
 # -
