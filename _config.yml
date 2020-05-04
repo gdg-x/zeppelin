@@ -148,7 +148,7 @@ ticketsOffers:
 #   ribbon: "-5%"
   buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-halifax-2020-virtual-tickets-104057223958?aff=ebdssbeac"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "A good feeling about yourself"]
+  ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "All proceeds to go Feed Nova Scotia"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
 
