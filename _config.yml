@@ -137,17 +137,17 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Tickets"
-# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
-#   price: "350"
-#   priceCurrency: "UAH"
+ticketsInfo: "All proceeds to go Feed Nova Scotia"
+ticketsOffers:
+ -
+  name: "General Admittance"
+  price: "13.37"
+  priceCurrency: "CAD"
 #   ticketsNumber: "150"
 #   ribbon: "-5%"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-tickets-104057223958"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "A good feeling about yourself"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
 #  -
