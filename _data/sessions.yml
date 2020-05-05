@@ -1,86 +1,86 @@
--
-  id: 001
-  title: "Keynote"
-  description: "[TBD]"
-  subtype: keynote
-  speakers: []
-  language: en
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 001
+#   title: "Keynote"
+#   description: "[TBD]"
+#   subtype: keynote
+#   speakers: []
+#   language: en
+# #   complexity: "Intermediate"
+# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
--
-  id: 002
-  title: "CTF for Beginners"
-  description: "An introduction to web-based capture the flag events for anyone looking to participate for the first time. Techniques and common tools will be discussed with a focus on preparing you for the CTF event being held during this conference.
+# -
+#   id: 002
+#   title: "CTF for Beginners"
+#   description: "An introduction to web-based capture the flag events for anyone looking to participate for the first time. Techniques and common tools will be discussed with a focus on preparing you for the CTF event being held during this conference.
 
-Topics covered in order, time permitting:
+# Topics covered in order, time permitting:
 
-1 | URL Discovery and Forceful Browsing
-2 | Parameter Tampering
-3 | XSS Attacks
-4 | SQL Injection and Data Exfiltration
-5 | XML and XPATH Injection
+# 1 | URL Discovery and Forceful Browsing
+# 2 | Parameter Tampering
+# 3 | XSS Attacks
+# 4 | SQL Injection and Data Exfiltration
+# 5 | XML and XPATH Injection
 
-No previous experience or programming skill is required to get the full benefit of this talk."
-  speakers: [1]
-  language: en
-  subtype: presentation
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
--
-  id: 003
-  title: "Break"
-  description: "Eat food, stretch legs."
-  speakers: []
-  language: en
+# No previous experience or programming skill is required to get the full benefit of this talk."
+#   speakers: [1]
+#   language: en
 #   subtype: presentation
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# #   complexity: "Intermediate"
+# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
--
-  id: 004
-  title: "[TBD]"
-  description: "[TBD]"
-  speakers: [3]
-  language: en
+# -
+#   id: 003
+#   title: "Break"
+#   description: "Eat food, stretch legs."
+#   speakers: []
+#   language: en
+# #   subtype: presentation
+# #   complexity: "Intermediate"
+# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+# -
+#   id: 004
+#   title: "[TBD]"
+#   description: "[TBD]"
+#   speakers: [3]
+#   language: en
+# #   subtype: presentation
+# #   complexity: "Intermediate"
+# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+# -
+#   id: 005
+#   title: "[TBD]"
+#   description: "[TBD]"
+#   speakers: [2]
+#   language: en
 #   subtype: presentation
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# #   complexity: "Intermediate"
+# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
--
-  id: 005
-  title: "Medical Security Threat Modeling"
-  description: "[TBD]"
-  speakers: [2]
-  language: en
-  subtype: presentation
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 006
+#   title: "[TBD]"
+#   description: "[TBD]"
+#   speakers: []
+#   language: en
+# #   subtype: presentation
+# #   complexity: "Intermediate"
+# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
--
-  id: 006
-  title: "[TBD]"
-  description: "[TBD]"
-  speakers: []
-  language: en
-#   subtype: presentation
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
--
-  id: 007
-  title: "Closing Messages"
-  description: "[TBD]"
-  speakers: []
-  language: en
-#   subtype: presentation
-#   complexity: "Intermediate"
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 007
+#   title: "Closing Messages"
+#   description: "[TBD]"
+#   speakers: []
+#   language: en
+# #   subtype: presentation
+# #   complexity: "Intermediate"
+# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

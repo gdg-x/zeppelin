@@ -1,46 +1,46 @@
--
-  date: "2020-05-22"
-  dateReadable: "May 22nd"
-  tracks:
-    - {title: "Talks", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "12:45",
-    	sessionIds: [003]
-    }
-    - {
-    	startTime: "1:00",
-    	endTime: "1:45",
-    	sessionIds: [004]
-    }
-    - {
-    	startTime: "2:00",
-    	endTime: "2:45",
-    	sessionIds: [005]
-    }
-    - {
-    	startTime: "3:00",
-    	endTime: "3:45",
-    	sessionIds: [006]
-    }
-    - {
-    	startTime: "4:00",
-    	endTime: "4:45",
-    	sessionIds: [006]
-    }
-    - {
-    	startTime: "5:00",
-    	endTime: "5:45",
-    	sessionIds: [007]
-    }
+# -
+#   date: "2020-05-22"
+#   dateReadable: "May 22nd"
+#   tracks:
+#     - {title: "Talks", color: "#90be4e"}
+#   timeslots:
+#     - {
+#     	startTime: "10:00",
+#     	endTime: "10:45",
+#     	sessionIds: [001]
+#     }
+#     - {
+#     	startTime: "11:00",
+#     	endTime: "11:45",
+#     	sessionIds: [002]
+#     }
+#     - {
+#     	startTime: "12:00",
+#     	endTime: "12:45",
+#     	sessionIds: [003]
+#     }
+#     - {
+#     	startTime: "1:00",
+#     	endTime: "1:45",
+#     	sessionIds: [004]
+#     }
+#     - {
+#     	startTime: "2:00",
+#     	endTime: "2:45",
+#     	sessionIds: [005]
+#     }
+#     - {
+#     	startTime: "3:00",
+#     	endTime: "3:45",
+#     	sessionIds: [008]
+#     }
+#     - {
+#     	startTime: "4:00",
+#     	endTime: "4:45",
+#     	sessionIds: [006]
+#     }
+#     - {
+#     	startTime: "5:00",
+#     	endTime: "5:45",
+#     	sessionIds: [007]
+#     }

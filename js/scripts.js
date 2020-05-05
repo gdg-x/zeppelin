@@ -9,7 +9,7 @@
         });
 
         if ($(window).width() > 1500) {
-            $('.effect-wrapper').addClass('col-lg-3');
+            $('.effect-wrapper').addClass('col-lg-2');
         }
         if ($(window).width() < 768) {
             $('.animated').removeClass('animated').removeClass('hiding');
@@ -56,9 +56,9 @@
 
         $(window).resize(function() {
             if ($(window).width() > 1500) {
-                $('.effect-wrapper').addClass('col-lg-3');
+                $('.effect-wrapper').addClass('col-lg-2');
             } else {
-                $('.effect-wrapper').removeClass('col-lg-3');
+                $('.effect-wrapper').removeClass('col-lg-2');
             }
             if ($(window).width() < 768) {
                 $('.same-height').css('height', '100%');
@@ -103,7 +103,7 @@
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {
@@ -483,7 +483,7 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
-            
+
             function calcRouteFromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {
