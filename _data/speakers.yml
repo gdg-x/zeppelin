@@ -1,60 +1,60 @@
--
-  id: 1
-  name: "Naomi"
-  surname: "Peori"
-  company: "GoSecure, WoSec"
-  title: "CTF for Beginners"
-  bio: "..."
-  thumbnailUrl: naomi.jpg
-  rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/"}
-#     - {name: "github", link: "https://github.com/"}
--
-  id: 2
-  name: "Eric"
-  surname: " Conrad"
-  company: "Backshore Communications "
-  title: "CTO"
-  bio: "Eric's career began in 1991 as a UNIX systems administrator for a small oceanographic communications company. He gained information security experience in a variety of industries, including research, education, power, Internet, and health care. He is now CTO of Backshore Communications, a company focusing on hunt teaming, intrusion detection, incident handling, and penetration testing. He is a graduate of the SANS Technology Institute with a master of science degree in information security engineering. In addition to the CISSP, he holds the prestigious GIAC Security Expert (GSE) certification as well as the GIAC GPEN, GCIH, GCIA, GCFA, GAWN, and GSEC certifications. Eric also blogs about information security at www.ericconrad.com. "
-  thumbnailUrl: eric.jpg
-  rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/"}
-#     - {name: "github", link: "https://github.com/"}
--
-  id: 3
-  name: "Mike"
-  surname: "Williamson"
-  company: "Treasury Board Secretariat"
-  title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
-  bio: "..."
-  thumbnailUrl: anonymous-2821433.jpg
-  rockstar: true
--
-  id: 4
-  name: "Anna"
-  surname: " Manley"
-  company: "..."
-  title: "..."
-  bio: "..."
-  thumbnailUrl: anna.jpg
-  rockstar: true
--
-  id: 5
-  name: "David"
-  surname: " Shipley"
-  company: "..."
-  title: "..."
-  bio: "..."
-  thumbnailUrl: anonymous-2821433.jpg
-  rockstar: true
--
-  id: 6
-  name: "Tanya"
-  surname: " Janca"
-  company: "SheHacksPurple"
-  title: "Head Nerd, Security Trainer and Coach "
-  bio: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security trainer and coach of SheHacksPurple.dev, specializing in software and cloud security. She also consults part time for IANs Research. Her obsession with securing software runs deep, from starting her company, to running her own OWASP chapter for 4 years in Ottawa, founding a new OWASP chapter in Victoria, and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Tanya is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #CyberMentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
-  thumbnailUrl: tanya.jpg
-  rockstar: true
+# -
+#   id: 1
+#   name: "Naomi"
+#   surname: "Peori"
+#   company: "GoSecure, WoSec"
+#   title: "CTF for Beginners"
+#   bio: "..."
+#   thumbnailUrl: naomi.jpg
+#   rockstar: true
+# #   social:
+# #     - {name: "twitter", link: "https://twitter.com/"}
+# #     - {name: "github", link: "https://github.com/"}
+# -
+#   id: 2
+#   name: "Eric"
+#   surname: " Conrad"
+#   company: "Backshore Communications "
+#   title: "CTO"
+#   bio: "Eric's career began in 1991 as a UNIX systems administrator for a small oceanographic communications company. He gained information security experience in a variety of industries, including research, education, power, Internet, and health care. He is now CTO of Backshore Communications, a company focusing on hunt teaming, intrusion detection, incident handling, and penetration testing. He is a graduate of the SANS Technology Institute with a master of science degree in information security engineering. In addition to the CISSP, he holds the prestigious GIAC Security Expert (GSE) certification as well as the GIAC GPEN, GCIH, GCIA, GCFA, GAWN, and GSEC certifications. Eric also blogs about information security at www.ericconrad.com. "
+#   thumbnailUrl: eric.jpg
+#   rockstar: true
+# #   social:
+# #     - {name: "twitter", link: "https://twitter.com/"}
+# #     - {name: "github", link: "https://github.com/"}
+# -
+#   id: 3
+#   name: "Mike"
+#   surname: "Williamson"
+#   company: "Treasury Board Secretariat"
+#   title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
+#   bio: "..."
+#   thumbnailUrl: anonymous-2821433.jpg
+#   rockstar: true
+# -
+#   id: 4
+#   name: "Anna"
+#   surname: " Manley"
+#   company: "..."
+#   title: "..."
+#   bio: "..."
+#   thumbnailUrl: anna.jpg
+#   rockstar: true
+# -
+#   id: 5
+#   name: "David"
+#   surname: " Shipley"
+#   company: "..."
+#   title: "..."
+#   bio: "..."
+#   thumbnailUrl: anonymous-2821433.jpg
+#   rockstar: true
+# -
+#   id: 6
+#   name: "Tanya"
+#   surname: " Janca"
+#   company: "SheHacksPurple"
+#   title: "Head Nerd, Security Trainer and Coach "
+#   bio: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security trainer and coach of SheHacksPurple.dev, specializing in software and cloud security. She also consults part time for IANs Research. Her obsession with securing software runs deep, from starting her company, to running her own OWASP chapter for 4 years in Ottawa, founding a new OWASP chapter in Victoria, and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Tanya is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #CyberMentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
+#   thumbnailUrl: tanya.jpg
+#   rockstar: true
