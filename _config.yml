@@ -249,8 +249,8 @@ hackathonRows:
 prizesTitle: "Prizes"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Hak5 Bash Bunny"}
- - {title: "1nd Place", image: "prize-1.jpg", info: "Hak5 WiFi Pineapple"}
- - {title: "3nd Place", image: "prize-3.jpg", info: "Hak5 Packet Squirrle"}
+ - {title: "1st Place", image: "prize-1.jpg", info: "Hak5 WiFi Pineapple"}
+ - {title: "3rd Place", image: "prize-3.jpg", info: "Hak5 Packet Squirrle"}
 
 # Hackathon Location Block
 # hackathonLocationBlockTitle: "Location"
