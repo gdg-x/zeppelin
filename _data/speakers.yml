@@ -7,9 +7,8 @@
   bio: "Naomi grew up on the mean streets of Dartmouth and is famous for nothing serious because she was young and indiscreet before social media ruined privacy. She prefers Asimov, Tesla (boo Edison!), Solid Snake, Luigi and MIPS. Her interests include habanero farming, calibrating displays to perfection, hacking game consoles and if you ever really need a video game she probably has two copies. Although her talk is about capturing flags, she can also speak confidently on the quirks of 6502 opcodes, training machines to think and what it was like to do network sniffing in the 90's."
   thumbnailUrl: naomi.jpg
   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/"}
-#     - {name: "github", link: "https://github.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/kpeori"}
 -
   id: 2
   name: "Eric"
@@ -22,39 +21,39 @@
 #   social:
 #     - {name: "twitter", link: "https://twitter.com/"}
 #     - {name: "github", link: "https://github.com/"}
--
-  id: 3
-  name: "Mike"
-  surname: "Williamson"
-  company: "Treasury Board Secretariat"
-  title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
-  bio: "..."
-  thumbnailUrl: anonymous-2821433.jpg
-  rockstar: true
--
-  id: 4
-  name: "David"
-  surname: " Shipley"
-  company: "..."
-  title: "..."
-  bio: "..."
-  thumbnailUrl: anonymous-2821433.jpg
-  rockstar: true
--
-  id: 5
-  name: "Anna"
-  surname: " Manley"
-  company: "..."
-  title: "..."
-  bio: "..."
-  thumbnailUrl: anna.jpg
-  rockstar: true
--
-  id: 6
-  name: "Tanya"
-  surname: " Janca"
-  company: "SheHacksPurple"
-  title: "Head Nerd, Security Trainer and Coach "
-  bio: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security trainer and coach of SheHacksPurple.dev, specializing in software and cloud security. She also consults part time for IANs Research. Her obsession with securing software runs deep, from starting her company, to running her own OWASP chapter for 4 years in Ottawa, founding a new OWASP chapter in Victoria, and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Tanya is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #CyberMentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
-  thumbnailUrl: tanya.jpg
-  rockstar: true
+# -
+#   id: 3
+#   name: "Mike"
+#   surname: "Williamson"
+#   company: "Treasury Board Secretariat"
+#   title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
+#   bio: "..."
+#   thumbnailUrl: anonymous-2821433.jpg
+#   rockstar: true
+# -
+#   id: 4
+#   name: "David"
+#   surname: " Shipley"
+#   company: "..."
+#   title: "..."
+#   bio: "..."
+#   thumbnailUrl: anonymous-2821433.jpg
+#   rockstar: true
+# -
+#   id: 5
+#   name: "Anna"
+#   surname: " Manley"
+#   company: "..."
+#   title: "..."
+#   bio: "..."
+#   thumbnailUrl: anna.jpg
+#   rockstar: true
+# -
+#   id: 6
+#   name: "Tanya"
+#   surname: " Janca"
+#   company: "SheHacksPurple"
+#   title: "Head Nerd, Security Trainer and Coach "
+#   bio: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security trainer and coach of SheHacksPurple.dev, specializing in software and cloud security. She also consults part time for IANs Research. Her obsession with securing software runs deep, from starting her company, to running her own OWASP chapter for 4 years in Ottawa, founding a new OWASP chapter in Victoria, and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Tanya is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #CyberMentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
+#   thumbnailUrl: tanya.jpg
+#   rockstar: true
