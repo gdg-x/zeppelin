@@ -20,21 +20,22 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/eric_conrad"}
-#     - {name: "github", link: "https://github.com/"}
+-
+  id: 3
+  name: "David"
+  surname: " Shipley"
+  company: "Beauceron Security"
+  title: "Co-Founder and CEO"
+  bio: "David Shipley is the co-founder and CEO of Beauceron Security, an Atlantic Canadian scale-up that serves more than 150 clients across North America and in Europe and provides a new approach to cybersecurity awareness and risk management. Shipley is the former security lead for the University of New Brunswick and developed its incident response, threat intelligence and awareness practices prior to founding Beauceron. He holds a CISM from ISACA."
+  thumbnailUrl: dave.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/davidshipley"}
 # -
-#   id: 3
+#   id: 4
 #   name: "Mike"
 #   surname: "Williamson"
 #   company: "Treasury Board Secretariat"
-#   title: "..."
-#   bio: "..."
-#   thumbnailUrl: anonymous-2821433.jpg
-#   rockstar: true
-# -
-#   id: 4
-#   name: "David"
-#   surname: " Shipley"
-#   company: "..."
 #   title: "..."
 #   bio: "..."
 #   thumbnailUrl: anonymous-2821433.jpg

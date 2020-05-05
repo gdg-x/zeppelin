@@ -1,13 +1,13 @@
-# -
-#   id: 001
-#   title: "Keynote"
-#   description: "[TBD]"
-#   subtype: keynote
-#   speakers: []
-#   language: en
-# #   complexity: "Intermediate"
-# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 001
+  title: "Keynote"
+  description: "[TBD]"
+  subtype: keynote
+  speakers: []
+  language: en
+#   complexity: "Intermediate"
+#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 002
@@ -27,8 +27,6 @@ Topics covered in order, time permitting:
   language: en
   subtype: presentation
   complexity: "Beginners"
-# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 003
@@ -37,20 +35,17 @@ Topics covered in order, time permitting:
   speakers: []
   language: en
 
-# -
-#   id: 004
-#   title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
-#   description: "[TBD]"
-#   speakers: [3]
-#   language: en
-#   subtype: presentation
-#   complexity: "Intermediate"
-# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 004
+  title: "The Dirty Dozen - A proven model of human error that can help you reduce cyber risk"
+  description: "The Dirty Dozen refers to twelve of the most common human error preconditions, or conditions that can act as precursors, to accidents or incidents, in the aviation industry. Developed by Canadian Gordon Dupont, it became the cornerstone of the aviation industry's Human Factors safety program in the 1990s. That program was a major part of reducing incidents per million departures from 4.0 to less than .5 over the past 30 years, a nearly 90% reduction. In this talk, David will discuss the Dirty Dozen and how they can be applied to cybersecurity to significantly improve awareness programs and reduce cyber risk. "
+  speakers: [3]
+  language: en
+  subtype: presentation
 
 # -
 #   id: 005
-#   title: "[TBD]"
+# title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
 #   description: "[TBD]"
 #   speakers: [2]
 #   language: en
