@@ -18,7 +18,7 @@ url: "https://bsideshalifax.ca"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-165605284-1"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "google-site-verification=U2vM0e028DKxBzX3zvCNmR2ZQk31oXU5asShWbU3Oqg"
+siteVerification: "content=U2vM0e028DKxBzX3zvCNmR2ZQk31oXU5asShWbU3Oqg"
 
 # Organizer Info
 organizerName: "BSides Halifax"
