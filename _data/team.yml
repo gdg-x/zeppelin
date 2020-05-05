@@ -32,8 +32,8 @@
   team: true
 #   ribbon:
 #     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/kpeori"}
 #     - {name: "github", link: "https://github.com/zasadnyy"}
 #     - {name: "site", link: "http://zasadnyy.com/"}
 

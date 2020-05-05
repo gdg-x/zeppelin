@@ -30,7 +30,7 @@ organizerLink: "https://bsideshalifax.ca"
 
 # Head
 metaKeywords: "event, BSides, Halifax, Cyber, Security, infosec"
-twitterAccount: "@defcon902"
+twitterAccount: "@HalifaxBSides"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/schedule/", text: "Schedule"}
-#  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -75,8 +75,6 @@ aboutBlock:
 <p>We'll be hosting BSides Halifax on May 22nd, and you can attend from the safety of your home/secured bunker/government-mandated temporary quarantine facility by logging on to bsideshalifax.ca at 10AM Atlantic (9AM Eastern).</p>
 <p>We're really appreciative of everyone who's come forward to help us out with this. Tickets are $13.37 CAD, and all money raised will go to Feed Nova Scotia, who make sure no Nova Scotian goes hungry. We look forward to seeing you all soon!</p>"
 }
-# - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -123,7 +121,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
 # tweetsFeedTitle: "What's Up?"
-# twitterHashTag: "devfest"
+# twitterHashTag: "BSidesHalifax"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
