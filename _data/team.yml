@@ -19,8 +19,6 @@
   title: "Were not sure but he won't go away"
   thumbnailUrl: jeff.jpg
   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/obihann"}
 -
@@ -30,12 +28,8 @@
   title: "Organizer"
   thumbnailUrl: karen.jpg
   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/kpeori"}
-#     - {name: "github", link: "https://github.com/zasadnyy"}
-#     - {name: "site", link: "http://zasadnyy.com/"}
 
 -
   id: 3
@@ -44,8 +38,6 @@
   title: "AtlSecCon Rep and Wrangler of Speakers"
   thumbnailUrl: anonymous-2821433.jpg
   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/nickg902"}
 
@@ -56,12 +48,6 @@
   title: "Chief Moderator of the Moderators"
   thumbnailUrl: anonymous-2821433.jpg
   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-#     - {name: "github", link: "https://github.com/zasadnyy"}
-#     - {name: "site", link: "http://zasadnyy.com/"}
 
 -
   id: 5
@@ -70,10 +56,18 @@
   title: "Copywriter and Speaker Handler"
   thumbnailUrl: stephen.jpg
   subTeam: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-#     - {name: "github", link: "https://github.com/zasadnyy"}
-#     - {name: "site", link: "http://zasadnyy.com/"}
+
+-
+  id: 6
+  name: "Andrew"
+  surname: "Arsenault"
+  title: "Moderator"
+  thumbnailUrl: andrew.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/aarsenault1984"}
+
+  
+
+
+ 
