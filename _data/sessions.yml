@@ -30,25 +30,21 @@ Topics covered in order, time permitting:
 # #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 # #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
-# -
-#   id: 003
-#   title: "Break"
-#   description: "Eat food, stretch legs."
-#   speakers: []
-#   language: en
-# #   subtype: presentation
-# #   complexity: "Intermediate"
-# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "Break"
+  description: "Eat food, stretch legs."
+  speakers: []
+  language: en
 
 # -
 #   id: 004
-#   title: "[TBD]"
+#   title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
 #   description: "[TBD]"
 #   speakers: [3]
 #   language: en
-# #   subtype: presentation
-# #   complexity: "Intermediate"
+#   subtype: presentation
+#   complexity: "Intermediate"
 # #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 # #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
