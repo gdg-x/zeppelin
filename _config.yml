@@ -36,7 +36,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # c4pUrl: "https://bit.ly/dfua-c4p"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
 
 
 # Navigation
@@ -48,10 +48,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
-#bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-#rightNavigationButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+bottomNavigationLinks:
+- {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
+rightNavigationButtons:
+- {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "halifax.jpg"
