@@ -80,7 +80,7 @@ Topics covered in order, time permitting:
   id: 008
   title: "[TBD]"
   description: "[TBD]"
-  speakers: [5]
+  speakers: []
   language: en
 #   subtype: presentation
 #   complexity: "Intermediate"
@@ -88,9 +88,11 @@ Topics covered in order, time permitting:
 #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 006
+  id: 009
   title: "Threat hunting via DNS"
-  description: "[TBD]"
+  description: "DNS logs are one of the most powerful threat hunting resources, but encryption is rapidly changing that equation.
+Key DNS threat hunting techniques include detecting DNS tunneling and Domain Generation Algorithms (DGAs). It used to be simple(r): log DNS requests and responses on DNS forwarders, or sniff and analyze via tools like Zeek. 
+DNS over TLS (DoT) and DNS over HTTPS (DoH) are disrupting the status quo: where does that leave network defenders? This talk will analyze the current state of DNS monitoring, and provide actionable steps for detecting malice on your network via DNS."
   speakers: [2]
   language: en
 #   subtype: presentation
