@@ -31,24 +31,24 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/davidshipley"}
-# -
-#   id: 4
-#   name: "Mike"
-#   surname: "Williamson"
-#   company: "Treasury Board Secretariat"
-#   title: "..."
-#   bio: "..."
-#   thumbnailUrl: anonymous-2821433.jpg
-#   rockstar: true
-# -
-#   id: 5
-#   name: "Anna"
-#   surname: " Manley"
-#   company: "..."
-#   title: "..."
-#   bio: "..."
-#   thumbnailUrl: anna.jpg
-#   rockstar: true
+-
+  id: 4
+  name: "Mike"
+  surname: "Williamson"
+  company: "Treasury Board Secretariat"
+  title: "..."
+  bio: "..."
+  thumbnailUrl: anonymous-2821433.jpg
+  rockstar: true
+-
+  id: 5
+  name: "Anna"
+  surname: " Manley"
+  company: "..."
+  title: "..."
+  bio: "..."
+  thumbnailUrl: anna.jpg
+  rockstar: true
 # -
 #   id: 6
 #   name: "Tanya"
