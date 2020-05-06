@@ -77,12 +77,12 @@ aboutBlock:
 }
 
 # Statistic Block
-# statisticBlockImage: "statistic.jpg"
-# statisticBlock:
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
 #  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
-#  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
-#  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
-#  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "4", specialCharacter: "+", info: "hours", detail: "of amazing talks"}
+ - {count: "6", specialCharacter: "+", info: "speakers", detail: "from across North America"}
+ - {count: "24", specialCharacter: "", info: "hours", detail: "of CTF hacking goodness"}
 
 # Latest News Block
 # latestNewsTitle: "Latest news"
