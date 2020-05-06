@@ -3,7 +3,7 @@
   title: "Keynote"
   description: "[TBD]"
   subtype: keynote
-  speakers: [2]
+  speakers: [5]
   language: en
 #   complexity: "Intermediate"
 #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -81,6 +81,17 @@ Topics covered in order, time permitting:
   title: "[TBD]"
   description: "[TBD]"
   speakers: [5]
+  language: en
+#   subtype: presentation
+#   complexity: "Intermediate"
+#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 006
+  title: "Threat hunting via DNS"
+  description: "[TBD]"
+  speakers: [2]
   language: en
 #   subtype: presentation
 #   complexity: "Intermediate"
