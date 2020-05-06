@@ -50,8 +50,8 @@ navigationLinks:
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
 - {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
-rightNavigationButtons:
-- {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
+# rightNavigationButtons:
+# - {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "halifax.jpg"
