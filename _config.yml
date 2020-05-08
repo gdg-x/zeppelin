@@ -154,19 +154,19 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=HalifaxBSides", icon: "twitter"}
- - {link: "https://discord.gg/aGzzj4B", icon: "discord"}
+ - {link: "https://discord.gg/aGzzj4B", icon: "link"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.securitybsides.com/w/page/12194156/FrontPage", text: "Security BSides"}
-   - {link: "https://atlseccon.com", text: "Atlantic Security Conference"}
-   - {link: "https://dc902.ca", text: "DEFCON Halifax"}
+   - {link: "http://www.securitybsides.com/w/page/12194156/FrontPage", text: "Security BSides", icon: "link"}
+   - {link: "https://atlseccon.com", text: "Atlantic Security Conference", icon: "link"}
+   - {link: "https://dc902.ca", text: "DEFCON Halifax", icon: "link"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca"}
+   - {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca", icon: "mail"}
  -
   title: "Code of Conduct"
   links:
