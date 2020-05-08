@@ -154,6 +154,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=HalifaxBSides", icon: "twitter"}
+ - {link: "https://discord.gg/aGzzj4B", icon: "discord"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
