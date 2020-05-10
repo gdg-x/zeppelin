@@ -1,46 +1,16 @@
 <!-- Begin Footer -->
 <footer id="footer" class="footer">
 	<div class="row">
-		<div class="pull-left col-md-6 col-xs-6">
-			<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="{{ site.url }}"></div>
-		</div>
-		<div class="logo logo-footer logo-gray pull-right"></div>
-	</div>
-	<div class="row">
-		{% for block in site.footerBlocks %}
-        {% assign colWidth = 12 | divided_by: forloop.length %}
-		<div class="col-md-{{ colWidth }} col-xs-6">
-			<h5>{{ block.title }}</h5>
-			<ul>
-				{% for linkElement in block.links %}
-				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
-				{% endfor %}
-			</ul>
-		</div>
-		{% endfor %}
-	</div>
-	<div class="row">
-		<div class="col-md-6 col-xs-12">
-			<ul class="social-links">
-				{% for social in site.socialLinks %}
-				<li>
-					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
-						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
-							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
-						</svg>
-					</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-	</div>
-	<div class="row">
-		<!-- Please don't delete this line-->
 		<div class="col-md-6">
-			<p class="copyright">
-				&copy; 2014 Based on <a href="https://github.com/gdg-x/zeppelin" target="_blank">Project Zeppelin</a>. Designed and created by <a href="https://plus.google.com/+OlehZasadnyy/about" target="_blank">Oleh Zasadnyy</a> &middot; <a href="http://lviv.gdg.org.ua" target="_blank">GDG Lviv</a>
-			</p>
+			<p><img class="img-responsive" src="{{ site.baseurl }}/img/logos/footer-logo.png" alt="MenderCon logo"></p>
 		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			Contact Us: <a href="mailto:info@mendercon.com" target="_blank">info@mendercon.com</a>
+		</div>
+		<div class="col-md-6 text-right">Website based on
+			<a href="https://github.com/gdg-x/zeppelin" target="_blank">Project Zeppelin</a>.</div>
 	</div>
 </footer>
 <!-- End Footer -->
