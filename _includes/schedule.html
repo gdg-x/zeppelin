@@ -3,21 +3,6 @@
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
-            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
-            <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Day {{ forloop.index }}</div>
-                <div class="timeslot-elements flexbox-wrapper">
-                    {% for track in day.tracks %}
-                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
-                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
-                        <h5 class="track-header-title">{{ track.title }}</h5>
-                    </div>
-                    {% endfor %}
-                    <div class="track-header-slot col-xs-12 visible-xs">
-                        <h5 class="slot-detail track-header-title"></h5>
-                    </div>
-                </div>
-            </div>
             {% for timeslot in day.timeslots %}
             <div class="timeslot" itemtype="http://schema.org/subEvent">
                 <div class="timeslot-label">
