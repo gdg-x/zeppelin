@@ -11,3 +11,6 @@ ehthumbs.db
 
 ### MacOS ###
 .DS_Store
+
+### JetBrains ###
+.idea
