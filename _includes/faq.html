@@ -2,46 +2,12 @@
 <section id="faq" class="faq">
     <div class="content-wrapper text-left">
         <div class="col-md-8 col-md-offset-2">
-            <div>
-                <h5>Why is the conference called MenderCon?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>What's an unconference?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>Why an unconference?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>Is an unconference the same as an Open Space?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>What do I do if I want to speak? Is there a CFP?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>What do I need to prepare to pitch a session?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>Will my session be recorded?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>What do I do if I'm not sure which session to attend?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>What platform is being used to host the event? Why?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-            <div>
-                <h5>How can I help?</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
+            {% for faq in site.faqs %}
+                <div>
+                    <h5>{{ faq.question }}</h5>
+                    <p>{{ faq.content }}</p>
+                </div>
+            {% endfor %}
         </div>
     </div>
 </section>

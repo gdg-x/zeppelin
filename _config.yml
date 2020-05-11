@@ -20,6 +20,10 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
+collections:
+  faqs:
+    output: true
+
 # Organizer Info
 organizerName: "GDG Lviv"
 organizerAlternateName: "Google Developer Group Lviv"
