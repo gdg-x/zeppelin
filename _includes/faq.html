@@ -1,0 +1,14 @@
+<!-- Begin FAQ -->
+<section id="faq" class="faq">
+    <div class="content-wrapper text-left">
+        <div class="col-md-8 col-md-offset-2">
+            {% for faq in site.faqs %}
+                <div>
+                    <h5>{{ faq.question }}</h5>
+                    <p>{{ faq.content }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End FAQ -->
