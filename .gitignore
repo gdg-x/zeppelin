@@ -1,13 +1,15 @@
-### Jekyll ###
+### Jekyll
 _site/
 
-### Sass ###
+### Sass
 .sass-cache
 
-### Windows ###
-# Windows image file caches
+### Windows
 Thumbs.db
 ehthumbs.db
 
-### MacOS ###
+### MacOS
 .DS_Store
+
+### JetBrains
+.idea
