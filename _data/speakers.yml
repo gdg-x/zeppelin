@@ -31,6 +31,7 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/davidshipley"}
+<<<<<<< HEAD
 -
   id: 4
   name: "Mike"
@@ -44,17 +45,22 @@
   id: 5
   name: "Anna"
   surname: " Manley"
-  company: "..."
-  title: "..."
-  bio: "..."
+  company: "Manley Law Inc."
+  title: "Principal Lawyer"
+  bio: "Anna Manley is an internet and privacy lawyer based in Sydney, NS. She is the principal of Manley Law Inc. and founder of Advocate Cognitive Technologies Inc. Anna advises companies and individuals on all things law and tech related."
   thumbnailUrl: anna.jpg
   rockstar: true
-# -
-#   id: 6
-#   name: "Tanya"
-#   surname: " Janca"
-#   company: "SheHacksPurple"
-#   title: "Head Nerd, Security Trainer and Coach "
-#   bio: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security trainer and coach of SheHacksPurple.dev, specializing in software and cloud security. She also consults part time for IANs Research. Her obsession with securing software runs deep, from starting her company, to running her own OWASP chapter for 4 years in Ottawa, founding a new OWASP chapter in Victoria, and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Tanya is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #CyberMentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
-#   thumbnailUrl: tanya.jpg
-#   rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/nnamanley"}
+  
+-
+  id: 6
+  name: "Tanya"
+  surname: " Janca"
+  company: "SheHacksPurple"
+  title: "Head Nerd, Security Trainer and Coach "
+  bio: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security trainer and coach of SheHacksPurple.dev, specializing in software and cloud security. She also consults part time for IANs Research. Her obsession with securing software runs deep, from starting her company, to running her own OWASP chapter for 4 years in Ottawa, founding a new OWASP chapter in Victoria, and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Tanya is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #CyberMentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
+  thumbnailUrl: tanya.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/shehackspurple"}
