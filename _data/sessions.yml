@@ -1,9 +1,8 @@
 -
   id: 001
   title: "Keynote"
-  description: "[TBD]"
   subtype: keynote
-  speakers: []
+  speakers: [5]
   language: en
 #   complexity: "Intermediate"
 #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -26,7 +25,6 @@ Topics covered in order, time permitting:
   speakers: [1]
   language: en
   subtype: presentation
-  complexity: "Beginners"
 
 -
   id: 003
@@ -43,35 +41,47 @@ Topics covered in order, time permitting:
   language: en
   subtype: presentation
 
-# -
-#   id: 005
-# title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
-#   description: "[TBD]"
-#   speakers: [2]
-#   language: en
-#   subtype: presentation
-# #   complexity: "Intermediate"
-# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
+  description: "Created as an internal tool inside Facebook in 2012 and released publically in 2015, GraphQL is an overnight success now 8 years in the making. In this talk we'll take a look at how GraphQL works and show why it has properties that can help build safer systems."
+  speakers: [4]
+  language: en
+  subtype: presentation
 
-# -
-#   id: 006
-#   title: "[TBD]"
-#   description: "[TBD]"
-#   speakers: []
-#   language: en
-# #   subtype: presentation
-# #   complexity: "Intermediate"
-# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "[TBD]"
+  description: "[TBD]"
+  speakers: []
+  language: en
 
-# -
-#   id: 007
-#   title: "Closing Messages"
-#   description: "[TBD]"
-#   speakers: []
-#   language: en
-# #   subtype: presentation
-# #   complexity: "Intermediate"
-# #   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 007
+  title: "Closing Messages"
+  description: "[TBD]"
+  speakers: []
+  language: en
+
+-
+  id: 008
+  title: "[TBD]"
+  description: "[TBD]"
+  speakers: [0]
+  language: en
+
+-
+  id: 009
+  title: "Threat hunting via DNS"
+  description: "DNS logs are one of the most powerful threat hunting resources, but encryption is rapidly changing that equation.
+Key DNS threat hunting techniques include detecting DNS tunneling and Domain Generation Algorithms (DGAs). It used to be simple(r): log DNS requests and responses on DNS forwarders, or sniff and analyze via tools like Zeek. 
+DNS over TLS (DoT) and DNS over HTTPS (DoH) are disrupting the status quo: where does that leave network defenders? This talk will analyze the current state of DNS monitoring, and provide actionable steps for detecting malice on your network via DNS."
+  speakers: [2]
+  language: en
+  subtype: presentation
+
+-
+  id: 010
+  title: "Purple is the new black: Modern Approaches to Application Security"
+  speakers: [6]
+  language: en
