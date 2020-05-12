@@ -83,5 +83,6 @@ DNS over TLS (DoT) and DNS over HTTPS (DoH) are disrupting the status quo: where
 -
   id: 010
   title: "Purple is the new black: Modern Approaches to Application Security"
+  description: "Gone are the days when breaches were rare and security could safely be put low on the priority list; product security is now a customer demand and cyber crime has reached epic proportions. Our idolization of hackers, penetration testing and ‘breaking’ has not resulted in secure software for our industry, only egos, stereotypes and unaffordable security models. Modern application security approaches are needed for new technologies, and this talk will outline several strategies for new tech, one by one. The future of security is PURPLE."
   speakers: [6]
   language: en
