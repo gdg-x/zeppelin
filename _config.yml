@@ -65,8 +65,8 @@ heroImage: "hero.jpg"
 heroTitle: "MenderCon 2020"
 eventDate: "May 14, 2020"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "#about", text: "Learn more"}
+ - {link: "https://hopin.to/events/mendercon-2020", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
