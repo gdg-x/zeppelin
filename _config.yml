@@ -35,23 +35,18 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-# c4pUrl: "https://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
-#  - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- #- {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
 - {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
-# rightNavigationButtons:
-# - {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "halifax.jpg"
@@ -60,7 +55,6 @@ eventDate: "Friday May 22, 2020"
 typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
 heroButtons:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -79,13 +73,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
-#  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "4", specialCharacter: "+", info: "hours", detail: "of amazing talks"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from across North America"}
+ - {count: "6", specialCharacter: "", info: "speakers", detail: "from across North America"}
  - {count: "24", specialCharacter: "", info: "hours", detail: "of CTF hacking goodness"}
-
-# Latest News Block
-# latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -93,47 +83,10 @@ rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
-# Location Block
-# locationBlockTitle: "Location"
-# eventLocationName: "Conference Hall"
-# eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-# eventStreetAddress: "22 Teatral'na St"
-# eventAddressLocality: "Lviv"
-# eventAddressLocalityRegion: "Lvivska"
-# eventPostalCode: "79000"
-# eventAddressCountry: "Ukraine"
-# eventStartTime: "2014-10-25T10:00"
-# eventDoorTime: "09:00"
-# eventEndTime: "2014-10-25T20:00"
-# eventPlaceCoordinates: "49.843237, 24.028751"
-# mapCenterCoordinates: "49.842537, 24.025701"
-# mapMobileCenterCoordinates: "49.841620, 24.029411"
-
-# Venue Block
-# venueBlockTitle: "Venue"
-# venueBigImage: "venue_0.jpg"
-# venueSmallImage1: "venue_1.jpg"
-# venueSmallImage2: "venue_2.jpg"
-# venueSmallImage3: "venue_3.jpg"
-# venueTitle: "Kinopalace Cinema"
-# venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-# tweetsFeedImage: "twitter-feed.jpg"
-# tweetsFeedTitle: "What's Up?"
-# twitterHashTag: "BSidesHalifax"
-# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-# subscribeImage: "subscribe.jpg"
-# subscribeTitle: "Subscribe for updates"
-# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Tickets"
@@ -173,62 +126,8 @@ footerBlocks:
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
-# Blog
-# blogTitle: "Latest news"
-# blogCommentsEnabled: true
-# discusShortName: "devfestua"
-
 # Speakers List Block
 showSessions: false
-
-# Team Block
-# teamBlockTitle: "About us"
-# aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-
-# Logistics Find Way Block
-# findWayTitle: "Find your way here"
-# findWayDistance: "Distance"
-# findWayDriving: "DRIVING"
-# findWayWalking: "WALKING"
-# findWayBicycling: "BICYCLING"
-# findWayTransit: "TRANSIT"
-# findWayFindFlight: "Find Flight"
-# logisticsMapCenterCoordinates: "49.056728, 3.117289"
-# logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-# logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-# directionDetailsImage: "direction-details.jpg"
-# directionDetailsTitle: "Get around Lviv"
-# directionDetailsCards:
-#  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
-#  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
-#  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-# directionDetailsWideCards:
-#  -
-#   title: "Questions?"
-#   subCards:
-#    -
-#     title: "Hotels"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Registration"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Attendance Details"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
@@ -243,31 +142,9 @@ hackathonRows:
 <br />
 <p>Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs!</p>"}
 
-# Hackathon Judges Block
-# judgesImage: "judges.jpg"
-# judgesTitle: "Judges"
-
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Hak5 Bash Bunny"}
  - {title: "1st Place", image: "prize-1.jpg", info: "Hak5 WiFi Pineapple"}
  - {title: "3rd Place", image: "prize-3.jpg", info: "Hak5 Packet Squirrle"}
-
-# Hackathon Location Block
-# hackathonLocationBlockTitle: "Location"
-# hackathonLocationName: "Communa"
-# hackathonLocationLink: "http://communa.net.ua/"
-# hackathonStreetAddress: "1 Halytska St"
-# hackathonAddressLocality: "Lviv"
-# hackathonAddressLocalityRegion: "Lvivska"
-# hackathonPostalCode: "79000"
-# hackathonAddressCountry: "Ukraine"
-# hackathonTimeTitle: "Hack through"
-# hackathonStartTime: "2014-10-24T10:00"
-# hackathonDoorTime: "09:00"
-# hackathonEndTime: "2014-10-25T00:00"
-# viewOnMap: "View on Google Maps"
-# hackathonPlaceCoordinates: "49.840999, 24.031144"
-# hackathonMapCenterCoordinates: "49.840696, 24.028754"
-# hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
