@@ -10,4 +10,5 @@
 -
   group: "Sponsors"
   elements:
-    - {name: "GOSecure", description: "GoSecure Managed Detection and Response helps all organizations reduce dwell time by preventing breaches before they happen.", link: "https://www.gosecure.net/", imageUrl: "GS_L_h_red_rgb.png", width: "200px"}
+    - {name: "GOSecure", description: "GoSecure Managed Detection and Response helps all organizations reduce dwell time by preventing breaches before they happen.", link: "https://www.gosecure.net/", imageUrl: "GS_L_h_red_rgb.png", width: "300px"}
+    - {name: "Beauceron Security", description: "Beauceron's turnkey automation simplifies tasks such as syncing user accounts, assigning awareness and education modules and generating reports for leaders, management or industry regulators. This frees up security awareness practitioner time to focus on what matters most: engaging with your community. Measurable, automated, behaviour change.", link: "https://www.beauceronsecurity.com/", imageUrl: "beauceron.png", width: "300px"}
