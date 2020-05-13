@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -8,12 +8,13 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
+encoding: UTF-8
 
 # Site Settings
 title: "MenderCon 2020"
 email: "info@mendercon.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/home"
+baseurl: ""
 url: "https://mendercon.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -62,13 +63,11 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "MenderCon 2020"
+eventDate: "May 14, 2020"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "#about", text: "Learn more"}
+ - {link: "https://hopin.to/events/mendercon-2020", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
