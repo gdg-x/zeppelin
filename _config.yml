@@ -13,7 +13,7 @@ encoding: UTF-8
 # Site Settings
 title: "MenderCon 2020"
 email: "info@mendercon.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "MenderCon is a conference for people who are passionate about modernizing and improving software systems"
 baseurl: ""
 url: "https://mendercon.com"
 permalink: "/blog/:title"
@@ -35,7 +35,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "mendercon, menders, unconference, refactoring, development, programming, legacy, code, software, remodeling, technical, debt"
 twitterAccount: "@MenderCon"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
