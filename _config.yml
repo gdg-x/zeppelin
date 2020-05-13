@@ -8,6 +8,7 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
+encoding: UTF-8
 
 # Site Settings
 title: "MenderCon 2020"
