@@ -9,14 +9,14 @@ on_stylesheet_saved do |file|
   end
 end
 
-http_path = "/" 
-sass_dir = "./" 
-css_dir = "../css" 
-images_dir = "../img" 
-javascripts_dir = "../js" 
+http_path = "/"
+sass_dir = "./"
+css_dir = "../css"
+images_dir = "../img"
+javascripts_dir = "../js"
 
 line_comments = false
-relative_assets = true 
+relative_assets = true
 output_style = :compressed
 
 # Remove multiline comments - monkey patch
