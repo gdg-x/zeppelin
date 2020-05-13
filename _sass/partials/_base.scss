@@ -12,8 +12,14 @@ $base-font-weight: $regular;
 $base-font-size: 13px;
 $base-line-height: 23px;
 
+$highlight-color: #a21f1f;
+$title-color: #000000;
+
+$title-font-family: 'VT323', monospace;
+$title-date-font-family: 'WC Mano Negra', sans-serif;
+
 // Fixed Font
-$fixed-font-family: 'VT323', monospace;
+$fixed-font-family: 'Roboto', monospace;
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
