@@ -16,7 +16,7 @@ layout: compress
         <div class="st-pusher">
             <div class="st-content">
 
-                {{ content }} 
+                {{ content }}
 
                 {% include footer.html %}
 
@@ -24,16 +24,16 @@ layout: compress
         </div>
     </div>
 
-    {% if page.modal != null %} 
-    	{% include speakers-modals.html %} 
-    {% endif %} 
+    {% if page.modal != null %}
+    	{% include speakers-modals.html %}
+    {% endif %}
 
     {% if page.permalink == '/schedule/' %}
-        {% include sessions-modals.html %} 
-    {% endif %} 
+        {% include sessions-modals.html %}
+    {% endif %}
 
     {% include analytics.html %}
-    
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
@@ -49,14 +49,14 @@ layout: compress
     <script>
         if ($(window).width() > 767) {
             document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
-        } 
+        }
     </script>
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
-    {% endif %} 
+    {% endif %}
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
@@ -127,8 +127,8 @@ layout: compress
                 mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
-            
-        {% endif %} 
+
+        {% endif %}
     </script>
     <script src="{{ "/js/scripts.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}

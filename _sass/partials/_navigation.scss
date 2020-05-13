@@ -34,7 +34,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .9);
         transform: translateY(1px);
         @media (max-width: 767px) {
             transform: translateX(-45px);
-        }    
+        }
     }
     .logo {
         display: inline-block;
@@ -85,12 +85,12 @@ nav {
             line-height: 20px;
             width: 95%;
             margin: 20px 0 0 5px;
-            transform: translateY(0);  
+            transform: translateY(0);
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(20px);
             @media (max-width: 767px) {
-                transform: translateY(0);  
+                transform: translateY(0);
             }
         }
     }
