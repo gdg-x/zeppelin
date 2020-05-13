@@ -9,6 +9,8 @@ ENV BUNDLE_GEMFILE=/app/Gemfile \
   BUNDLE_PATH=/bundle
 
 RUN apt-get update
-RUN apt-get install --assume-yes default-jre
+RUN apt-get install --assume-yes curl
+RUN curl -sL https://deb.nodesource.com/setup_12.x | bash
+RUN apt-get install --assume-yes nodejs
 RUN gem install bundler
 RUN bundle install
