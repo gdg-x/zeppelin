@@ -9,6 +9,5 @@ ENV BUNDLE_GEMFILE=/app/Gemfile \
   BUNDLE_PATH=/bundle
 
 RUN apt-get update
-RUN apt-get install --assume-yes default-jre
 RUN gem install bundler
 RUN bundle install
