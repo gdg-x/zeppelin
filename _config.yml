@@ -20,6 +20,7 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+isAcceptingSponsors: false
 
 collections:
   faqs:
@@ -35,7 +36,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@MenderCon"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -51,15 +52,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/faq/", text: "FAQ"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -70,11 +64,11 @@ heroButtons:
  - {link: "https://hopin.to/events/mendercon-2020", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About MenderCon"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Focused<br/>Content", image: "conference.jpg", text: "A full day focused on modernizing and improving software systems. From the smallest apps, to the biggest enterprise monoliths. Find your tribe and learn here." }
+ - {title: "Virtual Unconference", image: "workshop.jpg", text: "At this conference, the attendees get to create the bulk of the schedule on the fly. And because staring at a screen watching endless presentations from your home isn't a ton of fun, we're going to encourage attendees to create a variety of different session types." }
+ - {title: "Find<br/>Your Tribe", image: "hackathon.jpg", text: "You're not alone! There are other people just like you who enjoy working on existing codebases. Meet them here. Make friends. Expand your network." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -121,8 +115,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "MenderCon2020"
 
 # Partners Block
 organizersTitle: "Organizers"

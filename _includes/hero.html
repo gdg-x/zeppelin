@@ -3,9 +3,9 @@
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            <h1>{{ site.heroTitle }}</h1>
-            <p>{{ site.eventDate }}</p>
+        <div class="title animated hiding" data-animation="fadeInDown" data-delay="500">
+            <h1>Mender<span class="title-highlight">Con</span> 2020</h1>
+            <p class="title-date">{{ site.eventDate }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}

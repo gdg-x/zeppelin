@@ -21,7 +21,7 @@
         }
         if ($(window).scrollTop() >= 100) {
             $('#top-header').addClass('after-scroll');
-            $('#logo-header .logo').removeClass('logo-light').addClass('logo-dark');
+            $('#logo-header .logo').removeClass('logo-dark').addClass('logo-gray');
         }
 
         $(window).scroll(function() {
@@ -33,10 +33,10 @@
 
             if (scroll >= 100) {
                 header.addClass('after-scroll');
-                logo.removeClass('logo-light').addClass('logo-dark');
+                logo.removeClass('logo-dark').addClass('logo-gray');
             } else {
                 header.removeClass('after-scroll');
-                logo.removeClass('logo-dark').addClass('logo-light');
+                logo.removeClass('logo-gray').addClass('logo-dark');
             }
 
             if (scroll >= $('.top-section').height() && $(window).width() > 767) {
@@ -103,7 +103,7 @@
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {
@@ -483,7 +483,7 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
-            
+
             function calcRouteFromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {
