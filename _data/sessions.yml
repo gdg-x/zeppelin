@@ -1,49 +1,49 @@
 -
   id: 001
   title: "Pre-Conference Meet & Greet"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: workshop
   speakers: []
 -
   id: 002
   title: "Introduction & Overview"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: presentation
   speakers: [1]
 -
   id: 003
   title: "Opening Keynote"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: keynote
   speakers: [1]
 -
   id: 004
   title: "Pitch Session"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: workshop
 -
   id: 005
   title: "Session Round One"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: presentation
 -
   id: 006
   title: "Session Round Two"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: presentation
 -
   id: 007
   title: "Session Round Three"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: presentation
 -
   id: 008
   title: "Closing Circle & Retrospective"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: workshop
   speakers: [1]
 -
   id: 009
   title: "Post-Event Networking"
-  description: "TBD description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: ""
   subtype: workshop
