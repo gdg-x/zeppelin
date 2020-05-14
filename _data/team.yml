@@ -53,7 +53,7 @@
   id: 5
   name: "Stephen"
   surname: ""
-  title: "Copywriter and Speaker Handler"
+  title: "Copywriter and Green Room"
   thumbnailUrl: stephen.jpg
   subTeam: true
 
@@ -67,7 +67,10 @@
   social:
     - {name: "twitter", link: "https://twitter.com/aarsenault1984"}
 
-  
-
-
- 
+-
+  id: 7
+  name: "Mary"
+  surname: ""
+  title: "Green Room"
+  thumbnailUrl: mary.jpg
+  subTeam: true
