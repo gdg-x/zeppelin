@@ -43,7 +43,7 @@ Topics covered in order, time permitting:
 
 -
   id: 005
-  title: "Applying Langsec principles in the real world using emerging technologies like GraphQL"
+  title: "Building Safer Systems: Applying LangSec principles with GraphQl"
   description: "Created as an internal tool inside Facebook in 2012 and released publically in 2015, GraphQL is an overnight success now 8 years in the making. In this talk we'll take a look at how GraphQL works and show why it has properties that can help build safer systems."
   speakers: [4]
   language: en
