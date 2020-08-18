@@ -48,11 +48,11 @@
                     <div><h1 style="text-align:center">To be announced</h1></div>
                 {% endif %}
             </div> 
-            <!--{% if site.speakerLink == null || site.speakerLink == "" %}
+            {% if site.speakerLink == null || site.speakerLink == "" %}
                 <a href="mailto:{{ site.speakerEmailAddress }}?subject={{ site.speakerEmailSubject }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.speakerButtonMessage }}</a>
             {% else %}
                 <a href="{{ site.speakerLink }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.speakerButtonMessage }}</a>
-            {% endif %}-->
+            {% endif %}
             <p style="margin-top:75px;"><h5>{{ site.supportTitle }}</h5></p> 
             <ul class="list-inline">
                 {% for image in site.supportImages %}

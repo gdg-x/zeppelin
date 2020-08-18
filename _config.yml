@@ -43,7 +43,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 speakerButtonMessage: "Become a speaker"
 speakerEmailAddress: "bitrconference@gmail.com"
 speakerEmailSubject: "I’d like to find out more about speaking"
-speakerLink: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers"
+speakerLink: "https://www.cognitoforms.com/BeaconHouseEvents/builditright2020callforpapers"
 
 # Sponsors
 sponsorButtonMessage: "Become a sponsor"
@@ -57,17 +57,16 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- #- {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about speaking", text: "Become a speaker"}
- #- {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
+ - {link: "https://www.cognitoforms.com/BeaconHouseEvents/builditright2020callforpapers", text: "Become a speaker"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
- #- {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
+ - {link: "https://www.cognitoforms.com/BeaconHouseEvents/builditright2020callforpapers", text: "Become a speaker"}
 
 
 # Hero Block
@@ -77,18 +76,18 @@ eventDate: "12th November, 2020"
 #typeoutTextValues: '"Newcastle Upon Tyne", "UK"'
 typeoutFallback: "Newcastle Upon Tyne"
 heroButtons:
- #- {link: "https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers", text: "Become a speaker"}
+ - {link: "https://www.cognitoforms.com/BeaconHouseEvents/builditright2020callforpapers", text: "Become a speaker"}
  - {link: "mailto:bitrconference@gmail.com?subject=I’d like to find out more about sponsoring", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Build IT Right"
 aboutBlock:
- - {title: "Conference", image: "Simon_Brown.jpg", text: "Build IT Right returns in 2020 with another day of engaging and informative
-  content for all software professionals in the North East. The lightning talks, exhibition and panel session will be back to Keynote
-  speakers will be announced shortly, and once again we’ll have a Call for Papers to fill the tracks, <b>Architecture</b>, <b>Development Process</b>,
-  <b>Development Technologies</b> and <b>UX & UR</b>. The event provides delegates with a dedicated day away from their screens, expand knowledge, and
-  inspire how to adapt to emerging trends." }
+ - {title: "Conference", image: "Simon_Brown.jpg", text: "<p>Build IT Right 2.0 will be held on the 12th November 2020 online to inspire, expand knowledge and discuss emerging trends. Featuring tracks on
+  <b>Architecture, Development Process, Development Technologies, UX & UR</b> and new theme for 2020, <b>‘Devs in the fight against Covid-19’</b>,
+  it will be a day full of engaging and informative sessions.</p>
+  <p>Alongside live interaction on the day, lightning talks and keynotes, attendees will also benefit from 12 months replay to catch up on sessions.
+  Attendees will also receive a swag bag delivered to an address of their choice.</p>" }
 
 # Feedback Block
 feedbackTitle: "Feedback from 2019"
@@ -181,7 +180,11 @@ ticketsOffers:
   ribbon: "-33%"
   buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all talks"]
+  ticketContentList: [
+    "Access to all keynotes, talks and panels",
+    "Personalised swag bag delivered to your office/home",
+    "12 months of session replay"
+  ]
   validFrom: "2019-05-07T10:00"
   validThrough: "2019-11-30T23:59"
   soldOut: false
@@ -195,7 +198,11 @@ ticketsOffers:
   ribbon: "Full price"
   buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Access to all talks"]
+  ticketContentList: [
+    "Access to all keynotes, talks and panels",
+    "Personalised swag bag delivered to your office/home",
+    "12 months of session replay"
+  ]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-03-25T23:59"
   soldOut: false
@@ -209,7 +216,11 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.co.uk/e/build-it-right-2020-tickets-67983415225"
   buyButtonText: "Buy Now"
   additionalInfo: "Students require a valid student email address at time of purchase."
-  ticketContentList: ["Access to all talks"]
+  ticketContentList: [
+    "Access to all keynotes, talks and panels",
+    "Personalised swag bag delivered to your office/home",
+    "12 months of session replay"
+  ]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-03-25T23:59"
   soldOut: false

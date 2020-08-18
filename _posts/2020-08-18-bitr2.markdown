@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Build IT Right 2.0"
+date:   2020-08-18 08:00:00
+isStaticPost: false
+---
+Build IT Right 2.0
+
+Having spent the past year preparing for the conference with our committee, speakers, exhibitors and event partners, we've taken the decision to move from ‘IRL’ to Virtual for BITR 2020, as the experience and safety of our community and everyone involved in the event continues to be our top priority. With that in mind we are re-writing the script and seizing the opportunity to deliver an all-improved BITR 2.0.
+
+We are building a better conference for our attendees including:
+* Exciting New Keynotes & Panel Speakers (To be announced soon!)
+* Additional tracks added to highlight ‘Devs in the fight against Covid-19’
+* Personalised swag bags delivered to your office/home
+* 12 months of replay to catch up on sessions you missed
+
+The call for papers is now open again to submit your new papers before the deadline on 15th September. Submit [here](https://www.cognitoforms.com/BeaconHouseEvents/builditright2020callforpapers).
+
+We would like to thank everyone who helps to make the event possible and recognise that the BITR Conference does not happen without your support. The conversations we have had over the recent months have proven how lucky we all are to be part of this North East Community.
