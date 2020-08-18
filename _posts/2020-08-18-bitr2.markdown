@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build IT Right 2.0"
-date:   2020-08-17 08:00:00
+date:   2020-08-18 08:00:00
 isStaticPost: false
 ---
 Build IT Right 2.0
