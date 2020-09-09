@@ -204,7 +204,7 @@ ticketsOffers:
     "12 months of session replay"
   ]
   validFrom: "2019-12-01T10:00"
-  validThrough: "2020-03-25T23:59"
+  validThrough: "2020-11-12T07:59"
   soldOut: false
   hide: false
  -
