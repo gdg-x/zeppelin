@@ -4,7 +4,7 @@
   service: true
 -
   id: 102
-  title: "Conference Welcome"
+  title: "Conference Welcome & 30 min Keynote: To be Announced!"
   description: 
   subtype: keynote
   speakers:
@@ -36,7 +36,7 @@
     It’s all about the Culture - Mark Jose<br/>
     The fresh prince of the testing atelier - Stephen Mounsey
   subtype: keynote
-  speakers: [21, 22, 23, 24, 25, 26]
+  speakers: [22, 23, 24, 25]
   language: en
 -
   id: 203
@@ -129,23 +129,17 @@
   language: en
 -
   id: 004
-  title: "Evolving TDD - Moving past single example tests & Simplicity, the one and only rule"
+  title: "Evolving TDD - Moving past single example tests"
   description: |
-    <h5>Evolving TDD - Moving past single example tests.</h5>
     <p>This talk aims to provide the audience with an introduction to property-based testing and the practical steps on how to incorporate Property-Based Testing into a TDD workflow.</p>
     <p>Applications written using Functional Programming languages and patterns are becoming more and more mainstream. Clojure, Scala and Haskell are among the growing numbers of purely functional programming languages appearing in Government and hugely successful private sector applications. Even Java is increasing focus on the Functional paradigm with the inclusion of lambda functions in version 1.8.</p>
     <p>One of the cornerstones of Functional Programming is pure functions and Property-Based Testing is an exceptionally powerful tool for testing this kind of function. The ability to have the computer generate example tests and verify the output has led to the discovery of serious bugs in some of our most established libraries.</p>
     <p>A TDD workflow involves the continual addition of small amounts of tested behaviour into either a new or existing application. The smaller the steps the developer can take, the better. Driving development with property tests has the tendency to force you to write more behaviour code than your simple example tests would.</p>
     <p>Following the talk an attendee should have an understanding of what property testing is, where it's useful and what tools are available to implement it.</p>
     <p>They will see how I incorporate Property-Based Testing into my TDD workflow and how it changes the way I drive my development.
-    <h5>Simplicity, the one and only rule.</h5>
-    <p>It should be number one word in any software developer's dictionary. SIMPLICITY...but it unfortunately isn't. If you do this, if you manage to master simplicity then the rest quite simply doesn't matter, everything else falls into place as if by magic - even your reputation as a software developer!</p>
-    <p>Why on earth is simplicity so important? How do we approach it? How do we make simplicity transpire in every aspect of software development? What is the difference between doing the easiest thing Vs doing the simplest thing?</p>
-    <p>In this talk I will do my absolute best to answer all the questions above and anything else related with it. I will talk about the importance of Test Driven Development to achieve this and also the importance about not philosophising about where things might change in your code, but focusing on making change simple by letting real examples guide you and forgetting about silly outdated guidelines like SOLID.</p>
-    <p>Avoiding "death by object orientation" is a must, the main reason for the mess most codebases end up in is over engineering. It is your duty as a Software Developer to challenge this behaviour and I hope that with this talk will empower software developers to pursue simplicity by focusing on the "now" and "what actually is needed" and then from there, making a judgement on what the simplest implementation possible is.</p>
   type: DP
   subtype: presentation
-  speakers: [8,9]
+  speakers: [8]
   language: en
 -
   id: 005
@@ -169,15 +163,13 @@
   language: en
 -
   id: 006
-  title: |
-    Prerequisites for Evolutionary Architecture - Chris Howe-Jones<br/>
-    How to build an application for under £100 - Dan Pudwell
+  title: "Prerequisites for Evolutionary Architecture"
   description: |
     Building an Architecture that can adapt to change is challenging. This talk will explore what are the critical factors in an evolutionary architecture & what should be in place to support them.<br/>
     It's about how we built an application to help disabled passengers get through airports easier.  The crux of the talk is about Serverless but I also touch on various aspects of AWS.
   type: A
   subtype: presentation
-  speakers: [11,12]
+  speakers: [11]
   language: en
 -
   id: 007
@@ -277,4 +269,96 @@
   type: DTDO
   subtype: presentation
   speakers: [27]
+  language: en
+-
+  id: 016
+  title: "Session from Bede Gaming"
+  description:
+  type: DTDO
+  subtype: presentation
+  speakers:
+  language: en
+-
+  id: 017
+  title: "In Retrospect - Making Retros Great Again"
+  description:
+  type: DP
+  subtype: presentation
+  speakers: [28]
+  language: en
+-
+  id: 018
+  title: "The fresh prince of the testing atelier"
+  description:
+  type: DP
+  subtype: presentation
+  speakers: [26]
+  language: en
+-
+  id: 019
+  title: "How one word is making your team lose out on hiring the best engineers"
+  description:
+  type: DP
+  subtype: presentation
+  speakers: [29]
+  language: en
+-
+  id: 020
+  title: "Eventual Consistency is not just for superheroes"
+  description:
+  type: A
+  subtype: presentation
+  speakers: [30]
+  language: en
+-
+  id: 021
+  title: "Inclusive Design and its impact to business and customers"
+  description:
+  type: UXUR
+  subtype: presentation
+  speakers: [31]
+  language: en
+-
+  id: 022
+  title: "The importance of research and design iteration"
+  description:
+  type: UXUR
+  subtype: presentation
+  speakers: [32]
+  language: en
+-
+  id: 023
+  title: "Simplicity. The one and only rule."
+  description: |
+    <p>It should be number one word in any software developer's dictionary. SIMPLICITY...but it unfortunately isn't. If you do this, if you manage to master simplicity then the rest quite simply doesn't matter, everything else falls into place as if by magic - even your reputation as a software developer!</p>
+    <p>Why on earth is simplicity so important? How do we approach it? How do we make simplicity transpire in every aspect of software development? What is the difference between doing the easiest thing Vs doing the simplest thing?</p>
+    <p>In this talk I will do my absolute best to answer all the questions above and anything else related with it. I will talk about the importance of Test Driven Development to achieve this and also the importance about not philosophising about where things might change in your code, but focusing on making change simple by letting real examples guide you and forgetting about silly outdated guidelines like SOLID.</p>
+    <p>Avoiding "death by object orientation" is a must, the main reason for the mess most codebases end up in is over engineering. It is your duty as a Software Developer to challenge this behaviour and I hope that with this talk will empower software developers to pursue simplicity by focusing on the "now" and "what actually is needed" and then from there, making a judgement on what the simplest implementation possible is.</p>
+  type: DP
+  subtype: presentation
+  speakers: [9]
+  language: en
+-
+  id: 024
+  title: "How to build an application for under £100"
+  description:
+  type: A
+  subtype: presentation
+  speakers: [12]
+  language: en
+-
+  id: 025
+  title: "Crash Course: Managing Software People and Teams"
+  description:
+  type: DP
+  subtype: presentation
+  speakers: [33]
+  language: en
+-
+  id: 026
+  title: "Learn Tools & Technologies Faster by Coding with Jhipster"
+  description:
+  type: DP
+  subtype: presentation
+  speakers: [34]
   language: en
