@@ -2,10 +2,10 @@
   date: "2020-11-12"
   dateReadable: "12th November"
   rooms:
-    - {title: "<b>Stephenson Suite</b>"}
-    - {title: "<b>Northumbrian</b>"}
-    - {title: "<b>Rocket</b>"}
-    - {title: "<b>Invicta</b>"}
+    - {title: "<b>Main Stage</b>"}
+    - {title: "<b>Session Breakout</b>"}
+    - {title: "<b>Session Breakout</b>"}
+    - {title: "<b>Session Breakout</b>"}
   tracks:
     - {title: "Development Process", color: "#003366", background: "#ADD8E6"}
     - {title: "Development Technologies <br> Dev Ops", color: "#006400", background: "#c1fcc1"}
@@ -15,97 +15,77 @@
   lightningbackground: "#d3d3d3"
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "09:00",
     	endTime: "",
-    	sessionIds: [101]
+    	sessionIds: [102, 999, 999, 999]
     }
     - {
-        startTime: "09:00",
-        endTime: "09:15",
-        sessionIds: [102, 999, 999, 999]
+        startTime: "09:50",
+        endTime: "",
+        sessionIds: [001, 016, 007, 017]
     }
     - {
-    	startTime: "09:15",
-    	endTime: "10:05",
-    	sessionIds: [106, 999, 999, 999]
-    }
-    - {
-        startTime: "10:05",
-        endTime: "10:15",
-        sessionIds: [103]
-    }
-    - {
-        startTime: "10:15",
-        endTime: "10:55",
-        sessionIds: [001, 106, 007, 015]
-    }
-    - {
-    	startTime: "10:55",
-    	endTime: "11:15",
-        sessionIds: [104]
-    }
-    - {
-    	startTime: "11:15",
-    	endTime: "11:55",
-        sessionIds: [002, 005, 008, 011]
-    }
-    - {
-        startTime: "11:55",
-        endTime: "12:05",
-        sessionIds: [103]
-    }
-    - {
-        startTime: "12:05",
-        endTime: "12:50",
-        sessionIds: [202, 999, 999, 999]
-    }
-    - {
-    	startTime: "12:50",
-    	endTime: "14:00",
-    	sessionIds: [105]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:30",
-        sessionIds: [203, 999, 999, 999]
-    }
-    - {
-    	startTime: "14:30",
-    	endTime: "15:00",
-        sessionIds: [204, 999, 999, 999]
-    }
-    - {
-        startTime: "15:00",
-        endTime: "15:10",
-        sessionIds: [103]
-    }
-    - {
-    	startTime: "15:10",
-    	endTime: "15:50",
-        sessionIds: [003, 106, 009, 012]
-    }
-    - {
-    	startTime: "15:50",
-    	endTime: "16:10",
+    	startTime: "10:30",
+    	endTime: "",
     	sessionIds: [104]
     }
     - {
-    	startTime: "16:10",
-    	endTime: "16:50",
-        sessionIds: [004, 006, 010, 013]
+        startTime: "10:50",
+        endTime: "",
+        sessionIds: [002, 005, 008, 011]
     }
     - {
-        startTime: "16:50",
-        endTime: "17:00",
-        sessionIds: [103]
+        startTime: "11:30",
+        endTime: "",
+        sessionIds: [202, 999, 999, 999]
     }
     - {
-    	startTime: "17:00",
-    	endTime: "17:50",
-    	sessionIds: [205, 999, 999, 999]
+    	startTime: "12:05",
+    	endTime: "",
+        sessionIds: [105]
     }
     - {
-        startTime: "17:50",
-        endTime: "18:00",
-        sessionIds: [206, 999, 999, 999]
+    	startTime: "13:05",
+    	endTime: "",
+        sessionIds: [203, 999, 999, 999]
+    }
+    - {
+        startTime: "13:35",
+        endTime: "",
+        sessionIds: [204, 999, 999, 999]
+    }
+    - {
+        startTime: "14:10",
+        endTime: "",
+        sessionIds: [003, 010, 009, 013]
+    }
+    - {
+    	startTime: "14:50",
+    	endTime: "",
+    	sessionIds: [104]
+    }
+    - {
+        startTime: "15:10",
+        endTime: "",
+        sessionIds: [004, 006, 018, 019]
+    }
+    - {
+    	startTime: "15:35",
+    	endTime: "",
+        sessionIds: [020, 021, 015, 022]
+    }
+    - {
+        startTime: "16:45",
+        endTime: "",
+        sessionIds: [023, 024, 025, 026]
+    }
+    - {
+    	startTime: "17:05",
+    	endTime: "",
+        sessionIds: [205, 999, 999, 999]
+    }
+    - {
+    	startTime: "17:35",
+    	endTime: "",
+        sessionIds: [206]
     }

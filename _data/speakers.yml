@@ -248,3 +248,81 @@
   thumbnailUrl: Hannah_Foxwell.jpeg
   social:
     - {name: "twitter", link: ""}
+-
+  id: 28
+  name: "Sam"
+  surname: "Hogarth"
+  company: "Tesco Bank"
+  title: ""
+  bio: |
+    Sam is fascinated with making teams work together better, and keeping up with the ever-changing world of software engineering. He has a decade's worth of experience in highly-regulated environments, across finance, biotech and energy. Whether it's mobile, desktop, web, server or cloud, he has the battle scars. In his spare time, he can run a fine game of Dungeons and Dragons!
+  thumbnailUrl: Sam_Hogarth.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 29
+  name: "Adam"
+  surname: "Martin"
+  company: ""
+  title: "CTO Consultant"
+  bio: |
+    Adam has been a CTO for more than 15 years, specialising in fast growth tech startups (robotics, games, travel, edtech). He is currently writing a book on how to hire the first 100 people to a new tech org, based on his experiences in leading and building tech teams.
+  thumbnailUrl: Adam_Martin.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 30
+  name: "Steve"
+  surname: "Heasman"
+  company: "Cubic"
+  title: ""
+  bio: |
+    Steve is a Lead Software Engineer at Cubic Transportation Systems; Steve has a wealth of experience in enterprise applications in varying fields across a 15-year career. Steve has a BSc Computer Science Degree from Teesside University and has a passion for enterprise architecture and software solutions.
+  thumbnailUrl: Steve_Heasman.png
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 31
+  name: "Bruno"
+  surname: "Perez"
+  company: "BCG Platinion"
+  title: ""
+  bio: |
+    Bruno is a proven Design leader with over 20 years of experience. As a strong advocate of inclusive design, he adds this dimension to all of the work he does. He has worked within a broad range of industries which includes automotive, financial services and retail. Prior to BCG, Bruno spent time at Accenture, and in 2013 became one of the first Fjordians in São Paulo, helping Fjord to grow an entirely new team from the ground-up. Bruno also spent 1 year building the Service & Experience Design capability within KPMG’s flagship Customer Practice in London.
+  thumbnailUrl: Bruno_Perez.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 32
+  name: "Lisa"
+  surname: "Moran"
+  company: "NHS BSA"
+  title: ""
+  bio: |
+    Often when we have a problem to solve we immediately want to solve it using resources we know might solve the problem. But will this meet the user need? The importance of research and design iteration is often overlooked. We would like to share examples of why iterative research and design is so important.
+  thumbnailUrl: Lisa_Moran.png
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 33
+  name: "Ron"
+  surname: "Lichty"
+  company: "Ron Lichty Consulting, Inc."
+  title: ""
+  bio: |
+    Ron Lichty has been managing and recently consulting in software development for over 30 years at companies like Apple, Fujitsu, Schwab, Razorfish, Stanford, and dozens of startups of all sizes, from first level manager to VP Engineering, VP Product and CTO roles. As Ron Lichty Consulting, he takes on fractional Interim VP Engineering roles, trains teams and executives in scrum, and coaches leaders in managing software people and teams to make their software development “hum.” <a href="http://www.ronlichty.com" target="_blank">http://www.ronlichty.com</a><br/>
+    Addison Wesley recently released the 2nd edition of his fifth book, 'Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams', compared by many readers to programming classics 'The Mythical Man-Month' and 'Peopleware'. He also co-authors the periodic 'Study of Product Team Performance'.
+  thumbnailUrl: Ron_Lichty.jpg
+  social:
+    - {name: "twitter", link: ""}
+-
+  id: 34
+  name: "Karsten"
+  surname: "Silz"
+  company: ""
+  title: "Senior Java Developer"
+  bio: |
+    Karsten Silz has been a Java developer for 21 years. He has worked in Europe and the U.S. Last year, he moved from Stuttgart, Germany, to Milton Keynes, UK.
+  thumbnailUrl: Karsten_Silz.jpg
+  social:
+    - {name: "twitter", link: ""}
