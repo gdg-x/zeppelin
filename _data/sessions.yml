@@ -147,7 +147,7 @@
   description: |
     An action-research piece sharing the practice and lessons learnt by the Design team at Grid as they collaborate with the construction industry, local authorities and government to develop a new project. Detailing the design-led approach taken through Grid’s first few phases of our product development process.<br/>
     Introduction to Nate; Who I am? Why am I speaking? Purpose of the talk<br/>
-    Introduction to Grid:  The Company, what we do<br/>
+    Introduction to Grid: The Company, what we do<br/>
     Introduction to “Freight Traffic Control” project: The problem/opportunity, project partners and collaborators.<br/>
     Grid Process Overview: Our process<br/>
     Explore: Objectives, Interventions, Participants, Output, Reflections<br/>
@@ -166,7 +166,7 @@
   title: "Prerequisites for Evolutionary Architecture"
   description: |
     Building an Architecture that can adapt to change is challenging. This talk will explore what are the critical factors in an evolutionary architecture & what should be in place to support them.<br/>
-    It's about how we built an application to help disabled passengers get through airports easier.  The crux of the talk is about Serverless but I also touch on various aspects of AWS.
+    It's about how we built an application to help disabled passengers get through airports easier. The crux of the talk is about Serverless but I also touch on various aspects of AWS.
   type: A
   subtype: presentation
   speakers: [11]
@@ -212,7 +212,7 @@
   id: 010
   title: "Shiny new product? Keep it well polished with UX"
   description: |
-    The last two decades have seen the customer take control of the buying process. The growth of digital platforms means they have more choice of how, when and from whom they buy than ever before.  And, it's not just the product that will keep them coming back. From finding your company on Twitter to evangelising your brand, the whole experience and every interaction should shine.<br/>
+    The last two decades have seen the customer take control of the buying process. The growth of digital platforms means they have more choice of how, when and from whom they buy than ever before. And, it's not just the product that will keep them coming back. From finding your company on Twitter to evangelising your brand, the whole experience and every interaction should shine.<br/>
     What are the ingredients required to turn your customers into advocates and how, even on the smallest budget, can you keep your new product shiny well after launch?
   type: UXUR
   subtype: presentation
@@ -225,7 +225,6 @@
     Is it selfish to look after ourselves? We all use up our energy (physical, mental & emotional) in different ways at work. How much thought do you give to how you recharge that energy?<br/>
     We'll explore the concept of self care, some of the things that might fall into it and what companies can to do help their staff.<br/>
     We'll also have an interactive exercise to encourage you to think about what you do for self care and reflect on what you could do differently.<br/>
-    There will be stickers!
   type: DP
   subtype: presentation
   speakers: [17]
@@ -281,7 +280,14 @@
 -
   id: 017
   title: "In Retrospect - Making Retros Great Again"
-  description:
+  description: |
+    <p>As time goes on, do you feel like retrospectives have become boring, uninspiring and less effective? Does it seem like the team are going through the motions? Are retrospectives an hour of moaning, with nothing ever changing? Does it feel like these 'Agile' ways of working just aren't delivering what was promised?</p>
+    <p>Let's start from the ground up and fix this for good.</p>
+    <p>Retrospectives are crucial to self-improving teams. To really make them shine, we'll delve into the surprising cross-disciplinary history of retrospectives, gaining an appreciation of the power we can harness.</p>
+    <p>We'll talk about psychological safety - how to make sure that retrospectives are inclusive and diverse sessions where everyone is comfortable to contribute.</p>
+    <p>We'll detail the structure of a retrospective and how we can go beyond the traditional three acts of "what went well, what didn't, what can we do better", choosing activities that generate powerful insights, establish common understanding and focus on building meaningful change.</p>
+    <p>Finally, we'll talk about how we can make sure the actions raised during a retrospective actually get done. This goes beyond making 'SMART' objectives, focusing on the psychology of change, highlighting where we can go awry and how to stay on track through guiding principles.</p>
+    <p>You'll learn how to create fun retrospectives and you'll leave with a renewed sense of focus and passion for improving how we work together, to build great things.</p>
   type: DP
   subtype: presentation
   speakers: [28]
@@ -297,7 +303,10 @@
 -
   id: 019
   title: "How one word is making your team lose out on hiring the best engineers"
-  description:
+  description: |
+    <p>As engineers we tend to analyse needs so we can provide solutions, and look for problems so that we can fix them. When it comes to hiring, this backfires: most engineers walk into a hiring process looking for reasons to say "No" to each candidate; instead, we should be looking for reasons to say "Yes".</p>
+    <p>In this session we look at how that small twist in mindset affects our assumptions in each hiring stage, and the practical changes we make - especially in tech interviews - when we select for Yes.</p>
+    <p>We also look at some new problems that this creates, and how we can mitigate or solve them.</p>
   type: DP
   subtype: presentation
   speakers: [29]
@@ -305,7 +314,8 @@
 -
   id: 020
   title: "Eventual Consistency is not just for superheroes"
-  description:
+  description: |
+    A presentation on the microservice architecture in an enterprise, big data application utilising eventual consistency. We will talk about the pitfalls of scaleup and the why cutting corners can destroy a platform. We will look at the change in thought process from traditional coding to coding in a microservice architecture. We will discuss tools for the job, including Docker/Kubernetes and container orchestration.
   type: A
   subtype: presentation
   speakers: [30]
@@ -313,7 +323,8 @@
 -
   id: 021
   title: "Inclusive Design and its impact to business and customers"
-  description:
+  description: |
+    Bruno Perez shared insights into this fast-growing practice and why inclusive design is essential in today’s environment and how it generates business value. He reflected on specific examples from the Healthcare sector and discussed how reframing our concept of the user can create more compelling customer pathways, leading to positive trickle-down effects in society.
   type: UXUR
   subtype: presentation
   speakers: [31]
@@ -349,7 +360,11 @@
 -
   id: 025
   title: "Crash Course: Managing Software People and Teams"
-  description:
+  description: |
+    <p>"We'd like you to manage the team now." That's about as much introduction - and training - as many of us get before our first day managing. Often preceded only by, "You're a great programmer,” and maybe, “it feels like you've got some people skills.”</p>
+    <p>But while programming cred and facility with people are helpful qualifications, what do you really need to know to manage and lead well? What makes a manager great? What are the qualities that meld teams and deliver great software? What will make both your programmers and your execs rave? Those are among the questions that led Ron Lichty and his co-author Mickey W. Mantle to write "Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams" (Addison-Wesley).</p>
+    <p>In this interactive session, Ron will examine the great managers each of us has experienced, and the qualities, skills, finesse and gifts of greatness that made them stand out. He'll talk about "the rest of the job": managing up, managing out, and other aspects ofbeing a seasoned manager that reports mostly don't see.</p>
+    <p>You'll take away a few best practices of leading and managing that take most managers years to discover.</p>
   type: DP
   subtype: presentation
   speakers: [33]
@@ -357,7 +372,9 @@
 -
   id: 026
   title: "Learn Tools & Technologies Faster by Coding with Jhipster"
-  description:
+  description: |
+    <p>Do you pick technologies & tools for Java projects? And can you learn by looking at & running code? Then this talk is for you!</p>
+    <p>In this talk, we'll explore why we pick more technologies & tools today. We'll then look at how generating Java projects with JHipster makes that easier. JHipster is an open-source code generator for Java.</p>
   type: DP
   subtype: presentation
   speakers: [34]
