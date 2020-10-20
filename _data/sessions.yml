@@ -3,13 +3,6 @@
   title: "Registration, Refreshments and Exhibition"
   service: true
 -
-  id: 102
-  title: "Conference Welcome & 30 min Keynote: To be Announced!"
-  description: 
-  subtype: keynote
-  speakers:
-  language: en
--
   id: 103
   title: "Changeover"
   service: true
@@ -26,6 +19,16 @@
   title: "To Be Announced!"
   service: true
 -
+  id: 201	
+  title: "Conference Welcome & Sam Newman"
+  description: |
+    <h6>Where we’re going, we don’t need servers! Microservices and Serverless - a match made in heaven</h6>
+    Microservices and Serverless continue to be two of the most hyped terms in our industry. As I’ve explored previously, some of that hype may be justified, but you need to take some time to cut to the heart of what makes them important if you want to get the most out of them. I remain convinced that Serverless technology offers the potential to make teams significantly more productive, but I still find people confused as to what serverless actually is, and whether or not things like Cloud Functions mean we no longer need to worry about microservices, and if we can pretend that servers no longer exist.<br/>
+    In this talk, I’ll try to show just why serverless technology is so powerful, and I’ll also show how it fits in with microservices. As I will show, Microservices and Serverless goes together very well indeed - and that perhaps, just perhaps, you can stop worrying about servers.
+  subtype: keynote
+  speakers: [1]
+  language: en
+-
   id: 202
   title: "Lightning Talks"
   description: |
@@ -40,7 +43,7 @@
   language: en
 -
   id: 203
-  title: "Panel Session - To Be Announced!"
+  title: "Panel: Devs Against Covid-19"
   description:
   subtype: keynote
   speakers:
