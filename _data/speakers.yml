@@ -1,4 +1,15 @@
 -
+  id: 1
+  name: "Sam"
+  surname: "Newman"
+  company: "Sam Newman & Associates"
+  title: "Independent Consultant"
+  bio: "Sam Newman is an independent consultant specialising in helping people ship software fast. Sam has worked extensively with the cloud, continuous delivery, and microservices and is especially preoccupied with understanding how to more easily deploy working software into production. For the last few years, he has been focusing in the area of microservice architectures. He has worked with a variety of companies in multiple domains around the world, often with one foot in the developer world and another in the IT operations space. Previously, he spent over a decade at ThoughtWorks and then left to join a startup, before setting up his own company. Sam speaks frequently at conferences and is the author of Building Microservices and Monolith to Microservices (O’Reilly)."
+  thumbnailUrl: Sam_Newman.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/samnewman"}
+-
   id: 3
   name: "Liz"
   surname: "Keogh"
