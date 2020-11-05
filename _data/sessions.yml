@@ -212,7 +212,7 @@
   language: en
 -
   id: 010
-  title: "Shiny new product? Keep it well polished with UX"
+  title: "Addressing shiny new syndrome with Ominchannel"
   description: |
     The last two decades have seen the customer take control of the buying process. The growth of digital platforms means they have more choice of how, when and from whom they buy than ever before. And, it's not just the product that will keep them coming back. From finding your company on Twitter to evangelising your brand, the whole experience and every interaction should shine.<br/>
     What are the ingredients required to turn your customers into advocates and how, even on the smallest budget, can you keep your new product shiny well after launch?
@@ -270,14 +270,6 @@
   type: DTDO
   subtype: presentation
   speakers: [27]
-  language: en
--
-  id: 016
-  title: "Session from Bede Gaming"
-  description:
-  type: DTDO
-  subtype: presentation
-  speakers:
   language: en
 -
   id: 017
@@ -356,7 +348,7 @@
   title: "How to build an application for under £100"
   description: |
     <p>It's about how we built an application to help disabled passengers get through airports easier. The crux of the talk is about Serverless but I also touch on various aspects of AWS.</p>
-  type: A
+  type: DTDO
   subtype: presentation
   speakers: [12]
   language: en
