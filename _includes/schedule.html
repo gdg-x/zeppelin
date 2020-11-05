@@ -34,7 +34,7 @@
                         </div>
                     </div>
                 </div> -->
-    <!--             <div class="timeslot track-header">
+                <!-- <div class="timeslot track-header">
                     <div class="track-header-label">PAX</div>
                     <div class="timeslot-elements flexbox-wrapper">
                         {% for pax in day.pax %}
@@ -128,13 +128,24 @@
                 </div>
                 {% endfor %}
             </div>
-            <table align="center">        
+            <table class="track-key" align="center" border="black">
+                <tr>
+                    <th>Track</th>
+                    <th>Sponsor</th>
+                </tr>
                 {% for track in day.tracks %}
-                <tr bgcolor=" {{ track.background }} ">
-                    <th style="padding:10px">
+                <tr bgcolor="{{ track.background }}">
+                    <th>
                         {{ track.title }}
                     </th>
-                </tr>                
+                    <td>
+                        {% if track.sponsor != null %}
+                            <a href="{{ track.sponsor.url }}" target="_blank">
+                                <img src="{{ site.baseurl }}/img/partners/{{ track.sponsor.image }}" title="{{ track.sponsor.description }}" alt="{{ track.sponsor.name }}" width="50">
+                            </a>
+                        {% endif %}
+                    </td>
+                </tr>
                 {% endfor %}
             </table>
             {% else %}
