@@ -3,8 +3,9 @@
   groups:
   -
     elements:
-    - {name: "Gluck", description: "", link: "https://www.gluckgames.com", imageUrl: "Gluck.png"}
-    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "Grid.png"}    
+    - {name: "Bede", description: "The First Choice Gaming Platform", link: "https://bedegaming.com/", imageUrl: "Bede.png"}
+    - {name: "Dynamo", description: "Growing the North East Tech economy", link: "https://www.dynamonortheast.co.uk/", imageUrl: "Dynamo.png"}
+    - {name: "Grid", description: "Grid, Eventually everything connects", link: "https://www.gridsmartercities.com", imageUrl: "Grid.png"}
   -
     elements:
     - {name: "NCFE", description: "", link: "https://www.ncfe.org.uk/", imageUrl: "NCFE.svg"}

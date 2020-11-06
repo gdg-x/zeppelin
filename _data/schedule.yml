@@ -8,7 +8,7 @@
     - {title: "<b>Session Breakout</b>"}
   tracks:
     - {title: "Development Process", color: "#003366", background: "#ADD8E6"}
-    - {title: "Development Technologies <br> Dev Ops", color: "#006400", background: "#c1fcc1"}
+    - {title: "Development Technologies <br> Dev Ops", color: "#006400", background: "#c1fcc1", sponsor: {name: "Bede", description: "The First Choice Gaming Platform", image: "Bede.png", url: "https://bedegaming.com/"}}
     - {title: "Architecture", color: "#D0AF12", background: "#FFF1BA"}
     - {title: "UX & UR", color: "#D56446", background: "#FFD8B4"}
   lightningcolor: "#2f4f4f"
@@ -22,7 +22,7 @@
     - {
         startTime: "09:50",
         endTime: "",
-        sessionIds: [001, 016, 007, 017]
+        sessionIds: [001, 999, 007, 017]
     }
     - {
     	startTime: "10:30",
