@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Build IT Right online conference showcases the Dev community in the North East"
+date:   2020-11-20 08:00:00
+isStaticPost: false
+---
+The Build IT Right conference was scheduled for March 2020, but went ahead in a virtual format on 12 November due to the COVID-19 pandemic. 
+
+Dubbed Build IT Right 2.0 the online offering welcomed over 200 software professionals across the day with many more taking advantage of the on-demand option, having access to over 15 hours of content on replay.
+
+Keynotes came from Sam Newman, Dr Anne-Marie Imafidon and Liz Keogh, complimented by 23 breakout sessions from our regional and international speakers (and a guest appearance from Ade-Lee’s dog). A ‘Devs against Covid-19’ panel highlighted the huge contribution that the North East has made creating software to aid organisations, and the general public during the crisis. The hugely popular lighting talks returned for a second year with Ryan Greenhall from Gousto’s voted the most popular. 
+
+Fiona Hobbs, CTO from Opencast Software who is part of the organising committee, said: “Build IT Right is for ‘do-ers’ in the North East who are passionate about software development. It’s aimed at those at the coal-face of technology – the programmers and coders, the developers, testers and solution architects. After a hugely popular 2019 event, we were confident the region’s tech sector is worth showcasing at a conference”
+
+“The conference supports and empowers the developer community within the region and provides delegates with a library of resources to expand their knowledge and be inspired by emerging trends, along with networking with software professionals they may not have seen since pre-pandemic!”
+
+The conference had four tracks: Architecture, Dev Process; Dev Ops and UX and UR. Highlights included talks from Matthew Clark, Head of Architecture, BBC Digital; a session from the team at NHS BSA, and Hannah Foxwell from VMWare.
