@@ -1,0 +1,45 @@
+<!-- Begin Testimonials -->
+
+<section id="testimonials" class="testimonials">
+    <div class="content-wrapper text-left">
+        <div class="col-md-8 col-md-offset-2">
+            <div>
+                <p>We had our first MenderCon in 2020 and the experience was something we will never forget! 
+                    It quickly solidified in our hearts that we had to make this a recurring event. Don't believe
+                    us? Here is what last year's attendees had to say!</p>
+            </div>
+            <div>
+                <h5>The Stats</h5>
+                <p>95.9% of attendees were happy they came.</p>
+                <p>100% of attendees said they were likely to come back. (!!!)</p>
+                <p>91.6% of attendees would recommend this event to their peers.</p>
+                <p></p>
+            </div>
+            <div>
+                <h5>What People Are Saying</h5>
+                <p>The social rooms were quite interesting. I got to talk to a couple of folks I didn't know.</p>
+                <p>Great discussions</p>
+                <p>Great small group conversations resulting in ideas that I was able to implement with my team.</p>
+                <p>I found interesting discussions. Price was unbeatable and it made me participate because I payed 
+                   myself and did not need to go thru the bureaucracy getting funding from my company. I really liked 
+                   the virtual format which made it possible for me to attend.</p>
+                <p>It was my first open space conference and as most people (I assume) I was skeptical about the format 
+                   but was surprised how well it worked.</p>
+                <p>Streaming was good. Subject interesting and people awesome! Loved the followup mail we received 
+                   with all the links!</p>
+                <p>Smooth technology</p>
+                <p>I learned a lot and was able to personally connect with some of my heroes in the industry</p>
+                <p>I really enjoyed the open-space format. I got to meet a lot of really smart and awesome developers 
+                   and gain some insights into the legacy code I'm actively working with.</p>
+                <p>I think Hopin, the tool you used had a lot of benefits. I loved being able to wonder around and meet 
+                   people in different rooms. I also liked the 5 minute meetups with random people. There were some good 
+                   sessions and I loved the topic.</p>
+                <p>Loved networking and keynote</p>
+                <p>Thank you for your work. Your podcast and open meetings have given me a community I did not know I was 
+                   missing because I mainly see myself as an innovator, but with a big love and respect for decades old 
+                   software still being really valuable.</p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Testimonials -->
