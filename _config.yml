@@ -53,9 +53,6 @@ navigationLinks:
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/testimonials/", text: "Testimonials"}
  - {permalink: "/faq/", text: "FAQ"}
- - {permalink: "/contact/", text: "Contact Us"}
-
-
 
 # Hero Block
 heroImage: "hero.jpg"
