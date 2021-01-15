@@ -51,9 +51,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/coc/", text: "Code of Conduct"}
+ - {permalink: "/testimonials/", text: "Testimonials"}
  - {permalink: "/faq/", text: "FAQ"}
-
-
 
 # Hero Block
 heroImage: "hero.jpg"
