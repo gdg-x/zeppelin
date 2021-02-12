@@ -1,13 +1,14 @@
-- 
+-
   date: "2020-05-14"
   dateReadable: "May 14"
   tracks:
-    - {title: "", color: "#000000"}
+    - {title: "Session 1", color: "#90be4e"}
+    - {title: "Session 2", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:25",
-    	sessionIds: [001]
+    	sessionIds: [001, 010]
     }
     - {
     	startTime: "10:30",

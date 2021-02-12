@@ -47,3 +47,8 @@
   title: "Post-Event Networking"
   description: ""
   subtype: workshop
+-
+  id: 010
+  title: "My very cool thing"
+  description: "Some description"
+  speakers: []
