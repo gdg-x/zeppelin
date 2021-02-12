@@ -52,3 +52,18 @@
   title: "My very cool thing"
   description: "Some description"
   speakers: []
+-
+  id: 011
+  title: "Speaker One"
+  description: ""
+  speakers: []
+-
+  id: 012
+  title: "Speaker Two"
+  description: ""
+  speakers: []
+-
+  id: 013
+  title: "Speaker Three"
+  description: ""
+  speakers: []

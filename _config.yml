@@ -42,7 +42,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://forms.gle/ve2YcKycdFUxUGZh6"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -50,17 +50,18 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/testimonials/", text: "Testimonials"}
  - {permalink: "/faq/", text: "FAQ"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "MenderCon 2020"
-eventDate: "May 14, 2020"
+heroTitle: "MenderCon 2021"
+eventDate: "May 13, 2021"
 heroButtons:
  - {permalink: "#about", text: "Learn more"}
- - {link: "https://hopin.to/events/mendercon-2020", text: "Buy tickets"}
+ - {link: "https://hopin.to/events/mendercon-2021", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About MenderCon"

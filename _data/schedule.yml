@@ -1,14 +1,14 @@
 -
-  date: "2020-05-14"
-  dateReadable: "May 14"
+  date: "2021-05-13"
+  dateReadable: "May 13"
   tracks:
-    - {title: "Session 1", color: "#90be4e"}
-    - {title: "Session 2", color: "#03a9f4"}
+    - {title: "Track One", color: "#90be4e"}
+    - {title: "Track Two", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:25",
-    	sessionIds: [001, 010]
+    	sessionIds: [001]
     }
     - {
     	startTime: "10:30",
@@ -28,17 +28,17 @@
     - {
     	startTime: "13:00",
     	endTime: "13:50",
-    	sessionIds: [005]
+    	sessionIds: [005,011]
     }
     - {
     	startTime: "14:00",
     	endTime: "14:50",
-    	sessionIds: [006]
+    	sessionIds: [006,0012]
     }
     - {
     	startTime: "15:00",
     	endTime: "15:50",
-    	sessionIds: [007]
+    	sessionIds: [007,013]
     }
     - {
         startTime: "16:00",

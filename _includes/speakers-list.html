@@ -30,15 +30,15 @@
                         <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
-                                {% if site.showSessions %} 
-                                    {% for session in site.data.sessions %} 
-                                        {% for session_speaker in session.speakers %} 
+                                {% if site.showSessions %}
+                                    {% for session in site.data.sessions %}
+                                        {% for session_speaker in session.speakers %}
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
-                                            {% endif %} 
-                                        {% endfor %} 
-                                    {% endfor %} 
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endfor %}
                                 {% else %}
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
@@ -49,8 +49,27 @@
                     </div>
                 </div>
                 {% endfor %}
-            </div> 
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
+            </div>
+<p>            MenderCon is back in 2021 for our second annual conference! This year we will be offering two tracks: An open session track for anyone to present (similar to the full conference format last year), and (new this year) a standard event track with pre-selected speakers. This is a call for papers for the 2nd track.
+<p>
+<p>You'll fit right in if you:
+<p>
+<ul><li>Love software remodeling</li>
+<li>Enjoy fixing bugs</li>
+<li>Get excited to work with legacy code</li>
+<li>Want to connect with others who feel the same way</li></ul>
+<p>
+<p>Any topic is fair game, so don't be shy! Your talk subject could include (but definitely is not limited to) legacy code, cloud/Kubernetes, dependency freshness, bug hunting, etc. Whether it's totally trending or you're one of the only people to have heard of it, we want to hear you talk about it! Entries are due by April 1st, with speaker notifications being sent out by April 9th.
+<p>
+<p>And if your talk isn't selected for the standard track, please host a session in the open track. This is a great way to get some practice and feedback from others.
+<p>
+<p>MenderCon is sponsored by Legacy Code Rocks! and Corgibytes. <a href="https://www.legacycode.rocks">Legacy Code Rocks!</a> is an online community and podcast dedicated to software menders, people who get excited to work with legacy code and want to know that they aren't weird or bad developers for doing so. The Legacy Code Rocks! community of software menders is a great place to connect with other folks who are working on making software a little bit better, one unit test at a time.
+<p>
+<p><a href="https://corgibytes.com">Corgibytes</a> helps companies make their existing custom software systems more stable, scalable and secure. Corgibytes specializes in upgrades, bug fixes, performance enhancements and other maintenance activities designed to help tech companies generate revenue, lower operating costs, and reduce risk.
+<p>
+<p>If you are interested in a sponsorship opportunity please email us at sales at corgibytes dot com.
+<p>
+              <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>
         </div>
     </div>
 </section>

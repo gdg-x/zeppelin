@@ -4,7 +4,7 @@
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="title animated hiding" data-animation="fadeInDown" data-delay="500">
-            <h1>Mender<span class="title-highlight">Con</span> 2020</h1>
+            <h1>Mender<span class="title-highlight">Con</span> 2021</h1>
             <p class="title-date">{{ site.eventDate }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
