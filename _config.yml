@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 encoding: UTF-8
 
 # Site Settings
-title: "MenderCon 2020"
+title: "MenderCon 2021"
 email: "info@mendercon.com"
 description: "MenderCon is a conference for people who are passionate about modernizing and improving software systems"
 baseurl: ""
@@ -115,7 +115,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "MenderCon2020"
+twitterHashTag: "MenderCon2021"
 
 # Partners Block
 organizersTitle: "Organizers"
