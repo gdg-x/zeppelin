@@ -18,9 +18,9 @@
   company: ""
   title: ""
   bio: 'Your bio here'
-  thumbnailUrl: CB_corgi.png
+  thumbnailUrl: MenderCon_2021_Speaker_Placeholder.png
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mscottford/"}
-    - {name: "twitter", link: "https://twitter.com/mscottford"}
-    - {name: "github", link: "https://github.com/mscottford"}
+    - {name: "linkedin", link: "https://www.linkedin.com"}
+    - {name: "twitter", link: "https://twitter.com"}
+    - {name: "github", link: "https://github.com"}
