@@ -33,6 +33,12 @@
     max-width: 100%;
   }
 
+  @media (max-width: 767px) {
+    h1,
+    .h1 {
+      font-size: 3rem;
+    }
+  }
   @media screen and (min-width: $screen-sm-min) {
     padding: ($jumbotron-padding * 1.6) 0;
 

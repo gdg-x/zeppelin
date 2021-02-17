@@ -21,6 +21,9 @@
           .title-highlight {
             color: $highlight-color;
           }
+          @media (max-width: 767px) {
+            font-size: 4rem;
+          }
         }
         p {
             font-family: $title-date-font-family;

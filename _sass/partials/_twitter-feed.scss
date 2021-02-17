@@ -1,4 +1,9 @@
 .twitter-feed {
+    @media (max-width: 767px) {
+        h3 {
+            font-size: 2rem;
+        }
+    }
     h3 {
         margin-bottom: 10px;
     }
