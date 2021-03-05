@@ -1,13 +1,13 @@
 -
   id: 001
   title: "Pre-Conference Meet & Greet"
-  description: ""
+  description: "Take advantage of pre-event networking while we get things set up."
   subtype: workshop
   speakers: []
 -
   id: 002
   title: "Introduction & Overview"
-  description: ""
+  description: "Learn what to expect, what the rules are, etc."
   subtype: presentation
   speakers: [1]
 -
@@ -19,33 +19,33 @@
 -
   id: 004
   title: "Pitch Session"
-  description: ""
+  description: "Come up on stage to announce your session title with a short description and the time that the session is scheduled to happen!"
   subtype: workshop
 -
   id: 005
   title: "Session Round One"
-  description: ""
+  description: "First time block for sessions pitched during the pitch session."
   subtype: presentation
 -
   id: 006
   title: "Session Round Two"
-  description: ""
+  description: "Second time block for sessions pitched during the pitch session."
   subtype: presentation
 -
   id: 007
   title: "Session Round Three"
-  description: ""
+  description: "Third time block for sessions pitched during the pitch session."
   subtype: presentation
 -
   id: 008
   title: "Closing Circle & Retrospective"
-  description: ""
+  description: "A with the end of any project, let’s come together to talk about what went well, what could’ve been better, and what should change for next time."
   subtype: workshop
   speakers: [1]
 -
   id: 009
   title: "Post-Event Networking"
-  description: ""
+  description: "Close out the event with some final networking."
   subtype: workshop
 -
   id: 010
@@ -55,15 +55,15 @@
 -
   id: 011
   title: "Speaker One"
-  description: ""
+  description: "Speaker TBD"
   speakers: []
 -
   id: 012
   title: "Speaker Two"
-  description: ""
+  description: "Speaker TBD"
   speakers: []
 -
   id: 013
   title: "Speaker Three"
-  description: ""
+  description: "Speaker TBD"
   speakers: []
