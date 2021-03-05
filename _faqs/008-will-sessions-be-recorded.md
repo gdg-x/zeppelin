@@ -1,8 +1,5 @@
 ---
-question: "Will my session be recorded?"
+question: "Will the sessions be recorded?"
 ---
 
-With the [platform](https://hopin.to/events/mendercon-2021) that we’re using, this is something that is decided when 
-the session is created. If the session’s organizer would like it to be recorded, then we leave that decision up to them. 
-We can imagine it may be useful to have conversations that are not being recorded. We do plan on recording and sharing 
-the keynote and the pitch session.
+All sessions will be recorded. This helps ensure the safety of all attendees and allows us to send out recordings of sessions you may have missed after the event.

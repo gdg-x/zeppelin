@@ -1,10 +1,5 @@
 ---
-question: "Is an unconference the same as an Open Space?"
+question: "But, you have a standard event track as well?"
 ---
 
-We didn’t call MenderCon an Open Space, because we're not strictly following the rules for an event that bears that 
-description. There is a vibrant community that’s really passionate about Open Space events, and the people in that 
-community take pride in making sure that Open Space events are done right. During planning for MenderCon, we made a few decisions 
-about the schedule that don't fit the full spirit of an Open Space event, specifically, 
-kicking the event off with a keynote and having dedicated networking time. If we were to follow the Open Space format 
-strictly, then the keynote and networking time would be sessions like any others.
+Yes! We sent out a feedback survey after the first MenderCon event and a lot of folx expressed that they would like to see pre-selected speakers as well at the next event. We want MenderCon to be _the_ event for menders, so we decided to add a second track that includes pre-selected speakers. If a participant doesn’t want to join in on the standard track, they can head over to the unconference track and join in on an a community session.
