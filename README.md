@@ -116,7 +116,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 | [Droidcon Paris 2015](http://droidcon.fr) | [Android Makers Paris 2017](http://androidmakers.fr) | [Heidelberger Symposium 2017](https://heidelberger-symposium.de/) |
 | [DevFest Foumban website](http://devfestfoumban.org) | [NorthSec 2018](https://nsec.io/) | [SwiftFest 2018](http://swiftfest.io) |
 | [LASCAR Workshop](http://lascar.sda.tech/) | [Core C++ 2019](https://corecpp.org/) | [RootedCON](https://www.rootedcon.com)|
-| [Droidcon Vietnam 2018](https://droidconvn.com) | | |
+| [Droidcon Vietnam 2018](https://droidconvn.com) | [CarpentryCon 2020](https://2020.carpentrycon.org) | |
 
 ### Contributors
 * Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
