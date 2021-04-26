@@ -51,7 +51,7 @@ bottomNavigationLinks:
 
 # Hero Block
 heroImage: "halifax.jpg"
-heroTitle: "BSides Halifax <typeout> 2021"
+heroTitle: "BSides Halifax 2021"
 eventDate: "Friday June 18, 2021"
 typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
@@ -80,10 +80,10 @@ aboutBlock:
 #rockstarSpeakersTitle: "Rockstar speakers"
 #rockstarSpeakersButtonText: "See all speakers"
 
-# Partners Block
-#organizersTitle: "Organizers"
-#partnersTitle: "Partners"
-#partnersC4sponsorsButton: "Become a sponsor"
+Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 #ticketsTitle: "Tickets"
@@ -131,17 +131,17 @@ hackathonTitle: "Hackathon"
 enableHackathon: false
 
 # Hackathon About Block
-aboutHackathonTitle: "CMD+CTRL"
-hackathonRows:
-   - {title: "", image: "hackathon-0.png", details: "<p>Stuck at home, but still want to test your skills in identifying web app vulnerabilities?  BSides Halifax and Security Innovation invite players to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet.</p>
-<p>For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs.</p>
-<p>All you need is your laptop and inner evil-doer!</p>
-<br />
-<p>Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs!</p>"}
+# aboutHackathonTitle: "CMD+CTRL"
+# hackathonRows:
+#    - {title: "", image: "hackathon-0.png", details: "<p>Stuck at home, but still want to test your skills in identifying web app vulnerabilities?  BSides Halifax and Security Innovation invite players to virtually compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet.</p>
+# <p>For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs.</p>
+# <p>All you need is your laptop and inner evil-doer!</p>
+# <br />
+# <p>Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs!</p>"}
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Hak5 Bash Bunny"}
- - {title: "1st Place", image: "prize-1.jpg", info: "Hak5 WiFi Pineapple"}
- - {title: "3rd Place", image: "prize-3.jpg", info: "Hak5 Packet Squirrle"}
+# prizesTitle: "Prizes"
+# prizes:
+#  - {title: "2nd Place", image: "prize-2.png", info: "Hak5 Bash Bunny"}
+#  - {title: "1st Place", image: "prize-1.jpg", info: "Hak5 WiFi Pineapple"}
+#  - {title: "3rd Place", image: "prize-3.jpg", info: "Hak5 Packet Squirrle"}
