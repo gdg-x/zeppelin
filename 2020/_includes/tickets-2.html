@@ -1,0 +1,45 @@
+<!-- Begin Tickets 2 Section -->
+<section id="tickets" class="tickets-2">
+	<div class="content-wrapper">
+		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+			<h3>{{ site.ticketsTitle }}</h3>
+			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
+			{% assign animationDelay = 0 %}
+            {% for ticketsOffer in site.ticketsOffers %}
+	            <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+	            	<div class="row">
+						<div class="col-sm-6 col-xs-12">
+							<p class="title">{{ ticketsOffer.name }}</p>
+							{% if ticketsOffer.additionalInfo != null %}
+								<span class="ticket-additional-info">{{ ticketsOffer.additionalInfo }}</span>
+							{% endif %}
+							{% if ticketsOffer.disabled != true %}
+							{% assign ticketValidTo = ticketsOffer.validThrough | split: "T" %}
+								<span class="ticket-additional-info">Before {{ ticketValidTo[0] | date: "%-d %B %Y"}} {{ ticketValidTo[1] }} or {{ ticketsOffer.ticketsNumber }} tickets</span>
+							{% endif %}
+						</div>
+						<div class="col-sm-3 col-xs-12">
+							<p class="price">{{ ticketsOffer.price }} {{ ticketsOffer.priceCurrency }}</p>
+						</div>
+						<div class="col-sm-3 col-xs-12">
+							{% if ticketsOffer.soldOut == true %}
+							<p class="ticket-sold-out">{{ ticketsOffer.soldOutText }}</p>
+							{% elsif ticketsOffer.disabled != true %}
+							<span class="bordered dark-border button">
+								<a href="{{ ticketsOffer.buyButtonLink }}" class="waves-effect waves-button" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
+							</span>
+							{% else %}
+		           			{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
+							<p class="ticket-fallback">Ticket sales will begin on {{ ticketValidFrom[0] | date: "%-d %B %Y"}} {{ ticketValidFrom[1] }}</p>
+							{% endif %}
+						</div>
+					</div>
+				</div>
+			{% assign animationDelay = animationDelay | plus:250 %}
+            {% endfor %}
+            </div>
+            <span class="tickets-info">{{ site.ticketsInfo }}</span>
+		</div>
+	</div>
+</section>
+<!-- End Tickets 2 Section -->

@@ -1,0 +1,243 @@
+@include web-fonts(($fixed-font-family:($light, $regular, $bold)));
+body, html {
+    font-family: $fixed-font-family, $base-font-family;
+    font-size: $base-font-size;
+    font-weight: $regular;
+    width: 100%;
+    height: 100%;
+    background: $base-background-color;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .004);
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+section {
+    position: relative;
+    overflow: hidden;
+    min-height: $min-section-height;
+    padding-top: $section-padding-top;
+    padding-bottom: $section-padding-bottom;
+    text-align: center;
+    @media (max-width: 767px) {
+        padding-top: $small-section-padding-top;
+        padding-bottom: $small-section-padding-bottom;
+    }
+    h3 {
+        margin-bottom: 50px;
+        @media (max-width: 767px) {
+            padding-bottom: 30px;
+        }
+    }
+}
+p {
+    font-size: 15px;
+    font-weight: 300;
+    line-height: $base-line-height;
+}
+i {
+    font-style: normal;
+}
+b, strong {
+    font-weight: $bold;
+}
+a {
+    @include linkColor($link-color);
+    &:hover, &:active, &:focus {
+        text-decoration: none;
+    }
+}
+#{headings()} {
+    font-weight: $light;
+    display: block;
+}
+h1 {
+    font-size: $h1-font-size;
+    @media (max-width: 767px) {
+        font-size: $h1-font-size * 60 / 100;
+    }
+}
+h2 {
+    font-size: $h2-font-size;
+    @media (max-width: 767px) {
+        font-size: $h2-font-size * 60 / 100;
+    }
+}
+h3 {
+    font-size: $h3-font-size;
+    @media (max-width: 767px) {
+        font-size: $h3-font-size * 70 / 100;
+    }
+}
+h4 {
+    font-size: $h4-font-size;
+    @media (max-width: 767px) {
+        font-size: $h4-font-size * 70 / 100;
+    }
+}
+h5 {
+    font-size: $h5-font-size;
+    @media (max-width: 767px) {
+        font-size: $h5-font-size * 80 / 100;
+    }
+}
+h6 {
+    font-size: $h6-font-size;
+    @media (max-width: 767px) {
+        font-size: $h6-font-size * 80 / 100;
+    }
+}
+time {
+    display: block;
+}
+.st-content, .st-container, .st-pusher {
+    height: 100%;
+}
+.st-content, .st-container, .st-content-inner {
+    position: relative;
+}
+.st-pusher {
+    position: relative;
+    z-index: 99;
+    left: 0;
+    transition: $long-transition;
+    &::after {
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 0;
+        height: 0;
+        content: '';
+        transition: opacity .5s, width .1s .5s, height .1s .5s;
+        opacity: 0;
+        background: rgba(0, 0, 0, .2);
+    }
+    .st-menu-open &::after {
+        z-index: 100;
+        width: 100%;
+        height: 100%;
+        transition: opacity .5s;
+        opacity: 1;
+    }
+}
+.preloader {
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+}
+.loader-gplus {
+    display: inline-block;
+    position: absolute;
+    top: calc(50% - 20px);
+    left: calc(50% - 20px);
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 20px;
+    animation: base 3s steps(1) 0s infinite;
+    &::before, &::after {
+        content: ' ';
+        display: block;
+        width: 50%;
+        height: 100%;
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        z-index: 1;
+        border-radius: 0 20px 20px 0;
+        transform-origin: 0 50%;
+    }
+    &::before {
+        z-index: 2;
+        transform-style: preserve-3d;
+        animation: flip 3s linear 0s infinite;
+    }
+    &::after {
+        animation: reveal 3s steps(1) 0s infinite;
+    }
+}
+@keyframes base {
+    0% {
+        transform: rotate(0deg);
+        background-color: #21aa29;
+    }
+    25% {
+        transform: rotate(90deg);
+        background-color: #2159d6;
+    }
+    50% {
+        transform: rotate(180deg);
+        background-color: #d62408;
+    }
+    75% {
+        transform: rotate(270deg);
+        background-color: #ffcf00;
+    }
+    100% {
+        transform: rotate(360deg);
+        background-color: #21aa29;
+    }
+}
+@keyframes reveal {
+    0% {
+        background-color: #2159d6;
+        transform: rotate(0deg);
+    }
+    25% {
+        background-color: #d62408;
+        transform: rotate(180deg);
+    }
+    50% {
+        background-color: #ffcf00;
+        transform: rotate(0deg);
+    }
+    75% {
+        background-color: #21aa29;
+        transform: rotate(180deg);
+    }
+    100% {
+        background-color: #2159d6;
+        transform: rotate(0deg);
+    }
+}
+@keyframes flip {
+    0% {
+        background-color: #21aa29;
+        transform: rotateY(0deg);
+    }
+    12.5%, 87.56% {
+        background-color: #105514;
+    }
+    12.51%, 37.5% {
+        background-color: #102c6b;
+    }
+    25% {
+        background-color: #2159d6;
+    }
+    37.51%, 62.5% {
+        background-color: #6b1204;
+    }
+    50% {
+        background-color: #d62408;
+    }
+    62.51%, 87.5% {
+        background-color: #7f6700;
+    }
+    75%, 78% {
+        background-color: #ffcf00;
+    }
+    100% {
+        background-color: #21aa29;
+        transform: rotateY(-720deg);
+    }
+}
+.social-links {
+    li {
+        margin-right: 4px;
+        display: inline-block;
+    }
+}

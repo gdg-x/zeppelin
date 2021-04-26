@@ -1,0 +1,41 @@
+.twitter-feed {
+    h3 {
+        margin-bottom: 10px;
+    }
+    .icon {
+        width: 64px;
+        height: 64px;
+        fill: #fff;
+    }
+}
+.tweets {
+    max-width: 850px;
+    margin: 0 auto;
+}
+.tweet {
+    height: 130px;
+    transition: $long-transition;
+    @media (max-width: 767px) {
+        height: 180px;
+    }
+    &.hidden-tweet {
+        opacity: 0;
+        transform: translateY(180px);
+    }
+    p {
+        font-weight: $light;
+    }
+}
+.tweet-text {
+    font-size: 26px;
+    line-height: 1.3;
+    @media (max-width: 767px) {
+        font-size: 24px;
+    }
+}
+.tweet-meta {
+    font-size: 20px;
+    @media (max-width: 767px) {
+        font-size: 18px;
+    }
+}

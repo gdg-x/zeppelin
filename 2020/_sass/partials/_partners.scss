@@ -1,0 +1,25 @@
+.partners  {
+    h5 {
+       margin-top: 30px;
+    }
+    .list-inline {
+        margin-bottom: 65px;
+        li {
+            width: 16%;
+            max-width: 180px;
+            margin: 13px 7px;
+            @media (max-width: 767px) {
+                width: 40%;
+                max-width: 160px;
+            }
+        }
+    }
+    img {
+        width: 100%;
+        transition: $base-transition;
+        filter: grayscale(1);
+        &:hover {
+            filter: grayscale(0);
+        }
+    }
+}

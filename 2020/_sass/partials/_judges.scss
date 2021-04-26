@@ -1,0 +1,34 @@
+$judge-image-size: 140px;
+$small-judge-image-size: 120px;
+
+.judge {
+    margin-bottom: 45px;
+	.name {
+		margin: 8px 0 4px;
+		font-size: 25px;
+	    @media (max-width: 767px) {
+	        font-size: 20px;
+	    }
+	}
+	.company {
+		margin-top: 6px;
+		display: block;
+		font-size: 18px;
+		line-height: 1.1;
+	    @media (max-width: 767px) {
+			margin-top: 0;
+	        font-size: 16px;
+	    }
+	}
+}
+.judge-img {
+	width: $judge-image-size;
+	height: $judge-image-size;
+	margin: 0 auto;
+	border: 3px solid #fff;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, .15), 0 3px 4px rgba(0, 0, 0, .2);
+    @media (max-width: 767px) {
+        width: $small-judge-image-size;
+		height: $small-judge-image-size;
+    }
+}

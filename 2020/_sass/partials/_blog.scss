@@ -1,0 +1,64 @@
+.blog {
+    h3 {
+        margin: 0 0 20px;
+    }
+}
+.post-section {
+    padding-top: 20px;
+}
+.post {
+    max-width: 750px;
+    margin-bottom: 52px;
+    @media (max-width: 767px) {
+        margin-bottom: 26px;
+    }
+    li {
+        font-size: 15px;
+        line-height: 26px;
+    }
+}
+.post-header {
+    height: 20px;
+    margin-top: 20px;
+    font-size: 14px;
+    .published {
+        padding: 0;
+        font-weight: $bold;
+    }
+    .publish-date {
+        color: #656565;
+    }
+    .share {
+        padding: 0;
+        text-align: right;
+    }
+    .social-links {
+        li {
+            margin-left: 4px;
+        }
+    }
+}
+.post-body {
+    margin-top: 19px;
+    h4 {
+        margin-top: 40px;
+    }
+    iframe, img {
+        display: block;
+        margin: 16px 0;
+    }
+}
+.page-navigation {
+    margin-bottom: 40px;
+    font-weight: $bold;
+}
+.comments {
+    margin-top: 26px;
+}
+.pagination {
+    font-size: 14px;
+    margin: 0;
+    .page-number {
+        margin: 0 7px;
+    }
+}

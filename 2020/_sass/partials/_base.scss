@@ -1,0 +1,57 @@
+@import "compass";
+
+// Font weights
+$light: 100;
+$regular: 300;
+$bold: 500;
+$extra-bold: 600;
+
+// Base Font
+$base-font-family: sans-serif;
+$base-font-weight: $regular;
+$base-font-size: 13px;
+$base-line-height: 23px;
+
+// Fixed Font
+$fixed-font-family: 'Roboto';
+$fixed-font-size: 85%;
+$fixed-line-height: $base-line-height;
+
+// Headings
+$header-font-weight: $light;
+$h1-font-size: 6.125 * $base-font-size;
+$h2-font-size: 5.875 * $base-font-size;
+$h3-font-size: 5 * $base-font-size;
+$h4-font-size: 3.125 * $base-font-size;
+$h5-font-size: 2.3 * $base-font-size;
+$h6-font-size: 1.875 * $base-font-size;
+
+// Colors
+$main-color: #03a9f4;
+$link-color: $main-color;
+$link-lighten-amount: 20%;
+$base-background-color: #fff;
+$base-section-background-color: $link-color;
+$primary-color: #4285f4;
+$primary-color-hover: #3266d5;
+$icon-fill-color: #8b8b8b;
+
+// Sizes
+$min-section-height: 350px;
+$section-padding-top: 50px;
+$section-padding-bottom: 60px;
+$small-section-padding-top: 20px;
+$small-section-padding-bottom: 40px;
+
+// Global variables
+$base-transition: all .3s;
+$base-cubic-transition: all .3s cubic-bezier(0.175, 0.885, 0.320, 1.275);
+$long-transition: all .5s;
+$long-cubic-transition: all .5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
+
+// Path
+$image-dir: "../img";
+$sprites-dir: $image-dir + "/sprites";
+$logos-sprite: $sprites-dir + "/logos.png";
+
+@import "modules/all";

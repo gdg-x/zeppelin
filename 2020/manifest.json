@@ -1,0 +1,23 @@
+---
+layout: null
+---
+{
+  "short_name": "{{ site.shortTitle }}",
+  "name": "{{ site.title }}",
+  "icons": [
+    {
+      "src": "{{ site.baseurl }}/img/favicons/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "{{ site.baseurl  }}/img/favicons/apple-touch-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "{{ site.baseurl }}/index.html"
+}

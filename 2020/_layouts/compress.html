@@ -1,0 +1,11 @@
+---
+#
+# Jekyll layout that compresses HTML
+# v0.3.1
+# https://github.com/penibelst/jekyll-compress-html
+# © 2014 Anatol Broder (http://penibelst.de/)
+# MIT License
+#
+---
+
+{% assign _pres = content | split: '<pre' %}{% for _pre1 in _pres %}{% assign _pre2 = _pre1 | split: '</pre>' %}{% if _pre2.size == 2 %}<pre{{ _pre2.first }}</pre>{% endif %}{% assign _second = _pre2.last | split: ' ' | join: ' ' %}{% for _element in site.compress_html.clippings %}{% assign _edges = ' <element,<element; </element>,</element>;</element> ,</element>' | replace: 'element', _element | split: ';' %}{% for _edge in _edges %}{% assign _replacement = _edge | split: ',' %}{% assign _second = _second | replace: _replacement[0], _replacement[1] %}{% endfor %}{% endfor %}{% for _element in site.compress_html.endings %}{% assign _closing = '</element>' | replace: 'element', _element %}{% assign _second = _second | remove: _closing %}{% endfor %}{{ _second }}{% endfor %}

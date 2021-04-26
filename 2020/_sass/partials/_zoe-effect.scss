@@ -1,0 +1,130 @@
+$figcaption-color: #3c4a50;
+.zoe-effect {
+    margin-bottom: 26px;
+    height: 250px;
+    cursor: pointer;
+    transition: $base-transition;
+    box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .15);
+    &:hover {
+        box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .35);
+        figure {
+            background-position: center left;
+            -webkit-background-size: 105%;
+            background-size: 105%;
+            .overlay {
+                background: rgba(0, 0, 0, .3);
+                @media (max-width: 767px) {
+                   background: rgba(0, 0, 0, 0);
+                }
+            }
+        }
+        h2, figcaption, figcaption > a {
+            transform: translateY(0);
+            color: #3c4a50;
+        }
+        figcaption > a {
+            &:nth-child(5) {
+                transition-delay: .1s;
+            }
+            &:nth-child(4) {
+                transition-delay: .15s;
+            }
+            &:nth-child(3) {
+                transition-delay: .2s;
+            }
+            &:nth-child(2) {
+                transition-delay: .25s;
+            }    
+        }
+        .bio {
+            transform: translateY(-70%);
+            opacity: 1;
+            @media (max-width: 767px) {
+                transform: translateY(0);
+                opacity: 0;
+            }
+        }
+    }
+    figure {
+        overflow: hidden;
+        width: 100.3%;
+        height: 100%;
+        transition: $base-transition;
+        background-position: -30px;
+        -webkit-background-size: 115%;
+        background-size: 115%;
+        @media (max-width: 767px) {
+            background-position: center left;
+            -webkit-background-size: 105%;   
+            background-size: 105%;   
+        }
+        .overlay {
+            transition: $base-transition;
+            background: rgba(0, 0, 0, 0);
+        }
+    }
+    figcaption {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 50px;
+        padding: 13px;
+        z-index: 2;
+        transition: $base-transition;
+        transform: translateY(100%);
+        color: $figcaption-color;
+        background: #fff;
+        @media (max-width: 767px) {
+            transform: translateY(0);         
+        }
+        h2 {
+            font-size: 16px;
+            font-weight: $regular;
+            margin: 0;
+            word-spacing: -2px;
+            text-transform: uppercase;
+            transition: $base-transition;
+            transform: translateY(-250%);
+            transition-delay: .05s;
+            color: #fff;
+            @media (max-width: 767px) {
+                transform: translateY(0); 
+                color: #3c4a50;
+            }
+            span {
+                font-weight: $bold;
+            }
+        }
+        > div {
+            padding: 0;
+            transform: translateY(-5px);
+        }
+        > a {
+            float: right;
+            margin-left: 4px;
+            transition: $base-transition;
+            transform: translateY(200%);
+            @media (max-width: 767px) {
+                transform: translateY(0);     
+            }
+        }
+        .position {
+            font-size: 12px;
+            @include trimText(12px, 1, 1);
+        }
+    }
+    .bio {
+        font-size: 14px;
+        line-height: 1.3;
+        position: relative;
+        top: 50%;
+        left: 0;
+        padding: 1.4em;
+        transition: $base-transition;
+        transform: translateY(0);
+        opacity: 0;
+        color: #fff;
+        background: none;
+        @include trimText(14px, 1.3, 5);
+    }
+}

@@ -1,0 +1,82 @@
+$border-color: rgba(51, 51, 51, .6);
+
+.tickets-2 {
+    .ticket-text {
+        margin: 0;
+        font-size: 32px;
+        font-weight: $light;
+        line-height: 39px;
+    }
+    .price {
+        @extend .ticket-text;
+        @media (max-width: 767px) {
+            font-size: 28px;
+            margin-top: 15px;
+        }
+    }
+    .title {
+        @extend .ticket-text;
+        padding-left: 10px;
+        text-align: left;
+        @media (max-width: 767px) {
+            padding: 0;
+            text-align: center;
+        }
+    }
+    .ticket-additional-text {
+        margin-top: 3px;
+        display: block;
+        font-size: 12px;
+        line-height: 13px;
+        @media (max-width: 767px) {
+            font-size: 13px;
+            line-height: 14px;
+        }
+    }
+    .ticket-additional-info {
+        @extend .ticket-additional-text;
+        padding-left: 10px;
+        text-align: left;
+        @media (max-width: 767px) {
+            padding: 0;
+            text-align: center;
+        }
+    }
+    .ticket-fallback {
+        padding-top: 2px;
+        line-height: 1.2;;
+    }
+    .ticket-sold-out {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .tickets-info {
+        font-size: 16px;
+    }
+    .button {
+        @media (max-width: 767px) {
+            margin-top: 20px;
+            width: 100%;
+        }
+        a {
+            @media (max-width: 767px) {
+                width: 100%;
+                font-size: 20px;
+            }
+        }
+    }
+}
+.tickets-table {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    border: 1px solid $border-color;
+    max-width: 850px;
+}
+.tickets-row {
+    padding: 20px 0;
+    border-bottom: 1px dashed $border-color;
+    &:last-child {
+        border: none;
+    }
+}

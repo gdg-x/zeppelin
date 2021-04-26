@@ -1,0 +1,46 @@
+$direction-details-color: #757575;
+.direction-details {
+    display: inline-block;
+    padding: 0;
+    color: $direction-details-color;
+    .image-section {
+        @media (max-width: 767px) {
+            min-height: 350px;
+        }
+    }
+    .card {
+        transform: translateY(-125px);
+        ul {
+            font-size: 17px;
+            font-weight: $regular;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+    }
+    .questions {
+        transform: translateY(-100px);
+        @media (min-width: 768px) and (max-width: 991px) {
+            transform: translateY(-125px);
+        }
+    }
+    h4, h5 {
+        font-size: 31px;
+        font-weight: $regular;
+        color: initial;
+    }
+    h5 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 17px;
+    }
+}
+.list-with-description {
+    li {
+        margin-bottom: 20px;
+    }
+    a {
+        display: block;
+    }
+}

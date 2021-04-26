@@ -1,0 +1,18 @@
+<!-- Begin Latest News Section -->
+<section id="latest-news" class="latest-news">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h3>{{ site.latestNewsTitle }}</h3>
+			<article class="row">
+				{% for post in site.posts limit:2 %}
+                    {% assign postUrl = site.baseurl | append: post.url %} 
+					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+						<h6>{{ post.title }}</h6>
+						<p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
+					</div>
+                {% endfor %}
+			</article>
+		</div>
+	</div>
+</section>
+<!-- End Latest News Section -->

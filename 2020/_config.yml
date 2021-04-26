@@ -1,0 +1,98 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "BSides Halifax Quarantine Edition"
+email: "info@bsideshalifax.ca"
+description: "BSides is a community-driven framework for building events for and by information security community members."
+baseurl: ""
+url: "https://bsideshalifax.ca"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-165605284-1"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "U2vM0e028DKxBzX3zvCNmR2ZQk31oXU5asShWbU3Oqg"
+
+# Organizer Info
+organizerName: "BSides Halifax"
+organizerAlternateName: "Halifax BSides"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Cyber Security with passion."
+organizerEmail: "info@bsideshalifax.ca"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://bsideshalifax.ca"
+
+# Head
+metaKeywords: "event, BSides, Halifax, Cyber, Security, infosec"
+twitterAccount: "@HalifaxBSides"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/2020/", text: "Last Year"}
+bottomNavigationLinks:
+- {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
+
+# Hero Block
+heroImage: "halifax.jpg"
+heroTitle: "BSides Halifax <typeout> 2020"
+eventDate: "Friday May 22, 2020"
+typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
+typeoutFallback: "Virtual"
+heroButtons:
+ - {permalink: "/#tickets", text: "Buy tickets"}
+
+# About Block
+aboutTitle: "About BSides Halifax"
+aboutBlock:
+ - {
+    title: "Conference",
+    image: "conference.jpg",
+    text: "<p>In Halifax, we usually host a conference called AtlSecCon (Atlantic Security Conference) this time of year. And 2020 was going to be the best year ever! It was the tenth anniversary, and everyone was really looking forward to a party... in a big crowded room... with plenty of people constantly breathing in and out...</p>
+<p>Anyway, things have changed, and AtlSecCon's tenth anniversary will now be held in 2020++ (aka 2021). But that doesn't mean security takes a break!</p>
+<p>In fact, since we're all online more than ever, it's the perfect time to examine your personal and professional security posture, to see if there's anything that could be improved, or any holes that need patching.</p>
+<p>We'll be hosting BSides Halifax on May 22nd, and you can attend from the safety of your home/secured bunker/government-mandated temporary quarantine facility by logging on to bsideshalifax.ca at 10AM Atlantic (9AM Eastern).</p>
+<p>We're really appreciative of everyone who's come forward to help us out with this. Tickets are $13.37 CAD, and all money raised will go to Feed Nova Scotia, who make sure no Nova Scotian goes hungry. We look forward to seeing you all soon!</p>"
+}
+
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/intent/user?screen_name=HalifaxBSides", icon: "twitter"}
+ - {link: "https://discord.gg/aGzzj4B", icon: "site"}
+ - {link: "https://github.com/bsideshalifax", icon: "github"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.securitybsides.com/w/page/12194156/FrontPage", text: "Security BSides", icon: "site"}
+   - {link: "https://atlseccon.com", text: "Atlantic Security Conference", icon: "site"}
+   - {link: "https://dc902.ca", text: "DEFCON Halifax", icon: "site"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca", icon: "email"}
+ -
+  title: "Code of Conduct"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Speakers List Block
+showSessions: false
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: false

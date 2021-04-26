@@ -1,0 +1,65 @@
+-
+  id: 1
+  name: "Naomi"
+  surname: "Peori"
+  company: "GoSecure, WoSec"
+  title: "CTF for Beginners"
+  bio: "Naomi grew up on the mean streets of Dartmouth and is famous for nothing serious because she was young and indiscreet before social media ruined privacy. She prefers Asimov, Tesla (boo Edison!), Solid Snake, Luigi and MIPS. Her interests include habanero farming, calibrating displays to perfection, hacking game consoles and if you ever really need a video game she probably has two copies. Although her talk is about capturing flags, she can also speak confidently on the quirks of 6502 opcodes, training machines to think and what it was like to do network sniffing in the 90's."
+  thumbnailUrl: naomi.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ooPo"}
+-
+  id: 2
+  name: "Eric"
+  surname: " Conrad"
+  company: "Backshore Communications"
+  title: "CTO"
+  bio: "Eric's career began in 1991 as a UNIX systems administrator for a small oceanographic communications company. He gained information security experience in a variety of industries, including research, education, power, Internet, and health care. He is now CTO of Backshore Communications, a company focusing on hunt teaming, intrusion detection, incident handling, and penetration testing. He is a graduate of the SANS Technology Institute with a master of science degree in information security engineering. In addition to the CISSP, he holds the prestigious GIAC Security Expert (GSE) certification as well as the GIAC GPEN, GCIH, GCIA, GCFA, GAWN, and GSEC certifications. Eric also blogs about information security at www.ericconrad.com. "
+  thumbnailUrl: eric.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/eric_conrad"}
+-
+  id: 3
+  name: "David"
+  surname: " Shipley"
+  company: "Beauceron Security"
+  title: "Co-Founder and CEO"
+  bio: "David Shipley is the co-founder and CEO of Beauceron Security, an Atlantic Canadian scale-up that serves more than 150 clients across North America and in Europe and provides a new approach to cybersecurity awareness and risk management. Shipley is the former security lead for the University of New Brunswick and developed its incident response, threat intelligence and awareness practices prior to founding Beauceron. He holds a CISM from ISACA."
+  thumbnailUrl: dave.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/davidshipley"}
+-
+  id: 4
+  name: "Mike"
+  surname: "Williamson"
+  company: "Treasury Board Secretariat"
+  title: "Developer"
+  bio: "Mike Williamson is a developer passionate about digital government. Leaving a government career in IT security to work in various startups, he rejoined the Government in 2017 as part of the team that launched the Canadian Digital Service, a new organisation with a mission of helping the government build startup style, modern, user focused digital services. This year he's joined the cyber security group at Treasury Board Secretariat to help with efforts modernise and automate security in support of service delivery."
+  thumbnailUrl: mike.jpg
+  rockstar: true
+-
+  id: 5
+  name: "Anna"
+  surname: " Manley"
+  company: "Manley Law Inc."
+  title: "Principal Lawyer"
+  bio: "Anna Manley is an internet and privacy lawyer based in Sydney, NS. She is the principal of Manley Law Inc. and founder of Advocate Cognitive Technologies Inc. Anna advises companies and individuals on all things law and tech related."
+  thumbnailUrl: anna.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/nnamanley"}
+  
+-
+  id: 6
+  name: "Tanya"
+  surname: " Janca"
+  company: "SheHacksPurple"
+  title: "Head Nerd, Security Trainer and Coach "
+  bio: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, security trainer and coach of SheHacksPurple.dev, specializing in software and cloud security. She also consults part time for IANs Research. Her obsession with securing software runs deep, from starting her company, to running her own OWASP chapter for 4 years in Ottawa, founding a new OWASP chapter in Victoria, and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Tanya is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #CyberMentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science."
+  thumbnailUrl: tanya.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/shehackspurple"}

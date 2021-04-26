@@ -1,0 +1,24 @@
+<!-- Begin Statistic Section -->
+<section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.statisticBlockImage }});">
+	<div class="overlay solid-overlay"></div>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			{% assign animationDelay = 0 %}
+            {% for statistic in site.statisticBlock %}
+            {% assign colWidth = 12 | divided_by: forloop.length %}
+            <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
+					<div class="stat-info">{{ statistic.info}}</div>
+					<hr>
+					<p class="small">{{ statistic.detail}}</p>
+                </div>
+            </div>
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% assign check = forloop.index | modulo:2 %}
+            {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+            {% endfor %}
+		</div>
+	</div>
+</section>
+<!-- End Statistic Section -->
