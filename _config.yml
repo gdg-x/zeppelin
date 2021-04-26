@@ -41,21 +41,21 @@ c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/team/", text: "Team"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
 - {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "halifax.jpg"
-heroTitle: "BSides Halifax <typeout> 2020"
-eventDate: "Friday May 22, 2020"
+heroTitle: "BSides Halifax <typeout> 2021"
+eventDate: "Friday June 18, 2021"
 typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
-heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
+#heroButtons:
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About BSides Halifax"
@@ -63,44 +63,40 @@ aboutBlock:
  - {
     title: "Conference",
     image: "conference.jpg",
-    text: "<p>In Halifax, we usually host a conference called AtlSecCon (Atlantic Security Conference) this time of year. And 2020 was going to be the best year ever! It was the tenth anniversary, and everyone was really looking forward to a party... in a big crowded room... with plenty of people constantly breathing in and out...</p>
-<p>Anyway, things have changed, and AtlSecCon's tenth anniversary will now be held in 2020++ (aka 2021). But that doesn't mean security takes a break!</p>
-<p>In fact, since we're all online more than ever, it's the perfect time to examine your personal and professional security posture, to see if there's anything that could be improved, or any holes that need patching.</p>
-<p>We'll be hosting BSides Halifax on May 22nd, and you can attend from the safety of your home/secured bunker/government-mandated temporary quarantine facility by logging on to bsideshalifax.ca at 10AM Atlantic (9AM Eastern).</p>
-<p>We're really appreciative of everyone who's come forward to help us out with this. Tickets are $13.37 CAD, and all money raised will go to Feed Nova Scotia, who make sure no Nova Scotian goes hungry. We look forward to seeing you all soon!</p>"
+    text: "Last year we held BSides Halifax 2020, it was a strange year and the start of many new things we have never experienced before. This year we are planning on doing it all over again (the good stuff anyways), so stay tuned and we will have more info soon."
 }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "4", specialCharacter: "+", info: "hours", detail: "of amazing talks"}
- - {count: "6", specialCharacter: "", info: "speakers", detail: "from across North America"}
- - {count: "24", specialCharacter: "", info: "hours", detail: "of CTF hacking goodness"}
+#statisticBlockImage: "statistic.jpg"
+#statisticBlock:
+# - {count: "4", specialCharacter: "+", info: "hours", detail: "of amazing talks"}
+# - {count: "6", specialCharacter: "", info: "speakers", detail: "from across North America"}
+# - {count: "24", specialCharacter: "", info: "hours", detail: "of CTF hacking goodness"}
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 3
+#rockstarSpeakersTitle: "Rockstar speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#organizersTitle: "Organizers"
+#partnersTitle: "Partners"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
-ticketsTitle: "Tickets"
-ticketsInfo: "All proceeds go to Feed Nova Scotia"
-ticketsOffers:
- -
-  name: "General Admittance"
-  price: "13.37"
-  priceCurrency: "CAD"
+#ticketsTitle: "Tickets"
+#ticketsInfo: "All proceeds go to Feed Nova Scotia"
+#ticketsOffers:
+# -
+#  name: "General Admittance"
+#  price: "13.37"
+#  priceCurrency: "CAD"
 #   ticketsNumber: "150"
 #   ribbon: "-5%"
-  buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-halifax-2020-virtual-tickets-104057223958?aff=ebdssbeac"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "All proceeds go to Feed Nova Scotia"]
+#  buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-halifax-2020-virtual-tickets-104057223958?aff=ebdssbeac"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Access to amazing talks", "Admittance to our CTF", "Our everlasting love and admiration", "All proceeds go to Feed Nova Scotia"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
 
@@ -131,7 +127,7 @@ showSessions: false
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "CMD+CTRL"
