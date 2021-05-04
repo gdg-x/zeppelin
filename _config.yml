@@ -64,7 +64,24 @@ aboutBlock:
  - {
     title: "Conference",
     image: "conference.jpg",
-    text: "Last year we held BSides Halifax 2020, it was a strange year and the start of many new things we have never experienced before. This year we are planning on doing it all over again (the good stuff anyways), so stay tuned and we will have more info soon."
+    text: "
+    Last year we held BSides Halifax 2020, it was a strange year and the start of many new things we have never experienced before. This year we are planning on doing it all over again (the good stuff anyways), so stay tuned and we will have more info soon.
+    <h3>Call For Speakers</h3>
+    <p>BSides Halifax 2021, this is going to be our year! Low case rates, vaccination proceeding apace, we're looking forward to finally getting together in per... wait, what's that?</p>
+    <p>...I don't understand, why is it <a href=\"
+    https://www.cs.cornell.edu/courses/cs3110/2020fa/textbook/data/variants.html\" target=\"blank\">OCaml's</a> fault we're online again this year?</p>
+    <p>...Oh, DIFFERENT kind of variant. Got it.</p>
+    <p>Yes, we are online again this year, and this one's going to be even better, because this time, we sort of know what we're doing!</p>
+    <p>BSides Halifax 2021 is looking for a diverse group of speakers to present all manner of interesting things. Last year, we had speakers from all over Canada and America, on topics like reducing your cyber risk, threat hunting, and purple teaming, so if you don't live locally, or don't think your topic qualifies, submit a pitch anyway! You might get in.</p>
+
+    <p><b>The submission process goes like this:</b></p>
+    <ul>
+      <li><p>Jeff, I don't know how the process goes. Write a list of steps, make it seem easy and fun.</p></li>
+      <li><p>Send an email to <a href=\"mailto:info@halifaxbsides.ca\">info@halifaxbsides.ca</a> and be sure to tell us the title of your talk, a brief description (including length), where you are located, if you have any time constraints, what your favorite color is, and what your quest is.</p></li>
+    </ul>
+<br />
+<h5>So if you are ready to make your (hopefully) last pandemic conference your best, send us a pitch. Why not start right now?</h5>
+    "
 }
 
 # Statistic Block
