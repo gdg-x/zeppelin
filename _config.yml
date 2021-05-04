@@ -66,6 +66,7 @@ aboutBlock:
     image: "conference.jpg",
     text: "
     Last year we held BSides Halifax 2020, it was a strange year and the start of many new things we have never experienced before. This year we are planning on doing it all over again (the good stuff anyways), so stay tuned and we will have more info soon.
+    <section>
     <h3>Call For Speakers</h3>
     <p>BSides Halifax 2021, this is going to be our year! Low case rates, vaccination proceeding swiftly, we're looking forward to finally getting together in per... wait, what's that?</p>
     <p>...I don't understand, why is it <a href=\"
@@ -81,6 +82,7 @@ aboutBlock:
     </ul>
 <br />
 <h5>So if you are ready to make your (hopefully) last pandemic conference your best, send us a pitch. Why not start right now?</h5>
+</section>
     "
 }
 
