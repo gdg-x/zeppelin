@@ -65,7 +65,10 @@ aboutBlock:
     title: "Conference",
     image: "conference.jpg",
     text: "
-    Last year we held BSides Halifax 2020, it was a strange year and the start of many new things we have never experienced before. This year we are planning on doing it all over again (the good stuff anyways), so stay tuned and we will have more info soon.
+    <p>Hello from Halifax, the (EDIT: former) great oasis against coronavirus!</p>
+    <p>We are again hosting our BSides Halifax infosec conference entirely online, and we'd really like you to attend.</p>
+    <p>Hopefully, this will be your last ever pandemic conference, so it provides a great opportunity to share your lessons learned over the past 12 months. Did you learn how to manage your VPN more efficiently at high load, or discover a new MDM solution you think everyone should be using? We want to hear about it.</p>
+    <p>The conference will be held on June 18th at https://BSidesHalifax.ca, and is accessible via laptop, tablet, phone, and whatever other sanitized devices have been made available to your quarantine facility.</p>
     <section>
     <h3>Call For Speakers</h3>
     <p>BSides Halifax 2021, this is going to be our year! Low case rates, vaccination proceeding swiftly, we're looking forward to finally getting together in per... wait, what's that?</p>
