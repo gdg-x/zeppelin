@@ -3,18 +3,13 @@
   elements:
     - {name: "Secure Code Warrior", description: "", link: "https://www.securecodewarrior.com/", imageUrl: "scw.png", width: "300px"}
 
-# -
-#   group: "GoToWebinar Provider"
-#   elements:
-#     - {name: "BlackHills InfoSec", description: "Black Hills Information Security", link: "https://www.blackhillsinfosec.com/", imageUrl: "BHIS.png", width: "200px"}
 -
   group: "Sponsors"
   elements:
     - {name: "Arctic Wolf", description: "The Leader in Security Operations", link: "https://arcticwolf.com/", imageUrl: "arcticwolf.png", width: "300px"}
-   #  - {name: "Beauceron Security", description: "Beauceron's turnkey automation simplifies tasks such as syncing user accounts, assigning awareness and education modules and generating reports for leaders, management or industry regulators. This frees up security awareness practitioner time to focus on what matters most: engaging with your community. Measurable, automated, behaviour change.", link: "https://www.beauceronsecurity.com/", imageUrl: "beauceron.png", width: "300px"}
+    - {name: "Beauceron Security", description: "Beauceron's turnkey automation simplifies tasks such as syncing user accounts, assigning awareness and education modules and generating reports for leaders, management or industry regulators. This frees up security awareness practitioner time to focus on what matters most: engaging with your community. Measurable, automated, behaviour change.", link: "https://www.beauceronsecurity.com/", imageUrl: "beauceron.png", width: "300px"}
     - {name: "BOYS", description: "Endpoint security for mobile employees and connected devices.", link: "https://byos.io/", imageUrl: "BYOS.png", width: "300px"}
     - {name: "Jonathan Pulsifer", description: "", link: "https://pulsifer.ca/", imageUrl: "pulsifer.png", width: "300px"}
     - {name: "TryHackMe", description: "", link: "https://tryhackme.com", imageUrl: "thm.png", width: "300px"}
     - {name: "Sparrows Lock Picks", description: "", link: "https://www.sparrowslockpicks.ca/", imageUrl: "sparrows.jpg", width: "300px"}
     - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
-   #  - {name: "GOSecure", description: "GoSecure Managed Detection and Response helps all organizations reduce dwell time by preventing breaches before they happen.", link: "https://www.gosecure.net/", imageUrl: "GS_L_h_red_rgb.png", width: "300px"}
