@@ -16,5 +16,5 @@
     - {name: "Jonathan Pulsifer", description: "", link: "https://pulsifer.ca/", imageUrl: "pulsifer.png", width: "300px"}
     - {name: "TryHackMe", description: "", link: "https://tryhackme.com", imageUrl: "thm.png", width: "300px"}
     - {name: "Sparrows Lock Picks", description: "", link: "https://www.sparrowslockpicks.ca/", imageUrl: "sparrows.jpg", width: "300px"}
-   #  - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
+    - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
    #  - {name: "GOSecure", description: "GoSecure Managed Detection and Response helps all organizations reduce dwell time by preventing breaches before they happen.", link: "https://www.gosecure.net/", imageUrl: "GS_L_h_red_rgb.png", width: "300px"}
