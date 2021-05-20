@@ -21,15 +21,16 @@
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/obihann"}
--
-  id: 2
-  name: "Karen"
-  surname: ""
-  title: "Organizer"
-  thumbnailUrl: karen.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/kpeori"}
+
+# -
+#   id: 2
+#   name: "Karen"
+#   surname: ""
+#   title: "Organizer"
+#   thumbnailUrl: karen.jpg
+#   team: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/kpeori"}
 
 -
   id: 3
@@ -41,13 +42,13 @@
   social:
     - {name: "twitter", link: "https://twitter.com/nickg902"}
 
--
-  id: 4
-  name: "Tyler"
-  surname: ""
-  title: "Chief Moderator of the Moderators"
-  thumbnailUrl: anonymous-2821433.jpg
-  team: true
+# -
+#   id: 4
+#   name: "Tyler"
+#   surname: ""
+#   title: "Chief Moderator of the Moderators"
+#   thumbnailUrl: anonymous-2821433.jpg
+#   team: true
 
 -
   id: 5

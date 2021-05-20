@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/2020", text: "Last Years Event"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
 - {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
