@@ -41,11 +41,11 @@ c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/2020", text: "Last Years Event"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/2020", text: "Last Years Event"}
 bottomNavigationLinks:
 - {link: "/assets/BSides_HFX_Sponsorship_Kit.pdf", text: "Become a sponsor"}
 
