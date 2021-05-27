@@ -14,3 +14,4 @@
     - {name: "Sparrows Lock Picks", description: "", link: "https://www.sparrowslockpicks.ca/", imageUrl: "sparrows.jpg", width: "300px"}
     - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
     - {name: "Resmed", description: "", link: "https://www.resmed.com/", imageUrl: "resmed.jpeg", width: "300px"}
+    - {name: "no starch press", description: "", link: "https://nostarch.com/", imageUrl: "nostarch.png", width: "300px"}
