@@ -16,3 +16,4 @@
     - {name: "Resmed", description: "", link: "https://www.resmed.com/", imageUrl: "resmed.jpeg", width: "300px"}
     - {name: "no starch press", description: "", link: "https://nostarch.com/", imageUrl: "nostarch.png", width: "300px"}
     - {name: "Offensive Security", description: "", link: "https://www.offensive-security.com/", imageUrl: "offsec.png", width: "300px"}
+    - {name: "Hak5", description: "", link: "https://hak5.org/", imageUrl: "hak5.png", width: "300px"}
