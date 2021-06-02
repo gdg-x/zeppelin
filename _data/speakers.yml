@@ -42,6 +42,17 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/Brains933"}
+-
+  id: 3
+  name: "Sunny"
+  surname: "Jamwal"
+  company: "Senior Manager"
+  title: "MNP"
+  bio: "Sunny Jamwal is a Senior Manager for MNP’s Cyber Security team. With over 10 years of experience, Sunny has extensive knowledge of information security, networking, and related information technologies allowing him to inspect system architectures, identify vulnerabilities, assess risks and recommend safeguards to reduce and mitigate risk to information assets quickly and knowledgeably.<br />Sunny has acted as the primary technical lead and subject matter expert on numerous Cyber Security Assessments for various private and public organizations in government and industries such as retail, finance, insurance, manufacturing, computer, communication, utilities, healthcare, and business services."
+  thumbnailUrl: sunny.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/browninfosecguy"}
 # -
 #   id: 3
 #   name: "Dinah"
