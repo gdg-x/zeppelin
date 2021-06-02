@@ -97,10 +97,10 @@ aboutBlock:
 # - {count: "24", specialCharacter: "", info: "hours", detail: "of CTF hacking goodness"}
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 3
-#rockstarSpeakersTitle: "Rockstar speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Partners Block
 organizersTitle: "Organizers"
