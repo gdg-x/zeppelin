@@ -31,6 +31,29 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/davidshipley"}
+-
+  id: 2
+  name: "Grant"
+  surname: "Colgan"
+  company: ""
+  title: ""
+  bio: "Grant has been in IT for the past 10 years, the last 5 of which have been in Cyber security. before that he worked with a government body on radio communications, and is a licensed amateur radio operator"
+  thumbnailUrl: grant.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Brains933"}
+# -
+#   id: 3
+#   name: "Dinah"
+#   surname: "Davis"
+#   company: "Arctic Wolf Networks"
+#   title: "Vice President of Research and Development"
+#   bio: "Dinah Davis is Vice President of Research and Development at Arctic Wolf Networks. The work she has done over the last six years has helped the company become the leader in Security Operations as a Service and reach unicorn status (Nov 2020). <br /> Dinah is a big believer in helping connect people to build a better community. For the last three years, she has been running the KW Cybersecurity Meetup, in 2019 she co-founded and ran the CyberCity Conference, and she has been an active mentor is Waterloo chapter of the Founders Institute for the last year. She is also the founder of Code Like a Girl, a publication whose goal is to change society's perception of how women are viewed in technology."
+#   thumbnailUrl: dinah.jpg
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/Dinah_Davis"}
+
 # -
 #   id: 4
 #   name: "Mike"
