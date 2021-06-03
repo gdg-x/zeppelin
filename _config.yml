@@ -113,13 +113,13 @@ ticketsInfo: "All proceeds go to Feed Nova Scotia"
 ticketsOffers:
 -
  name: "General Admittance"
- price: "Donation ($13.37 is a great place to start)"
+ price: "$13.37"
  priceCurrency: "CAD"
 #   ticketsNumber: "150"
 #   ribbon: "-5%"
  buyButtonLink: "https://www.eventbrite.ca/e/security-bsides-halifax-2021-virtual-tickets-154149175333"
  buyButtonText: "Buy Now"
- ticketContentList: ["Access to amazing talks", "Our everlasting love and admiration", "All proceeds go to Feed Nova Scotia"]
+ ticketContentList: ["Donations accepted", "Access to amazing talks", "Our everlasting love and admiration", "All proceeds go to Feed Nova Scotia"]
 #   validFrom: "2014-08-25T10:00"
 #   validThrough: "2014-09-30T23:59"
 
