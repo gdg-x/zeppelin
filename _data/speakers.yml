@@ -64,6 +64,15 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/Dinah_Davis"}
+-
+  id: 5
+  name: "Kent"
+  surname: "Stevens"
+  company: "Trend Micro"
+  title: "Sr. Security Solutions Engineers"
+  bio: "Kent Stevens is Security Solutions Engineer based out of Halifax, NS. He has a passion for cybersecurity through enablement, education and driving awareness. He has experience in a wide area of security and network related technologies across the Small, Medium and Large Enterprises. This experience has given him a broad technical background and understanding of the security requirements of businesses as well as an excellent understanding of the threat landscape. Before coming to Trend Micro, Kent spent time at a Trend Micro client and partner gaining valuable experience by providing security solutions to meet his and his client’s needs."
+  thumbnailUrl: kent.jpeg
+  rockstar: true
 
 # -
 #   id: 4
