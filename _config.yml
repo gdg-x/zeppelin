@@ -73,11 +73,11 @@ aboutBlock:
 }
 
 # Statistic Block
-#statisticBlockImage: "statistic.jpg"
-#statisticBlock:
-# - {count: "4", specialCharacter: "+", info: "hours", detail: "of amazing talks"}
-# - {count: "6", specialCharacter: "", info: "speakers", detail: "from across North America"}
-# - {count: "24", specialCharacter: "", info: "hours", detail: "of CTF hacking goodness"}
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+- {count: "4", specialCharacter: "+", info: "hours", detail: "of amazing talks"}
+- {count: "8", specialCharacter: "", info: "speakers", detail: "from across North America"}
+- {count: "24", specialCharacter: "", info: "hour", detail: "secure coding challange"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
