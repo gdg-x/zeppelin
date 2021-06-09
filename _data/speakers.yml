@@ -46,8 +46,8 @@
   id: 3
   name: "Sunny"
   surname: "Jamwal"
-  company: "Senior Manager"
-  title: "MNP"
+  company: "MNP"
+  title: "Senior Manager"
   bio: "Sunny Jamwal is a Senior Manager for MNP’s Cyber Security team. With over 10 years of experience, Sunny has extensive knowledge of information security, networking, and related information technologies allowing him to inspect system architectures, identify vulnerabilities, assess risks and recommend safeguards to reduce and mitigate risk to information assets quickly and knowledgeably.<br />Sunny has acted as the primary technical lead and subject matter expert on numerous Cyber Security Assessments for various private and public organizations in government and industries such as retail, finance, insurance, manufacturing, computer, communication, utilities, healthcare, and business services."
   thumbnailUrl: Sunny.jpg
   rockstar: true
@@ -78,7 +78,7 @@
   name: "Jack"
   surname: "Daniel"
   company: "Security BSides"
-  title: ""
+  title: "Co-Founder"
   bio: "Jack Daniel is the Community Advocate for Tenable, is a co-founder of Security BSides, a community builder, storyteller, technologist, historian, mentor, and security professional. He has over 20 years' experience in network and system administration and security, and has worked in a variety of practitioner and management positions. Jack is a technology community activist, a podcaster, and a frequent speaker at technology and security events. Jack used to put letters after his name but he doesn't anymore; some fell off, others were pushed."
   thumbnailUrl: jack.jpg
   rockstar: true
