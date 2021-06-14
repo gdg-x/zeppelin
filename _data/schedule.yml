@@ -59,3 +59,8 @@
       endTime: "6:45",
       sessionIds: [010]
       }
+      - {
+      startTime: "7:00",
+      endTime: "7:15",
+      sessionIds: [011]
+      }
