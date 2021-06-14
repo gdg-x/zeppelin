@@ -41,7 +41,7 @@ c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
@@ -52,7 +52,7 @@ bottomNavigationLinks:
 # Hero Block
 heroImage: "halifax.jpg"
 heroTitle: "BSides Halifax 2021"
-eventDate: "Friday June 18, 2021"
+eventDate: "Friday June 18, 2021 9AM (AST)"
 typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
 heroButtons:
