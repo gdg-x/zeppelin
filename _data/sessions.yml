@@ -64,9 +64,9 @@ This talk will analyze some of the attacks on the IT/OT infrastructure in the pa
 
 -
   id: 010
-  title: "Closing Keynote"
-  description: "$talk.desc"
-  speakers: []
+  title: "Closing Keynote: From napkin to company - An Edge Micro-segmentation story"
+  description: "This is the story that led to building our Edge Micro-segmentation technology, from Halifax to the world."
+  speakers: [009]
   language: en
 
 -
