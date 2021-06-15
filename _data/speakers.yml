@@ -80,3 +80,12 @@
   bio: "Evan is a Staff Research Engineer working with the Zero-Day Research team at Tenable from his home in Halifax. "
   thumbnailUrl: evan.jpg
   rockstar: true
+-
+  id: 9
+  name: "Matias"
+  surname: "Katz"
+  company: "byos"
+  title: "Chief Executive Officer"
+  bio: "Matias Katz has more than 15 years of cybersecurity experience working at companies like IBM as well as consulting for enterprise and government entities across Latin America. He founded his first cybersecurity firm in 2008 and has been a speaker at industry events like Black Hat USA, TEDx - Argentina, Hack in Paris, Hackers to Hackers, and AtlSecCon. At 24 he wrote his first book entitled “Redes y Seguridad” (Networking and Security), published under the international imprint of Alfaomega Publishing. He has designed academic programs for this discipline in various institutions in Argentina, and trained security professionals around the world as an official CISSP instructor. Currently, Matias works as the founder of Byos, an edge micro-segmentation company dedicated to helping organizations protect themselves from the risk of ubiquitous remote, guest and IoT network connectivity. Byos allows employees, contractors and devices to safely and securely connect to any network, regardless of their location or network environment. The patented Byos solution is a plug-and-play Secure Edge, built to provide secure connectivity for the remote/roaming workforce and connected devices."
+  thumbnailUrl: matias.png
+  rockstar: true
