@@ -19,4 +19,4 @@
     - {name: "Hak5", description: "", link: "https://hak5.org/", imageUrl: "hak5.png", width: "300px"}
     - {name: "TrendMicro", description: "", link: "https://www.trendmicro.com/", imageUrl: "trendmicro.png", width: "300px"}
     - {name: "IMP", description: "", link: "www.impsolutions.com", imageUrl: "imp.png", width: "300px"}
-    - {name: "IMP", description: "", link: "https://resulta.com", imageUrl: "resulta.png", width: "300px"}
+    - {name: "Resulta", description: "", link: "https://resulta.com", imageUrl: "resulta.png", width: "300px"}
