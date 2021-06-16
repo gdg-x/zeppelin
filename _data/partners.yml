@@ -18,5 +18,5 @@
     - {name: "Offensive Security", description: "", link: "https://www.offensive-security.com/", imageUrl: "offsec.png", width: "300px"}
     - {name: "Hak5", description: "", link: "https://hak5.org/", imageUrl: "hak5.png", width: "300px"}
     - {name: "TrendMicro", description: "", link: "https://www.trendmicro.com/", imageUrl: "trendmicro.png", width: "300px"}
-    - {name: "IMP", description: "", link: "www.impsolutions.com", imageUrl: "imp.png", width: "300px"}
+    - {name: "IMP", description: "", link: "https://www.impsolutions.com", imageUrl: "imp.png", width: "300px"}
     - {name: "Resulta", description: "", link: "https://resulta.com", imageUrl: "resulta.png", width: "300px"}
