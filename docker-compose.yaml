@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  site:
+    image: jekyll/jekyll:3.8
+    command: jekyll serve --incremental --livereload --force_polling
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
