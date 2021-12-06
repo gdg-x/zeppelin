@@ -10,29 +10,29 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-url: "https://gdg-x.github.io"
+title: "Madeira International Workshop in Machine Learning"
+email: "secretariat@iknowd.org"
+description: "This 4-day workshop is designed to show you the basic steps needed to start a Machine Learning project. On the first day, you will have an introduction to Python and see how to create neural networks in scikit-learn and TensorFlow."
+url: "http://miwml.iknowd.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "IKnowD"
+organizerAlternateName: "Institute of Knowledge and Development"
+organizerDescription: "The IKnowD, Institute of Knowledge and Development is a non-profit organisation with a strong will to help scientific and societal development, through spreading research results and supporting science."
+organizerEmail: "secretariat@iknowd.org"
+organizerLogo: "/img/seo/iknowd-logo.png"
+organizerLink: "https://iknowd.org"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "event, programming, developers"
+#twitterAccount: "@DevFest"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
@@ -46,8 +46,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -55,20 +55,20 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "MIWL 20222 <typeout> "
+eventDate: "July, 2022"
+typeoutTextValues: '"", "CNN", "| LSTMS"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About the event"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. " }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -202,7 +202,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
