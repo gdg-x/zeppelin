@@ -57,7 +57,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "MIWL 20222 <typeout> "
 eventDate: "July, 2022"
-typeoutTextValues: '"", "CNN", "| LSTMS"'
+typeoutTextValues: '"", "CNN", "LSTMS", "RNN"'
 typeoutFallback: "Season"
 heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
