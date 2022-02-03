@@ -1,59 +1,127 @@
--
-  id: 307
+- id: 001
+  title: "Keynote"
+  description: "Keynote"
+  subtype: keynote
+  speakers: [ 1 ]
+  language: en
+  complexity: "Beginner"
+
+- id: 002
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+
+- id: 003
+  title: "Introduction to Python"
+  description: "Introduction to Python"
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [ 5 ]
+  language: en
+  complexity: "Beginner"
+
+- id: 004
+  title: "Introduction to ANN using scikit-learn"
+  description: "Introduction to ANN using scikit-learn"
+  subtype: workshop
+  speakers: [ 5 ]
+  language: en
+  complexity: "Beginner"
+
+- id: 005
+  title: "Introduction to ANN using TensorFlow"
+  description: "Introduction to ANN using TensorFlow"
+  subtype: workshop
+  speakers: [ 2 ]
+  language: en
+  complexity: "Beginner"
+
+- id: 006
+  title: "Image Processing"
+  description: "Image Processing"
+  subtype: workshop
+  speakers: [ 4 ]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
+
+- id: 007
+  title: "Feature calculation and applications"
+  description: "Feature calculation and applications"
+  subtype: workshop
+  speakers: [ 4 ]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
+  complexity: "Intermediate"
+
+- id: 008
+  title: "CNNs"
+  description: "CNNs"
+  subtype: workshop
+  speakers: [ 3 ]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+
+- id: 009
+  title: "Recurrent neural networks"
+  description: "Recurrent neural networks"
+  subtype: workshop
+  speakers: [ 2 ]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermediate"
+
+- id: 010
+  title: "LSTMs"
+  description: "LSTMs"
+  subtype: workshop
+  speakers: [ 2 ]
+  language: en
+  complexity: "Intermediate"
+
+- id: 011
+  title: "Gated recurrent units"
+  description: "Gated recurrent units"
+  subtype: workshop
+  speakers: [ 2 ]
+  language: en
+  complexity: "Intermediate"
+
+- id: 012
+  title: "CNNs and LSTMs"
+  description: "CNNs and LSTMs"
+  subtype: workshop
+  speakers: [ 2 ]
+  language: en
+  complexity: "Advanced"
+
+- id: 013
+  title: "Mobile app development—Part I"
+  description: "Mobile app development"
+  subtype: workshop
+  speakers: [ 5 ]
+  language: en
+  complexity: "Advanced"
+
+- id: 014
+  title: "Mobile app development—Part II"
+  description: "Mobile app development"
+  subtype: workshop
+  speakers: [ 5 ]
+  language: en
+  complexity: "Advanced"
+
+-
+  id: 015
+  title: "Companies' Day"
+  description: "Companies' Day"
+  subtype: presentation
+  speakers: [ ]
+  language: en
+  complexity: "N.A."
+
+-
+  id: 016
+  title: "Closing ceremony"
+  description: "Closing ceremony"
+  subtype: presentation
+  speakers: [ 1 ]
+  language: en
+  complexity: "N.A."

@@ -1,67 +1,53 @@
 - 
+  id: 1
+  name: "Prof. Morgado"
+  surname: "Dias (Ph.D.)"
+  company: "Department of Electrical Engineering, ITI/Larsys/M-ITI, University of Madeira, Funchal, Portugal"
+  title: "Associate Professor"
+  bio: "Morgado-Dias received the master’s degree in microelectronics from the University Joseph Fourier, Grenoble, France, in 1995, and the PhD degree from the University of Aveiro, Portugal, in 2005. He is currently an Associate professor with the University of Madeira and a Researcher with the Madeira Interactive Technologies Institute and ITI/LARSyS. His research interests include renewable energy, artificial neural networks, and FPGA implementations."
+  thumbnailUrl: morgado.jpg
+  rockstar: false
+
+-
+  id: 2
+  name: "Fábio"
+  surname: "Mendonça (Ph.D.)"
+  company: "Interactive Technologies Institute (ITI/LARSyS) and University of Madeira"
+  title: "Assistant Professor and Postdoctoral Researcher"
+  bio: 'Fábio Mendonça was born in Funchal, Portugal, in 1990. He received the B.S. and M.S. degrees in electrical and telecommunications engineering from the University of Madeira, Portugal, in 2013 and 2016, and the Ph.D. degree in electrical and computer engineering from the Instituto Superior Técnico, University of Lisbon, Portugal, in 2021.'
+  thumbnailUrl: fabio.png
+  rockstar: false
+
+-
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
+  name: "Sheikh Shanawaz"
+  surname: "Mostafa (Ph.D.)"
+  company: "Interactive Technologies Institute (ITI/LARSyS)"
+  title: "Postdoctoral Researcher"
+  bio: 'Sheikh Shanawaz Mostafa received the B.Sc. Eng. degree in electronics and communication engineering from Khulna University, Khulna, Bangladesh, in 2010 and the M.Sc. degree in biomedical engineering from Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh, in 2012. He finished the Ph.D. degree in Instituto Superior Técnico, University of Lisbon in the program Networked Interactive Cyber-Physical Systems at Instituto Superior Técnico in a partnership with CMU (Carnegie Mellon University) and LARSyS.'
+  thumbnailUrl: mostafa.jpg
+  rockstar: false
+
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  name: "Ankit"
+  surname: "Gupta (M.Tech.)"
+  company: "Interactive Technologies Institute (ITI/LARSyS)"
+  title: "PhD Student"
+  bio: 'Ankit Gupta received Bachelor of Technology in Bioinformatics from Jaypee University of Information technology,India in 2012 and Master of Technology in Computer Science and Engineering from Maharishi Markandeshwar University,India in 2015.He is currently pursuing his PhD from University of Madeira. He has been involved in designing machine/deep learning approaches for various domains e.g. Alzheimer’s detection using MRI scans, student performance evaluation. Besides, he had worked on designing mobile health solutions for Alzheimer’s patients and caregivers.'
+  thumbnailUrl: ankit.png
+  rockstar: false
+
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Diogo Nuno"
+  surname: "Freitas (M.Sc.)"
+  company: "Interactive Technologies Institute (ITI/LARSyS), NOVA-LINCS and University of Madeira"
+  title: "PhD Student"
+  bio: 'Diogo Freitas completed a Master’s Degree in Mathematics, Statistics and Applications in 2020 from the Faculty of Exact Sciences and Engineering of the University of Madeira and a Degree in Computer Engineering in 2017 from the same institution. He is currently a PhD student in Computer Engineering at the Faculty of Exact Sciences and Engineering at the University of Madeira and a researcher at the Interactive Technologies Institute. His research interests include artificial neural networks and stochastic optimization algorithms.'
+  thumbnailUrl: diogo.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/DiogoNTFreitas"}
+    - {name: "github", link: "https://github.com/Dntfreitas"}
+    - {name: "site", link: "https://diogo-freitas.xyz/"}

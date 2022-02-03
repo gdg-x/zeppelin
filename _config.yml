@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -203,6 +203,9 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+
+# Agenda Block
+aboutAgenda: <b>Note:</b> This will be a 5-day workshop starting from July 18. The following is the tentative agenda for the workshop.
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
