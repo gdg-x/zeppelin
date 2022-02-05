@@ -65,6 +65,17 @@
       endTime: "21:00",
       sessionIds: [ 015 ]
     }
+    - {
+      startTime: "18:00",
+      endTime: "19:00",
+      sessionIds: [ 017 ]
+    }
+    - {
+      startTime: "19:00",
+      endTime: "20:00",
+      sessionIds: [ 018 ]
+    }
+
 
 - date: "2022-07-21"
   dateReadable: "July 21"

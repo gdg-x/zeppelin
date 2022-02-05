@@ -1,0 +1,23 @@
+- title: "Overview"
+  content: "This 5-day workshop is designed to show you the basic steps needed to start a Machine Learning project. On the first day, you will have an introduction to Python and see how to create neural networks in scikit-learn and TensorFlow. In the following days, you will gain some experience with image processing, convolutional neural networks (CNNs) and long short-term memory (LSTMs) networks. To wrap up the workshop, you will deploy a model to be used in a mobile app."
+
+- title: "Vision"
+  content: "This workshop is designed to show the basic steps needed to start Machine Learning with Python. At the same time, it also serves for sharing the knowledge with a beginner by showing the steps and tools related to the field. <br><br> The planned sessions include both theoretical lectures as well as practical sessions, given by researchers with experience in Machine Learning applications."
+
+- title: "Who is this event for?"
+  content: "Basically, for researchers, students, industry practitioners and other people interested in the topic. You must, however,  have some knowledge of programming, with preferably hands-on experience in Python. No deep previous knowledge of Machine Learning is required; however, if you have some experience in the area, that’s even better."
+
+- title: "What do I need to bring with me?"
+  content: "Just bring a computer with the peripherals that you use on a normal day. We will ask you to have some software pre-installed on your computer for the workshop. This information will be sent to your email a few days before the workshop.<br><br>We will also provide you with a free wireless connection."
+
+- title: "Language"
+  content: "The workshop and its contents will be given in English. However, if you don’t feel comfortable asking questions in English, you can ask the question in Portuguese that our Portuguese team members will translate the question for you."
+
+- title: "Certificate of participation"
+  content: "After the end of the workshop, we will send your certificate of participation to your email."
+
+- title: "Safety protocols for COVID-19"
+  content: "During the event, it is mandatory to comply with the rules and protocols enforced by the health authorities, namely practising hand and respiratory hygiene, keeping a safe social distance, and the mandatory use of facial masks. <br><br>Please note that due to those restrictions, no drink or snacks will be served during the event. As an alternative, you can go to the University bar or Tecnopolo’s cafeteria (floor 1). <br><br>If you have any symptoms of COVID-19, you must not attend the event!"
+
+- title: "I need more information"
+  content: "No worries! Please reach us using this email address: <a href='mailto:secretariat@iknowd.org'>secretariat@iknowd.org</a>."

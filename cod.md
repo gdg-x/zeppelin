@@ -1,20 +1,25 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Code of Conduct
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
 
+– This will be a harassment-free and inclusive workshop for everyone regardless of gender identity and expression, sexual
+orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion,
+or other protected category.
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+– No harassment, discrimination, or condescension, whether blatant or via micro-aggressions will be tolerated.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+– All forms of communication should not demean others.
 
+– The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behaviour
+to their attention is encouraged.
 
-######Contacts:
+– No physical or cyber threats will be tolerated.
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+– University of Madeira, ARDITI, ITI and IKnowD are not responsible, nor even implied, in the content that will be given
+during the workshop.
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

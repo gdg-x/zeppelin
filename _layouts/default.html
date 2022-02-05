@@ -87,7 +87,7 @@ layout: compress
                 });
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
-                        {% if speaker.rockstar %}
+                        {% if speaker.rockstar and speaker.is_speaker %}
                         {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}

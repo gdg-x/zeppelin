@@ -1,0 +1,23 @@
+<!-- About Hackathon Section -->
+<section id="about-hackathon" class="about-hackathon">
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2">
+            {% for partner in site.data.partners %}
+            <h3>{{ partner.group }}</h3>
+                {% for element in partner.elements %}
+                <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
+                    <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
+                        <img class="img-responsive" src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}">
+                    </div>
+                    <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
+                        <h4>{{ element.name }}</h4>
+                        <p class="text-muted">Website: <a href="{{ element.link }}" target="_blank">{{ element.link }}</a> </p>
+                        <p>{{ element.description }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End About Hackathon Section -->

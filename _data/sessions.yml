@@ -108,8 +108,7 @@
   language: en
   complexity: "Advanced"
 
--
-  id: 015
+- id: 015
   title: "Companies' Day"
   description: "Companies' Day"
   subtype: presentation
@@ -117,11 +116,28 @@
   language: en
   complexity: "N.A."
 
--
-  id: 016
+- id: 016
   title: "Closing ceremony"
   description: "Closing ceremony"
   subtype: presentation
   speakers: [ 1 ]
+  language: en
+  complexity: "N.A."
+
+
+- id: 017
+  title: "Talk"
+  description: "Talk"
+  subtype: presentation
+  speakers: [ 6 ]
+  language: en
+  complexity: "N.A."
+
+
+- id: 018
+  title: "Talk"
+  description: "Talk"
+  subtype: presentation
+  speakers: [ 7 ]
   language: en
   complexity: "N.A."

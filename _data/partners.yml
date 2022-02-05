@@ -1,23 +1,10 @@
-- 
-  group: "General sponsor"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-- 
-  group: "Information partners"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+- group: "Gold sponsors"
+  elements:
+    - { name: "Floating Particle", description: "Floating Particle is a research and development company. We use Artificial Intelligence, IoT, Big Data and Machine Learning to provide up to date and cutting-edge technology to our clients. Our team, composed of strategic planners and engineers, provides ideas and solutions that benefit numerous industries, companies, factories and infrastructure systems. At Floating Particle, we believe that technology and innovation move the world forward and we work to pioneer this transformation alongside with our clients and partner.", link: "https://www.floatingparticle.com", imageUrl: "floating-particle-logo.jpg" }
+    - { name: "ams-OSRAM", description: "Sensing is Life", link: "https://ams-osram.com", imageUrl: "ams-osram.jpg" }
+- group: "Bronze sponsors"
+  elements:
+    - { name: "ABS GmbH", description: "The ABS GmbH is a manufacturer and developer of customized digital camera systems for a wide range of application areas and provides an established product range of modular camera families. Due to this the ABS mostly is able to realize individual and economic special solutions without the necessity for a fundamental and expensive new development. In addition, the ABS develops its own firmware and system adapted camera software for operation, image preprocessing and image analysis.", link: "https://www.abs-gmbh.de", imageUrl: "abs-logo.jpg", width: "120px" }
+    - { name: "Asseco PST", description: "Asseco PST (Portuguese Speaking Territories) is an Information Technology company specialized in banking software for the financial industry. Founded in Madeira 30 years ago, Asseco PST is currently operating in 3 continents, eight countries and is part of Asseco Group since 2015, a multinational corporation and one of the biggest and most recognized European software suppliers.", link: "https://pst.asseco.com", imageUrl: "asseco-logo.jpg", width: "120px" }
+    - { name: "GesTools ASP", description: "GesTools ASP is a development and consulting company focused on online business and cloud solutions. With a vast experience in web technology, we keep exploring new technologies to provide intelligent and useful solutions.", link: "https://www.gestoolsasp.com", imageUrl: "gestools-logo.jpg", width: "120px" }
+    - { name: "See Health", description: "See Health is a company dedicated to monitoring public health, incorporating scientific research and technological tools in the transformation of digital health, through the creation of responsive applications and websites. Digital health is becoming an integral part of social priorities, as it benefits people with ethical, safe and sustainable practices. We aim to work towards the development of information infrastructures and communication technologies, in order to promote equitable and universal access to health services and benefits, in a digital way.", link: "https://www.seehealth.pt", imageUrl: "seehealth-logo.png", width: "120px" }

@@ -1,25 +1,26 @@
-- 
-  id: 1
+- id: 1
   name: "Prof. Morgado"
   surname: "Dias (Ph.D.)"
-  company: "Department of Electrical Engineering, ITI/Larsys/M-ITI, University of Madeira, Funchal, Portugal"
+  company: "Dep. of Electrical Engineering, ITI/LARSyS/M-ITI, UMa"
   title: "Associate Professor"
   bio: "Morgado-Dias received the master’s degree in microelectronics from the University Joseph Fourier, Grenoble, France, in 1995, and the PhD degree from the University of Aveiro, Portugal, in 2005. He is currently an Associate professor with the University of Madeira and a Researcher with the Madeira Interactive Technologies Institute and ITI/LARSyS. His research interests include renewable energy, artificial neural networks, and FPGA implementations."
   thumbnailUrl: morgado.jpg
-  rockstar: false
+  rockstar: true
+  is_speaker: true
+  team: true
 
--
-  id: 2
+- id: 2
   name: "Fábio"
   surname: "Mendonça (Ph.D.)"
-  company: "Interactive Technologies Institute (ITI/LARSyS) and University of Madeira"
+  company: "Interactive Technologies Institute (ITI/LARSyS), UMa"
   title: "Assistant Professor and Postdoctoral Researcher"
   bio: 'Fábio Mendonça was born in Funchal, Portugal, in 1990. He received the B.S. and M.S. degrees in electrical and telecommunications engineering from the University of Madeira, Portugal, in 2013 and 2016, and the Ph.D. degree in electrical and computer engineering from the Instituto Superior Técnico, University of Lisbon, Portugal, in 2021.'
   thumbnailUrl: fabio.png
   rockstar: false
+  is_speaker: true
+  team: true
 
--
-  id: 3
+- id: 3
   name: "Sheikh Shanawaz"
   surname: "Mostafa (Ph.D.)"
   company: "Interactive Technologies Institute (ITI/LARSyS)"
@@ -27,9 +28,10 @@
   bio: 'Sheikh Shanawaz Mostafa received the B.Sc. Eng. degree in electronics and communication engineering from Khulna University, Khulna, Bangladesh, in 2010 and the M.Sc. degree in biomedical engineering from Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh, in 2012. He finished the Ph.D. degree in Instituto Superior Técnico, University of Lisbon in the program Networked Interactive Cyber-Physical Systems at Instituto Superior Técnico in a partnership with CMU (Carnegie Mellon University) and LARSyS.'
   thumbnailUrl: mostafa.jpg
   rockstar: false
+  is_speaker: true
+  team: true
 
--
-  id: 4
+- id: 4
   name: "Ankit"
   surname: "Gupta (M.Tech.)"
   company: "Interactive Technologies Institute (ITI/LARSyS)"
@@ -37,17 +39,53 @@
   bio: 'Ankit Gupta received Bachelor of Technology in Bioinformatics from Jaypee University of Information technology,India in 2012 and Master of Technology in Computer Science and Engineering from Maharishi Markandeshwar University,India in 2015.He is currently pursuing his PhD from University of Madeira. He has been involved in designing machine/deep learning approaches for various domains e.g. Alzheimer’s detection using MRI scans, student performance evaluation. Besides, he had worked on designing mobile health solutions for Alzheimer’s patients and caregivers.'
   thumbnailUrl: ankit.png
   rockstar: false
+  is_speaker: true
+  team: true
 
-- 
-  id: 5
+- id: 5
   name: "Diogo Nuno"
   surname: "Freitas (M.Sc.)"
-  company: "Interactive Technologies Institute (ITI/LARSyS), NOVA-LINCS and University of Madeira"
+  company: "Interactive Technologies Institute (ITI/LARSyS), NOVA-LINCS, UMa"
   title: "PhD Student"
   bio: 'Diogo Freitas completed a Master’s Degree in Mathematics, Statistics and Applications in 2020 from the Faculty of Exact Sciences and Engineering of the University of Madeira and a Degree in Computer Engineering in 2017 from the same institution. He is currently a PhD student in Computer Engineering at the Faculty of Exact Sciences and Engineering at the University of Madeira and a researcher at the Interactive Technologies Institute. His research interests include artificial neural networks and stochastic optimization algorithms.'
   thumbnailUrl: diogo.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/DiogoNTFreitas"}
-    - {name: "github", link: "https://github.com/Dntfreitas"}
-    - {name: "site", link: "https://diogo-freitas.xyz/"}
+    - { name: "twitter", link: "https://twitter.com/DiogoNTFreitas" }
+    - { name: "github", link: "https://github.com/Dntfreitas" }
+    - { name: "site", link: "https://diogo-freitas.xyz/" }
+  is_speaker: true
+  team: true
+
+- id: 6
+  name: "Mário"
+  surname: "Figueiredo (Ph.D.)"
+  company: "Instituto Superior Técnico, Universidade de Lisboa"
+  title: "Distinguished Professor"
+  bio: 'Experienced Professor with a demonstrated history of working in higher education and academic research. Skilled in Signal and Image Processing, Statistics, Machine Learning, Information Theory, Optimization.'
+  thumbnailUrl: mario_figueiredo.jpg
+  rockstar: true
+  is_speaker: true
+  team: false
+
+- id: 7
+  name: "Luiz"
+  surname: "GUStavo"
+  company: "Google"
+  title: "AI Developer Advocate"
+  bio: 'Gus is a Developer Advocate in the Google AI team. His main passion is making Machine Learning easier for developers. As of lately he’s been working with TensorFlow Hub and helping make ML models more accessible to everyone.'
+  thumbnailUrl: gus.jpg
+  rockstar: true
+  is_speaker: true
+  team: false
+
+- id: 8
+  name: "Some"
+  surname: "Person"
+  company: "UMa"
+  title: "Master's Student"
+  bio: 'Loren'
+  thumbnailUrl: some.jpg
+  rockstar: false
+  is_speaker: false
+  team: true

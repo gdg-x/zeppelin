@@ -1,0 +1,24 @@
+<!-- About Section -->
+<section id="mission" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.missionTitle }}</h3>
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for about in site.missionBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ about.title }}</h5>
+                        <p>{{ about.text }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End About Section -->
