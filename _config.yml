@@ -156,10 +156,6 @@ ticketsOffers:
     validThrough: "2022-07-15T23:59"
     disabled: true
 
-# Footer
-socialLinks:
-  - { link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus" }
-
 footerBlocks:
   - title: "Links"
     links:
