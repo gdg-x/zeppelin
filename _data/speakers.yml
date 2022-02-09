@@ -81,7 +81,7 @@
 
 - id: 8
   name: "Preety"
-  surname: "Baglat"
+  surname: "Baglat (M.Tech.)"
   company: "Interactive Technologies Institute (ITI/LARSyS)"
   title: "PhD Student"
   bio: "Preety Baglat completed her  bachelor's and master's degree degree in computer science from Shoolini University, India in 2018 and 2020 respectively. During her master's she had also enrolled as a visiting student in the MaRS scholarship program at the Universita della Svizzera Italiana, Switzerland, and spent one semester during her master's in the Erasmus student exchange program at the University of Naples, Federico II, Italy. Currently, she is a Ph.D. student of Computer Engineering at the Faculty of Exact Science and Engineering at the University of Madeira and also working as a researcher at the Interactive Technologies Institute, Funchal. Her research interests include machine learning, Deep learning, and Software engineering."
@@ -92,10 +92,10 @@
 
 - id: 9
   name: "Ahatsham"
-  surname: ""
+  surname: "(M.Tech.)"
   company: "Interactive Technologies Institute (ITI/LARSyS)"
   title: "PhD Student"
-  bio: "Ahatsham received B. Tech degree in Computer Science & Engineering from Uttarakhand Technical University, India, in 2014 and M. Tech Degree in Computer Science & Engineering from Visvesvaraya National Institute of Technology, Nagpur, India, in 2016. He worked as Assistant Professor after that and have 5 years of in Academia. He is currently pursuing his PhD from University of Madeira. His research includes Machine Learning/Deep Learning approaches in Medical and Agriculture field."
+  bio: "Ahatsham received B. Tech degree in Computer Science & Engineering from Uttarakhand Technical University, India, in 2014 and M. Tech Degree in Computer Science & Engineering from Visvesvaraya National Institute of Technology, Nagpur, India, in 2016. He also works as Assistant Professor and have 5 years of experience in Academia. He is currently pursuing his PhD from University of Madeira. His research includes Machine Learning/Deep Learning approaches in Medical and Agriculture field."
   thumbnailUrl: ahatsham.jpg
   rockstar: false
   is_speaker: false
