@@ -32,15 +32,15 @@
 #   social:
 #     - {name: "twitter", link: "https://twitter.com/kpeori"}
 
--
-  id: 3
-  name: "Nick"
-  surname: "Gyorfi"
-  title: "AtlSecCon Rep and Wrangler of Speakers"
-  thumbnailUrl: anonymous-2821433.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/nickg902"}
+#-
+#  id: 3
+#  name: "Nick"
+#  surname: "Gyorfi"
+#  title: "AtlSecCon Rep and Wrangler of Speakers"
+#  thumbnailUrl: anonymous-2821433.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/nickg902"}
 
 # -
 #   id: 4
