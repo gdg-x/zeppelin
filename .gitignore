@@ -11,3 +11,5 @@ _site/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+/vendor/bundle/
+/.idea/

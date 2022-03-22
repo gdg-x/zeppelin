@@ -8,16 +8,12 @@ markdown: kramdown
 permalink: pretty
 exclude: [ '/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor' ]
 
-
 # Site Settings
 title: "Madeira International Workshop in Machine Learning"
 email: "secretariat@iknowd.org"
 description: "This 5-day workshop is designed to show you the basic steps needed to start a Machine Learning project. On the first day, you will have an introduction to Python and see how to create neural networks in scikit-learn and TensorFlow."
-url: "https://miwml.iknowd.org"
+url: "https://mml.iknowd.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "IKnowD"
@@ -28,16 +24,7 @@ organizerLogo: "/img/seo/iknowd-logo.png"
 organizerLink: "https://iknowd.org"
 
 # Head
-metaKeywords: "event, programming, developers"
-#twitterAccount: "@DevFest"
-#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-
-# Documents
-c4pUrl: "#"
-c4sponsorsUrl: "#"
-
+metaKeywords: "event, programming, developers, machine learning, tensorflow, mml"
 
 # Navigation
 navigationLinks:
@@ -47,21 +34,15 @@ navigationLinks:
   - { permalink: "/speakers/", text: "Speakers" }
   - { permalink: "/team/", text: "Team" }
   - { permalink: "/sponsors/", text: "Sponsors" }
-# - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Madeira International Workshop in Machine Learning"
-eventDate: "Madeira Tecnopolo, July, 2022"
+eventDate: "Madeira Tecnopolo, 18–22 July, 2022"
 typeoutTextValues: ''
 typeoutFallback: "Season"
 heroButtons:
-  - { permalink: "/companiesday", text: "COMPANIES DAY",type: "primary" }
+  - { permalink: "/companyday", text: "COMPANY DAY",type: "primary" }
   - { permalink: "/#tickets", text: "REGISTRATION", type: "success" }
 
 # About Block
@@ -69,11 +50,7 @@ aboutTitle: "About the event"
 aboutBlock:
   - { title: "Workshop", image: "workshop.jpg", text: "This workshop is designed to show the basic steps needed to start Machine Learning with Python." }
   - { title: "Talks", image: "talks.jpg", text: "We will have fascinating talks about AI given by a top researcher and a developer advocate at Google." }
-  - { title: "Companies Exhibition", image: "companies.jpg", text: "In the 3<sup>rd</sup>, we will have a companies' exhibition, where you can get in touch with current technologies and eventually apply for job offers." }
-
-# About Event Block
-titles:
-  about-event:
+  - { title: "Company Exhibition", image: "companies.jpg", text: "We will have a company exhibition, where you can get in touch with current technologies, make new contacts and eventually apply for job offers." }
 
 # Mission Block
 missionTitle: "Mission"
@@ -108,37 +85,38 @@ venueFeatures: [ "– Accessible rooms", "– Bar and restaurant available", "�
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
 ticketsTitle: "Registration Fees"
-ticketsInfo: "Both types of registration will provide access to all the files and presentations used during the workshop."
+ticketsInfo: "Both types of registration will provide access to all the files and presentations used during the workshop. <b>Tickets selling dates are tentative dates.</b>"
 ticketsOffers:
   - name: "Early Bird—Students"
     price: "25"
     priceCurrency: "EUR"
     ticketsNumber: "20"
-    buyButtonLink: "http://dfua.ticketforevent.com/"
+    buyButtonLink: "#"
     buyButtonText: "Buy Now"
     additionalInfo: "Requires a sending a valid student ID after purchasing the ticket."
     validFrom: "2022-06-01T10:00"
     validThrough: "2022-07-01T23:59"
+    disabled: true
 
   - name: "Early Bird—Regular"
     price: "50"
     priceCurrency: "EUR"
     ticketsNumber: "40"
-    buyButtonLink: "http://dfua.ticketforevent.com/"
+    buyButtonLink: "#"
     buyButtonText: "Buy Now"
     validFrom: "2022-06-01T10:00"
     validThrough: "2022-07-01T23:59"
+    disabled: true
 
   - name: "Student"
     price: "35"
     priceCurrency: "EUR"
     ticketsNumber: "20"
     featured: true
-    buyButtonLink: "http://dfua.ticketforevent.com/"
+    buyButtonLink: "#"
     buyButtonText: "Buy Now"
     additionalInfo: "Requires a sending a valid student ID after purchasing the ticket."
     validFrom: "2022-07-01T00:00"
@@ -150,7 +128,7 @@ ticketsOffers:
     priceCurrency: "EUR"
     ticketsNumber: "40"
     featured: true
-    buyButtonLink: "http://dfua.ticketforevent.com/"
+    buyButtonLink: "#"
     buyButtonText: "Buy Now"
     validFrom: "2022-07-01T00:00"
     validThrough: "2022-07-15T23:59"
@@ -170,61 +148,11 @@ footerBlocks:
     links:
       - { permalink: "/cod/", text: "Code of Conduct" }
 
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
-
 # Speakers List Block
 showSessions: true
 
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "We are a team of volunteers that will be at the event to help you with anything you need."
+# About the Event Block
+aboutEvent: If you need more information please feel free to contact using this email address <a href='mailto:secretariat@iknowd.org'>secretariat@iknowd.org</a>.
 
 # Agenda Block
 aboutAgenda: <b>Note:</b> This will be a 5-day workshop starting from July 18. The following is the tentative agenda for the workshop.
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
-  - { title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.' }
-  - { title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.' }
-  - { title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.' }
-directionDetailsWideCards:
-  - title: "Questions?"
-    subCards:
-      - title: "Hotels"
-        links:
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio" }
-      - title: "Registration"
-        links:
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio" }
-      - title: "Attendance Details"
-        links:
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street" }
-          - { link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio" }
-
-# Hackathon
-enableHackathon: False

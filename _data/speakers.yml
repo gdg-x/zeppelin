@@ -1,3 +1,14 @@
+- id: 99
+  name: "Invited"
+  surname: "Speaker"
+  company: "TBD"
+  title: "TBD"
+  bio: 'TBD'
+  thumbnailUrl: unknown.png
+  rockstar: true
+  is_speaker: true
+  team: false
+
 - id: 1
   name: "Prof. Morgado"
   surname: "Dias (Ph.D.)"
@@ -21,7 +32,7 @@
   team: true
 
 - id: 3
-  name: "Sheikh Shanawaz"
+  name: "Sheikh"
   surname: "Mostafa (Ph.D.)"
   company: "Interactive Technologies Institute (ITI/LARSyS)"
   title: "Postdoctoral Researcher"
@@ -56,17 +67,6 @@
     - { name: "site", link: "https://diogo-freitas.xyz/" }
   is_speaker: true
   team: true
-
-- id: 6
-  name: "Mário"
-  surname: "Figueiredo (Ph.D.)"
-  company: "Instituto Superior Técnico, Universidade de Lisboa"
-  title: "Distinguished Professor"
-  bio: 'Experienced Professor with a demonstrated history of working in higher education and academic research. Skilled in Signal and Image Processing, Statistics, Machine Learning, Information Theory, Optimization.'
-  thumbnailUrl: mario_figueiredo.jpg
-  rockstar: true
-  is_speaker: true
-  team: false
 
 - id: 7
   name: "Luiz"

@@ -1,9 +1,6 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutAgenda }}</p>
-        </div>
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -81,6 +78,9 @@
             {% endfor %}
         </div>
         {% endfor %}
+        <div class="col-lg-10 col-lg-offset-1">
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutAgenda }}</p>
+        </div>
     </div>
 </section>
 <!-- End Schedule Section -->

@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+            <h1>{{ heroText[0] }}</h1>
             <p>{{ site.eventDate }}</p>
             <br><br><br>
             {% for button in site.heroButtons %}
