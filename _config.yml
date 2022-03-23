@@ -29,7 +29,8 @@ metaKeywords: "event, programming, developers, machine learning, tensorflow, mml
 # Navigation
 navigationLinks:
   - { permalink: "/", text: "Home" }
-  - { permalink: "/about-event/", text: "About the event" }
+  - { permalink: "/about-workshop/", text: "Workshop" }
+  - { permalink: "/about-company-day/", text: "Company day" }
   - { permalink: "/schedule/", text: "Schedule" }
   - { permalink: "/speakers/", text: "Speakers" }
   - { permalink: "/team/", text: "Team" }
@@ -42,15 +43,18 @@ eventDate: "Madeira Tecnopolo, 18–22 July, 2022"
 typeoutTextValues: ''
 typeoutFallback: "Season"
 heroButtons:
-  - { permalink: "/companyday", text: "COMPANY DAY",type: "primary" }
+  - { permalink: "/about-company-day", text: "COMPANY DAY",type: "primary" }
   - { permalink: "/#tickets", text: "REGISTRATION", type: "success" }
 
-# About Block
-aboutTitle: "About the event"
+# About workshop Block
+aboutTitle: "About the workshop"
 aboutBlock:
   - { title: "Workshop", image: "workshop.jpg", text: "This workshop is designed to show the basic steps needed to start Machine Learning with Python." }
   - { title: "Talks", image: "talks.jpg", text: "We will have fascinating talks about AI given by a top researcher and a developer advocate at Google." }
   - { title: "Company Exhibition", image: "companies.jpg", text: "We will have a company exhibition, where you can get in touch with current technologies, make new contacts and eventually apply for job offers." }
+
+# About workshop Block
+aboutCompany: "About the Company Day"
 
 # Mission Block
 missionTitle: "Mission"

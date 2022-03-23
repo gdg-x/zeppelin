@@ -1,0 +1,18 @@
+<!-- Begin About Company Day-->
+<section id="about-event" class="blog">
+    <div class="content-wrapper text-left">
+        <div class="col-lg-12 col-md-11 col-md-offset-1">
+            <div class="col-lg-8 col-md-10 col-xs-12">
+                {% for question in site.data.questions-answers-company-day %}
+                <div class="col-md-12 animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
+                    <article class="row post">
+                        <h4>{{ question.title }}</h4>
+                        <p class="post-body">{{ question.content }}</p>
+                    </article>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End About Company Day -->
