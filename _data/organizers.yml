@@ -4,5 +4,8 @@
 - group: "Co-organizers"
   elements:
     - { name: "UMa", description: "University of Madeira", link: "https://www.uma.pt", imageUrl: "uma-logo.png" }
-    - { name: "ARDITI", description: "Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação", link: "https://www.arditi.pt", imageUrl: "arditi-logo.jpg" }
     - { name: "ITI", description: "Interactive Technologies Institute ", link: "https://iti.larsys.pt", imageUrl: "iti-logo.png" }
+- group: "Institutional Support"
+  elements:
+    - { name: "ARDITI", description: "Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação", link: "https://www.arditi.pt", imageUrl: "arditi-logo.jpg" }
+    - { name: "Startup Madeira", description: "Startup Madeira is a business incubator located at Madeira Island. We offer business support to Madeira Island based companies. Startup Madeira is part of the European network of business and innovation centers. This network that is supported by EBN and based in Brussels, has more than 160 BIC’s spread across 28 European Union countries.", link: "https://startupmadeira.eu", imageUrl: "startup-logo.png", width: "200px" }
