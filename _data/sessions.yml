@@ -135,7 +135,7 @@
 
 
 - id: 018
-  title: "Talk"
+  title: "Talk <small>(Google speaker)</small>"
   description: "Talk"
   subtype: presentation
   speakers: [ 7 ]
