@@ -3,6 +3,8 @@
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
             {% for partner in site.data.partners %}
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% assign check = forloop.index | modulo:2 %}
             <h3>{{ partner.group }}</h3>
                 {% for element in partner.elements %}
                 <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">

@@ -1,0 +1,31 @@
+- imagePath: "sections-background/hero.jpg"
+  description: 'Photo by <a href="https://unsplash.com/@possessedphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Possessed Photography</a> on <a href="https://unsplash.com/s/visual/a84f54e5-9867-4d62-8d5c-71eecef7567c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/rDxP1tF3CmA"
+- imagePath: "about-section/workshop.jpg"
+  description: 'Photo by <a href="https://unsplash.com/@marvelous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marvin Meyer</a> on <a href="https://unsplash.com/s/visual/791d0ed9-050b-4d34-9da7-514f8e2dcabe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/SYTO3xs06fU"
+- imagePath: "about-section/talks.jpg"
+  description: 'Photo by <a href="https://unsplash.com/@xteemu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Teemu Paananen</a> on <a href="https://unsplash.com/s/visual/95d26497-646d-4557-afd2-5fd15341c294?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/bzdhc5b3Bxs"
+- imagePath: "about-section/companies.jpg"
+  description: 'Photo by <a href="https://unsplash.com/@supergios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonny Gios</a> on <a href="https://unsplash.com/s/visual/92b1628e-2ab7-4cf7-a66c-747547b5a886?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/8wKTIZ1KEzY"
+- imagePath: "sections-background/statistic.jpg"
+  description: 'Photo by <a href="https://unsplash.com/@hishahadat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shahadat Rahman</a> on <a href="https://unsplash.com/s/photos/programming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/BfrQnKBulYQ"
+- imagePath: "sections-background/featured-speakers.jpg"
+  description: 'Photo by <a href="https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Campaign Creators</a> on <a href="https://unsplash.com/s/visual/ff8aaaf0-ed89-4d7c-a04b-4c503b8202b5?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/gMsnXqILjp4"
+- imagePath: "sections-background/schedule.png"
+  description: 'Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/visual/3ab43a90-0fe2-4913-95b3-9927ce5d72f3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/wD1LRb9OeEo"
+- imagePath: "sections-background/team.png"
+  description: 'Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannah Busing</a> on <a href="https://unsplash.com/s/visual/036f0233-8d44-436c-84e9-71560acc50f3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/Zyx1bK9mqmA"
+- imagePath: "sections-background/sponsors.png"
+  description: 'Photo by <a href="https://unsplash.com/@rockstaar_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rock Staar</a> on <a href="https://unsplash.com/s/photos/handshake?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/NzIV4vOBA7s"
+- imagePath: "sections-background/copyright.jpg"
+  description: 'Photo by <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Scott Graham</a> on <a href="https://unsplash.com/s/photos/law?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  link: "https://unsplash.com/photos/OQMZwNd3ThU"
+

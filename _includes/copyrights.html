@@ -1,0 +1,24 @@
+<!-- Begin Copyrights Section -->
+<section id="about-hackathon" class="about-hackathon">
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2">
+            {% for copyright in site.data.copyrights %}
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% assign check = forloop.index | modulo:2 %}
+            {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+            <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
+                <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
+                    <img class="img-responsive" src="{{ site.baseurl }}/img/{{ copyright.imagePath }}">
+                </div>
+                <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
+                    <h4>Image {{ forloop.index }}</h4>
+                    <p class="text-muted">Site: <a href="{{ copyright.link }}" target="_blank">{{ copyright.link }}</a> </p>
+                    <p>{{ copyright.description }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Copyrights Section -->
+

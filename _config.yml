@@ -54,7 +54,7 @@ aboutBlock:
   - { title: "Company Exhibition", image: "companies.jpg", text: "We will have a company exhibition, where you can get in touch with current technologies, make new contacts and eventually apply for job offers." }
 
 # About workshop Block
-aboutCompany: "About the Company Day"
+aboutCompany: "Company day"
 
 # Mission Block
 missionTitle: "Mission"
@@ -89,6 +89,9 @@ venueFeatures: [ "– Accessible rooms", "– Bar and restaurant available", "�
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
+
+# Copyright block
+copyrightTitle: "Image copyrights"
 
 # Tickets Block
 ticketsTitle: "Registration Fees"
@@ -151,6 +154,7 @@ footerBlocks:
   - title: "Other information"
     links:
       - { permalink: "/cod/", text: "Code of Conduct" }
+      - { permalink: "/copyrights/", text: "Image copyrights" }
 
 # Speakers List Block
 showSessions: true
