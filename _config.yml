@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "BSides Halifax Quarantine Edition"
 email: "info@bsideshalifax.ca"
 description: "BSides is a community-driven framework for building events for and by information security community members."
-baseurl: "/zepplin"
+baseurl: ""
 url: "https://bsideshalifax.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-165605284-1"
