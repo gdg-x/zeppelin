@@ -50,28 +50,28 @@
 #   thumbnailUrl: anonymous-2821433.jpg
 #   team: true
 
--
-  id: 5
-  name: "Stephen"
-  surname: ""
-  title: "Copywriter and Green Room"
-  thumbnailUrl: stephen.jpg
-  subTeam: true
+#-
+  #id: 5
+  #name: "Stephen"
+  #surname: ""
+  #title: "Copywriter and Green Room"
+  #thumbnailUrl: stephen.jpg
+  #subTeam: true
 
--
-  id: 6
-  name: "Andrew"
-  surname: "Arsenault"
-  title: "Moderator"
-  thumbnailUrl: andrew.jpg
-  subTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/aarsenault1984"}
+#-
+  #id: 6
+  #name: "Andrew"
+  #surname: "Arsenault"
+  #title: "Moderator"
+  #thumbnailUrl: andrew.jpg
+  #subTeam: true
+  #social:
+    #- {name: "twitter", link: "https://twitter.com/aarsenault1984"}
 
--
-  id: 7
-  name: "Mary"
-  surname: ""
-  title: "Green Room"
-  thumbnailUrl: mary.jpeg
-  subTeam: true
+#-
+  #id: 7
+  #name: "Mary"
+  #surname: ""
+  #title: "Green Room"
+  #thumbnailUrl: mary.jpeg
+  #subTeam: true
