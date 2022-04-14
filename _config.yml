@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "BSides Halifax Quarantine Edition"
-email: "info@bsideshalifax.ca"
+email: "info@halifaxbsides.ca"
 description: "BSides is a community-driven framework for building events for and by information security community members."
 baseurl: ""
-url: "https://bsideshalifax.github.io"
+url: "https://halifaxbsides.ca"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-165605284-1"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -24,9 +24,9 @@ siteVerification: "U2vM0e028DKxBzX3zvCNmR2ZQk31oXU5asShWbU3Oqg"
 organizerName: "BSides Halifax"
 organizerAlternateName: "Halifax BSides"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Cyber Security with passion."
-organizerEmail: "info@bsideshalifax.ca"
+organizerEmail: "info@halifaxbsides.ca"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://bsideshalifax.ca"
+organizerLink: "https://halifaxbsides.ca"
 
 # Head
 metaKeywords: "event, BSides, Halifax, Cyber, Security, infosec"
