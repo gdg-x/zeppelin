@@ -55,8 +55,8 @@ heroTitle: "BSides Halifax 2021"
 eventDate: "Friday June 18, 2021 9AM (AST)"
 typeoutTextValues: '"", "Virtual", "Quarantine Edition", "Stay The Blazes Home", "Donair Bonanza"'
 typeoutFallback: "Virtual"
-heroButtons:
-- {permalink: "/#tickets", text: "Buy tickets"}
+#heroButtons:
+#- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About BSides Halifax"
