@@ -1,82 +1,82 @@
--
-  id: 001
-  title: "KeyNote: The power of storytelling: transforming cybersecurity awareness into action."
-  speakers: [1]
-  language: en
-  description: "It’s 2021 and with major cyber-attacks capturing headlines daily, cybersecurity awareness isn’t our number one challenge anymore as cybersecurity professionals. We’ve never been more aware across society that cybersecurity is an issue. While everyone in security deserves a well-earned congratulations for the work we’ve done to raise awareness, a greater challenge has now presented itself: moving from awareness to care-ness and get people to not just know that security is an issue, but to change individual and organizational behaviours. <br />During this keynote presentation, Beauceron CEO David Shipley will talk about the critical importance of leveraging storytelling as a framework to educate and to motivate. He’ll provide examples and a framework for how this practice can be used to move awareness programs into effective behaviour change initiatives that can tangibly reduce cyber risk in organizations. "
+#-
+  #id: 001
+  #title: "KeyNote: The power of storytelling: transforming cybersecurity awareness into action."
+  #speakers: [1]
+  #language: en
+  #description: "It’s 2021 and with major cyber-attacks capturing headlines daily, cybersecurity awareness isn’t our number one challenge anymore as cybersecurity professionals. We’ve never been more aware across society that cybersecurity is an issue. While everyone in security deserves a well-earned congratulations for the work we’ve done to raise awareness, a greater challenge has now presented itself: moving from awareness to care-ness and get people to not just know that security is an issue, but to change individual and organizational behaviours. <br />During this keynote presentation, Beauceron CEO David Shipley will talk about the critical importance of leveraging storytelling as a framework to educate and to motivate. He’ll provide examples and a framework for how this practice can be used to move awareness programs into effective behaviour change initiatives that can tangibly reduce cyber risk in organizations. "
 
--
-  id: 002
-  title: "Growing Female Talent in Security"
-  description: "Dinah Davis originally planned to become a math teacher at the suggestion of her high school guidance counsellor, because that's what girls who are good at math do right?! By the end of her second year she discovered that she loved mathematics more than her desire to teach children. In her third year of university she took her first computing course and felt she found her calling. Software development felt like a natural progression for her mathematically trained mind. A year later she worked for the Canadian Security Establishment as a coop and discovered cryptography which lead her to an MMath in Cryptography from the University of Waterloo.  She landed a dream job working on BlackBerry's security development team for 8 years.  Why do you care? Because this story is not unique. Many women in security have found there way there through trial and error. This talk dives into the current state of women in security and what we need to do as a community to help more women find this amazing career. "
-  speakers: [4]
-  language: en
+#-
+  #id: 002
+  #title: "Growing Female Talent in Security"
+  #description: "Dinah Davis originally planned to become a math teacher at the suggestion of her high school guidance counsellor, because that's what girls who are good at math do right?! By the end of her second year she discovered that she loved mathematics more than her desire to teach children. In her third year of university she took her first computing course and felt she found her calling. Software development felt like a natural progression for her mathematically trained mind. A year later she worked for the Canadian Security Establishment as a coop and discovered cryptography which lead her to an MMath in Cryptography from the University of Waterloo.  She landed a dream job working on BlackBerry's security development team for 8 years.  Why do you care? Because this story is not unique. Many women in security have found there way there through trial and error. This talk dives into the current state of women in security and what we need to do as a community to help more women find this amazing career. "
+  #speakers: [4]
+  #language: en
 
--
-  id: 003
-  title: "Security BSides, Past, Present, and Future"
-  description: "In this talk Jack will take a look back at the beginnings and rapid growth of the Security BSides movement, discuss the current state of BSides and the impact the pandemic has had on BSides and our communities, and take a quick glance into a crystal ball to see what the future may bring. "
-  speakers: [6]
-  language: en
+#-
+  #id: 003
+  #title: "Security BSides, Past, Present, and Future"
+  #description: "In this talk Jack will take a look back at the beginnings and rapid growth of the Security BSides movement, discuss the current state of BSides and the impact the pandemic has had on BSides and our communities, and take a quick glance into a crystal ball to see what the future may bring. "
+  #speakers: [6]
+  #language: en
 
--
-  id: 004
-  title: "Hacker Jeopardy"
-  speakers: []
-  language: en
+#-
+  #id: 004
+  #title: "Hacker Jeopardy"
+  #speakers: []
+  #language: en
 
--
-  id: 005
-  title: "Scaling a Security Engagement Program"
-  description: "One of the biggest challenges in InfoSec is getting the fundamentals right consistently. This talk will detail an approach to scaling security in an enterprise organisation across hundreds of software developers, including key points and lessons learned from real-world usage."
-  speakers: [7]
-  language: en
-  subtype: presentation
+#-
+  #id: 005
+  #title: "Scaling a Security Engagement Program"
+  #description: "One of the biggest challenges in InfoSec is getting the fundamentals right consistently. This talk will detail an approach to scaling security in an enterprise organisation across hundreds of software developers, including key points and lessons learned from real-world usage."
+  #speakers: [7]
+  #language: en
+  #subtype: presentation
 
--
-  id: 006
-  title: "Motherland Strike Colonial"
-  description: "Recent attack on Colonial pipeline has “reignited” the discussion around cybersecurity for IT/OT environment. The attack not only demonstrated the adverse effect on daily life of ordinary citizens who lined up for hours outside gas station but also got attention of the United States President. The US President ted that Cybersecurity is now a hot topic in white house with current administration issuing an Executive order on Improving nations cybersecurity on May 12th, 2021.
-This talk will analyze some of the attacks on the IT/OT infrastructure in the past and some more recent one’s especially Colonial pipeline. We present work that has been done so far in protecting the IT/OT infrastructure and how effective some of these frameworks. We will look at how Canada is not immune to such attacks and state of IT/OT cybersecurity in Canada. Finally, we try to present what defenders can do to protect their environment."
-  speakers: [3]
-  language: en
+#-
+  #id: 006
+  #title: "Motherland Strike Colonial"
+  #description: "Recent attack on Colonial pipeline has “reignited” the discussion around cybersecurity for IT/OT environment. The attack not only demonstrated the adverse effect on daily life of ordinary citizens who lined up for hours outside gas station but also got attention of the United States President. The US President ted that Cybersecurity is now a hot topic in white house with current administration issuing an Executive order on Improving nations cybersecurity on May 12th, 2021.
+#This talk will analyze some of the attacks on the IT/OT infrastructure in the past and some more recent one’s especially Colonial pipeline. We present work that has been done so far in protecting the IT/OT infrastructure and how effective some of these frameworks. We will look at how Canada is not immune to such attacks and state of IT/OT cybersecurity in Canada. Finally, we try to present what defenders can do to protect their environment."
+  #speakers: [3]
+  #language: en
 
--
-  id: 007
-  title: "Hacking RF Breaking what we can't see"
-  description: "An often overlooked aspect of security is what happens when information is moving magically from one device to another with no wires. We know this as (usually) Wifi or Bluetooth and any attacks are usually based on these technologies. However when you widen the scope to RF wireless communication, A lot more tools become available. In this talk I will be talking about the attack and doing live demos"
-  speakers: [2]
-  language: en
+#-
+  #id: 007
+  #title: "Hacking RF Breaking what we can't see"
+  #description: "An often overlooked aspect of security is what happens when information is moving magically from one device to another with no wires. We know this as (usually) Wifi or Bluetooth and any attacks are usually based on these technologies. However when you widen the scope to RF wireless communication, A lot more tools become available. In this talk I will be talking about the attack and doing live demos"
+  #speakers: [2]
+  #language: en
 
--
-  id: 008
-  title: "XDR - The Next Gen Strategy Leveraging the MITRE ATT&CK Framework."
-  description: "Malicious actors monitor the threat landscape to uncover the most effective way to target organizations and achieve maximum economic impact. It’s important to be able to detect their activity as early as possible, learn where they’ve been in your organization, and pivot to prevent or disrupt their plans.  Join Trend Miro to see how we’re addressing the current threat landscape, and the tools and approaches we believe can help make a difference for your organization."
-  speakers: [5]
-  language: en
+#-
+  #id: 008
+  #title: "XDR - The Next Gen Strategy Leveraging the MITRE ATT&CK Framework."
+  #description: "Malicious actors monitor the threat landscape to uncover the most effective way to target organizations and achieve maximum economic impact. It’s important to be able to detect their activity as early as possible, learn where they’ve been in your organization, and pivot to prevent or disrupt their plans.  Join Trend Miro to see how we’re addressing the current threat landscape, and the tools and approaches we believe can help make a difference for your organization."
+  #speakers: [5]
+  #language: en
 
--
-  id: 009
-  title: "Trading up a small bug for a big impact : Stealing tokens, emails, files and more in Microsoft Teams through malicious tabs"
-  description: "Not every bug you find is going to be an unauthenticated remote code execution. Sometimes you just find a couple of small issues here and there. In this talk, we'll look at how small bugs, mixed with a bit of creativity, can sometimes lead to large impacts. As a case study, we'll examine how a simple, and seemingly benign input validation issue in Microsoft Power Apps could be used to steal authorization tokens, emails, OneDrive files and more from Microsoft Teams users via malicious tabs. "
-  speakers: [8]
-  language: en
+#-
+  #id: 009
+  #title: "Trading up a small bug for a big impact : Stealing tokens, emails, files and more in Microsoft Teams through malicious tabs"
+  #description: "Not every bug you find is going to be an unauthenticated remote code execution. Sometimes you just find a couple of small issues here and there. In this talk, we'll look at how small bugs, mixed with a bit of creativity, can sometimes lead to large impacts. As a case study, we'll examine how a simple, and seemingly benign input validation issue in Microsoft Power Apps could be used to steal authorization tokens, emails, OneDrive files and more from Microsoft Teams users via malicious tabs. "
+  #speakers: [8]
+  #language: en
 
--
-  id: 010
-  title: "Closing Keynote: From napkin to company - An Edge Micro-segmentation story"
-  description: "This is the story that led to building our Edge Micro-segmentation technology, from Halifax to the world."
-  speakers: [9]
-  language: en
+#-
+  #id: 010
+  #title: "Closing Keynote: From napkin to company - An Edge Micro-segmentation story"
+  #description: "This is the story that led to building our Edge Micro-segmentation technology, from Halifax to the world."
+  #speakers: [9]
+  #language: en
 
--
-  id: 011
-  title: "Opening Message / Secure Coding Introduction"
-  speakers: []
-  language: en
+#-
+  #id: 011
+  #title: "Opening Message / Secure Coding Introduction"
+  #speakers: []
+  #language: en
 
--
-  id: 012
-  title: "Closing Message"
-  speakers: []
-  language: en
+#-
+  #id: 012
+  #title: "Closing Message"
+  #speakers: []
+  #language: en

@@ -1,91 +1,91 @@
--
-  id: 1
-  name: "David"
-  surname: " Shipley"
-  company: "Beauceron Security"
-  title: "Co-Founder and CEO"
-  bio: "David Shipley is the co-founder and CEO of Beauceron Security, an Atlantic Canadian scale-up that serves more than 150 clients across North America and in Europe and provides a new approach to cybersecurity awareness and risk management. Shipley is the former security lead for the University of New Brunswick and developed its incident response, threat intelligence and awareness practices prior to founding Beauceron. He holds a CISM from ISACA."
-  thumbnailUrl: dave.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/davidshipley"}
--
-  id: 2
-  name: "Grant"
-  surname: "Colgan"
-  company: ""
-  title: ""
-  bio: "Grant has been in IT for the past 10 years, the last 5 of which have been in Cyber security. before that he worked with a government body on radio communications, and is a licensed amateur radio operator"
-  thumbnailUrl: grant.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/Brains933"}
--
-  id: 3
-  name: "Sunny"
-  surname: "Jamwal"
-  company: "MNP"
-  title: "Senior Manager"
-  bio: "Sunny Jamwal is a Senior Manager for MNP’s Cyber Security team. With over 10 years of experience, Sunny has extensive knowledge of information security, networking, and related information technologies allowing him to inspect system architectures, identify vulnerabilities, assess risks and recommend safeguards to reduce and mitigate risk to information assets quickly and knowledgeably.<br />Sunny has acted as the primary technical lead and subject matter expert on numerous Cyber Security Assessments for various private and public organizations in government and industries such as retail, finance, insurance, manufacturing, computer, communication, utilities, healthcare, and business services."
-  thumbnailUrl: Sunny.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/browninfosecguy"}
--
-  id: 4
-  name: "Dinah"
-  surname: "Davis"
-  company: "Arctic Wolf Networks"
-  title: "Vice President of Research and Development"
-  bio: "Dinah Davis is Vice President of Research and Development at Arctic Wolf Networks. The work she has done over the last six years has helped the company become the leader in Security Operations as a Service and reach unicorn status (Nov 2020). <br /> Dinah is a big believer in helping connect people to build a better community. For the last three years, she has been running the KW Cybersecurity Meetup, in 2019 she co-founded and ran the CyberCity Conference, and she has been an active mentor is Waterloo chapter of the Founders Institute for the last year. She is also the founder of Code Like a Girl, a publication whose goal is to change society's perception of how women are viewed in technology."
-  thumbnailUrl: dinah.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/Dinah_Davis"}
--
-  id: 5
-  name: "Kent"
-  surname: "Stevens"
-  company: "Trend Micro"
-  title: "Sr. Security Solutions Engineers"
-  bio: "Kent Stevens is Security Solutions Engineer based out of Halifax, NS. He has a passion for cybersecurity through enablement, education and driving awareness. He has experience in a wide area of security and network related technologies across the Small, Medium and Large Enterprises. This experience has given him a broad technical background and understanding of the security requirements of businesses as well as an excellent understanding of the threat landscape. Before coming to Trend Micro, Kent spent time at a Trend Micro client and partner gaining valuable experience by providing security solutions to meet his and his client’s needs."
-  thumbnailUrl: kent.jpg
-  rockstar: true
--
-  id: 6
-  name: "Jack"
-  surname: "Daniel"
-  company: "Security BSides"
-  title: "Co-Founder"
-  bio: "Jack Daniel is the Community Advocate for Tenable, is a co-founder of Security BSides, a community builder, storyteller, technologist, historian, mentor, and security professional. He has over 20 years' experience in network and system administration and security, and has worked in a variety of practitioner and management positions. Jack is a technology community activist, a podcaster, and a frequent speaker at technology and security events. Jack used to put letters after his name but he doesn't anymore; some fell off, others were pushed."
-  thumbnailUrl: jack.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/jack_daniel"}
--
-  id: 7
-  name: "Hayden"
-  surname: "Stephenson"
-  company: "ResMed"
-  title: "Security Engineer"
-  bio: "Hayden is a Security Engineer working with the largest network of connected medical devices in the world. In this role Hayden focuses on establishing solutions that ensure globally distributed teams can easily achieve security fundamentals and best practices. Hayden holds degrees in Bioinformatics, Biomedical Engineering, and holds an active CISSP."
-  thumbnailUrl: hayden.png
-  rockstar: true
--
-  id: 8
-  name: "Evan"
-  surname: "Grant"
-  company: "Tenable"
-  title: "Security Engineer"
-  bio: "Evan is a Staff Research Engineer working with the Zero-Day Research team at Tenable from his home in Halifax. "
-  thumbnailUrl: evan.jpg
-  rockstar: true
--
-  id: 9
-  name: "Matias"
-  surname: "Katz"
-  company: "byos"
-  title: "Chief Executive Officer"
-  bio: "Matias Katz has more than 15 years of cybersecurity experience working at companies like IBM as well as consulting for enterprise and government entities across Latin America. He founded his first cybersecurity firm in 2008 and has been a speaker at industry events like Black Hat USA, TEDx - Argentina, Hack in Paris, Hackers to Hackers, and AtlSecCon. At 24 he wrote his first book entitled “Redes y Seguridad” (Networking and Security), published under the international imprint of Alfaomega Publishing. He has designed academic programs for this discipline in various institutions in Argentina, and trained security professionals around the world as an official CISSP instructor. Currently, Matias works as the founder of Byos, an edge micro-segmentation company dedicated to helping organizations protect themselves from the risk of ubiquitous remote, guest and IoT network connectivity. Byos allows employees, contractors and devices to safely and securely connect to any network, regardless of their location or network environment. The patented Byos solution is a plug-and-play Secure Edge, built to provide secure connectivity for the remote/roaming workforce and connected devices."
-  thumbnailUrl: matias.png
-  rockstar: true
+#-
+  #id: 1
+  #name: "David"
+  #surname: " Shipley"
+  #company: "Beauceron Security"
+  #title: "Co-Founder and CEO"
+  #bio: "David Shipley is the co-founder and CEO of Beauceron Security, an Atlantic Canadian scale-up that serves more than 150 clients across North America and in Europe and provides a new approach to cybersecurity awareness and risk management. Shipley is the former security lead for the University of New Brunswick and developed its incident response, threat intelligence and awareness practices prior to founding Beauceron. He holds a CISM from ISACA."
+  #thumbnailUrl: dave.jpg
+  #rockstar: true
+  #social:
+    #- {name: "twitter", link: "https://twitter.com/davidshipley"}
+#-
+  #id: 2
+  #name: "Grant"
+  #surname: "Colgan"
+  #company: ""
+  #title: ""
+  #bio: "Grant has been in IT for the past 10 years, the last 5 of which have been in Cyber security. before that he worked with a government body on radio communications, and is a licensed amateur radio operator"
+  #thumbnailUrl: grant.jpg
+  #rockstar: true
+  #social:
+    #- {name: "twitter", link: "https://twitter.com/Brains933"}
+#-
+  #id: 3
+  #name: "Sunny"
+  #surname: "Jamwal"
+  #company: "MNP"
+  #title: "Senior Manager"
+  #bio: "Sunny Jamwal is a Senior Manager for MNP’s Cyber Security team. With over 10 years of experience, Sunny has extensive knowledge of information security, networking, and related information technologies allowing him to inspect system architectures, identify vulnerabilities, assess risks and recommend safeguards to reduce and mitigate risk to information assets quickly and knowledgeably.<br />Sunny has acted as the primary technical lead and subject matter expert on numerous Cyber Security Assessments for various private and public organizations in government and industries such as retail, finance, insurance, manufacturing, computer, communication, utilities, healthcare, and business services."
+  #thumbnailUrl: Sunny.jpg
+  #rockstar: true
+  #social:
+    #- {name: "twitter", link: "https://twitter.com/browninfosecguy"}
+#-
+  #id: 4
+  #name: "Dinah"
+  #surname: "Davis"
+  #company: "Arctic Wolf Networks"
+  #title: "Vice President of Research and Development"
+  #bio: "Dinah Davis is Vice President of Research and Development at Arctic Wolf Networks. The work she has done over the last six years has helped the company become the leader in Security Operations as a Service and reach unicorn status (Nov 2020). <br /> Dinah is a big believer in helping connect people to build a better community. For the last three years, she has been running the KW Cybersecurity Meetup, in 2019 she co-founded and ran the CyberCity Conference, and she has been an active mentor is Waterloo chapter of the Founders Institute for the last year. She is also the founder of Code Like a Girl, a publication whose goal is to change society's perception of how women are viewed in technology."
+  #thumbnailUrl: dinah.jpeg
+  #rockstar: true
+  #social:
+    #- {name: "twitter", link: "https://twitter.com/Dinah_Davis"}
+#-
+  #id: 5
+  #name: "Kent"
+  #surname: "Stevens"
+  #company: "Trend Micro"
+  #title: "Sr. Security Solutions Engineers"
+  #bio: "Kent Stevens is Security Solutions Engineer based out of Halifax, NS. He has a passion for cybersecurity through enablement, education and driving awareness. He has experience in a wide area of security and network related technologies across the Small, Medium and Large Enterprises. This experience has given him a broad technical background and understanding of the security requirements of businesses as well as an excellent understanding of the threat landscape. Before coming to Trend Micro, Kent spent time at a Trend Micro client and partner gaining valuable experience by providing security solutions to meet his and his client’s needs."
+  #thumbnailUrl: kent.jpg
+  #rockstar: true
+#-
+  #id: 6
+  #name: "Jack"
+  #surname: "Daniel"
+  #company: "Security BSides"
+  #title: "Co-Founder"
+  #bio: "Jack Daniel is the Community Advocate for Tenable, is a co-founder of Security BSides, a community builder, storyteller, technologist, historian, mentor, and security professional. He has over 20 years' experience in network and system administration and security, and has worked in a variety of practitioner and management positions. Jack is a technology community activist, a podcaster, and a frequent speaker at technology and security events. Jack used to put letters after his name but he doesn't anymore; some fell off, others were pushed."
+  #thumbnailUrl: jack.jpg
+  #rockstar: true
+  #social:
+    #- {name: "twitter", link: "https://twitter.com/jack_daniel"}
+#-
+  #id: 7
+  #name: "Hayden"
+  #surname: "Stephenson"
+  #company: "ResMed"
+  #title: "Security Engineer"
+  #bio: "Hayden is a Security Engineer working with the largest network of connected medical devices in the world. In this role Hayden focuses on establishing solutions that ensure globally distributed teams can easily achieve security fundamentals and best practices. Hayden holds degrees in Bioinformatics, Biomedical Engineering, and holds an active CISSP."
+  #thumbnailUrl: hayden.png
+  #rockstar: true
+#-
+  #id: 8
+  #name: "Evan"
+  #surname: "Grant"
+  #company: "Tenable"
+  #title: "Security Engineer"
+  #bio: "Evan is a Staff Research Engineer working with the Zero-Day Research team at Tenable from his home in Halifax. "
+  #thumbnailUrl: evan.jpg
+  #rockstar: true
+#-
+  #id: 9
+  #name: "Matias"
+  #surname: "Katz"
+  #company: "byos"
+  #title: "Chief Executive Officer"
+  #bio: "Matias Katz has more than 15 years of cybersecurity experience working at companies like IBM as well as consulting for enterprise and government entities across Latin America. He founded his first cybersecurity firm in 2008 and has been a speaker at industry events like Black Hat USA, TEDx - Argentina, Hack in Paris, Hackers to Hackers, and AtlSecCon. At 24 he wrote his first book entitled “Redes y Seguridad” (Networking and Security), published under the international imprint of Alfaomega Publishing. He has designed academic programs for this discipline in various institutions in Argentina, and trained security professionals around the world as an official CISSP instructor. Currently, Matias works as the founder of Byos, an edge micro-segmentation company dedicated to helping organizations protect themselves from the risk of ubiquitous remote, guest and IoT network connectivity. Byos allows employees, contractors and devices to safely and securely connect to any network, regardless of their location or network environment. The patented Byos solution is a plug-and-play Secure Edge, built to provide secure connectivity for the remote/roaming workforce and connected devices."
+  #thumbnailUrl: matias.png
+  #rockstar: true

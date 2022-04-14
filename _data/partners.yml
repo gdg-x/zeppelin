@@ -1,22 +1,22 @@
--
-  group: "Secure Coding Challange"
-  elements:
-    - {name: "Secure Code Warrior", description: "", link: "https://www.securecodewarrior.com/", imageUrl: "scw.png", width: "300px"}
+#-
+  #group: "Secure Coding Challange"
+  #elements:
+    #- {name: "Secure Code Warrior", description: "", link: "https://www.securecodewarrior.com/", imageUrl: "scw.png", width: "300px"}
 
--
-  group: "Sponsors"
-  elements:
-    - {name: "Arctic Wolf", description: "The Leader in Security Operations", link: "https://arcticwolf.com/", imageUrl: "arcticwolf.png", width: "300px"}
-    - {name: "Beauceron Security", description: "Beauceron's turnkey automation simplifies tasks such as syncing user accounts, assigning awareness and education modules and generating reports for leaders, management or industry regulators. This frees up security awareness practitioner time to focus on what matters most: engaging with your community. Measurable, automated, behaviour change.", link: "https://www.beauceronsecurity.com/", imageUrl: "beauceron.png", width: "300px"}
-    - {name: "BOYS", description: "Endpoint security for mobile employees and connected devices.", link: "https://byos.io/", imageUrl: "BYOS.png", width: "300px"}
-    - {name: "Jonathan Pulsifer", description: "", link: "https://pulsifer.ca/", imageUrl: "pulsifer.png", width: "300px"}
-    - {name: "TryHackMe", description: "", link: "https://tryhackme.com", imageUrl: "thm.png", width: "300px"}
-    - {name: "Sparrows Lock Picks", description: "", link: "https://www.sparrowslockpicks.ca/", imageUrl: "sparrows.jpg", width: "300px"}
-    - {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
-    - {name: "Resmed", description: "", link: "https://www.resmed.com/", imageUrl: "resmed.jpeg", width: "300px"}
-    - {name: "no starch press", description: "", link: "https://nostarch.com/", imageUrl: "nostarch.png", width: "300px"}
-    - {name: "Offensive Security", description: "", link: "https://www.offensive-security.com/", imageUrl: "offsec.png", width: "300px"}
-    - {name: "Hak5", description: "", link: "https://hak5.org/", imageUrl: "hak5.png", width: "300px"}
-    - {name: "TrendMicro", description: "", link: "https://www.trendmicro.com/", imageUrl: "trendmicro.png", width: "300px"}
-    - {name: "IMP", description: "", link: "https://www.impsolutions.com", imageUrl: "imp.png", width: "300px"}
-    - {name: "Resulta", description: "", link: "https://resulta.com", imageUrl: "resulta.png", width: "300px"}
+#-
+  #group: "Sponsors"
+  #elements:
+    #- {name: "Arctic Wolf", description: "The Leader in Security Operations", link: "https://arcticwolf.com/", imageUrl: "arcticwolf.png", width: "300px"}
+    #- {name: "Beauceron Security", description: "Beauceron's turnkey automation simplifies tasks such as syncing user accounts, assigning awareness and education modules and generating reports for leaders, management or industry regulators. This frees up security awareness practitioner time to focus on what matters most: engaging with your community. Measurable, automated, behaviour change.", link: "https://www.beauceronsecurity.com/", imageUrl: "beauceron.png", width: "300px"}
+    #- {name: "BOYS", description: "Endpoint security for mobile employees and connected devices.", link: "https://byos.io/", imageUrl: "BYOS.png", width: "300px"}
+    #- {name: "Jonathan Pulsifer", description: "", link: "https://pulsifer.ca/", imageUrl: "pulsifer.png", width: "300px"}
+    #- {name: "TryHackMe", description: "", link: "https://tryhackme.com", imageUrl: "thm.png", width: "300px"}
+    #- {name: "Sparrows Lock Picks", description: "", link: "https://www.sparrowslockpicks.ca/", imageUrl: "sparrows.jpg", width: "300px"}
+    #- {name: "Security Innovation", description: "Security Innovation solves software security from every angle: whether fix-driven assessments or novel training to learn & never forget, we make risk reduction a reality.", link: "https://www.securityinnovation.com/", imageUrl: "si.svg", width: "200px"}
+    #- {name: "Resmed", description: "", link: "https://www.resmed.com/", imageUrl: "resmed.jpeg", width: "300px"}
+    #- {name: "no starch press", description: "", link: "https://nostarch.com/", imageUrl: "nostarch.png", width: "300px"}
+    #- {name: "Offensive Security", description: "", link: "https://www.offensive-security.com/", imageUrl: "offsec.png", width: "300px"}
+    #- {name: "Hak5", description: "", link: "https://hak5.org/", imageUrl: "hak5.png", width: "300px"}
+    #- {name: "TrendMicro", description: "", link: "https://www.trendmicro.com/", imageUrl: "trendmicro.png", width: "300px"}
+    #- {name: "IMP", description: "", link: "https://www.impsolutions.com", imageUrl: "imp.png", width: "300px"}
+    #- {name: "Resulta", description: "", link: "https://resulta.com", imageUrl: "resulta.png", width: "300px"}
