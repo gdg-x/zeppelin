@@ -53,24 +53,19 @@ bottomNavigationLinks:
 heroImage: "halifax.jpg"
 heroTitle: "BSides Halifax 2022"
 eventDate: "July, 2022"
-typeoutTextValues: '""'
+typeoutTextValues: '"now with more pants", "IRL", "now in 3D"'
 typeoutFallback: ""
    #heroButtons:
    #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-#aboutTitle: "About BSides Halifax"
-#aboutBlock:
- #- {
-    #title: "Conference",
-    #image: "conference.jpg",
-    #text: "
-    #<p>Hello from Halifax, the (EDIT: former) great oasis against coronavirus!</p>
-    #<p>We are again hosting our BSides Halifax infosec conference entirely online, and we'd really like you to attend.</p>
-    #<p>Hopefully, this will be your last ever pandemic conference, so it provides a great opportunity to share your lessons learned over the past 12 months. Did you learn how to manage your VPN more efficiently at high load, or discover a new MDM solution you think everyone should be using? We want to hear about it.</p>
-    #<p>The conference will be held on June 18th at https://BSidesHalifax.ca, and is accessible via laptop, tablet, phone, and whatever other sanitized devices have been made available to your quarantine facility.</p>
-    #"
-#}
+aboutTitle: "About BSides Halifax"
+aboutBlock:
+ - {
+    title: "Conference",
+    image: "conference.jpg",
+    text: "Like a VIM session, BSides Halifax just can't quit, now our third year running and this time with 100% more pants, BSides Halifax is back and in person! Stay tuned for more information coming soon."
+}
 
 ## Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -85,10 +80,10 @@ typeoutFallback: ""
 #rockstarSpeakersTitle: "Rockstar speakers"
 #rockstarSpeakersButtonText: "See all speakers"
 
-## Partners Block
-#organizersTitle: "Organizers"
-#partnersTitle: "Partners"
-#partnersC4sponsorsButton: "Become a sponsor"
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
 
 ## Tickets Block
 #ticketsTitle: "Tickets"
@@ -106,27 +101,27 @@ typeoutFallback: ""
 ##   validFrom: "2014-08-25T10:00"
 ##   validThrough: "2014-09-30T23:59"
 
-## Footer
-#socialLinks:
- #- {link: "https://twitter.com/intent/user?screen_name=HalifaxBSides", icon: "twitter"}
- #- {link: "https://discord.gg/aGzzj4B", icon: "site"}
- #- {link: "https://github.com/bsideshalifax", icon: "github"}
- #- {permalink: "/feed.xml", icon: "rss"}
-#footerBlocks:
- #-
-  #title: "Links"
-  #links:
-   #- {link: "http://www.securitybsides.com/w/page/12194156/FrontPage", text: "Security BSides", icon: "site"}
-   #- {link: "https://atlseccon.com", text: "Atlantic Security Conference", icon: "site"}
-   #- {link: "https://dc902.ca", text: "DEFCON Halifax", icon: "site"}
- #-
-  #title: "Contacts"
-  #links:
-   #- {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca", icon: "email"}
- #-
-  #title: "Code of Conduct"
-  #links:
-   #- {permalink: "/cod/", text: "Code of Conduct"}
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/intent/user?screen_name=HalifaxBSides", icon: "twitter"}
+ - {link: "https://discord.gg/aGzzj4B", icon: "site"}
+ - {link: "https://github.com/bsideshalifax", icon: "github"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.securitybsides.com/w/page/12194156/FrontPage", text: "Security BSides", icon: "site"}
+   - {link: "https://atlseccon.com", text: "Atlantic Security Conference", icon: "site"}
+   - {link: "https://dc902.ca", text: "DEFCON Halifax", icon: "site"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca", icon: "email"}
+ -
+  title: "Code of Conduct"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 ## Speakers List Block
 #showSessions: false
