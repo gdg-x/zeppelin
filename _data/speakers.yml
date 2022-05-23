@@ -1,14 +1,3 @@
-- id: 99
-  name: "Invited"
-  surname: "Speaker"
-  company: "TBD"
-  title: "TBD"
-  bio: 'TBD'
-  thumbnailUrl: unknown.png
-  rockstar: true
-  is_speaker: true
-  team: false
-
 - id: 1
   name: "Prof. Morgado"
   surname: "Dias (Ph.D.)"
