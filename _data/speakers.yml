@@ -100,3 +100,14 @@
   rockstar: false
   is_speaker: false
   team: true
+
+- id: 10
+  name: "Andrey E"
+  surname: "Moskvitin"
+  company: "Cloudflare"
+  title: "Senior Cybersecurity Sales Engineer"
+  bio: 'Andrey E Moskvitin is a cybersecurity system sales engineer with 15 years of experience across EMEAR and APAC. He has worked with Microsoft, Cisco, and McAfee and possesses extensive experience and knowledge in security and cloud solutions and market trends. A few certifications under his name include SABSA, CCSP, CISSP, CISA, and CISM. He graduated in Computer Security and Mathematics.'
+  thumbnailUrl: andrey_moskvitin.jpeg
+  rockstar: true
+  is_speaker: true
+  team: false
