@@ -41,6 +41,7 @@ c4sponsorsUrl: "/assets/BSides_HFX_Sponsorship_Kit.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "https://forms.gle/Wpa65azBiQy5NGrG6", text: "Call for Papers"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -51,8 +52,8 @@ bottomNavigationLinks:
 
 # Hero Block
 heroImage: "halifax.jpg"
-heroTitle: "BSides Halifax 2022"
-eventDate: "July, 2022"
+heroTitle: "BSides Halifax 2023"
+eventDate: "may 4th, 2023"
 typeoutTextValues: '"now with more pants", "IRL", "now in 3D"'
 typeoutFallback: ""
    #heroButtons:
