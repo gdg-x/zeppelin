@@ -1,7 +1,7 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "DC902", description: "Making computers uncool again since 2019", link: "https://dc902.ca", imageUrl: "DC902-v2-2-large.png"}
+    - {name: "DC902", description: "Making computers uncool again since 2019", link: "https://www.dc902.ca", imageUrl: "DC902-v2-2-large.png"}
 -
   group: "Co-organizers"
   elements:
