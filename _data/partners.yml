@@ -3,9 +3,9 @@
   #elements:
     #- {name: "Secure Code Warrior", description: "", link: "https://www.securecodewarrior.com/", imageUrl: "scw.png", width: "300px"}
 
-#-
-  #group: "Sponsors"
-  #elements:
+-
+  group: "Sponsors"
+  elements:
     #- {name: "Arctic Wolf", description: "The Leader in Security Operations", link: "https://arcticwolf.com/", imageUrl: "arcticwolf.png", width: "300px"}
     #- {name: "Beauceron Security", description: "Beauceron's turnkey automation simplifies tasks such as syncing user accounts, assigning awareness and education modules and generating reports for leaders, management or industry regulators. This frees up security awareness practitioner time to focus on what matters most: engaging with your community. Measurable, automated, behaviour change.", link: "https://www.beauceronsecurity.com/", imageUrl: "beauceron.png", width: "300px"}
     #- {name: "BOYS", description: "Endpoint security for mobile employees and connected devices.", link: "https://byos.io/", imageUrl: "BYOS.png", width: "300px"}
