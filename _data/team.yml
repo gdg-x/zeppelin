@@ -5,12 +5,6 @@
   title: "Admiral Ass Kicker and Cash Money Manager"
   thumbnailUrl: brad.jpg
   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-#     - {name: "github", link: "https://github.com/zasadnyy"}
-#     - {name: "site", link: "http://zasadnyy.com/"}
 
 -
   id: 1
@@ -31,16 +25,6 @@
 #   team: true
 #   social:
 #     - {name: "twitter", link: "https://twitter.com/kpeori"}
-
-#-
-#  id: 3
-#  name: "Nick"
-#  surname: "Gyorfi"
-#  title: "AtlSecCon Rep and Wrangler of Speakers"
-#  thumbnailUrl: anonymous-2821433.jpg
-#  team: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/nickg902"}
 
 # -
 #   id: 4
@@ -75,3 +59,20 @@
   #title: "Green Room"
   #thumbnailUrl: mary.jpeg
   #subTeam: true
+
+-
+  id: 8
+  name: "Edward"
+  surname: "Ma"
+  title: "Moderator"
+  thumbnailUrl: edma.jpg
+  subTeam: true
+
+-
+  id: 9
+  name: "Robon"
+  title: "Moderator"
+  thumbnailUrl: robon.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/_robon_"}
